@@ -1,10 +1,8 @@
 name: Chimei Daily Brief Generator
 
 on:
-  # 每天 08:30 台灣時間 (CST = UTC+8，所以 UTC 是 00:30)
   schedule:
     - cron: '30 0 * * *'
-  # 也允許手動觸發（測試用）
   workflow_dispatch:
     inputs:
       audience:
@@ -16,36 +14,27 @@ jobs:
   generate-brief:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # 需要推送 HTML 到 gh-pages
+      contents: write
 
     steps:
-      # ── 1. 取得程式碼 ──────────────────────────────────────────
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # ── 2. 設定 Python ─────────────────────────────────────────
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
 
-      # ── 3. 安裝套件 ────────────────────────────────────────────
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
-      # ── 4. 搜尋新聞 + 呼叫 Claude API + 產生 HTML ─────────────
       - name: Generate Daily Brief
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          # 如果有用 NewsAPI，把 key 存在 GitHub Secrets
-          # NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           AUDIENCE: ${{ github.event.inputs.audience || 'executive' }}
-        run: |
-          python scripts/generate_brief.py
+        run: python scripts/generate_brief.py
 
-      # ── 5. 把產生的 index.html 寫回 main 根目錄 ──────────────────
       - name: Commit index.html to main
         run: |
           cp output/index.html index.html
@@ -54,11 +43,3 @@ jobs:
           git add index.html
           git diff --staged --quiet || git commit -m "🏥 Auto-update daily brief $(date '+%Y-%m-%d')"
           git push
-
-      # ── 6. （選用）通知 Slack / Teams / Line Notify ───────────
-      # - name: Notify team
-      #   if: success()
-      #   run: |
-      #     curl -X POST ${{ secrets.SLACK_WEBHOOK }} \
-      #       -H 'Content-type: application/json' \
-      #       -d '{"text":"✅ 今日電子報已更新：https://yourorg.github.io/daily-brief/"}'
