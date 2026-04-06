@@ -45,14 +45,15 @@ jobs:
         run: |
           python scripts/generate_brief.py
 
-      # ── 5. 推送 HTML 到 gh-pages 分支（官網） ──────────────────
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output        # generate_brief.py 的輸出目錄
-          destination_dir: daily-brief # 網址路徑：yoursite.github.io/daily-brief/
-          commit_message: '🏥 Auto-update daily brief ${{ env.TODAY }}'
+      # ── 5. 把產生的 index.html 寫回 main 根目錄 ──────────────────
+      - name: Commit index.html to main
+        run: |
+          cp output/index.html index.html
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git diff --staged --quiet || git commit -m "🏥 Auto-update daily brief $(date '+%Y-%m-%d')"
+          git push
 
       # ── 6. （選用）通知 Slack / Teams / Line Notify ───────────
       # - name: Notify team
