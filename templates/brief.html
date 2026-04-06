@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>奇美 AI Everywhere Brief｜{{ today }}</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Noto Sans TC', 'Microsoft JhengHei', Arial, sans-serif; background: #f0f4f8; color: #1a2535; }
+
+  /* ── 報頭 ── */
+  .header { background: #003366; color: #fff; padding: 28px 40px; }
+  .header h1 { font-size: 1.6rem; letter-spacing: 0.04em; }
+  .header .sub { font-size: 0.95rem; color: #a8c4e0; margin-top: 6px; }
+  .header .date { font-size: 1rem; color: #7ec8f4; margin-top: 4px; }
+
+  /* ── 容器 ── */
+  .container { max-width: 900px; margin: 0 auto; padding: 28px 20px 60px; }
+
+  /* ── 區塊標題 ── */
+  .section-title {
+    font-size: 1.1rem; font-weight: 700; color: #003366;
+    border-left: 4px solid #0077cc; padding-left: 12px;
+    margin: 32px 0 16px; letter-spacing: 0.03em;
+  }
+
+  /* ── 卡片 ── */
+  .card {
+    background: #fff; border-radius: 10px; padding: 20px 24px;
+    margin-bottom: 18px; box-shadow: 0 2px 8px rgba(0,51,102,0.08);
+    border-top: 3px solid #0077cc;
+  }
+  .card.top1 { border-top-color: #c0392b; }
+  .card.top2 { border-top-color: #e67e22; }
+  .card.top3 { border-top-color: #27ae60; }
+
+  /* ── 排名標籤 ── */
+  .card-rank {
+    display: inline-block; font-size: 0.78rem; font-weight: 700;
+    color: #fff; background: #0077cc; border-radius: 4px;
+    padding: 2px 8px; margin-bottom: 8px;
+  }
+  .card.top1 .card-rank { background: #c0392b; }
+  .card.top2 .card-rank { background: #e67e22; }
+  .card.top3 .card-rank { background: #27ae60; }
+
+  /* ── 卡片內容 ── */
+  .card h3 { font-size: 1.05rem; color: #003366; margin-bottom: 10px; line-height: 1.5; }
+  .card .summary { font-size: 0.92rem; color: #2c3e50; line-height: 1.7; margin-bottom: 10px; }
+  .card .impact {
+    font-size: 0.88rem; color: #555; background: #f0f7ff;
+    border-left: 3px solid #0077cc; padding: 7px 12px;
+    border-radius: 4px; margin-bottom: 12px;
+  }
+  .card .meta {
+    display: flex; flex-wrap: wrap; gap: 8px;
+    align-items: center; margin-bottom: 10px; font-size: 0.82rem;
+  }
+
+  /* ── 評分進度條 ── */
+  .score-bar-bg {
+    background: #e9ecef; border-radius: 20px; height: 8px;
+    width: 160px; display: inline-block; vertical-align: middle; margin: 0 8px;
+  }
+  .score-bar-fill {
+    height: 8px; border-radius: 20px;
+    background: linear-gradient(90deg, #0077cc, #00c6ff);
+  }
+
+  /* ── 標籤 ── */
+  .tag { background: #e8f3ff; color: #0055a4; border-radius: 12px; padding: 2px 9px; font-size: 0.78rem; }
+
+  /* ── 作者 / 來源 ── */
+  .author { color: #777; font-size: 0.82rem; }
+  .source-btn {
+    display: inline-block; background: #003366; color: #fff;
+    text-decoration: none; border-radius: 5px; padding: 6px 14px;
+    font-size: 0.82rem; margin-top: 4px; transition: background 0.2s;
+  }
+  .source-btn:hover { background: #0055a4; }
+
+  /* ── Top 3 格線 ── */
+  .top3-grid { display: grid; grid-template-columns: 1fr; gap: 0; }
+  @media (min-width: 680px) {
+    .top3-grid { grid-template-columns: 1fr 1fr 1fr; gap: 16px; }
+    .top3-grid .card { margin-bottom: 0; }
+  }
+
+  /* ── 頁腳 ── */
+  .footer {
+    text-align: center; padding: 30px 20px; color: #888;
+    font-size: 0.82rem; background: #e8eef5; margin-top: 40px;
+  }
+</style>
+</head>
+<body>
+
+<!-- 報頭 -->
+<div class="header">
+  <h1>🧠 奇美 AI Everywhere Brief</h1>
+  <div class="sub">奇美醫療體系 · 醫療 AI 每日情報簡報</div>
+  <div class="date">📅 {{ today }}（{{ weekday }}）｜今日精選 {{ items|length }} 則重點</div>
+</div>
+
+<div class="container">
+
+  <!-- Top 3 -->
+  <div class="section-title">🏆 Top 3 精選亮點</div>
+  <div class="top3-grid">
+    {% for item in items[:3] %}
+    {% set rank_class = ['top1','top2','top3'][loop.index0] %}
+    {% set medal = ['🥇','🥈','🥉'][loop.index0] %}
+    <div class="card {{ rank_class }}">
+      <div class="card-rank">{{ medal }} 第 {{ loop.index }} 名｜{{ item.score }}/10</div>
+      <h3>{{ item.title }}</h3>
+      <div class="summary">{{ item.summary }}</div>
+      <div class="impact">💡 臨床影響：{{ item.impact }}</div>
+      <div class="meta">
+        <span>評分：<span class="score-bar-bg"><span class="score-bar-fill" style="width:{{ (item.score / 10 * 100)|int }}%"></span></span><strong>{{ item.score }}/10</strong></span>
+        {% for tag in item.tags %}
+        <span class="tag">#{{ tag }}</span>
+        {% endfor %}
+      </div>
+      <div class="author">✍️ {{ item.author }}</div>
+      {% if item.source_url %}
+      <br><a class="source-btn" href="{{ item.source_url }}" target="_blank">🔗 原始來源</a>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- 其他新聞 -->
+  {% if items|length > 3 %}
+  <div class="section-title">📰 其他重要新聞</div>
+  {% for item in items[3:] %}
+  <div class="card">
+    <div class="card-rank">第 {{ loop.index + 3 }} 則｜{{ item.score }}/10</div>
+    <h3>{{ item.title }}</h3>
+    <div class="summary">{{ item.summary }}</div>
+    <div class="impact">💡 臨床影響：{{ item.impact }}</div>
+    <div class="meta">
+      <span>評分：<span class="score-bar-bg"><span class="score-bar-fill" style="width:{{ (item.score / 10 * 100)|int }}%"></span></span><strong>{{ item.score }}/10</strong></span>
+      {% for tag in item.tags %}
+      <span class="tag">#{{ tag }}</span>
+      {% endfor %}
+    </div>
+    <div class="author">✍️ {{ item.author }}</div>
+    {% if item.source_url %}
+    <br><a class="source-btn" href="{{ item.source_url }}" target="_blank">🔗 原始來源</a>
+    {% endif %}
+  </div>
+  {% endfor %}
+  {% endif %}
+
+</div>
+
+<!-- 頁腳 -->
+<div class="footer">
+  🧠 奇美醫療AI每日情報｜奇美醫療體系 · AI Everywhere 計畫<br>
+  本簡報由奇美 AI Everywhere 情報代理人自動生成 · {{ today }}
+</div>
+
+</body>
+</html>
