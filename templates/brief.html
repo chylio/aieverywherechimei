@@ -46,9 +46,9 @@
     box-shadow: 0 2px 16px rgba(0,0,0,0.25);
   }
   .header-inner {
-    max-width: 1100px;
+    max-width: 1360px;
     margin: 0 auto;
-    padding: 18px 32px;
+    padding: 22px 40px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -56,11 +56,11 @@
   }
   .logo-area { display: flex; align-items: center; gap: 14px; }
   .logo-icon {
-    width: 44px; height: 44px;
+    width: 52px; height: 52px;
     background: linear-gradient(135deg, var(--accent), var(--teal));
     border-radius: 10px;
     display: flex; align-items: center; justify-content: center;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     flex-shrink: 0;
   }
   .logo-text h1 {
@@ -89,7 +89,7 @@
     padding: 10px 0;
   }
   .breadcrumb-inner {
-    max-width: 1100px;
+    max-width: 1360px;
     margin: 0 auto;
     padding: 0 32px;
     display: flex;
@@ -105,12 +105,12 @@
 
   /* ── LAYOUT ── */
   .layout {
-    max-width: 1100px;
+    max-width: 1360px;
     margin: 0 auto;
-    padding: 32px 24px 80px;
+    padding: 40px 32px 100px;
     display: grid;
-    grid-template-columns: 220px 1fr;
-    gap: 32px;
+    grid-template-columns: 260px 1fr;
+    gap: 40px;
     align-items: start;
   }
 
@@ -129,7 +129,7 @@
     color: #fff;
     font-size: 0.8rem;
     font-weight: 700;
-    padding: 10px 16px;
+    padding: 12px 18px;
     letter-spacing: 0.08em;
     text-transform: uppercase;
   }
@@ -137,7 +137,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 10px 16px;
+    padding: 12px 18px;
     font-size: 0.92rem;
     color: var(--text2);
     text-decoration: none;
@@ -156,7 +156,7 @@
     border-radius: 10px;
   }
   .sidebar-link.active .count { background: var(--accent); color: #fff; }
-  .tag-cloud { padding: 12px 14px; display: flex; flex-wrap: wrap; gap: 7px; }
+  .tag-cloud { padding: 16px 16px; display: flex; flex-wrap: wrap; gap: 7px; }
   .tag-chip {
     font-size: 0.84rem;
     color: var(--accent);
@@ -175,7 +175,7 @@
     background: var(--surface);
     border: 1px solid var(--border);
     border-radius: 12px;
-    padding: 20px 28px;
+    padding: 24px 36px;
     margin-bottom: 16px;
     box-shadow: 0 2px 8px rgba(10,22,40,0.05);
     display: flex;
@@ -224,10 +224,10 @@
     background: var(--surface);
     border: 1px solid var(--border);
     border-top: none;
-    padding: 28px 32px 24px;
+    padding: 34px 40px 30px;
     display: grid;
     grid-template-columns: 40px 1fr;
-    gap: 0 18px;
+    gap: 0 24px;
     transition: background 0.15s, box-shadow 0.15s;
     animation: fadeUp 0.4s ease both;
   }
@@ -241,7 +241,7 @@
 
   .card-num { padding-top: 4px; text-align: center; }
   .num-circle {
-    width: 34px; height: 34px;
+    width: 40px; height: 40px;
     border-radius: 50%;
     background: var(--bg);
     border: 2px solid var(--border);
@@ -254,7 +254,7 @@
   .num-top2 { background: #fff4ec; border-color: var(--orange); color: var(--orange); }
   .num-top3 { background: #edfbf4; border-color: var(--green); color: var(--green); }
 
-  .card-badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; align-items: center; }
+  .card-badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; align-items: center; }
   .badge { font-size: 0.78rem; font-weight: 700; padding: 3px 10px; border-radius: 3px; letter-spacing: 0.04em; }
   .b-top1 { background: var(--red); color: #fff; }
   .b-top2 { background: var(--orange); color: #fff; }
@@ -268,7 +268,7 @@
     font-weight: 700;
     color: var(--navy);
     line-height: 1.55;
-    margin-bottom: 8px;
+    margin-bottom: 10px;
   }
   .card-title a { color: inherit; text-decoration: none; transition: color 0.15s; }
   .article-card:hover .card-title a { color: var(--accent); }
@@ -286,7 +286,7 @@
     color: #1a4070;
     background: linear-gradient(90deg, #dbeeff, #eef5ff);
     border-left: 4px solid var(--accent);
-    padding: 10px 14px;
+    padding: 12px 18px;
     border-radius: 0 8px 8px 0;
     margin-bottom: 12px;
     line-height: 1.75;
@@ -299,7 +299,7 @@
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 8px;
-    padding-top: 12px;
+    padding-top: 16px;
     border-top: 1px solid #f0f4f8;
   }
   .hashtags { display: flex; flex-wrap: wrap; gap: 6px; }
@@ -466,7 +466,7 @@
 
 <footer class="footer">
   <strong>🧠 奇美醫療AI每日情報</strong>｜奇美醫療體系 · AI Everywhere 小組<br>
-  本簡報由奇美 AI Everywhere Agent 自動生成 · {{ today }}
+  本簡報由奇美 AI Everywhere Agent自動生成 · {{ today }}
 </footer>
 
 
