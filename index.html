@@ -4,92 +4,202 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>奇美 AI Everywhere Brief｜2026年04月10日</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
+  /* ── CSS 變數 ── */
+  :root {
+    --blue-dark:  #003366;
+    --blue-mid:   #0055a4;
+    --blue:       #0077cc;
+    --blue-light: #e8f3ff;
+    --gold:       #c0392b;
+    --silver:     #e67e22;
+    --bronze:     #27ae60;
+    --bg:         #f0f4f8;
+    --card-bg:    #ffffff;
+    --text:       #1a2535;
+    --text-muted: #5a6a7e;
+    --shadow:     0 2px 12px rgba(0,51,102,0.10);
+    --shadow-hover: 0 6px 24px rgba(0,51,102,0.16);
+    --radius:     12px;
+    --transition: 0.2s ease;
+  }
+
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: 'Noto Sans TC', 'Microsoft JhengHei', Arial, sans-serif; background: #f0f4f8; color: #1a2535; }
+  body {
+    font-family: 'Noto Sans TC', 'Microsoft JhengHei', Arial, sans-serif;
+    background: var(--bg); color: var(--text);
+    line-height: 1.6;
+  }
 
   /* ── 報頭 ── */
-  .header { background: #003366; color: #fff; padding: 28px 40px; }
-  .header h1 { font-size: 1.6rem; letter-spacing: 0.04em; }
-  .header .sub { font-size: 0.95rem; color: #a8c4e0; margin-top: 6px; }
-  .header .date { font-size: 1rem; color: #7ec8f4; margin-top: 4px; }
+  .header {
+    background: linear-gradient(135deg, #002855 0%, #003f80 60%, #0055a4 100%);
+    color: #fff;
+    padding: 36px 40px 28px;
+    position: relative;
+    overflow: hidden;
+  }
+  .header::after {
+    content: '';
+    position: absolute; right: -60px; top: -60px;
+    width: 240px; height: 240px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.04);
+    pointer-events: none;
+  }
+  .header-inner { max-width: 900px; margin: 0 auto; position: relative; }
+  .header-brand { display: flex; align-items: center; gap: 12px; margin-bottom: 8px; }
+  .header h1 { font-size: 1.65rem; letter-spacing: 0.04em; font-weight: 700; }
+  .header .sub { font-size: 0.92rem; color: #a8c8e8; margin-top: 2px; }
+  .header .date {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 0.9rem; color: #7ec8f4; margin-top: 10px;
+    background: rgba(255,255,255,0.08);
+    padding: 5px 12px; border-radius: 20px;
+  }
+
+  /* ── 統計 Ribbon ── */
+  .stats-ribbon {
+    background: var(--blue-dark);
+    color: #fff;
+    padding: 10px 40px;
+  }
+  .stats-ribbon-inner {
+    max-width: 900px; margin: 0 auto;
+    display: flex; flex-wrap: wrap; gap: 20px;
+    align-items: center; font-size: 0.82rem;
+  }
+  .stats-ribbon .stat-item { display: flex; align-items: center; gap: 6px; color: #a8c8e8; }
+  .stats-ribbon .stat-item strong { color: #fff; }
 
   /* ── 容器 ── */
-  .container { max-width: 900px; margin: 0 auto; padding: 28px 20px 60px; }
+  .container { max-width: 900px; margin: 0 auto; padding: 32px 20px 64px; }
 
   /* ── 區塊標題 ── */
   .section-title {
-    font-size: 1.1rem; font-weight: 700; color: #003366;
-    border-left: 4px solid #0077cc; padding-left: 12px;
-    margin: 32px 0 16px; letter-spacing: 0.03em;
+    font-size: 1.05rem; font-weight: 700; color: var(--blue-dark);
+    border-left: 4px solid var(--blue); padding-left: 14px;
+    margin: 36px 0 18px; letter-spacing: 0.03em;
+    display: flex; align-items: center; gap: 8px;
   }
 
   /* ── 卡片 ── */
   .card {
-    background: #fff; border-radius: 10px; padding: 20px 24px;
-    margin-bottom: 18px; box-shadow: 0 2px 8px rgba(0,51,102,0.08);
-    border-top: 3px solid #0077cc;
+    background: var(--card-bg); border-radius: var(--radius);
+    padding: 22px 26px; margin-bottom: 20px;
+    box-shadow: var(--shadow);
+    border-top: 4px solid var(--blue);
+    transition: transform var(--transition), box-shadow var(--transition);
   }
-  .card.top1 { border-top-color: #c0392b; }
-  .card.top2 { border-top-color: #e67e22; }
-  .card.top3 { border-top-color: #27ae60; }
+  .card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-hover);
+  }
+  .card.top1 { border-top-color: var(--gold); }
+  .card.top2 { border-top-color: var(--silver); }
+  .card.top3 { border-top-color: var(--bronze); }
 
   /* ── 排名標籤 ── */
   .card-rank {
-    display: inline-block; font-size: 0.78rem; font-weight: 700;
-    color: #fff; background: #0077cc; border-radius: 4px;
-    padding: 2px 8px; margin-bottom: 8px;
+    display: inline-flex; align-items: center; gap: 4px;
+    font-size: 0.76rem; font-weight: 700;
+    color: #fff; background: var(--blue); border-radius: 6px;
+    padding: 3px 10px; margin-bottom: 10px;
+    letter-spacing: 0.02em;
   }
-  .card.top1 .card-rank { background: #c0392b; }
-  .card.top2 .card-rank { background: #e67e22; }
-  .card.top3 .card-rank { background: #27ae60; }
+  .card.top1 .card-rank { background: var(--gold); }
+  .card.top2 .card-rank { background: var(--silver); }
+  .card.top3 .card-rank { background: var(--bronze); }
 
   /* ── 卡片內容 ── */
-  .card h3 { font-size: 1.05rem; color: #003366; margin-bottom: 10px; line-height: 1.5; }
-  .card .summary { font-size: 0.92rem; color: #2c3e50; line-height: 1.7; margin-bottom: 10px; }
+  .card h3 {
+    font-size: 1.05rem; color: var(--blue-dark);
+    margin-bottom: 12px; line-height: 1.55; font-weight: 700;
+  }
+  .card .summary {
+    font-size: 0.92rem; color: #2c3e50;
+    line-height: 1.8; margin-bottom: 14px;
+  }
   .card .impact {
-    font-size: 0.88rem; color: #555; background: #f0f7ff;
-    border-left: 3px solid #0077cc; padding: 7px 12px;
-    border-radius: 4px; margin-bottom: 12px;
+    font-size: 0.88rem; color: #445;
+    background: var(--blue-light);
+    border-left: 3px solid var(--blue);
+    padding: 9px 14px; border-radius: 6px;
+    margin-bottom: 14px; line-height: 1.65;
   }
   .card .meta {
     display: flex; flex-wrap: wrap; gap: 8px;
-    align-items: center; margin-bottom: 10px; font-size: 0.82rem;
+    align-items: center; margin-bottom: 12px; font-size: 0.82rem;
   }
 
   /* ── 評分進度條 ── */
+  .score-wrap { display: flex; align-items: center; gap: 8px; }
+  .score-label { font-size: 0.8rem; color: var(--text-muted); white-space: nowrap; }
   .score-bar-bg {
-    background: #e9ecef; border-radius: 20px; height: 8px;
-    width: 160px; display: inline-block; vertical-align: middle; margin: 0 8px;
+    background: #dde4ee; border-radius: 20px; height: 8px;
+    width: 120px; display: inline-block; vertical-align: middle;
+    overflow: hidden;
   }
   .score-bar-fill {
     height: 8px; border-radius: 20px;
-    background: linear-gradient(90deg, #0077cc, #00c6ff);
+    background: linear-gradient(90deg, var(--blue), #00aaff);
+    transition: width 0.6s ease;
   }
+  .score-num { font-weight: 700; color: var(--blue-dark); font-size: 0.88rem; }
 
   /* ── 標籤 ── */
-  .tag { background: #e8f3ff; color: #0055a4; border-radius: 12px; padding: 2px 9px; font-size: 0.78rem; }
+  .tag {
+    background: var(--blue-light); color: var(--blue-mid);
+    border-radius: 14px; padding: 3px 10px;
+    font-size: 0.76rem; font-weight: 500;
+    white-space: nowrap;
+  }
 
   /* ── 作者 / 來源 ── */
-  .author { color: #777; font-size: 0.82rem; }
+  .card-footer { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px; }
+  .author { color: var(--text-muted); font-size: 0.8rem; }
   .source-btn {
-    display: inline-block; background: #003366; color: #fff;
-    text-decoration: none; border-radius: 5px; padding: 6px 14px;
-    font-size: 0.82rem; margin-top: 4px; transition: background 0.2s;
+    display: inline-flex; align-items: center; gap: 5px;
+    background: var(--blue-dark); color: #fff;
+    text-decoration: none; border-radius: 6px;
+    padding: 7px 16px; font-size: 0.8rem;
+    font-weight: 500; transition: background var(--transition), transform var(--transition);
+    white-space: nowrap;
   }
-  .source-btn:hover { background: #0055a4; }
+  .source-btn:hover { background: var(--blue-mid); transform: translateY(-1px); }
+  .source-btn:focus-visible {
+    outline: 3px solid #7ec8f4; outline-offset: 2px;
+  }
 
   /* ── Top 3 格線 ── */
   .top3-grid { display: grid; grid-template-columns: 1fr; gap: 0; }
   @media (min-width: 680px) {
-    .top3-grid { grid-template-columns: 1fr 1fr 1fr; gap: 16px; }
+    .top3-grid { grid-template-columns: 1fr 1fr 1fr; gap: 18px; }
     .top3-grid .card { margin-bottom: 0; }
   }
 
   /* ── 頁腳 ── */
   .footer {
-    text-align: center; padding: 30px 20px; color: #888;
-    font-size: 0.82rem; background: #e8eef5; margin-top: 40px;
+    text-align: center; padding: 32px 20px;
+    color: var(--text-muted); font-size: 0.8rem;
+    background: #dce5f0; margin-top: 40px;
+    border-top: 1px solid #c8d4e4;
+    line-height: 1.8;
+  }
+
+  /* ── RWD：手機版 ── */
+  @media (max-width: 480px) {
+    .header { padding: 24px 18px 20px; }
+    .header h1 { font-size: 1.3rem; }
+    .stats-ribbon { padding: 10px 18px; }
+    .container { padding: 22px 14px 48px; }
+    .card { padding: 16px 18px; }
+    .card h3 { font-size: 0.97rem; }
+    .card .summary { font-size: 0.88rem; }
+    .score-bar-bg { width: 90px; }
   }
 </style>
 </head>
@@ -97,9 +207,22 @@
 
 <!-- 報頭 -->
 <div class="header">
-  <h1>🧠 奇美 AI Everywhere Brief</h1>
-  <div class="sub">奇美醫療體系 · 醫療 AI 每日情報簡報</div>
-  <div class="date">📅 2026年04月10日（星期五）｜今日精選 7 則重點</div>
+  <div class="header-inner">
+    <div class="header-brand">
+      <h1>🧠 奇美 AI Everywhere Brief</h1>
+    </div>
+    <div class="sub">奇美醫療體系 · 醫療 AI 每日情報簡報</div>
+    <div class="date">📅 2026年04月10日（星期五）</div>
+  </div>
+</div>
+
+<!-- 統計 Ribbon -->
+<div class="stats-ribbon">
+  <div class="stats-ribbon-inner">
+    <div class="stat-item">📋 今日精選 <strong>7</strong> 則重點</div>
+    <div class="stat-item">🏆 最高評分 <strong>8.8/10</strong></div>
+    <div class="stat-item">🤖 AI · 醫療 · 創新</div>
+  </div>
 </div>
 
 <div class="container">
@@ -108,186 +231,170 @@
   <div class="section-title">🏆 Top 3 精選亮點</div>
   <div class="top3-grid">
     
-    
-    
     <div class="card top1">
-      <div class="card-rank">🥇 第 1 名｜8.8/10</div>
+      <div class="card-rank">🥇 第 1 名</div>
       <h3>Luminai獲3800萬美元融資，Cleveland Clinic實際部署AI優化醫院營運</h3>
       <div class="summary">AI醫院營運平台Luminai完成3800萬美元融資，Cleveland Clinic已成為其實際使用客戶。Luminai專注於醫院後端作業流程自動化，涵蓋病床管理、排程調度與行政工作流程優化。Cleveland Clinic作為全球頂尖醫學中心背書，大幅提升此技術的臨床可信度。此輪融資將用於擴展平台功能並拓展更多醫療體系合作夥伴。在醫療人力短缺與運營效率壓力持續升高的背景下，此類AI工具能協助醫院在不增加人力的情況下提升吞吐量與資源利用率，對中大型醫學中心具有高度參考價值。奇美醫療體系在多院區管理與床位調度方面面臨類似挑戰，此案例提供具體的導入路徑與效益驗證依據。</div>
       <div class="impact">💡 臨床影響：醫院運營AI可直接改善床位管理效率、縮短等候時間並降低行政人員負擔，對奇美多院區協同排程與病床調度管理具有直接參考價值，值得進一步評估導入可行性。</div>
       <div class="meta">
-        <span>評分：<span class="score-bar-bg"><span class="score-bar-fill" style="width:88%"></span></span><strong>8.8/10</strong></span>
-        
+        <div class="score-wrap">
+          <span class="score-label">評分</span>
+          <span class="score-bar-bg"><span class="score-bar-fill" style="width:88%"></span></span>
+          <span class="score-num">8.8/10</span>
+        </div>
         <span class="tag">#醫院營運AI</span>
-        
         <span class="tag">#流程自動化</span>
-        
         <span class="tag">#床位管理</span>
-        
         <span class="tag">#臨床資訊系統</span>
-        
       </div>
-      <div class="author">✍️ MedCity News（2026年4月10日）</div>
-      
-      <br><a class="source-btn" href="https://medcitynews.com/2026/04/luminai-cleveland-clinic/" target="_blank">🔗 原始來源</a>
-      
+      <div class="card-footer">
+        <div class="author">✍️ MedCity News（2026年4月10日）</div>
+        <a class="source-btn" href="https://medcitynews.com/2026/04/luminai-cleveland-clinic/" target="_blank" rel="noopener">🔗 原始來源</a>
+      </div>
     </div>
     
-    
-    
     <div class="card top2">
-      <div class="card-rank">🥈 第 2 名｜8.5/10</div>
+      <div class="card-rank">🥈 第 2 名</div>
       <h3>生成式AI與代理型AI協同應用於醫療場域的實務框架</h3>
       <div class="summary">Healthcare IT News深度探討生成式AI（Generative AI）與代理型AI（Agentic AI）如何在醫療場域互補運作。生成式AI擅長內容生成與文件摘要，代理型AI則能自主執行多步驟任務並與外部系統互動。兩者結合可實現從臨床決策支援、自動病歷摘要到跨系統工作流程自動化的完整閉環。目前業界已有案例將代理型AI應用於術前評估自動化、出院準備流程管理等高複雜度臨床場景。此框架對於正在規劃AI整合策略的醫療機構而言，提供了技術架構設計的重要參考，有助於避免單點部署造成的孤島效應，實現跨部門AI協同效益最大化。</div>
       <div class="impact">💡 臨床影響：代理型AI可自主執行臨床工作流程中的多步驟任務，有潛力減少醫護人員重複性行政負擔，並提升跨科會診、藥物核對等複雜流程的自動化程度，對奇美AI Everywhere計畫架構設計具有策略性參考價值。</div>
       <div class="meta">
-        <span>評分：<span class="score-bar-bg"><span class="score-bar-fill" style="width:85%"></span></span><strong>8.5/10</strong></span>
-        
+        <div class="score-wrap">
+          <span class="score-label">評分</span>
+          <span class="score-bar-bg"><span class="score-bar-fill" style="width:85%"></span></span>
+          <span class="score-num">8.5/10</span>
+        </div>
         <span class="tag">#生成式AI</span>
-        
         <span class="tag">#代理型AI</span>
-        
         <span class="tag">#醫療工作流程</span>
-        
         <span class="tag">#臨床決策支援</span>
-        
       </div>
-      <div class="author">✍️ Healthcare IT News（2026年4月10日）</div>
-      
-      <br><a class="source-btn" href="https://www.healthcareitnews.com/video/how-generative-and-agentic-ai-can-work-together-healthcare" target="_blank">🔗 原始來源</a>
-      
+      <div class="card-footer">
+        <div class="author">✍️ Healthcare IT News（2026年4月10日）</div>
+        <a class="source-btn" href="https://www.healthcareitnews.com/video/how-generative-and-agentic-ai-can-work-together-healthcare" target="_blank" rel="noopener">🔗 原始來源</a>
+      </div>
     </div>
     
-    
-    
     <div class="card top3">
-      <div class="card-rank">🥉 第 3 名｜8.2/10</div>
+      <div class="card-rank">🥉 第 3 名</div>
       <h3>AI驅動精準照護：解決醫療體系系統性失靈的關鍵路徑</h3>
       <div class="summary">MedCity News刊載深度評論，指出當前醫療體系在預防性照護、慢性病管理與個體化治療方面存在系統性缺口，而AI驅動的精準照護模式被視為解決方案核心。文章強調，結合大型語言模型、多模態生物標記數據與即時臨床決策支援，可實現從群體醫學轉向個體化醫療的典範轉移。具體應用包括：基因組學與表型數據融合用於風險分層、AI輔助早期疾病偵測、個人化治療計畫生成等。作者指出，技術本身已相對成熟，主要障礙在於資料整合標準化、臨床醫師信任度建立及法規監理框架完善，這些挑戰對台灣醫療體系同樣高度適用。</div>
       <div class="impact">💡 臨床影響：精準照護AI框架可協助奇美在癌症篩檢、慢性病管理與高風險病患識別方面提升照護品質，尤其對糖尿病、心血管疾病等高盛行率疾病的個體化管理具有直接臨床應用潛力。</div>
       <div class="meta">
-        <span>評分：<span class="score-bar-bg"><span class="score-bar-fill" style="width:82%"></span></span><strong>8.2/10</strong></span>
-        
+        <div class="score-wrap">
+          <span class="score-label">評分</span>
+          <span class="score-bar-bg"><span class="score-bar-fill" style="width:82%"></span></span>
+          <span class="score-num">8.2/10</span>
+        </div>
         <span class="tag">#精準醫療</span>
-        
         <span class="tag">#AI臨床決策</span>
-        
         <span class="tag">#慢性病管理</span>
-        
         <span class="tag">#個體化治療</span>
-        
       </div>
-      <div class="author">✍️ MedCity News（2026年4月10日）</div>
-      
-      <br><a class="source-btn" href="https://medcitynews.com/2026/04/ai-driven-precision-care-is-the-fix-for-our-health-systems-failures/" target="_blank">🔗 原始來源</a>
-      
+      <div class="card-footer">
+        <div class="author">✍️ MedCity News（2026年4月10日）</div>
+        <a class="source-btn" href="https://medcitynews.com/2026/04/ai-driven-precision-care-is-the-fix-for-our-health-systems-failures/" target="_blank" rel="noopener">🔗 原始來源</a>
+      </div>
     </div>
     
   </div>
 
   <!-- 其他新聞 -->
-  
   <div class="section-title">📰 其他重要新聞</div>
   
   <div class="card">
-    <div class="card-rank">第 4 則｜7.9/10</div>
+    <div class="card-rank">第 4 則</div>
     <h3>韓國與印尼試行AI驅動遠距醫療，推動亞太基層醫療合作</h3>
     <div class="summary">韓國衛生福利部與印尼簽署合作備忘錄，將在印尼試行以AI為核心的遠距問診服務，重點針對基層醫療覆蓋率不足的偏遠地區。此合作包含AI輔助診斷、遠端患者監測及電子轉診系統等模組，旨在彌補醫療資源分配不均的問題。此案為亞太地區首批以政府層級推動AI遠距醫療的跨國合作案例之一，具有政策示範意義。對台灣而言，台灣與東南亞醫療合作持續深化，此模式提供偏鄉醫療服務與離島醫療強化的參考框架，同時也顯示亞太地區AI醫療市場正加速形成區域化生態系。奇美在南台灣的服務網絡中，偏鄉及山地離島醫療服務亦可借鑑此模式。</div>
     <div class="impact">💡 臨床影響：AI遠距醫療模式可強化奇美偏遠地區及離島醫療服務可及性，降低轉診成本，並為高齡化社區提供持續性照護支援，具有中期導入可行性。</div>
     <div class="meta">
-      <span>評分：<span class="score-bar-bg"><span class="score-bar-fill" style="width:79%"></span></span><strong>7.9/10</strong></span>
-      
+      <div class="score-wrap">
+        <span class="score-label">評分</span>
+        <span class="score-bar-bg"><span class="score-bar-fill" style="width:79%"></span></span>
+        <span class="score-num">7.9/10</span>
+      </div>
       <span class="tag">#遠距醫療</span>
-      
       <span class="tag">#亞太醫療合作</span>
-      
       <span class="tag">#基層醫療</span>
-      
       <span class="tag">#AI輔助診斷</span>
-      
     </div>
-    <div class="author">✍️ Healthcare IT News Asia（2026年4月10日）</div>
-    
-    <br><a class="source-btn" href="https://www.healthcareitnews.com/news/asia/korea-pilot-ai-driven-telemedicine-indonesia" target="_blank">🔗 原始來源</a>
-    
+    <div class="card-footer">
+      <div class="author">✍️ Healthcare IT News Asia（2026年4月10日）</div>
+      <a class="source-btn" href="https://www.healthcareitnews.com/news/asia/korea-pilot-ai-driven-telemedicine-indonesia" target="_blank" rel="noopener">🔗 原始來源</a>
+    </div>
   </div>
   
   <div class="card">
-    <div class="card-rank">第 5 則｜7.5/10</div>
+    <div class="card-rank">第 5 則</div>
     <h3>醫療資訊長視AI整合為競爭必要條件，但執行落差仍顯著</h3>
     <div class="summary">Qventus最新報告指出，醫療機構CIO普遍認為生成式AI整合已從策略選項升級為競爭存續必要條件。然而，報告同時揭示執行層面存在重大落差，主要障礙包括：電子病歷（EHR）系統的深度依賴造成整合困難、第三方軟體介面碎片化、資料品質不一致及組織變革管理能力不足。報告建議採取分階段導入策略，優先從行政自動化切入，再逐步擴展至臨床決策支援場景。此調查結果與台灣醫療資訊化現況高度呼應，台灣各醫療機構同樣面臨HIS系統整合複雜度高、AI導入ROI難以量化等問題，對奇美AI整合路線圖的制定具有重要參考意義。</div>
     <div class="impact">💡 臨床影響：此報告為奇美AI整合策略規劃提供實證基礎，建議優先識別EHR整合瓶頸並建立跨部門資料治理機制，以縮短從概念驗證到全院規模部署的執行週期。</div>
     <div class="meta">
-      <span>評分：<span class="score-bar-bg"><span class="score-bar-fill" style="width:75%"></span></span><strong>7.5/10</strong></span>
-      
+      <div class="score-wrap">
+        <span class="score-label">評分</span>
+        <span class="score-bar-bg"><span class="score-bar-fill" style="width:75%"></span></span>
+        <span class="score-num">7.5/10</span>
+      </div>
       <span class="tag">#AI整合策略</span>
-      
       <span class="tag">#電子病歷</span>
-      
       <span class="tag">#醫療資訊管理</span>
-      
       <span class="tag">#組織變革</span>
-      
     </div>
-    <div class="author">✍️ Healthcare IT News（2026年4月10日）</div>
-    
-    <br><a class="source-btn" href="https://www.healthcareitnews.com/news/healthcare-cios-see-ai-integration-competitive-necessity" target="_blank">🔗 原始來源</a>
-    
+    <div class="card-footer">
+      <div class="author">✍️ Healthcare IT News（2026年4月10日）</div>
+      <a class="source-btn" href="https://www.healthcareitnews.com/news/healthcare-cios-see-ai-integration-competitive-necessity" target="_blank" rel="noopener">🔗 原始來源</a>
+    </div>
   </div>
   
   <div class="card">
-    <div class="card-rank">第 6 則｜7.2/10</div>
+    <div class="card-rank">第 6 則</div>
     <h3>醫療AI資安從意識培養與治理框架做起：CISO實務觀點</h3>
     <div class="summary">Healthcare IT News訪談醫療機構資訊安全長（CISO），深入探討AI應用快速擴張下的醫療資安挑戰。受訪者強調，醫療AI資安風險不僅限於技術層面，更涵蓋員工使用行為、第三方AI工具引入管理及模型輸出可信度驗證等面向。文章提出分層治理框架，包含：AI使用政策制定、風險評估標準化、AI供應商盡職調查強化及持續監控機制建立。目前美國多家醫療機構已因AI應用不當導致病患資料外洩事件，凸顯治理框架建立的急迫性。對台灣而言，個資法修正與醫療資訊安全規範持續強化，此治理框架具有直接的法規遵循參考價值。</div>
     <div class="impact">💡 臨床影響：奇美在推進AI Everywhere計畫過程中，需同步建立AI資安治理框架，包含員工AI使用規範、敏感醫療資料存取控制及AI模型輸出稽核機制，以確保病患資料安全與法規遵循。</div>
     <div class="meta">
-      <span>評分：<span class="score-bar-bg"><span class="score-bar-fill" style="width:72%"></span></span><strong>7.2/10</strong></span>
-      
+      <div class="score-wrap">
+        <span class="score-label">評分</span>
+        <span class="score-bar-bg"><span class="score-bar-fill" style="width:72%"></span></span>
+        <span class="score-num">7.2/10</span>
+      </div>
       <span class="tag">#醫療資安</span>
-      
       <span class="tag">#AI治理</span>
-      
       <span class="tag">#資料保護</span>
-      
       <span class="tag">#法規遵循</span>
-      
     </div>
-    <div class="author">✍️ Healthcare IT News（2026年4月10日）</div>
-    
-    <br><a class="source-btn" href="https://www.healthcareitnews.com/news/ai-security-starts-awareness-and-governance-ciso-says" target="_blank">🔗 原始來源</a>
-    
+    <div class="card-footer">
+      <div class="author">✍️ Healthcare IT News（2026年4月10日）</div>
+      <a class="source-btn" href="https://www.healthcareitnews.com/news/ai-security-starts-awareness-and-governance-ciso-says" target="_blank" rel="noopener">🔗 原始來源</a>
+    </div>
   </div>
   
   <div class="card">
-    <div class="card-rank">第 7 則｜7.0/10</div>
+    <div class="card-rank">第 7 則</div>
     <h3>CAR-T細胞療法在自體免疫疾病領域持續突破，五年後仍令研究者驚喜</h3>
     <div class="summary">STAT News深度報導顯示，自2021年狼瘡患者接受CAR-T治療取得突破性緩解以來，CAR-T療法在自體免疫疾病領域的應用已快速擴展至類風濕性關節炎、多發性硬化症、肌炎等多種難治性自體免疫疾病。臨床數據持續顯示出乎預期的長期緩解率，部分患者達到藥物停用後仍維持緩解的「功能性治癒」狀態。目前全球多項臨床試驗正在進行中，投資與研究熱度持續升溫。此發展對台灣具有重要意義，台灣自體免疫疾病盛行率高，奇美在風濕免疫科具有豐富臨床積累，密切追蹤CAR-T療法在此領域的進展，有助於提前布局細胞治療服務能量。</div>
     <div class="impact">💡 臨床影響：CAR-T療法在自體免疫疾病的突破可能在未來3至5年內改變難治性狼瘡、類風濕性關節炎等疾病的標準治療路徑，奇美風濕免疫科及細胞治療中心應提前評估臨床試驗參與及技術合作機會。</div>
     <div class="meta">
-      <span>評分：<span class="score-bar-bg"><span class="score-bar-fill" style="width:70%"></span></span><strong>7.0/10</strong></span>
-      
+      <div class="score-wrap">
+        <span class="score-label">評分</span>
+        <span class="score-bar-bg"><span class="score-bar-fill" style="width:70%"></span></span>
+        <span class="score-num">7.0/10</span>
+      </div>
       <span class="tag">#CAR-T細胞療法</span>
-      
       <span class="tag">#自體免疫疾病</span>
-      
       <span class="tag">#細胞治療</span>
-      
       <span class="tag">#精準醫療</span>
-      
     </div>
-    <div class="author">✍️ STAT News（2026年4月9日）</div>
-    
-    <br><a class="source-btn" href="https://www.statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/?utm_campaign=rss" target="_blank">🔗 原始來源</a>
-    
+    <div class="card-footer">
+      <div class="author">✍️ STAT News（2026年4月9日）</div>
+      <a class="source-btn" href="https://www.statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/?utm_campaign=rss" target="_blank" rel="noopener">🔗 原始來源</a>
+    </div>
   </div>
-  
-  
 
 </div>
 
 <!-- 頁腳 -->
 <div class="footer">
-  🧠 奇美醫療AI每日情報｜奇美醫療體系 · AI Everywhere 計畫<br>
+  🧠 奇美醫療AI每日情報 · 奇美醫療體系 · AI Everywhere 計畫<br>
   本簡報由奇美 AI Everywhere 情報代理人自動生成 · 2026年04月10日
 </div>
 
