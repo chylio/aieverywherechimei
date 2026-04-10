@@ -3,296 +3,471 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>奇美 AI Everywhere Brief｜2026年04月10日</title>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+<title>奇美 AI Everywhere Brief｜{{ today }}</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;700&family=Noto+Sans+TC:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root {
-    --primary: #003366;
-    --accent: #0077cc;
-    --red: #c0392b;
-    --orange: #e07020;
-    --green: #27ae60;
-    --bg: #f5f7fa;
-    --white: #fff;
-    --border: #e0e6ed;
-    --text: #222b3a;
-    --muted: #6b7a8d;
-    --tag-bg: #e8f3ff;
+    --navy:    #0a1628;
+    --blue:    #1a4a8a;
+    --accent:  #2b7fe8;
+    --light-blue: #e8f2fd;
+    --teal:    #0e9f8e;
+    --red:     #d63c2f;
+    --orange:  #e07520;
+    --green:   #1e9e5a;
+    --bg:      #f2f5f9;
+    --surface: #ffffff;
+    --border:  #dce4ef;
+    --text:    #1a2333;
+    --text2:   #445066;
+    --muted:   #7a8899;
+    --serif:   'Noto Serif TC', serif;
+    --sans:    'Noto Sans TC', sans-serif;
   }
+
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: 'Noto Sans TC','Microsoft JhengHei',sans-serif; background:var(--bg); color:var(--text); font-size:14px; line-height:1.7; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: var(--sans);
+    background: var(--bg);
+    color: var(--text);
+    font-size: 16px;
+    line-height: 1.8;
+  }
 
-  /* 頂部 */
-  .topbar { background:var(--primary); color:#fff; padding:0 32px; display:flex; align-items:center; justify-content:space-between; height:52px; border-bottom:3px solid #0055a4; }
-  .topbar-logo { font-size:1.1rem; font-weight:700; letter-spacing:.05em; }
-  .topbar-sub { font-size:.78rem; color:#a8c4e0; }
+  /* ── HEADER ── */
+  .header {
+    background: var(--navy);
+    background-image: linear-gradient(135deg, #0a1628 0%, #162d58 60%, #1a4a8a 100%);
+    color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 16px rgba(0,0,0,0.25);
+  }
+  .header-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 18px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+  }
+  .logo-area { display: flex; align-items: center; gap: 14px; }
+  .logo-icon {
+    width: 44px; height: 44px;
+    background: linear-gradient(135deg, var(--accent), var(--teal));
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.4rem;
+    flex-shrink: 0;
+  }
+  .logo-text h1 {
+    font-family: var(--serif);
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    line-height: 1.3;
+  }
+  .logo-text p { font-size: 0.8rem; color: #8aafd4; margin-top: 1px; }
+  .header-date {
+    background: rgba(255,255,255,0.1);
+    border: 1px solid rgba(255,255,255,0.18);
+    border-radius: 8px;
+    padding: 8px 18px;
+    font-size: 0.88rem;
+    color: #a8c8ea;
+    white-space: nowrap;
+    letter-spacing: 0.02em;
+  }
 
-  .breadcrumb { background:var(--white); border-bottom:1px solid var(--border); padding:8px 32px; font-size:.78rem; color:var(--muted); }
-  .breadcrumb span { color:var(--accent); }
+  /* ── BREADCRUMB ── */
+  .breadcrumb {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 10px 0;
+  }
+  .breadcrumb-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 32px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.82rem;
+    color: var(--muted);
+  }
+  .breadcrumb a { color: var(--muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--accent); }
+  .breadcrumb .sep { color: #c0c8d4; }
+  .breadcrumb .current { color: var(--accent); font-weight: 600; }
 
-  /* Layout */
-  .layout { max-width:1060px; margin:0 auto; padding:24px 20px 60px; display:flex; gap:28px; align-items:flex-start; }
+  /* ── LAYOUT ── */
+  .layout {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 32px 24px 80px;
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    gap: 32px;
+    align-items: start;
+  }
 
-  /* 左側邊欄 */
-  .sidebar { width:200px; flex-shrink:0; }
-  .sidebar-section { background:var(--white); border:1px solid var(--border); border-radius:4px; margin-bottom:16px; overflow:hidden; }
-  .sidebar-title { background:var(--primary); color:#fff; font-size:.78rem; font-weight:700; padding:7px 12px; letter-spacing:.06em; }
-  .sidebar-item { display:block; padding:7px 14px; font-size:.8rem; color:var(--text); text-decoration:none; border-bottom:1px solid #f0f3f7; transition:background .15s,color .15s; }
-  .sidebar-item:hover { background:var(--tag-bg); color:var(--accent); }
-  .sidebar-item.active { color:var(--accent); font-weight:700; background:#eef6ff; }
-  .sidebar-item:last-child { border-bottom:none; }
+  /* ── SIDEBAR ── */
+  .sidebar { position: sticky; top: 82px; }
+  .sidebar-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(10,22,40,0.06);
+  }
+  .sidebar-head {
+    background: var(--navy);
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: 700;
+    padding: 10px 16px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .sidebar-link {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 16px;
+    font-size: 0.88rem;
+    color: var(--text2);
+    text-decoration: none;
+    border-bottom: 1px solid #f0f4f8;
+    transition: all 0.15s;
+  }
+  .sidebar-link:last-child { border-bottom: none; }
+  .sidebar-link:hover { background: var(--light-blue); color: var(--accent); }
+  .sidebar-link.active { color: var(--accent); font-weight: 700; background: #eef5fd; }
+  .sidebar-link .count {
+    background: var(--light-blue);
+    color: var(--accent);
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 1px 7px;
+    border-radius: 10px;
+  }
+  .sidebar-link.active .count { background: var(--accent); color: #fff; }
+  .tag-cloud { padding: 12px 14px; display: flex; flex-wrap: wrap; gap: 7px; }
+  .tag-chip {
+    font-size: 0.78rem;
+    color: var(--accent);
+    background: var(--light-blue);
+    border-radius: 20px;
+    padding: 3px 10px;
+    text-decoration: none;
+    transition: all 0.15s;
+    font-weight: 500;
+  }
+  .tag-chip:hover { background: var(--accent); color: #fff; }
 
-  /* 主內容 */
-  .main { flex:1; min-width:0; }
-  .page-header { background:var(--white); border:1px solid var(--border); border-left:4px solid var(--accent); border-radius:4px; padding:14px 20px; margin-bottom:0; display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:8px; }
-  .page-header h1 { font-size:1rem; font-weight:700; color:var(--primary); }
-  .page-header .date-info { font-size:.78rem; color:var(--muted); }
+  /* ── MAIN ── */
+  .main { min-width: 0; }
+  .page-title-bar {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px 28px;
+    margin-bottom: 16px;
+    box-shadow: 0 2px 8px rgba(10,22,40,0.05);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .page-title-bar h2 {
+    font-family: var(--serif);
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--navy);
+    line-height: 1.4;
+  }
+  .count-badge {
+    background: var(--light-blue);
+    color: var(--accent);
+    font-size: 0.82rem;
+    font-weight: 700;
+    padding: 5px 14px;
+    border-radius: 20px;
+    white-space: nowrap;
+  }
+  .list-meta {
+    font-size: 0.82rem;
+    color: var(--muted);
+    padding: 6px 0 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-bottom: 2px solid var(--border);
+  }
+  .list-meta-label {
+    background: var(--accent);
+    color: #fff;
+    font-size: 0.76rem;
+    font-weight: 700;
+    padding: 3px 11px;
+    border-radius: 4px;
+  }
 
-  .sort-bar { display:flex; align-items:center; gap:6px; padding:8px 0; font-size:.78rem; color:var(--muted); border-bottom:1px solid var(--border); }
-  .sort-btn { border:1px solid var(--border); background:var(--white); color:var(--text); padding:3px 10px; border-radius:3px; font-size:.78rem; cursor:pointer; transition:all .15s; }
-  .sort-btn.active, .sort-btn:hover { background:var(--accent); color:#fff; border-color:var(--accent); }
+  /* ── ARTICLE CARD ── */
+  .article-list { display: flex; flex-direction: column; }
+  .article-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-top: none;
+    padding: 24px 28px 20px;
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    gap: 0 18px;
+    transition: background 0.15s, box-shadow 0.15s;
+    animation: fadeUp 0.4s ease both;
+  }
+  .article-card:first-child { border-top: 1px solid var(--border); border-radius: 12px 12px 0 0; }
+  .article-card:last-child { border-radius: 0 0 12px 12px; }
+  .article-card:hover { background: #fafcff; box-shadow: inset 3px 0 0 var(--accent); }
 
-  /* 文章列表 */
-  .article-list { background:var(--white); border:1px solid var(--border); border-radius:4px; overflow:hidden; }
-  .article-item { padding:18px 20px 16px; border-bottom:1px solid var(--border); display:flex; gap:14px; align-items:flex-start; transition:background .12s; }
-  .article-item:last-child { border-bottom:none; }
-  .article-item:hover { background:#fafcff; }
+  {% for i in range(1, 8) %}
+  .article-card:nth-child({{ i }}) { animation-delay: {{ (i * 0.05)|round(2) }}s; }
+  {% endfor %}
 
-  .article-num { flex-shrink:0; width:28px; font-size:.8rem; color:var(--muted); padding-top:2px; text-align:right; }
-  .article-body { flex:1; min-width:0; }
+  .card-num { padding-top: 4px; text-align: center; }
+  .num-circle {
+    width: 34px; height: 34px;
+    border-radius: 50%;
+    background: var(--bg);
+    border: 2px solid var(--border);
+    color: var(--muted);
+    font-size: 0.88rem;
+    font-weight: 700;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .num-top1 { background: #fff0ee; border-color: var(--red); color: var(--red); }
+  .num-top2 { background: #fff4ec; border-color: var(--orange); color: var(--orange); }
+  .num-top3 { background: #edfbf4; border-color: var(--green); color: var(--green); }
 
-  .article-badges { display:flex; align-items:center; gap:6px; margin-bottom:5px; flex-wrap:wrap; }
-  .badge { font-size:.7rem; font-weight:700; padding:1px 7px; border-radius:2px; letter-spacing:.04em; }
-  .badge-top  { background:var(--red);    color:#fff; }
-  .badge-top2 { background:var(--orange); color:#fff; }
-  .badge-top3 { background:var(--green);  color:#fff; }
-  .badge-focus{ background:var(--primary);color:#fff; }
-  .badge-cat  { background:var(--tag-bg); color:var(--accent); font-weight:500; }
+  .card-badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; align-items: center; }
+  .badge { font-size: 0.72rem; font-weight: 700; padding: 2px 9px; border-radius: 3px; letter-spacing: 0.04em; }
+  .b-top1 { background: var(--red); color: #fff; }
+  .b-top2 { background: var(--orange); color: #fff; }
+  .b-top3 { background: var(--green); color: #fff; }
+  .b-focus { background: var(--blue); color: #fff; }
+  .b-cat { background: var(--light-blue); color: var(--blue); font-weight: 600; border: 1px solid #c5dbf5; }
 
-  .article-title a { font-size:.97rem; font-weight:700; color:var(--primary); line-height:1.5; text-decoration:none; display:block; margin-bottom:6px; }
-  .article-title a:hover { color:var(--accent); text-decoration:underline; }
+  .card-title {
+    font-family: var(--serif);
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--navy);
+    line-height: 1.55;
+    margin-bottom: 8px;
+  }
+  .card-title a { color: inherit; text-decoration: none; transition: color 0.15s; }
+  .article-card:hover .card-title a { color: var(--accent); }
 
-  .article-meta { font-size:.76rem; color:var(--muted); margin-bottom:6px; display:flex; gap:14px; flex-wrap:wrap; }
-  .article-impact { font-size:.8rem; color:#1a4a7a; background:#edf4ff; border-left:3px solid var(--accent); padding:5px 10px; border-radius:0 3px 3px 0; margin-bottom:8px; line-height:1.55; }
-  .article-summary { font-size:.84rem; color:#4a5568; line-height:1.65; margin-bottom:8px; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+  .card-meta {
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-bottom: 12px;
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .card-impact {
+    font-size: 0.88rem;
+    color: #1a4070;
+    background: linear-gradient(90deg, #dbeeff, #eef5ff);
+    border-left: 4px solid var(--accent);
+    padding: 10px 14px;
+    border-radius: 0 8px 8px 0;
+    margin-bottom: 12px;
+    line-height: 1.65;
+    font-weight: 500;
+  }
+  .card-summary { font-size: 0.92rem; color: var(--text2); line-height: 1.8; margin-bottom: 14px; }
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding-top: 12px;
+    border-top: 1px solid #f0f4f8;
+  }
+  .hashtags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .hashtag { font-size: 0.78rem; color: var(--accent); text-decoration: none; }
+  .hashtag:hover { color: var(--navy); text-decoration: underline; }
+  .source-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    background: var(--navy);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 6px;
+    padding: 6px 16px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    transition: background 0.15s;
+    white-space: nowrap;
+  }
+  .source-btn:hover { background: var(--accent); }
 
-  .article-footer { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:6px; }
-  .hashtags { display:flex; flex-wrap:wrap; gap:5px; }
-  .hashtag { font-size:.73rem; color:var(--accent); text-decoration:none; }
-  .hashtag:hover { text-decoration:underline; }
-  .source-link { font-size:.76rem; color:var(--accent); text-decoration:none; white-space:nowrap; }
-  .source-link:hover { text-decoration:underline; }
+  /* ── FOOTER ── */
+  .footer {
+    background: var(--navy);
+    color: #6a8aaa;
+    text-align: center;
+    padding: 28px 20px;
+    font-size: 0.82rem;
+    margin-top: 40px;
+    line-height: 2;
+  }
+  .footer strong { color: #a0bcd8; }
 
-  /* 分頁 */
-  .pagination { margin-top:14px; display:flex; align-items:center; gap:4px; font-size:.8rem; justify-content:center; }
-  .page-btn { border:1px solid var(--border); background:var(--white); color:var(--text); width:30px; height:30px; display:flex; align-items:center; justify-content:center; border-radius:3px; cursor:pointer; font-size:.78rem; transition:all .15s; }
-  .page-btn.active { background:var(--accent); color:#fff; border-color:var(--accent); }
-  .page-btn:hover:not(.active) { background:var(--tag-bg); }
+  /* ── ANIMATIONS ── */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
 
-  /* 頁腳 */
-  .footer { text-align:center; padding:22px 20px; color:#888; font-size:.76rem; background:#e4eaf3; border-top:1px solid #cdd6e4; margin-top:40px; }
-
-  @media(max-width:720px){
-    .sidebar { display:none; }
-    .topbar { padding:0 16px; }
-    .breadcrumb { padding:8px 16px; }
-    .layout { padding:16px; }
-    .article-item { padding:14px; }
+  /* ── RWD ── */
+  @media (max-width: 800px) {
+    .layout { grid-template-columns: 1fr; padding: 20px 16px 60px; }
+    .sidebar { display: none; }
+    .header-inner { padding: 14px 20px; }
+    .header-date { display: none; }
+    .article-card { padding: 18px 18px 16px; grid-template-columns: 32px 1fr; gap: 0 12px; }
+    .card-title { font-size: 1.05rem; }
+    .page-title-bar { padding: 16px 20px; }
   }
 </style>
 </head>
 <body>
 
-<div class="topbar">
-  <div class="topbar-logo">🧠 奇美 AI Everywhere Brief</div>
-  <div class="topbar-sub">奇美醫療體系 · AI Everywhere 計畫</div>
-</div>
+<!-- HEADER -->
+<header class="header">
+  <div class="header-inner">
+    <div class="logo-area">
+      <div class="logo-icon">🧠</div>
+      <div class="logo-text">
+        <h1>奇美 AI Everywhere Brief</h1>
+        <p>奇美醫療體系 · 醫療 AI 每日情報簡報</p>
+      </div>
+    </div>
+    <div class="header-date">📅 {{ today }}（{{ weekday }}）</div>
+  </div>
+</header>
 
+<!-- BREADCRUMB -->
 <div class="breadcrumb">
-  <a href="#" style="color:var(--muted);text-decoration:none;">首頁</a> &rsaquo;
-  <a href="#" style="color:var(--muted);text-decoration:none;">醫療AI情報</a> &rsaquo;
-  <span>每日簡報</span>
+  <div class="breadcrumb-inner">
+    <a href="#">首頁</a>
+    <span class="sep">›</span>
+    <a href="#">醫療AI情報</a>
+    <span class="sep">›</span>
+    <span class="current">每日簡報</span>
+  </div>
 </div>
 
+<!-- LAYOUT -->
 <div class="layout">
 
-  <!-- 左側邊欄 -->
-  <div class="sidebar">
-    <div class="sidebar-section">
-      <div class="sidebar-title">📋 情報分類</div>
-      <a class="sidebar-item active" href="#">今日精選（7）</a>
-      <a class="sidebar-item" href="#">醫院營運AI</a>
-      <a class="sidebar-item" href="#">臨床決策支援</a>
-      <a class="sidebar-item" href="#">精準醫療</a>
-      <a class="sidebar-item" href="#">遠距醫療</a>
-      <a class="sidebar-item" href="#">AI治理與資安</a>
-      <a class="sidebar-item" href="#">細胞治療</a>
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <div class="sidebar-card">
+      <div class="sidebar-head">📋 情報分類</div>
+      <a class="sidebar-link active" href="#">今日精選 <span class="count">{{ items|length }}</span></a>
+      {% set all_tags = [] %}
+      {% for item in items %}
+        {% for tag in item.tags %}
+          {% if tag not in all_tags %}{% set _ = all_tags.append(tag) %}{% endif %}
+        {% endfor %}
+      {% endfor %}
+      {% for tag in all_tags[:6] %}
+      <a class="sidebar-link" href="#">{{ tag }}</a>
+      {% endfor %}
     </div>
-    <div class="sidebar-section">
-      <div class="sidebar-title">🏷️ 熱門標籤</div>
-      <a class="sidebar-item" href="#">#醫院營運AI</a>
-      <a class="sidebar-item" href="#">#代理型AI</a>
-      <a class="sidebar-item" href="#">#精準醫療</a>
-      <a class="sidebar-item" href="#">#遠距醫療</a>
-      <a class="sidebar-item" href="#">#CAR-T細胞療法</a>
-      <a class="sidebar-item" href="#">#AI治理</a>
+    <div class="sidebar-card">
+      <div class="sidebar-head">🏷️ 熱門標籤</div>
+      <div class="tag-cloud">
+        {% for tag in all_tags %}
+        <a class="tag-chip" href="#">{{ tag }}</a>
+        {% endfor %}
+      </div>
     </div>
-  </div>
+  </aside>
 
-  <!-- 主內容 -->
-  <div class="main">
-    <div class="page-header">
-      <h1>醫療AI每日情報｜2026年04月10日（星期五）</h1>
-      <div class="date-info">今日精選 7 則 &nbsp;|&nbsp; 奇美醫療體系 · AI Everywhere 計畫</div>
+  <!-- MAIN -->
+  <main class="main">
+    <div class="page-title-bar">
+      <h2>醫療AI每日情報｜{{ today }}（{{ weekday }}）</h2>
+      <span class="count-badge">今日精選 {{ items|length }} 則</span>
     </div>
-    <div class="sort-bar">
-      <span>共 7 筆</span>
-      <button class="sort-btn active">依相關度排序</button>
+
+    <div class="list-meta">
+      <span>共 {{ items|length }} 筆</span>
+      <span class="list-meta-label">依相關度排序</span>
     </div>
 
     <div class="article-list">
-
-      <div class="article-item">
-        <div class="article-num">1</div>
-        <div class="article-body">
-          <div class="article-badges">
-            <span class="badge badge-top">🥇 Top 1</span>
-            <span class="badge badge-cat">醫院營運AI</span>
-            <span class="badge badge-cat">流程自動化</span>
-          </div>
-          <div class="article-title"><a href="https://medcitynews.com/2026/04/luminai-cleveland-clinic/" target="_blank">Luminai獲3800萬美元融資，Cleveland Clinic實際部署AI優化醫院營運</a></div>
-          <div class="article-impact">💡 醫院運營AI可直接改善床位管理效率、縮短等候時間並降低行政人員負擔，對奇美多院區協同排程與病床調度管理具有直接參考價值，值得進一步評估導入可行性。</div>
-          <div class="article-summary">AI醫院營運平台Luminai完成3800萬美元融資，Cleveland Clinic已成為其實際使用客戶。Luminai專注於醫院後端作業流程自動化，涵蓋病床管理、排程調度與行政工作流程優化。Cleveland Clinic作為全球頂尖醫學中心背書，大幅提升此技術的臨床可信度。</div>
-          <div class="article-footer">
-            <div class="hashtags"><a class="hashtag" href="#">#醫院營運AI、</a><a class="hashtag" href="#">#流程自動化、</a><a class="hashtag" href="#">#床位管理、</a><a class="hashtag" href="#">#臨床資訊系統</a></div>
-            <a class="source-link" href="https://medcitynews.com/2026/04/luminai-cleveland-clinic/" target="_blank">🔗 原始來源</a>
+      {% for item in items %}
+      <article class="article-card">
+        <div class="card-num">
+          <div class="num-circle {% if loop.index == 1 %}num-top1{% elif loop.index == 2 %}num-top2{% elif loop.index == 3 %}num-top3{% endif %}">
+            {{ loop.index }}
           </div>
         </div>
-      </div>
-
-      <div class="article-item">
-        <div class="article-num">2</div>
-        <div class="article-body">
-          <div class="article-badges">
-            <span class="badge badge-top2">🥈 Top 2</span>
-            <span class="badge badge-cat">生成式AI</span>
-            <span class="badge badge-cat">代理型AI</span>
+        <div class="card-body">
+          <div class="card-badges">
+            {% if loop.index == 1 %}<span class="badge b-top1">🥇 Top 1</span>
+            {% elif loop.index == 2 %}<span class="badge b-top2">🥈 Top 2</span>
+            {% elif loop.index == 3 %}<span class="badge b-top3">🥉 Top 3</span>
+            {% else %}<span class="badge b-focus">焦點</span>{% endif %}
+            {% for tag in item.tags[:2] %}
+            <span class="badge b-cat">{{ tag }}</span>
+            {% endfor %}
           </div>
-          <div class="article-title"><a href="https://www.healthcareitnews.com/video/how-generative-and-agentic-ai-can-work-together-healthcare" target="_blank">生成式AI與代理型AI協同應用於醫療場域的實務框架</a></div>
-          <div class="article-impact">💡 代理型AI可自主執行臨床工作流程中的多步驟任務，有潛力減少醫護人員重複性行政負擔，對奇美AI Everywhere計畫架構設計具有策略性參考價值。</div>
-          <div class="article-summary">Healthcare IT News深度探討生成式AI與代理型AI如何在醫療場域互補運作。兩者結合可實現從臨床決策支援、自動病歷摘要到跨系統工作流程自動化的完整閉環。目前業界已有案例將代理型AI應用於術前評估自動化、出院準備流程管理等高複雜度臨床場景。</div>
-          <div class="article-footer">
-            <div class="hashtags"><a class="hashtag" href="#">#生成式AI、</a><a class="hashtag" href="#">#代理型AI、</a><a class="hashtag" href="#">#醫療工作流程、</a><a class="hashtag" href="#">#臨床決策支援</a></div>
-            <a class="source-link" href="https://www.healthcareitnews.com/video/how-generative-and-agentic-ai-can-work-together-healthcare" target="_blank">🔗 原始來源</a>
+          <div class="card-title">
+            {% if item.source_url %}
+            <a href="{{ item.source_url }}" target="_blank">{{ item.title }}</a>
+            {% else %}{{ item.title }}{% endif %}
           </div>
-        </div>
-      </div>
-
-      <div class="article-item">
-        <div class="article-num">3</div>
-        <div class="article-body">
-          <div class="article-badges">
-            <span class="badge badge-top3">🥉 Top 3</span>
-            <span class="badge badge-cat">精準醫療</span>
-            <span class="badge badge-cat">AI臨床決策</span>
+          <div class="card-meta">
+            <span>📅 {{ item.author }}</span>
           </div>
-          <div class="article-title"><a href="https://medcitynews.com/2026/04/ai-driven-precision-care-is-the-fix-for-our-health-systems-failures/" target="_blank">AI驅動精準照護：解決醫療體系系統性失靈的關鍵路徑</a></div>
-          <div class="article-impact">💡 精準照護AI框架可協助奇美在癌症篩檢、慢性病管理與高風險病患識別方面提升照護品質，對糖尿病、心血管疾病等高盛行率疾病的個體化管理具有直接臨床應用潛力。</div>
-          <div class="article-summary">MedCity News刊載深度評論，指出AI驅動的精準照護模式被視為解決醫療體系系統性缺口的核心。結合大型語言模型、多模態生物標記數據與即時臨床決策支援，可實現從群體醫學轉向個體化醫療的典範轉移。</div>
-          <div class="article-footer">
-            <div class="hashtags"><a class="hashtag" href="#">#精準醫療、</a><a class="hashtag" href="#">#AI臨床決策、</a><a class="hashtag" href="#">#慢性病管理、</a><a class="hashtag" href="#">#個體化治療</a></div>
-            <a class="source-link" href="https://medcitynews.com/2026/04/ai-driven-precision-care-is-the-fix-for-our-health-systems-failures/" target="_blank">🔗 原始來源</a>
+          <div class="card-impact">💡 {{ item.impact }}</div>
+          <div class="card-summary">{{ item.summary }}</div>
+          <div class="card-footer">
+            <div class="hashtags">
+              {% for tag in item.tags %}
+              <a class="hashtag" href="#">#{{ tag }}{% if not loop.last %}、{% endif %}</a>
+              {% endfor %}
+            </div>
+            {% if item.source_url %}
+            <a class="source-btn" href="{{ item.source_url }}" target="_blank">🔗 原始來源</a>
+            {% endif %}
           </div>
         </div>
-      </div>
-
-      <div class="article-item">
-        <div class="article-num">4</div>
-        <div class="article-body">
-          <div class="article-badges">
-            <span class="badge badge-focus">焦點</span>
-            <span class="badge badge-cat">遠距醫療</span>
-            <span class="badge badge-cat">亞太醫療合作</span>
-          </div>
-          <div class="article-title"><a href="https://www.healthcareitnews.com/news/asia/korea-pilot-ai-driven-telemedicine-indonesia" target="_blank">韓國與印尼試行AI驅動遠距醫療，推動亞太基層醫療合作</a></div>
-          <div class="article-impact">💡 AI遠距醫療模式可強化奇美偏遠地區及離島醫療服務可及性，降低轉診成本，並為高齡化社區提供持續性照護支援，具有中期導入可行性。</div>
-          <div class="article-summary">韓國衛生福利部與印尼簽署合作備忘錄，將在印尼試行以AI為核心的遠距問診服務，重點針對基層醫療覆蓋率不足的偏遠地區。此合作包含AI輔助診斷、遠端患者監測及電子轉診系統等模組，為亞太地區首批政府層級推動AI遠距醫療的跨國合作案例之一。</div>
-          <div class="article-footer">
-            <div class="hashtags"><a class="hashtag" href="#">#遠距醫療、</a><a class="hashtag" href="#">#亞太醫療合作、</a><a class="hashtag" href="#">#基層醫療、</a><a class="hashtag" href="#">#AI輔助診斷</a></div>
-            <a class="source-link" href="https://www.healthcareitnews.com/news/asia/korea-pilot-ai-driven-telemedicine-indonesia" target="_blank">🔗 原始來源</a>
-          </div>
-        </div>
-      </div>
-
-      <div class="article-item">
-        <div class="article-num">5</div>
-        <div class="article-body">
-          <div class="article-badges">
-            <span class="badge badge-focus">焦點</span>
-            <span class="badge badge-cat">AI整合策略</span>
-            <span class="badge badge-cat">電子病歷</span>
-          </div>
-          <div class="article-title"><a href="https://www.healthcareitnews.com/news/healthcare-cios-see-ai-integration-competitive-necessity" target="_blank">醫療資訊長視AI整合為競爭必要條件，但執行落差仍顯著</a></div>
-          <div class="article-impact">💡 此報告為奇美AI整合策略規劃提供實證基礎，建議優先識別EHR整合瓶頸並建立跨部門資料治理機制，以縮短從概念驗證到全院規模部署的執行週期。</div>
-          <div class="article-summary">Qventus最新報告指出，醫療機構CIO普遍認為生成式AI整合已從策略選項升級為競爭存續必要條件。然而報告揭示執行層面存在重大落差，主要障礙包括EHR系統深度依賴、第三方軟體碎片化及組織變革管理能力不足。</div>
-          <div class="article-footer">
-            <div class="hashtags"><a class="hashtag" href="#">#AI整合策略、</a><a class="hashtag" href="#">#電子病歷、</a><a class="hashtag" href="#">#醫療資訊管理、</a><a class="hashtag" href="#">#組織變革</a></div>
-            <a class="source-link" href="https://www.healthcareitnews.com/news/healthcare-cios-see-ai-integration-competitive-necessity" target="_blank">🔗 原始來源</a>
-          </div>
-        </div>
-      </div>
-
-      <div class="article-item">
-        <div class="article-num">6</div>
-        <div class="article-body">
-          <div class="article-badges">
-            <span class="badge badge-focus">焦點</span>
-            <span class="badge badge-cat">醫療資安</span>
-            <span class="badge badge-cat">AI治理</span>
-          </div>
-          <div class="article-title"><a href="https://www.healthcareitnews.com/news/ai-security-starts-awareness-and-governance-ciso-says" target="_blank">醫療AI資安從意識培養與治理框架做起：CISO實務觀點</a></div>
-          <div class="article-impact">💡 奇美在推進AI Everywhere計畫過程中，需同步建立AI資安治理框架，包含員工AI使用規範、敏感醫療資料存取控制及AI模型輸出稽核機制。</div>
-          <div class="article-summary">Healthcare IT News訪談醫療機構資訊安全長，深入探討AI應用快速擴張下的醫療資安挑戰。文章提出分層治理框架，包含AI使用政策制定、風險評估標準化、AI供應商盡職調查強化及持續監控機制建立。</div>
-          <div class="article-footer">
-            <div class="hashtags"><a class="hashtag" href="#">#醫療資安、</a><a class="hashtag" href="#">#AI治理、</a><a class="hashtag" href="#">#資料保護、</a><a class="hashtag" href="#">#法規遵循</a></div>
-            <a class="source-link" href="https://www.healthcareitnews.com/news/ai-security-starts-awareness-and-governance-ciso-says" target="_blank">🔗 原始來源</a>
-          </div>
-        </div>
-      </div>
-
-      <div class="article-item">
-        <div class="article-num">7</div>
-        <div class="article-body">
-          <div class="article-badges">
-            <span class="badge badge-focus">焦點</span>
-            <span class="badge badge-cat">細胞治療</span>
-            <span class="badge badge-cat">自體免疫疾病</span>
-          </div>
-          <div class="article-title"><a href="https://www.statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/" target="_blank">CAR-T細胞療法在自體免疫疾病領域持續突破，五年後仍令研究者驚喜</a></div>
-          <div class="article-impact">💡 CAR-T療法的突破可能在未來3至5年內改變難治性狼瘡、類風濕性關節炎等疾病的標準治療路徑，奇美風濕免疫科及細胞治療中心應提前評估臨床試驗參與及技術合作機會。</div>
-          <div class="article-summary">STAT News深度報導顯示，CAR-T療法在自體免疫疾病領域的應用已快速擴展至類風濕性關節炎、多發性硬化症、肌炎等多種難治性疾病。臨床數據持續顯示出乎預料的長期緩解率，部分患者達到藥物停用後仍維持緩解的「功能性治癒」狀態。</div>
-          <div class="article-footer">
-            <div class="hashtags"><a class="hashtag" href="#">#CAR-T細胞療法、</a><a class="hashtag" href="#">#自體免疫疾病、</a><a class="hashtag" href="#">#細胞治療、</a><a class="hashtag" href="#">#精準醫療</a></div>
-            <a class="source-link" href="https://www.statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/" target="_blank">🔗 原始來源</a>
-          </div>
-        </div>
-      </div>
-
+      </article>
+      {% endfor %}
     </div>
+  </main>
 
-    <div class="pagination">
-      <button class="page-btn">|&lt;</button>
-      <button class="page-btn">&lt;</button>
-      <button class="page-btn active">1</button>
-      <button class="page-btn">&gt;</button>
-      <button class="page-btn">&gt;|</button>
-    </div>
-  </div>
 </div>
 
-<div class="footer">
-  🧠 奇美醫療AI每日情報｜奇美醫療體系 · AI Everywhere 計畫<br>
-  本簡報由奇美 AI Everywhere 情報代理人自動生成 · 2026年04月10日
-</div>
+<footer class="footer">
+  <strong>🧠 奇美醫療AI每日情報</strong>｜奇美醫療體系 · AI Everywhere 計畫<br>
+  本簡報由奇美 AI Everywhere 情報代理人自動生成 · {{ today }}
+</footer>
+
 </body>
 </html>
