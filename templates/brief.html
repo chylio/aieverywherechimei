@@ -385,7 +385,7 @@
   <aside class="sidebar">
     <div class="sidebar-card">
       <div class="sidebar-head">📋 情報分類</div>
-      <a class="sidebar-link active" href="#">今日精選 <span class="count">{{ items|length }}</span></a>
+      <a class="sidebar-link active" href="#" data-filter="all" onclick="filterByTag(this, 'all'); return false;">今日精選 <span class="count">{{ items|length }}</span></a>
       {% set all_tags = [] %}
       {% for item in items %}
         {% for tag in item.tags %}
@@ -393,14 +393,14 @@
         {% endfor %}
       {% endfor %}
       {% for tag in all_tags[:6] %}
-      <a class="sidebar-link" href="#">{{ tag }}</a>
+      <a class="sidebar-link" href="#" data-filter="{{ tag }}" onclick="filterByTag(this, '{{ tag }}'); return false;">{{ tag }}</a>
       {% endfor %}
     </div>
     <div class="sidebar-card">
       <div class="sidebar-head">🏷️ 熱門標籤</div>
       <div class="tag-cloud">
         {% for tag in all_tags %}
-        <a class="tag-chip" href="#">{{ tag }}</a>
+        <a class="tag-chip" href="#" data-filter="{{ tag }}" onclick="filterByTag(this, '{{ tag }}'); return false;">{{ tag }}</a>
         {% endfor %}
       </div>
     </div>
@@ -420,7 +420,7 @@
 
     <div class="article-list">
       {% for item in items %}
-      <article class="article-card">
+      <article class="article-card" data-tags="{{ item.tags | join('|') }}">
         <div class="card-num">
           <div class="num-circle {% if loop.index == 1 %}num-top1{% elif loop.index == 2 %}num-top2{% elif loop.index == 3 %}num-top3{% endif %}">
             {{ loop.index }}
@@ -465,9 +465,52 @@
 </div>
 
 <footer class="footer">
-  <strong>🧠 奇美醫療AI每日情報</strong>｜奇美醫療體系 · AI Everywhere 小組<br>
-  本簡報由奇美 AI Everywhere Agent自動生成 · {{ today }}
+  <strong>🧠 奇美醫療AI每日情報</strong>｜奇美醫療體系 · AI Everywhere 計畫<br>
+  本簡報由奇美 AI Everywhere 情報代理人自動生成 · {{ today }}
 </footer>
+
+
+<script>
+function filterByTag(el, tag) {
+  const cards = document.querySelectorAll('.article-card');
+  const sidebarLinks = document.querySelectorAll('.sidebar-link');
+  const tagChips = document.querySelectorAll('.tag-chip');
+  const listMeta = document.querySelector('.list-meta span');
+
+  sidebarLinks.forEach(l => l.classList.remove('active'));
+  tagChips.forEach(c => c.classList.remove('active'));
+  if (el) el.classList.add('active');
+
+  let visible = 0;
+  cards.forEach(card => {
+    if (tag === 'all') {
+      card.style.display = '';
+      visible++;
+    } else {
+      const cardTags = card.getAttribute('data-tags') || '';
+      const match = cardTags.split('|').some(t => t === tag);
+      if (match) { card.style.display = ''; visible++; }
+      else { card.style.display = 'none'; }
+    }
+  });
+
+  if (listMeta) listMeta.textContent = '共 ' + visible + ' 筆';
+  const countBadge = document.querySelector('.count-badge');
+  if (countBadge) countBadge.textContent = '今日精選 ' + visible + ' 則';
+
+  const visibleCards = [...cards].filter(c => c.style.display !== 'none');
+  cards.forEach(c => { c.style.borderRadius = ''; c.style.borderTop = ''; });
+  if (visibleCards.length > 0) {
+    visibleCards[0].style.borderRadius = '12px 12px 0 0';
+    visibleCards[0].style.borderTop = '1px solid var(--border)';
+    if (visibleCards.length === 1) {
+      visibleCards[0].style.borderRadius = '12px';
+    } else {
+      visibleCards[visibleCards.length - 1].style.borderRadius = '0 0 12px 12px';
+    }
+  }
+}
+</script>
 
 </body>
 </html>
