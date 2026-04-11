@@ -281,17 +281,6 @@
     gap: 16px;
     flex-wrap: wrap;
   }
-  .card-impact {
-    font-size: 0.94rem;
-    color: #1a4070;
-    background: linear-gradient(90deg, #dbeeff, #eef5ff);
-    border-left: 4px solid var(--accent);
-    padding: 12px 18px;
-    border-radius: 0 8px 8px 0;
-    margin-bottom: 12px;
-    line-height: 1.75;
-    font-weight: 500;
-  }
   .card-summary { font-size: 0.98rem; color: var(--text2); line-height: 1.9; margin-bottom: 14px; }
   .card-footer {
     display: flex;
@@ -444,7 +433,6 @@
           <div class="card-meta">
             <span>📅 {{ item.author }}</span>
           </div>
-          <div class="card-impact">💡 {{ item.impact }}</div>
           <div class="card-summary">{{ item.summary }}</div>
           <div class="card-footer">
             <div class="hashtags">
@@ -465,8 +453,8 @@
 </div>
 
 <footer class="footer">
-  <strong>🧠 奇美醫療AI每日情報</strong>｜奇美醫療體系 · AI Everywhere 小組<br>
-  本簡報由奇美 AI Everywhere Agent自動生成 · {{ today }}
+  <strong>🧠 奇美醫療AI每日情報</strong>｜奇美醫療體系 · AI Everywhere 計畫<br>
+  本簡報由奇美 AI Everywhere 情報代理人自動生成 · {{ today }}
 </footer>
 
 
