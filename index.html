@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>奇美 AI Everywhere Brief｜2026年04月10日</title>
+<title>奇美 AI Everywhere Brief｜2026年04月11日</title>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;700&family=Noto+Sans+TC:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root {
@@ -26,9 +26,7 @@
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
-
   html { scroll-behavior: smooth; }
-
   body {
     font-family: var(--sans);
     background: var(--bg);
@@ -42,7 +40,6 @@
     background: var(--navy);
     background-image: linear-gradient(135deg, #0a1628 0%, #162d58 60%, #1a4a8a 100%);
     color: #fff;
-    padding: 0;
     position: sticky;
     top: 0;
     z-index: 100;
@@ -73,11 +70,7 @@
     letter-spacing: 0.04em;
     line-height: 1.3;
   }
-  .logo-text p {
-    font-size: 0.8rem;
-    color: #8aafd4;
-    margin-top: 1px;
-  }
+  .logo-text p { font-size: 0.8rem; color: #8aafd4; margin-top: 1px; }
   .header-date {
     background: rgba(255,255,255,0.1);
     border: 1px solid rgba(255,255,255,0.18);
@@ -93,17 +86,17 @@
   .breadcrumb {
     background: var(--surface);
     border-bottom: 1px solid var(--border);
-    padding: 10px 32px;
-    font-size: 0.82rem;
-    color: var(--muted);
-    max-width: 100%;
+    padding: 10px 0;
   }
   .breadcrumb-inner {
     max-width: 1360px;
     margin: 0 auto;
+    padding: 0 32px;
     display: flex;
     align-items: center;
     gap: 6px;
+    font-size: 0.82rem;
+    color: var(--muted);
   }
   .breadcrumb a { color: var(--muted); text-decoration: none; }
   .breadcrumb a:hover { color: var(--accent); }
@@ -123,7 +116,6 @@
 
   /* ── SIDEBAR ── */
   .sidebar { position: sticky; top: 82px; }
-
   .sidebar-card {
     background: var(--surface);
     border: 1px solid var(--border);
@@ -154,11 +146,7 @@
   }
   .sidebar-link:last-child { border-bottom: none; }
   .sidebar-link:hover { background: var(--light-blue); color: var(--accent); }
-  .sidebar-link.active {
-    color: var(--accent);
-    font-weight: 700;
-    background: #eef5fd;
-  }
+  .sidebar-link.active { color: var(--accent); font-weight: 700; background: #eef5fd; }
   .sidebar-link .count {
     background: var(--light-blue);
     color: var(--accent);
@@ -167,10 +155,7 @@
     padding: 1px 7px;
     border-radius: 10px;
   }
-  .sidebar-link.active .count {
-    background: var(--accent);
-    color: #fff;
-  }
+  .sidebar-link.active .count { background: var(--accent); color: #fff; }
   .tag-cloud { padding: 16px 16px; display: flex; flex-wrap: wrap; gap: 7px; }
   .tag-chip {
     font-size: 0.84rem;
@@ -186,7 +171,6 @@
 
   /* ── MAIN ── */
   .main { min-width: 0; }
-
   .page-title-bar {
     background: var(--surface);
     border: 1px solid var(--border);
@@ -216,7 +200,6 @@
     border-radius: 20px;
     white-space: nowrap;
   }
-
   .list-meta {
     font-size: 0.82rem;
     color: var(--muted);
@@ -225,7 +208,6 @@
     align-items: center;
     gap: 10px;
     border-bottom: 2px solid var(--border);
-    margin-bottom: 0;
   }
   .list-meta-label {
     background: var(--accent);
@@ -237,12 +219,7 @@
   }
 
   /* ── ARTICLE CARD ── */
-  .article-list {
-    display: flex;
-    flex-direction: column;
-    gap: 0;
-  }
-
+  .article-list { display: flex; flex-direction: column; }
   .article-card {
     background: var(--surface);
     border: 1px solid var(--border);
@@ -252,24 +229,29 @@
     grid-template-columns: 40px 1fr;
     gap: 0 24px;
     transition: background 0.15s, box-shadow 0.15s;
-    position: relative;
+    animation: fadeUp 0.4s ease both;
   }
-  .article-card:first-child {
-    border-top: 1px solid var(--border);
-    border-radius: 12px 12px 0 0;
-  }
+  .article-card:first-child { border-top: 1px solid var(--border); border-radius: 12px 12px 0 0; }
   .article-card:last-child { border-radius: 0 0 12px 12px; }
-  .article-card:only-child { border-radius: 12px; }
-  .article-card:hover {
-    background: #fafcff;
-    box-shadow: inset 3px 0 0 var(--accent);
-  }
+  .article-card:hover { background: #fafcff; box-shadow: inset 3px 0 0 var(--accent); }
 
-  /* 左側序號欄 */
-  .card-num {
-    padding-top: 4px;
-    text-align: center;
-  }
+  
+  .article-card:nth-child(1) { animation-delay: 0.05s; }
+  
+  .article-card:nth-child(2) { animation-delay: 0.1s; }
+  
+  .article-card:nth-child(3) { animation-delay: 0.15s; }
+  
+  .article-card:nth-child(4) { animation-delay: 0.2s; }
+  
+  .article-card:nth-child(5) { animation-delay: 0.25s; }
+  
+  .article-card:nth-child(6) { animation-delay: 0.3s; }
+  
+  .article-card:nth-child(7) { animation-delay: 0.35s; }
+  
+
+  .card-num { padding-top: 4px; text-align: center; }
   .num-circle {
     width: 40px; height: 40px;
     border-radius: 50%;
@@ -280,37 +262,17 @@
     font-weight: 700;
     display: flex; align-items: center; justify-content: center;
   }
-  .article-card:nth-child(1) .num-circle { background: #fff0ee; border-color: var(--red); color: var(--red); }
-  .article-card:nth-child(2) .num-circle { background: #fff4ec; border-color: var(--orange); color: var(--orange); }
-  .article-card:nth-child(3) .num-circle { background: #edfbf4; border-color: var(--green); color: var(--green); }
+  .num-top1 { background: #fff0ee; border-color: var(--red); color: var(--red); }
+  .num-top2 { background: #fff4ec; border-color: var(--orange); color: var(--orange); }
+  .num-top3 { background: #edfbf4; border-color: var(--green); color: var(--green); }
 
-  /* 右側內容欄 */
-  .card-body {}
-
-  .card-badges {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px;
-    margin-bottom: 10px;
-    align-items: center;
-  }
-  .badge {
-    font-size: 0.72rem;
-    font-weight: 700;
-    padding: 2px 9px;
-    border-radius: 3px;
-    letter-spacing: 0.04em;
-  }
+  .card-badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; align-items: center; }
+  .badge { font-size: 0.78rem; font-weight: 700; padding: 3px 10px; border-radius: 3px; letter-spacing: 0.04em; }
   .b-top1 { background: var(--red); color: #fff; }
   .b-top2 { background: var(--orange); color: #fff; }
   .b-top3 { background: var(--green); color: #fff; }
   .b-focus { background: var(--blue); color: #fff; }
-  .b-cat {
-    background: var(--light-blue);
-    color: var(--blue);
-    font-weight: 600;
-    border: 1px solid #c5dbf5;
-  }
+  .b-cat { background: var(--light-blue); color: var(--blue); font-weight: 600; border: 1px solid #c5dbf5; }
 
   .card-title {
     font-family: var(--serif);
@@ -320,11 +282,7 @@
     line-height: 1.55;
     margin-bottom: 10px;
   }
-  .card-title a {
-    color: inherit;
-    text-decoration: none;
-    transition: color 0.15s;
-  }
+  .card-title a { color: inherit; text-decoration: none; transition: color 0.15s; }
   .article-card:hover .card-title a { color: var(--accent); }
 
   .card-meta {
@@ -334,10 +292,7 @@
     display: flex;
     gap: 16px;
     flex-wrap: wrap;
-    align-items: center;
   }
-  .card-meta span { display: flex; align-items: center; gap: 4px; }
-
   .card-impact {
     font-size: 0.94rem;
     color: #1a4070;
@@ -349,14 +304,7 @@
     line-height: 1.75;
     font-weight: 500;
   }
-
-  .card-summary {
-    font-size: 0.92rem;
-    color: var(--text2);
-    line-height: 1.9;
-    margin-bottom: 14px;
-  }
-
+  .card-summary { font-size: 0.98rem; color: var(--text2); line-height: 1.9; margin-bottom: 14px; }
   .card-footer {
     display: flex;
     align-items: center;
@@ -367,14 +315,8 @@
     border-top: 1px solid #f0f4f8;
   }
   .hashtags { display: flex; flex-wrap: wrap; gap: 6px; }
-  .hashtag {
-    font-size: 0.78rem;
-    color: var(--accent);
-    text-decoration: none;
-    transition: color 0.15s;
-  }
+  .hashtag { font-size: 0.84rem; color: var(--accent); text-decoration: none; }
   .hashtag:hover { color: var(--navy); text-decoration: underline; }
-
   .source-btn {
     display: inline-flex;
     align-items: center;
@@ -403,6 +345,12 @@
   }
   .footer strong { color: #a0bcd8; }
 
+  /* ── ANIMATIONS ── */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
   /* ── RWD ── */
   @media (max-width: 800px) {
     .layout { grid-template-columns: 1fr; padding: 20px 16px 60px; }
@@ -413,22 +361,6 @@
     .card-title { font-size: 1.05rem; }
     .page-title-bar { padding: 16px 20px; }
   }
-
-  /* ── ANIMATIONS ── */
-  @keyframes fadeUp {
-    from { opacity: 0; transform: translateY(16px); }
-    to   { opacity: 1; transform: translateY(0); }
-  }
-  .article-card {
-    animation: fadeUp 0.4s ease both;
-  }
-  .article-card:nth-child(1) { animation-delay: 0.05s; }
-  .article-card:nth-child(2) { animation-delay: 0.10s; }
-  .article-card:nth-child(3) { animation-delay: 0.15s; }
-  .article-card:nth-child(4) { animation-delay: 0.20s; }
-  .article-card:nth-child(5) { animation-delay: 0.25s; }
-  .article-card:nth-child(6) { animation-delay: 0.30s; }
-  .article-card:nth-child(7) { animation-delay: 0.35s; }
 </style>
 </head>
 <body>
@@ -443,7 +375,7 @@
         <p>奇美醫療體系 · 醫療 AI 每日情報簡報</p>
       </div>
     </div>
-    <div class="header-date">📅 2026年04月10日（星期五）</div>
+    <div class="header-date">📅 2026年04月11日（星期六）</div>
   </div>
 </header>
 
@@ -466,24 +398,146 @@
     <div class="sidebar-card">
       <div class="sidebar-head">📋 情報分類</div>
       <a class="sidebar-link active" href="#" data-filter="all" onclick="filterByTag(this, 'all'); return false;">今日精選 <span class="count">7</span></a>
-      <a class="sidebar-link" href="#" data-filter="醫院營運AI" onclick="filterByTag(this, '醫院營運AI'); return false;">醫院營運AI</a>
-      <a class="sidebar-link" href="#" data-filter="臨床決策支援" onclick="filterByTag(this, '臨床決策支援'); return false;">臨床決策支援</a>
-      <a class="sidebar-link" href="#" data-filter="精準醫療" onclick="filterByTag(this, '精準醫療'); return false;">精準醫療</a>
-      <a class="sidebar-link" href="#" data-filter="遠距醫療" onclick="filterByTag(this, '遠距醫療'); return false;">遠距醫療</a>
-      <a class="sidebar-link" href="#" data-filter="AI治理與資安" onclick="filterByTag(this, 'AI治理與資安'); return false;">AI治理與資安</a>
-      <a class="sidebar-link" href="#" data-filter="細胞治療" onclick="filterByTag(this, '細胞治療'); return false;">細胞治療</a>
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+      <a class="sidebar-link" href="#" data-filter="公共衛生監測" onclick="filterByTag(this, '公共衛生監測'); return false;">公共衛生監測</a>
+      
+      <a class="sidebar-link" href="#" data-filter="電子病歷" onclick="filterByTag(this, '電子病歷'); return false;">電子病歷</a>
+      
+      <a class="sidebar-link" href="#" data-filter="疾病預警" onclick="filterByTag(this, '疾病預警'); return false;">疾病預警</a>
+      
+      <a class="sidebar-link" href="#" data-filter="感染管制" onclick="filterByTag(this, '感染管制'); return false;">感染管制</a>
+      
+      <a class="sidebar-link" href="#" data-filter="AI 自動化" onclick="filterByTag(this, 'AI 自動化'); return false;">AI 自動化</a>
+      
+      <a class="sidebar-link" href="#" data-filter="病歷編碼" onclick="filterByTag(this, '病歷編碼'); return false;">病歷編碼</a>
+      
     </div>
     <div class="sidebar-card">
       <div class="sidebar-head">🏷️ 熱門標籤</div>
       <div class="tag-cloud">
-        <a class="tag-chip" href="#" data-filter="醫院營運AI" onclick="filterByTag(this, '醫院營運AI'); return false;">醫院營運AI</a>
-        <a class="tag-chip" href="#" data-filter="代理型AI" onclick="filterByTag(this, '代理型AI'); return false;">代理型AI</a>
-        <a class="tag-chip" href="#" data-filter="精準醫療" onclick="filterByTag(this, '精準醫療'); return false;">精準醫療</a>
-        <a class="tag-chip" href="#" data-filter="遠距醫療" onclick="filterByTag(this, '遠距醫療'); return false;">遠距醫療</a>
-        <a class="tag-chip" href="#" data-filter="CAR-T" onclick="filterByTag(this, 'CAR-T'); return false;">CAR-T</a>
-        <a class="tag-chip" href="#" data-filter="AI治理" onclick="filterByTag(this, 'AI治理'); return false;">AI治理</a>
+        
+        <a class="tag-chip" href="#" data-filter="公共衛生監測" onclick="filterByTag(this, '公共衛生監測'); return false;">公共衛生監測</a>
+        
         <a class="tag-chip" href="#" data-filter="電子病歷" onclick="filterByTag(this, '電子病歷'); return false;">電子病歷</a>
+        
+        <a class="tag-chip" href="#" data-filter="疾病預警" onclick="filterByTag(this, '疾病預警'); return false;">疾病預警</a>
+        
+        <a class="tag-chip" href="#" data-filter="感染管制" onclick="filterByTag(this, '感染管制'); return false;">感染管制</a>
+        
+        <a class="tag-chip" href="#" data-filter="AI 自動化" onclick="filterByTag(this, 'AI 自動化'); return false;">AI 自動化</a>
+        
+        <a class="tag-chip" href="#" data-filter="病歷編碼" onclick="filterByTag(this, '病歷編碼'); return false;">病歷編碼</a>
+        
+        <a class="tag-chip" href="#" data-filter="醫療行政" onclick="filterByTag(this, '醫療行政'); return false;">醫療行政</a>
+        
+        <a class="tag-chip" href="#" data-filter="營收管理" onclick="filterByTag(this, '營收管理'); return false;">營收管理</a>
+        
         <a class="tag-chip" href="#" data-filter="細胞治療" onclick="filterByTag(this, '細胞治療'); return false;">細胞治療</a>
+        
+        <a class="tag-chip" href="#" data-filter="肝細胞癌" onclick="filterByTag(this, '肝細胞癌'); return false;">肝細胞癌</a>
+        
+        <a class="tag-chip" href="#" data-filter="CAR-T" onclick="filterByTag(this, 'CAR-T'); return false;">CAR-T</a>
+        
+        <a class="tag-chip" href="#" data-filter="腫瘤免疫" onclick="filterByTag(this, '腫瘤免疫'); return false;">腫瘤免疫</a>
+        
+        <a class="tag-chip" href="#" data-filter="資料互通" onclick="filterByTag(this, '資料互通'); return false;">資料互通</a>
+        
+        <a class="tag-chip" href="#" data-filter="健康資訊交換" onclick="filterByTag(this, '健康資訊交換'); return false;">健康資訊交換</a>
+        
+        <a class="tag-chip" href="#" data-filter="行政效率" onclick="filterByTag(this, '行政效率'); return false;">行政效率</a>
+        
+        <a class="tag-chip" href="#" data-filter="成本管控" onclick="filterByTag(this, '成本管控'); return false;">成本管控</a>
+        
+        <a class="tag-chip" href="#" data-filter="流程優化" onclick="filterByTag(this, '流程優化'); return false;">流程優化</a>
+        
+        <a class="tag-chip" href="#" data-filter="醫療支付制度" onclick="filterByTag(this, '醫療支付制度'); return false;">醫療支付制度</a>
+        
+        <a class="tag-chip" href="#" data-filter="關節置換" onclick="filterByTag(this, '關節置換'); return false;">關節置換</a>
+        
+        <a class="tag-chip" href="#" data-filter="整合照護" onclick="filterByTag(this, '整合照護'); return false;">整合照護</a>
+        
+        <a class="tag-chip" href="#" data-filter="健保改革" onclick="filterByTag(this, '健保改革'); return false;">健保改革</a>
+        
+        <a class="tag-chip" href="#" data-filter="數位健康" onclick="filterByTag(this, '數位健康'); return false;">數位健康</a>
+        
+        <a class="tag-chip" href="#" data-filter="供應商管理" onclick="filterByTag(this, '供應商管理'); return false;">供應商管理</a>
+        
+        <a class="tag-chip" href="#" data-filter="醫療科技採購" onclick="filterByTag(this, '醫療科技採購'); return false;">醫療科技採購</a>
+        
+        <a class="tag-chip" href="#" data-filter="成本效益" onclick="filterByTag(this, '成本效益'); return false;">成本效益</a>
+        
       </div>
     </div>
   </aside>
@@ -491,7 +545,7 @@
   <!-- MAIN -->
   <main class="main">
     <div class="page-title-bar">
-      <h2>醫療AI每日情報｜2026年04月10日（星期五）</h2>
+      <h2>醫療AI每日情報｜2026年04月11日（星期六）</h2>
       <span class="count-badge">今日精選 7 則</span>
     </div>
 
@@ -501,239 +555,326 @@
     </div>
 
     <div class="article-list">
-
-      <!-- 第1則 -->
-      <article class="article-card" data-tags="醫院營運AI|流程自動化|床位管理|臨床資訊系統">
-        <div class="card-num"><div class="num-circle">1</div></div>
+      
+      <article class="article-card" data-tags="公共衛生監測|電子病歷|疾病預警|感染管制">
+        <div class="card-num">
+          <div class="num-circle num-top1">
+            1
+          </div>
+        </div>
         <div class="card-body">
           <div class="card-badges">
             <span class="badge b-top1">🥇 Top 1</span>
-            <span class="badge b-cat">醫院營運AI</span>
-            <span class="badge b-cat">流程自動化</span>
+            
+            
+            <span class="badge b-cat">公共衛生監測</span>
+            
+            <span class="badge b-cat">電子病歷</span>
+            
           </div>
           <div class="card-title">
-            <a href="https://medcitynews.com/2026/04/luminai-cleveland-clinic/" target="_blank">
-              Luminai獲3800萬美元融資，Cleveland Clinic實際部署AI優化醫院營運
-            </a>
+            
+            <a href="https://www.fiercehealthcare.com/health-tech/epic-rolls-out-health-alerts-flag-rising-rates-illness-county-level" target="_blank">Epic 推出縣市級疾病趨勢監測警示功能，強化早期疾病爆發偵測</a>
+            
           </div>
           <div class="card-meta">
-            <span>📅 2026/04/10</span>
-            <span>✍️ MedCity News</span>
+            <span>📅 Fierce Healthcare 編輯團隊（Fierce Healthcare）（2026-04-11）</span>
           </div>
-          <div class="card-impact">💡 醫院運營AI可直接改善床位管理效率、縮短等候時間並降低行政人員負擔，對奇美多院區協同排程與病床調度管理具有直接參考價值，值得進一步評估導入可行性。</div>
-          <div class="card-summary">AI醫院營運平台Luminai完成3800萬美元融資，Cleveland Clinic已成為其實際使用客戶。Luminai專注於醫院後端作業流程自動化，涵蓋病床管理、排程調度與行政工作流程優化。Cleveland Clinic作為全球頂尖醫學中心背書，大幅提升此技術的臨床可信度。此輪融資將用於擴展平台功能並拓展更多醫療體系合作夥伴。在醫療人力短缺與運營效率壓力持續升高的背景下，此類AI工具能協助醫院在不增加人力的情況下提升吞吐量與資源利用率。</div>
+          <div class="card-impact">💡 奇美醫療體系若採用或參考類似機制，可整合多院區就診資料進行即時疫情偵測，強化感染管制決策效能，並協助急診與門診提前因應病患湧入潮。</div>
+          <div class="card-summary">電子病歷龍頭 Epic 發布全新功能，可即時監控縣市層級的疾病發生率，當特定疾病超過門檻時自動發出警示。此功能整合 Epic 龐大的跨院所臨床資料庫，透過持續分析就診趨勢、診斷代碼與實驗室結果，提前識別流感、腸胃炎、呼吸道疾病等社區感染潮的早期訊號。對於公共衛生部門與醫院感染管制團隊而言，此工具可協助在疫情擴大前進行資源預配置，縮短應變反應時間。此一功能尤其對具備多院區、跨地域服務的醫療體系具有重要意義，可協助決策者掌握轄區內真實流行病學動態，而非仰賴滯後的官方統計資料。</div>
           <div class="card-footer">
             <div class="hashtags">
-              <a class="hashtag" href="#">#醫院營運AI</a>
-              <a class="hashtag" href="#">#流程自動化</a>
-              <a class="hashtag" href="#">#床位管理</a>
-              <a class="hashtag" href="#">#臨床資訊系統</a>
+              
+              <a class="hashtag" href="#">#公共衛生監測、</a>
+              
+              <a class="hashtag" href="#">#電子病歷、</a>
+              
+              <a class="hashtag" href="#">#疾病預警、</a>
+              
+              <a class="hashtag" href="#">#感染管制</a>
+              
             </div>
-            <a class="source-btn" href="https://medcitynews.com/2026/04/luminai-cleveland-clinic/" target="_blank">🔗 原始來源</a>
+            
+            <a class="source-btn" href="https://www.fiercehealthcare.com/health-tech/epic-rolls-out-health-alerts-flag-rising-rates-illness-county-level" target="_blank">🔗 原始來源</a>
+            
           </div>
         </div>
       </article>
-
-      <!-- 第2則 -->
-      <article class="article-card" data-tags="生成式AI|代理型AI|醫療工作流程|臨床決策支援">
-        <div class="card-num"><div class="num-circle">2</div></div>
+      
+      <article class="article-card" data-tags="AI 自動化|病歷編碼|醫療行政|營收管理">
+        <div class="card-num">
+          <div class="num-circle num-top2">
+            2
+          </div>
+        </div>
         <div class="card-body">
           <div class="card-badges">
             <span class="badge b-top2">🥈 Top 2</span>
-            <span class="badge b-cat">生成式AI</span>
-            <span class="badge b-cat">代理型AI</span>
+            
+            
+            <span class="badge b-cat">AI 自動化</span>
+            
+            <span class="badge b-cat">病歷編碼</span>
+            
           </div>
           <div class="card-title">
-            <a href="https://www.healthcareitnews.com/video/how-generative-and-agentic-ai-can-work-together-healthcare" target="_blank">
-              生成式AI與代理型AI協同應用於醫療場域的實務框架
-            </a>
+            
+            <a href="https://www.healthcareitnews.com/news/autonomous-coding-tech-boosts-revenue-51-mercyhealth" target="_blank">AI 自動化病歷編碼技術為 Mercyhealth 帶來 5.1% 營收成長</a>
+            
           </div>
           <div class="card-meta">
-            <span>📅 2026/04/10</span>
-            <span>✍️ Healthcare IT News</span>
+            <span>📅 Healthcare IT News 編輯團隊（Healthcare IT News）（2026-04-11）</span>
           </div>
-          <div class="card-impact">💡 代理型AI可自主執行臨床工作流程中的多步驟任務，有潛力減少醫護人員重複性行政負擔，並提升跨科會診、藥物核對等複雜流程的自動化程度，對奇美AI Everywhere計畫架構設計具有策略性參考價值。</div>
-          <div class="card-summary">Healthcare IT News深度探討生成式AI與代理型AI如何在醫療場域互補運作。生成式AI擅長內容生成與文件摘要，代理型AI則能自主執行多步驟任務並與外部系統互動。兩者結合可實現從臨床決策支援、自動病歷摘要到跨系統工作流程自動化的完整閉環。目前業界已有案例將代理型AI應用於術前評估自動化、出院準備流程管理等高複雜度臨床場景。</div>
+          <div class="card-impact">💡 對奇美醫院的醫務管理與健保申報團隊具直接參考價值，AI 自動化編碼可降低人力負擔、減少申報錯誤與核刪風險，進而改善整體財務績效。</div>
+          <div class="card-summary">美國威斯康辛州與伊利諾州的 Mercyhealth 醫療體系（擁有 200 個照護據點）導入自主 AI 編碼技術後，成功解決病歷積壓問題，同時確保醫療服務的完整記錄。此技術透過自然語言處理自動解讀病歷文件並產生準確的 ICD/CPT 編碼，減少人工審查時間，並提高編碼準確率，進而提升申報完整性。最終實現營收提升 5.1% 的成效。此案例說明 AI 自動化在醫療行政流程中的具體財務效益，並證明技術可在不增加人力的前提下提升作業量能。相較過去需大量人力的人工編碼模式，此方案具明顯的投資報酬率優勢。</div>
           <div class="card-footer">
             <div class="hashtags">
-              <a class="hashtag" href="#">#生成式AI</a>
-              <a class="hashtag" href="#">#代理型AI</a>
-              <a class="hashtag" href="#">#醫療工作流程</a>
-              <a class="hashtag" href="#">#臨床決策支援</a>
+              
+              <a class="hashtag" href="#">#AI 自動化、</a>
+              
+              <a class="hashtag" href="#">#病歷編碼、</a>
+              
+              <a class="hashtag" href="#">#醫療行政、</a>
+              
+              <a class="hashtag" href="#">#營收管理</a>
+              
             </div>
-            <a class="source-btn" href="https://www.healthcareitnews.com/video/how-generative-and-agentic-ai-can-work-together-healthcare" target="_blank">🔗 原始來源</a>
+            
+            <a class="source-btn" href="https://www.healthcareitnews.com/news/autonomous-coding-tech-boosts-revenue-51-mercyhealth" target="_blank">🔗 原始來源</a>
+            
           </div>
         </div>
       </article>
-
-      <!-- 第3則 -->
-      <article class="article-card" data-tags="精準醫療|AI臨床決策|慢性病管理|個體化治療">
-        <div class="card-num"><div class="num-circle">3</div></div>
+      
+      <article class="article-card" data-tags="細胞治療|肝細胞癌|CAR-T|腫瘤免疫">
+        <div class="card-num">
+          <div class="num-circle num-top3">
+            3
+          </div>
+        </div>
         <div class="card-body">
           <div class="card-badges">
             <span class="badge b-top3">🥉 Top 3</span>
-            <span class="badge b-cat">精準醫療</span>
-            <span class="badge b-cat">AI臨床決策</span>
-          </div>
-          <div class="card-title">
-            <a href="https://medcitynews.com/2026/04/ai-driven-precision-care-is-the-fix-for-our-health-systems-failures/" target="_blank">
-              AI驅動精準照護：解決醫療體系系統性失靈的關鍵路徑
-            </a>
-          </div>
-          <div class="card-meta">
-            <span>📅 2026/04/10</span>
-            <span>✍️ MedCity News</span>
-          </div>
-          <div class="card-impact">💡 精準照護AI框架可協助奇美在癌症篩檢、慢性病管理與高風險病患識別方面提升照護品質，尤其對糖尿病、心血管疾病等高盛行率疾病的個體化管理具有直接臨床應用潛力。</div>
-          <div class="card-summary">MedCity News刊載深度評論，指出AI驅動的精準照護模式被視為解決醫療體系系統性缺口的核心。文章強調，結合大型語言模型、多模態生物標記數據與即時臨床決策支援，可實現從群體醫學轉向個體化醫療的典範轉移。具體應用包括基因組學與表型數據融合用於風險分層、AI輔助早期疾病偵測、個人化治療計畫生成等。</div>
-          <div class="card-footer">
-            <div class="hashtags">
-              <a class="hashtag" href="#">#精準醫療</a>
-              <a class="hashtag" href="#">#AI臨床決策</a>
-              <a class="hashtag" href="#">#慢性病管理</a>
-              <a class="hashtag" href="#">#個體化治療</a>
-            </div>
-            <a class="source-btn" href="https://medcitynews.com/2026/04/ai-driven-precision-care-is-the-fix-for-our-health-systems-failures/" target="_blank">🔗 原始來源</a>
-          </div>
-        </div>
-      </article>
-
-      <!-- 第4則 -->
-      <article class="article-card" data-tags="遠距醫療|亞太醫療合作|基層醫療|AI輔助診斷">
-        <div class="card-num"><div class="num-circle">4</div></div>
-        <div class="card-body">
-          <div class="card-badges">
-            <span class="badge b-focus">焦點</span>
-            <span class="badge b-cat">遠距醫療</span>
-            <span class="badge b-cat">亞太醫療合作</span>
-          </div>
-          <div class="card-title">
-            <a href="https://www.healthcareitnews.com/news/asia/korea-pilot-ai-driven-telemedicine-indonesia" target="_blank">
-              韓國與印尼試行AI驅動遠距醫療，推動亞太基層醫療合作
-            </a>
-          </div>
-          <div class="card-meta">
-            <span>📅 2026/04/10</span>
-            <span>✍️ Healthcare IT News Asia</span>
-          </div>
-          <div class="card-impact">💡 AI遠距醫療模式可強化奇美偏遠地區及離島醫療服務可及性，降低轉診成本，並為高齡化社區提供持續性照護支援，具有中期導入可行性。</div>
-          <div class="card-summary">韓國衛生福利部與印尼簽署合作備忘錄，將在印尼試行以AI為核心的遠距問診服務，重點針對基層醫療覆蓋率不足的偏遠地區。此合作包含AI輔助診斷、遠端患者監測及電子轉診系統等模組，旨在彌補醫療資源分配不均的問題。此案為亞太地區首批以政府層級推動AI遠距醫療的跨國合作案例之一，具有政策示範意義。</div>
-          <div class="card-footer">
-            <div class="hashtags">
-              <a class="hashtag" href="#">#遠距醫療</a>
-              <a class="hashtag" href="#">#亞太醫療合作</a>
-              <a class="hashtag" href="#">#基層醫療</a>
-              <a class="hashtag" href="#">#AI輔助診斷</a>
-            </div>
-            <a class="source-btn" href="https://www.healthcareitnews.com/news/asia/korea-pilot-ai-driven-telemedicine-indonesia" target="_blank">🔗 原始來源</a>
-          </div>
-        </div>
-      </article>
-
-      <!-- 第5則 -->
-      <article class="article-card" data-tags="AI整合策略|電子病歷|醫療資訊管理|組織變革">
-        <div class="card-num"><div class="num-circle">5</div></div>
-        <div class="card-body">
-          <div class="card-badges">
-            <span class="badge b-focus">焦點</span>
-            <span class="badge b-cat">AI整合策略</span>
-            <span class="badge b-cat">電子病歷</span>
-          </div>
-          <div class="card-title">
-            <a href="https://www.healthcareitnews.com/news/healthcare-cios-see-ai-integration-competitive-necessity" target="_blank">
-              醫療資訊長視AI整合為競爭必要條件，但執行落差仍顯著
-            </a>
-          </div>
-          <div class="card-meta">
-            <span>📅 2026/04/10</span>
-            <span>✍️ Healthcare IT News</span>
-          </div>
-          <div class="card-impact">💡 此報告為奇美AI整合策略規劃提供實證基礎，建議優先識別EHR整合瓶頸並建立跨部門資料治理機制，以縮短從概念驗證到全院規模部署的執行週期。</div>
-          <div class="card-summary">Qventus最新報告指出，醫療機構CIO普遍認為生成式AI整合已從策略選項升級為競爭存續必要條件。然而，報告同時揭示執行層面存在重大落差，主要障礙包括電子病歷系統的深度依賴造成整合困難、第三方軟體介面碎片化、資料品質不一致及組織變革管理能力不足。報告建議採取分階段導入策略，優先從行政自動化切入，再逐步擴展至臨床決策支援場景。</div>
-          <div class="card-footer">
-            <div class="hashtags">
-              <a class="hashtag" href="#">#AI整合策略</a>
-              <a class="hashtag" href="#">#電子病歷</a>
-              <a class="hashtag" href="#">#醫療資訊管理</a>
-              <a class="hashtag" href="#">#組織變革</a>
-            </div>
-            <a class="source-btn" href="https://www.healthcareitnews.com/news/healthcare-cios-see-ai-integration-competitive-necessity" target="_blank">🔗 原始來源</a>
-          </div>
-        </div>
-      </article>
-
-      <!-- 第6則 -->
-      <article class="article-card" data-tags="醫療資安|AI治理|資料保護|法規遵循">
-        <div class="card-num"><div class="num-circle">6</div></div>
-        <div class="card-body">
-          <div class="card-badges">
-            <span class="badge b-focus">焦點</span>
-            <span class="badge b-cat">醫療資安</span>
-            <span class="badge b-cat">AI治理</span>
-          </div>
-          <div class="card-title">
-            <a href="https://www.healthcareitnews.com/news/ai-security-starts-awareness-and-governance-ciso-says" target="_blank">
-              醫療AI資安從意識培養與治理框架做起：CISO實務觀點
-            </a>
-          </div>
-          <div class="card-meta">
-            <span>📅 2026/04/10</span>
-            <span>✍️ Healthcare IT News</span>
-          </div>
-          <div class="card-impact">💡 奇美在推進AI Everywhere計畫過程中，需同步建立AI資安治理框架，包含員工AI使用規範、敏感醫療資料存取控制及AI模型輸出稽核機制，以確保病患資料安全與法規遵循。</div>
-          <div class="card-summary">Healthcare IT News訪談醫療機構資訊安全長，深入探討AI應用快速擴張下的醫療資安挑戰。受訪者強調，醫療AI資安風險不僅限於技術層面，更涵蓋員工使用行為、第三方AI工具引入管理及模型輸出可信度驗證等面向。文章提出分層治理框架，包含AI使用政策制定、風險評估標準化、AI供應商盡職調查強化及持續監控機制建立。</div>
-          <div class="card-footer">
-            <div class="hashtags">
-              <a class="hashtag" href="#">#醫療資安</a>
-              <a class="hashtag" href="#">#AI治理</a>
-              <a class="hashtag" href="#">#資料保護</a>
-              <a class="hashtag" href="#">#法規遵循</a>
-            </div>
-            <a class="source-btn" href="https://www.healthcareitnews.com/news/ai-security-starts-awareness-and-governance-ciso-says" target="_blank">🔗 原始來源</a>
-          </div>
-        </div>
-      </article>
-
-      <!-- 第7則 -->
-      <article class="article-card" data-tags="細胞治療|自體免疫疾病|CAR-T細胞療法|精準醫療">
-        <div class="card-num"><div class="num-circle">7</div></div>
-        <div class="card-body">
-          <div class="card-badges">
-            <span class="badge b-focus">焦點</span>
+            
+            
             <span class="badge b-cat">細胞治療</span>
-            <span class="badge b-cat">自體免疫疾病</span>
+            
+            <span class="badge b-cat">肝細胞癌</span>
+            
           </div>
           <div class="card-title">
-            <a href="https://www.statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/" target="_blank">
-              CAR-T細胞療法在自體免疫疾病領域持續突破，五年後仍令研究者驚喜
-            </a>
+            
+            <a href="https://medcitynews.com/2026/04/oricell-liver-cancer-car-t-cell-therapy-solid-tumor-hepatocellular-carcinoma-gpc3-hcc/" target="_blank">Oricell 獲 1.1 億美元融資，推進 CAR-T 細胞療法攻克肝癌等實體腫瘤</a>
+            
           </div>
           <div class="card-meta">
-            <span>📅 2026/04/09</span>
-            <span>✍️ STAT News</span>
+            <span>📅 MedCity News 編輯團隊（MedCity News）（2026-04-11）</span>
           </div>
-          <div class="card-impact">💡 CAR-T療法在自體免疫疾病的突破可能在未來3至5年內改變難治性狼瘡、類風濕性關節炎等疾病的標準治療路徑，奇美風濕免疫科及細胞治療中心應提前評估臨床試驗參與及技術合作機會。</div>
-          <div class="card-summary">STAT News深度報導顯示，自2021年狼瘡患者接受CAR-T治療取得突破性緩解以來，CAR-T療法在自體免疫疾病領域的應用已快速擴展至類風濕性關節炎、多發性硬化症、肌炎等多種難治性疾病。臨床數據持續顯示出乎預料的長期緩解率，部分患者達到藥物停用後仍維持緩解的「功能性治癒」狀態。</div>
+          <div class="card-impact">💡 肝癌為奇美醫院消化外科與腫瘤科重要疾病負擔，CAR-T 實體腫瘤療法的突破若進入臨床應用，將對治療策略與細胞治療中心規劃產生重大影響。</div>
+          <div class="card-summary">生物科技公司 Oricell 完成 1.1 億美元（約新台幣 36 億元）融資，目標是將 CAR-T 細胞療法的應用範疇從血液腫瘤擴展至實體腫瘤，重點針對肝細胞癌（HCC）。該公司以 GPC3（磷脂醯肌醇蛋白聚糖-3）為靶點，設計針對肝癌特異性抗原的 CAR-T 細胞，突破傳統 CAR-T 在實體腫瘤中因腫瘤微環境免疫抑制而療效不佳的瓶頸。肝細胞癌為台灣重要癌症議題，本土發生率居全球前列，此技術若進入臨床驗證與商業化，對台灣腫瘤科具有高度前瞻意義，值得持續追蹤其臨床試驗進展。</div>
           <div class="card-footer">
             <div class="hashtags">
-              <a class="hashtag" href="#">#CAR-T細胞療法</a>
-              <a class="hashtag" href="#">#自體免疫疾病</a>
-              <a class="hashtag" href="#">#細胞治療</a>
-              <a class="hashtag" href="#">#精準醫療</a>
+              
+              <a class="hashtag" href="#">#細胞治療、</a>
+              
+              <a class="hashtag" href="#">#肝細胞癌、</a>
+              
+              <a class="hashtag" href="#">#CAR-T、</a>
+              
+              <a class="hashtag" href="#">#腫瘤免疫</a>
+              
             </div>
-            <a class="source-btn" href="https://www.statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/" target="_blank">🔗 原始來源</a>
+            
+            <a class="source-btn" href="https://medcitynews.com/2026/04/oricell-liver-cancer-car-t-cell-therapy-solid-tumor-hepatocellular-carcinoma-gpc3-hcc/" target="_blank">🔗 原始來源</a>
+            
           </div>
         </div>
       </article>
-
-    </div><!-- /article-list -->
+      
+      <article class="article-card" data-tags="資料互通|健康資訊交換|行政效率|電子病歷">
+        <div class="card-num">
+          <div class="num-circle ">
+            4
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="card-badges">
+            <span class="badge b-focus">焦點</span>
+            
+            <span class="badge b-cat">資料互通</span>
+            
+            <span class="badge b-cat">健康資訊交換</span>
+            
+          </div>
+          <div class="card-title">
+            
+            <a href="https://medcitynews.com/2026/04/epic-tefca-disability-benefits-hospitals/" target="_blank">TEFCA 資料互通架構加速失能給付審核流程，醫院行政效率顯著提升</a>
+            
+          </div>
+          <div class="card-meta">
+            <span>📅 MedCity News 編輯團隊（MedCity News）（2026-04-11）</span>
+          </div>
+          <div class="card-impact">💡 奇美醫療體系在推動跨院資料整合與健保申報優化時，可參考 TEFCA 模式設計安全高效的資料交換機制，降低醫事行政人力成本並提升流程合規性。</div>
+          <div class="card-summary">美國受信任交換框架與共同協議（TEFCA）正被應用於加速醫院與社會安全局之間的失能福利審查資料傳輸，顯著縮短了傳統耗時數週的文件調閱程序。透過 Epic 系統與 TEFCA 的整合，醫院可安全地即時傳輸相關病歷資料，減少行政人員手動處理文件的工作量，並提升病患申請審核速度。此案例展示健康資料互通標準在具體行政流程中的實用價值，也說明跨機構資料共享不僅能改善臨床決策，亦能大幅提升非臨床的行政運作效率。對於正在推動資料互通的台灣健康資訊交換體系而言具有參考意義。</div>
+          <div class="card-footer">
+            <div class="hashtags">
+              
+              <a class="hashtag" href="#">#資料互通、</a>
+              
+              <a class="hashtag" href="#">#健康資訊交換、</a>
+              
+              <a class="hashtag" href="#">#行政效率、</a>
+              
+              <a class="hashtag" href="#">#電子病歷</a>
+              
+            </div>
+            
+            <a class="source-btn" href="https://medcitynews.com/2026/04/epic-tefca-disability-benefits-hospitals/" target="_blank">🔗 原始來源</a>
+            
+          </div>
+        </div>
+      </article>
+      
+      <article class="article-card" data-tags="醫療行政|AI 自動化|成本管控|流程優化">
+        <div class="card-num">
+          <div class="num-circle ">
+            5
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="card-badges">
+            <span class="badge b-focus">焦點</span>
+            
+            <span class="badge b-cat">醫療行政</span>
+            
+            <span class="badge b-cat">AI 自動化</span>
+            
+          </div>
+          <div class="card-title">
+            
+            <a href="https://medcitynews.com/2026/04/healthcares-most-fixable-cost-problem-administrative-waste/" target="_blank">醫療行政浪費是最可解決的成本問題：AI 如何重塑醫療營運效率</a>
+            
+          </div>
+          <div class="card-meta">
+            <span>📅 MedCity News 編輯團隊（MedCity News）（2026-04-11）</span>
+          </div>
+          <div class="card-impact">💡 奇美醫院可參考此框架，優先評估行政流程中 AI 自動化的導入順序，以健保申報、病歷文件審查與預約排程為優先切入點，快速實現可量化效益。</div>
+          <div class="card-summary">MedCity News 深度報導指出，醫療行政浪費佔美國醫療總支出逾 30%，涵蓋事前授權、帳單對帳、文件重複處理等環節。文章強調，相較於臨床端的複雜變數，行政流程的標準化程度較高，是 AI 自動化最具立即投資報酬率的切入點。具體建議包括：導入 AI 驅動的事前授權自動核准系統、智慧帳務對帳工具與自然語言處理文件助理。文章亦指出，醫療機構在採購數位解決方案時常面臨「供應商蔓延」問題，統一平台管理優於分散採購。此觀點對台灣醫院在評估 AI 行政解決方案時具策略性參考價值。</div>
+          <div class="card-footer">
+            <div class="hashtags">
+              
+              <a class="hashtag" href="#">#醫療行政、</a>
+              
+              <a class="hashtag" href="#">#AI 自動化、</a>
+              
+              <a class="hashtag" href="#">#成本管控、</a>
+              
+              <a class="hashtag" href="#">#流程優化</a>
+              
+            </div>
+            
+            <a class="source-btn" href="https://medcitynews.com/2026/04/healthcares-most-fixable-cost-problem-administrative-waste/" target="_blank">🔗 原始來源</a>
+            
+          </div>
+        </div>
+      </article>
+      
+      <article class="article-card" data-tags="醫療支付制度|關節置換|整合照護|健保改革">
+        <div class="card-num">
+          <div class="num-circle ">
+            6
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="card-badges">
+            <span class="badge b-focus">焦點</span>
+            
+            <span class="badge b-cat">醫療支付制度</span>
+            
+            <span class="badge b-cat">關節置換</span>
+            
+          </div>
+          <div class="card-title">
+            
+            <a href="https://www.fiercehealthcare.com/providers/cms-proposes-24-hospital-pay-increase-nationwide-mandatory-model-rollout" target="_blank">CMS 提案 FY2027 醫院給付調漲 2.4%，並全國強制推行關節置換照護支付模式</a>
+            
+          </div>
+          <div class="card-meta">
+            <span>📅 Fierce Healthcare 編輯團隊（Fierce Healthcare）（2026-04-11）</span>
+          </div>
+          <div class="card-impact">💡 奇美骨科與復健科可關注此支付模式設計邏輯，提前評估關節置換術的整合照護路徑效率，為未來健保支付改革預作準備。</div>
+          <div class="card-summary">美國醫療保險與醫療補助服務中心（CMS）發布 FY2027 住院前瞻性給付系統（IPPS）提案規則，建議將住院給付提升約 2.4%（折合約 14 億美元年度增額）。更重要的是，提案首次提出全國強制推行「關節置換綜合照護模式（CJR）」，要求特定地區醫院針對膝關節與髖關節置換術採用以成效為基礎的整合式支付機制，打包涵蓋術前評估至術後復健的完整照護費用。此政策走向反映美國醫療支付體系從量到質的結構性轉型，對台灣 DRG 及整合照護支付政策改革方向具前瞻性參考意義。</div>
+          <div class="card-footer">
+            <div class="hashtags">
+              
+              <a class="hashtag" href="#">#醫療支付制度、</a>
+              
+              <a class="hashtag" href="#">#關節置換、</a>
+              
+              <a class="hashtag" href="#">#整合照護、</a>
+              
+              <a class="hashtag" href="#">#健保改革</a>
+              
+            </div>
+            
+            <a class="source-btn" href="https://www.fiercehealthcare.com/providers/cms-proposes-24-hospital-pay-increase-nationwide-mandatory-model-rollout" target="_blank">🔗 原始來源</a>
+            
+          </div>
+        </div>
+      </article>
+      
+      <article class="article-card" data-tags="數位健康|供應商管理|醫療科技採購|成本效益">
+        <div class="card-num">
+          <div class="num-circle ">
+            7
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="card-badges">
+            <span class="badge b-focus">焦點</span>
+            
+            <span class="badge b-cat">數位健康</span>
+            
+            <span class="badge b-cat">供應商管理</span>
+            
+          </div>
+          <div class="card-title">
+            
+            <a href="https://www.fiercehealthcare.com/digital-health/benefits-leaders-report-increased-operational-financial-costs-amid-digital-health" target="_blank">數位健康供應商過度分散使企業成本激增，90% 福利主管年支出逾百萬美元</a>
+            
+          </div>
+          <div class="card-meta">
+            <span>📅 Fierce Healthcare 編輯團隊（Fierce Healthcare）（2026-04-11）</span>
+          </div>
+          <div class="card-impact">💡 奇美醫療體系在評估或擴展數位健康服務組合時，應優先考量平台整合性與資料互通能力，避免因系統分散導致管理成本失控與效益難以追蹤。</div>
+          <div class="card-summary">Solera Health 針對企業福利主管進行的調查顯示，42% 的受訪者正管理八個以上的數位健康供應商，90% 表示每年在數位健康方案上的支出超過 100 萬美元。「數位健康供應商蔓延」問題導致整合困難、資料孤島林立、使用者體驗碎片化，並使管理複雜度大幅提升。報告建議採用整合型健康平台以取代分散採購策略，強調平台整合能力、資料互通性與成效追蹤機制為選擇供應商的核心指標。此調查揭示數位轉型在採購策略層面的常見陷阱，對醫院與企業在規劃健康管理解決方案時具警示作用。</div>
+          <div class="card-footer">
+            <div class="hashtags">
+              
+              <a class="hashtag" href="#">#數位健康、</a>
+              
+              <a class="hashtag" href="#">#供應商管理、</a>
+              
+              <a class="hashtag" href="#">#醫療科技採購、</a>
+              
+              <a class="hashtag" href="#">#成本效益</a>
+              
+            </div>
+            
+            <a class="source-btn" href="https://www.fiercehealthcare.com/digital-health/benefits-leaders-report-increased-operational-financial-costs-amid-digital-health" target="_blank">🔗 原始來源</a>
+            
+          </div>
+        </div>
+      </article>
+      
+    </div>
   </main>
 
-</div><!-- /layout -->
+</div>
 
 <footer class="footer">
   <strong>🧠 奇美醫療AI每日情報</strong>｜奇美醫療體系 · AI Everywhere 小組<br>
-  本簡報由奇美 AI Everywhere Agent自動生成 · 2026年04月10日
+  本簡報由奇美 AI Everywhere Agent自動生成 · 2026年04月11日
 </footer>
 
 
@@ -744,9 +885,7 @@ function filterByTag(el, tag) {
   const tagChips = document.querySelectorAll('.tag-chip');
   const listMeta = document.querySelector('.list-meta span');
 
-  // Update active state - sidebar
   sidebarLinks.forEach(l => l.classList.remove('active'));
-  // Update active state - tag chips
   tagChips.forEach(c => c.classList.remove('active'));
   if (el) el.classList.add('active');
 
@@ -758,28 +897,17 @@ function filterByTag(el, tag) {
     } else {
       const cardTags = card.getAttribute('data-tags') || '';
       const match = cardTags.split('|').some(t => t === tag);
-      if (match) {
-        card.style.display = '';
-        visible++;
-      } else {
-        card.style.display = 'none';
-      }
+      if (match) { card.style.display = ''; visible++; }
+      else { card.style.display = 'none'; }
     }
   });
 
-  // Update count
   if (listMeta) listMeta.textContent = '共 ' + visible + ' 筆';
-
-  // Update count badge
   const countBadge = document.querySelector('.count-badge');
   if (countBadge) countBadge.textContent = '今日精選 ' + visible + ' 則';
 
-  // Fix border-radius for first/last visible card
   const visibleCards = [...cards].filter(c => c.style.display !== 'none');
-  cards.forEach(c => {
-    c.style.borderRadius = '';
-    c.style.borderTop = '';
-  });
+  cards.forEach(c => { c.style.borderRadius = ''; c.style.borderTop = ''; });
   if (visibleCards.length > 0) {
     visibleCards[0].style.borderRadius = '12px 12px 0 0';
     visibleCards[0].style.borderTop = '1px solid var(--border)';
