@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>奇美醫療AI每日情報 — 近7天</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Segoe UI', 'Microsoft JhengHei', sans-serif;
+    background: #f0f4f8;
+    color: #1a2a3a;
+  }
+
+  /* ── Header ── */
+  header {
+    background: #003366;
+    color: #fff;
+    padding: 24px 32px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  header .logo { font-size: 2rem; }
+  header h1 { font-size: 1.5rem; font-weight: 700; }
+  header p  { margin-top: 4px; opacity: .8; font-size: .875rem; }
+
+  /* ── Tab Bar ── */
+  .tab-bar {
+    background: #fff;
+    border-bottom: 2px solid #e2e8f0;
+    padding: 0 32px;
+    display: flex;
+    gap: 4px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+  .tab-bar::-webkit-scrollbar { display: none; }
+
+  .tab {
+    padding: 14px 20px;
+    cursor: pointer;
+    font-size: .9rem;
+    color: #64748b;
+    border-bottom: 3px solid transparent;
+    white-space: nowrap;
+    transition: all .2s;
+    user-select: none;
+  }
+  .tab:hover { color: #003366; background: #f8fafc; }
+  .tab.active {
+    color: #003366;
+    border-bottom-color: #003366;
+    font-weight: 600;
+  }
+  .tab .date-num { font-size: 1.1rem; font-weight: 700; display: block; }
+  .tab .date-day { font-size: .75rem; opacity: .7; }
+  .tab.no-data { opacity: .4; cursor: default; }
+  .tab.no-data:hover { background: transparent; color: #64748b; }
+
+  /* ── Main ── */
+  main { max-width: 900px; margin: 32px auto; padding: 0 24px; }
+
+  /* ── Stats ── */
+  .stats {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+  }
+  .stat-card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 16px 24px;
+    flex: 1;
+    min-width: 120px;
+    text-align: center;
+    box-shadow: 0 1px 4px rgba(0,0,0,.08);
+  }
+  .stat-card .num { font-size: 2rem; font-weight: 700; color: #003366; }
+  .stat-card .label { font-size: .8rem; color: #64748b; margin-top: 4px; }
+
+  /* ── News Cards ── */
+  .news-list { display: flex; flex-direction: column; gap: 16px; }
+
+  .news-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0 1px 6px rgba(0,0,0,.08);
+    transition: box-shadow .2s;
+  }
+  .news-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,.12); }
+
+  .card-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    margin-bottom: 12px;
+  }
+  .rank-badge {
+    background: #003366;
+    color: #fff;
+    border-radius: 8px;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: .95rem;
+    flex-shrink: 0;
+  }
+  .rank-badge.top1 { background: #d4af37; }
+  .rank-badge.top2 { background: #94a3b8; }
+  .rank-badge.top3 { background: #b87333; }
+
+  .card-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #1a2a3a;
+    line-height: 1.4;
+  }
+
+  .score-bar-wrap { margin: 12px 0; }
+  .score-label {
+    display: flex;
+    justify-content: space-between;
+    font-size: .8rem;
+    color: #64748b;
+    margin-bottom: 4px;
+  }
+  .score-bar {
+    background: #e2e8f0;
+    border-radius: 99px;
+    height: 6px;
+    overflow: hidden;
+  }
+  .score-fill {
+    height: 100%;
+    border-radius: 99px;
+    background: linear-gradient(90deg, #003366, #0066cc);
+    transition: width .6s ease;
+  }
+
+  .summary {
+    font-size: .9rem;
+    line-height: 1.7;
+    color: #334155;
+    margin: 12px 0;
+  }
+
+  .tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0; }
+  .tag {
+    background: #e8f0fb;
+    color: #003366;
+    border-radius: 99px;
+    padding: 4px 12px;
+    font-size: .78rem;
+    font-weight: 500;
+  }
+
+  .card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 16px;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .author { font-size: .8rem; color: #94a3b8; }
+
+  .source-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: #003366;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-size: .82rem;
+    font-weight: 500;
+    transition: background .2s;
+  }
+  .source-btn:hover { background: #004a99; }
+  .source-btn.disabled {
+    background: #e2e8f0;
+    color: #94a3b8;
+    cursor: default;
+    pointer-events: none;
+  }
+
+  /* ── State: Loading / Empty ── */
+  .state-box {
+    background: #fff;
+    border-radius: 12px;
+    padding: 60px 24px;
+    text-align: center;
+    box-shadow: 0 1px 6px rgba(0,0,0,.08);
+  }
+  .state-box .icon { font-size: 2.5rem; margin-bottom: 12px; }
+  .state-box p { color: #64748b; font-size: .95rem; }
+
+  .spinner {
+    width: 40px; height: 40px;
+    border: 4px solid #e2e8f0;
+    border-top-color: #003366;
+    border-radius: 50%;
+    animation: spin .8s linear infinite;
+    margin: 0 auto 16px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── Footer ── */
+  footer {
+    text-align: center;
+    padding: 40px 24px;
+    color: #94a3b8;
+    font-size: .8rem;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">🧠</div>
+  <div>
+    <h1>奇美醫療AI每日情報</h1>
+    <p>Chimei AI Everywhere · 近7天情報總覽</p>
+  </div>
+</header>
+
+<!-- Tab Bar -->
+<div class="tab-bar" id="tabBar"></div>
+
+<!-- Content -->
+<main id="mainContent">
+  <div class="state-box">
+    <div class="spinner"></div>
+    <p>載入中…</p>
+  </div>
+</main>
+
+<footer>奇美醫療體系 AI 情報中心 · 每日 08:30 自動更新</footer>
+
+<script>
+// ── 設定：JSON 檔案路徑前綴 ──────────────────────────────
+// 若此 HTML 放在 repo 根目錄，JSON 在 output/ 資料夾下：
+const JSON_BASE = 'output/';
+// 若放在同一層，改為 './'
+// ────────────────────────────────────────────────────────
+
+const WEEKDAYS = ['日','一','二','三','四','五','六'];
+let currentDate = '';
+let cache = {};
+
+// ── 產生最近 7 天的日期清單 ──────────────────────────────
+function getLast7Days() {
+  const days = [];
+  for (let i = 0; i < 7; i++) {
+    const d = new Date();
+    d.setDate(d.getDate() - i);
+    const y = d.getFullYear();
+    const m = String(d.getMonth() + 1).padStart(2, '0');
+    const dd = String(d.getDate()).padStart(2, '0');
+    days.push({
+      key: `${y}-${m}-${dd}`,
+      month: m,
+      day: dd,
+      weekday: WEEKDAYS[d.getDay()],
+      isToday: i === 0
+    });
+  }
+  return days;
+}
+
+// ── 載入 JSON ─────────────────────────────────────────────
+async function loadData(dateKey) {
+  if (cache[dateKey] !== undefined) return cache[dateKey];
+  try {
+    const res = await fetch(`${JSON_BASE}${dateKey}.json`);
+    if (!res.ok) { cache[dateKey] = null; return null; }
+    const data = await res.json();
+    cache[dateKey] = data;
+    return data;
+  } catch {
+    cache[dateKey] = null;
+    return null;
+  }
+}
+
+// ── 渲染 Tab Bar ──────────────────────────────────────────
+function renderTabs(days) {
+  const bar = document.getElementById('tabBar');
+  bar.innerHTML = '';
+  days.forEach(d => {
+    const tab = document.createElement('div');
+    tab.className = 'tab' + (d.key === currentDate ? ' active' : '');
+    tab.dataset.key = d.key;
+    tab.innerHTML = `
+      <span class="date-num">${d.month}/${d.day}</span>
+      <span class="date-day">星期${d.weekday}${d.isToday ? ' · 今天' : ''}</span>
+    `;
+    tab.addEventListener('click', () => switchDay(d.key, days));
+    bar.appendChild(tab);
+  });
+}
+
+// ── 渲染新聞卡片 ──────────────────────────────────────────
+function renderCards(data) {
+  if (!data || !data.items || data.items.length === 0) {
+    return `<div class="state-box">
+      <div class="icon">📭</div>
+      <p>這天沒有資料</p>
+    </div>`;
+  }
+
+  const items = data.items;
+  const total = items.length;
+
+  const stats = `
+    <div class="stats">
+      <div class="stat-card">
+        <div class="num">${total}</div>
+        <div class="label">今日精選</div>
+      </div>
+      <div class="stat-card">
+        <div class="num">${items.filter(i => i.score >= 8).length}</div>
+        <div class="label">高分新聞（≥8分）</div>
+      </div>
+      <div class="stat-card">
+        <div class="num">${data.date || ''}</div>
+        <div class="label">日期</div>
+      </div>
+    </div>`;
+
+  const cards = items.map((item, idx) => {
+    const rank = item.rank || idx + 1;
+    const badgeClass = rank === 1 ? 'top1' : rank === 2 ? 'top2' : rank === 3 ? 'top3' : '';
+    const score = parseFloat(item.score) || 0;
+    const tags = (item.tags || []).map(t => `<span class="tag">#${t}</span>`).join('');
+    const sourceBtn = item.source_url
+      ? `<a href="${item.source_url}" target="_blank" class="source-btn">🔗 原始來源</a>`
+      : `<span class="source-btn disabled">🔗 無來源連結</span>`;
+
+    return `
+      <div class="news-card">
+        <div class="card-header">
+          <div class="rank-badge ${badgeClass}">${rank}</div>
+          <div class="card-title">${item.title || '（無標題）'}</div>
+        </div>
+        <div class="score-bar-wrap">
+          <div class="score-label">
+            <span>重要性評分</span>
+            <span><strong>${score.toFixed(1)}</strong> / 10</span>
+          </div>
+          <div class="score-bar">
+            <div class="score-fill" style="width:${score * 10}%"></div>
+          </div>
+        </div>
+        <p class="summary">${item.summary || ''}</p>
+        <div class="tags">${tags}</div>
+        <div class="card-footer">
+          <span class="author">✍️ ${item.author || '未標示'}</span>
+          ${sourceBtn}
+        </div>
+      </div>`;
+  }).join('');
+
+  return stats + `<div class="news-list">${cards}</div>`;
+}
+
+// ── 切換日期 ──────────────────────────────────────────────
+async function switchDay(dateKey, days) {
+  currentDate = dateKey;
+
+  // 更新 Tab 狀態
+  document.querySelectorAll('.tab').forEach(t => {
+    t.classList.toggle('active', t.dataset.key === dateKey);
+  });
+
+  // 顯示 Loading
+  const main = document.getElementById('mainContent');
+  main.innerHTML = `<div class="state-box"><div class="spinner"></div><p>載入中…</p></div>`;
+
+  // 載入資料
+  const data = await loadData(dateKey);
+  main.innerHTML = renderCards(data);
+}
+
+// ── 初始化 ────────────────────────────────────────────────
+async function init() {
+  const days = getLast7Days();
+  currentDate = days[0].key;
+  renderTabs(days);
+  await switchDay(currentDate, days);
+}
+
+init();
+</script>
+</body>
+</html>
