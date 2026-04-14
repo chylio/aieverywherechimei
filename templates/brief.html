@@ -450,7 +450,7 @@
 <div class="date-nav">
   <div class="date-nav-inner">
     <span class="date-nav-label">📅 近7日</span>
-    {% for d in available_dates %}
+    {% for d in available_dates | reverse %}
       {% if d.is_today %}
         <a class="date-btn active" href="./{{ d.date_iso }}.html">
           <span class="date-btn-weekday">今天</span>
