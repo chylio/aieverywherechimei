@@ -28,6 +28,27 @@ TODAY_STR    = TODAY.strftime("%Y年%m月%d日")
 WEEKDAY_MAP  = ["星期一","星期二","星期三","星期四","星期五","星期六","星期日"]
 WEEKDAY_STR  = WEEKDAY_MAP[TODAY.weekday()]
 
+
+def get_available_dates() -> list[dict]:
+    """取得過去 7 天的日期資訊，標示哪些天已有儲存的 HTML。
+    歷史 HTML 由 GitHub Actions 複製到 repo 根目錄，所以從根目錄判斷。
+    """
+    ROOT_DIR = pathlib.Path(".")   # repo 根目錄（GitHub Actions 執行位置）
+    dates = []
+    for i in range(7):
+        d = TODAY - datetime.timedelta(days=i)
+        html_path = ROOT_DIR / f"{d.isoformat()}.html"
+        is_today = (d == TODAY)
+        dates.append({
+            "date": d,
+            "month_day": d.strftime("%m/%d"),
+            "date_iso": d.isoformat(),
+            "weekday": WEEKDAY_MAP[d.weekday()],
+            "available": html_path.exists() or is_today,
+            "is_today": is_today,
+        })
+    return dates
+
 # 醫療 AI 相關 RSS 來源
 RSS_FEEDS = [
     # 國際
@@ -192,7 +213,7 @@ def call_claude(news_text: str, max_retries: int = 3) -> list[dict]:
 
 # ─── HTML 產生 ─────────────────────────────────────────────────────────────────
 
-def render_html(items: list[dict]) -> str:
+def render_html(items: list[dict], available_dates: list[dict] | None = None) -> str:
     env = Environment(
         loader=FileSystemLoader(str(TEMPLATE_DIR)),
         autoescape=True,
@@ -202,6 +223,7 @@ def render_html(items: list[dict]) -> str:
         items=items,
         today=TODAY_STR,
         weekday=WEEKDAY_STR,
+        available_dates=available_dates or [],
     )
 
 
@@ -224,10 +246,21 @@ def main():
     # 3. 產生 HTML
     print("→ 套用 HTML 模板...")
     OUTPUT_DIR.mkdir(exist_ok=True)
-    html = render_html(items)
+
+    # 取得可用日期（決定哪些按鈕可點擊）；今天的 HTML 尚未存在，先用舊資料判斷
+    available_dates = get_available_dates()
+
+    html = render_html(items, available_dates)
+
+    # 儲存當日 HTML（含日期檔名，供歷史導覽使用）
+    dated_path = OUTPUT_DIR / f"{TODAY.isoformat()}.html"
+    dated_path.write_text(html, encoding="utf-8")
+    print(f"  當日存檔：{dated_path}")
+
+    # 同時覆寫 index.html（方便直接開啟）
     output_path = OUTPUT_DIR / "index.html"
     output_path.write_text(html, encoding="utf-8")
-    print(f"  輸出：{output_path}")
+    print(f"  最新輸出：{output_path}")
 
     # 4. 備份 JSON
     json_path = OUTPUT_DIR / f"{TODAY.isoformat()}.json"
