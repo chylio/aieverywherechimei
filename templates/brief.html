@@ -486,7 +486,7 @@
           {% if tag not in all_tags %}{% set _ = all_tags.append(tag) %}{% endif %}
         {% endfor %}
       {% endfor %}
-      {% for tag in all_tags[:6] %}
+      {% for tag in all_tags %}
       <a class="sidebar-link" href="#" data-filter="{{ tag }}" onclick="filterByTag(this, '{{ tag }}'); return false;">{{ tag }}</a>
       {% endfor %}
     </div>
