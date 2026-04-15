@@ -37,15 +37,16 @@ jobs:
 
       - name: Commit files to main
         run: |
-          # 複製最新的 index.html 到根目錄（GitHub Pages 入口）
+          TODAY=$(date '+%Y-%m-%d')
+
+          # index.html：所有7天資料已內嵌，使用者只需開這一個檔案
           cp output/index.html index.html
 
-          # 把當日的日期 HTML 也複製到根目錄（讓日期導覽列連結可用）
-          TODAY=$(date '+%Y-%m-%d')
-          cp output/${TODAY}.html ${TODAY}.html
+          # JSON 存到根目錄：讓明後天的腳本可讀取歷史資料產生按鈕
+          cp output/${TODAY}.json ${TODAY}.json
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.html ${TODAY}.html
+          git add index.html ${TODAY}.json
           git diff --staged --quiet || git commit -m "🏥 Auto-update daily brief ${TODAY}"
           git push
