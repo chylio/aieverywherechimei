@@ -451,16 +451,13 @@
   <div class="date-nav-inner">
     <span class="date-nav-label">📅 近7日</span>
     {% for d in available_dates | reverse %}
-      {% if d.is_today %}
-        <a class="date-btn active" href="./{{ d.date_iso }}.html">
-          <span class="date-btn-weekday">今天</span>
+      {% if d.available %}
+        <button class="date-btn {% if d.is_today %}active{% endif %}"
+                data-date-iso="{{ d.date_iso }}"
+                onclick="switchDay('{{ d.date_iso }}')">
+          <span class="date-btn-weekday">{% if d.is_today %}今天{% else %}{{ d.weekday }}{% endif %}</span>
           <span class="date-btn-md">{{ d.month_day }}</span>
-        </a>
-      {% elif d.available %}
-        <a class="date-btn" href="./{{ d.date_iso }}.html">
-          <span class="date-btn-weekday">{{ d.weekday }}</span>
-          <span class="date-btn-md">{{ d.month_day }}</span>
-        </a>
+        </button>
       {% else %}
         <button class="date-btn disabled" disabled>
           <span class="date-btn-weekday">{{ d.weekday }}</span>
@@ -479,80 +476,27 @@
   <aside class="sidebar">
     <div class="sidebar-card">
       <div class="sidebar-head">📋 情報分類</div>
-      <a class="sidebar-link active" href="#" data-filter="all" onclick="filterByTag(this, 'all'); return false;">今日精選 <span class="count">{{ items|length }}</span></a>
-      {% set all_tags = [] %}
-      {% for item in items %}
-        {% for tag in item.tags %}
-          {% if tag not in all_tags %}{% set _ = all_tags.append(tag) %}{% endif %}
-        {% endfor %}
-      {% endfor %}
-      {% for tag in all_tags %}
-      <a class="sidebar-link" href="#" data-filter="{{ tag }}" onclick="filterByTag(this, '{{ tag }}'); return false;">{{ tag }}</a>
-      {% endfor %}
+      <div id="sidebar-links"><!-- JS 填入 --></div>
     </div>
     <div class="sidebar-card">
       <div class="sidebar-head">🏷️ 熱門標籤</div>
-      <div class="tag-cloud">
-        {% for tag in all_tags %}
-        <a class="tag-chip" href="#" data-filter="{{ tag }}" onclick="filterByTag(this, '{{ tag }}'); return false;">{{ tag }}</a>
-        {% endfor %}
-      </div>
+      <div class="tag-cloud" id="tag-cloud"><!-- JS 填入 --></div>
     </div>
   </aside>
 
   <!-- MAIN -->
   <main class="main">
     <div class="page-title-bar">
-      <h2>醫療AI每日情報｜{{ today }}（{{ weekday }}）</h2>
-      <span class="count-badge">今日精選 {{ items|length }} 則</span>
+      <h2 id="page-title">醫療AI每日情報｜{{ today }}（{{ weekday }}）</h2>
+      <span class="count-badge" id="count-badge">今日精選 {{ items|length }} 則</span>
     </div>
 
     <div class="list-meta">
-      <span>共 {{ items|length }} 筆</span>
+      <span id="list-count">共 {{ items|length }} 筆</span>
       <span class="list-meta-label">依相關度排序</span>
     </div>
 
-    <div class="article-list">
-      {% for item in items %}
-      <article class="article-card" data-tags="{{ item.tags | join('|') }}">
-        <div class="card-num">
-          <div class="num-circle {% if loop.index == 1 %}num-top1{% elif loop.index == 2 %}num-top2{% elif loop.index == 3 %}num-top3{% endif %}">
-            {{ loop.index }}
-          </div>
-        </div>
-        <div class="card-body">
-          <div class="card-badges">
-            {% if loop.index == 1 %}<span class="badge b-top1">🥇 Top 1</span>
-            {% elif loop.index == 2 %}<span class="badge b-top2">🥈 Top 2</span>
-            {% elif loop.index == 3 %}<span class="badge b-top3">🥉 Top 3</span>
-            {% else %}<span class="badge b-focus">焦點</span>{% endif %}
-            {% for tag in item.tags[:2] %}
-            <span class="badge b-cat">{{ tag }}</span>
-            {% endfor %}
-          </div>
-          <div class="card-title">
-            {% if item.source_url %}
-            <a href="{{ item.source_url }}" target="_blank">{{ item.title }}</a>
-            {% else %}{{ item.title }}{% endif %}
-          </div>
-          <div class="card-meta">
-            <span>📅 {{ item.author }}</span>
-          </div>
-          <div class="card-summary">{{ item.summary }}</div>
-          <div class="card-footer">
-            <div class="hashtags">
-              {% for tag in item.tags %}
-              <a class="hashtag" href="#">#{{ tag }}{% if not loop.last %}、{% endif %}</a>
-              {% endfor %}
-            </div>
-            {% if item.source_url %}
-            <a class="source-btn" href="{{ item.source_url }}" target="_blank">🔗 原始來源</a>
-            {% endif %}
-          </div>
-        </div>
-      </article>
-      {% endfor %}
-    </div>
+    <div class="article-list" id="article-list"><!-- JS 填入 --></div>
   </main>
 
 </div>
@@ -564,45 +508,145 @@
 
 
 <script>
+// ── 所有天的資料（由 Python 嵌入）──────────────────────────────
+const ALL_DAYS   = {{ all_days_json | safe }};
+const TODAY_ISO  = "{{ today_iso }}";
+
+// ── 產生單張文章卡片 HTML ────────────────────────────────────────
+function renderCard(item, rank) {
+  const badges = {
+    1: ['b-top1','🥇 Top 1'],
+    2: ['b-top2','🥈 Top 2'],
+    3: ['b-top3','🥉 Top 3'],
+  };
+  const numClasses = { 1:'num-top1', 2:'num-top2', 3:'num-top3' };
+  const [badgeCls, badgeTxt] = badges[rank] || ['b-focus','焦點'];
+  const numCls  = numClasses[rank] || '';
+  const tags    = item.tags || [];
+  const catBadges = tags.slice(0,2).map(t=>`<span class="badge b-cat">${esc(t)}</span>`).join('');
+  const titleHtml = item.source_url
+    ? `<a href="${esc(item.source_url)}" target="_blank">${esc(item.title)}</a>`
+    : esc(item.title);
+  const hashtags = tags.map((t,i)=>
+    `<a class="hashtag" href="#" onclick="filterByTag(this,'${esc(t)}');return false;">#${esc(t)}${i<tags.length-1?'、':''}</a>`
+  ).join('');
+  const srcBtn = item.source_url
+    ? `<a class="source-btn" href="${esc(item.source_url)}" target="_blank">🔗 原始來源</a>` : '';
+
+  return `
+  <article class="article-card" data-tags="${tags.map(esc).join('|')}" style="animation-delay:${(rank*0.05).toFixed(2)}s">
+    <div class="card-num"><div class="num-circle ${numCls}">${rank}</div></div>
+    <div class="card-body">
+      <div class="card-badges"><span class="badge ${badgeCls}">${badgeTxt}</span>${catBadges}</div>
+      <div class="card-title">${titleHtml}</div>
+      <div class="card-meta"><span>📅 ${esc(item.author||'')}</span></div>
+      <div class="card-summary">${esc(item.summary||'')}</div>
+      <div class="card-footer">
+        <div class="hashtags">${hashtags}</div>${srcBtn}
+      </div>
+    </div>
+  </article>`;
+}
+
+// ── 切換到指定日期 ─────────────────────────────────────────────
+function switchDay(dateIso) {
+  const day = ALL_DAYS[dateIso];
+  if (!day) return;
+  const items = day.items || [];
+
+  // 標題列
+  document.getElementById('page-title').textContent =
+    `醫療AI每日情報｜${day.date_str}（${day.weekday}）`;
+  document.getElementById('count-badge').textContent =
+    `今日精選 ${items.length} 則`;
+  document.getElementById('list-count').textContent =
+    `共 ${items.length} 筆`;
+
+  // Header 日期
+  const hd = document.querySelector('.header-date');
+  if (hd) hd.textContent = `📅 ${day.date_str}（${day.weekday}）`;
+
+  // 文章列表
+  document.getElementById('article-list').innerHTML =
+    items.map((item, i) => renderCard(item, i+1)).join('');
+
+  // 收集所有標籤
+  const allTags = [];
+  items.forEach(item => (item.tags||[]).forEach(t => {
+    if (!allTags.includes(t)) allTags.push(t);
+  }));
+
+  // 側欄分類
+  document.getElementById('sidebar-links').innerHTML =
+    `<a class="sidebar-link active" href="#" onclick="filterByTag(this,'all');return false;">
+       今日精選 <span class="count">${items.length}</span>
+     </a>` +
+    allTags.map(t =>
+      `<a class="sidebar-link" href="#" data-filter="${esc(t)}"
+          onclick="filterByTag(this,'${esc(t)}');return false;">${esc(t)}</a>`
+    ).join('');
+
+  // 標籤雲
+  document.getElementById('tag-cloud').innerHTML =
+    allTags.map(t =>
+      `<a class="tag-chip" href="#" data-filter="${esc(t)}"
+          onclick="filterByTag(this,'${esc(t)}');return false;">${esc(t)}</a>`
+    ).join('');
+
+  // 日期按鈕 active 狀態
+  document.querySelectorAll('.date-btn[data-date-iso]').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.dateIso === dateIso);
+    // 今天的按鈕文字
+    const weekdayEl = btn.querySelector('.date-btn-weekday');
+    if (weekdayEl) {
+      if (btn.dataset.dateIso === TODAY_ISO) weekdayEl.textContent = '今天';
+      // else 保持原來的星期文字（Jinja2 渲染時已設定）
+    }
+  });
+
+  // Footer
+  const footer = document.querySelector('.footer');
+  if (footer) footer.innerHTML =
+    `<strong>🧠 奇美醫療AI每日情報</strong>｜奇美醫療體系 · AI Everywhere 計畫<br>
+     本簡報由奇美 AI Everywhere 情報代理人自動生成 · ${day.date_str}`;
+}
+
+// ── 標籤篩選 ──────────────────────────────────────────────────
 function filterByTag(el, tag) {
   const cards = document.querySelectorAll('.article-card');
-  const sidebarLinks = document.querySelectorAll('.sidebar-link');
-  const tagChips = document.querySelectorAll('.tag-chip');
-  const listMeta = document.querySelector('.list-meta span');
-
-  sidebarLinks.forEach(l => l.classList.remove('active'));
-  tagChips.forEach(c => c.classList.remove('active'));
+  document.querySelectorAll('.sidebar-link').forEach(l => l.classList.remove('active'));
+  document.querySelectorAll('.tag-chip').forEach(c => c.classList.remove('active'));
   if (el) el.classList.add('active');
 
   let visible = 0;
   cards.forEach(card => {
-    if (tag === 'all') {
-      card.style.display = '';
-      visible++;
-    } else {
-      const cardTags = card.getAttribute('data-tags') || '';
-      const match = cardTags.split('|').some(t => t === tag);
-      if (match) { card.style.display = ''; visible++; }
-      else { card.style.display = 'none'; }
-    }
+    const match = tag === 'all' ||
+      (card.getAttribute('data-tags')||'').split('|').includes(tag);
+    card.style.display = match ? '' : 'none';
+    if (match) visible++;
   });
 
-  if (listMeta) listMeta.textContent = '共 ' + visible + ' 筆';
-  const countBadge = document.querySelector('.count-badge');
-  if (countBadge) countBadge.textContent = '今日精選 ' + visible + ' 則';
+  document.getElementById('list-count').textContent  = `共 ${visible} 筆`;
+  document.getElementById('count-badge').textContent = `今日精選 ${visible} 則`;
 
-  const visibleCards = [...cards].filter(c => c.style.display !== 'none');
-  cards.forEach(c => { c.style.borderRadius = ''; c.style.borderTop = ''; });
-  if (visibleCards.length > 0) {
-    visibleCards[0].style.borderRadius = '12px 12px 0 0';
-    visibleCards[0].style.borderTop = '1px solid var(--border)';
-    if (visibleCards.length === 1) {
-      visibleCards[0].style.borderRadius = '12px';
-    } else {
-      visibleCards[visibleCards.length - 1].style.borderRadius = '0 0 12px 12px';
-    }
+  const vis = [...cards].filter(c => c.style.display !== 'none');
+  cards.forEach(c => { c.style.borderRadius=''; c.style.borderTop=''; });
+  if (vis.length) {
+    vis[0].style.cssText += ';border-radius:12px 12px 0 0;border-top:1px solid var(--border)';
+    if (vis.length===1) vis[0].style.borderRadius='12px';
+    else vis[vis.length-1].style.cssText += ';border-radius:0 0 12px 12px';
   }
 }
+
+// ── HTML 跳脫工具 ─────────────────────────────────────────────
+function esc(s) {
+  return String(s)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+// ── 頁面初始化 ────────────────────────────────────────────────
+switchDay(TODAY_ISO);
 </script>
 
 </body>
