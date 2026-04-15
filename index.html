@@ -499,17 +499,19 @@
       
     
       
-        <a class="date-btn" href="./2026-04-14.html">
+        <button class="date-btn disabled" disabled>
           <span class="date-btn-weekday">星期二</span>
           <span class="date-btn-md">04/14</span>
-        </a>
+        </button>
       
     
       
-        <a class="date-btn active" href="./2026-04-15.html">
+        <button class="date-btn active"
+                data-date-iso="2026-04-15"
+                onclick="switchDay('2026-04-15')">
           <span class="date-btn-weekday">今天</span>
           <span class="date-btn-md">04/15</span>
-        </a>
+        </button>
       
     
   </div>
@@ -523,516 +525,27 @@
   <aside class="sidebar">
     <div class="sidebar-card">
       <div class="sidebar-head">📋 情報分類</div>
-      <a class="sidebar-link active" href="#" data-filter="all" onclick="filterByTag(this, 'all'); return false;">今日精選 <span class="count">7</span></a>
-      
-      
-        
-          
-        
-          
-        
-          
-        
-          
-        
-      
-        
-          
-        
-          
-        
-          
-        
-          
-        
-      
-        
-          
-        
-          
-        
-          
-        
-          
-        
-      
-        
-          
-        
-          
-        
-          
-        
-          
-        
-      
-        
-          
-        
-          
-        
-          
-        
-          
-        
-      
-        
-          
-        
-          
-        
-          
-        
-          
-        
-      
-        
-          
-        
-          
-        
-          
-        
-          
-        
-      
-      
-      <a class="sidebar-link" href="#" data-filter="生成式AI" onclick="filterByTag(this, '生成式AI'); return false;">生成式AI</a>
-      
-      <a class="sidebar-link" href="#" data-filter="醫療聊天機器人" onclick="filterByTag(this, '醫療聊天機器人'); return false;">醫療聊天機器人</a>
-      
-      <a class="sidebar-link" href="#" data-filter="病患安全" onclick="filterByTag(this, '病患安全'); return false;">病患安全</a>
-      
-      <a class="sidebar-link" href="#" data-filter="數位健康" onclick="filterByTag(this, '數位健康'); return false;">數位健康</a>
-      
-      <a class="sidebar-link" href="#" data-filter="慢性病管理" onclick="filterByTag(this, '慢性病管理'); return false;">慢性病管理</a>
-      
-      <a class="sidebar-link" href="#" data-filter="價值基礎醫療" onclick="filterByTag(this, '價值基礎醫療'); return false;">價值基礎醫療</a>
-      
-      <a class="sidebar-link" href="#" data-filter="醫療支付改革" onclick="filterByTag(this, '醫療支付改革'); return false;">醫療支付改革</a>
-      
-      <a class="sidebar-link" href="#" data-filter="Medicare" onclick="filterByTag(this, 'Medicare'); return false;">Medicare</a>
-      
-      <a class="sidebar-link" href="#" data-filter="合成數據" onclick="filterByTag(this, '合成數據'); return false;">合成數據</a>
-      
-      <a class="sidebar-link" href="#" data-filter="臨床試驗" onclick="filterByTag(this, '臨床試驗'); return false;">臨床試驗</a>
-      
-      <a class="sidebar-link" href="#" data-filter="人工智慧" onclick="filterByTag(this, '人工智慧'); return false;">人工智慧</a>
-      
-      <a class="sidebar-link" href="#" data-filter="藥物研發" onclick="filterByTag(this, '藥物研發'); return false;">藥物研發</a>
-      
-      <a class="sidebar-link" href="#" data-filter="心臟AI" onclick="filterByTag(this, '心臟AI'); return false;">心臟AI</a>
-      
-      <a class="sidebar-link" href="#" data-filter="醫療影像" onclick="filterByTag(this, '醫療影像'); return false;">醫療影像</a>
-      
-      <a class="sidebar-link" href="#" data-filter="專利訴訟" onclick="filterByTag(this, '專利訴訟'); return false;">專利訴訟</a>
-      
-      <a class="sidebar-link" href="#" data-filter="冠狀動脈診斷" onclick="filterByTag(this, '冠狀動脈診斷'); return false;">冠狀動脈診斷</a>
-      
-      <a class="sidebar-link" href="#" data-filter="醫療資訊整合" onclick="filterByTag(this, '醫療資訊整合'); return false;">醫療資訊整合</a>
-      
-      <a class="sidebar-link" href="#" data-filter="健康IT平台" onclick="filterByTag(this, '健康IT平台'); return false;">健康IT平台</a>
-      
-      <a class="sidebar-link" href="#" data-filter="電子病歷" onclick="filterByTag(this, '電子病歷'); return false;">電子病歷</a>
-      
-      <a class="sidebar-link" href="#" data-filter="數據互通" onclick="filterByTag(this, '數據互通'); return false;">數據互通</a>
-      
-      <a class="sidebar-link" href="#" data-filter="製藥AI合作" onclick="filterByTag(this, '製藥AI合作'); return false;">製藥AI合作</a>
-      
-      <a class="sidebar-link" href="#" data-filter="臨床試驗透明度" onclick="filterByTag(this, '臨床試驗透明度'); return false;">臨床試驗透明度</a>
-      
-      <a class="sidebar-link" href="#" data-filter="FDA監管" onclick="filterByTag(this, 'FDA監管'); return false;">FDA監管</a>
-      
-      <a class="sidebar-link" href="#" data-filter="大型語言模型" onclick="filterByTag(this, '大型語言模型'); return false;">大型語言模型</a>
-      
-      <a class="sidebar-link" href="#" data-filter="遠距醫療" onclick="filterByTag(this, '遠距醫療'); return false;">遠距醫療</a>
-      
-      <a class="sidebar-link" href="#" data-filter="長期照護" onclick="filterByTag(this, '長期照護'); return false;">長期照護</a>
-      
-      <a class="sidebar-link" href="#" data-filter="高齡照護" onclick="filterByTag(this, '高齡照護'); return false;">高齡照護</a>
-      
+      <div id="sidebar-links"><!-- JS 填入 --></div>
     </div>
     <div class="sidebar-card">
       <div class="sidebar-head">🏷️ 熱門標籤</div>
-      <div class="tag-cloud">
-        
-        <a class="tag-chip" href="#" data-filter="生成式AI" onclick="filterByTag(this, '生成式AI'); return false;">生成式AI</a>
-        
-        <a class="tag-chip" href="#" data-filter="醫療聊天機器人" onclick="filterByTag(this, '醫療聊天機器人'); return false;">醫療聊天機器人</a>
-        
-        <a class="tag-chip" href="#" data-filter="病患安全" onclick="filterByTag(this, '病患安全'); return false;">病患安全</a>
-        
-        <a class="tag-chip" href="#" data-filter="數位健康" onclick="filterByTag(this, '數位健康'); return false;">數位健康</a>
-        
-        <a class="tag-chip" href="#" data-filter="慢性病管理" onclick="filterByTag(this, '慢性病管理'); return false;">慢性病管理</a>
-        
-        <a class="tag-chip" href="#" data-filter="價值基礎醫療" onclick="filterByTag(this, '價值基礎醫療'); return false;">價值基礎醫療</a>
-        
-        <a class="tag-chip" href="#" data-filter="醫療支付改革" onclick="filterByTag(this, '醫療支付改革'); return false;">醫療支付改革</a>
-        
-        <a class="tag-chip" href="#" data-filter="Medicare" onclick="filterByTag(this, 'Medicare'); return false;">Medicare</a>
-        
-        <a class="tag-chip" href="#" data-filter="合成數據" onclick="filterByTag(this, '合成數據'); return false;">合成數據</a>
-        
-        <a class="tag-chip" href="#" data-filter="臨床試驗" onclick="filterByTag(this, '臨床試驗'); return false;">臨床試驗</a>
-        
-        <a class="tag-chip" href="#" data-filter="人工智慧" onclick="filterByTag(this, '人工智慧'); return false;">人工智慧</a>
-        
-        <a class="tag-chip" href="#" data-filter="藥物研發" onclick="filterByTag(this, '藥物研發'); return false;">藥物研發</a>
-        
-        <a class="tag-chip" href="#" data-filter="心臟AI" onclick="filterByTag(this, '心臟AI'); return false;">心臟AI</a>
-        
-        <a class="tag-chip" href="#" data-filter="醫療影像" onclick="filterByTag(this, '醫療影像'); return false;">醫療影像</a>
-        
-        <a class="tag-chip" href="#" data-filter="專利訴訟" onclick="filterByTag(this, '專利訴訟'); return false;">專利訴訟</a>
-        
-        <a class="tag-chip" href="#" data-filter="冠狀動脈診斷" onclick="filterByTag(this, '冠狀動脈診斷'); return false;">冠狀動脈診斷</a>
-        
-        <a class="tag-chip" href="#" data-filter="醫療資訊整合" onclick="filterByTag(this, '醫療資訊整合'); return false;">醫療資訊整合</a>
-        
-        <a class="tag-chip" href="#" data-filter="健康IT平台" onclick="filterByTag(this, '健康IT平台'); return false;">健康IT平台</a>
-        
-        <a class="tag-chip" href="#" data-filter="電子病歷" onclick="filterByTag(this, '電子病歷'); return false;">電子病歷</a>
-        
-        <a class="tag-chip" href="#" data-filter="數據互通" onclick="filterByTag(this, '數據互通'); return false;">數據互通</a>
-        
-        <a class="tag-chip" href="#" data-filter="製藥AI合作" onclick="filterByTag(this, '製藥AI合作'); return false;">製藥AI合作</a>
-        
-        <a class="tag-chip" href="#" data-filter="臨床試驗透明度" onclick="filterByTag(this, '臨床試驗透明度'); return false;">臨床試驗透明度</a>
-        
-        <a class="tag-chip" href="#" data-filter="FDA監管" onclick="filterByTag(this, 'FDA監管'); return false;">FDA監管</a>
-        
-        <a class="tag-chip" href="#" data-filter="大型語言模型" onclick="filterByTag(this, '大型語言模型'); return false;">大型語言模型</a>
-        
-        <a class="tag-chip" href="#" data-filter="遠距醫療" onclick="filterByTag(this, '遠距醫療'); return false;">遠距醫療</a>
-        
-        <a class="tag-chip" href="#" data-filter="長期照護" onclick="filterByTag(this, '長期照護'); return false;">長期照護</a>
-        
-        <a class="tag-chip" href="#" data-filter="高齡照護" onclick="filterByTag(this, '高齡照護'); return false;">高齡照護</a>
-        
-      </div>
+      <div class="tag-cloud" id="tag-cloud"><!-- JS 填入 --></div>
     </div>
   </aside>
 
   <!-- MAIN -->
   <main class="main">
     <div class="page-title-bar">
-      <h2>醫療AI每日情報｜2026年04月15日（星期三）</h2>
-      <span class="count-badge">今日精選 7 則</span>
+      <h2 id="page-title">醫療AI每日情報｜2026年04月15日（星期三）</h2>
+      <span class="count-badge" id="count-badge">今日精選 7 則</span>
     </div>
 
     <div class="list-meta">
-      <span>共 7 筆</span>
+      <span id="list-count">共 7 筆</span>
       <span class="list-meta-label">依相關度排序</span>
     </div>
 
-    <div class="article-list">
-      
-      <article class="article-card" data-tags="生成式AI|醫療聊天機器人|病患安全|數位健康">
-        <div class="card-num">
-          <div class="num-circle num-top1">
-            1
-          </div>
-        </div>
-        <div class="card-body">
-          <div class="card-badges">
-            <span class="badge b-top1">🥇 Top 1</span>
-            
-            
-            <span class="badge b-cat">生成式AI</span>
-            
-            <span class="badge b-cat">醫療聊天機器人</span>
-            
-          </div>
-          <div class="card-title">
-            
-            <a href="https://www.statnews.com/2026/04/14/hospitals-offer-chatbots-chatgpt-health-tech/?utm_campaign=rss" target="_blank">醫院推出專屬聊天機器人，應對病患使用 ChatGPT 的挑戰</a>
-            
-          </div>
-          <div class="card-meta">
-            <span>📅 STAT Health Tech（STAT News）（2026-04-14）</span>
-          </div>
-          <div class="card-summary">根據 STAT Health Tech 報導，多家醫院開始部署自家開發或授權的醫療聊天機器人，目的是在病患廣泛使用 ChatGPT 等通用生成式 AI 工具的背景下，提供更受控、更符合臨床規範的資訊管道。報導同時涵蓋 Medicare 的 ACCESS 慢性病照護試驗計畫，以及猶他州「AI 醫師」實驗的最新進展。醫院自建聊天機器人的核心考量包括：資料隱私保護、臨床內容正確性把關，以及與電子病歷系統的整合能力。此趨勢反映醫療機構面對消費級 AI 工具滲透臨床場域時，正積極從被動應對轉向主動布局，以確保病患獲取的醫療資訊具備可信度與安全性。</div>
-          <div class="card-footer">
-            <div class="hashtags">
-              
-              <a class="hashtag" href="#">#生成式AI、</a>
-              
-              <a class="hashtag" href="#">#醫療聊天機器人、</a>
-              
-              <a class="hashtag" href="#">#病患安全、</a>
-              
-              <a class="hashtag" href="#">#數位健康</a>
-              
-            </div>
-            
-            <a class="source-btn" href="https://www.statnews.com/2026/04/14/hospitals-offer-chatbots-chatgpt-health-tech/?utm_campaign=rss" target="_blank">🔗 原始來源</a>
-            
-          </div>
-        </div>
-      </article>
-      
-      <article class="article-card" data-tags="慢性病管理|價值基礎醫療|醫療支付改革|Medicare">
-        <div class="card-num">
-          <div class="num-circle num-top2">
-            2
-          </div>
-        </div>
-        <div class="card-body">
-          <div class="card-badges">
-            <span class="badge b-top2">🥈 Top 2</span>
-            
-            
-            <span class="badge b-cat">慢性病管理</span>
-            
-            <span class="badge b-cat">價值基礎醫療</span>
-            
-          </div>
-          <div class="card-title">
-            
-            <a href="https://www.healthcareitnews.com/news/cms-announces-150-participants-upcoming-access-model-launch" target="_blank">CMS 宣布 150 家機構加入 ACCESS 慢性病照護新支付模式</a>
-            
-          </div>
-          <div class="card-meta">
-            <span>📅 Healthcare IT News（2026-04-15）</span>
-          </div>
-          <div class="card-summary">美國醫療保險與醫療補助服務中心（CMS）旗下創新中心宣布，已接受 150 家申請機構加入「以有效可擴展方案推進慢性病照護」（ACCESS）計畫。該模式旨在將 Medicare 給付與可量測的健康結果掛鉤，強調以價值為基礎的支付取代傳統按服務量計費。ACCESS 計畫涵蓋慢性病患群體，目標是擴大高品質慢性病管理的可及性，並透過支付誘因促使醫療提供者採用更具實證基礎的照護流程。此次 150 家機構的規模部署，是美國聯邦醫療保險系統推動支付改革的重要里程碑，具體執行成效將影響未來慢性病管理支付政策走向。</div>
-          <div class="card-footer">
-            <div class="hashtags">
-              
-              <a class="hashtag" href="#">#慢性病管理、</a>
-              
-              <a class="hashtag" href="#">#價值基礎醫療、</a>
-              
-              <a class="hashtag" href="#">#醫療支付改革、</a>
-              
-              <a class="hashtag" href="#">#Medicare</a>
-              
-            </div>
-            
-            <a class="source-btn" href="https://www.healthcareitnews.com/news/cms-announces-150-participants-upcoming-access-model-launch" target="_blank">🔗 原始來源</a>
-            
-          </div>
-        </div>
-      </article>
-      
-      <article class="article-card" data-tags="合成數據|臨床試驗|人工智慧|藥物研發">
-        <div class="card-num">
-          <div class="num-circle num-top3">
-            3
-          </div>
-        </div>
-        <div class="card-body">
-          <div class="card-badges">
-            <span class="badge b-top3">🥉 Top 3</span>
-            
-            
-            <span class="badge b-cat">合成數據</span>
-            
-            <span class="badge b-cat">臨床試驗</span>
-            
-          </div>
-          <div class="card-title">
-            
-            <a href="https://medcitynews.com/2026/04/why-synthetic-data-is-the-antidote-to-clinical-trials/" target="_blank">合成數據被視為改善臨床試驗缺失的關鍵技術方向</a>
-            
-          </div>
-          <div class="card-meta">
-            <span>📅 MedCity News（2026-04-15）</span>
-          </div>
-          <div class="card-summary">MedCity News 發表深度分析，探討合成數據（synthetic data）在臨床試驗領域的應用潛力。傳統臨床試驗面臨受試者招募困難、數據取得成本高昂、隱私法規限制嚴格等多重障礙，合成數據技術透過統計模型或生成式 AI 產生與真實病患數據統計特性相似但不含個人識別資訊的模擬數據集，可用於試驗設計優化、對照組模擬及次族群分析。文章指出，合成數據並非取代真實臨床數據，而是作為補充工具加速試驗前期設計與降低失敗風險。然而，監管機構對合成數據在新藥審查中的可接受性仍存在不確定性，如何建立驗證標準是目前最關鍵的挑戰。</div>
-          <div class="card-footer">
-            <div class="hashtags">
-              
-              <a class="hashtag" href="#">#合成數據、</a>
-              
-              <a class="hashtag" href="#">#臨床試驗、</a>
-              
-              <a class="hashtag" href="#">#人工智慧、</a>
-              
-              <a class="hashtag" href="#">#藥物研發</a>
-              
-            </div>
-            
-            <a class="source-btn" href="https://medcitynews.com/2026/04/why-synthetic-data-is-the-antidote-to-clinical-trials/" target="_blank">🔗 原始來源</a>
-            
-          </div>
-        </div>
-      </article>
-      
-      <article class="article-card" data-tags="心臟AI|醫療影像|專利訴訟|冠狀動脈診斷">
-        <div class="card-num">
-          <div class="num-circle ">
-            4
-          </div>
-        </div>
-        <div class="card-body">
-          <div class="card-badges">
-            <span class="badge b-focus">焦點</span>
-            
-            <span class="badge b-cat">心臟AI</span>
-            
-            <span class="badge b-cat">醫療影像</span>
-            
-          </div>
-          <div class="card-title">
-            
-            <a href="https://medcitynews.com/2026/04/heartflow-cleerly-patent-lawsuit-cardiac/" target="_blank">心臟 AI 龍頭 Heartflow 控告競爭對手 Cleerly 竊取智慧財產</a>
-            
-          </div>
-          <div class="card-meta">
-            <span>📅 MedCity News（2026-04-15）</span>
-          </div>
-          <div class="card-summary">心臟影像 AI 公司 Heartflow 正式對同業競爭對手 Cleerly 提起專利侵權訴訟，指控後者涉嫌竊取其冠狀動脈電腦斷層血流儲備分數（CT-FFR）分析技術的核心智慧財產。Heartflow 的 AI 技術能從無創冠狀動脈電腦斷層血管攝影（CCTA）影像中計算血流動力學參數，協助臨床醫師評估冠狀動脈阻塞的功能性嚴重程度，已獲 FDA 核准並廣泛應用於心臟科臨床實踐。此訴訟案揭示醫療 AI 領域智慧財產爭奪的激烈程度，亦凸顯在心臟影像 AI 市場快速成長背景下，技術差異化與專利保護的重要性。案件後續發展將影響相關技術的市場競爭格局。</div>
-          <div class="card-footer">
-            <div class="hashtags">
-              
-              <a class="hashtag" href="#">#心臟AI、</a>
-              
-              <a class="hashtag" href="#">#醫療影像、</a>
-              
-              <a class="hashtag" href="#">#專利訴訟、</a>
-              
-              <a class="hashtag" href="#">#冠狀動脈診斷</a>
-              
-            </div>
-            
-            <a class="source-btn" href="https://medcitynews.com/2026/04/heartflow-cleerly-patent-lawsuit-cardiac/" target="_blank">🔗 原始來源</a>
-            
-          </div>
-        </div>
-      </article>
-      
-      <article class="article-card" data-tags="醫療資訊整合|健康IT平台|電子病歷|數據互通">
-        <div class="card-num">
-          <div class="num-circle ">
-            5
-          </div>
-        </div>
-        <div class="card-body">
-          <div class="card-badges">
-            <span class="badge b-focus">焦點</span>
-            
-            <span class="badge b-cat">醫療資訊整合</span>
-            
-            <span class="badge b-cat">健康IT平台</span>
-            
-          </div>
-          <div class="card-title">
-            
-            <a href="https://medcitynews.com/2026/04/5-of-the-top-10-u-s-health-systems-are-moving-to-this-new-health-it-category-heres-why/" target="_blank">美國前十大醫療體系中五家導入新興醫療 IT 整合平台類別</a>
-            
-          </div>
-          <div class="card-meta">
-            <span>📅 MedCity News（Innovaccer 贊助內容）（2026-04-15）</span>
-          </div>
-          <div class="card-summary">MedCity News 報導指出，美國排名前十的醫療體系中，已有五家採用一個被業界定義為新興健康 IT 類別的整合平台。根據報導內容，此類平台的核心能力在於整合分散的電子病歷、醫療行政與臨床數據，提供統一的數據層（unified data layer）以支援 AI 應用、人口健康管理與臨床決策輔助。此趨勢反映大型醫療體系面對多廠商 IT 環境帶來的數據孤島問題，正積極尋求跨系統整合解決方案，以提升數據互通性與 AI 部署效率。報導由 Innovaccer 贊助，讀者應留意內容可能帶有商業推廣性質，惟所描述的醫療 IT 整合趨勢具有一定參考價值。</div>
-          <div class="card-footer">
-            <div class="hashtags">
-              
-              <a class="hashtag" href="#">#醫療資訊整合、</a>
-              
-              <a class="hashtag" href="#">#健康IT平台、</a>
-              
-              <a class="hashtag" href="#">#電子病歷、</a>
-              
-              <a class="hashtag" href="#">#數據互通</a>
-              
-            </div>
-            
-            <a class="source-btn" href="https://medcitynews.com/2026/04/5-of-the-top-10-u-s-health-systems-are-moving-to-this-new-health-it-category-heres-why/" target="_blank">🔗 原始來源</a>
-            
-          </div>
-        </div>
-      </article>
-      
-      <article class="article-card" data-tags="製藥AI合作|臨床試驗透明度|FDA監管|大型語言模型">
-        <div class="card-num">
-          <div class="num-circle ">
-            6
-          </div>
-        </div>
-        <div class="card-body">
-          <div class="card-badges">
-            <span class="badge b-focus">焦點</span>
-            
-            <span class="badge b-cat">製藥AI合作</span>
-            
-            <span class="badge b-cat">臨床試驗透明度</span>
-            
-          </div>
-          <div class="card-title">
-            
-            <a href="https://www.statnews.com/pharmalot/2026/04/14/fda-push-clinical-trial-transparency-novo-nordisk-openai-deal/?utm_campaign=rss" target="_blank">Novo Nordisk 與 OpenAI 達成合作協議，FDA 加強要求藥廠揭露臨床試驗結果</a>
-            
-          </div>
-          <div class="card-meta">
-            <span>📅 STAT News Pharmalittle（2026-04-14）</span>
-          </div>
-          <div class="card-summary">STAT News 報導兩則重要醫藥產業動態：其一，Novo Nordisk 與 OpenAI 簽署合作協議，預計將 OpenAI 的大型語言模型技術應用於藥物研發、臨床數據分析或病患服務等領域，具體合作範疇尚待進一步披露；其二，美國食品藥物管理局（FDA）向超過 2,200 家藥廠及研究機構發出通知，要求依法報告臨床試驗結果，並警告不遵從者將面臨罰款，此舉旨在強化臨床試驗透明度，落實《FDA 修正法案》中的試驗結果強制申報規定。兩則消息分別代表大型製藥公司與 AI 企業深化合作，以及監管機構加強臨床試驗數據公開的雙重趨勢。</div>
-          <div class="card-footer">
-            <div class="hashtags">
-              
-              <a class="hashtag" href="#">#製藥AI合作、</a>
-              
-              <a class="hashtag" href="#">#臨床試驗透明度、</a>
-              
-              <a class="hashtag" href="#">#FDA監管、</a>
-              
-              <a class="hashtag" href="#">#大型語言模型</a>
-              
-            </div>
-            
-            <a class="source-btn" href="https://www.statnews.com/pharmalot/2026/04/14/fda-push-clinical-trial-transparency-novo-nordisk-openai-deal/?utm_campaign=rss" target="_blank">🔗 原始來源</a>
-            
-          </div>
-        </div>
-      </article>
-      
-      <article class="article-card" data-tags="遠距醫療|長期照護|高齡照護|數位健康">
-        <div class="card-num">
-          <div class="num-circle ">
-            7
-          </div>
-        </div>
-        <div class="card-body">
-          <div class="card-badges">
-            <span class="badge b-focus">焦點</span>
-            
-            <span class="badge b-cat">遠距醫療</span>
-            
-            <span class="badge b-cat">長期照護</span>
-            
-          </div>
-          <div class="card-title">
-            
-            <a href="https://www.healthcareitnews.com/news/what-all-providers-can-learn-telemedicine-long-term-care" target="_blank">遠距醫療應用於長期照護的實務經驗與挑戰</a>
-            
-          </div>
-          <div class="card-meta">
-            <span>📅 Healthcare IT News（2026-04-15）</span>
-          </div>
-          <div class="card-summary">Healthcare IT News 深度報導遠距醫療在長期照護（long-term care）領域的應用現況，重點探討為老年族群提供遠距醫療服務所需的特殊彈性與支援機制。報導指出，老年患者的數位素養差異顯著，部分長者熟悉視訊平台，但多數對行動裝置或遠距醫療介面仍感陌生，此數位落差構成遠距醫療普及的主要障礙。文章歸納長照機構在遠距醫療導入過程中的實務挑戰，包括設備支援、照護人員協助角色、網路連線品質，以及如何確保醫病溝通品質不因遠距模式而降低。這些長照遠距醫療的實施經驗，對其他醫療場域的遠距照護推廣亦具有借鑒意義。</div>
-          <div class="card-footer">
-            <div class="hashtags">
-              
-              <a class="hashtag" href="#">#遠距醫療、</a>
-              
-              <a class="hashtag" href="#">#長期照護、</a>
-              
-              <a class="hashtag" href="#">#高齡照護、</a>
-              
-              <a class="hashtag" href="#">#數位健康</a>
-              
-            </div>
-            
-            <a class="source-btn" href="https://www.healthcareitnews.com/news/what-all-providers-can-learn-telemedicine-long-term-care" target="_blank">🔗 原始來源</a>
-            
-          </div>
-        </div>
-      </article>
-      
-    </div>
+    <div class="article-list" id="article-list"><!-- JS 填入 --></div>
   </main>
 
 </div>
@@ -1044,45 +557,145 @@
 
 
 <script>
+// ── 所有天的資料（由 Python 嵌入）──────────────────────────────
+const ALL_DAYS   = {"2026-04-15": {"date_str": "2026年04月15日", "weekday": "星期三", "items": [{"rank": 1, "score": 9.2, "title": "Abridge 整合 UpToDate、NEJM 與 JAMA 擴展 AI 臨床決策支援能力", "summary": "AI 醫療文件公司 Abridge 宣布與 Wolters Kluwer 旗下 UpToDate 建立合作夥伴關係，並同步整合《新英格蘭醫學期刊》（NEJM）及《美國醫學會期刊》（JAMA）的內容資源，大幅擴充其臨床決策支援功能。Abridge 原以 AI 輔助病歷記錄聞名，此次整合將使系統能在診療流程中即時提供循證醫學文獻建議，將醫療記錄輔助工具升級為具備證據基礎的臨床決策支援平台。UpToDate 為全球醫師最廣泛使用的臨床參考資料庫之一，與 NEJM、JAMA 等頂尖期刊的整合，代表 AI 醫療工具正從行政效率導向轉型為深度介入臨床決策的方向，對醫師工作流程與醫療品質具有重要影響意義。", "tags": ["臨床決策支援", "AI醫療文件", "循證醫學", "醫師工作流程"], "author": "Fierce Healthcare（2026-04-15）", "source_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-expands-clinical-decision-support-capabilities-uptodate-partnership"}, {"rank": 2, "score": 8.8, "title": "AI 放射科「最後一哩路」問題：偵測能力提升但後續追蹤機制失靈", "summary": "MedCity News 刊載深度分析指出，AI 放射影像判讀技術在病灶偵測精準度上已有顯著進步，然而臨床實務中卻面臨「最後一哩路問題」——即 AI 成功識別異常後，後續的臨床跟進、通知流程與患者管理環節仍存在嚴重斷鏈現象。文章探討 AI 偵測結果未能有效轉化為臨床行動的系統性障礙，包括工作流程整合不足、責任歸屬不明確、以及缺乏標準化的後續追蹤機制等問題。此議題凸顯出醫療 AI 導入不能僅聚焦於演算法性能，更需重視系統整合與臨床流程再造，方能真正提升患者照護品質與安全。", "tags": ["AI放射診斷", "臨床工作流程", "患者安全", "醫療系統整合"], "author": "MedCity News（2026-04-15）", "source_url": "https://medcitynews.com/2026/04/the-last-mile-problem-in-ai-radiology-detection-improves-follow-through-breaks/"}, {"rank": 3, "score": 8.5, "title": "STAT AI Prognosis：15 美元 AI 診斷測試、Project Glasswing 及猶他州 AI 醫療試驗爭議", "summary": "STAT News 本期 AI Prognosis 電子報聚焦三項重要議題：其一為僅需 15 美元的低成本 AI 診斷測試，探討其普及化潛力與精準度疑慮；其二為 Project Glasswing 計畫及其對整體醫療照護體系的潛在影響；其三則報導 Doctronic 公司在猶他州推行 AI 醫療試驗過程中，因事前未充分知會猶他州醫療委員會而引發監管爭議的事件始末。此系列報導反映出醫療 AI 商業化進程加速的背景下，監管框架與臨床試驗倫理規範面臨的現實挑戰，以及低成本 AI 工具在醫療平等化方面的潛力與風險並存的複雜局面。", "tags": ["醫療AI監管", "AI診斷工具", "醫療倫理", "臨床試驗"], "author": "STAT News（2026-04-15）", "source_url": "https://www.statnews.com/2026/04/15/ai-test-project-glasswing-doctronic-pilot-ai-prognosis/?utm_campaign=rss"}, {"rank": 4, "score": 8.0, "title": "非處方數位療法（ODTx）：LLM 與穿戴裝置整合的下一步臨床應用", "summary": "MedCity News 刊載分析文章，探討非處方數位療法（Over-the-Counter Digital Therapeutics, ODTx）如何成為大型語言模型（LLM）與穿戴式裝置整合應用的下一個發展方向。文章指出，當前 LLM 與穿戴裝置多停留於「洞察提供」層次，而 ODTx 代表從被動資訊回饋跨越至主動治療介入的關鍵轉變，有潛力在慢性病管理、行為健康等領域發揮實質療效。文章同時探討 ODTx 在監管路徑、臨床實證要求及商業模式上的挑戰，指出若能妥善整合 AI 個人化能力與連續生理監測數據，ODTx 有望成為無需處方的新型精準醫療工具。", "tags": ["數位療法", "大型語言模型", "穿戴裝置", "慢性病管理"], "author": "MedCity News（2026-04-15）", "source_url": "https://medcitynews.com/2026/04/from-insight-to-intervention-why-over-the-counter-digital-therapeutics-odtx-are-the-next-step-for-llms-and-wearables/"}, {"rank": 5, "score": 7.8, "title": "Keebler Health 獲 1,600 萬美元 A 輪融資，推動 AI 風險調整平台擴展", "summary": "醫療健康新創公司 Keebler Health 宣布完成 1,600 萬美元 A 輪融資，資金將用於擴充團隊規模、推進商業化成長，並強化服務全美以價值為基礎照護（value-based care）組織的基礎設施建設。該公司核心產品為 AI 驅動的風險調整平台，協助醫療機構精確識別患者病情複雜度與照護需求，以確保醫療費用與臨床實際風險相符。此次融資亦將支持平台向合規審查與稽核工作流程等相鄰應用場景拓展。此輪融資反映出投資市場對結合 AI 技術與價值醫療模式的工具持續看好，尤其在 CMS 不斷強化風險調整機制的政策背景下，相關解決方案需求日益增加。", "tags": ["AI醫療新創", "風險調整", "價值醫療", "醫療融資"], "author": "Fierce Healthcare（2026-04-15）", "source_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/keebler-health-secures-16m-series-funding"}, {"rank": 6, "score": 7.5, "title": "HeartFlow 對心臟 AI 競爭對手 Cleerly 提起專利侵權訴訟", "summary": "心臟影像 AI 領域領導廠商 HeartFlow 正式對競爭對手 Cleerly 提起訴訟，指控後者涉嫌竊取其智慧財產權。HeartFlow 以其 AI 驅動的冠狀動脈計算機斷層掃描血流儲備分數（CT-FFR）分析技術聞名，而 Cleerly 同樣專注於 AI 輔助心臟 CT 影像分析平台。此案涉及心臟 AI 診斷影像技術的核心演算法專利爭議，引發業界高度關注。訴訟結果將對心臟 AI 診斷市場競爭格局產生重大影響，並可能為醫療 AI 領域的智慧財產權保護範疇設立重要先例，反映出隨著醫療 AI 商業價值提升，專利競爭日趨激烈的產業趨勢。", "tags": ["心臟AI診斷", "醫療AI專利", "心臟影像", "醫療法規"], "author": "MedCity News（2026-04-15）", "source_url": "https://medcitynews.com/2026/04/heartflow-cleerly-patent-lawsuit-cardiac/"}, {"rank": 7, "score": 7.2, "title": "CMS 宣布 150 家機構參與 ACCESS 慢性病照護新支付模式", "summary": "美國聯邦醫療保險與補助服務中心（CMS）旗下創新中心宣布，已受理 150 家醫療機構加入「以有效可擴展解決方案推進慢性病照護」計畫（ACCESS，Advancing Chronic Care with Effective, Scalable Solutions）。該計畫旨在將 Medicare 支付機制與可量化的健康結果相連結，屬於價值基礎照護（value-based care）支付模式改革的重要組成部分。ACCESS 計畫的核心目標為擴大慢性病患者獲得整合性照護的管道，透過改變支付誘因引導醫療提供者強化預防與疾病管理服務。此計畫對慢性病管理模式、支付制度改革及醫療機構營運策略均具重要參考意義。", "tags": ["慢性病管理", "價值醫療", "Medicare支付改革", "CMS政策"], "author": "Healthcare IT News（2026-04-15）", "source_url": "https://www.healthcareitnews.com/news/cms-announces-150-participants-upcoming-access-model-launch"}]}};
+const TODAY_ISO  = "2026-04-15";
+
+// ── 產生單張文章卡片 HTML ────────────────────────────────────────
+function renderCard(item, rank) {
+  const badges = {
+    1: ['b-top1','🥇 Top 1'],
+    2: ['b-top2','🥈 Top 2'],
+    3: ['b-top3','🥉 Top 3'],
+  };
+  const numClasses = { 1:'num-top1', 2:'num-top2', 3:'num-top3' };
+  const [badgeCls, badgeTxt] = badges[rank] || ['b-focus','焦點'];
+  const numCls  = numClasses[rank] || '';
+  const tags    = item.tags || [];
+  const catBadges = tags.slice(0,2).map(t=>`<span class="badge b-cat">${esc(t)}</span>`).join('');
+  const titleHtml = item.source_url
+    ? `<a href="${esc(item.source_url)}" target="_blank">${esc(item.title)}</a>`
+    : esc(item.title);
+  const hashtags = tags.map((t,i)=>
+    `<a class="hashtag" href="#" onclick="filterByTag(this,'${esc(t)}');return false;">#${esc(t)}${i<tags.length-1?'、':''}</a>`
+  ).join('');
+  const srcBtn = item.source_url
+    ? `<a class="source-btn" href="${esc(item.source_url)}" target="_blank">🔗 原始來源</a>` : '';
+
+  return `
+  <article class="article-card" data-tags="${tags.map(esc).join('|')}" style="animation-delay:${(rank*0.05).toFixed(2)}s">
+    <div class="card-num"><div class="num-circle ${numCls}">${rank}</div></div>
+    <div class="card-body">
+      <div class="card-badges"><span class="badge ${badgeCls}">${badgeTxt}</span>${catBadges}</div>
+      <div class="card-title">${titleHtml}</div>
+      <div class="card-meta"><span>📅 ${esc(item.author||'')}</span></div>
+      <div class="card-summary">${esc(item.summary||'')}</div>
+      <div class="card-footer">
+        <div class="hashtags">${hashtags}</div>${srcBtn}
+      </div>
+    </div>
+  </article>`;
+}
+
+// ── 切換到指定日期 ─────────────────────────────────────────────
+function switchDay(dateIso) {
+  const day = ALL_DAYS[dateIso];
+  if (!day) return;
+  const items = day.items || [];
+
+  // 標題列
+  document.getElementById('page-title').textContent =
+    `醫療AI每日情報｜${day.date_str}（${day.weekday}）`;
+  document.getElementById('count-badge').textContent =
+    `今日精選 ${items.length} 則`;
+  document.getElementById('list-count').textContent =
+    `共 ${items.length} 筆`;
+
+  // Header 日期
+  const hd = document.querySelector('.header-date');
+  if (hd) hd.textContent = `📅 ${day.date_str}（${day.weekday}）`;
+
+  // 文章列表
+  document.getElementById('article-list').innerHTML =
+    items.map((item, i) => renderCard(item, i+1)).join('');
+
+  // 收集所有標籤
+  const allTags = [];
+  items.forEach(item => (item.tags||[]).forEach(t => {
+    if (!allTags.includes(t)) allTags.push(t);
+  }));
+
+  // 側欄分類
+  document.getElementById('sidebar-links').innerHTML =
+    `<a class="sidebar-link active" href="#" onclick="filterByTag(this,'all');return false;">
+       今日精選 <span class="count">${items.length}</span>
+     </a>` +
+    allTags.map(t =>
+      `<a class="sidebar-link" href="#" data-filter="${esc(t)}"
+          onclick="filterByTag(this,'${esc(t)}');return false;">${esc(t)}</a>`
+    ).join('');
+
+  // 標籤雲
+  document.getElementById('tag-cloud').innerHTML =
+    allTags.map(t =>
+      `<a class="tag-chip" href="#" data-filter="${esc(t)}"
+          onclick="filterByTag(this,'${esc(t)}');return false;">${esc(t)}</a>`
+    ).join('');
+
+  // 日期按鈕 active 狀態
+  document.querySelectorAll('.date-btn[data-date-iso]').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.dateIso === dateIso);
+    // 今天的按鈕文字
+    const weekdayEl = btn.querySelector('.date-btn-weekday');
+    if (weekdayEl) {
+      if (btn.dataset.dateIso === TODAY_ISO) weekdayEl.textContent = '今天';
+      // else 保持原來的星期文字（Jinja2 渲染時已設定）
+    }
+  });
+
+  // Footer
+  const footer = document.querySelector('.footer');
+  if (footer) footer.innerHTML =
+    `<strong>🧠 奇美醫療AI每日情報</strong>｜奇美醫療體系 · AI Everywhere 計畫<br>
+     本簡報由奇美 AI Everywhere 情報代理人自動生成 · ${day.date_str}`;
+}
+
+// ── 標籤篩選 ──────────────────────────────────────────────────
 function filterByTag(el, tag) {
   const cards = document.querySelectorAll('.article-card');
-  const sidebarLinks = document.querySelectorAll('.sidebar-link');
-  const tagChips = document.querySelectorAll('.tag-chip');
-  const listMeta = document.querySelector('.list-meta span');
-
-  sidebarLinks.forEach(l => l.classList.remove('active'));
-  tagChips.forEach(c => c.classList.remove('active'));
+  document.querySelectorAll('.sidebar-link').forEach(l => l.classList.remove('active'));
+  document.querySelectorAll('.tag-chip').forEach(c => c.classList.remove('active'));
   if (el) el.classList.add('active');
 
   let visible = 0;
   cards.forEach(card => {
-    if (tag === 'all') {
-      card.style.display = '';
-      visible++;
-    } else {
-      const cardTags = card.getAttribute('data-tags') || '';
-      const match = cardTags.split('|').some(t => t === tag);
-      if (match) { card.style.display = ''; visible++; }
-      else { card.style.display = 'none'; }
-    }
+    const match = tag === 'all' ||
+      (card.getAttribute('data-tags')||'').split('|').includes(tag);
+    card.style.display = match ? '' : 'none';
+    if (match) visible++;
   });
 
-  if (listMeta) listMeta.textContent = '共 ' + visible + ' 筆';
-  const countBadge = document.querySelector('.count-badge');
-  if (countBadge) countBadge.textContent = '今日精選 ' + visible + ' 則';
+  document.getElementById('list-count').textContent  = `共 ${visible} 筆`;
+  document.getElementById('count-badge').textContent = `今日精選 ${visible} 則`;
 
-  const visibleCards = [...cards].filter(c => c.style.display !== 'none');
-  cards.forEach(c => { c.style.borderRadius = ''; c.style.borderTop = ''; });
-  if (visibleCards.length > 0) {
-    visibleCards[0].style.borderRadius = '12px 12px 0 0';
-    visibleCards[0].style.borderTop = '1px solid var(--border)';
-    if (visibleCards.length === 1) {
-      visibleCards[0].style.borderRadius = '12px';
-    } else {
-      visibleCards[visibleCards.length - 1].style.borderRadius = '0 0 12px 12px';
-    }
+  const vis = [...cards].filter(c => c.style.display !== 'none');
+  cards.forEach(c => { c.style.borderRadius=''; c.style.borderTop=''; });
+  if (vis.length) {
+    vis[0].style.cssText += ';border-radius:12px 12px 0 0;border-top:1px solid var(--border)';
+    if (vis.length===1) vis[0].style.borderRadius='12px';
+    else vis[vis.length-1].style.cssText += ';border-radius:0 0 12px 12px';
   }
 }
+
+// ── HTML 跳脫工具 ─────────────────────────────────────────────
+function esc(s) {
+  return String(s)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+// ── 頁面初始化 ────────────────────────────────────────────────
+switchDay(TODAY_ISO);
 </script>
 
 </body>
