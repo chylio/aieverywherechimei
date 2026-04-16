@@ -1,0 +1,99 @@
+{
+  "date": "2026年04月16日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "Abridge AI 臨床平台整合 NEJM 與 JAMA Network 實證醫學證據",
+      "summary": "AI 醫療文件公司 Abridge 宣布與《新英格蘭醫學期刊》（NEJM）及 JAMA Network 簽訂多年合作協議，將同儕審查的醫學實證直接整合至其 AI 驅動的臨床決策支援平台。此舉旨在解決目前大型語言模型在醫療應用中常見的知識時效性與可信度問題，讓臨床人員在使用 AI 輔助工具時能即時引用最新、高品質的醫學文獻。Abridge 原以 AI 自動化醫師病歷記錄著稱，此次擴展標誌其業務向臨床決策支援領域深化。由頂尖醫學期刊為 AI 平台提供實證支撐，被視為提升 AI 臨床工具可信度與採用率的重要里程碑，對強調實證醫學的醫療機構具有高度參考意義。",
+      "tags": [
+        "AI 臨床決策支援",
+        "實證醫學整合",
+        "醫療 AI 可信度"
+      ],
+      "author": "Healthcare IT News（2026年4月16日）",
+      "source_url": "https://www.healthcareitnews.com/news/abridge-incorporates-more-clinical-evidence-its-decision-support-tools"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "AI 放射影像「最後一哩」問題：偵測能力提升，但後續追蹤流程仍脫節",
+      "summary": "MedCity News 報導指出，AI 放射影像工具在病灶偵測靈敏度上已顯著提升，然而臨床實務中從 AI 陽性發現到實際患者追蹤介入之間仍存在嚴重落差，即所謂「最後一哩問題」（Last Mile Problem）。文章分析，當 AI 系統偵測到異常後，若缺乏系統性的通知、分流與追蹤工作流程，高靈敏度的偵測能力並不能自動轉化為患者預後改善。造成此問題的因素包括：AI 警示未有效整合至 EHR 工作流程、臨床人員對 AI 結果的信任度不一，以及後續追蹤責任歸屬不明確。此議題對推動 AI 影像應用的醫療機構具有高度實務警示意義。",
+      "tags": [
+        "AI 放射影像",
+        "臨床工作流程",
+        "患者追蹤",
+        "醫療 AI 導入"
+      ],
+      "author": "MedCity News（2026年4月16日）",
+      "source_url": "https://medcitynews.com/2026/04/the-last-mile-problem-in-ai-radiology-detection-improves-follow-through-breaks/"
+    },
+    {
+      "rank": 3,
+      "score": 8.3,
+      "title": "STAT AI Prognosis：15 美元 AI 診斷測試、Project Glasswing 與 Doctronic 猶他州 AI 試驗事件",
+      "summary": "STAT News 最新一期《AI Prognosis》電子報報導三則重要議題：其一為售價僅 15 美元的 AI 診斷測試工具，顯示低成本 AI 醫療應用的可行性；其二為 Project Glasswing，被認為對未來醫療照護體系具有深遠影響；其三為 Doctronic 公司在猶他州進行的 AI 診療試驗，因未事先知會猶他州醫師執照委員會（Utah Medical Board）而引發監管爭議，涉及 AI 系統提供診療建議的執業範疇及監理合規問題。Doctronic 事件凸顯了在監管尚未完善的情況下推進 AI 臨床應用所面臨的法律與倫理風險，為各地醫療機構及衛生主管機關提供重要的政策參考。",
+      "tags": [
+        "AI 醫療監管",
+        "低成本 AI 診斷",
+        "醫療 AI 倫理"
+      ],
+      "author": "STAT News（2026年4月15日）",
+      "source_url": "https://www.statnews.com/2026/04/15/ai-test-project-glasswing-doctronic-pilot-ai-prognosis/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "score": 8.0,
+      "title": "Innovaccer 投入 2.5 億美元深化 Agentic AI 醫療平台",
+      "summary": "健康資料平台公司 Innovaccer 宣布將投入 2.5 億美元強化其「自主代理型 AI」（Agentic AI）平台，此類 AI 能自主規劃並執行多步驟任務，而非僅回應單一問題。Innovaccer 的平台主要服務於人口健康管理、照護協調及收益循環等領域，Agentic AI 的導入意味著系統能主動識別高風險患者、協調多部門照護流程，並自動化繁瑣的行政作業。此次大規模投資反映出醫療 AI 市場正從被動查詢工具轉向主動任務執行系統的趨勢，同時也引發外界對 AI 自主決策在醫療場域安全性與監管框架的討論。",
+      "tags": [
+        "Agentic AI",
+        "人口健康管理",
+        "醫療 AI 投資"
+      ],
+      "author": "MedCity News（2026年4月16日）",
+      "source_url": "https://medcitynews.com/2026/04/innovaccer-ai-data/"
+    },
+    {
+      "rank": 5,
+      "score": 7.6,
+      "title": "非處方數位療法（ODTx）：LLM 與穿戴裝置結合的下一步應用",
+      "summary": "MedCity News 刊出觀點文章，探討「非處方數位療法」（Over-the-Counter Digital Therapeutics, ODTx）作為大型語言模型（LLM）與穿戴裝置融合應用的新興發展方向。文章論述目前多數數位健康工具僅停留於提供洞察（Insight）階段，而 ODTx 的目標是直接介入（Intervention），透過 LLM 的語言理解能力與穿戴裝置的即時生理數據，提供個人化、可執行的健康行為引導。此模式無需處方即可取得，有望大幅降低數位療法的使用門檻，但同時也引發療效驗證、安全監控與醫療責任歸屬等監管層面的挑戰，對數位健康政策制定具有參考價值。",
+      "tags": [
+        "數位療法",
+        "大型語言模型",
+        "穿戴裝置",
+        "數位健康"
+      ],
+      "author": "MedCity News（2026年4月16日）",
+      "source_url": "https://medcitynews.com/2026/04/from-insight-to-intervention-why-over-the-counter-digital-therapeutics-odtx-are-the-next-step-for-llms-and-wearables/"
+    },
+    {
+      "rank": 6,
+      "score": 7.2,
+      "title": "Novartis 執行長加入 Anthropic 董事會，生技製藥與 AI 巨頭深化策略聯盟",
+      "summary": "STAT News 報導，Novartis 執行長正式加入 AI 公司 Anthropic 的董事會，此舉被視為全球頂尖製藥企業與領先 AI 基礎模型公司之間策略整合的具體信號。Anthropic 以開發大型語言模型 Claude 著稱，其在醫療領域的潛在應用包括藥物研發、臨床試驗設計及醫療文件處理。此次人事異動不僅象徵製藥業對 AI 基礎建設的高度重視，也可能加速 Anthropic 技術在生命科學領域的應用布局。同期報導亦提及 Revolution Medicines 完成 20 億美元融資，以及 Structure Therapeutics 新任人事任命暗示潛在併購動向，顯示生技投資市場持續活躍。",
+      "tags": [
+        "製藥 AI 策略聯盟",
+        "大型語言模型",
+        "生技投資"
+      ],
+      "author": "STAT News（2026年4月15日）",
+      "source_url": "https://www.statnews.com/2026/04/15/biotech-news-novartis-ceo-joins-anthropic-board/?utm_campaign=rss"
+    },
+    {
+      "rank": 7,
+      "score": 6.8,
+      "title": "CMS 擬撤銷突破性醫療器材補充支付彈性條款",
+      "summary": "美國醫療保險與補助服務中心（CMS）提議廢除一項允許突破性醫療器材（Breakthrough Devices）取得補充支付款項的途徑。該途徑原旨在鼓勵創新醫療技術加速進入臨床應用，透過提供額外支付誘因降低醫療機構採用新器材的財務風險。若此提案通過，將可能影響包括 AI 輔助醫療器材在內的創新技術的商業化進程，因為許多獲得 FDA 突破性器材認定的產品仰賴此支付機制來覆蓋高昂的研發與導入成本。此政策變動對醫療器材產業、醫療機構採購決策及 AI 醫療器材的市場準入均具有直接影響。",
+      "tags": [
+        "醫療器材支付政策",
+        "CMS 法規",
+        "突破性器材",
+        "醫療 AI 商業化"
+      ],
+      "author": "STAT News（2026年4月15日）",
+      "source_url": "https://www.statnews.com/2026/04/15/cms-proposes-rolling-back-breakthrough-device-payment/?utm_campaign=rss"
+    }
+  ]
+}
