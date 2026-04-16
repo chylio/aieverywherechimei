@@ -48,7 +48,26 @@ def get_available_dates() -> list[dict]:
     return dates
 
 
-def load_all_days_data(items_today: list[dict]) -> dict:
+def load_recent_published_urls(days_back: int = 3) -> set:
+    """讀取最近幾天已發布的文章 source_url，用於去除重複新聞。"""
+    ROOT_DIR = pathlib.Path(".")
+    published_urls = set()
+    for i in range(1, days_back + 1):
+        d = TODAY - datetime.timedelta(days=i)
+        json_path = ROOT_DIR / f"{d.isoformat()}.json"
+        if json_path.exists():
+            try:
+                raw = json.loads(json_path.read_text(encoding="utf-8"))
+                for item in raw.get("items", []):
+                    url = item.get("source_url", "").strip()
+                    if url:
+                        published_urls.add(url)
+            except Exception as e:
+                print(f"  [WARN] 讀取歷史 URL 失敗 {json_path}: {e}")
+    return published_urls
+
+
+def load_all_days_data(items_today: list) -> dict:
     """讀取過去 7 天的 JSON，合併成一份字典嵌入 HTML。"""
     ROOT_DIR = pathlib.Path(".")
     all_data = {
@@ -73,16 +92,15 @@ def load_all_days_data(items_today: list[dict]) -> dict:
                 print(f"  [WARN] 讀取歷史 JSON 失敗 {json_path}: {e}")
     return all_data
 
+
 # 醫療 AI 相關 RSS 來源
 RSS_FEEDS = [
-    # 國際
     "https://www.healthcareitnews.com/rss.xml",
     "https://www.fiercehealthcare.com/rss/xml",
     "https://medcitynews.com/feed/",
     "https://www.statnews.com/feed/",
-    # 台灣
     "https://www.mohw.gov.tw/rss-16.html",
-    "https://udn.com/rssfeed/news/2/6644?ch=news",   # 聯合報數位/科技
+    "https://udn.com/rssfeed/news/2/6644?ch=news",
 ]
 
 SYSTEM_PROMPT = textwrap.dedent("""
@@ -90,7 +108,7 @@ SYSTEM_PROMPT = textwrap.dedent("""
 
     你的任務是分析提供的醫療 AI 新聞，進行專業評鑑後產出每日簡報。
 
-    ## 評分標準（0–10 分）
+    ## 評分標準（0-10 分）
     - **臨床相關性**：與醫療決策、照護品質的直接關聯程度
     - **創新程度**：技術或模式的突破性
     - **奇美適用性**：對奇美醫院或台灣醫療體系的參考價值
@@ -104,7 +122,7 @@ SYSTEM_PROMPT = textwrap.dedent("""
           "rank": 1,
           "score": 9.5,
           "title": "新聞標題（繁體中文，可改寫使其更清晰）",
-          "summary": "150–200字摘要，客觀說明新聞事件、背景與意義",
+          "summary": "150-200字摘要，客觀說明新聞事件、背景與意義",
           "tags": ["標籤1", "標籤2", "標籤3"],
           "author": "作者姓名與職稱（來源）（日期）",
           "source_url": "https://原始網址（若有）"
@@ -115,7 +133,8 @@ SYSTEM_PROMPT = textwrap.dedent("""
 
     ## 規則
     - 最多 7 則，按評分高低排列
-    - tags 每則 2–4 個，繁體中文，不含 # 符號
+    - **優先選取標記【新文章】的項目**；標記【已刊登】的文章代表近幾天已出現過，除非新文章數量嚴重不足，否則不應納入
+    - tags 每則 2-4 個，繁體中文，不含 # 符號
     - summary 使用繁體中文、專業醫療用語，僅客觀描述新聞事實
     - 若某則新聞無來源 URL，source_url 填 ""
     - 僅回傳 JSON，不要有其他說明文字
@@ -125,7 +144,7 @@ SYSTEM_PROMPT = textwrap.dedent("""
 
 # ─── 新聞抓取 ──────────────────────────────────────────────────────────────────
 
-def fetch_news(max_items: int = 20) -> list[dict]:
+def fetch_news(max_items: int = 20) -> list:
     """從 RSS 來源抓取新聞，回傳標題 + 摘要 + 連結。"""
     articles = []
     for url in RSS_FEEDS:
@@ -144,13 +163,18 @@ def fetch_news(max_items: int = 20) -> list[dict]:
     return articles[:max_items]
 
 
-def format_news_for_prompt(articles: list[dict]) -> str:
-    """格式化新聞清單給 Claude。"""
+def format_news_for_prompt(articles: list, published_urls: set = None) -> str:
+    """格式化新聞清單給 Claude。已發布過的文章會標示【已刊登】供 Claude 降低優先度。"""
     if not articles:
         return "（今日 RSS 無法取得新聞，請自行根據近期醫療 AI 重要進展產生內容）"
+    if published_urls is None:
+        published_urls = set()
     lines = [f"以下是今日（{TODAY_STR}）抓取的醫療相關新聞，請評鑑並排名：\n"]
+    lines.append("注意：標記【已刊登】的文章在過去幾天已出現過，請優先選取未曾刊登的新文章；若新文章數量不足 7 則，才考慮納入已刊登文章。\n")
     for i, a in enumerate(articles, 1):
-        lines.append(f"[{i}] 來源：{a['source']}")
+        already = a["link"] in published_urls
+        flag = "【已刊登】" if already else "【新文章】"
+        lines.append(f"[{i}] {flag} 來源：{a['source']}")
         lines.append(f"    標題：{a['title']}")
         if a["summary"]:
             lines.append(f"    摘要：{a['summary'][:300]}")
@@ -162,18 +186,16 @@ def format_news_for_prompt(articles: list[dict]) -> str:
 
 # ─── Claude API 呼叫 ───────────────────────────────────────────────────────────
 
-def parse_json_response(raw: str) -> list[dict] | None:
+def parse_json_response(raw: str):
     """嘗試從 Claude 回應中解析 JSON，回傳 items 或 None。"""
     if not raw or not raw.strip():
         return None
 
-    # 先嘗試直接解析
     try:
         return json.loads(raw)["items"]
     except Exception:
         pass
 
-    # 移除 markdown code block 後再試
     if "```" in raw:
         parts = raw.split("```")
         for part in parts:
@@ -190,7 +212,7 @@ def parse_json_response(raw: str) -> list[dict] | None:
     return None
 
 
-def call_claude(news_text: str, max_retries: int = 3) -> list[dict]:
+def call_claude(news_text: str, max_retries: int = 3) -> list:
     """呼叫 Claude API，回傳排名後的新聞清單。失敗時最多重試 max_retries 次。"""
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
@@ -201,10 +223,7 @@ def call_claude(news_text: str, max_retries: int = 3) -> list[dict]:
                 model="claude-sonnet-4-6",
                 max_tokens=4096,
                 system=SYSTEM_PROMPT,
-                messages=[{
-                    "role": "user",
-                    "content": news_text
-                }],
+                messages=[{"role": "user", "content": news_text}],
             )
 
             if not message.content:
@@ -237,9 +256,7 @@ def call_claude(news_text: str, max_retries: int = 3) -> list[dict]:
 
 # ─── HTML 產生 ─────────────────────────────────────────────────────────────────
 
-def render_html(items: list[dict],
-                available_dates: list[dict] | None = None,
-                all_days_json: str = "{}") -> str:
+def render_html(items: list, available_dates: list = None, all_days_json: str = "{}") -> str:
     env = Environment(
         loader=FileSystemLoader(str(TEMPLATE_DIR)),
         autoescape=True,
@@ -260,18 +277,27 @@ def render_html(items: list[dict],
 def main():
     print(f"[{TODAY_STR}] === 奇美 AI Everywhere Brief 自動產生 ===")
 
-    # 1. 抓新聞
-    print("→ 抓取 RSS 新聞...")
-    articles = fetch_news()
-    news_text = format_news_for_prompt(articles)
-    print(f"  取得 {len(articles)} 則原始新聞")
+    # 1. 載入近期已發布 URL（去重用）
+    print("-> 載入近期已發布文章 URL...")
+    published_urls = load_recent_published_urls(days_back=3)
+    print(f"  近 3 天已發布 URL：{len(published_urls)} 筆")
 
-    # 2. Claude 評鑑排名
-    print("→ 呼叫 Claude API 進行評鑑...")
+    # 2. 抓新聞
+    print("-> 抓取 RSS 新聞...")
+    articles = fetch_news()
+    new_articles = [a for a in articles if a["link"] not in published_urls]
+    old_articles = [a for a in articles if a["link"] in published_urls]
+    print(f"  取得 {len(articles)} 則原始新聞（新文章：{len(new_articles)}，已刊登：{len(old_articles)}）")
+    # 優先放新文章，不足時補已刊登（讓 Claude 自行判斷）
+    sorted_articles = new_articles + old_articles
+    news_text = format_news_for_prompt(sorted_articles, published_urls)
+
+    # 3. Claude 評鑑排名
+    print("-> 呼叫 Claude API 進行評鑑...")
     items = call_claude(news_text)
     print(f"  產生 {len(items)} 則精選新聞")
 
-    # 3. 先儲存今日 JSON（供歷史查詢用）
+    # 4. 先儲存今日 JSON（供歷史查詢用）
     OUTPUT_DIR.mkdir(exist_ok=True)
     json_path = OUTPUT_DIR / f"{TODAY.isoformat()}.json"
     json_path.write_text(
@@ -280,18 +306,16 @@ def main():
     )
     print(f"  JSON 備份：{json_path}")
 
-    # 4. 載入所有可用天的資料（含今日），嵌入單一 HTML
-    print("→ 載入歷史資料並套用模板...")
+    # 5. 載入所有可用天的資料（含今日），嵌入單一 HTML
+    print("-> 載入歷史資料並套用模板...")
     available_dates = get_available_dates()
     all_days_data   = load_all_days_data(items)
-    # 防止 </script> 注入，保險起見替換
     all_days_json = json.dumps(all_days_data, ensure_ascii=False).replace(
         "</script>", r"<\/script>"
     )
 
     html = render_html(items, available_dates, all_days_json)
 
-    # 只產生一個 index.html（所有日期資料都已內嵌）
     output_path = OUTPUT_DIR / "index.html"
     output_path.write_text(html, encoding="utf-8")
     print(f"  輸出：{output_path}")
