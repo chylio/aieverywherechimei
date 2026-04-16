@@ -218,129 +218,97 @@
     border-radius: 4px;
   }
 
-  /* ── ARTICLE GRID (LAYOUT ONLY) ── */
-  .article-list{
-    display:grid;
-    grid-template-columns:repeat(3,minmax(0,1fr));
-    gap:18px;
-    padding-top:18px;
+  /* ── ARTICLE CARD ── */
+  .article-list { display: flex; flex-direction: column; }
+  .article-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-top: none;
+    padding: 34px 40px 30px;
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    gap: 0 24px;
+    transition: background 0.15s, box-shadow 0.15s;
+    animation: fadeUp 0.4s ease both;
   }
-  @media (max-width:1100px){
-    .article-list{ grid-template-columns:repeat(2,minmax(0,1fr)); }
-  }
-  @media (max-width:800px){
-    .layout { grid-template-columns: 1fr; padding: 20px 16px 60px; }
-    .sidebar { display: none; }
-    .header-inner { padding: 14px 20px; }
-    .header-date { display: none; }
-    .page-title-bar { padding: 16px 20px; }
-    .date-nav-inner { padding: 0 16px; gap: 7px; }
-    .date-btn { min-width: 56px; padding: 7px 8px; }
-    .date-btn-weekday { font-size: 0.7rem; }
-    .date-btn-md { font-size: 0.82rem; }
-    .date-nav-label { display: none; }
-    .article-list{ grid-template-columns:1fr; }
-  }
+  .article-card:first-child { border-top: 1px solid var(--border); border-radius: 12px 12px 0 0; }
+  .article-card:last-child { border-radius: 0 0 12px 12px; }
+  .article-card:hover { background: #fafcff; box-shadow: inset 3px 0 0 var(--accent); }
 
-  /* Card */
-  .article-card{
-    background:var(--surface);
-    border:1px solid var(--border);
-    border-radius:14px;
-    overflow:hidden;
-    box-shadow:0 2px 10px rgba(10,22,40,0.06);
-    transition:transform .15s ease, box-shadow .15s ease, border-color .15s ease;
-    animation:fadeUp .35s ease both;
-    display:flex;
-    flex-direction:column;
-    min-width:0;
-  }
-  .article-card:hover{
-    transform:translateY(-2px);
-    box-shadow:0 10px 26px rgba(10,22,40,0.12);
-    border-color:#cfe0f7;
-  }
+  {% for i in range(1, 8) %}
+  .article-card:nth-child({{ i }}) { animation-delay: {{ (i * 0.05)|round(2) }}s; }
+  {% endfor %}
 
-  .card-top{ padding:14px 16px 10px; }
-  .tagline{
-    font-size:.86rem;
-    font-weight:800;
-    line-height:1.35;
-    color:#ff6a00;
-    word-break:break-word;
+  .card-num { padding-top: 4px; text-align: center; }
+  .num-circle {
+    width: 40px; height: 40px;
+    border-radius: 50%;
+    background: var(--bg);
+    border: 2px solid var(--border);
+    color: var(--muted);
+    font-size: 0.88rem;
+    font-weight: 700;
+    display: flex; align-items: center; justify-content: center;
   }
+  .num-top1 { background: #fff0ee; border-color: var(--red); color: var(--red); }
+  .num-top2 { background: #fff4ec; border-color: var(--orange); color: var(--orange); }
+  .num-top3 { background: #edfbf4; border-color: var(--green); color: var(--green); }
 
-  .card-img{
-    width:100%;
-    aspect-ratio:16/9;
-    background:linear-gradient(135deg,#e6effa,#f7fbff);
-    border-top:1px solid #f0f4f8;
-    border-bottom:1px solid #f0f4f8;
-  }
-  .card-img img{
-    width:100%;
-    height:100%;
-    object-fit:cover;
-    display:block;
-  }
+  .card-badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; align-items: center; }
+  .badge { font-size: 0.78rem; font-weight: 700; padding: 3px 10px; border-radius: 3px; letter-spacing: 0.04em; }
+  .b-top1 { background: var(--red); color: #fff; }
+  .b-top2 { background: var(--orange); color: #fff; }
+  .b-top3 { background: var(--green); color: #fff; }
+  .b-focus { background: var(--blue); color: #fff; }
+  .b-cat { background: var(--light-blue); color: var(--blue); font-weight: 600; border: 1px solid #c5dbf5; }
 
-  .card-body{
-    padding:16px 18px 18px;
-    display:flex;
-    flex-direction:column;
-    gap:10px;
+  .card-title {
+    font-family: var(--serif);
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--navy);
+    line-height: 1.55;
+    margin-bottom: 10px;
   }
-  .card-title{
-    font-family:var(--serif);
-    font-size:1.22rem;
-    font-weight:800;
-    color:#111827;
-    line-height:1.35;
-    letter-spacing:.01em;
-    margin:0;
-  }
-  .card-title a{ color:inherit; text-decoration:none; transition:color .15s; }
-  .card-title a:hover{ color:var(--accent); }
+  .card-title a { color: inherit; text-decoration: none; transition: color 0.15s; }
+  .article-card:hover .card-title a { color: var(--accent); }
 
-  .card-summary{
-    font-size:.95rem;
-    color:var(--text2);
-    line-height:1.75;
-    margin:0;
-    display:-webkit-box;
-    -webkit-line-clamp:3;
-    -webkit-box-orient:vertical;
-    overflow:hidden;
+  .card-meta {
+    font-size: 0.86rem;
+    color: var(--muted);
+    margin-bottom: 12px;
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
   }
-
-  .card-meta{
-    margin-top:auto;
-    font-size:.82rem;
-    color:#9aa6b2;
-    display:flex;
-    justify-content:space-between;
-    gap:10px;
-    align-items:center;
-    padding-top:10px;
-    border-top:1px solid #f0f4f8;
+  .card-summary { font-size: 0.98rem; color: var(--text2); line-height: 1.9; margin-bottom: 14px; }
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding-top: 16px;
+    border-top: 1px solid #f0f4f8;
   }
-  .meta-date{ white-space:nowrap; }
-
-  .source-btn{
-    display:inline-flex;
-    align-items:center;
-    gap:6px;
-    background:#111827;
-    color:#fff;
-    text-decoration:none;
-    border-radius:8px;
-    padding:7px 12px;
-    font-size:.82rem;
-    font-weight:700;
-    transition:background .15s;
-    white-space:nowrap;
+  .hashtags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .hashtag { font-size: 0.84rem; color: var(--accent); text-decoration: none; }
+  .hashtag:hover { color: var(--navy); text-decoration: underline; }
+  .source-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    background: var(--navy);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 6px;
+    padding: 8px 18px;
+    font-size: 0.84rem;
+    font-weight: 600;
+    transition: background 0.15s;
+    white-space: nowrap;
   }
-  .source-btn:hover{ background:var(--accent); }
+  .source-btn:hover { background: var(--accent); }
 
   /* ── FOOTER ── */
   .footer {
@@ -432,10 +400,27 @@
     from { opacity: 0; transform: translateY(16px); }
     to   { opacity: 1; transform: translateY(0); }
   }
+
+  /* ── RWD ── */
+  @media (max-width: 800px) {
+    .layout { grid-template-columns: 1fr; padding: 20px 16px 60px; }
+    .sidebar { display: none; }
+    .header-inner { padding: 14px 20px; }
+    .header-date { display: none; }
+    .article-card { padding: 18px 18px 16px; grid-template-columns: 32px 1fr; gap: 0 12px; }
+    .card-title { font-size: 1.05rem; }
+    .page-title-bar { padding: 16px 20px; }
+    .date-nav-inner { padding: 0 16px; gap: 7px; }
+    .date-btn { min-width: 56px; padding: 7px 8px; }
+    .date-btn-weekday { font-size: 0.7rem; }
+    .date-btn-md { font-size: 0.82rem; }
+    .date-nav-label { display: none; }
+  }
 </style>
 </head>
 <body>
 
+<!-- HEADER -->
 <header class="header">
   <div class="header-inner">
     <div class="logo-area">
@@ -449,6 +434,7 @@
   </div>
 </header>
 
+<!-- BREADCRUMB -->
 <div class="breadcrumb">
   <div class="breadcrumb-inner">
     <a href="#">首頁</a>
@@ -459,6 +445,7 @@
   </div>
 </div>
 
+<!-- DATE NAV -->
 {% if available_dates %}
 <div class="date-nav">
   <div class="date-nav-inner">
@@ -482,7 +469,10 @@
 </div>
 {% endif %}
 
+<!-- LAYOUT -->
 <div class="layout">
+
+  <!-- SIDEBAR -->
   <aside class="sidebar">
     <div class="sidebar-card">
       <div class="sidebar-head">📋 情報分類</div>
@@ -494,6 +484,7 @@
     </div>
   </aside>
 
+  <!-- MAIN -->
   <main class="main">
     <div class="page-title-bar">
       <h2 id="page-title">醫療AI每日情報｜{{ today }}（{{ weekday }}）</h2>
@@ -507,6 +498,7 @@
 
     <div class="article-list" id="article-list"><!-- JS 填入 --></div>
   </main>
+
 </div>
 
 <footer class="footer">
@@ -514,76 +506,55 @@
   本簡報由奇美 AI Everywhere 情報代理人自動生成 · {{ today }}
 </footer>
 
+
 <script>
+// ── 所有天的資料（由 Python 嵌入）──────────────────────────────
 const ALL_DAYS   = {{ all_days_json | safe }};
 const TODAY_ISO  = "{{ today_iso }}";
 
-const DEFAULT_COVER_SVG = `data:image/svg+xml;utf8,${encodeURIComponent(`
-<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='675' viewBox='0 0 1200 675'>
-  <defs>
-    <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>
-      <stop offset='0' stop-color='#e8f2fd'/>
-      <stop offset='1' stop-color='#ffffff'/>
-    </linearGradient>
-    <linearGradient id='a' x1='0' y1='0' x2='1' y2='1'>
-      <stop offset='0' stop-color='#2b7fe8'/>
-      <stop offset='1' stop-color='#0e9f8e'/>
-    </linearGradient>
-  </defs>
-  <rect width='1200' height='675' fill='url(#g)'/>
-  <circle cx='240' cy='220' r='140' fill='url(#a)' opacity='0.16'/>
-  <circle cx='980' cy='520' r='190' fill='url(#a)' opacity='0.14'/>
-  <rect x='120' y='140' width='960' height='395' rx='28' fill='#ffffff' opacity='0.75' stroke='#dce4ef'/>
-  <text x='600' y='320' font-family='Arial, sans-serif' font-size='54' text-anchor='middle' fill='#0a1628' font-weight='700'>AI Everywhere Brief</text>
-  <text x='600' y='385' font-family='Arial, sans-serif' font-size='28' text-anchor='middle' fill='#445066'>Daily AI Intelligence</text>
-  <text x='600' y='450' font-family='Arial, sans-serif' font-size='22' text-anchor='middle' fill='#7a8899'>Chimei Medical System</text>
-</svg>
-`)}`;
-
-function renderTagline(tags){
-  const arr = (tags || []).filter(Boolean);
-  if (!arr.length) return '';
-  return arr.map(t => esc(t)).join(' | ');
-}
-
+// ── 產生單張文章卡片 HTML ────────────────────────────────────────
 function renderCard(item, rank) {
-  const tags = item.tags || [];
-  const tagline = renderTagline(tags);
-
+  const badges = {
+    1: ['b-top1','🥇 Top 1'],
+    2: ['b-top2','🥈 Top 2'],
+    3: ['b-top3','🥉 Top 3'],
+  };
+  const numClasses = { 1:'num-top1', 2:'num-top2', 3:'num-top3' };
+  const [badgeCls, badgeTxt] = badges[rank] || ['b-focus','焦點'];
+  const numCls  = numClasses[rank] || '';
+  const tags    = item.tags || [];
+  const catBadges = tags.slice(0,2).map(t=>`<span class="badge b-cat">${esc(t)}</span>`).join('');
   const titleHtml = item.source_url
-    ? `<a href="${esc(item.source_url)}" target="_blank" rel="noopener noreferrer">${esc(item.title||'')}</a>`
-    : esc(item.title||'');
-
-  const dateText = (item.author || '').trim();
-
+    ? `<a href="${esc(item.source_url)}" target="_blank">${esc(item.title)}</a>`
+    : esc(item.title);
+  const hashtags = tags.map((t,i)=>
+    `<a class="hashtag" href="#" onclick="filterByTag(this,'${esc(t)}');return false;">#${esc(t)}${i<tags.length-1?'、':''}</a>`
+  ).join('');
   const srcBtn = item.source_url
-    ? `<a class="source-btn" href="${esc(item.source_url)}" target="_blank" rel="noopener noreferrer">🔗 原文</a>`
-    : '';
+    ? `<a class="source-btn" href="${esc(item.source_url)}" target="_blank">🔗 原始來源</a>` : '';
 
   return `
   <article class="article-card" data-tags="${tags.map(esc).join('|')}" style="animation-delay:${(rank*0.05).toFixed(2)}s">
-    <div class="card-top">
-      <div class="tagline">${tagline}</div>
-    </div>
-    <div class="card-img">
-      <img src="${DEFAULT_COVER_SVG}" alt="cover" loading="lazy" />
-    </div>
+    <div class="card-num"><div class="num-circle ${numCls}">${rank}</div></div>
     <div class="card-body">
-      <h3 class="card-title">${titleHtml}</h3>
-      <p class="card-summary">${esc(item.summary||'')}</p>
-      <div class="card-meta">
-        <span class="meta-date">${dateText ? esc(dateText) : ''}</span>
-        <span>${srcBtn}</span>
+      <div class="card-badges"><span class="badge ${badgeCls}">${badgeTxt}</span>${catBadges}</div>
+      <div class="card-title">${titleHtml}</div>
+      <div class="card-meta"><span>📅 ${esc(item.author||'')}</span></div>
+      <div class="card-summary">${esc(item.summary||'')}</div>
+      <div class="card-footer">
+        <div class="hashtags">${hashtags}</div>${srcBtn}
       </div>
     </div>
   </article>`;
 }
 
+// ── 切換到指定日期 ─────────────────────────────────────────────
 function switchDay(dateIso) {
   const day = ALL_DAYS[dateIso];
   if (!day) return;
   const items = day.items || [];
 
+  // 標題列
   document.getElementById('page-title').textContent =
     `醫療AI每日情報｜${day.date_str}（${day.weekday}）`;
   document.getElementById('count-badge').textContent =
@@ -591,17 +562,21 @@ function switchDay(dateIso) {
   document.getElementById('list-count').textContent =
     `共 ${items.length} 筆`;
 
+  // Header 日期
   const hd = document.querySelector('.header-date');
   if (hd) hd.textContent = `📅 ${day.date_str}（${day.weekday}）`;
 
+  // 文章列表
   document.getElementById('article-list').innerHTML =
     items.map((item, i) => renderCard(item, i+1)).join('');
 
+  // 收集所有標籤
   const allTags = [];
   items.forEach(item => (item.tags||[]).forEach(t => {
     if (!allTags.includes(t)) allTags.push(t);
   }));
 
+  // 側欄分類
   document.getElementById('sidebar-links').innerHTML =
     `<a class="sidebar-link active" href="#" onclick="filterByTag(this,'all');return false;">
        今日精選 <span class="count">${items.length}</span>
@@ -611,26 +586,32 @@ function switchDay(dateIso) {
           onclick="filterByTag(this,'${esc(t)}');return false;">${esc(t)}</a>`
     ).join('');
 
+  // 標籤雲
   document.getElementById('tag-cloud').innerHTML =
     allTags.map(t =>
       `<a class="tag-chip" href="#" data-filter="${esc(t)}"
           onclick="filterByTag(this,'${esc(t)}');return false;">${esc(t)}</a>`
     ).join('');
 
+  // 日期按鈕 active 狀態
   document.querySelectorAll('.date-btn[data-date-iso]').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.dateIso === dateIso);
+    // 今天的按鈕文字
     const weekdayEl = btn.querySelector('.date-btn-weekday');
     if (weekdayEl) {
       if (btn.dataset.dateIso === TODAY_ISO) weekdayEl.textContent = '今天';
+      // else 保持原來的星期文字（Jinja2 渲染時已設定）
     }
   });
 
+  // Footer
   const footer = document.querySelector('.footer');
   if (footer) footer.innerHTML =
     `<strong>🧠 奇美醫療AI每日情報</strong>｜奇美醫療體系 · AI Everywhere 計畫<br>
      本簡報由奇美 AI Everywhere 情報代理人自動生成 · ${day.date_str}`;
 }
 
+// ── 標籤篩選 ──────────────────────────────────────────────────
 function filterByTag(el, tag) {
   const cards = document.querySelectorAll('.article-card');
   document.querySelectorAll('.sidebar-link').forEach(l => l.classList.remove('active'));
@@ -647,15 +628,26 @@ function filterByTag(el, tag) {
 
   document.getElementById('list-count').textContent  = `共 ${visible} 筆`;
   document.getElementById('count-badge').textContent = `今日精選 ${visible} 則`;
+
+  const vis = [...cards].filter(c => c.style.display !== 'none');
+  cards.forEach(c => { c.style.borderRadius=''; c.style.borderTop=''; });
+  if (vis.length) {
+    vis[0].style.cssText += ';border-radius:12px 12px 0 0;border-top:1px solid var(--border)';
+    if (vis.length===1) vis[0].style.borderRadius='12px';
+    else vis[vis.length-1].style.cssText += ';border-radius:0 0 12px 12px';
+  }
 }
 
+// ── HTML 跳脫工具 ─────────────────────────────────────────────
 function esc(s) {
   return String(s)
     .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
     .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
 }
 
+// ── 頁面初始化 ────────────────────────────────────────────────
 switchDay(TODAY_ISO);
 </script>
+
 </body>
 </html>
