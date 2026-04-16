@@ -218,129 +218,109 @@
     border-radius: 4px;
   }
 
-  /* ── ARTICLE GRID (LAYOUT ONLY) ── */
-  .article-list{
-    display:grid;
-    grid-template-columns:repeat(3,minmax(0,1fr));
-    gap:18px;
-    padding-top:18px;
+  /* ── ARTICLE CARD ── */
+  .article-list { display: flex; flex-direction: column; }
+  .article-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-top: none;
+    padding: 34px 40px 30px;
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    gap: 0 24px;
+    transition: background 0.15s, box-shadow 0.15s;
+    animation: fadeUp 0.4s ease both;
   }
-  @media (max-width:1100px){
-    .article-list{ grid-template-columns:repeat(2,minmax(0,1fr)); }
-  }
-  @media (max-width:800px){
-    .layout { grid-template-columns: 1fr; padding: 20px 16px 60px; }
-    .sidebar { display: none; }
-    .header-inner { padding: 14px 20px; }
-    .header-date { display: none; }
-    .page-title-bar { padding: 16px 20px; }
-    .date-nav-inner { padding: 0 16px; gap: 7px; }
-    .date-btn { min-width: 56px; padding: 7px 8px; }
-    .date-btn-weekday { font-size: 0.7rem; }
-    .date-btn-md { font-size: 0.82rem; }
-    .date-nav-label { display: none; }
-    .article-list{ grid-template-columns:1fr; }
-  }
+  .article-card:first-child { border-top: 1px solid var(--border); border-radius: 12px 12px 0 0; }
+  .article-card:last-child { border-radius: 0 0 12px 12px; }
+  .article-card:hover { background: #fafcff; box-shadow: inset 3px 0 0 var(--accent); }
 
-  /* Card */
-  .article-card{
-    background:var(--surface);
-    border:1px solid var(--border);
-    border-radius:14px;
-    overflow:hidden;
-    box-shadow:0 2px 10px rgba(10,22,40,0.06);
-    transition:transform .15s ease, box-shadow .15s ease, border-color .15s ease;
-    animation:fadeUp .35s ease both;
-    display:flex;
-    flex-direction:column;
-    min-width:0;
-  }
-  .article-card:hover{
-    transform:translateY(-2px);
-    box-shadow:0 10px 26px rgba(10,22,40,0.12);
-    border-color:#cfe0f7;
-  }
+  
+  .article-card:nth-child(1) { animation-delay: 0.05s; }
+  
+  .article-card:nth-child(2) { animation-delay: 0.1s; }
+  
+  .article-card:nth-child(3) { animation-delay: 0.15s; }
+  
+  .article-card:nth-child(4) { animation-delay: 0.2s; }
+  
+  .article-card:nth-child(5) { animation-delay: 0.25s; }
+  
+  .article-card:nth-child(6) { animation-delay: 0.3s; }
+  
+  .article-card:nth-child(7) { animation-delay: 0.35s; }
+  
 
-  .card-top{ padding:14px 16px 10px; }
-  .tagline{
-    font-size:.86rem;
-    font-weight:800;
-    line-height:1.35;
-    color:#ff6a00;
-    word-break:break-word;
+  .card-num { padding-top: 4px; text-align: center; }
+  .num-circle {
+    width: 40px; height: 40px;
+    border-radius: 50%;
+    background: var(--bg);
+    border: 2px solid var(--border);
+    color: var(--muted);
+    font-size: 0.88rem;
+    font-weight: 700;
+    display: flex; align-items: center; justify-content: center;
   }
+  .num-top1 { background: #fff0ee; border-color: var(--red); color: var(--red); }
+  .num-top2 { background: #fff4ec; border-color: var(--orange); color: var(--orange); }
+  .num-top3 { background: #edfbf4; border-color: var(--green); color: var(--green); }
 
-  .card-img{
-    width:100%;
-    aspect-ratio:16/9;
-    background:linear-gradient(135deg,#e6effa,#f7fbff);
-    border-top:1px solid #f0f4f8;
-    border-bottom:1px solid #f0f4f8;
-  }
-  .card-img img{
-    width:100%;
-    height:100%;
-    object-fit:cover;
-    display:block;
-  }
+  .card-badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; align-items: center; }
+  .badge { font-size: 0.78rem; font-weight: 700; padding: 3px 10px; border-radius: 3px; letter-spacing: 0.04em; }
+  .b-top1 { background: var(--red); color: #fff; }
+  .b-top2 { background: var(--orange); color: #fff; }
+  .b-top3 { background: var(--green); color: #fff; }
+  .b-focus { background: var(--blue); color: #fff; }
+  .b-cat { background: var(--light-blue); color: var(--blue); font-weight: 600; border: 1px solid #c5dbf5; }
 
-  .card-body{
-    padding:16px 18px 18px;
-    display:flex;
-    flex-direction:column;
-    gap:10px;
+  .card-title {
+    font-family: var(--serif);
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--navy);
+    line-height: 1.55;
+    margin-bottom: 10px;
   }
-  .card-title{
-    font-family:var(--serif);
-    font-size:1.22rem;
-    font-weight:800;
-    color:#111827;
-    line-height:1.35;
-    letter-spacing:.01em;
-    margin:0;
-  }
-  .card-title a{ color:inherit; text-decoration:none; transition:color .15s; }
-  .card-title a:hover{ color:var(--accent); }
+  .card-title a { color: inherit; text-decoration: none; transition: color 0.15s; }
+  .article-card:hover .card-title a { color: var(--accent); }
 
-  .card-summary{
-    font-size:.95rem;
-    color:var(--text2);
-    line-height:1.75;
-    margin:0;
-    display:-webkit-box;
-    -webkit-line-clamp:3;
-    -webkit-box-orient:vertical;
-    overflow:hidden;
+  .card-meta {
+    font-size: 0.86rem;
+    color: var(--muted);
+    margin-bottom: 12px;
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
   }
-
-  .card-meta{
-    margin-top:auto;
-    font-size:.82rem;
-    color:#9aa6b2;
-    display:flex;
-    justify-content:space-between;
-    gap:10px;
-    align-items:center;
-    padding-top:10px;
-    border-top:1px solid #f0f4f8;
+  .card-summary { font-size: 0.98rem; color: var(--text2); line-height: 1.9; margin-bottom: 14px; }
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding-top: 16px;
+    border-top: 1px solid #f0f4f8;
   }
-  .meta-date{ white-space:nowrap; }
-
-  .source-btn{
-    display:inline-flex;
-    align-items:center;
-    gap:6px;
-    background:#111827;
-    color:#fff;
-    text-decoration:none;
-    border-radius:8px;
-    padding:7px 12px;
-    font-size:.82rem;
-    font-weight:700;
-    transition:background .15s;
-    white-space:nowrap;
+  .hashtags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .hashtag { font-size: 0.84rem; color: var(--accent); text-decoration: none; }
+  .hashtag:hover { color: var(--navy); text-decoration: underline; }
+  .source-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    background: var(--navy);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 6px;
+    padding: 8px 18px;
+    font-size: 0.84rem;
+    font-weight: 600;
+    transition: background 0.15s;
+    white-space: nowrap;
   }
-  .source-btn:hover{ background:var(--accent); }
+  .source-btn:hover { background: var(--accent); }
 
   /* ── FOOTER ── */
   .footer {
@@ -432,10 +412,27 @@
     from { opacity: 0; transform: translateY(16px); }
     to   { opacity: 1; transform: translateY(0); }
   }
+
+  /* ── RWD ── */
+  @media (max-width: 800px) {
+    .layout { grid-template-columns: 1fr; padding: 20px 16px 60px; }
+    .sidebar { display: none; }
+    .header-inner { padding: 14px 20px; }
+    .header-date { display: none; }
+    .article-card { padding: 18px 18px 16px; grid-template-columns: 32px 1fr; gap: 0 12px; }
+    .card-title { font-size: 1.05rem; }
+    .page-title-bar { padding: 16px 20px; }
+    .date-nav-inner { padding: 0 16px; gap: 7px; }
+    .date-btn { min-width: 56px; padding: 7px 8px; }
+    .date-btn-weekday { font-size: 0.7rem; }
+    .date-btn-md { font-size: 0.82rem; }
+    .date-nav-label { display: none; }
+  }
 </style>
 </head>
 <body>
 
+<!-- HEADER -->
 <header class="header">
   <div class="header-inner">
     <div class="logo-area">
@@ -449,6 +446,7 @@
   </div>
 </header>
 
+<!-- BREADCRUMB -->
 <div class="breadcrumb">
   <div class="breadcrumb-inner">
     <a href="#">首頁</a>
@@ -459,6 +457,7 @@
   </div>
 </div>
 
+<!-- DATE NAV -->
 
 <div class="date-nav">
   <div class="date-nav-inner">
@@ -521,7 +520,10 @@
 </div>
 
 
+<!-- LAYOUT -->
 <div class="layout">
+
+  <!-- SIDEBAR -->
   <aside class="sidebar">
     <div class="sidebar-card">
       <div class="sidebar-head">📋 情報分類</div>
@@ -533,6 +535,7 @@
     </div>
   </aside>
 
+  <!-- MAIN -->
   <main class="main">
     <div class="page-title-bar">
       <h2 id="page-title">醫療AI每日情報｜2026年04月16日（星期四）</h2>
@@ -546,6 +549,7 @@
 
     <div class="article-list" id="article-list"><!-- JS 填入 --></div>
   </main>
+
 </div>
 
 <footer class="footer">
@@ -553,76 +557,55 @@
   本簡報由奇美 AI Everywhere 情報代理人自動生成 · 2026年04月16日
 </footer>
 
+
 <script>
-const ALL_DAYS   = {"2026-04-16": {"date_str": "2026年04月16日", "weekday": "星期四", "items": [{"rank": 1, "score": 9.0, "title": "Abridge AI 臨床平台整合 NEJM 與 JAMA Network 實證醫學證據", "summary": "AI 驅動臨床文件輔助平台 Abridge 宣布與《新英格蘭醫學雜誌》（NEJM）及 JAMA Network 達成多年合作協議，將同儕審閱的最新醫學文獻直接嵌入其臨床決策支援工具。此舉旨在讓臨床醫師在使用 AI 輔助文件記錄時，能即時獲取高品質實證醫學依據，縮短從研究發現到臨床應用的落差。Abridge 平台原以語音轉文字及自動病歷摘要功能著稱，此次整合頂尖醫學期刊資料庫，進一步提升其臨床決策支援的深度與可信度，代表 AI 醫療平台從單純文件自動化邁向循證輔助決策的重要轉型里程碑。此一模式對醫院資訊化發展及臨床工作流程優化具有重要參考意義。", "tags": ["臨床決策支援", "AI文件輔助", "實證醫學", "醫療資訊系統"], "author": "Healthcare IT News（2026-04-16）", "source_url": "https://www.healthcareitnews.com/news/abridge-incorporates-more-clinical-evidence-its-decision-support-tools"}, {"rank": 2, "score": 8.5, "title": "Innovaccer 投入 2.5 億美元擴建醫療 Agentic AI 平台", "summary": "健康資料雲端平台公司 Innovaccer 宣布投入 2.5 億美元，大規模擴充其 Agentic AI（自主代理式人工智慧）平台。Agentic AI 有別於被動式生成式 AI，具備自主執行多步驟複雜任務的能力，可在無需人工持續干預的情況下協調多項醫療工作流程，如患者照護管理、臨床資料整合及行政流程自動化。Innovaccer 此次鉅額投資反映出醫療 AI 市場正從單一功能模型向具備自主決策能力的智慧代理架構演進。此一技術趨勢對醫院資料整合策略、照護協調模式及醫療 IT 基礎架構規劃均具深遠影響，被業界視為醫療 AI 應用的下一個重要發展階段。", "tags": ["Agentic AI", "醫療資料平台", "健康資訊科技", "人工智慧投資"], "author": "MedCity News（2026-04-16）", "source_url": "https://medcitynews.com/2026/04/innovaccer-ai-data/"}, {"rank": 3, "score": 8.2, "title": "阿茲海默症診斷革新：關鍵生物標記如何改變診斷時機與方式", "summary": "一篇深度報導梳理了目前正在改變阿茲海默症診斷模式的核心生物標記進展，包括血液中磷酸化 tau 蛋白（p-tau217）、β-類澱粉蛋白（Aβ42/Aβ40）比值及神經絲輕鏈蛋白（NfL）等生物標記的臨床應用現況。這些標記使醫師得以在患者出現認知症狀前數年即進行早期診斷，從根本改變了阿茲海默症的篩檢與干預時機。隨著 lecanemab 等疾病修飾療法的問世，早期精確診斷的臨床價值大幅提升。報導同時指出血液生物標記檢測在普及化過程中面臨的標準化挑戰及臨床解讀問題，為神經科及老年醫學領域的實務工作者提供重要參考。", "tags": ["阿茲海默症", "生物標記", "早期診斷", "神經退化疾病"], "author": "MedCity News（2026-04-16）", "source_url": "https://medcitynews.com/2026/04/the-key-biomarkers-changing-how-and-when-we-diagnose-alzheimers-disease/"}, {"rank": 4, "score": 7.8, "title": "Medicare 擬取消突破性醫療器材特別支付途徑，影響創新器材給付前景", "summary": "據 STAT News 報導，美國聯邦醫療保險（CMS）正考慮廢除針對 FDA 核准「突破性醫療器材」的特殊給付機制（MCIT，Medicare Coverage of Innovative Technology）。該機制原本設計於 FDA 批准後立即提供 4 年 Medicare 給付，以加速創新器材進入臨床應用，但其成本效益及長期價值評估一直存在爭議。若此政策調整成真，將對醫療 AI 診斷器材、數位治療及各類創新醫療設備的市場准入產生重大影響，可能延長創新技術從核准到廣泛臨床應用的時間差，進而影響醫療科技公司的研發投資意願與市場策略。", "tags": ["醫療器材給付政策", "Medicare", "創新醫療技術", "監管政策"], "author": "STAT News（2026-04-16）", "source_url": "https://www.statnews.com/2026/04/16/medicare-breakthrough-device-payment-pathway-health-tech/"}, {"rank": 5, "score": 7.5, "title": "Eli Lilly 收購 CrossBridge Bio，強化雙酬載抗體藥物複合體腫瘤治療佈局", "summary": "製藥巨頭 Eli Lilly 宣布收購生技新創公司 CrossBridge Bio，後者專注於開發具雙重藥物酬載的抗體藥物複合體（ADC，Antibody-Drug Conjugate）技術。傳統 ADC 僅攜帶單一細胞毒性藥物，而 CrossBridge Bio 的雙酬載平台能讓單一 ADC 分子同時遞送兩種不同作用機轉的藥物至腫瘤細胞，理論上可提高腫瘤殺傷效率並降低耐藥性風險。此收購案反映出全球製藥業對新一代 ADC 技術的高度重視，ADC 已成為腫瘤精準治療領域競爭最激烈的技術平台之一。此一技術突破對血液腫瘤科及實體腫瘤治療的未來用藥選擇具有潛在影響。", "tags": ["抗體藥物複合體", "腫瘤精準治療", "藥廠併購", "創新藥物技術"], "author": "MedCity News（2026-04-16）", "source_url": "https://medcitynews.com/2026/04/eli-lilly-crossbridge-bio-acquisition-antibody-drug-conjugate-dual-payload-adc-lly/"}, {"rank": 6, "score": 7.2, "title": "醫療 IT 與臨床團隊整合：AI 與資安時代的協作新模式", "summary": "Healthcare IT News 一篇深度分析報導探討醫療機構中 IT 團隊與臨床團隊協作模式的轉變。隨著 AI 應用、互聯互通性要求及網路安全威脅日益複雜，IT 部門在醫療軟體評估、採購決策及系統導入過程中的角色已從技術支援演變為策略核心。報導指出，成功的醫療數位轉型需要 IT 與臨床人員建立跨域共識，包括共同參與需求評估、工作流程設計及後期優化。此一組織協作模式對醫院推動電子病歷升級、AI 工具導入及資安強化等計畫的成效具有直接影響，亦反映出現代醫療 IT 治理架構的演進方向。", "tags": ["醫療資訊科技治理", "IT與臨床整合", "數位轉型", "醫療資安"], "author": "Healthcare IT News（2026-04-16）", "source_url": "https://www.healthcareitnews.com/news/aligning-it-clinical-teams"}, {"rank": 7, "score": 6.8, "title": "Roche 啟動 Elevidys 第三期臨床試驗，瞄準歐洲杜氏肌肉萎縮症基因治療核准", "summary": "羅氏集團（Roche）宣布啟動杜氏肌肉萎縮症（Duchenne Muscular Dystrophy）基因治療藥物 Elevidys 的新一期第三期臨床試驗，目標為取得歐洲藥品管理局（EMA）的上市許可。Elevidys 由 Sarepta Therapeutics 開發，已於 2023 年獲美國 FDA 加速批准，但因臨床療效數據存在爭議，其核准過程備受關注。此次 Roche 主導的歐洲樞紐試驗設計旨在以更嚴謹的研究方法提供確證性療效數據，滿足 EMA 的完整核准標準。杜氏肌肉萎縮症為嚴重罕見遺傳疾病，此試驗結果將對罕病基因治療的歐洲監管標準及未來給付決策產生重要影響。", "tags": ["基因治療", "罕見疾病", "杜氏肌肉萎縮症", "臨床試驗"], "author": "STAT News（2026-04-16）", "source_url": "https://www.statnews.com/2026/04/16/roche-elevidys-pivotal-trial-europe-sarepta/"}]}, "2026-04-15": {"date_str": "2026年04月15日", "weekday": "星期三", "items": [{"rank": 1, "score": 9.2, "title": "Abridge 整合 UpToDate、NEJM 與 JAMA 擴展 AI 臨床決策支援能力", "summary": "AI 醫療文件公司 Abridge 宣布與 Wolters Kluwer 旗下 UpToDate 建立合作夥伴關係，並同步整合《新英格蘭醫學期刊》（NEJM）及《美國醫學會期刊》（JAMA）的內容資源，大幅擴充其臨床決策支援功能。Abridge 原以 AI 輔助病歷記錄聞名，此次整合將使系統能在診療流程中即時提供循證醫學文獻建議，將醫療記錄輔助工具升級為具備證據基礎的臨床決策支援平台。UpToDate 為全球醫師最廣泛使用的臨床參考資料庫之一，與 NEJM、JAMA 等頂尖期刊的整合，代表 AI 醫療工具正從行政效率導向轉型為深度介入臨床決策的方向，對醫師工作流程與醫療品質具有重要影響意義。", "tags": ["臨床決策支援", "AI醫療文件", "循證醫學", "醫師工作流程"], "author": "Fierce Healthcare（2026-04-15）", "source_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-expands-clinical-decision-support-capabilities-uptodate-partnership"}, {"rank": 2, "score": 8.8, "title": "AI 放射科「最後一哩路」問題：偵測能力提升但後續追蹤機制失靈", "summary": "MedCity News 刊載深度分析指出，AI 放射影像判讀技術在病灶偵測精準度上已有顯著進步，然而臨床實務中卻面臨「最後一哩路問題」——即 AI 成功識別異常後，後續的臨床跟進、通知流程與患者管理環節仍存在嚴重斷鏈現象。文章探討 AI 偵測結果未能有效轉化為臨床行動的系統性障礙，包括工作流程整合不足、責任歸屬不明確、以及缺乏標準化的後續追蹤機制等問題。此議題凸顯出醫療 AI 導入不能僅聚焦於演算法性能，更需重視系統整合與臨床流程再造，方能真正提升患者照護品質與安全。", "tags": ["AI放射診斷", "臨床工作流程", "患者安全", "醫療系統整合"], "author": "MedCity News（2026-04-15）", "source_url": "https://medcitynews.com/2026/04/the-last-mile-problem-in-ai-radiology-detection-improves-follow-through-breaks/"}, {"rank": 3, "score": 8.5, "title": "STAT AI Prognosis：15 美元 AI 診斷測試、Project Glasswing 及猶他州 AI 醫療試驗爭議", "summary": "STAT News 本期 AI Prognosis 電子報聚焦三項重要議題：其一為僅需 15 美元的低成本 AI 診斷測試，探討其普及化潛力與精準度疑慮；其二為 Project Glasswing 計畫及其對整體醫療照護體系的潛在影響；其三則報導 Doctronic 公司在猶他州推行 AI 醫療試驗過程中，因事前未充分知會猶他州醫療委員會而引發監管爭議的事件始末。此系列報導反映出醫療 AI 商業化進程加速的背景下，監管框架與臨床試驗倫理規範面臨的現實挑戰，以及低成本 AI 工具在醫療平等化方面的潛力與風險並存的複雜局面。", "tags": ["醫療AI監管", "AI診斷工具", "醫療倫理", "臨床試驗"], "author": "STAT News（2026-04-15）", "source_url": "https://www.statnews.com/2026/04/15/ai-test-project-glasswing-doctronic-pilot-ai-prognosis/?utm_campaign=rss"}, {"rank": 4, "score": 8.0, "title": "非處方數位療法（ODTx）：LLM 與穿戴裝置整合的下一步臨床應用", "summary": "MedCity News 刊載分析文章，探討非處方數位療法（Over-the-Counter Digital Therapeutics, ODTx）如何成為大型語言模型（LLM）與穿戴式裝置整合應用的下一個發展方向。文章指出，當前 LLM 與穿戴裝置多停留於「洞察提供」層次，而 ODTx 代表從被動資訊回饋跨越至主動治療介入的關鍵轉變，有潛力在慢性病管理、行為健康等領域發揮實質療效。文章同時探討 ODTx 在監管路徑、臨床實證要求及商業模式上的挑戰，指出若能妥善整合 AI 個人化能力與連續生理監測數據，ODTx 有望成為無需處方的新型精準醫療工具。", "tags": ["數位療法", "大型語言模型", "穿戴裝置", "慢性病管理"], "author": "MedCity News（2026-04-15）", "source_url": "https://medcitynews.com/2026/04/from-insight-to-intervention-why-over-the-counter-digital-therapeutics-odtx-are-the-next-step-for-llms-and-wearables/"}, {"rank": 5, "score": 7.8, "title": "Keebler Health 獲 1,600 萬美元 A 輪融資，推動 AI 風險調整平台擴展", "summary": "醫療健康新創公司 Keebler Health 宣布完成 1,600 萬美元 A 輪融資，資金將用於擴充團隊規模、推進商業化成長，並強化服務全美以價值為基礎照護（value-based care）組織的基礎設施建設。該公司核心產品為 AI 驅動的風險調整平台，協助醫療機構精確識別患者病情複雜度與照護需求，以確保醫療費用與臨床實際風險相符。此次融資亦將支持平台向合規審查與稽核工作流程等相鄰應用場景拓展。此輪融資反映出投資市場對結合 AI 技術與價值醫療模式的工具持續看好，尤其在 CMS 不斷強化風險調整機制的政策背景下，相關解決方案需求日益增加。", "tags": ["AI醫療新創", "風險調整", "價值醫療", "醫療融資"], "author": "Fierce Healthcare（2026-04-15）", "source_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/keebler-health-secures-16m-series-funding"}, {"rank": 6, "score": 7.5, "title": "HeartFlow 對心臟 AI 競爭對手 Cleerly 提起專利侵權訴訟", "summary": "心臟影像 AI 領域領導廠商 HeartFlow 正式對競爭對手 Cleerly 提起訴訟，指控後者涉嫌竊取其智慧財產權。HeartFlow 以其 AI 驅動的冠狀動脈計算機斷層掃描血流儲備分數（CT-FFR）分析技術聞名，而 Cleerly 同樣專注於 AI 輔助心臟 CT 影像分析平台。此案涉及心臟 AI 診斷影像技術的核心演算法專利爭議，引發業界高度關注。訴訟結果將對心臟 AI 診斷市場競爭格局產生重大影響，並可能為醫療 AI 領域的智慧財產權保護範疇設立重要先例，反映出隨著醫療 AI 商業價值提升，專利競爭日趨激烈的產業趨勢。", "tags": ["心臟AI診斷", "醫療AI專利", "心臟影像", "醫療法規"], "author": "MedCity News（2026-04-15）", "source_url": "https://medcitynews.com/2026/04/heartflow-cleerly-patent-lawsuit-cardiac/"}, {"rank": 7, "score": 7.2, "title": "CMS 宣布 150 家機構參與 ACCESS 慢性病照護新支付模式", "summary": "美國聯邦醫療保險與補助服務中心（CMS）旗下創新中心宣布，已受理 150 家醫療機構加入「以有效可擴展解決方案推進慢性病照護」計畫（ACCESS，Advancing Chronic Care with Effective, Scalable Solutions）。該計畫旨在將 Medicare 支付機制與可量化的健康結果相連結，屬於價值基礎照護（value-based care）支付模式改革的重要組成部分。ACCESS 計畫的核心目標為擴大慢性病患者獲得整合性照護的管道，透過改變支付誘因引導醫療提供者強化預防與疾病管理服務。此計畫對慢性病管理模式、支付制度改革及醫療機構營運策略均具重要參考意義。", "tags": ["慢性病管理", "價值醫療", "Medicare支付改革", "CMS政策"], "author": "Healthcare IT News（2026-04-15）", "source_url": "https://www.healthcareitnews.com/news/cms-announces-150-participants-upcoming-access-model-launch"}]}};
+// ── 所有天的資料（由 Python 嵌入）──────────────────────────────
+const ALL_DAYS   = {"2026-04-16": {"date_str": "2026年04月16日", "weekday": "星期四", "items": [{"rank": 1, "score": 9.2, "title": "Abridge AI 臨床平台整合 NEJM 與 JAMA Network 實證醫學證據", "summary": "AI 醫療文件公司 Abridge 宣布與《新英格蘭醫學期刊》（NEJM）及 JAMA Network 簽訂多年合作協議，將同儕審查的醫學實證直接整合至其 AI 驅動的臨床決策支援平台。此舉旨在解決目前大型語言模型在醫療應用中常見的知識時效性與可信度問題，讓臨床人員在使用 AI 輔助工具時能即時引用最新、高品質的醫學文獻。Abridge 原以 AI 自動化醫師病歷記錄著稱，此次擴展標誌其業務向臨床決策支援領域深化。由頂尖醫學期刊為 AI 平台提供實證支撐，被視為提升 AI 臨床工具可信度與採用率的重要里程碑，對強調實證醫學的醫療機構具有高度參考意義。", "tags": ["AI 臨床決策支援", "實證醫學整合", "醫療 AI 可信度"], "author": "Healthcare IT News（2026年4月16日）", "source_url": "https://www.healthcareitnews.com/news/abridge-incorporates-more-clinical-evidence-its-decision-support-tools"}, {"rank": 2, "score": 8.8, "title": "AI 放射影像「最後一哩」問題：偵測能力提升，但後續追蹤流程仍脫節", "summary": "MedCity News 報導指出，AI 放射影像工具在病灶偵測靈敏度上已顯著提升，然而臨床實務中從 AI 陽性發現到實際患者追蹤介入之間仍存在嚴重落差，即所謂「最後一哩問題」（Last Mile Problem）。文章分析，當 AI 系統偵測到異常後，若缺乏系統性的通知、分流與追蹤工作流程，高靈敏度的偵測能力並不能自動轉化為患者預後改善。造成此問題的因素包括：AI 警示未有效整合至 EHR 工作流程、臨床人員對 AI 結果的信任度不一，以及後續追蹤責任歸屬不明確。此議題對推動 AI 影像應用的醫療機構具有高度實務警示意義。", "tags": ["AI 放射影像", "臨床工作流程", "患者追蹤", "醫療 AI 導入"], "author": "MedCity News（2026年4月16日）", "source_url": "https://medcitynews.com/2026/04/the-last-mile-problem-in-ai-radiology-detection-improves-follow-through-breaks/"}, {"rank": 3, "score": 8.3, "title": "STAT AI Prognosis：15 美元 AI 診斷測試、Project Glasswing 與 Doctronic 猶他州 AI 試驗事件", "summary": "STAT News 最新一期《AI Prognosis》電子報報導三則重要議題：其一為售價僅 15 美元的 AI 診斷測試工具，顯示低成本 AI 醫療應用的可行性；其二為 Project Glasswing，被認為對未來醫療照護體系具有深遠影響；其三為 Doctronic 公司在猶他州進行的 AI 診療試驗，因未事先知會猶他州醫師執照委員會（Utah Medical Board）而引發監管爭議，涉及 AI 系統提供診療建議的執業範疇及監理合規問題。Doctronic 事件凸顯了在監管尚未完善的情況下推進 AI 臨床應用所面臨的法律與倫理風險，為各地醫療機構及衛生主管機關提供重要的政策參考。", "tags": ["AI 醫療監管", "低成本 AI 診斷", "醫療 AI 倫理"], "author": "STAT News（2026年4月15日）", "source_url": "https://www.statnews.com/2026/04/15/ai-test-project-glasswing-doctronic-pilot-ai-prognosis/?utm_campaign=rss"}, {"rank": 4, "score": 8.0, "title": "Innovaccer 投入 2.5 億美元深化 Agentic AI 醫療平台", "summary": "健康資料平台公司 Innovaccer 宣布將投入 2.5 億美元強化其「自主代理型 AI」（Agentic AI）平台，此類 AI 能自主規劃並執行多步驟任務，而非僅回應單一問題。Innovaccer 的平台主要服務於人口健康管理、照護協調及收益循環等領域，Agentic AI 的導入意味著系統能主動識別高風險患者、協調多部門照護流程，並自動化繁瑣的行政作業。此次大規模投資反映出醫療 AI 市場正從被動查詢工具轉向主動任務執行系統的趨勢，同時也引發外界對 AI 自主決策在醫療場域安全性與監管框架的討論。", "tags": ["Agentic AI", "人口健康管理", "醫療 AI 投資"], "author": "MedCity News（2026年4月16日）", "source_url": "https://medcitynews.com/2026/04/innovaccer-ai-data/"}, {"rank": 5, "score": 7.6, "title": "非處方數位療法（ODTx）：LLM 與穿戴裝置結合的下一步應用", "summary": "MedCity News 刊出觀點文章，探討「非處方數位療法」（Over-the-Counter Digital Therapeutics, ODTx）作為大型語言模型（LLM）與穿戴裝置融合應用的新興發展方向。文章論述目前多數數位健康工具僅停留於提供洞察（Insight）階段，而 ODTx 的目標是直接介入（Intervention），透過 LLM 的語言理解能力與穿戴裝置的即時生理數據，提供個人化、可執行的健康行為引導。此模式無需處方即可取得，有望大幅降低數位療法的使用門檻，但同時也引發療效驗證、安全監控與醫療責任歸屬等監管層面的挑戰，對數位健康政策制定具有參考價值。", "tags": ["數位療法", "大型語言模型", "穿戴裝置", "數位健康"], "author": "MedCity News（2026年4月16日）", "source_url": "https://medcitynews.com/2026/04/from-insight-to-intervention-why-over-the-counter-digital-therapeutics-odtx-are-the-next-step-for-llms-and-wearables/"}, {"rank": 6, "score": 7.2, "title": "Novartis 執行長加入 Anthropic 董事會，生技製藥與 AI 巨頭深化策略聯盟", "summary": "STAT News 報導，Novartis 執行長正式加入 AI 公司 Anthropic 的董事會，此舉被視為全球頂尖製藥企業與領先 AI 基礎模型公司之間策略整合的具體信號。Anthropic 以開發大型語言模型 Claude 著稱，其在醫療領域的潛在應用包括藥物研發、臨床試驗設計及醫療文件處理。此次人事異動不僅象徵製藥業對 AI 基礎建設的高度重視，也可能加速 Anthropic 技術在生命科學領域的應用布局。同期報導亦提及 Revolution Medicines 完成 20 億美元融資，以及 Structure Therapeutics 新任人事任命暗示潛在併購動向，顯示生技投資市場持續活躍。", "tags": ["製藥 AI 策略聯盟", "大型語言模型", "生技投資"], "author": "STAT News（2026年4月15日）", "source_url": "https://www.statnews.com/2026/04/15/biotech-news-novartis-ceo-joins-anthropic-board/?utm_campaign=rss"}, {"rank": 7, "score": 6.8, "title": "CMS 擬撤銷突破性醫療器材補充支付彈性條款", "summary": "美國醫療保險與補助服務中心（CMS）提議廢除一項允許突破性醫療器材（Breakthrough Devices）取得補充支付款項的途徑。該途徑原旨在鼓勵創新醫療技術加速進入臨床應用，透過提供額外支付誘因降低醫療機構採用新器材的財務風險。若此提案通過，將可能影響包括 AI 輔助醫療器材在內的創新技術的商業化進程，因為許多獲得 FDA 突破性器材認定的產品仰賴此支付機制來覆蓋高昂的研發與導入成本。此政策變動對醫療器材產業、醫療機構採購決策及 AI 醫療器材的市場準入均具有直接影響。", "tags": ["醫療器材支付政策", "CMS 法規", "突破性器材", "醫療 AI 商業化"], "author": "STAT News（2026年4月15日）", "source_url": "https://www.statnews.com/2026/04/15/cms-proposes-rolling-back-breakthrough-device-payment/?utm_campaign=rss"}]}, "2026-04-15": {"date_str": "2026年04月15日", "weekday": "星期三", "items": [{"rank": 1, "score": 9.2, "title": "Abridge 整合 UpToDate、NEJM 與 JAMA 擴展 AI 臨床決策支援能力", "summary": "AI 醫療文件公司 Abridge 宣布與 Wolters Kluwer 旗下 UpToDate 建立合作夥伴關係，並同步整合《新英格蘭醫學期刊》（NEJM）及《美國醫學會期刊》（JAMA）的內容資源，大幅擴充其臨床決策支援功能。Abridge 原以 AI 輔助病歷記錄聞名，此次整合將使系統能在診療流程中即時提供循證醫學文獻建議，將醫療記錄輔助工具升級為具備證據基礎的臨床決策支援平台。UpToDate 為全球醫師最廣泛使用的臨床參考資料庫之一，與 NEJM、JAMA 等頂尖期刊的整合，代表 AI 醫療工具正從行政效率導向轉型為深度介入臨床決策的方向，對醫師工作流程與醫療品質具有重要影響意義。", "tags": ["臨床決策支援", "AI醫療文件", "循證醫學", "醫師工作流程"], "author": "Fierce Healthcare（2026-04-15）", "source_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-expands-clinical-decision-support-capabilities-uptodate-partnership"}, {"rank": 2, "score": 8.8, "title": "AI 放射科「最後一哩路」問題：偵測能力提升但後續追蹤機制失靈", "summary": "MedCity News 刊載深度分析指出，AI 放射影像判讀技術在病灶偵測精準度上已有顯著進步，然而臨床實務中卻面臨「最後一哩路問題」——即 AI 成功識別異常後，後續的臨床跟進、通知流程與患者管理環節仍存在嚴重斷鏈現象。文章探討 AI 偵測結果未能有效轉化為臨床行動的系統性障礙，包括工作流程整合不足、責任歸屬不明確、以及缺乏標準化的後續追蹤機制等問題。此議題凸顯出醫療 AI 導入不能僅聚焦於演算法性能，更需重視系統整合與臨床流程再造，方能真正提升患者照護品質與安全。", "tags": ["AI放射診斷", "臨床工作流程", "患者安全", "醫療系統整合"], "author": "MedCity News（2026-04-15）", "source_url": "https://medcitynews.com/2026/04/the-last-mile-problem-in-ai-radiology-detection-improves-follow-through-breaks/"}, {"rank": 3, "score": 8.5, "title": "STAT AI Prognosis：15 美元 AI 診斷測試、Project Glasswing 及猶他州 AI 醫療試驗爭議", "summary": "STAT News 本期 AI Prognosis 電子報聚焦三項重要議題：其一為僅需 15 美元的低成本 AI 診斷測試，探討其普及化潛力與精準度疑慮；其二為 Project Glasswing 計畫及其對整體醫療照護體系的潛在影響；其三則報導 Doctronic 公司在猶他州推行 AI 醫療試驗過程中，因事前未充分知會猶他州醫療委員會而引發監管爭議的事件始末。此系列報導反映出醫療 AI 商業化進程加速的背景下，監管框架與臨床試驗倫理規範面臨的現實挑戰，以及低成本 AI 工具在醫療平等化方面的潛力與風險並存的複雜局面。", "tags": ["醫療AI監管", "AI診斷工具", "醫療倫理", "臨床試驗"], "author": "STAT News（2026-04-15）", "source_url": "https://www.statnews.com/2026/04/15/ai-test-project-glasswing-doctronic-pilot-ai-prognosis/?utm_campaign=rss"}, {"rank": 4, "score": 8.0, "title": "非處方數位療法（ODTx）：LLM 與穿戴裝置整合的下一步臨床應用", "summary": "MedCity News 刊載分析文章，探討非處方數位療法（Over-the-Counter Digital Therapeutics, ODTx）如何成為大型語言模型（LLM）與穿戴式裝置整合應用的下一個發展方向。文章指出，當前 LLM 與穿戴裝置多停留於「洞察提供」層次，而 ODTx 代表從被動資訊回饋跨越至主動治療介入的關鍵轉變，有潛力在慢性病管理、行為健康等領域發揮實質療效。文章同時探討 ODTx 在監管路徑、臨床實證要求及商業模式上的挑戰，指出若能妥善整合 AI 個人化能力與連續生理監測數據，ODTx 有望成為無需處方的新型精準醫療工具。", "tags": ["數位療法", "大型語言模型", "穿戴裝置", "慢性病管理"], "author": "MedCity News（2026-04-15）", "source_url": "https://medcitynews.com/2026/04/from-insight-to-intervention-why-over-the-counter-digital-therapeutics-odtx-are-the-next-step-for-llms-and-wearables/"}, {"rank": 5, "score": 7.8, "title": "Keebler Health 獲 1,600 萬美元 A 輪融資，推動 AI 風險調整平台擴展", "summary": "醫療健康新創公司 Keebler Health 宣布完成 1,600 萬美元 A 輪融資，資金將用於擴充團隊規模、推進商業化成長，並強化服務全美以價值為基礎照護（value-based care）組織的基礎設施建設。該公司核心產品為 AI 驅動的風險調整平台，協助醫療機構精確識別患者病情複雜度與照護需求，以確保醫療費用與臨床實際風險相符。此次融資亦將支持平台向合規審查與稽核工作流程等相鄰應用場景拓展。此輪融資反映出投資市場對結合 AI 技術與價值醫療模式的工具持續看好，尤其在 CMS 不斷強化風險調整機制的政策背景下，相關解決方案需求日益增加。", "tags": ["AI醫療新創", "風險調整", "價值醫療", "醫療融資"], "author": "Fierce Healthcare（2026-04-15）", "source_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/keebler-health-secures-16m-series-funding"}, {"rank": 6, "score": 7.5, "title": "HeartFlow 對心臟 AI 競爭對手 Cleerly 提起專利侵權訴訟", "summary": "心臟影像 AI 領域領導廠商 HeartFlow 正式對競爭對手 Cleerly 提起訴訟，指控後者涉嫌竊取其智慧財產權。HeartFlow 以其 AI 驅動的冠狀動脈計算機斷層掃描血流儲備分數（CT-FFR）分析技術聞名，而 Cleerly 同樣專注於 AI 輔助心臟 CT 影像分析平台。此案涉及心臟 AI 診斷影像技術的核心演算法專利爭議，引發業界高度關注。訴訟結果將對心臟 AI 診斷市場競爭格局產生重大影響，並可能為醫療 AI 領域的智慧財產權保護範疇設立重要先例，反映出隨著醫療 AI 商業價值提升，專利競爭日趨激烈的產業趨勢。", "tags": ["心臟AI診斷", "醫療AI專利", "心臟影像", "醫療法規"], "author": "MedCity News（2026-04-15）", "source_url": "https://medcitynews.com/2026/04/heartflow-cleerly-patent-lawsuit-cardiac/"}, {"rank": 7, "score": 7.2, "title": "CMS 宣布 150 家機構參與 ACCESS 慢性病照護新支付模式", "summary": "美國聯邦醫療保險與補助服務中心（CMS）旗下創新中心宣布，已受理 150 家醫療機構加入「以有效可擴展解決方案推進慢性病照護」計畫（ACCESS，Advancing Chronic Care with Effective, Scalable Solutions）。該計畫旨在將 Medicare 支付機制與可量化的健康結果相連結，屬於價值基礎照護（value-based care）支付模式改革的重要組成部分。ACCESS 計畫的核心目標為擴大慢性病患者獲得整合性照護的管道，透過改變支付誘因引導醫療提供者強化預防與疾病管理服務。此計畫對慢性病管理模式、支付制度改革及醫療機構營運策略均具重要參考意義。", "tags": ["慢性病管理", "價值醫療", "Medicare支付改革", "CMS政策"], "author": "Healthcare IT News（2026-04-15）", "source_url": "https://www.healthcareitnews.com/news/cms-announces-150-participants-upcoming-access-model-launch"}]}};
 const TODAY_ISO  = "2026-04-16";
 
-const DEFAULT_COVER_SVG = `data:image/svg+xml;utf8,${encodeURIComponent(`
-<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='675' viewBox='0 0 1200 675'>
-  <defs>
-    <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>
-      <stop offset='0' stop-color='#e8f2fd'/>
-      <stop offset='1' stop-color='#ffffff'/>
-    </linearGradient>
-    <linearGradient id='a' x1='0' y1='0' x2='1' y2='1'>
-      <stop offset='0' stop-color='#2b7fe8'/>
-      <stop offset='1' stop-color='#0e9f8e'/>
-    </linearGradient>
-  </defs>
-  <rect width='1200' height='675' fill='url(#g)'/>
-  <circle cx='240' cy='220' r='140' fill='url(#a)' opacity='0.16'/>
-  <circle cx='980' cy='520' r='190' fill='url(#a)' opacity='0.14'/>
-  <rect x='120' y='140' width='960' height='395' rx='28' fill='#ffffff' opacity='0.75' stroke='#dce4ef'/>
-  <text x='600' y='320' font-family='Arial, sans-serif' font-size='54' text-anchor='middle' fill='#0a1628' font-weight='700'>AI Everywhere Brief</text>
-  <text x='600' y='385' font-family='Arial, sans-serif' font-size='28' text-anchor='middle' fill='#445066'>Daily AI Intelligence</text>
-  <text x='600' y='450' font-family='Arial, sans-serif' font-size='22' text-anchor='middle' fill='#7a8899'>Chimei Medical System</text>
-</svg>
-`)}`;
-
-function renderTagline(tags){
-  const arr = (tags || []).filter(Boolean);
-  if (!arr.length) return '';
-  return arr.map(t => esc(t)).join(' | ');
-}
-
+// ── 產生單張文章卡片 HTML ────────────────────────────────────────
 function renderCard(item, rank) {
-  const tags = item.tags || [];
-  const tagline = renderTagline(tags);
-
+  const badges = {
+    1: ['b-top1','🥇 Top 1'],
+    2: ['b-top2','🥈 Top 2'],
+    3: ['b-top3','🥉 Top 3'],
+  };
+  const numClasses = { 1:'num-top1', 2:'num-top2', 3:'num-top3' };
+  const [badgeCls, badgeTxt] = badges[rank] || ['b-focus','焦點'];
+  const numCls  = numClasses[rank] || '';
+  const tags    = item.tags || [];
+  const catBadges = tags.slice(0,2).map(t=>`<span class="badge b-cat">${esc(t)}</span>`).join('');
   const titleHtml = item.source_url
-    ? `<a href="${esc(item.source_url)}" target="_blank" rel="noopener noreferrer">${esc(item.title||'')}</a>`
-    : esc(item.title||'');
-
-  const dateText = (item.author || '').trim();
-
+    ? `<a href="${esc(item.source_url)}" target="_blank">${esc(item.title)}</a>`
+    : esc(item.title);
+  const hashtags = tags.map((t,i)=>
+    `<a class="hashtag" href="#" onclick="filterByTag(this,'${esc(t)}');return false;">#${esc(t)}${i<tags.length-1?'、':''}</a>`
+  ).join('');
   const srcBtn = item.source_url
-    ? `<a class="source-btn" href="${esc(item.source_url)}" target="_blank" rel="noopener noreferrer">🔗 原文</a>`
-    : '';
+    ? `<a class="source-btn" href="${esc(item.source_url)}" target="_blank">🔗 原始來源</a>` : '';
 
   return `
   <article class="article-card" data-tags="${tags.map(esc).join('|')}" style="animation-delay:${(rank*0.05).toFixed(2)}s">
-    <div class="card-top">
-      <div class="tagline">${tagline}</div>
-    </div>
-    <div class="card-img">
-      <img src="${DEFAULT_COVER_SVG}" alt="cover" loading="lazy" />
-    </div>
+    <div class="card-num"><div class="num-circle ${numCls}">${rank}</div></div>
     <div class="card-body">
-      <h3 class="card-title">${titleHtml}</h3>
-      <p class="card-summary">${esc(item.summary||'')}</p>
-      <div class="card-meta">
-        <span class="meta-date">${dateText ? esc(dateText) : ''}</span>
-        <span>${srcBtn}</span>
+      <div class="card-badges"><span class="badge ${badgeCls}">${badgeTxt}</span>${catBadges}</div>
+      <div class="card-title">${titleHtml}</div>
+      <div class="card-meta"><span>📅 ${esc(item.author||'')}</span></div>
+      <div class="card-summary">${esc(item.summary||'')}</div>
+      <div class="card-footer">
+        <div class="hashtags">${hashtags}</div>${srcBtn}
       </div>
     </div>
   </article>`;
 }
 
+// ── 切換到指定日期 ─────────────────────────────────────────────
 function switchDay(dateIso) {
   const day = ALL_DAYS[dateIso];
   if (!day) return;
   const items = day.items || [];
 
+  // 標題列
   document.getElementById('page-title').textContent =
     `醫療AI每日情報｜${day.date_str}（${day.weekday}）`;
   document.getElementById('count-badge').textContent =
@@ -630,17 +613,21 @@ function switchDay(dateIso) {
   document.getElementById('list-count').textContent =
     `共 ${items.length} 筆`;
 
+  // Header 日期
   const hd = document.querySelector('.header-date');
   if (hd) hd.textContent = `📅 ${day.date_str}（${day.weekday}）`;
 
+  // 文章列表
   document.getElementById('article-list').innerHTML =
     items.map((item, i) => renderCard(item, i+1)).join('');
 
+  // 收集所有標籤
   const allTags = [];
   items.forEach(item => (item.tags||[]).forEach(t => {
     if (!allTags.includes(t)) allTags.push(t);
   }));
 
+  // 側欄分類
   document.getElementById('sidebar-links').innerHTML =
     `<a class="sidebar-link active" href="#" onclick="filterByTag(this,'all');return false;">
        今日精選 <span class="count">${items.length}</span>
@@ -650,26 +637,32 @@ function switchDay(dateIso) {
           onclick="filterByTag(this,'${esc(t)}');return false;">${esc(t)}</a>`
     ).join('');
 
+  // 標籤雲
   document.getElementById('tag-cloud').innerHTML =
     allTags.map(t =>
       `<a class="tag-chip" href="#" data-filter="${esc(t)}"
           onclick="filterByTag(this,'${esc(t)}');return false;">${esc(t)}</a>`
     ).join('');
 
+  // 日期按鈕 active 狀態
   document.querySelectorAll('.date-btn[data-date-iso]').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.dateIso === dateIso);
+    // 今天的按鈕文字
     const weekdayEl = btn.querySelector('.date-btn-weekday');
     if (weekdayEl) {
       if (btn.dataset.dateIso === TODAY_ISO) weekdayEl.textContent = '今天';
+      // else 保持原來的星期文字（Jinja2 渲染時已設定）
     }
   });
 
+  // Footer
   const footer = document.querySelector('.footer');
   if (footer) footer.innerHTML =
     `<strong>🧠 奇美醫療AI每日情報</strong>｜奇美醫療體系 · AI Everywhere 計畫<br>
      本簡報由奇美 AI Everywhere 情報代理人自動生成 · ${day.date_str}`;
 }
 
+// ── 標籤篩選 ──────────────────────────────────────────────────
 function filterByTag(el, tag) {
   const cards = document.querySelectorAll('.article-card');
   document.querySelectorAll('.sidebar-link').forEach(l => l.classList.remove('active'));
@@ -686,15 +679,26 @@ function filterByTag(el, tag) {
 
   document.getElementById('list-count').textContent  = `共 ${visible} 筆`;
   document.getElementById('count-badge').textContent = `今日精選 ${visible} 則`;
+
+  const vis = [...cards].filter(c => c.style.display !== 'none');
+  cards.forEach(c => { c.style.borderRadius=''; c.style.borderTop=''; });
+  if (vis.length) {
+    vis[0].style.cssText += ';border-radius:12px 12px 0 0;border-top:1px solid var(--border)';
+    if (vis.length===1) vis[0].style.borderRadius='12px';
+    else vis[vis.length-1].style.cssText += ';border-radius:0 0 12px 12px';
+  }
 }
 
+// ── HTML 跳脫工具 ─────────────────────────────────────────────
 function esc(s) {
   return String(s)
     .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
     .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
 }
 
+// ── 頁面初始化 ────────────────────────────────────────────────
 switchDay(TODAY_ISO);
 </script>
+
 </body>
 </html>
