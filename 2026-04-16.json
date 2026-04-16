@@ -3,101 +3,101 @@
   "items": [
     {
       "rank": 1,
-      "score": 9.0,
-      "title": "醫療 AI 革命需重新架構醫療體系：以個人為中心的健康資料組織",
-      "summary": "Meta 心臟病學家 Freddy Abnousi 與史丹佛大學 Celina Yong 在 STAT News 發表意見文章，主張當前醫療 AI 革命要求根本性地重新思考醫療照護的架構。兩位作者提出，傳統以醫療機構為中心的健康資料組織方式應轉型為以個人為核心的模式，使患者能擁有並攜帶自身健康資料。此一觀點呼應消費性裝置與穿戴裝置的普及趨勢，認為 AI 技術若能整合跨機構的個人健康資料，將大幅提升診斷準確度與照護連續性。文章強調，這不僅是技術層面的改變，更涉及法規、隱私保護及醫療體系文化的全面轉型，對全球醫療資訊化政策具有重要參考意義。",
+      "score": 9.2,
+      "title": "醫療 AI 革命需重新架構醫療體系：以個人為中心的健康資料組織模式",
+      "summary": "Meta 心臟科醫師 Freddy Abnousi 與史丹佛大學 Celina Yong 在 STAT 發表評論，主張醫療 AI 的真正革命不僅止於演算法精進，而需從根本上重構醫療資料架構。兩位作者指出，當前以醫療機構為中心的健康資料組織模式限制了 AI 的潛能，應轉向以個人為中心的資料整合模式，結合消費性穿戴裝置、連續健康監測與電子病歷，打造以患者為軸心的縱向資料流。這種架構轉變將使 AI 能夠跨機構、跨時間軸整合個人健康軌跡，從而實現更精準的預測與介入。此觀點對全球醫療資訊化政策與醫院資料治理模式具有重要參考意義，亦呼應了近年國際間關於患者資料主權與互通性的討論。",
       "tags": [
         "醫療AI架構",
-        "健康資料管理",
-        "以病人為中心",
-        "數位轉型"
+        "健康資料整合",
+        "以病患為中心",
+        "數位醫療"
       ],
-      "author": "Freddy Abnousi（Meta）、Celina Yong（Stanford）（STAT News）（2026-04-16）",
+      "author": "Freddy Abnousi（Meta）、Celina Yong（Stanford）（STAT）（2026-04-16）",
       "source_url": "https://www.statnews.com/2026/04/16/medical-ai-revolution-consumer-devices-health-records/?utm_campaign=rss"
     },
     {
       "rank": 2,
-      "score": 8.7,
-      "title": "Abridge AI 臨床平台與 NEJM、JAMA Network 達成多年合作，強化循證醫療決策支援",
-      "summary": "臨床 AI 公司 Abridge 宣布與《新英格蘭醫學雜誌》（NEJM）及《JAMA Network》建立多年期合作夥伴關係，將兩大頂尖同儕審閱醫學期刊的最新研究證據直接整合至其 AI 驅動的臨床平台中。此舉旨在縮短醫學研究成果轉化為臨床實踐的時間落差，讓醫師在使用 Abridge 進行病歷記錄與臨床決策支援時，能即時獲取最新循證醫學依據。Abridge 平台原已廣泛應用於醫療文件自動化，此次整合高品質醫學文獻資源，標誌著 AI 臨床工具從單純的效率工具向循證決策輔助系統升級，對提升醫療品質與病人安全具有重要意義。",
+      "score": 8.9,
+      "title": "Abridge AI 臨床平台與 NEJM、JAMA Network 達成多年合作，將同儕審查證據直接整合至決策支援工具",
+      "summary": "AI 臨床文件記錄公司 Abridge 宣布與《新英格蘭醫學期刊》（NEJM）及 JAMA Network 簽署多年合作協議，將大量同儕審查醫學文獻直接嵌入其 AI 驅動的臨床平台。此舉意在強化 Abridge 的臨床決策支援功能，使醫師在查閱 AI 生成摘要或建議時，能即時參照最新實證醫學依據，降低 AI 幻覺（hallucination）風險並提升建議的可信度。Abridge 原以 AI 輔助醫師病歷記錄著稱，此次擴展至決策支援領域，代表其產品策略的重要轉型。與頂尖醫學期刊的合作模式為醫療 AI 業界樹立了「循證整合」的新標竿，對於希望導入 AI 臨床決策支援的醫療機構而言具有重要參考價值。",
       "tags": [
         "臨床決策支援",
-        "AI醫療文件",
-        "循證醫學",
-        "醫療AI平台"
+        "AI文件記錄",
+        "實證醫學",
+        "醫療AI"
       ],
-      "author": "Healthcare IT News 編輯（Healthcare IT News）（2026-04-16）",
+      "author": "Healthcare IT News（2026-04-16）",
       "source_url": "https://www.healthcareitnews.com/news/abridge-incorporates-more-clinical-evidence-its-decision-support-tools"
     },
     {
       "rank": 3,
-      "score": 8.2,
-      "title": "Innovaccer 投入 2.5 億美元深化 Agentic AI 醫療平台發展",
-      "summary": "醫療健康資料平台公司 Innovaccer 宣布投入 2.5 億美元，大幅擴展其 Agentic AI 平台的能力。Agentic AI 指能夠自主規劃、執行多步驟任務的人工智慧系統，有別於被動回應式 AI。Innovaccer 的目標是建構一個能跨系統自動整合病人資料、協調照護流程並主動提供臨床建議的智慧平台。此一巨額投資反映出醫療 AI 產業正從單點解決方案轉向具備自主工作流程管理能力的整合平台，預期將影響醫院資訊系統整合、人口健康管理及價值導向醫療等多個領域。此舉也顯示投資人對醫療 AI 基礎設施的持續高度關注。",
+      "score": 8.4,
+      "title": "Innovaccer 宣布投入 2.5 億美元開發代理式 AI（Agentic AI）平台，深化醫療資料整合應用",
+      "summary": "健康資料平台公司 Innovaccer 宣布將投入 2.5 億美元，大幅強化其代理式 AI（Agentic AI）平台的研發與部署。代理式 AI 能夠自主規劃並執行多步驟任務，與傳統被動式 AI 工具相比具有更強的自動化能力，可應用於照護協調、人口健康管理、病患追蹤及行政流程自動化等場景。Innovaccer 的核心優勢在於其統一健康資料平台（Health Data Platform），能整合來自不同 EHR 系統的異質資料。此次大規模資本投入反映出業界對代理式 AI 在醫療場景應用潛力的高度期待，也顯示醫療 AI 正從輔助工具演進為能夠主動驅動工作流程的自主系統，對醫院資訊化建設具有重要參考意義。",
       "tags": [
-        "Agentic AI",
+        "代理式AI",
         "醫療資料平台",
         "人口健康管理",
-        "醫療科技投資"
+        "醫療AI投資"
       ],
-      "author": "MedCity News 編輯（MedCity News）（2026-04-16）",
+      "author": "MedCity News（2026-04-16）",
       "source_url": "https://medcitynews.com/2026/04/innovaccer-ai-data/"
     },
     {
       "rank": 4,
       "score": 7.8,
-      "title": "醫療體系 CIO 分享如何在網路安全框架下負責任地導入 AI",
-      "summary": "美國北卡羅來納州 Catawba Valley Health System 的助理副總裁兼資訊長 Nadin Knippschild（DNP, RN）接受 Healthcare IT News 專訪，分享其在小型非營利醫療體系中推動 AI 的策略。她強調，在資源有限的環境下，網路安全與 AI 治理必須同步規劃，而非各自獨立。其核心理念為「負責任地運用先進技術」，包括建立 AI 使用政策、確保資料隱私保護，以及員工培訓與變革管理。她的經驗尤其對中小型醫療機構具有參考價值，說明如何在不具備大型學術醫學中心資源的條件下，仍能有效整合 AI 技術並管控相關風險。",
+      "title": "小型醫療系統 CIO 分享 AI 與資安並進的實務治理願景",
+      "summary": "美國北卡羅萊納州 Catawba Valley Health System 的 CIO Nadin Knippschild（DNP, RN）接受 Healthcare IT News 專訪，分享小型非營利獨立醫療機構在有限資源下如何負責任地推進 AI 導入，同時強化資訊安全防護。她強調，AI 與資安並非彼此獨立的優先事項，而是相互依存的治理挑戰：AI 系統擴大了攻擊面，但也能協助偵測威脅；資安的強化則是 AI 可信部署的前提。Knippschild 的經驗對規模相近的醫療機構尤具參考性，其以護理背景出任 CIO 的視角，亦帶出臨床端對 AI 治理的實務考量，包括工作人員信任建立、流程設計與風險管理等面向。",
       "tags": [
-        "醫療資訊治理",
-        "AI導入策略",
-        "網路安全",
-        "醫療資訊長"
+        "醫療資訊安全",
+        "AI治理",
+        "醫院CIO",
+        "小型醫療機構"
       ],
-      "author": "Nadin Knippschild（Catawba Valley Health System CIO）（Healthcare IT News）（2026-04-16）",
+      "author": "Healthcare IT News（2026-04-16）",
       "source_url": "https://www.healthcareitnews.com/news/one-health-system-cios-vision-harnessing-ai-cybersecurity"
     },
     {
       "rank": 5,
       "score": 7.5,
-      "title": "Roche 啟動 Elevidys 第三期臨床試驗，目標取得歐洲杜顯氏肌肉失養症基因療法批准",
-      "summary": "羅氏集團（Roche）宣布針對杜顯氏肌肉失養症（Duchenne Muscular Dystrophy, DMD）基因療法 Elevidys 展開新一輪第三期樞紐臨床試驗，以期獲得歐洲監管機構核准。Elevidys 原由 Sarepta Therapeutics 開發，因臨床試驗結果存在爭議，在美國食品藥物管理局（FDA）的核准過程中引發廣泛討論。此次羅氏推動歐洲審批的新試驗，將進一步驗證該基因療法在更大規模患者族群中的安全性與療效。DMD 為一種致命性遺傳性肌肉疾病，目前有效治療選項有限，基因療法的發展對患者及家屬具有重大意義，此試驗結果將對全球稀有疾病治療格局產生深遠影響。",
+      "title": "Carrot Fertility 推出自有 AI 平台「Carrot Intelligence」，提供個人化生育與家庭照護服務",
+      "summary": "女性健康與生育福利公司 Carrot Fertility 正式推出其自主研發的 AI 平台「Carrot Intelligence」，該平台已驅動多項近期推出的 AI 功能，包括代謝健康計畫「Sprints」及全球價格監控系統（Global Price Monitoring System）。Carrot Intelligence 旨在透過個人化資料分析，為用戶提供量身定制的生育治療建議與家庭計畫支援，並協助雇主福利計畫管理者監控跨國生育醫療費用。此平台的推出反映出生育科技（FemTech）領域 AI 應用的加速發展，以及企業在員工健康福利管理中對精準化、個人化解決方案的需求持續上升。",
       "tags": [
-        "基因治療",
-        "杜顯氏肌肉失養症",
-        "罕見疾病",
-        "臨床試驗"
+        "生育科技",
+        "個人化醫療",
+        "女性健康AI",
+        "數位健康平台"
       ],
-      "author": "STAT News 編輯（STAT News）（2026-04-16）",
-      "source_url": "https://www.statnews.com/2026/04/16/roche-elevidys-pivotal-trial-europe-sarepta/?utm_campaign=rss"
+      "author": "Fierce Healthcare（2026-04-16）",
+      "source_url": "https://www.fiercehealthcare.com/digital-health/carrot-launches-proprietary-ai-platform-personalized-fertility-family-care"
     },
     {
       "rank": 6,
-      "score": 7.0,
-      "title": "禮來收購 CrossBridge Bio，強化雙載荷抗體藥物複合體腫瘤治療技術",
-      "summary": "美國製藥巨頭禮來公司（Eli Lilly）宣布收購新創公司 CrossBridge Bio，以取得其雙載荷抗體藥物複合體（Dual-Payload Antibody-Drug Conjugate, ADC）技術平台。傳統 ADC 藥物透過將單一化療藥物連結至抗體以精準攻擊腫瘤細胞，而雙載荷 ADC 技術能同時攜帶兩種不同機制的細胞毒殺藥物，理論上可提升腫瘤殺傷力並降低抗藥性風險。此項收購顯示禮來積極布局次世代腫瘤精準治療領域，ADC 技術近年來已成為全球癌症新藥研發的熱門方向，多項 ADC 藥物已在乳癌、肺癌等適應症取得突破性療效，此收購將進一步強化禮來在腫瘤科的產品管線。",
+      "score": 7.2,
+      "title": "Roche 啟動 Elevidys 第三期試驗，目標取得歐洲杜氏肌肉萎縮症基因療法上市許可",
+      "summary": "瑞士製藥巨頭 Roche 宣布啟動杜氏肌肉萎縮症（Duchenne Muscular Dystrophy, DMD）基因療法 Elevidys 的新一輪第三期臨床試驗，主要目的為爭取歐洲藥品管理局（EMA）的上市核准。Elevidys 由 Sarepta Therapeutics 開發，曾於美國以加速審查路徑獲 FDA 有條件批准，但其臨床效益仍有爭議。Roche 取得歐洲商業化授權後，啟動此樞紐試驗（pivotal trial）以滿足歐洲更嚴格的審查標準。DMD 為嚴重的 X 染色體連鎖遺傳性肌肉退化疾病，目前有效治療選項極為有限，此試驗結果將對全球 DMD 患者的治療可及性產生重大影響。",
       "tags": [
-        "抗體藥物複合體",
-        "腫瘤精準治療",
-        "製藥併購",
-        "癌症新藥"
+        "基因療法",
+        "杜氏肌肉萎縮症",
+        "罕見疾病",
+        "臨床試驗"
       ],
-      "author": "MedCity News 編輯（MedCity News）（2026-04-16）",
-      "source_url": "https://medcitynews.com/2026/04/eli-lilly-crossbridge-bio-acquisition-antibody-drug-conjugate-dual-payload-adc-lly/"
+      "author": "STAT（2026-04-16）",
+      "source_url": "https://www.statnews.com/2026/04/16/roche-elevidys-pivotal-trial-europe-sarepta/?utm_campaign=rss"
     },
     {
       "rank": 7,
-      "score": 6.5,
-      "title": "FDA 核准 Travere 腎臟罕見疾病用藥，儘管臨床試驗未達腎功能改善主要終點",
-      "summary": "美國食品藥物管理局（FDA）批准了 Travere Therapeutics 針對某罕見腎臟疾病開發的藥物，即使該藥物在關鍵臨床試驗中未能達成改善腎功能的主要療效終點。此案例凸顯 FDA 在罕見疾病用藥審查中的彈性與爭議性，監管機構基於其他替代性療效指標或疾病本身的高度未滿足醫療需求，仍決定批准上市。此決定引發醫學界對罕見疾病藥物核准標準的討論，包括替代終點的科學效度、加速核准機制的適用範圍，以及後續上市後研究的監管要求。此案對了解 FDA 藥物審查政策演變及罕見疾病治療藥物開發策略具有重要參考意義。",
+      "score": 6.8,
+      "title": "禮來收購 CrossBridge Bio，布局雙載荷抗體藥物複合體（ADC）腫瘤療法",
+      "summary": "美國製藥大廠禮來（Eli Lilly）宣布收購生技新創公司 CrossBridge Bio，以強化其在抗體藥物複合體（Antibody-Drug Conjugate, ADC）領域的技術實力。CrossBridge Bio 的核心技術為「雙載荷 ADC」（dual-payload ADC），即在單一抗體上同時攜帶兩種不同機制的細胞毒殺性藥物，理論上能對腫瘤細胞發動更強力的攻擊，並降低單一藥物耐藥性的風險。ADC 技術近年成為全球癌症新藥研發的熱點，多家大型藥廠積極透過併購佈局。此次收購顯示禮來積極在腫瘤精準治療領域拓展技術版圖，對台灣癌症藥物治療的未來發展具有間接參考意義。",
       "tags": [
-        "FDA藥物核准",
-        "罕見腎臟疾病",
-        "臨床試驗終點",
-        "藥物法規"
+        "抗體藥物複合體",
+        "癌症治療",
+        "藥廠併購",
+        "精準醫療"
       ],
-      "author": "STAT News 編輯（STAT News）（2026-04-16）",
-      "source_url": "https://www.statnews.com/2026/04/16/travere-therapeutics-kidney-disease-fda-approval/?utm_campaign=rss"
+      "author": "MedCity News（2026-04-16）",
+      "source_url": "https://medcitynews.com/2026/04/eli-lilly-crossbridge-bio-acquisition-antibody-drug-conjugate-dual-payload-adc-lly/"
     }
   ]
 }
