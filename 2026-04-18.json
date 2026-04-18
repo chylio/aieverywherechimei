@@ -1,0 +1,103 @@
+{
+  "date": "2026年04月18日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "生成式AI聊天機器人在鑑別診斷上持續表現不佳——麻省總醫院研究",
+      "summary": "麻省總醫院暨布萊根婦女醫院（Mass General Brigham）研究團隊於2025年1月至12月間，針對21款不同的生成式AI大型語言模型（LLM），以29個標準化臨床情境題（clinical vignettes）進行系統性評估。研究結果顯示，生成式AI聊天機器人在處理鑑別診斷任務時仍持續面臨顯著挑戰，整體表現未達臨床應用所需的可靠程度。此研究跨越完整一年、涵蓋多款主流LLM，為目前規模較大的系統性評估之一。該研究結果對於當前醫界對AI輔助診斷工具的期待提出了重要的實證警示，凸顯在LLM廣泛導入臨床決策支援之前，仍需進行更嚴謹的驗證與改良。",
+      "tags": [
+        "生成式AI",
+        "鑑別診斷",
+        "臨床決策支援",
+        "大型語言模型"
+      ],
+      "author": "Fierce Healthcare（2026-04-18）",
+      "source_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/gen-ai-chatbots-continually-struggle-differential-diagnoses-mass-general"
+    },
+    {
+      "rank": 2,
+      "score": 8.2,
+      "title": "UMC El Paso導入即時儀表板，急診滯留率減少一半",
+      "summary": "德州大學醫學中心El Paso院區（UMC El Paso）為該地區270英里範圍內唯一的第一級創傷中心，同時擁有第一級腦中風中心及聯合委員會認證的綜合性腦中風中心。該院透過建置即時資料儀表板，成功將急診病患滯留（ED boarding）問題削減達50%。此解決方案針對急診壅塞的核心問題，透過視覺化即時床位與流程資訊，協助臨床與管理人員及時作出調度決策。急診滯留是全球急診醫療普遍面臨的系統性困境，直接影響病患安全與照護品質。此案例展示了數位儀表板在提升急診流程效率、改善病人安全方面的實際成效，具有高度臨床操作參考價值。",
+      "tags": [
+        "急診管理",
+        "即時儀表板",
+        "病床管理",
+        "醫療流程改善"
+      ],
+      "author": "Healthcare IT News（2026-04-18）",
+      "source_url": "https://www.healthcareitnews.com/news/umc-el-paso-cuts-ed-boarding-half-dashboards"
+    },
+    {
+      "rank": 3,
+      "score": 7.8,
+      "title": "革命性藥物daraxonrasib胰臟癌試驗結果，專家稱「開啟治療新紀元」",
+      "summary": "Revolution Medicines開發的靶向療法daraxonrasib在胰臟癌臨床試驗中取得重要成果，引發醫學界廣泛關注。紐約大學朗格尼醫學中心Perlmutter癌症中心胰臟癌專家Paul Oberstein表示，該研究結果「確實具有革命性意義」，有望開啟胰臟癌治療的新時代。胰臟癌因早期診斷困難、預後極差，長期以來缺乏有效的系統性治療選項，整體五年存活率仍偏低。daraxonrasib為RAS突變靶向藥物，而KRAS突變在胰臟癌中佔高達90%以上，該療法的突破對改善胰臟癌患者預後具有重要意義，值得相關腫瘤科醫師持續追蹤後續完整試驗數據。",
+      "tags": [
+        "胰臟癌",
+        "靶向治療",
+        "RAS抑制劑",
+        "腫瘤新藥"
+      ],
+      "author": "STAT News（2026-04-17）",
+      "source_url": "https://www.statnews.com/2026/04/17/revolution-medicines-daraxonrasib-clinical-trial-readout-loud-podcast-transcript/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "score": 7.2,
+      "title": "行為健康需求自2018年以來成長62%，產業面臨嚴峻挑戰",
+      "summary": "根據Trilliant Health最新發布的數據，美國行為健康（behavioral health）服務需求自2018年至今已增長62%，呈現持續攀升趨勢。此一數字反映出心理健康、物質使用障礙等行為健康問題在後疫情時代的深層影響，需求端的快速成長已遠超現有服務供給能力。報告指出，行為健康照護的可近性、供給者數量不足及給付機制等問題仍是主要瓶頸。此趨勢對醫療機構在行為健康資源配置、遠距醫療整合，以及與心理衛生機構協作模式等層面提出新的要求，是醫院管理者與政策制定者需正視的系統性議題。",
+      "tags": [
+        "行為健康",
+        "心理衛生",
+        "醫療需求趨勢",
+        "精神科"
+      ],
+      "author": "MedCity News（2026-04-18）",
+      "source_url": "https://medcitynews.com/2026/04/behavioral-health-demand-trilliant/"
+    },
+    {
+      "rank": 5,
+      "score": 6.8,
+      "title": "Kailera以6.25億美元完成擴大IPO，推進GLP-1與口服肥胖藥物管線",
+      "summary": "肥胖治療新創公司Kailera完成規模擴大後的首次公開募股（IPO），募得6.25億美元，資金將用於其注射型及口服減重藥物研發管線的推進。其核心候選藥物ribupatide為GLP-1/GIP雙重受體促效劑，同時涵蓋口服劑型的開發。此次IPO規模龐大，顯示資本市場對GLP-1類減重藥物賽道仍持高度信心。值得注意的是，近期有科學家研究指出，有效的減重藥物未必需要以GLP-1荷爾蒙為標靶，此觀點對現行開發方向帶來新的科學討論。Kailera的上市為全球肥胖藥物競賽增添重要力量，相關藥物的臨床數據將受到廣泛關注。",
+      "tags": [
+        "肥胖治療",
+        "GLP-1藥物",
+        "生技IPO",
+        "口服減重藥"
+      ],
+      "author": "MedCity News（2026-04-18）",
+      "source_url": "https://medcitynews.com/2026/04/kailera-ipo-glp1-gip-ribupatide-obesity-drug-injectable-oral-weight-loss-klra/"
+    },
+    {
+      "rank": 6,
+      "score": 6.3,
+      "title": "逾八成基層醫師憂慮未來數年財務穩定性，九成三仍承諾持續執業",
+      "summary": "Elation Health委託進行的最新調查顯示，超過80%的基層醫療醫師（PCP）對未來數年的財務穩定性表示憂慮，主要原因包括保險給付偏低、行政負擔沉重及診所營運成本持續上升。然而值得關注的是，儘管面臨財務壓力，仍有高達93%的受訪醫師表示將繼續投身基層醫療工作，顯示基層醫師對其職業使命仍有高度認同。此調查結果揭示基層醫療體系在財務永續性方面面臨的系統性隱患，若給付機制未能改革，可能影響未來基層醫療人力的穩定供給及醫療可近性，對整體衛生體系具有深遠影響。",
+      "tags": [
+        "基層醫療",
+        "醫師職場",
+        "醫療財務",
+        "人力資源"
+      ],
+      "author": "Fierce Healthcare（2026-04-18）",
+      "source_url": "https://www.fiercehealthcare.com/providers/over-80-pcps-concerned-about-financial-stability-over-next-several-years-elation-health"
+    },
+    {
+      "rank": 7,
+      "score": 5.8,
+      "title": "SocialRx與紐約市聯邦認可健康中心合作，為慢性病患者開立藝文「社交處方」",
+      "summary": "SocialRx與紐約市一家聯邦認可健康中心（FQHC）建立合作關係，推動社交處方（social prescribing）模式，讓醫護人員得以將慢性病患者轉介至非臨床的社區藝術與文化活動，以支持心理健康並減少社交孤立。社交處方是一種整合性照護模式，強調以非藥物、社區資源解決影響健康的社會決定因素，已在英國等地有較成熟的實踐基礎。此次合作是美國本土推進社交處方的重要案例，尤其針對慢性病族群，將健康照護的邊界延伸至臨床場域之外，反映出醫療機構對社會健康決定因素日益重視的趨勢。",
+      "tags": [
+        "社交處方",
+        "社會健康決定因素",
+        "慢性病照護",
+        "社區健康"
+      ],
+      "author": "Fierce Healthcare（2026-04-18）",
+      "source_url": "https://www.fiercehealthcare.com/providers/socialrx-teams-nyc-federally-qualified-health-center-social-prescribing"
+    }
+  ]
+}
