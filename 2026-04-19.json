@@ -1,0 +1,103 @@
+{
+  "date": "2026年04月19日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "生成式AI聊天機器人在鑑別診斷上持續表現欠佳——Mass General Brigham研究",
+      "summary": "麻省總醫院Brigham研究團隊針對21種生成式AI大型語言模型（LLMs），以29個標準化臨床病例小品（clinical vignettes）進行系統性評估，研究期間橫跨2025年1月至12月。結果顯示，即便經過一年內多次模型更新，生成式AI聊天機器人在鑑別診斷任務上仍持續面臨挑戰，準確性與一致性均未達臨床可靠門檻。此研究為目前規模較大、時間跨度較長的AI臨床診斷能力評估之一，其發現對於正在評估或部署AI輔助診斷工具的醫療機構具有重要參考意義，也凸顯出AI工具在進入臨床決策流程前須經嚴格驗證的必要性。",
+      "tags": [
+        "生成式AI",
+        "鑑別診斷",
+        "臨床決策支援",
+        "大型語言模型"
+      ],
+      "author": "Fierce Healthcare（2026-04-19）",
+      "source_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/gen-ai-chatbots-continually-struggle-differential-diagnoses-mass-general"
+    },
+    {
+      "rank": 2,
+      "score": 8.2,
+      "title": "UMC El Paso導入即時儀表板，急診滯留時間減少一半",
+      "summary": "德州大學醫學中心El Paso分院（UMC El Paso）為當地方圓270英里內唯一的第一級創傷中心及綜合性卒中認證中心。該院面對急診壅塞與患者滯留（boarding）的長期挑戰，透過導入即時數據儀表板（dashboards）系統，將急診滯留人數減少約50%。儀表板整合床位管理、病患流量及出院資訊，使臨床及行政人員能即時掌握床位狀態並加速決策。此案例展示了數位化營運工具在改善急診流程與降低壅塞方面的實際效益，對資源有限且肩負區域性重責的醫學中心尤具參考價值。",
+      "tags": [
+        "急診管理",
+        "床位管理",
+        "即時儀表板",
+        "醫院營運"
+      ],
+      "author": "Healthcare IT News（2026-04-19）",
+      "source_url": "https://www.healthcareitnews.com/news/umc-el-paso-cuts-ed-boarding-half-dashboards"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "胰臟癌治療新突破：Revolution Medicines研究或開啟全新治療時代",
+      "summary": "Revolution Medicines針對胰臟癌研發的新型藥物daraxonrasib完成臨床試驗數據發布，紐約大學Langone Perlmutter癌症中心胰臟癌專家Paul Oberstein公開表示，此結果「可能開啟胰臟癌治療的新時代」。daraxonrasib屬於RAS抑制劑類別，胰臟癌因KRAS突變盛行率極高，長期以來缺乏有效靶向治療，該藥物的臨床數據突破引發腫瘤學界高度關注。胰臟癌五年存活率長期偏低，新型靶向治療的問世若能獲監管機構核准，將對全球胰臟癌患者的治療選項產生深遠影響。",
+      "tags": [
+        "胰臟癌",
+        "靶向治療",
+        "RAS抑制劑",
+        "腫瘤學"
+      ],
+      "author": "STAT News（2026-04-17）",
+      "source_url": "https://www.statnews.com/2026/04/17/revolution-medicines-daraxonrasib-clinical-trial-readout-loud-podcast-transcript/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "行為健康需求自2018年以來成長62%，醫療產業面臨結構性壓力",
+      "summary": "據Trilliant Health最新分析數據，美國行為健康（behavioral health）服務需求自2018年至今已累計成長62%，但供給端的擴充速度遠遠跟不上需求增長。需求激增主要源於新冠疫情後的心理健康危機、青少年心理問題惡化及物質濫用問題加劇等多重因素。此現象導致候診等待時間延長、未滿足醫療需求擴大，並加重現有心理健康服務提供者的工作負荷。報告指出，數位心理健康平台、整合式照護模式及科技輔助干預工具的發展，被視為緩解此一結構性缺口的重要方向。",
+      "tags": [
+        "行為健康",
+        "心理健康",
+        "醫療需求",
+        "數位健康"
+      ],
+      "author": "MedCity News（2026-04-19）",
+      "source_url": "https://medcitynews.com/2026/04/behavioral-health-demand-trilliant/"
+    },
+    {
+      "rank": 5,
+      "score": 6.8,
+      "title": "Trump簽署行政命令加速迷幻藥療法研究與監管改革",
+      "summary": "美國總統川普簽署行政命令，指示聯邦政府加速批准迷幻藥（psychedelics）相關治療方案的使用途徑，並要求重新評估裸蓋菇素（psilocybin）、MDMA等物質作為列管藥品的法律地位。此舉主要針對PTSD（創傷後壓力症候群）及其他難治性心理疾患的治療需求，特別關注退伍軍人族群。行政命令將促使FDA及DEA重新審視現行管制架構，並可能加速相關臨床試驗的推進。此政策走向在精神科與成癮醫學界引發廣泛討論，亦對全球迷幻藥療法的監管趨勢具有指標意義。",
+      "tags": [
+        "迷幻藥療法",
+        "PTSD",
+        "精神健康政策",
+        "藥物監管"
+      ],
+      "author": "STAT News（2026-04-18）",
+      "source_url": "https://www.statnews.com/2026/04/18/psychedelics-ptsd-mental-health-research-boost-from-trump-executive-order/?utm_campaign=rss"
+    },
+    {
+      "rank": 6,
+      "score": 6.2,
+      "title": "逾八成基層醫療醫師憂慮未來數年財務穩定性",
+      "summary": "Elation Health針對基層醫療醫師（primary care physicians, PCPs）進行的調查顯示，超過80%的受訪者對未來數年的執業財務穩定性感到憂慮，主要壓力來源包括保險給付偏低、行政成本攀升及通膨壓力等。然而，儘管財務困境普遍，仍有高達93%的醫師表示將持續投身基層醫療。調查結果凸顯基層醫療在財務永續性方面面臨嚴峻挑戰，此問題若未能有效解決，恐影響基層醫療人力的長期供給，進而衝擊整體醫療體系的可近性與連續性照護。",
+      "tags": [
+        "基層醫療",
+        "醫師執業環境",
+        "醫療財務",
+        "人力資源"
+      ],
+      "author": "Fierce Healthcare（2026-04-19）",
+      "source_url": "https://www.fiercehealthcare.com/providers/over-80-pcps-concerned-about-financial-stability-over-next-several-years-elation-health"
+    },
+    {
+      "rank": 7,
+      "score": 5.8,
+      "title": "Kailera擴大IPO募資6.25億美元，推進多款注射與口服肥胖症新藥",
+      "summary": "生技公司Kailera完成規模擴大後的首次公開募股（IPO），成功募集6.25億美元，資金將用於推進其GLP-1/GIP受體雙重促效劑ribupatide及多款口服肥胖症藥物的臨床開發管線。此輪募資金額超越原定目標，顯示資本市場對肥胖症藥物賽道的高度關注。Kailera的藥物候選品除注射劑型外，亦積極開發口服劑型，以提升患者用藥便利性及市場潛力。GLP-1相關藥物市場競爭日趨激烈，Kailera此次大規模募資將加速其在減重及代謝疾病領域的競爭佈局。",
+      "tags": [
+        "肥胖症治療",
+        "GLP-1藥物",
+        "生技IPO",
+        "代謝疾病"
+      ],
+      "author": "MedCity News（2026-04-19）",
+      "source_url": "https://medcitynews.com/2026/04/kailera-ipo-glp1-gip-ribupatide-obesity-drug-injectable-oral-weight-loss-klra/"
+    }
+  ]
+}
