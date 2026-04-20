@@ -126,18 +126,37 @@ SYSTEM_PROMPT = textwrap.dedent("""
 # ─── 新聞抓取 ──────────────────────────────────────────────────────────────────
 
 def fetch_news(max_items: int = 20) -> list[dict]:
-    """從 RSS 來源抓取新聞，回傳標題 + 摘要 + 連結。"""
+    """從 RSS 來源抓取「當天」新聞，回傳標題 + 摘要 + 連結。"""
     articles = []
+    seen_keys = set()
     for url in RSS_FEEDS:
         try:
             feed = feedparser.parse(url)
-            for entry in feed.entries[:5]:
+            source = feed.feed.get("title", url)
+            for entry in feed.entries:
+                parsed_time = entry.get("published_parsed") or entry.get("updated_parsed")
+                if not parsed_time:
+                    continue
+
+                entry_date = datetime.date(
+                    parsed_time.tm_year, parsed_time.tm_mon, parsed_time.tm_mday
+                )
+                if entry_date != TODAY:
+                    continue
+
+                title = entry.get("title", "").strip()
+                link = entry.get("link", "").strip()
+                dedupe_key = ("link", link) if link else ("title_source", f"{title}|{source}")
+                if dedupe_key in seen_keys:
+                    continue
+                seen_keys.add(dedupe_key)
+
                 articles.append({
-                    "title":   entry.get("title", "").strip(),
+                    "title":   title,
                     "summary": entry.get("summary", entry.get("description", ""))[:400].strip(),
-                    "link":    entry.get("link", ""),
-                    "source":  feed.feed.get("title", url),
-                    "date":    entry.get("published", ""),
+                    "link":    link,
+                    "source":  source,
+                    "date":    entry_date.isoformat(),
                 })
         except Exception as e:
             print(f"[WARN] RSS 失敗 {url}: {e}")
@@ -152,6 +171,7 @@ def format_news_for_prompt(articles: list[dict]) -> str:
     for i, a in enumerate(articles, 1):
         lines.append(f"[{i}] 來源：{a['source']}")
         lines.append(f"    標題：{a['title']}")
+        lines.append(f"    日期：{a['date']}")
         if a["summary"]:
             lines.append(f"    摘要：{a['summary'][:300]}")
         if a["link"]:
@@ -263,13 +283,17 @@ def main():
     # 1. 抓新聞
     print("→ 抓取 RSS 新聞...")
     articles = fetch_news()
-    news_text = format_news_for_prompt(articles)
     print(f"  取得 {len(articles)} 則原始新聞")
 
-    # 2. Claude 評鑑排名
-    print("→ 呼叫 Claude API 進行評鑑...")
-    items = call_claude(news_text)
-    print(f"  產生 {len(items)} 則精選新聞")
+    if not articles:
+        print(f"今日無符合日期之 RSS 新聞（{TODAY_STR}）")
+        items = []
+    else:
+        # 2. Claude 評鑑排名
+        news_text = format_news_for_prompt(articles)
+        print("→ 呼叫 Claude API 進行評鑑...")
+        items = call_claude(news_text)
+        print(f"  產生 {len(items)} 則精選新聞")
 
     # 3. 先儲存今日 JSON（供歷史查詢用）
     OUTPUT_DIR.mkdir(exist_ok=True)
