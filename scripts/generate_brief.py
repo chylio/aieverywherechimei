@@ -146,7 +146,7 @@ def fetch_news(max_items: int = 20) -> list[dict]:
 
                 title = entry.get("title", "").strip()
                 link = entry.get("link", "").strip()
-                dedupe_key = ("link", link) if link else ("title_source", title, source)
+                dedupe_key = ("link", link) if link else ("title_source", f"{title}|{source}")
                 if dedupe_key in seen_keys:
                     continue
                 seen_keys.add(dedupe_key)
