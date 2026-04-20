@@ -1,0 +1,103 @@
+{
+  "date": "2026年04月20日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "生成式AI聊天機器人在鑑別診斷上持續表現不佳——Mass General Brigham研究",
+      "summary": "麻省總醫院暨布萊根婦女醫院（Mass General Brigham）研究團隊於2025年1月至12月間，針對21種不同的生成式大型語言模型（LLM）進行系統性評估，以29份標準化臨床病例情境（clinical vignettes）作為測試基準。研究結果顯示，生成式AI聊天機器人在鑑別診斷（differential diagnosis）任務上持續面臨重大挑戰，整體表現仍未達臨床應用標準。此研究橫跨整整一年，涵蓋市面上主流LLM模型，具有相當的廣度與代表性，其發現為當前AI輔助臨床決策的能力邊界提供重要的實證依據。鑑別診斷是臨床醫療的核心環節，此研究結果對評估AI工具在診斷支援上的實際效用具有重要參考意義，提醒醫療機構在引入生成式AI診斷輔助工具時應審慎評估其準確性與可靠性。",
+      "tags": [
+        "生成式AI",
+        "鑑別診斷",
+        "大型語言模型",
+        "臨床決策支援"
+      ],
+      "author": "Fierce Healthcare（2026年04月20日）",
+      "source_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/gen-ai-chatbots-continually-struggle-differential-diagnoses-mass-general"
+    },
+    {
+      "rank": 2,
+      "score": 8.2,
+      "title": "醫療AI信任與採用：醫學界面臨的關鍵挑戰",
+      "summary": "本文探討醫療領域中人工智慧採用的核心議題——信任建立。文章分析臨床人員與患者對AI工具的信任障礙，包括演算法透明度不足、模型可解釋性（explainability）欠缺、資料偏差（data bias）疑慮，以及臨床責任歸屬不明確等問題。文中指出，AI工具在醫療場域的落地不僅取決於技術效能，更高度依賴醫療機構能否建立有效的信任機制，包括嚴謹的臨床驗證流程、透明的績效指標揭露，以及完善的人機協作框架。隨著AI診斷輔助、影像判讀、臨床決策支援等應用快速擴展，如何系統性地建立醫療AI信任生態，已成為全球醫療機構推動AI轉型的關鍵前提條件。",
+      "tags": [
+        "醫療AI信任",
+        "AI採用",
+        "臨床決策支援",
+        "AI治理"
+      ],
+      "author": "MedCity News（2026年04月20日）",
+      "source_url": "https://medcitynews.com/2026/04/trust-and-ai-adoption-in-medicine/"
+    },
+    {
+      "rank": 3,
+      "score": 7.8,
+      "title": "UMC El Paso運用數位儀表板將急診滯留時間縮減一半",
+      "summary": "德州艾爾帕索大學醫學中心（UMC El Paso）是方圓270英里內唯一的第一級創傷中心，同時也是該地區唯一經聯合委員會（Joint Commission）認證的綜合性腦中風中心。面對龐大區域醫療服務需求所帶來的急診壅塞壓力，該院導入數位化即時監控儀表板（real-time dashboards）系統，整合急診流量、病床狀態、滯留病人資訊等關鍵數據，讓管理人員與臨床團隊能即時掌握並主動介入流程瓶頸。實施後，急診滯留（ED boarding）時間成功縮減約50%，有效改善患者安全與照護品質。此案例展示資料視覺化工具在高壓、高容量醫療環境中的實際應用成效，對急診容量管理具有重要的參考價值。",
+      "tags": [
+        "急診管理",
+        "數位儀表板",
+        "病床管理",
+        "醫療流程改善"
+      ],
+      "author": "Healthcare IT News（2026年04月20日）",
+      "source_url": "https://www.healthcareitnews.com/news/umc-el-paso-cuts-ed-boarding-half-dashboards"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "KRAS抑制劑daraxonrasib在AACR 2026展現突破性胰臟癌治療數據",
+      "summary": "在2026年美國癌症研究協會（AACR）年會上，Revolution Medicines發表其KRAS抑制劑daraxonrasib的最新臨床數據，顯示對胰臟癌患者具有前所未有的療效，部分患者存活時間較現行標準治療提升近一倍。胰臟癌長期被視為預後極差的惡性腫瘤，KRAS基因突變存在於超過90%的胰臟癌病例中，過去因KRAS蛋白質結構特性（俗稱「油膩的球」）而被認為難以作為藥物標靶。daraxonrasib的臨床突破意味著KRAS靶向治療在胰臟癌領域取得重大里程碑，被業界視為近數十年來最具潛力的胰臟癌新藥之一。此研究結果為未來胰臟癌精準治療策略的發展奠定重要基礎。",
+      "tags": [
+        "KRAS抑制劑",
+        "胰臟癌",
+        "標靶治療",
+        "腫瘤學"
+      ],
+      "author": "STAT News（2026年04月19日）",
+      "source_url": "https://www.statnews.com/2026/04/19/daraxonrasib-pancreatic-cancer-kras-revolution-medicines-patient-story/?utm_campaign=rss"
+    },
+    {
+      "rank": 5,
+      "score": 6.8,
+      "title": "團隊照護與虛擬護理模式正在重塑醫療服務提供方式",
+      "summary": "隨著護理人力短缺問題持續加劇，美國各大醫療機構積極探索以團隊照護（team-based care）與虛擬護理（virtual nursing）為核心的新型醫療服務模式。虛擬護理透過遠距視訊技術，讓經驗豐富的護理師能夠跨病房、跨院區同時支援多個臨床單位，協助執行入院評估、衛教、出院規劃及藥物核對等工作，以減輕第一線護理師的行政與認知負擔。團隊照護模式則強調各職類醫療人員依據其專業能力分工協作，提升整體照護效率。文章指出，這兩種模式結合數位工具的運用，已在多個試行機構展現改善護病比、降低護理人員耗竭、提升病人滿意度等正向效益，代表護理照護模式的結構性轉型趨勢。",
+      "tags": [
+        "虛擬護理",
+        "團隊照護",
+        "護理人力",
+        "照護模式創新"
+      ],
+      "author": "MedCity News（2026年04月20日）",
+      "source_url": "https://medcitynews.com/2026/04/how-team-based-and-virtual-nursing-models-are-redefining-care-delivery/"
+    },
+    {
+      "rank": 6,
+      "score": 6.2,
+      "title": "社會處方籤新模式：紐約FQHC為慢性病患開立藝術文化活動處方",
+      "summary": "SocialRx與紐約市一家聯邦合格健康中心（Federally Qualified Health Center, FQHC）合作，推動「社會處方籤」（social prescribing）計畫，針對慢性病患者開立藝術與文化活動參與處方，以非臨床、社區導向的方式支持患者心理健康並減少社會孤立感。在此模式中，醫療提供者可正式將患者轉介至博物館、藝術工作坊、社區文化活動等場域，作為藥物治療之外的輔助介入措施。此計畫呼應全球公共衛生領域對社會決定因子（social determinants of health）的重視，並代表美國醫療體系將非醫療資源系統性整合至慢性病管理路徑的新興嘗試。英國已有較成熟的社會處方籤體系，此紐約案例為北美地區推廣此模式提供實踐參考。",
+      "tags": [
+        "社會處方籤",
+        "慢性病管理",
+        "社會健康決定因子",
+        "整合性照護"
+      ],
+      "author": "Fierce Healthcare（2026年04月20日）",
+      "source_url": "https://www.fiercehealthcare.com/providers/socialrx-teams-nyc-federally-qualified-health-center-social-prescribing"
+    },
+    {
+      "rank": 7,
+      "score": 5.8,
+      "title": "逾八成基層醫療醫師憂慮未來數年財務穩定性",
+      "summary": "Elation Health委託進行的最新調查顯示，超過80%的基層醫療（Primary Care Physicians, PCPs）醫師對未來數年的診所財務穩定性表示擔憂，主要壓力來源包括保險給付縮減、行政成本上升、醫療債務壓力及人力成本攀升等。儘管財務前景不確定，仍有高達93%的受訪醫師表示將持續留在基層醫療領域執業，顯示對基層醫療使命的高度認同感。調查同時指出，財務壓力正驅使更多基層醫療診所尋求整合、加入醫療集團或轉型採行直接初級照護（Direct Primary Care, DPC）等替代支付模式。此調查結果反映全球基層醫療體系在財務可持續性方面所面臨的結構性挑戰，對醫療政策制定具有重要參考意義。",
+      "tags": [
+        "基層醫療",
+        "醫療財務",
+        "醫師人力",
+        "醫療政策"
+      ],
+      "author": "Fierce Healthcare（2026年04月20日）",
+      "source_url": "https://www.fiercehealthcare.com/providers/over-80-pcps-concerned-about-financial-stability-over-next-several-years-elation-health"
+    }
+  ]
+}
