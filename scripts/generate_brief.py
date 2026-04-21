@@ -19,7 +19,8 @@ import feedparser
 from jinja2 import Environment, FileSystemLoader
 
 
-# ─── 設定 ──────────────────────────────────────────────────────────────
+# ─── 設定 ───────────────────────────────────────────────────────────[...]
+
 
 OUTPUT_DIR   = pathlib.Path("output")
 TEMPLATE_DIR = pathlib.Path("templates")
@@ -191,7 +192,8 @@ SYSTEM_PROMPT = textwrap.dedent("""
 """)
 
 
-# ─── 新聞抓取 ───────────────────────────────────────────────────────────
+# ─── 新聞抓取 ────────────────────────────────────────────────────────��[...]
+
 
 def fetch_news(
     max_items: int = 20,
@@ -290,6 +292,7 @@ def format_news_for_prompt(articles: list[dict]) -> str:
 
 # ─── Claude API 呼叫 ────────────────────────────────────────────────────
 
+
 def parse_json_response(raw: str) -> list[dict] | None:
     """嘗試從 Claude 回應中解析 JSON，回傳 items 或 None。"""
     if not raw or not raw.strip():
@@ -365,6 +368,7 @@ def call_claude(news_text: str, max_retries: int = 3) -> list[dict]:
 
 # ─── HTML 產生 ─────────────────────────────────────────────────────────
 
+
 def render_html(items: list[dict],
                 available_dates: list[dict] | None = None,
                 all_days_json: str = "{}") -> str:
@@ -383,7 +387,8 @@ def render_html(items: list[dict],
     )
 
 
-# ─── 主程式 ─────────────────────────────────────────────────────────────
+# ─── 主程式 ─────────────────────────────────────────────────────────��[...]
+
 
 def main():
     print(f"[{TODAY_STR}] === 奇美 AI Everywhere Brief 自動產生 ===")
