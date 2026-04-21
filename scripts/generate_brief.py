@@ -48,6 +48,49 @@ def get_available_dates() -> list[dict]:
     return dates
 
 
+def parse_entry_date(entry) -> datetime.date | None:
+    """嘗試從 RSS entry 解析發布日期，失敗回 None。"""
+    for key in ("published_parsed", "updated_parsed"):
+        t = entry.get(key)
+        if t:
+            try:
+                return datetime.date(t.tm_year, t.tm_mon, t.tm_mday)
+            except (ValueError, TypeError):
+                continue
+    return None
+
+
+def _normalize_title(title: str) -> str:
+    """標題正規化：去空白、全小寫、去常見標點。"""
+    import re
+    return re.sub(r"[\s\W_]+", "", title or "").lower()
+
+
+def load_excluded_set(days: int = 7) -> tuple[set[str], set[str]]:
+    """讀取過去 N 天根目錄的 JSON，回傳 (excluded_urls, excluded_titles)。
+    用於避免連續數日出現同一則新聞。"""
+    ROOT_DIR = pathlib.Path(".")
+    excluded_urls: set[str] = set()
+    excluded_titles: set[str] = set()
+    for i in range(1, days + 1):
+        d = TODAY - datetime.timedelta(days=i)
+        json_path = ROOT_DIR / f"{d.isoformat()}.json"
+        if not json_path.exists():
+            continue
+        try:
+            raw = json.loads(json_path.read_text(encoding="utf-8"))
+            for item in raw.get("items", []):
+                url = (item.get("source_url") or "").strip()
+                if url:
+                    excluded_urls.add(url)
+                title = _normalize_title(item.get("title", ""))
+                if title:
+                    excluded_titles.add(title)
+        except Exception as e:
+            print(f"  [WARN] 讀取歷史 JSON 失敗 {json_path}: {e}")
+    return excluded_urls, excluded_titles
+
+
 def load_all_days_data(items_today: list[dict]) -> dict:
     """讀取過去 7 天的 JSON，合併成一份字典嵌入 HTML。"""
     ROOT_DIR = pathlib.Path(".")
@@ -120,43 +163,106 @@ SYSTEM_PROMPT = textwrap.dedent("""
     - 若某則新聞無來源 URL，source_url 填 ""
     - 僅回傳 JSON，不要有其他說明文字
     - **嚴禁**在 summary 或任何欄位中出現對奇美醫院的建議、行動方針、策略建議或啟示；summary 只陳述新聞本身的事實與意義
+    - **嚴禁**納入未出現在使用者訊息候選清單中的新聞；不得從訓練資料或記憶中補充任何「你知道的」新聞
+    - **嚴禁**修改候選清單提供的「實際發布日期」；author 欄位末尾的日期必須與原始日期完全一致
+    - 若候選新聞為空，回傳 {"items": []}，切勿自行捏造
 """)
 
 
 # ─── 新聞抓取 ──────────────────────────────────────────────────────────────────
 
-def fetch_news(max_items: int = 20) -> list[dict]:
-    """從 RSS 來源抓取新聞，回傳標題 + 摘要 + 連結。"""
-    articles = []
+def fetch_news(
+    max_items: int = 20,
+    excluded_urls: set[str] | None = None,
+    excluded_titles: set[str] | None = None,
+    allow_yesterday_fallback: bool = True,
+) -> list[dict]:
+    """從 RSS 抓取新聞，套用「只收今日發布 + 去除歷史重複」規則。
+    若今日結果不足 5 則，可回退納入昨日新聞，並在每篇標註 `is_from_yesterday`。"""
+    excluded_urls = excluded_urls or set()
+    excluded_titles = excluded_titles or set()
+    YESTERDAY = TODAY - datetime.timedelta(days=1)
+
+    today_articles: list[dict] = []
+    yesterday_articles: list[dict] = []
+    dropped_old = 0
+    dropped_dup = 0
+    dropped_undated = 0
+
     for url in RSS_FEEDS:
         try:
             feed = feedparser.parse(url)
-            for entry in feed.entries[:5]:
-                articles.append({
-                    "title":   entry.get("title", "").strip(),
+            # 從每個來源多拿一點，再篩選
+            for entry in feed.entries[:20]:
+                link = (entry.get("link") or "").strip()
+                title = (entry.get("title") or "").strip()
+                norm_title = _normalize_title(title)
+
+                # 去重：命中歷史排除清單 → 跳過
+                if (link and link in excluded_urls) or (norm_title and norm_title in excluded_titles):
+                    dropped_dup += 1
+                    continue
+
+                # 日期過濾：必須有日期資訊
+                pub_date = parse_entry_date(entry)
+                if pub_date is None:
+                    dropped_undated += 1
+                    continue
+
+                item = {
+                    "title":   title,
                     "summary": entry.get("summary", entry.get("description", ""))[:400].strip(),
-                    "link":    entry.get("link", ""),
+                    "link":    link,
                     "source":  feed.feed.get("title", url),
-                    "date":    entry.get("published", ""),
-                })
+                    "date":    entry.get("published", pub_date.isoformat()),
+                    "pub_date": pub_date.isoformat(),
+                    "is_from_yesterday": False,
+                }
+
+                if pub_date == TODAY:
+                    today_articles.append(item)
+                elif pub_date == YESTERDAY and allow_yesterday_fallback:
+                    item["is_from_yesterday"] = True
+                    yesterday_articles.append(item)
+                else:
+                    dropped_old += 1
         except Exception as e:
             print(f"[WARN] RSS 失敗 {url}: {e}")
+
+    print(f"  [篩選] 今日 {len(today_articles)} 則 / 昨日備用 {len(yesterday_articles)} 則")
+    print(f"  [篩選] 過濾掉：日期過舊 {dropped_old}、重複 {dropped_dup}、無日期 {dropped_undated}")
+
+    # 今日夠多就只用今日；不足 5 則才補入昨日（最多補到 max_items）
+    if len(today_articles) >= 5 or not allow_yesterday_fallback:
+        articles = today_articles
+    else:
+        needed = max_items - len(today_articles)
+        articles = today_articles + yesterday_articles[:needed]
+        if yesterday_articles[:needed]:
+            print(f"  [篩選] 今日不足 5 則，補入 {len(yesterday_articles[:needed])} 則昨日新聞")
+
     return articles[:max_items]
 
 
 def format_news_for_prompt(articles: list[dict]) -> str:
-    """格式化新聞清單給 Claude。"""
+    """格式化新聞清單給 Claude，附上實際發布日期讓模型能驗證。"""
     if not articles:
-        return "（今日 RSS 無法取得新聞，請自行根據近期醫療 AI 重要進展產生內容）"
-    lines = [f"以下是今日（{TODAY_STR}）抓取的醫療相關新聞，請評鑑並排名：\n"]
+        return "（今日 RSS 無法取得新聞，請回傳 {\"items\": []}，不要編造內容）"
+    lines = [
+        f"今日為 {TODAY.isoformat()}（{TODAY_STR}）。",
+        f"以下是已通過日期過濾、去重檢查後的候選新聞，請進行評鑑與排名：\n",
+    ]
     for i, a in enumerate(articles, 1):
-        lines.append(f"[{i}] 來源：{a['source']}")
+        tag = "【今日】" if not a.get("is_from_yesterday") else "【昨日備用】"
+        lines.append(f"[{i}] {tag} 來源：{a['source']}")
         lines.append(f"    標題：{a['title']}")
+        lines.append(f"    實際發布日期：{a.get('pub_date', a.get('date', ''))}")
         if a["summary"]:
             lines.append(f"    摘要：{a['summary'][:300]}")
         if a["link"]:
             lines.append(f"    URL：{a['link']}")
         lines.append("")
+    lines.append("⚠️ 輸出每則 item 時，`author` 欄位結尾的日期務必使用上方「實際發布日期」，不得臆測或改寫為今日。")
     return "\n".join(lines)
 
 
@@ -260,11 +366,20 @@ def render_html(items: list[dict],
 def main():
     print(f"[{TODAY_STR}] === 奇美 AI Everywhere Brief 自動產生 ===")
 
-    # 1. 抓新聞
-    print("→ 抓取 RSS 新聞...")
-    articles = fetch_news()
+    # 0. 讀取過去 7 天的已納入清單（用於去重）
+    print("→ 建立排除清單（過去 7 天已納入新聞）...")
+    excluded_urls, excluded_titles = load_excluded_set(days=7)
+    print(f"  排除清單：URL {len(excluded_urls)} 筆、標題 {len(excluded_titles)} 筆")
+
+    # 1. 抓新聞（只收今日；不足 5 則才回退補昨日）
+    print("→ 抓取 RSS 新聞（僅今日發布，去除歷史重複）...")
+    articles = fetch_news(
+        excluded_urls=excluded_urls,
+        excluded_titles=excluded_titles,
+        allow_yesterday_fallback=True,
+    )
     news_text = format_news_for_prompt(articles)
-    print(f"  取得 {len(articles)} 則原始新聞")
+    print(f"  取得 {len(articles)} 則候選新聞（已通過日期與去重過濾）")
 
     # 2. Claude 評鑑排名
     print("→ 呼叫 Claude API 進行評鑑...")
