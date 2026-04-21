@@ -4,8 +4,8 @@
     {
       "rank": 1,
       "score": 8.2,
-      "title": "早期臨床試驗：CAR-T細胞療法有望預防高風險患者多發性骨髓瘤惡化",
-      "summary": "2026年美國癌症研究協會（AACR）年會上，一項早期臨床試驗結果顯示，CAR-T細胞療法（Carvykti）在冒煙型多發性骨髓瘤（smoldering multiple myeloma）高風險患者中展現出預防疾病進展為活性多發性骨髓瘤的潛力。冒煙型多發性骨髓瘤是一種癌前病變狀態，部分高風險患者在數年內會進展為需要積極治療的活性疾病。此試驗結果引發醫學界對CAR-T療法能否從「治療」轉型為「預防」應用的廣泛討論，同時也帶出倫理層面的提問，包括在尚未確診的患者身上使用高強度細胞治療的風險效益比。這項研究被認為可能改變血液腫瘤學領域對早期干預的思維框架，具有重要的臨床意義。",
+      "title": "CAR-T療法早期試驗顯示可預防高風險患者多發性骨髓瘤進展",
+      "summary": "2026年美國癌症研究協會（AACR）年會上，一項早期臨床試驗結果顯示，CAR-T細胞療法（carvykti）在「冒煙型多發性骨髓瘤」高風險患者中展現出阻止疾病進展為典型多發性骨髓瘤的潛力。冒煙型多發性骨髓瘤為一種前期病變，部分患者具有高度進展風險，目前標準照護以觀察為主。此試驗結果引發醫界對CAR-T療法是否可作為預防性介入工具的討論，並同時引發對其在高風險但尚未確診惡性腫瘤患者中使用之安全性與倫理議題的關注。此研究為血液腫瘤學領域的重要進展，或將改變多發性骨髓瘤的早期治療策略。",
       "tags": [
         "CAR-T細胞療法",
         "多發性骨髓瘤",
@@ -18,86 +18,86 @@
     {
       "rank": 2,
       "score": 7.8,
-      "title": "UCHealth虛擬加護病房護理師導入AI輔助工具",
-      "summary": "美國科羅拉多州UCHealth醫療系統宣布在其虛擬加護病房（Virtual ICU）護理作業中整合人工智慧工具，以強化遠端護理能力。虛擬ICU模式允許護理師透過遠端視訊及監控技術同時照護多名重症患者，而AI工具的導入旨在協助護理師更有效率地辨識病情變化、優先處理警示訊息，並減少警報疲勞。此舉代表醫療機構將AI與遠距醫療技術結合應用於重症照護的最新實踐，對於面臨護理人力短缺的醫療體系具有重要的參考價值。相關細節包含AI輔助臨床決策的具體功能與成效，將在後續報導中進一步說明。",
-      "tags": [
-        "虛擬加護病房",
-        "醫療人工智慧",
-        "遠距醫療",
-        "重症照護"
-      ],
-      "author": "Healthcare IT News（2026-04-20）",
-      "source_url": "https://www.healthcareitnews.com/video/virtual-icu-nurses-get-ai-boost-uchealth"
-    },
-    {
-      "rank": 3,
-      "score": 7.3,
-      "title": "遠距住院醫師服務可解決醫療機構更多挑戰",
-      "summary": "Healthcare IT News一篇分析文章指出，遠距住院醫師（Tele-hospitalist）服務的應用潛力遠超過多數醫療機構的認知。文章說明在正常運作狀況下，住院醫師承擔平衡的患者量，急診入院速度可控，能充分進行評估、照護協調、家屬溝通及出院規劃。然而當突發事件（如大規模傷亡、醫師人力短缺或夜間離峰時段）打破此常態時，遠距住院醫師可提供即時支援，協助維持照護品質。文章強調此模式不僅能處理尖峰人力需求，亦可協助偏遠地區醫院提升專科照護可近性，對人力資源有限的醫療機構具有實質效益。",
+      "title": "遠距住院醫師（Tele-hospitalist）可應對醫院多項運作挑戰",
+      "summary": "Healthcare IT News刊載分析指出，遠距住院醫師（tele-hospitalist）的應用範疇遠超出多數醫療機構的認知。在正常醫院運作下，住院醫師面對相對穩定的病患流量；然而在急診壅塞、夜間或偏遠地區人力不足等情境下，遠距住院醫師可即時支援病患評估、跨科照護協調、家屬溝通及出院規劃等工作。文章強調，遠距住院醫師不僅是應急方案，更能在常規運作中改善病床周轉率與照護品質，對人力資源有限的中小型醫院尤具價值。此模式結合資訊科技與遠距醫療，被視為解決醫師人力短缺與地域不平等的重要工具。",
       "tags": [
         "遠距醫療",
-        "住院醫師服務",
+        "住院醫師照護",
         "醫療人力",
-        "照護品質"
+        "醫院管理"
       ],
       "author": "Healthcare IT News（2026-04-20）",
       "source_url": "https://www.healthcareitnews.com/news/tele-hospitalists-can-help-more-challenges-most-realize"
     },
     {
+      "rank": 3,
+      "score": 7.5,
+      "title": "虛擬加護病房護理師於UCHealth導入AI輔助系統",
+      "summary": "Healthcare IT News報導，美國UCHealth醫療體系為其虛擬加護病房（Virtual ICU）護理師配備AI輔助工具，強化遠距重症照護能力。虛擬ICU模式透過視訊與遠端監測系統，使護理師及醫師得以跨地點監測多名重症患者，而AI技術的整合進一步提升了異常值偵測、病情預警及工作流程效率。此舉代表AI技術在重症照護遠距化應用上的具體落地案例，對於面臨護理人力短缺及多院區管理需求的醫療機構具有重要參考意義。相關細節以影音形式呈現，顯示此模式已進入實際臨床部署階段。",
+      "tags": [
+        "虛擬ICU",
+        "醫療AI",
+        "遠距重症照護",
+        "護理科技"
+      ],
+      "author": "Healthcare IT News（2026-04-20）",
+      "source_url": "https://www.healthcareitnews.com/video/virtual-icu-nurses-get-ai-boost-uchealth"
+    },
+    {
       "rank": 4,
       "score": 7.0,
-      "title": "禮來製藥以32億美元收購Kelonia Therapeutics，深化體內基因治療布局",
-      "summary": "禮來製藥（Eli Lilly）宣布以約32億至32.5億美元收購生物科技新創公司Kelonia Therapeutics，進一步擴大其體內基因醫療（in vivo genetic medicines）領域的研發版圖。Kelonia的核心技術聚焦於體內細胞療法，目標適應症包括多發性骨髓瘤，其BCMA靶向治療方案正處於開發階段。此次收購顯示禮來持續加碼次世代癌症治療平台，試圖在不需體外細胞製備的前提下實現精準治療，降低CAR-T等傳統細胞療法的複雜性與成本。Kelonia此前面臨財務困難，此次被收購標誌著其技術獲得大型藥廠認可，也反映大型製藥企業對基因醫療賽道的戰略重視程度持續升溫。",
+      "title": "KRAS基因突變作為藥物靶點取得突破性進展",
+      "summary": "STAT News報導，長期被視為「不可成藥」的KRAS基因突變靶點近期取得重大突破。KRAS為多種實體腫瘤（包括胰臟癌、肺癌、大腸癌）中最常見的致癌驅動突變，過去數十年因其結構特性難以設計小分子抑制劑。最新研究成果顯示，新一代KRAS抑制劑在藥物設計上克服了先前技術瓶頸，為相關癌症患者開啟新的治療選項。此進展被STAT列為Breakthrough Prize得獎研究之一，具有高度臨床轉化潛力，預計將影響未來腫瘤精準治療策略的發展方向。",
       "tags": [
-        "基因治療",
-        "企業併購",
-        "多發性骨髓瘤",
-        "細胞療法"
+        "KRAS抑制劑",
+        "精準醫療",
+        "腫瘤學",
+        "藥物開發"
       ],
-      "author": "MedCity News（2026-04-20）",
-      "source_url": "https://medcitynews.com/2026/04/eli-lilly-kelonia-acquisition-in-vivo-cell-therapy-cancer-multiple-myeloma-bcma-genetic-medicine-lly/"
+      "author": "STAT News（2026-04-20）",
+      "source_url": "https://www.statnews.com/2026/04/20/biotech-news-finally-cracking-kras-as-a-druggable-target/?utm_campaign=rss"
     },
     {
       "rank": 5,
-      "score": 6.5,
-      "title": "WISeR模式在六州推行後，醫療照護延誤與拒保案例增加",
-      "summary": "美國聯邦眾議員蘇珊·戴爾本（Suzan DelBene）指出，美國醫療保險和醫療補助服務中心（CMS）在六個州強制推行「浪費與不當服務削減模式」（WISeR Model）後，傳統醫療保險（Traditional Medicare）的給付拒絕案例增加，導致患者照護延誤情形惡化。WISeR模式旨在透過事前審查機制減少不必要的醫療支出，但批評者認為此舉在實際執行上造成患者獲得必要醫療服務的障礙。此議題凸顯醫療費用控制政策與患者照護可近性之間的潛在衝突，並引發醫療界對AI輔助事前授權審查機制是否合理的討論，對關注醫療支付政策的醫療機構具有參考意義。",
+      "score": 6.8,
+      "title": "Eli Lilly以32億美元收購Kelonia Therapeutics，擴大體內基因醫學版圖",
+      "summary": "Eli Lilly宣布以32億美元收購Kelonia Therapeutics，進一步強化其在體內基因醫學（in vivo genetic medicines）領域的佈局。Kelonia專注於體內CAR-T細胞療法技術，針對多發性骨髓瘤等血液腫瘤開發以BCMA為靶點的治療方案。有別於傳統體外製備CAR-T，體內基因醫學技術可直接於患者體內進行基因修改，具有製程簡化、可及性提升等潛在優勢。STAT News揭露，Kelonia在被收購前曾多次面臨資金困難，此次併購是Eli Lilly近年積極布局次世代癌症治療的重要一步，也反映大型藥廠對基因療法商業化的高度期待。",
+      "tags": [
+        "基因療法",
+        "CAR-T細胞療法",
+        "藥廠併購",
+        "血液腫瘤"
+      ],
+      "author": "STAT News / MedCity News（2026-04-20）",
+      "source_url": "https://www.statnews.com/2026/04/20/kelonia-therapeutics-eli-lilly-slide-deck-memo/?utm_campaign=rss"
+    },
+    {
+      "rank": 6,
+      "score": 6.2,
+      "title": "WISeR模型試行六州：照護延誤與拒賠問題惡化，立法者提出警告",
+      "summary": "美國眾議員Suzan DelBene致函CMS，指出在強制推行「浪費性及不適切服務減少模型」（WISeR Model）的六個州中，傳統Medicare受益人面臨日益嚴重的照護延誤與服務拒賠問題。WISeR Model為CMS於2026年在特定州份強制實施的支付審查機制，旨在減少不必要的醫療支出，但批評者認為此舉已損害患者照護品質與及時性。此事件反映美國醫療保險支付政策改革與臨床照護需求之間的結構性張力，對醫療院所的給付環境及病患權益均有直接影響。",
       "tags": [
         "醫療給付政策",
-        "事前授權",
-        "醫療可近性",
-        "Medicare"
+        "Medicare",
+        "照護品質",
+        "醫療審查"
       ],
       "author": "Healthcare IT News（2026-04-20）",
       "source_url": "https://www.healthcareitnews.com/news/care-delays-and-denials-grow-across-6-states-using-wiser-model-lawmaker-says"
     },
     {
-      "rank": 6,
-      "score": 6.0,
-      "title": "UnitedHealthcare擴大偏遠地區醫療計畫並縮減事前授權要求",
-      "summary": "美國最大私人健康保險公司UnitedHealthcare宣布擴大偏遠地區醫療服務計畫，並同步減少部分醫療服務的事前授權（Prior Authorization）要求。此舉被視為回應近期外界對保險公司過度限制醫療給付的批評，以及美國國會對事前授權改革的立法壓力。偏遠地區醫療計畫的擴大旨在改善農村人口獲得醫療服務的機會，降低城鄉醫療資源落差。縮減事前授權要求則有望簡化醫療提供者的行政流程，減少因審查延誤造成的照護中斷。此政策調整對於探討醫療保險給付管理模式的醫療機構與政策制定者具有參考價值。",
+      "rank": 7,
+      "score": 5.8,
+      "title": "UnitedHealthcare擴大農村醫療計畫並放寬事前授權要求",
+      "summary": "UnitedHealthcare宣布擴大針對農村地區的醫療照護計畫，並同步縮減事前授權（prior authorization）的適用範圍。農村醫療服務長期面臨資源匱乏、交通不便及專科醫師短缺等挑戰，UnitedHealthcare此次調整旨在降低農村患者取得醫療服務的行政障礙。事前授權制度常被批評導致照護延誤，此次放寬措施被視為回應醫界與患者倡議的政策轉向。此舉亦與CMS對Medicare Advantage計畫的監管態度形成對照，折射出美國私人保險與聯邦醫療政策之間的張力。",
       "tags": [
-        "醫療保險給付",
+        "農村醫療",
         "事前授權",
-        "偏遠醫療",
-        "醫療可近性"
+        "醫療保險",
+        "醫療可及性"
       ],
       "author": "MedCity News（2026-04-21）",
       "source_url": "https://medcitynews.com/2026/04/unitedhealthcare-rural-health-prior-authorization/"
-    },
-    {
-      "rank": 7,
-      "score": 5.5,
-      "title": "KRAS基因突變終成可成藥靶點，癌症治療迎來新里程碑",
-      "summary": "STAT News報導指出，長期被視為「不可成藥靶點」的KRAS基因突變在癌症治療領域取得重要突破。KRAS是人類癌症中最常見的致癌突變之一，廣泛存在於肺癌、大腸直腸癌及胰臟癌等癌種中，過去因其蛋白質結構特性難以被小分子藥物有效鎖定。近年來隨著共價抑制劑等新型藥物設計策略的進展，多款KRAS抑制劑陸續進入臨床試驗並獲得突破性結果，此里程碑被認為將為上述癌症患者開啟新的治療選項。報導亦提及Breakthrough Prize得獎者的相關研究貢獻，彰顯基礎科學研究對臨床轉譯的長遠影響。",
-      "tags": [
-        "KRAS抑制劑",
-        "精準腫瘤學",
-        "標靶治療",
-        "癌症新藥"
-      ],
-      "author": "STAT News（2026-04-20）",
-      "source_url": "https://www.statnews.com/2026/04/20/biotech-news-finally-cracking-kras-as-a-druggable-target/?utm_campaign=rss"
     }
   ]
 }
