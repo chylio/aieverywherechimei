@@ -1,0 +1,103 @@
+{
+  "date": "2026年04月21日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "Hippocratic AI 推出兩款新工具：AI Front Door 與 Nurse Co-Pilot，擴展臨床接觸管道並優化護理流程",
+      "summary": "醫療 AI 新創公司 Hippocratic AI 正式發布兩款語音 AI 工具：「AI Front Door」與「Nurse Co-Pilot」。AI Front Door 定位為面向病患的語音互動介面，旨在降低病患進入醫療照護系統的門檻，改善臨床可及性；Nurse Co-Pilot 則針對住院病房護理師設計，透過語音輔助方式協助護理工作流程管理，以期減輕護理人員的行政負擔並提升照護效率。此舉反映醫療 AI 領域正從後端數據分析向前端臨床互動場景延伸，尤其在護理人力吃緊的背景下，語音 AI 工具的實際應用場景與導入可行性受到業界關注。",
+      "tags": [
+        "語音AI",
+        "護理輔助",
+        "臨床工作流程",
+        "病患接觸"
+      ],
+      "author": "Fierce Healthcare（2026-04-21）",
+      "source_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-rolls-out-2-new-tools-aimed-expanding-clinical-access"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "UCHealth 導入 AI 強化虛擬 ICU 護理師能力，推動遠端重症照護新模式",
+      "summary": "美國 UCHealth 醫療系統為其虛擬 ICU（V-ICU）護理師整合人工智慧技術，進一步強化遠端重症照護的監測與應變能力。虛擬 ICU 模式透過遠端視訊與感測器技術，使護理師得以同時監控多張病床，而 AI 的導入則可協助即時異常偵測、警示篩選及臨床決策支援，有效減少護理師認知負荷並縮短應變時間。此案例顯示 AI 與遠距醫療的整合正逐步延伸至高複雜度的重症照護領域，對人力資源有限的醫院而言具有重要的參考意義，尤其在夜間或離峰時段的重症監護應用上展現潛力。",
+      "tags": [
+        "虛擬ICU",
+        "遠距醫療",
+        "重症照護",
+        "AI輔助監測"
+      ],
+      "author": "Healthcare IT News（2026-04-21）",
+      "source_url": "https://www.healthcareitnews.com/video/virtual-icu-nurses-get-ai-boost-uchealth"
+    },
+    {
+      "rank": 3,
+      "score": 7.8,
+      "title": "CAR-T 細胞療法早期試驗顯示有望預防高風險冒煙型多發性骨髓瘤進展",
+      "summary": "於 2026 年美國癌症研究協會（AACR）年會發表的早期臨床試驗結果顯示，CAR-T 細胞療法（Carvykti）應用於冒煙型多發性骨髓瘤（smoldering multiple myeloma）患者，展現出阻止其進展為活躍型多發性骨髓瘤的初步潛力。此用法屬於突破性嘗試，傳統上 CAR-T 療法多用於復發難治性血液腫瘤，而將其前移至預防性治療階段引發腫瘤學界廣泛討論，既帶來治療典範轉移的可能性，也引發對療效與安全性的謹慎質疑。相關結果尚屬早期數據，仍需更大規模試驗驗證。",
+      "tags": [
+        "CAR-T療法",
+        "多發性骨髓瘤",
+        "血液腫瘤",
+        "AACR 2026"
+      ],
+      "author": "STAT News（2026-04-20）",
+      "source_url": "https://www.statnews.com/2026/04/20/aacr-2026-car-t-trial-results-carvykti-smoldering-multiple-myeloma/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "score": 7.2,
+      "title": "遠距住院醫師（Tele-Hospitalist）模式可應對多項醫療體系挑戰，效益超乎預期",
+      "summary": "一篇刊載於 Healthcare IT News 的分析文章指出，遠距住院醫師（tele-hospitalist）模式的應用場景遠超出一般認知，不僅能在突發性病患流量激增（如災害、疫情）時補充人力，亦可協助解決離峰時段覆蓋不足、偏鄉醫院住院醫師短缺，以及高複雜個案跨院諮詢等多重挑戰。文章強調，在正常運作條件下，遠距住院醫師可有效支援患者流量管理、家屬溝通及出院協調，而非僅作為緊急備援方案，對醫療資源分布不均的地區尤具實際價值。",
+      "tags": [
+        "遠距住院醫師",
+        "遠距醫療",
+        "醫療人力",
+        "病患流量管理"
+      ],
+      "author": "Healthcare IT News（2026-04-21）",
+      "source_url": "https://www.healthcareitnews.com/news/tele-hospitalists-can-help-more-challenges-most-realize"
+    },
+    {
+      "rank": 5,
+      "score": 6.8,
+      "title": "禮來以 32 億美元收購 Kelonia，強化體內基因療法與細胞治療佈局",
+      "summary": "美國製藥大廠禮來（Eli Lilly）宣布以約 32 億美元收購 Kelonia，持續擴大其在體內（in vivo）基因醫療領域的研究能量。Kelonia 的核心技術聚焦於體內細胞療法，目標適應症包含癌症及多發性骨髓瘤（以 BCMA 為標靶）。此舉為禮來近年第二項體內基因療法的重大布局，顯示大型藥廠正積極透過併購強化次世代治療技術管線。體內基因療法相較傳統體外 CAR-T 療法，具備製造流程簡化、成本潛在降低的優勢，被視為未來腫瘤與遺傳疾病治療的重要方向。",
+      "tags": [
+        "基因療法",
+        "細胞治療",
+        "企業併購",
+        "腫瘤學"
+      ],
+      "author": "MedCity News（2026-04-21）",
+      "source_url": "https://medcitynews.com/2026/04/eli-lilly-kelonia-acquisition-in-vivo-cell-therapy-cancer-multiple-myeloma-bcma-genetic-medicine-lly/"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "WISeR 模式在六州推行後導致醫療照護延誤與拒付案例增加，國會議員提出質疑",
+      "summary": "美國眾議員 Suzan DelBene 公開指出，美國醫療保險和補助服務中心（CMS）今年在六個州強制推行的「浪費與不當服務削減模式」（WISeR Model）已對傳統 Medicare 受益人造成實質傷害，表現為醫療服務申請遭拒及照護等待時間延長的案例顯著增加。WISeR Model 旨在透過人工智慧與演算法審查機制篩查不必要醫療服務，惟批評者認為此舉已影響正當醫療需求的及時處理。此議題涉及 AI 輔助保險審核機制的監管問題，引發醫界與政界對演算法決策透明度與病患權益保障的廣泛討論。",
+      "tags": [
+        "醫療保險審查",
+        "AI演算法",
+        "醫療拒付",
+        "Medicare政策"
+      ],
+      "author": "Healthcare IT News（2026-04-21）",
+      "source_url": "https://www.healthcareitnews.com/news/care-delays-and-denials-grow-across-6-states-using-wiser-model-lawmaker-says"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "Highmark 與 Spring Health 心理健康合作計畫成效回顧：提升成員心理照護可近性",
+      "summary": "美國保險業者 Highmark 與心理健康科技公司 Spring Health 的合作已逾兩年，雙方近期公開回顧其共同建立的心理健康平台運作成效。該平台旨在透過數位工具與精準配對機制，大幅縮短保險成員尋求心理健康服務的等待時間，提升心理照護可近性。Spring Health 採用 AI 驅動的評估工具，協助成員快速媒合適合的治療師或處置方案。此合作模式展示了保險業者與數位心理健康平台整合的可能路徑，在精神健康服務需求持續攀升的背景下，具有一定的產業參考價值。",
+      "tags": [
+        "數位心理健康",
+        "保險科技",
+        "心理照護可近性",
+        "AI配對"
+      ],
+      "author": "Fierce Healthcare（2026-04-21）",
+      "source_url": "https://www.fiercehealthcare.com/payers/look-inside-highmark-and-spring-healths-mental-well-being-partnership"
+    }
+  ]
+}
