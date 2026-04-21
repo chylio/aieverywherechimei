@@ -4,100 +4,100 @@
     {
       "rank": 1,
       "score": 8.5,
-      "title": "Hippocratic AI 推出兩款新工具：AI Front Door 與 Nurse Co-Pilot，擴展臨床接觸管道並優化護理流程",
-      "summary": "醫療 AI 新創公司 Hippocratic AI 正式發布兩款語音 AI 工具：「AI Front Door」與「Nurse Co-Pilot」。AI Front Door 定位為面向病患的語音互動介面，旨在降低病患進入醫療照護系統的門檻，改善臨床可及性；Nurse Co-Pilot 則針對住院病房護理師設計，透過語音輔助方式協助護理工作流程管理，以期減輕護理人員的行政負擔並提升照護效率。此舉反映醫療 AI 領域正從後端數據分析向前端臨床互動場景延伸，尤其在護理人力吃緊的背景下，語音 AI 工具的實際應用場景與導入可行性受到業界關注。",
-      "tags": [
-        "語音AI",
-        "護理輔助",
-        "臨床工作流程",
-        "病患接觸"
-      ],
-      "author": "Fierce Healthcare（2026-04-21）",
-      "source_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-rolls-out-2-new-tools-aimed-expanding-clinical-access"
-    },
-    {
-      "rank": 2,
-      "score": 8.0,
-      "title": "UCHealth 導入 AI 強化虛擬 ICU 護理師能力，推動遠端重症照護新模式",
-      "summary": "美國 UCHealth 醫療系統為其虛擬 ICU（V-ICU）護理師整合人工智慧技術，進一步強化遠端重症照護的監測與應變能力。虛擬 ICU 模式透過遠端視訊與感測器技術，使護理師得以同時監控多張病床，而 AI 的導入則可協助即時異常偵測、警示篩選及臨床決策支援，有效減少護理師認知負荷並縮短應變時間。此案例顯示 AI 與遠距醫療的整合正逐步延伸至高複雜度的重症照護領域，對人力資源有限的醫院而言具有重要的參考意義，尤其在夜間或離峰時段的重症監護應用上展現潛力。",
+      "title": "UCHealth導入AI技術強化虛擬ICU護理照護能力",
+      "summary": "UCHealth醫療系統將AI技術整合至虛擬ICU護理工作流程，透過遠端監控與人工智慧輔助決策，提升加護病房護理人員對危重症患者的即時評估與照護能力。虛擬ICU模式（Virtual ICU）近年已成為解決護理人力短缺與跨院資源調配的重要策略，而AI的加入進一步強化了遠端護理人員對異常生命徵象的偵測與早期介入能力。此案例展示大型醫療系統如何結合遠距醫療與人工智慧技術，在不增加實體人力的前提下提升加護照護品質，對面臨護理人力挑戰的醫療機構具有重要的模式參考價值。",
       "tags": [
         "虛擬ICU",
-        "遠距醫療",
-        "重症照護",
-        "AI輔助監測"
+        "人工智慧",
+        "遠距護理",
+        "加護病房"
       ],
-      "author": "Healthcare IT News（2026-04-21）",
+      "author": "Healthcare IT News Feed（2026-04-20）",
       "source_url": "https://www.healthcareitnews.com/video/virtual-icu-nurses-get-ai-boost-uchealth"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "score": 7.8,
-      "title": "CAR-T 細胞療法早期試驗顯示有望預防高風險冒煙型多發性骨髓瘤進展",
-      "summary": "於 2026 年美國癌症研究協會（AACR）年會發表的早期臨床試驗結果顯示，CAR-T 細胞療法（Carvykti）應用於冒煙型多發性骨髓瘤（smoldering multiple myeloma）患者，展現出阻止其進展為活躍型多發性骨髓瘤的初步潛力。此用法屬於突破性嘗試，傳統上 CAR-T 療法多用於復發難治性血液腫瘤，而將其前移至預防性治療階段引發腫瘤學界廣泛討論，既帶來治療典範轉移的可能性，也引發對療效與安全性的謹慎質疑。相關結果尚屬早期數據，仍需更大規模試驗驗證。",
+      "title": "遠距住院醫師（Tele-hospitalist）可應對比多數人預期更廣泛的醫療挑戰",
+      "summary": "本文探討遠距住院醫師（tele-hospitalist）在醫院運營中的多元應用場景。在正常運作下，住院醫師承擔穩定可預期的患者流量，然而當醫院面臨突發性人力短缺、患者量暴增或跨院轉診需求時，傳統實體模式難以即時因應。遠距住院醫師模式透過遠端視訊評估、電子病歷整合及即時會診，能有效支援急診壅塞紓解、夜間人力補強、偏遠院區覆蓋及出院協調等任務。文章指出，此模式的實際應用廣度遠超過多數醫療管理者的認知，可作為醫院韌性規劃的重要組成部分，尤其對多院區或資源有限的醫療系統具有實質意義。",
       "tags": [
-        "CAR-T療法",
+        "遠距醫療",
+        "住院醫師",
+        "醫療人力",
+        "醫院管理"
+      ],
+      "author": "Healthcare IT News Feed（2026-04-20）",
+      "source_url": "https://www.healthcareitnews.com/news/tele-hospitalists-can-help-more-challenges-most-realize"
+    },
+    {
+      "rank": 3,
+      "score": 7.2,
+      "title": "CAR-T細胞療法早期試驗顯示可望預防高風險患者冒煙型多發性骨髓瘤惡化",
+      "summary": "美國癌症研究協會年會（AACR 2026）發表一項早期臨床試驗結果，使用CAR-T細胞療法（Carvykti）針對冒煙型多發性骨髓瘤（smoldering multiple myeloma）高風險患者進行介入治療，初步結果顯示有望阻止疾病進展為活動性多發性骨髓瘤。冒煙型多發性骨髓瘤為骨髓瘤前期階段，高風險族群每年約有10%至20%進展為完全發病。此試驗突破傳統僅在活動期疾病使用CAR-T的框架，探索預防性介入的可能性，引發腫瘤學界對CAR-T適應症擴展與早期治療窗口的廣泛討論，亦帶來關於過度治療風險的重要倫理與臨床辯論。",
+      "tags": [
+        "CAR-T細胞療法",
         "多發性骨髓瘤",
         "血液腫瘤",
-        "AACR 2026"
+        "臨床試驗"
       ],
-      "author": "STAT News（2026-04-20）",
+      "author": "STAT（2026-04-20）",
       "source_url": "https://www.statnews.com/2026/04/20/aacr-2026-car-t-trial-results-carvykti-smoldering-multiple-myeloma/?utm_campaign=rss"
     },
     {
       "rank": 4,
-      "score": 7.2,
-      "title": "遠距住院醫師（Tele-Hospitalist）模式可應對多項醫療體系挑戰，效益超乎預期",
-      "summary": "一篇刊載於 Healthcare IT News 的分析文章指出，遠距住院醫師（tele-hospitalist）模式的應用場景遠超出一般認知，不僅能在突發性病患流量激增（如災害、疫情）時補充人力，亦可協助解決離峰時段覆蓋不足、偏鄉醫院住院醫師短缺，以及高複雜個案跨院諮詢等多重挑戰。文章強調，在正常運作條件下，遠距住院醫師可有效支援患者流量管理、家屬溝通及出院協調，而非僅作為緊急備援方案，對醫療資源分布不均的地區尤具實際價值。",
-      "tags": [
-        "遠距住院醫師",
-        "遠距醫療",
-        "醫療人力",
-        "病患流量管理"
-      ],
-      "author": "Healthcare IT News（2026-04-21）",
-      "source_url": "https://www.healthcareitnews.com/news/tele-hospitalists-can-help-more-challenges-most-realize"
-    },
-    {
-      "rank": 5,
       "score": 6.8,
-      "title": "禮來以 32 億美元收購 Kelonia，強化體內基因療法與細胞治療佈局",
-      "summary": "美國製藥大廠禮來（Eli Lilly）宣布以約 32 億美元收購 Kelonia，持續擴大其在體內（in vivo）基因醫療領域的研究能量。Kelonia 的核心技術聚焦於體內細胞療法，目標適應症包含癌症及多發性骨髓瘤（以 BCMA 為標靶）。此舉為禮來近年第二項體內基因療法的重大布局，顯示大型藥廠正積極透過併購強化次世代治療技術管線。體內基因療法相較傳統體外 CAR-T 療法，具備製造流程簡化、成本潛在降低的優勢，被視為未來腫瘤與遺傳疾病治療的重要方向。",
+      "title": "禮來以32億美元收購Kelonia Therapeutics，深化體內基因醫療布局",
+      "summary": "美國製藥巨頭禮來（Eli Lilly）宣布以32.5億美元收購生物技術新創公司Kelonia Therapeutics，後者專注於體內細胞療法（in vivo cell therapy）技術平台的開發，其核心研究方向包含靶向BCMA的多發性骨髓瘤基因醫療。相較於傳統體外（ex vivo）CAR-T療法需複雜的細胞提取與製備流程，體內基因醫療技術直接在患者體內進行基因編輯與細胞重程式化，有望大幅降低治療複雜度與成本。Kelonia歷經多次融資困境後完成此收購，顯示禮來積極布局下一代腫瘤治療技術的戰略意圖，此併購亦反映整體醫藥產業對基因醫療商業化路徑的持續高度關注。",
       "tags": [
-        "基因療法",
-        "細胞治療",
+        "基因醫療",
+        "細胞療法",
         "企業併購",
-        "腫瘤學"
+        "腫瘤治療"
       ],
-      "author": "MedCity News（2026-04-21）",
+      "author": "MedCity News（2026-04-20）",
       "source_url": "https://medcitynews.com/2026/04/eli-lilly-kelonia-acquisition-in-vivo-cell-therapy-cancer-multiple-myeloma-bcma-genetic-medicine-lly/"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "score": 6.5,
-      "title": "WISeR 模式在六州推行後導致醫療照護延誤與拒付案例增加，國會議員提出質疑",
-      "summary": "美國眾議員 Suzan DelBene 公開指出，美國醫療保險和補助服務中心（CMS）今年在六個州強制推行的「浪費與不當服務削減模式」（WISeR Model）已對傳統 Medicare 受益人造成實質傷害，表現為醫療服務申請遭拒及照護等待時間延長的案例顯著增加。WISeR Model 旨在透過人工智慧與演算法審查機制篩查不必要醫療服務，惟批評者認為此舉已影響正當醫療需求的及時處理。此議題涉及 AI 輔助保險審核機制的監管問題，引發醫界與政界對演算法決策透明度與病患權益保障的廣泛討論。",
+      "title": "AACR年會焦點：CAR-T創新應用、Merck新進展與癌症醫療地域不平等問題",
+      "summary": "2026年美國癌症研究協會（AACR）年會呈現多項重要議題：CAR-T細胞療法在冒煙型多發性骨髓瘤的前瞻性應用引發廣泛討論；Merck在腫瘤免疫治療領域提出新的研究進展；此外，「癌症的地理問題」（cancer's geography problem）成為會議重要議題，聚焦於城鄉與地區間在癌症篩檢、診斷及治療可近性的結構性差異，以及AI技術在縮短偏遠地區醫療落差中的潛在角色。整體而言，本屆AACR年會反映當前腫瘤學研究正同時面對科技突破與醫療公平性兩大核心挑戰，為全球癌症照護政策提供重要參考依據。",
+      "tags": [
+        "AACR年會",
+        "腫瘤免疫治療",
+        "醫療不平等",
+        "人工智慧"
+      ],
+      "author": "STAT（2026-04-20）",
+      "source_url": "https://www.statnews.com/2026/04/20/aacr-2026-car-t-multiple-myeloma-merck-rural-health-ai/?utm_campaign=rss"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "WISeR模式在六州執行後醫療延誤與拒保情況加劇，國會議員提出質疑",
+      "summary": "美國眾議員Suzan DelBene（民主黨，華盛頓州）指出，美國醫療保險和醫療補助服務中心（CMS）強制推行的「浪費與不適當服務削減模式」（Wasteful and Inappropriate Service Reduction Model，WISeR）在六個試行州造成傳統Medicare拒保與照護延誤問題惡化。該模式旨在透過自動化審查機制削減不必要醫療支出，然而實際執行結果顯示患者照護受到負面影響，引發醫療提供者與立法者的強烈關切。此案例凸顯以AI或自動化技術主導保險審查決策時，若缺乏足夠的臨床人工監督與申訴機制，可能對患者就醫權益造成系統性傷害，具有重要的醫療政策警示意義。",
       "tags": [
         "醫療保險審查",
-        "AI演算法",
-        "醫療拒付",
-        "Medicare政策"
+        "Medicare政策",
+        "醫療可近性",
+        "醫療AI倫理"
       ],
-      "author": "Healthcare IT News（2026-04-21）",
+      "author": "Healthcare IT News Feed（2026-04-20）",
       "source_url": "https://www.healthcareitnews.com/news/care-delays-and-denials-grow-across-6-states-using-wiser-model-lawmaker-says"
     },
     {
       "rank": 7,
-      "score": 6.0,
-      "title": "Highmark 與 Spring Health 心理健康合作計畫成效回顧：提升成員心理照護可近性",
-      "summary": "美國保險業者 Highmark 與心理健康科技公司 Spring Health 的合作已逾兩年，雙方近期公開回顧其共同建立的心理健康平台運作成效。該平台旨在透過數位工具與精準配對機制，大幅縮短保險成員尋求心理健康服務的等待時間，提升心理照護可近性。Spring Health 採用 AI 驅動的評估工具，協助成員快速媒合適合的治療師或處置方案。此合作模式展示了保險業者與數位心理健康平台整合的可能路徑，在精神健康服務需求持續攀升的背景下，具有一定的產業參考價值。",
+      "score": 5.5,
+      "title": "OSHA針對醫療場所職場暴力預防的政策方向持續演進",
+      "summary": "美國職業安全與健康管理局（OSHA）近年持續調整其對醫療場所職場暴力預防的監管框架與執法立場。醫療場所（包含醫院、診所及長照機構）長期為職場暴力高發環境，醫護人員遭受肢體攻擊與言語暴力的比率顯著高於其他行業。OSHA的最新政策走向包含加強對醫療機構職場暴力預防計畫的要求，以及明確雇主在建立事件通報、風險評估與員工培訓機制方面的責任。本文梳理當前監管趨勢，探討醫療機構在合規與實際保護員工安全之間的平衡挑戰，對各國醫療機構建立完善的職場安全政策具有參考意義。",
       "tags": [
-        "數位心理健康",
-        "保險科技",
-        "心理照護可近性",
-        "AI配對"
+        "職場暴力",
+        "醫護安全",
+        "醫院管理",
+        "法規遵循"
       ],
-      "author": "Fierce Healthcare（2026-04-21）",
-      "source_url": "https://www.fiercehealthcare.com/payers/look-inside-highmark-and-spring-healths-mental-well-being-partnership"
+      "author": "MedCity News（2026-04-20）",
+      "source_url": "https://medcitynews.com/2026/04/oshas-evolving-approach-to-workplace-violence-prevention-in-healthcare/"
     }
   ]
 }
