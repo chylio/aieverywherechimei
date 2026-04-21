@@ -4,100 +4,100 @@
     {
       "rank": 1,
       "score": 8.2,
-      "title": "UCHealth 虛擬 ICU 護理師導入 AI 輔助，提升重症照護效能",
-      "summary": "美國 UCHealth 醫療系統在其虛擬 ICU 護理模式中整合人工智慧技術，藉由 AI 工具強化遠端重症監測與護理決策支援能力。虛擬 ICU（vICU）模式透過遠端視訊及感測器技術，讓護理師得以同時監控多名重症病患；引入 AI 後，系統能自動偵測病情變化趨勢、提供即時警示，進一步減輕護理人力負擔並縮短危急事件的反應時間。此模式在護理人力短缺的背景下，提供了一種兼顧病患安全與資源效率的創新照護解決方案，對於探索智慧醫院與遠距重症照護整合的醫療機構具有重要的參考意義。",
+      "title": "早期臨床試驗：CAR-T細胞療法有望預防高風險患者多發性骨髓瘤惡化",
+      "summary": "2026年美國癌症研究協會（AACR）年會上，一項早期臨床試驗結果顯示，CAR-T細胞療法（Carvykti）在冒煙型多發性骨髓瘤（smoldering multiple myeloma）高風險患者中展現出預防疾病進展為活性多發性骨髓瘤的潛力。冒煙型多發性骨髓瘤是一種癌前病變狀態，部分高風險患者在數年內會進展為需要積極治療的活性疾病。此試驗結果引發醫學界對CAR-T療法能否從「治療」轉型為「預防」應用的廣泛討論，同時也帶出倫理層面的提問，包括在尚未確診的患者身上使用高強度細胞治療的風險效益比。這項研究被認為可能改變血液腫瘤學領域對早期干預的思維框架，具有重要的臨床意義。",
       "tags": [
-        "虛擬ICU",
-        "人工智慧",
-        "重症照護",
-        "遠距醫療"
+        "CAR-T細胞療法",
+        "多發性骨髓瘤",
+        "血液腫瘤學",
+        "臨床試驗"
       ],
-      "author": "Healthcare IT News Feed（2026-04-20）",
-      "source_url": "https://www.healthcareitnews.com/video/virtual-icu-nurses-get-ai-boost-uchealth"
+      "author": "STAT News（2026-04-20）",
+      "source_url": "https://www.statnews.com/2026/04/20/aacr-2026-car-t-trial-results-carvykti-smoldering-multiple-myeloma/?utm_campaign=rss"
     },
     {
       "rank": 2,
       "score": 7.8,
-      "title": "遠距住院醫師（Tele-hospitalist）可應對比多數人認知更廣泛的挑戰",
-      "summary": "Healthcare IT News 一篇深度報導指出，遠距住院醫師（tele-hospitalist）的應用範疇遠超過多數醫院管理者的認知。在一般正常運作條件下，住院部病患流量相對穩定，但當遇到病床壅塞、急診大量湧入或夜間人力不足等情境時，遠距住院醫師可即時介入，提供病患評估、照護協調、家屬溝通及出院規劃等全面支援。報導強調，此模式不僅能補充偏鄉或小型醫院的人力缺口，亦可在大型醫院的尖峰時段或危機事件中發揮關鍵緩衝作用，為醫院提供更具彈性的住院醫療人力配置方式。",
+      "title": "UCHealth虛擬加護病房護理師導入AI輔助工具",
+      "summary": "美國科羅拉多州UCHealth醫療系統宣布在其虛擬加護病房（Virtual ICU）護理作業中整合人工智慧工具，以強化遠端護理能力。虛擬ICU模式允許護理師透過遠端視訊及監控技術同時照護多名重症患者，而AI工具的導入旨在協助護理師更有效率地辨識病情變化、優先處理警示訊息，並減少警報疲勞。此舉代表醫療機構將AI與遠距醫療技術結合應用於重症照護的最新實踐，對於面臨護理人力短缺的醫療體系具有重要的參考價值。相關細節包含AI輔助臨床決策的具體功能與成效，將在後續報導中進一步說明。",
       "tags": [
+        "虛擬加護病房",
+        "醫療人工智慧",
         "遠距醫療",
-        "住院醫師",
-        "醫療人力",
-        "病患流量管理"
+        "重症照護"
       ],
-      "author": "Healthcare IT News Feed（2026-04-20）",
-      "source_url": "https://www.healthcareitnews.com/news/tele-hospitalists-can-help-more-challenges-most-realize"
+      "author": "Healthcare IT News（2026-04-20）",
+      "source_url": "https://www.healthcareitnews.com/video/virtual-icu-nurses-get-ai-boost-uchealth"
     },
     {
       "rank": 3,
-      "score": 7.5,
-      "title": "AACR 2026：CAR-T 細胞治療早期試驗顯示可預防高風險患者多發性骨髓瘤惡化",
-      "summary": "在 2026 年美國癌症研究協會（AACR）年會上，一項早期臨床試驗結果引發高度關注：針對高風險冒煙型多發性骨髓瘤（smoldering multiple myeloma）患者，接受 CAR-T 細胞治療（Carvykti）後，展現出阻止疾病進展為活躍型多發性骨髓瘤的潛力。此研究為癌症預防性免疫細胞治療的新興方向提供了重要臨床依據，同時也引發學界對 CAR-T 療法在尚未完全惡化疾病中應用時機與風險效益評估的深度討論。若後續大規模試驗證實其效果，將對血液腫瘤臨床實踐產生重大影響。",
+      "score": 7.3,
+      "title": "遠距住院醫師服務可解決醫療機構更多挑戰",
+      "summary": "Healthcare IT News一篇分析文章指出，遠距住院醫師（Tele-hospitalist）服務的應用潛力遠超過多數醫療機構的認知。文章說明在正常運作狀況下，住院醫師承擔平衡的患者量，急診入院速度可控，能充分進行評估、照護協調、家屬溝通及出院規劃。然而當突發事件（如大規模傷亡、醫師人力短缺或夜間離峰時段）打破此常態時，遠距住院醫師可提供即時支援，協助維持照護品質。文章強調此模式不僅能處理尖峰人力需求，亦可協助偏遠地區醫院提升專科照護可近性，對人力資源有限的醫療機構具有實質效益。",
       "tags": [
-        "CAR-T細胞治療",
-        "多發性骨髓瘤",
-        "癌症預防",
-        "血液腫瘤"
+        "遠距醫療",
+        "住院醫師服務",
+        "醫療人力",
+        "照護品質"
       ],
-      "author": "STAT（2026-04-20）",
-      "source_url": "https://www.statnews.com/2026/04/20/aacr-2026-car-t-trial-results-carvykti-smoldering-multiple-myeloma/?utm_campaign=rss"
+      "author": "Healthcare IT News（2026-04-20）",
+      "source_url": "https://www.healthcareitnews.com/news/tele-hospitalists-can-help-more-challenges-most-realize"
     },
     {
       "rank": 4,
-      "score": 7.2,
-      "title": "Eli Lilly 以 32 億美元收購 Kelonia Therapeutics，強化體內基因療法布局",
-      "summary": "美國製藥巨頭 Eli Lilly 宣布以約 32.5 億美元收購 Kelonia Therapeutics，此舉為 Lilly 近年來在體內基因醫學（in vivo genetic medicines）領域的又一重大投資。Kelonia 專注於體內基因工程與細胞療法的技術開發，其主要研究方向涵蓋靶向 BCMA 的多發性骨髓瘤治療應用。此次收購顯示大型藥廠持續加碼次世代基因與細胞療法平台，以期在腫瘤學及罕見疾病領域建立差異化競爭優勢。Kelonia 此前曾長期面臨資金困境，被 Lilly 收購標誌著其技術獲得產業界的高度肯定。",
+      "score": 7.0,
+      "title": "禮來製藥以32億美元收購Kelonia Therapeutics，深化體內基因治療布局",
+      "summary": "禮來製藥（Eli Lilly）宣布以約32億至32.5億美元收購生物科技新創公司Kelonia Therapeutics，進一步擴大其體內基因醫療（in vivo genetic medicines）領域的研發版圖。Kelonia的核心技術聚焦於體內細胞療法，目標適應症包括多發性骨髓瘤，其BCMA靶向治療方案正處於開發階段。此次收購顯示禮來持續加碼次世代癌症治療平台，試圖在不需體外細胞製備的前提下實現精準治療，降低CAR-T等傳統細胞療法的複雜性與成本。Kelonia此前面臨財務困難，此次被收購標誌著其技術獲得大型藥廠認可，也反映大型製藥企業對基因醫療賽道的戰略重視程度持續升溫。",
       "tags": [
-        "基因療法",
-        "細胞治療",
+        "基因治療",
         "企業併購",
-        "腫瘤學"
+        "多發性骨髓瘤",
+        "細胞療法"
       ],
-      "author": "STAT（2026-04-20）",
-      "source_url": "https://www.statnews.com/2026/04/20/kelonia-therapeutics-eli-lilly-slide-deck-memo/?utm_campaign=rss"
+      "author": "MedCity News（2026-04-20）",
+      "source_url": "https://medcitynews.com/2026/04/eli-lilly-kelonia-acquisition-in-vivo-cell-therapy-cancer-multiple-myeloma-bcma-genetic-medicine-lly/"
     },
     {
       "rank": 5,
-      "score": 6.8,
-      "title": "UnitedHealthcare 擴大偏鄉醫療計畫並削減事前授權要求",
-      "summary": "美國最大商業健康保險公司 UnitedHealthcare 宣布擴大其針對偏鄉地區的醫療服務計畫，同時降低部分醫療服務的事前授權（prior authorization）要求。此舉被視為回應社會對保險公司過度限制醫療可近性批評的具體行動。事前授權制度長期被醫療提供者詬病為延誤治療的主要障礙，尤其對偏鄉醫療資源本已匱乏的患者影響更為顯著。此政策調整可能對偏鄉患者的治療及時性與醫療品質產生正面影響，並對美國醫療保險體制改革的走向具有指標意義。",
+      "score": 6.5,
+      "title": "WISeR模式在六州推行後，醫療照護延誤與拒保案例增加",
+      "summary": "美國聯邦眾議員蘇珊·戴爾本（Suzan DelBene）指出，美國醫療保險和醫療補助服務中心（CMS）在六個州強制推行「浪費與不當服務削減模式」（WISeR Model）後，傳統醫療保險（Traditional Medicare）的給付拒絕案例增加，導致患者照護延誤情形惡化。WISeR模式旨在透過事前審查機制減少不必要的醫療支出，但批評者認為此舉在實際執行上造成患者獲得必要醫療服務的障礙。此議題凸顯醫療費用控制政策與患者照護可近性之間的潛在衝突，並引發醫療界對AI輔助事前授權審查機制是否合理的討論，對關注醫療支付政策的醫療機構具有參考意義。",
       "tags": [
-        "醫療保險",
-        "偏鄉醫療",
+        "醫療給付政策",
         "事前授權",
+        "醫療可近性",
+        "Medicare"
+      ],
+      "author": "Healthcare IT News（2026-04-20）",
+      "source_url": "https://www.healthcareitnews.com/news/care-delays-and-denials-grow-across-6-states-using-wiser-model-lawmaker-says"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "UnitedHealthcare擴大偏遠地區醫療計畫並縮減事前授權要求",
+      "summary": "美國最大私人健康保險公司UnitedHealthcare宣布擴大偏遠地區醫療服務計畫，並同步減少部分醫療服務的事前授權（Prior Authorization）要求。此舉被視為回應近期外界對保險公司過度限制醫療給付的批評，以及美國國會對事前授權改革的立法壓力。偏遠地區醫療計畫的擴大旨在改善農村人口獲得醫療服務的機會，降低城鄉醫療資源落差。縮減事前授權要求則有望簡化醫療提供者的行政流程，減少因審查延誤造成的照護中斷。此政策調整對於探討醫療保險給付管理模式的醫療機構與政策制定者具有參考價值。",
+      "tags": [
+        "醫療保險給付",
+        "事前授權",
+        "偏遠醫療",
         "醫療可近性"
       ],
       "author": "MedCity News（2026-04-21）",
       "source_url": "https://medcitynews.com/2026/04/unitedhealthcare-rural-health-prior-authorization/"
     },
     {
-      "rank": 6,
-      "score": 6.5,
-      "title": "美國 6 州推行 WISeR 醫療削減模式，議員警告導致照護延誤與拒絕率上升",
-      "summary": "美國眾議員 Suzan DelBene 公開指出，在美國聯邦醫療保險暨醫療補助服務中心（CMS）強制推行「浪費與不當服務削減模式」（WISeR Model）的六個試點州中，Medicare 傳統方案的醫療拒絕率明顯上升，導致患者照護出現延誤與中斷情形。WISeR 模式旨在透過演算法識別並削減被認定為浪費或不必要的醫療服務，但批評者認為此模式的實際執行已損害受益人的正當醫療需求。此議題凸顯 AI 與演算法輔助醫療審查決策在政策實施層面可能引發的公平性與臨床倫理爭議。",
-      "tags": [
-        "醫療政策",
-        "Medicare",
-        "醫療審查",
-        "人工智慧倫理"
-      ],
-      "author": "Healthcare IT News Feed（2026-04-20）",
-      "source_url": "https://www.healthcareitnews.com/news/care-delays-and-denials-grow-across-6-states-using-wiser-model-lawmaker-says"
-    },
-    {
       "rank": 7,
-      "score": 6.0,
-      "title": "OSHA 持續深化醫療場所職場暴力預防規範的政策演進",
-      "summary": "MedCity News 報導美國職業安全衛生署（OSHA）近年來針對醫療場所職場暴力預防的政策演進趨勢。醫療工作者長期面臨來自病患、家屬或訪客的身體攻擊與言語威脅風險，相關統計顯示醫療業的職場暴力事件發生率遠高於其他行業。OSHA 正逐步強化相關法規要求，推動醫療機構建立系統性的暴力預防計畫，包含風險評估、員工培訓及事件通報機制。此一政策走向反映出醫療人員職場安全議題在美國獲得更高層次的監管重視，對醫院管理與護理人力留任具有實質影響。",
+      "score": 5.5,
+      "title": "KRAS基因突變終成可成藥靶點，癌症治療迎來新里程碑",
+      "summary": "STAT News報導指出，長期被視為「不可成藥靶點」的KRAS基因突變在癌症治療領域取得重要突破。KRAS是人類癌症中最常見的致癌突變之一，廣泛存在於肺癌、大腸直腸癌及胰臟癌等癌種中，過去因其蛋白質結構特性難以被小分子藥物有效鎖定。近年來隨著共價抑制劑等新型藥物設計策略的進展，多款KRAS抑制劑陸續進入臨床試驗並獲得突破性結果，此里程碑被認為將為上述癌症患者開啟新的治療選項。報導亦提及Breakthrough Prize得獎者的相關研究貢獻，彰顯基礎科學研究對臨床轉譯的長遠影響。",
       "tags": [
-        "職場安全",
-        "醫療人員",
-        "職場暴力",
-        "法規政策"
+        "KRAS抑制劑",
+        "精準腫瘤學",
+        "標靶治療",
+        "癌症新藥"
       ],
-      "author": "MedCity News（2026-04-20）",
-      "source_url": "https://medcitynews.com/2026/04/oshas-evolving-approach-to-workplace-violence-prevention-in-healthcare/"
+      "author": "STAT News（2026-04-20）",
+      "source_url": "https://www.statnews.com/2026/04/20/biotech-news-finally-cracking-kras-as-a-druggable-target/?utm_campaign=rss"
     }
   ]
 }
