@@ -29,10 +29,9 @@ WEEKDAY_MAP  = ["星期一","星期二","星期三","星期四","星期五","星
 WEEKDAY_STR  = WEEKDAY_MAP[TODAY.weekday()]
 
 # 需要「刪除/不再出現」的日期（ISO 格式）
+# 你的最新需求：只刪 2026-04-19；4/17、4/18 恢復顯示
 EXCLUDED_DATE_ISOS: set[str] = {
-    "2026-04-15",
-    "2026-04-17",
-    "2026-04-18",
+    "2026-04-19",
 }
 
 
@@ -418,10 +417,10 @@ def main():
     )
     print(f"  JSON 備份：{json_path}")
 
-    # 4. 載入所有可用天的資料（含今日），嵌入單一 HTML
+    # 4. 載入所有可用天的資料（含今日）��嵌入單一 HTML
     print("→ 載入歷史資料並套用模板...")
     available_dates = get_available_dates()
-    all_days_data = load_all_days_data(items)
+    all_days_data   = load_all_days_data(items)
     # 防止 </script> 注入，保險起見替換
     all_days_json = json.dumps(all_days_data, ensure_ascii=False).replace(
         "</script>", r"<\/script>"
