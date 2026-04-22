@@ -1,0 +1,103 @@
+{
+  "date": "2026年04月22日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.2,
+      "title": "藥局智慧庫存系統助德州兒童醫院節省1,400萬美元",
+      "summary": "德州兒童醫院（Texas Children's Hospital）過去面臨藥局庫存即時可視性不足的根本性挑戰，臨床領導層無法掌握全院即時藥品庫存狀況。透過導入智慧藥局管理系統，醫院成功實現跨院區藥品庫存的即時追蹤與管理，最終節省高達1,400萬美元的藥品支出，且院方指出此僅為初步成效，後續效益仍持續累積。本案例展示了醫院供應鏈數位化與藥品庫存智慧化管理的實際財務效益，對於規模較大的醫療機構而言，具有高度的參考價值。此類系統能有效減少藥品浪費、避免過期損耗、優化採購流程，並提升病患用藥安全性，是醫院運營效率提升的重要切入點。",
+      "tags": [
+        "藥局管理",
+        "庫存智慧化",
+        "醫院成本控制",
+        "供應鏈數位化"
+      ],
+      "author": "Healthcare IT News Feed（2026-04-21）",
+      "source_url": "https://www.healthcareitnews.com/news/pharmacy-system-saves-texas-childrens-hospital-14m-and-thats-just-starters"
+    },
+    {
+      "rank": 2,
+      "score": 7.8,
+      "title": "AI技術下一個前沿：提升病患就醫體驗",
+      "summary": "Healthcare IT News 針對醫療 AI 的應用趨勢進行深度探討，指出 AI 的下一個重要發展領域將聚焦於病患體驗的優化與提升。報導探討如何透過 AI 技術改善病患與醫療機構之間的互動流程，包含預約管理、候診體驗、出院後追蹤照護等多個環節。AI 的應用不再僅限於臨床診斷或行政效率，而是延伸至病患旅程的全面優化，涵蓋個人化溝通、即時回饋收集以及主動式照護介入等面向。此趨勢代表醫療 AI 從後台輔助工具逐漸轉型為病患直接接觸的前端服務系統，對醫療機構的服務模式與品質管理帶來深遠影響。",
+      "tags": [
+        "病患體驗",
+        "醫療AI應用",
+        "數位醫療",
+        "照護品質"
+      ],
+      "author": "Healthcare IT News Feed（2026-04-21）",
+      "source_url": "https://www.healthcareitnews.com/video/ais-next-frontier-patient-experience"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "電腦視覺技術在醫院的多元應用潛力",
+      "summary": "Healthcare IT News 報導醫院如何運用電腦視覺（Computer Vision）技術提升醫療安全與運作效率。電腦視覺在醫療場域的潛在應用範疇廣泛，包括手術室器械辨識與計數、病患跌倒風險偵測、感染控制手部衛生監測、藥物調配錯誤預防，以及急診室壅塞即時監控等。此技術能在不增加人力負擔的前提下，持續進行視覺化監測與分析，有效補足傳統人工監控的盲點。報導強調，隨著硬體成本下降與深度學習模型精準度提升，電腦視覺已進入醫院實際部署的可行性門檻，成為智慧醫院建設的重要組成技術之一。",
+      "tags": [
+        "電腦視覺",
+        "醫院安全",
+        "智慧醫院",
+        "深度學習"
+      ],
+      "author": "Healthcare IT News Feed（2026-04-21）",
+      "source_url": "https://www.healthcareitnews.com/video/hospitals-can-make-use-computer-vision"
+    },
+    {
+      "rank": 4,
+      "score": 7.2,
+      "title": "Revolution Medicines KRAS靶向藥物在AACR發表亮眼成果，胰臟癌治療前景受矚目",
+      "summary": "美國癌症研究協會（AACR）年會上，Revolution Medicines 發表其 KRAS 靶向治療藥物的最新臨床試驗數據，結果顯示該藥物對胰臟癌等難治性癌症具有顯著療效。胰臟癌因早期診斷率低、對化學治療反應差，向來預後不佳，而 KRAS 基因突變與多種消化道惡性腫瘤密切相關。此次數據不僅強化了該藥物的療效證據，公司更進一步展示了次世代 KRAS 抑制劑的研發管線，被業界視為「超越現有藥物的全新藥物類別」雛形。NCI 研究主任亦在會議中表示癌症研究現況穩健，對研究持續推進展現信心。",
+      "tags": [
+        "KRAS靶向治療",
+        "胰臟癌",
+        "腫瘤學",
+        "臨床試驗"
+      ],
+      "author": "STAT（2026-04-21）",
+      "source_url": "https://www.statnews.com/2026/04/21/aacr-2026-pancreatic-cancer-revolution-medicines-future/?utm_campaign=rss"
+    },
+    {
+      "rank": 5,
+      "score": 6.8,
+      "title": "Roche多發性硬化症新藥試驗成功後申請監管核准，安全性疑慮仍受關注",
+      "summary": "瑞士製藥大廠 Roche 在公布其實驗性多發性硬化症（Multiple Sclerosis, MS）藥物的最新臨床試驗數據後，正式啟動向監管機構申請核准的程序。臨床試驗結果顯示該藥物具有療效，但與此同時，安全性相關問題仍是外界審視的焦點，監管機構的審查過程預計將對此進行深入評估。多發性硬化症為自體免疫疾病，影響中樞神經系統，目前治療選項雖多，但仍有相當比例的患者療效不佳或出現嚴重副作用，新藥的核准與否對此族群具有重要臨床意義。本案例亦反映出創新藥物在療效與安全性之間取得平衡的核准挑戰。",
+      "tags": [
+        "多發性硬化症",
+        "新藥審查",
+        "神經內科",
+        "藥物安全性"
+      ],
+      "author": "STAT（2026-04-21）",
+      "source_url": "https://www.statnews.com/2026/04/21/roche-multiple-scleroris-efficacy-safety/?utm_campaign=rss"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "Kyverna Therapeutics計劃申請細胞治療用於僵人症候群FDA核准",
+      "summary": "Kyverna Therapeutics 宣布計劃向美國食品藥物管理局（FDA）提交其細胞治療產品的核准申請，目標適應症為罕見疾病「僵人症候群」（Stiff Person Syndrome）。該公司的晚期臨床試驗顯示，一次性細胞治療介入能有效改善患者的行動能力，並顯著降低疾病相關失能程度。僵人症候群是一種以進行性肌肉僵硬及痙攣為特徵的罕見自體免疫神經疾病，目前缺乏根治性治療方法，患者多依賴症狀控制藥物。此細胞療法的研發突破不僅具有高度臨床意義，也展現出細胞與基因治療技術在罕見疾病領域的潛力，為相關患者帶來新的治療希望。",
+      "tags": [
+        "細胞治療",
+        "罕見疾病",
+        "FDA申請",
+        "神經免疫"
+      ],
+      "author": "STAT（2026-04-21）",
+      "source_url": "https://www.statnews.com/2026/04/21/kyverna-therapeutics-stiff-person-syndrome/?utm_campaign=rss"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "ONC報告揭示行為健康資料交換挑戰阻礙醫療互通性",
+      "summary": "美國國家衛生資訊技術協調辦公室（ONC）結合藥物濫用與心理健康服務管理局（SAMHSA）的數據，針對行為健康照護場域中健康資訊科技的使用現況進行深入調查。報告結果顯示，電子病歷系統在行為健康機構中的普及率與使用深度仍顯不足，且機構間的資料交換面臨法規、技術與隱私保護等多重障礙，嚴重影響精神科、物質使用障礙等領域的照護連續性與資訊互通性。行為健康資料長期以來因特殊隱私保護法規（如42 CFR Part 2）而難以整合進一般醫療資訊系統，此報告指出該問題仍是當前醫療資訊化的重大瓶頸。",
+      "tags": [
+        "醫療互通性",
+        "行為健康",
+        "電子病歷",
+        "資料交換"
+      ],
+      "author": "Healthcare IT News Feed（2026-04-21）",
+      "source_url": "https://www.healthcareitnews.com/news/behavioral-health-data-exchange-challenges-impede-interoperability-says-onc"
+    }
+  ]
+}
