@@ -1,0 +1,103 @@
+{
+  "date": "2026年04月23日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "聯邦AI預授權試驗導致老年患者照護延誤，參議員呼籲廢止",
+      "summary": "美國CMS推行的WISER計畫（一項將AI應用於Medicare事前授權審查的試驗性方案）在華盛頓州醫院執行後，出現導致老年患者照護延誤的情況。根據最新報告，該計畫的AI審查機制造成治療核准時程拉長，影響患者及時獲得醫療服務。當地一名聯邦參議員據此要求廢止該計畫，認為其對患者造成實質傷害。此事件凸顯AI應用於保險事前授權流程時，在演算法設計、審查時效性與臨床照護需求之間存在的結構性矛盾，並引發外界對AI醫療決策透明度與問責機制的高度關注，為各國醫療體系在推動類似AI行政流程自動化時提供重要的警示案例。",
+      "tags": [
+        "AI事前授權",
+        "Medicare",
+        "照護延誤",
+        "醫療政策"
+      ],
+      "author": "STAT News（2026-04-22）",
+      "source_url": "https://www.statnews.com/2026/04/22/cms-wiser-program-delays-care-washington-state-hospitals-senator-says/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "Atropos Health 擴大真實世界醫學證據庫並整合新AI工作流程",
+      "summary": "Atropos Health宣布其Alexandria真實世界證據（Real World Evidence）資料庫已累積3,300萬筆精準實證醫學研究發現，並計畫透過不斷擴展的臨床工作流程合作夥伴網絡，使該資料庫可供約三分之一的美國醫師及約半數醫療體系存取使用。此次更新同步宣布多項新AI整合功能，旨在協助臨床醫師在實際診療流程中快速獲取針對罕見或新型醫學問題的循證答案。此舉被視為將大規模真實世界數據與臨床決策支援深度融合的重要進展，有助於縮短醫學文獻與臨床實踐之間的落差，對於提升複雜疾病的診療品質具有潛在意義。",
+      "tags": [
+        "真實世界證據",
+        "臨床決策支援",
+        "AI整合",
+        "精準醫療"
+      ],
+      "author": "Healthcare IT News（2026-04-22）",
+      "source_url": "https://www.healthcareitnews.com/news/atropos-tackles-novel-medical-evidence-review-and-announces-new-ai-integrations"
+    },
+    {
+      "rank": 3,
+      "score": 7.8,
+      "title": "Phoenix Children's 以臨床儀表板改善兒童心跳停止後照護品質",
+      "summary": "Phoenix Children's醫院為解決兒科心跳停止後照護（post-cardiac arrest care）指引與實際床邊執行之間的落差問題，導入專門設計的臨床監控儀表板，整合關鍵照護指標以即時引導醫療團隊依循實證指引執行治療。該院指出，雖然相關照護指引已建立完善，但臨床實踐中仍存在執行差異，導致部分患者錯失最佳治療時機。透過儀表板提供即時數據可視化，醫療人員得以即時識別照護缺口並快速調整處置策略，從而提升整體照護品質與一致性。此案例展示數位化臨床工具在提升高風險兒科照護標準化程度上的實際應用成效。",
+      "tags": [
+        "臨床儀表板",
+        "心跳停止後照護",
+        "兒科重症",
+        "照護品質"
+      ],
+      "author": "Healthcare IT News（2026-04-22）",
+      "source_url": "https://www.healthcareitnews.com/news/phoenix-childrens-boosts-post-cardiac-arrest-health-dashboard"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "KLAS報告：CMIO與CNIO將臨床醫師工作體驗重新定位為財務效益關鍵槓桿",
+      "summary": "KLAS Research最新報告指出，美國醫療機構的首席醫療資訊官（CMIO）與首席護理資訊官（CNIO）正在轉變論述框架，將改善臨床醫師工作體驗（clinician experience）不再單純視為員工福祉議題，而是積極定位為可帶來直接財務效益的策略性槓桿。報告顯示，透過優化臨床資訊系統、減少行政負擔與文書作業，可有效降低人員流失率、提升工作效率，進而對醫療機構整體營運成本產生顯著影響。此一思維轉變正推動醫院高層更積極投資於臨床工作流程改善與數位工具整合，以AI輔助減少醫師過度負荷被視為重要手段之一。",
+      "tags": [
+        "臨床醫師體驗",
+        "CMIO",
+        "醫療資訊管理",
+        "數位轉型"
+      ],
+      "author": "Healthcare IT News（2026-04-22）",
+      "source_url": "https://www.healthcareitnews.com/news/klas-cmios-and-cnios-reframe-clinician-experience-financial-lever"
+    },
+    {
+      "rank": 5,
+      "score": 7.2,
+      "title": "醫療穿戴式裝置數據爆炸性成長，信任度成為臨床應用的核心過濾機制",
+      "summary": "隨著穿戴式健康監測裝置快速普及，所產生的生理數據量呈指數級增長，但數據品質良莠不齊的問題日益突出。MedCity News分析指出，在龐大的穿戴數據噪音中，「信任」成為判斷哪些數據值得臨床採用的關鍵過濾機制，涵蓋對裝置量測準確性的信任、對演算法解讀的信任，以及對數據安全與隱私保護的信任。文章探討醫療機構、監管單位與科技廠商如何共同建立穿戴數據的可信度框架，以確保這些數據能真正輔助臨床決策而非增加醫師負擔。此議題對於推動遠端患者監測與數位健康管理的醫療體系具有重要參考價值。",
+      "tags": [
+        "穿戴式裝置",
+        "數位健康",
+        "數據品質",
+        "遠端監測"
+      ],
+      "author": "MedCity News（2026-04-22）",
+      "source_url": "https://medcitynews.com/2026/04/wearable-noise-is-exploding-trust-is-the-filter/"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "AI強化醫療網路安全與改善患者預後的雙重應用探討",
+      "summary": "Healthcare IT News發布影音報導，探討AI技術在醫療機構網路安全防護與患者照護結果改善兩大面向的協同應用。隨著醫療體系數位化程度提升，網路攻擊事件頻率增加，醫院系統的資安韌性直接影響臨床服務的連續性與患者安全。報導討論如何運用AI進行即時威脅偵測、異常行為識別及事件回應，同時探索AI在臨床路徑優化與早期預警方面的應用，說明資安與醫療品質並非對立目標，而是可透過整合性AI策略共同提升的關鍵面向。",
+      "tags": [
+        "醫療資安",
+        "AI應用",
+        "網路安全",
+        "患者安全"
+      ],
+      "author": "Healthcare IT News（2026-04-22）",
+      "source_url": "https://www.healthcareitnews.com/video/bolstering-cybersecurity-and-enhancing-patient-outcomes-ai"
+    },
+    {
+      "rank": 7,
+      "score": 6.8,
+      "title": "988心理危機熱線上線後青少年自殺率下降11%，研究顯示顯著效益",
+      "summary": "刊登於JAMA的最新研究發現，美國於2022年正式啟用三碼988全國自殺與危機求助熱線後，青少年族群的自殺率顯著下降約11%。研究分析熱線啟用前後的人口統計數據，發現此一易於記憶、降低求助門檻的三碼熱線設計，有效提高了處於心理危機青少年的求助意願與即時介入可及性。此結果為公共衛生介入措施的有效性提供重要實證基礎，並強調建立簡便、去污名化的心理健康危機介入管道對青少年族群保護的關鍵作用，對各國心理健康政策制定具有參考意義。",
+      "tags": [
+        "心理健康",
+        "自殺防治",
+        "青少年健康",
+        "公共衛生介入"
+      ],
+      "author": "STAT News（2026-04-22）",
+      "source_url": "https://www.statnews.com/2026/04/22/988-hotline-linked-11-percent-drop-youth-suicide-jama-study/?utm_campaign=rss"
+    }
+  ]
+}
