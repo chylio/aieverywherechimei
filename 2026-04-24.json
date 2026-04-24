@@ -1,0 +1,103 @@
+{
+  "date": "2026年04月24日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "CMS 與 FDA 攜手推動突破性醫療器材快速給付新途徑",
+      "summary": "美國聯邦醫療保險與補助服務中心（CMS）與食品藥物管理局（FDA）正式提議建立一條新的、更快速的 Medicare 給付審查路徑，專門針對 FDA 認定為「突破性醫療器材」的產品。此舉旨在縮短創新醫療技術從獲批到臨床實際應用之間的等待期，解決長期以來因給付流程冗長導致患者無法及時受益的問題。該提案若落實，將對醫療器材製造商、醫療機構及患者群體產生深遠影響，並可能重塑美國醫療科技創新的商業化生態系統。此案代表美國政府層級在監管與給付協調上的重要政策突破，業界高度關注其具體執行細節與時程規劃。",
+      "tags": [
+        "醫療器材監管",
+        "FDA突破性器材",
+        "Medicare給付政策",
+        "醫療科技創新"
+      ],
+      "author": "STAT（2026-04-23）",
+      "source_url": "https://www.statnews.com/2026/04/23/cms-fda-propose-new-faster-breakthrough-devices-coverage/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.2,
+      "title": "Regeneron 聽力損失基因療法獲 FDA 歷史性批准",
+      "summary": "Regeneron 開發的聽力損失基因療法（Otarmeni）獲得美國 FDA 批准，成為全球首款針對聽力損失適應症的基因療法。該療法以修復 OTOF 基因（編碼 otoferlin 蛋白）為機轉，主要用於治療因 otoferlin 蛋白缺乏所致的先天性重度至極重度感音神經性聽力損失患者。此一里程碑式核准不僅為罕見遺傳性耳疾患者帶來全新治療選項，亦為基因療法在感覺器官疾病領域的應用開創先例。該療法由 DB-OTO / REGN 合作開發，其臨床試驗結果顯示患者聽力功能獲得顯著改善，業界對後續基因療法在其他感官疾患的延伸應用持高度期待。",
+      "tags": [
+        "基因療法",
+        "聽力損失",
+        "FDA核准",
+        "罕見疾病"
+      ],
+      "author": "MedCity News（2026-04-23）",
+      "source_url": "https://medcitynews.com/2026/04/regeneron-gene-therapy-hearing-loss-otarmeni-fda-approval-otof-otoferlin-db-oto-regn/"
+    },
+    {
+      "rank": 3,
+      "score": 7.8,
+      "title": "新世代護理師必須具備臨床級 AI 操作訓練能力",
+      "summary": "Healthcare IT News 發布相關報導，強調隨著醫療機構 AI 工具普及，臨床級（clinical-grade）AI 訓練已成為新進護理師教育養成的必要組成部分。文章指出，護理師不僅需理解 AI 系統在床邊照護、臨床決策支持等情境中的操作方式，更需具備辨別 AI 輸出結果準確性與局限性的能力。若護理人員欠缺相關訓練，可能導致 AI 輔助決策被誤用或忽視，進而影響患者安全。此議題呼應全球醫療教育體系正面臨的結構性挑戰，即如何在傳統臨床技能培訓中有效整合數位健康與 AI 素養課程，以培育能勝任 AI 輔助醫療環境的下一代護理人員。",
+      "tags": [
+        "護理教育",
+        "臨床AI訓練",
+        "醫療人員培訓",
+        "AI素養"
+      ],
+      "author": "Healthcare IT News（2026-04-23）",
+      "source_url": "https://www.healthcareitnews.com/video/clinical-grade-ai-training-must-new-nurses"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "矽谷頂尖創投共同支持新型健康科技住院醫師培訓計畫",
+      "summary": "由 AI Health Fund 主導，多家矽谷頂尖創投機構共同支持一項全新的健康科技「住院醫師培訓計畫（Residency Program）」正式啟動。該計畫旨在培養能夠橋接臨床實務與科技創新的跨領域人才，參與者將在健康科技公司中接受系統性實務訓練，並深度接觸 AI、數位醫療等前沿應用領域。此舉反映矽谷科技投資生態正逐步將人才培育納入健康科技發展策略的核心，試圖解決醫療 AI 落地過程中臨床專業人才短缺的結構性問題。此計畫模式若能成功複製，將為醫療 AI 人才供應鏈提供重要示範。",
+      "tags": [
+        "健康科技人才培育",
+        "創投投資",
+        "醫療AI生態系",
+        "數位醫療"
+      ],
+      "author": "MedCity News（2026-04-24）",
+      "source_url": "https://medcitynews.com/2026/04/silicon-valley-health-tech/"
+    },
+    {
+      "rank": 5,
+      "score": 7.2,
+      "title": "醫療機構臨床與營運人員如何有效導入新科技：主要挑戰與策略",
+      "summary": "Healthcare IT News 深入報導醫療機構在推動資訊科技採用（adoption）方面所面臨的核心挑戰。報導指出，即使醫院部署了最先進的健康資訊科技系統或健全的電子病歷（EHR）平台，若臨床及行政人員未能實際使用，所有投資均將失去意義。文章訪談多位醫療資訊長（CIO）及健康 IT 專家，歸納出影響員工採用新技術的主要障礙，包括工作流程設計不符合臨床習慣、教育訓練不足、變革管理機制缺失，以及系統易用性問題。文章同時整理了推動成功導入的最佳實務，強調跨部門溝通與高層支持的關鍵作用。",
+      "tags": [
+        "健康資訊科技導入",
+        "變革管理",
+        "電子病歷",
+        "醫療數位轉型"
+      ],
+      "author": "Healthcare IT News（2026-04-23）",
+      "source_url": "https://www.healthcareitnews.com/news/how-get-clinical-and-ops-staff-adopt-new-tech-major-health-it-challenge"
+    },
+    {
+      "rank": 6,
+      "score": 6.8,
+      "title": "Slalom 與 OpenAI 合作：在醫療與生命科學領域規模化落實負責任 AI",
+      "summary": "Healthcare IT News 發布由 Slalom 與 OpenAI 共同製作的資源報告，聚焦如何在醫療保健及生命科學機構中大規模推行「負責任 AI（Responsible AI）」原則。報告探討在複雜醫療環境中，如何建立 AI 治理框架、確保演算法透明度、降低偏誤風險，並符合法規要求。OpenAI 的大型語言模型應用場景被具體討論，涵蓋臨床文件自動化、患者溝通優化及藥物研發加速等面向。報告強調，規模化 AI 部署不能僅追求效率，還必須將倫理評估、員工培訓及持續監測機制納入整體策略，以維護患者安全與機構公信力。",
+      "tags": [
+        "負責任AI",
+        "AI治理",
+        "生命科學",
+        "大型語言模型"
+      ],
+      "author": "Healthcare IT News（2026-04-23）",
+      "source_url": "https://www.healthcareitnews.com/resource/operationalizing-responsible-ai-scale-healthcare-life-sciences-slalom-and-openai"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "AI 應作為醫療保險提供者與支付方協作的橋梁，而非軍備競賽工具",
+      "summary": "Healthcare IT News 影音評論指出，醫療 AI 的發展走向正在引發業界對「提供者（provider）與支付方（payer）AI 軍備競賽」的隱憂。評論者認為，若雙方各自發展對立性 AI 系統（如保險公司以 AI 加速拒付審查、醫院以 AI 強化申訴能力），將導致系統性資源浪費，最終損害患者利益。文章主張應將 AI 定位為促進提供者與支付方協作的「來回交流工具（volley）」，透過共享資料、透明演算法及一致化的醫療品質標準，共同提升照護效率與可近性。此觀點為當前醫療 AI 治理討論提供重要的系統性視角。",
+      "tags": [
+        "醫療AI治理",
+        "保險支付方",
+        "提供者與支付方關係",
+        "醫療政策"
+      ],
+      "author": "Healthcare IT News（2026-04-23）",
+      "source_url": "https://www.healthcareitnews.com/video/ai-volley-not-provider-payer-arms-race"
+    }
+  ]
+}
