@@ -1,0 +1,103 @@
+{
+  "date": "2026年04月25日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.8,
+      "title": "猶他州醫療委員會要求立即暫停AI醫師處方更新實驗",
+      "summary": "猶他州一項由AI機器人（Doctronic）協助患者續開處方的試點計畫，遭到該州醫療委員會強烈反對，委員會要求立即暫停該實驗。此案例揭示了在真實臨床環境中部署自主AI診療工具所面臨的監管挑戰與醫療倫理爭議。醫療委員會的核心疑慮聚焦於AI在缺乏充分醫師監督的情況下執行處方行為的安全性，以及現行醫療法規框架是否足以規範此類創新模式。此事件具有重要的政策參考意義，顯示即便在推動醫療AI應用的積極環境下，臨床安全標準與專業監管機制仍構成實質性的部署門檻，對全球各地嘗試推行類似AI門診試點的醫療機構具有警示作用。",
+      "tags": [
+        "醫療AI監管",
+        "自主AI診療",
+        "患者安全",
+        "政策倫理"
+      ],
+      "author": "STAT（2026-04-24）",
+      "source_url": "https://www.statnews.com/2026/04/24/doctronic-ai-doctor-pilot-utah-face-backlash-medical-board/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "醫療AI進入新階段：醫師主導開發臨床應用程式的雙重趨勢",
+      "summary": "Healthcare IT News報導指出，醫療AI正邁入一個新發展階段，其中最值得關注的趨勢之一是臨床醫師開始利用代理式AI工具（Agentic AI）如Claude Code，自主開發客製化臨床應用程式，形成「醫師主導軟體開發」的新模式。此一轉變意味著臨床需求與技術實作之間的距離大幅縮短，有助於加速開發符合真實場景的醫療工具。然而，專家同時警告，此類工具雖賦予臨床人員更高的技術自主性，但亦帶來嚴謹的治理、資料安全及軟體品質管控需求。報導呼籲醫療機構在鼓勵臨床創新的同時，須建立相應的監督與驗證機制，以確保自建工具的安全性與合規性。",
+      "tags": [
+        "代理式AI",
+        "臨床應用開發",
+        "醫療AI創新",
+        "醫師賦能"
+      ],
+      "author": "Healthcare IT News（2026-04-24）",
+      "source_url": "https://www.healthcareitnews.com/news/ai-may-be-approaching-new-phase-healthcare-two-fronts"
+    },
+    {
+      "rank": 3,
+      "score": 7.2,
+      "title": "影像技術如何協助評估GLP-1藥物療效",
+      "summary": "MedCity News探討醫學影像技術在評估GLP-1受體促效劑（如semaglutide）療效方面的潛力。傳統上，GLP-1藥物療效主要以體重變化作為主要評估指標，但本文指出影像技術（如MRI、CT及超音波）可提供更精確的體組成分析，包括內臟脂肪量、肝臟脂肪浸潤及心臟代謝改善等深層生理變化的客觀量化。這些影像生物標記（imaging biomarkers）不僅能更早期且準確地判斷個別患者對GLP-1治療的反應性，亦有助於指導個人化治療決策。此趨勢對代謝疾病、肥胖症及糖尿病管理的精準醫療實踐具有重要的臨床參考價值。",
+      "tags": [
+        "GLP-1",
+        "醫學影像",
+        "精準醫療",
+        "代謝疾病"
+      ],
+      "author": "MedCity News（2026-04-24）",
+      "source_url": "https://medcitynews.com/2026/04/imaging-glp-1-weight-loss/"
+    },
+    {
+      "rank": 4,
+      "score": 6.8,
+      "title": "放射性藥物精準療法重塑癌症照護新局",
+      "summary": "MedCity News刊載專文，介紹放射性藥物（Radiopharmaceuticals）在癌症治療領域的最新進展。不同於傳統化學治療對全身的影響，放射性藥物能攜帶放射性同位素精準靶向癌細胞，達到定點照射與殺滅腫瘤的效果，大幅降低對正常組織的傷害。目前此類療法在前列腺癌、神經內分泌腫瘤等領域已有核准藥品（如Lutetium-177 DOTATATE），並有多項臨床試驗持續推進。文章指出，隨著生物標記篩選技術進步及製程能力提升，放射性藥物有望成為多種癌症的重要精準治療選項，全球各大藥廠與生技公司亦積極布局這一新興市場，顯示其臨床與商業潛力均備受矚目。",
+      "tags": [
+        "放射性藥物",
+        "癌症精準治療",
+        "核醫治療",
+        "腫瘤學"
+      ],
+      "author": "MedCity News（2026-04-24）",
+      "source_url": "https://medcitynews.com/2026/04/precision-delivered-how-radiopharmaceuticals-are-reshaping-cancer-care/"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "FDA加速審查三種迷幻藥物用於精神健康治療",
+      "summary": "根據STAT News報導，美國FDA宣布將加速審查三種迷幻性物質作為精神疾病治療用途，此舉與白宮的政策支持方向一致。這一政策轉向標誌著共和黨對精神活性物質監管態度的重大轉變，打破過去數十年來對迷幻藥物的強硬禁制立場。報導指出，此類物質包含的治療候選項目受益於白宮行政命令的政治推力，加速進入FDA正式審查流程。目前迷幻藥物在臨床研究上已累積一定的憂鬱症、PTSD等難治型精神疾病療效證據，此監管政策鬆綁若持續推進，將對精神醫學治療選項的多元化帶來深遠影響，並可能改變全球精神藥物監管走向。",
+      "tags": [
+        "迷幻藥物",
+        "精神健康治療",
+        "FDA審查",
+        "藥物政策"
+      ],
+      "author": "STAT（2026-04-24）",
+      "source_url": "https://www.statnews.com/2026/04/24/trump-psychedelic-drugs-fda-priority-review-mental-health-treatment/?utm_campaign=rss"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "新創公司協助醫療機構管理拒賠申訴獲得1600萬美元融資",
+      "summary": "MedCity News報導，一家專注於協助醫療提供者管理保險拒賠（Denied Claims）與申訴流程的新創公司完成1600萬美元融資。保險理賠被拒是美國醫療機構面臨的重大財務挑戰，每年耗費大量行政人力處理申訴程序，直接影響醫療機構的營運效率與收入。該公司利用AI與自動化技術，協助醫療機構識別拒賠原因、優化文件提交流程及追蹤申訴進度，以提升理賠成功率並縮短回收帳款時程。此次融資顯示投資人對醫療行政AI自動化解決方案的高度關注，也反映醫療收入週期管理（Revenue Cycle Management）市場的持續擴張趨勢。",
+      "tags": [
+        "醫療行政AI",
+        "理賠管理",
+        "收入週期管理",
+        "醫療新創"
+      ],
+      "author": "MedCity News（2026-04-24）",
+      "source_url": "https://medcitynews.com/2026/04/startup-helping-providers-manage-denied-claims-raises-16m/"
+    },
+    {
+      "rank": 7,
+      "score": 5.5,
+      "title": "學術期刊濫用客座編輯制度助長劣質科學研究",
+      "summary": "STAT News報導，學術期刊對客座編輯（Guest Editors）的日益依賴，已導致部分期刊淪為不良科學研究的溫床。事件導火線為一份遺傳學期刊近期撤回幾乎整個特刊（Special Issue）的多篇論文，調查顯示這些論文的同儕審查程序嚴重失當，與客座編輯管理鬆散密切相關。報導指出，此類問題在開放取用（Open Access）期刊及快速擴張的出版生態中尤為突出，部分客座編輯被發現存在利益衝突或同儕審查舞弊行為。此事件引發學術界對研究出版品質管控的廣泛討論，尤其對醫療研究領域的證據可信度與臨床決策參考價值產生潛在衝擊。",
+      "tags": [
+        "學術誠信",
+        "期刊撤稿",
+        "同儕審查",
+        "醫學研究品質"
+      ],
+      "author": "STAT（2026-04-24）",
+      "source_url": "https://www.statnews.com/2026/04/24/science-journal-retractions-highlight-guest-editor-special-edition-problem/?utm_campaign=rss"
+    }
+  ]
+}
