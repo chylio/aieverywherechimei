@@ -31,11 +31,14 @@ jobs:
 
       - name: Generate Daily Brief
         env:
+          TZ: Asia/Taipei
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           AUDIENCE: ${{ github.event.inputs.audience || 'executive' }}
         run: python scripts/generate_brief.py
 
       - name: Commit files to main
+        env:
+          TZ: Asia/Taipei
         run: |
           TODAY=$(date '+%Y-%m-%d')
 
