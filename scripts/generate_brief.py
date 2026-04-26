@@ -18,21 +18,27 @@ import anthropic
 import feedparser
 from jinja2 import Environment, FileSystemLoader
 
+# 明確指定台灣時區做「今日」日切，避免 GitHub runner 預設 UTC 造成跨日誤判
+from zoneinfo import ZoneInfo
 
-# ─── 設定 ───────────────────────────────────────────────────────────[...]
 
+# ─── 設定 ────────────────────────────────────────────────────────────────
 
-OUTPUT_DIR   = pathlib.Path("output")
+OUTPUT_DIR = pathlib.Path("output")
 TEMPLATE_DIR = pathlib.Path("templates")
-TODAY        = datetime.date.today()
-TODAY_STR    = TODAY.strftime("%Y年%m月%d日")
-WEEKDAY_MAP  = ["星期一","星期二","星期三","星期四","星期五","星期六","星期日"]
-WEEKDAY_STR  = WEEKDAY_MAP[TODAY.weekday()]
+
+TAIPEI_TZ = ZoneInfo("Asia/Taipei")
+TODAY = datetime.datetime.now(TAIPEI_TZ).date()
+TODAY_STR = TODAY.strftime("%Y年%m月%d日")
+WEEKDAY_MAP = ["星期一", "星期二", "星期三", "星期四", "星期五", "星期六", "星期日"]
+WEEKDAY_STR = WEEKDAY_MAP[TODAY.weekday()]
 
 # 需要「刪除/不再出現」的日期（ISO 格式）
 # 你的最新需求：只刪 2026-04-19；4/17、4/18 恢復顯示
 EXCLUDED_DATE_ISOS: set[str] = {
-    "2026-04-15","2026-04-18","2026-04-19",
+    "2026-04-15",
+    "2026-04-18",
+    "2026-04-19",
 }
 
 
@@ -49,14 +55,16 @@ def get_available_dates() -> list[dict]:
 
         json_path = ROOT_DIR / f"{d.isoformat()}.json"
         is_today = (d == TODAY)
-        dates.append({
-            "date": d,
-            "month_day": d.strftime("%m/%d"),
-            "date_iso": d.isoformat(),
-            "weekday": WEEKDAY_MAP[d.weekday()],
-            "available": json_path.exists() or is_today,
-            "is_today": is_today,
-        })
+        dates.append(
+            {
+                "date": d,
+                "month_day": d.strftime("%m/%d"),
+                "date_iso": d.isoformat(),
+                "weekday": WEEKDAY_MAP[d.weekday()],
+                "available": json_path.exists() or is_today,
+                "is_today": is_today,
+            }
+        )
     return dates
 
 
@@ -75,6 +83,7 @@ def parse_entry_date(entry) -> datetime.date | None:
 def _normalize_title(title: str) -> str:
     """標題正規化：去空白、全小寫、去常見標點。"""
     import re
+
     return re.sub(r"[\s\W_]+", "", title or "").lower()
 
 
@@ -114,8 +123,8 @@ def load_all_days_data(items_today: list[dict]) -> dict:
     all_data = {
         TODAY.isoformat(): {
             "date_str": TODAY_STR,
-            "weekday":  WEEKDAY_STR,
-            "items":    items_today,
+            "weekday": WEEKDAY_STR,
+            "items": items_today,
         }
     }
     for i in range(1, 7):
@@ -131,8 +140,8 @@ def load_all_days_data(items_today: list[dict]) -> dict:
                 raw = json.loads(json_path.read_text(encoding="utf-8"))
                 all_data[d.isoformat()] = {
                     "date_str": raw.get("date", d.strftime("%Y年%m月%d日")),
-                    "weekday":  WEEKDAY_MAP[d.weekday()],
-                    "items":    raw.get("items", []),
+                    "weekday": WEEKDAY_MAP[d.weekday()],
+                    "items": raw.get("items", []),
                 }
             except Exception as e:
                 print(f"  [WARN] 讀取歷史 JSON 失敗 {json_path}: {e}")
@@ -148,10 +157,11 @@ RSS_FEEDS = [
     "https://www.statnews.com/feed/",
     # 台灣
     "https://www.mohw.gov.tw/rss-16.html",
-    "https://udn.com/rssfeed/news/2/6644?ch=news",   # 聯合報數位/科技
+    "https://udn.com/rssfeed/news/2/6644?ch=news",  # 聯合報數位/科技
 ]
 
-SYSTEM_PROMPT = textwrap.dedent("""
+SYSTEM_PROMPT = textwrap.dedent(
+    """
     你是醫療 AI 新聞的專業情報代理人。
 
     你的任務是分析提供的醫療 AI 新聞，進行專業評鑑後產出每日簡報。
@@ -183,16 +193,17 @@ SYSTEM_PROMPT = textwrap.dedent("""
     - 最多 7 則，按評分高低排列
     - tags 每則 2–4 個，繁體中文，不含 # 符號
     - summary 使用繁體中文、專業醫療用語，僅客觀描述新聞事實
-    - 若某則新聞無來源 URL，source_url 填 ""
+    - 若某則新聞無��源 URL，source_url 填 ""
     - 僅回傳 JSON，不要有其他說明文字
     - **嚴禁**在 summary 或任何欄位中出現對奇美醫院的建議、行動方針、策略建議或啟示；summary 只陳述新聞本身的事實與意義
     - **嚴禁**納入未出現在使用者訊息候選清單中的新聞；不得從訓練資料或記憶中補充任何「你知道的」新聞
     - **嚴禁**修改候選清單提供的「實際發布日期」；author 欄位末尾的日期必須與原始日期完全一致
     - 若候選新聞為空，回傳 {"items": []}，切勿自行捏造
-""")
+"""
+)
 
 
-# ─── 新聞抓取 ────────────────────────────────────────────────────────��[...]
+# ─── 新聞抓取 ─────────────────────────────────────────────────────────────
 
 
 def fetch_news(
@@ -234,11 +245,11 @@ def fetch_news(
                     continue
 
                 item = {
-                    "title":   title,
+                    "title": title,
                     "summary": entry.get("summary", entry.get("description", ""))[:400].strip(),
-                    "link":    link,
-                    "source":  feed.feed.get("title", url),
-                    "date":    entry.get("published", pub_date.isoformat()),
+                    "link": link,
+                    "source": feed.feed.get("title", url),
+                    "date": entry.get("published", pub_date.isoformat()),
                     "pub_date": pub_date.isoformat(),
                     "is_from_yesterday": False,
                 }
@@ -274,7 +285,7 @@ def format_news_for_prompt(articles: list[dict]) -> str:
         return "（今日 RSS 無法取得新聞，請回傳 {\"items\": []}，不要編造內容）"
     lines = [
         f"今日為 {TODAY.isoformat()}（{TODAY_STR}）。",
-        f"以下是已通過日期過濾、去重檢查後的候選新聞，請進行評鑑與排名：\n",
+        "以下是已通過日期過濾、去重檢查後的候選新聞，請進行評鑑與排名：\n",
     ]
     for i, a in enumerate(articles, 1):
         tag = "【今日】" if not a.get("is_from_yesterday") else "【昨日備用】"
@@ -290,7 +301,7 @@ def format_news_for_prompt(articles: list[dict]) -> str:
     return "\n".join(lines)
 
 
-# ─── Claude API 呼叫 ────────────────────────────────────────────────────
+# ─── Claude API 呼叫 ──────────────────────────────────────────────────────
 
 
 def parse_json_response(raw: str) -> list[dict] | None:
@@ -321,8 +332,12 @@ def parse_json_response(raw: str) -> list[dict] | None:
     return None
 
 
-def call_claude(news_text: str, max_retries: int = 3) -> list[dict]:
-    """呼叫 Claude API，回傳排名後的新聞清單。失敗時最多重試 max_retries 次。"""
+def call_claude(news_text: str, had_candidates: bool, max_retries: int = 3) -> list[dict]:
+    """呼叫 Claude API，回傳排名後的新聞清單。失敗時最多重試 max_retries 次。
+
+    防呆：若候選新聞不為空，Claude 卻回傳空 items，視為異常回覆，會重試；
+    重試仍失敗則 raise，避免 workflow 綠燈但產出空資料。
+    """
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
     for attempt in range(1, max_retries + 1):
@@ -332,10 +347,12 @@ def call_claude(news_text: str, max_retries: int = 3) -> list[dict]:
                 model="claude-sonnet-4-6",
                 max_tokens=4096,
                 system=SYSTEM_PROMPT,
-                messages=[{
-                    "role": "user",
-                    "content": news_text
-                }],
+                messages=[
+                    {
+                        "role": "user",
+                        "content": news_text,
+                    }
+                ],
             )
 
             if not message.content:
@@ -352,10 +369,19 @@ def call_claude(news_text: str, max_retries: int = 3) -> list[dict]:
                 continue
 
             items = parse_json_response(raw)
-            if items is not None:
-                return items
+            if items is None:
+                print(f"  [WARN] JSON 解析失敗（attempt {attempt}），原始回應前 200 字：{raw[:200]}")
+                time.sleep(5)
+                continue
 
-            print(f"  [WARN] JSON 解析失敗（attempt {attempt}），原始回應前 200 字：{raw[:200]}")
+            # 關鍵防呆：有候選新聞卻回空 items，通常是 Claude/額度/內容政策/暫時性錯誤
+            if had_candidates and len(items) == 0:
+                print("  [WARN] Claude 回傳空 items，但候選新聞不為空；判定為異常回覆，將重試。")
+                print(f"  [WARN] 原始回應前 200 字：{raw[:200]}")
+                time.sleep(8)
+                continue
+
+            return items
 
         except Exception as e:
             print(f"  [ERROR] API 呼叫失敗（attempt {attempt}）：{e}")
@@ -366,12 +392,10 @@ def call_claude(news_text: str, max_retries: int = 3) -> list[dict]:
     raise RuntimeError(f"Claude API 在 {max_retries} 次嘗試後仍無法取得有效回應")
 
 
-# ─── HTML 產生 ─────────────────────────────────────────────────────────
+# ─── HTML 產生 ─────────────────────────────────────────────────────────────
 
 
-def render_html(items: list[dict],
-                available_dates: list[dict] | None = None,
-                all_days_json: str = "{}") -> str:
+def render_html(items: list[dict], available_dates: list[dict] | None = None, all_days_json: str = "{}") -> str:
     env = Environment(
         loader=FileSystemLoader(str(TEMPLATE_DIR)),
         autoescape=True,
@@ -387,11 +411,14 @@ def render_html(items: list[dict],
     )
 
 
-# ─── 主程式 ─────────────────────────────────────────────────────────��[...]
+# ─── 主程式 ───────────────────────────────────────────────────────────────
 
 
 def main():
+    now_taipei = datetime.datetime.now(TAIPEI_TZ)
     print(f"[{TODAY_STR}] === 奇美 AI Everywhere Brief 自動產生 ===")
+    print(f"  [TIME] Asia/Taipei now: {now_taipei.isoformat(timespec='seconds')}")
+    print(f"  [TIME] TODAY iso: {TODAY.isoformat()}")
 
     # 0. 讀取過去 7 天的已納入清單（用於去重）
     print("→ 建立排除清單（過去 7 天已納入新聞）...")
@@ -410,26 +437,28 @@ def main():
 
     # 2. Claude 評鑑排名
     print("→ 呼叫 Claude API 進行評鑑...")
-    items = call_claude(news_text)
+    items = call_claude(news_text, had_candidates=(len(articles) > 0), max_retries=3)
     print(f"  產生 {len(items)} 則精選新聞")
+
+    # 若真的完全沒有候選新聞，允許產空（這是你原本設計）
+    # 但若有候選新聞卻產 0，前面 call_claude() 會當作異常而 fail，不會跑到這裡。
 
     # 3. 先儲存今日 JSON（供歷史查詢用）
     OUTPUT_DIR.mkdir(exist_ok=True)
     json_path = OUTPUT_DIR / f"{TODAY.isoformat()}.json"
     json_path.write_text(
         json.dumps({"date": TODAY_STR, "items": items}, ensure_ascii=False, indent=2),
-        encoding="utf-8"
+        encoding="utf-8",
     )
     print(f"  JSON 備份：{json_path}")
 
-    # 4. 載入所有可用天的資料（含今日）��嵌入單一 HTML
+    # 4. 載入所有可用天的資料（含今日）並嵌入單一 HTML
     print("→ 載入歷史資料並套用模板...")
     available_dates = get_available_dates()
-    all_days_data   = load_all_days_data(items)
+    all_days_data = load_all_days_data(items)
+
     # 防止 </script> 注入，保險起見替換
-    all_days_json = json.dumps(all_days_data, ensure_ascii=False).replace(
-        "</script>", r"<\/script>"
-    )
+    all_days_json = json.dumps(all_days_data, ensure_ascii=False).replace("</script>", r"<\/script>")
 
     html = render_html(items, available_dates, all_days_json)
 
