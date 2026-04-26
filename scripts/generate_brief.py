@@ -2,7 +2,7 @@
 奇美 AI Everywhere Brief — 自動產生器
 --------------------------------------
 流程：
-  1. 從 RSS / Google News 抓取醫療 AI 相關新聞
+  1. 從 RSS 抓取醫療 AI 相關新聞
   2. 送給 Claude API，要求排名評分並產生結構化 JSON
   3. 套用 brief.html 模板，輸出 output/index.html
 """
@@ -17,8 +17,6 @@ import time
 import anthropic
 import feedparser
 from jinja2 import Environment, FileSystemLoader
-
-# 明確指定台灣時區做「今日」日切，避免 GitHub runner 預設 UTC 造成跨日誤判
 from zoneinfo import ZoneInfo
 
 
@@ -34,7 +32,6 @@ WEEKDAY_MAP = ["星期一", "星期二", "星期三", "星期四", "星期五", 
 WEEKDAY_STR = WEEKDAY_MAP[TODAY.weekday()]
 
 # 需要「刪除/不再出現」的日期（ISO 格式）
-# 你的最新需求：只刪 2026-04-19；4/17、4/18 恢復顯示
 EXCLUDED_DATE_ISOS: set[str] = {
     "2026-04-15",
     "2026-04-18",
@@ -163,17 +160,25 @@ RSS_FEEDS = [
 SYSTEM_PROMPT = textwrap.dedent(
     """
     你是醫療 AI 新聞的專業情報代理人。
+    你的任務是分析「使用者提供的候選新聞清單」，進行專業評鑑後產出每日簡報。
 
-    你的任務是分析提供的醫療 AI 新聞，進行專業評鑑後產出每日簡報。
+    ## 最重要硬規則（請逐條遵守）
+    - 你只能使用「候選新聞清單」裡提供的新聞；不得從訓練資料、記憶或網路自行補充任何新聞。
+    - 候選新聞若為空，回傳 {"items": []}。
+    - 候選新聞若不為空，items 不可為空：至少輸出 1 則。
+    - items 數量必須等於 min(7, 候選新聞數量)。例如候選 2 則就輸出 2 則；候選 9 則就輸出 7 則。
+    - 你可以改寫標題使其更清晰，但不得改變「新聞事件」的事實。
+    - `author` 欄位末尾日期必須「完全等於」候選清單中的「實際發布日期」，不得改寫為今日、不得自行推測日期。
+    - 嚴禁在 summary 或任何欄位中出現對奇美醫院的建議、行動方針、策略建議或啟示；summary 只陳述新聞本身事實與意義。
+    - 請務必輸出「有效 JSON」，且只輸出 JSON，不要有任何解釋文字。
 
     ## 評分標準（0–10 分）
-    - **臨床相關性**：與醫療決策、照護品質的直接關聯程度
-    - **創新程度**：技術或模式的突破性
-    - **奇美適用性**：對奇美醫院或台灣醫療體系的參考價值
-    - **可信度**：來源機構、研究設計的可靠性
+    - 臨床相關性：與醫療決策、照護品質的直接關聯程度
+    - 創新程度：技術或模式的突破性
+    - 奇美適用性：對奇美醫院或台灣醫療體系的參考價值
+    - 可信度：來源機構、研究設計的可靠性
 
     ## 輸出格式（嚴格使用以下 JSON 結構）
-    ```json
     {
       "items": [
         {
@@ -187,18 +192,12 @@ SYSTEM_PROMPT = textwrap.dedent(
         }
       ]
     }
-    ```
 
-    ## 規則
-    - 最多 7 則，按評分高低排列
+    ## tags / 文字規則
+    - 最多 7 則（由上方 items 數量規則決定）
     - tags 每則 2–4 個，繁體中文，不含 # 符號
-    - summary 使用繁體中文、專業醫療用語，僅客觀描述新聞事實
-    - 若某則新聞無��源 URL，source_url 填 ""
-    - 僅回傳 JSON，不要有其他說明文字
-    - **嚴禁**在 summary 或任何欄位中出現對奇美醫院的建議、行動方針、策略建議或啟示；summary 只陳述新聞本身的事實與意義
-    - **嚴禁**納入未出現在使用者訊息候選清單中的新聞；不得從訓練資料或記憶中補充任何「你知道的」新聞
-    - **嚴禁**修改候選清單提供的「實際發布日期」；author 欄位末尾的日期必須與原始日期完全一致
-    - 若候選新聞為空，回傳 {"items": []}，切勿自行捏造
+    - summary 使用繁體中文、專業醫療用語，僅客觀描述新聞事實與意義
+    - 若某則新聞無來源 URL，source_url 填 ""
 """
 )
 
@@ -227,18 +226,15 @@ def fetch_news(
     for url in RSS_FEEDS:
         try:
             feed = feedparser.parse(url)
-            # 從每個來源多拿一點，再篩選
             for entry in feed.entries[:20]:
                 link = (entry.get("link") or "").strip()
                 title = (entry.get("title") or "").strip()
                 norm_title = _normalize_title(title)
 
-                # 去重：命中歷史排除清單 → 跳過
                 if (link and link in excluded_urls) or (norm_title and norm_title in excluded_titles):
                     dropped_dup += 1
                     continue
 
-                # 日期過濾：必須有日期資訊
                 pub_date = parse_entry_date(entry)
                 if pub_date is None:
                     dropped_undated += 1
@@ -267,7 +263,6 @@ def fetch_news(
     print(f"  [篩選] 今日 {len(today_articles)} 則 / 昨日備用 {len(yesterday_articles)} 則")
     print(f"  [篩選] 過濾掉：日期過舊 {dropped_old}、重複 {dropped_dup}、無日期 {dropped_undated}")
 
-    # 今日夠多就只用今日；不足 5 則才補入昨日（最多補到 max_items）
     if len(today_articles) >= 5 or not allow_yesterday_fallback:
         articles = today_articles
     else:
@@ -285,7 +280,8 @@ def format_news_for_prompt(articles: list[dict]) -> str:
         return "（今日 RSS 無法取得新聞，請回傳 {\"items\": []}，不要編造內容）"
     lines = [
         f"今日為 {TODAY.isoformat()}（{TODAY_STR}）。",
-        "以下是已通過日期過濾、去重檢查後的候選新聞，請進行評鑑與排名：\n",
+        f"候選新聞總數：{len(articles)}。",
+        "以下是候選新聞清單（已通過日期過濾、去重檢查後）：\n",
     ]
     for i, a in enumerate(articles, 1):
         tag = "【今日】" if not a.get("is_from_yesterday") else "【昨日備用】"
@@ -297,25 +293,21 @@ def format_news_for_prompt(articles: list[dict]) -> str:
         if a["link"]:
             lines.append(f"    URL：{a['link']}")
         lines.append("")
-    lines.append("⚠️ 輸出每則 item 時，`author` 欄位結尾的日期務必使用上方「實際發布日期」，不得臆測或改寫為今日。")
+    lines.append("⚠️ 輸出每則 item 時，`author` 欄位結尾的日期務必使用上方「實際發布日期」，不得臆測或改寫。")
     return "\n".join(lines)
 
 
-# ─── Claude API 呼叫 ──────────────────────────────────────────────────────
+# ─── Claude API 呼叫 ───────────────────────────────────────────────��──────
 
 
 def parse_json_response(raw: str) -> list[dict] | None:
-    """嘗試從 Claude 回應中解析 JSON，回傳 items 或 None。"""
     if not raw or not raw.strip():
         return None
-
-    # 先嘗試直接解析
     try:
         return json.loads(raw)["items"]
     except Exception:
         pass
 
-    # 移除 markdown code block 後再試
     if "```" in raw:
         parts = raw.split("```")
         for part in parts:
@@ -328,16 +320,10 @@ def parse_json_response(raw: str) -> list[dict] | None:
                 return json.loads(part)["items"]
             except Exception:
                 continue
-
     return None
 
 
 def call_claude(news_text: str, had_candidates: bool, max_retries: int = 3) -> list[dict]:
-    """呼叫 Claude API，回傳排名後的新聞清單。失敗時最多重試 max_retries 次。
-
-    防呆：若候選新聞不為空，Claude 卻回傳空 items，視為異常回覆，會重試；
-    重試仍失敗則 raise，避免 workflow 綠燈但產出空資料。
-    """
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
     for attempt in range(1, max_retries + 1):
@@ -347,12 +333,7 @@ def call_claude(news_text: str, had_candidates: bool, max_retries: int = 3) -> l
                 model="claude-sonnet-4-6",
                 max_tokens=4096,
                 system=SYSTEM_PROMPT,
-                messages=[
-                    {
-                        "role": "user",
-                        "content": news_text,
-                    }
-                ],
+                messages=[{"role": "user", "content": news_text}],
             )
 
             if not message.content:
@@ -363,18 +344,12 @@ def call_claude(news_text: str, had_candidates: bool, max_retries: int = 3) -> l
             raw = message.content[0].text.strip()
             print(f"  [API] 回應長度：{len(raw)} 字元")
 
-            if not raw:
-                print(f"  [WARN] Claude 回傳空字串（attempt {attempt}）")
-                time.sleep(5)
-                continue
-
             items = parse_json_response(raw)
             if items is None:
                 print(f"  [WARN] JSON 解析失敗（attempt {attempt}），原始回應前 200 字：{raw[:200]}")
                 time.sleep(5)
                 continue
 
-            # 關鍵防呆：有候選新聞卻回空 items，通常是 Claude/額度/內容政策/暫時性錯誤
             if had_candidates and len(items) == 0:
                 print("  [WARN] Claude 回傳空 items，但候選新聞不為空；判定為異常回覆，將重試。")
                 print(f"  [WARN] 原始回應前 200 字：{raw[:200]}")
@@ -420,12 +395,10 @@ def main():
     print(f"  [TIME] Asia/Taipei now: {now_taipei.isoformat(timespec='seconds')}")
     print(f"  [TIME] TODAY iso: {TODAY.isoformat()}")
 
-    # 0. 讀取過去 7 天的已納入清單（用於去重）
     print("→ 建立排除清單（過去 7 天已納入新聞）...")
     excluded_urls, excluded_titles = load_excluded_set(days=7)
     print(f"  排除清單：URL {len(excluded_urls)} 筆、標題 {len(excluded_titles)} 筆")
 
-    # 1. 抓新聞（只收今日；不足 5 則才回退補昨日）
     print("→ 抓取 RSS 新聞（僅今日發布，去除歷史重複）...")
     articles = fetch_news(
         excluded_urls=excluded_urls,
@@ -435,15 +408,10 @@ def main():
     news_text = format_news_for_prompt(articles)
     print(f"  取得 {len(articles)} 則候選新聞（已通過日期與去重過濾）")
 
-    # 2. Claude 評鑑排名
     print("→ 呼叫 Claude API 進行評鑑...")
     items = call_claude(news_text, had_candidates=(len(articles) > 0), max_retries=3)
     print(f"  產生 {len(items)} 則精選新聞")
 
-    # 若真的完全沒有候選新聞，允許產空（這是你原本設計）
-    # 但若有候選新聞卻產 0，前面 call_claude() 會當作異常而 fail，不會跑到這裡。
-
-    # 3. 先儲存今日 JSON（供歷史查詢用）
     OUTPUT_DIR.mkdir(exist_ok=True)
     json_path = OUTPUT_DIR / f"{TODAY.isoformat()}.json"
     json_path.write_text(
@@ -452,17 +420,13 @@ def main():
     )
     print(f"  JSON 備份：{json_path}")
 
-    # 4. 載入所有可用天的資料（含今日）並嵌入單一 HTML
     print("→ 載入歷史資料並套用模板...")
     available_dates = get_available_dates()
     all_days_data = load_all_days_data(items)
-
-    # 防止 </script> 注入，保險起見替換
     all_days_json = json.dumps(all_days_data, ensure_ascii=False).replace("</script>", r"<\/script>")
 
     html = render_html(items, available_dates, all_days_json)
 
-    # 只產生一個 index.html（所有日期資料都已內嵌）
     output_path = OUTPUT_DIR / "index.html"
     output_path.write_text(html, encoding="utf-8")
     print(f"  輸出：{output_path}")
