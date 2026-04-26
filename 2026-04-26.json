@@ -3,101 +3,17 @@
   "items": [
     {
       "rank": 1,
-      "score": 8.5,
-      "title": "台灣觀點：借鏡美國 Palantir 模式，打造「金融級」醫療 AI 雙軌架構以解決病歷碎片化",
-      "summary": "台東基督教醫院副院長鄭鴻鈞於2026年4月26日在關鍵評論網發表評論，指出台灣醫療AI建設應分兩層推進：一是在國家級健保雲端導入如 FedGPT 等聯邦式大語言模型，在不離開資安防火牆前提下對藥歷進行智慧摘要，並於病人跨院就醫時主動推播關鍵異常趨勢；二是在院所端實現病歷自動結構化。文章以 Palantir 協助美國克里夫蘭診所整合全院碎片化數據、使轉診入院量增加7%並優化護理排班為例，強調 AI 應將歷史紀錄轉化為「疾病時間軸」與「當前問題清單」，使醫師一鍵獲得整合式決策支援。此文提供台灣醫療機構具體可行的 AI 整合參考框架，對推動健保數據互通與院內智慧醫療建設具有重要的政策與實務意義。",
+      "score": 7.5,
+      "title": "台灣醫療數據碎片化困境：借鑑美國Palantir經驗建構雙軌AI架構的倡議",
+      "summary": "台東基督教醫院副院長鄭鴻鈞於2026年4月26日在《關鍵評論網》發表評論，以病人實際需求出發，指出台灣醫療AI建設應分為兩個層次：一是在國家級健保雲端導入FedGPT等聯邦式大語言模型技術，實現跨院就醫時的智慧摘要與主動推播；二是在院所端實現病歷自動結構化，提供醫師整合式決策支援。文章援引美國Mayo Clinic「環境臨床智能」技術與Palantir協助克里夫蘭診所整合全院碎片化數據之案例，指出後者使轉診入院量增加7%並優化護理排班。作者強調，AI的關鍵價值在於將歷史紀錄轉化為條理分明的「疾病時間軸」與「當前問題清單」，真正將醫師時間還給病人。此文對台灣醫療體系的資訊整合策略具有直接政策參考意義，亦反映臨床一線對AI實際落地的迫切期待。",
       "tags": [
-        "台灣醫療AI",
-        "健保數據整合",
+        "健保雲端AI",
+        "醫療數據整合",
         "臨床決策支援",
-        "醫療資訊架構"
+        "台灣醫療AI"
       ],
       "author": "鄭鴻鈞（The News Lens 關鍵評論網｜2026-04-26）",
       "source_url": "https://www.thenewslens.com/article/265559"
-    },
-    {
-      "rank": 2,
-      "score": 8.0,
-      "title": "英國 MHRA 民調：民眾支持醫療 AI 監管改革，但反對全面翻修現行體制",
-      "summary": "英國 digitalhealth.net 報導，MHRA（英國藥品與醫療器材監管局）公布其於2025年12月啟動的醫療 AI 法規諮詢結果，共收到逾770份來自臨床人員、產業界、患者及公眾的回應。結果顯示，受訪者對安全性、監督責任與法律歸屬存有高度疑慮，但普遍支持對現行法規進行「改革而非全面翻修」。此次諮詢的發現將提交給「國家醫療 AI 監管委員會（National Commission into the Regulation of AI in Healthcare）」作為建議書依據，預計於2026年夏季公布。MHRA 執行長 Lawrence Tallon 與委員會副主席 Henrietta Hughes 教授將於2026年5月20日舉辦公開網路研討會。整體而言，此調查結果反映出醫療 AI 治理正面臨監管架構轉型的關鍵時刻，對全球各國監管政策方向具有重要參考價值。",
-      "tags": [
-        "醫療AI監管",
-        "英國MHRA",
-        "法規治理",
-        "患者安全"
-      ],
-      "author": "未標示（digitalhealth.net｜2026-04-21）",
-      "source_url": "https://www.digitalhealth.net/2026/04/people-want-reform-of-ai-regulation-in-healthcare-but-not-overhaul/"
-    },
-    {
-      "rank": 3,
-      "score": 7.5,
-      "title": "南韓投入百億韓元推動「AI 專科醫院 AX-Ready 試點計畫」，加速醫院全流程 AI 轉型",
-      "summary": "南韓科學技術情報通信部（MSIT）宣布推出「AI 專科醫院 AX-Ready 試點計畫」，投入約100億韓元（約750萬美元）支持醫療機構 AI 轉型（AX）。此計畫不限於個別疾病診斷的 AI 工具導入，而是以患者就醫全流程為核心，整合診斷、治療、行政效率及預後管理的完整 AX 套件，實現以病人為中心的智慧醫院轉型。申請資格要求以公立醫療機構為主的聯盟，並須有 AI 解決方案供應商及雲端運算公司共同參與。此計畫是南韓 754 億韓元規模「AX-Sprint 計畫」的一部分，屬於跨11個部會的政府整體推動策略，其中80億韓元專門分配給醫療器材領域。此舉顯示南韓積極透過政府引導將醫療 AI 從研發試驗推向臨床規模化部署。",
-      "tags": [
-        "南韓醫療AI",
-        "AI醫院轉型",
-        "政府補助計畫",
-        "智慧醫院"
-      ],
-      "author": "未標示（Seoul Economic Daily｜2026-04-21）",
-      "source_url": "https://en.sedaily.com/technology/2026/04/20/korea-to-invest-10-billion-won-in-ai-specialized-hospital"
-    },
-    {
-      "rank": 4,
-      "score": 7.5,
-      "title": "Abridge 與 NEJM、JAMA 達成內容合作協議，將頂級期刊實證整合入 AI 臨床決策支援",
-      "summary": "Abridge 公司宣布與 NEJM Group（新英格蘭醫學雜誌出版商）及美國醫學會（AMA，JAMA Network 出版商）簽訂內容合作協議。未來年內，NEJM 與 JAMA Network 旗下12種醫學期刊的研究成果將整合進 Abridge 的 AI 臨床決策支援（CDS）系統，使臨床醫師在門診對話中即可透過情境感知 AI 獲得相關同儕審查實證，無需離開工作流程另行查詢。Abridge 的 AI 平台支援就診前準備、對話記錄、結構化文件生成及實證查詢的完整臨床流程。此前已整合 Wolters Kluwer Health 的 UpToDate。Abridge 連續兩年（2025、2026）榮獲 KLAS 環境 AI 最佳評級。此合作代表醫學知識與臨床 AI 工具整合的重要里程碑，有望強化 AI 輔助決策的實證基礎與臨床信任度。",
-      "tags": [
-        "Ambient AI",
-        "臨床決策支援",
-        "醫學知識整合",
-        "AI文件記錄"
-      ],
-      "author": "Andrea Fox（Healthcare IT News｜2026-04-15）",
-      "source_url": "https://www.healthcareitnews.com/news/abridge-incorporates-more-clinical-evidence-its-decision-support-tools"
-    },
-    {
-      "rank": 5,
-      "score": 7.0,
-      "title": "美國 AHA 高峰論壇：醫療 AI 政策、治理與普及化道路的關鍵討論",
-      "summary": "美國醫院協會（AHA）於2026年4月20日舉辦高峰論壇，邀集 Houston Methodist 院長 Marc Boom、Mass General Brigham 院長 Anne Klibanski、Joint Commission 院長 Jonathan Perlin 及 Epic 公共政策副總裁 Ladd Wiley 等人，共同參與「醫療 AI：政策、法規與前路」圓桌討論。與會者強調 AI 在患者安全改善、减少醫護人員耗竭（尤其是環境聆聽工具）及放射科診斷的應用潛力，同時指出政府與醫院層面治理框架的迫切需要，並呼籲確保中小型醫療機構與大型體系享有同等的 AI 技術取得機會。此論壇聚集美國頂尖醫療機構領導人，其討論內容對於醫療 AI 政策方向的形成與機構治理策略的建立具有廣泛產業影響力。",
-      "tags": [
-        "醫療AI治理",
-        "美國醫院協會",
-        "AI政策",
-        "醫療公平"
-      ],
-      "author": "未標示（AHA News｜2026-04-20）",
-      "source_url": "https://www.aha.org/news/headline/2026-04-20-ai-health-care-experts-discuss-future-ai-practices-and-policies"
-    },
-    {
-      "rank": 6,
-      "score": 7.0,
-      "title": "美國醫療 CIO 調查：74% 指出 EHR 系統依賴性阻礙 AI 擴展，僅 4% 完成有量化成效的規模化部署",
-      "summary": "Qventus 委託調查60餘位美國醫療機構資深 IT 主管（含 CIO、CAIO、CMIO 等）發布的「2026 年醫療系統 AI 規模化報告」顯示，儘管78%的醫療體系正推進 AI 專案，仍有45%自述面臨「試驗擴展困難（execution paralysis）」，僅4%表示已完成具可量化成效的 AI 規模化部署。74%受訪者將「EHR 供應商依賴性」列為執行的首要障礙。此外，25%的醫療機構缺乏明確的 AI 績效基準流程，42%的機構正跨多個應用場景同步部署 AI。報告揭示出醫療機構從 AI 試點走向全面整合過程中的結構性挑戰，對資訊部門的策略規劃與資源分配決策具有直接參考意義。",
-      "tags": [
-        "AI規模化",
-        "醫療CIO",
-        "EHR整合",
-        "執行落差"
-      ],
-      "author": "未標示（Healthcare IT News｜2026-04-11）",
-      "source_url": "https://www.healthcareitnews.com/news/healthcare-cios-see-ai-integration-competitive-necessity"
-    },
-    {
-      "rank": 7,
-      "score": 6.5,
-      "title": "英國 MHRA 獲撥款360萬英鎊擴充 AI Airlock 監管沙盒，探索 LLM 與癌症診斷 AI 法規路徑",
-      "summary": "英國 MHRA 宣布獲得英國衛生暨社會照護部（DHSC）三年期共360萬英鎊的資金注入，用於擴展其「AI Airlock」醫療 AI 監管沙盒計畫。此沙盒已在第二階段探索包含大型語言模型（LLM）、語音工具及癌症與罕見病專科診斷等技術。第二階段報告預計於2026年夏季發布，相關洞見將提供給「醫療 AI 監管國家委員會」制定未來監管架構使用。多年期穩定資金使該計畫得以建立更長期的測試模式，為未來 AI 醫療技術創造更具永續性的法規路徑。此舉代表英國政府對醫療 AI 創新監管的長期制度性承諾，MHRA 同步強化與美國 FDA 的監管合作夥伴關係，探索相互承認機制。",
-      "tags": [
-        "英國MHRA",
-        "AI監管沙盒",
-        "醫療AI法規",
-        "LLM醫療應用"
-      ],
-      "author": "未標示（digitalhealth.net｜2026-04-12）",
-      "source_url": "https://www.digitalhealth.net/2026/04/mhra-secures-3-6m-to-expand-ai-regulatory-sandbox/"
     }
   ]
 }
