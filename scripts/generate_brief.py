@@ -179,7 +179,7 @@ SYSTEM_PROMPT_TEMPLATE = textwrap.dedent("""
     ## 第一步 — 搜尋新聞（使用 web_search 工具）
 
     使用 web_search 工具，依下列順序執行查詢；每組查詢完成後再進行下一組。
-    所有查詢一律使用 `after:{today_iso}` 過濾，僅當今日新聞不足 5 則時，才回退使用 `after:{yesterday_iso}`。
+    所有查詢一律使用 `after:{today_iso}` 過濾，**僅收今日（{today_iso}）發布的新聞**。
 
     1. `healthcare AI clinical statnews.com OR nature.com OR nejm.org OR thelancet.com OR healthcareitnews.com OR jamanetwork.com after:{today_iso}`
     2. `medical AI FDA approval hospital workflow after:{today_iso}`
@@ -195,15 +195,17 @@ SYSTEM_PROMPT_TEMPLATE = textwrap.dedent("""
 
     優先來源（不限於此）：上述查詢涵蓋重點來源，但不排除其他高品質來源。
     若搜尋過程中發現來自 WHO、NIH、MIT Technology Review、Wired Health、FierceBiotech、
-    MedCity News、Becker's Health IT、Modern Healthcare 等可信媒體的重要新聞，同樣應予納入。
+    MedCity News、Becker's Health IT、Modern Healthcare 等可信媒體的重要新聞，同樣應予納入
+    ——**前提是發布日期必須等於 {today_iso}**。
 
-    ## 第二步 — 納入條件
+    ## 第二步 — 納入條件（嚴格只收今日）
 
-    - 發布日期必須等於 {today_iso}（透過搜尋結果片段或進一步檢視原文確認）。
-      - 若實際發布日期不等於 {today_iso} → 排除。
-      - 僅當今日候選新聞不足 5 則時，才允許補入昨日（{yesterday_iso}）新聞。
+    - **發布日期必須等於 {today_iso}**（透過搜尋結果片段或檢視原文確認）。
+      - 實際發布日期 ≠ {today_iso} → **一律排除**，不接受任何回退、補入或例外。
+      - 無法確認發布日期 → **一律排除**。
     - 與醫療產業具有重要意義。
-    - 排除：行銷稿、無實質內容的純意見文章、重複報導。
+    - 排除：行銷稿、無實質內容的純意見文章、重複報導、昨日（{yesterday_iso}）或更早的新聞。
+    - **若今日合格新聞不足 5 則，照實輸出**（可以只有 1–4 則，甚至 0 則）；嚴禁以昨日或較早新聞湊數。
 
     ## 第三步 — 去重（強制執行）
 
@@ -250,7 +252,7 @@ SYSTEM_PROMPT_TEMPLATE = textwrap.dedent("""
     - **tags**：每則 2–4 個，繁體中文，不含 # 符號。
     - **summary**：150–200 字（允許略短），繁體中文，僅客觀描述新聞事實與意義。
     - 嚴禁在任何欄位輸出對奇美的建議、行動方針、策略建議、啟示、下一步等內容。
-    - 嚴禁編造未實際搜尋到的新聞；若搜尋全部失敗，回傳 {{"items": []}}。
+    - 嚴禁編造未實際搜尋到的新聞；若今日（{today_iso}）真的搜不到任何合格新聞，回傳 {{"items": []}}，不可用昨日新聞代替。
     - 不得使用訓練資料中的舊新聞充數。
     - 嚴禁在 JSON 中出現換行符號（必要時用全形標點分句）。
     - 最終回應必須是純 JSON，禁止任何 ```json``` 或解釋文字包裹。
@@ -337,13 +339,18 @@ def extract_final_text(message) -> str:
 
 def call_claude(system_prompt: str, max_retries: int = 3) -> list[dict]:
     """呼叫 Claude API，啟用 web_search server tool 讓模型自行搜尋。
-    失敗或回空時最多重試 max_retries 次；都失敗則 raise。"""
+    僅收今日新聞 → 真的搜不到時回空清單也是合法結果。
+    重試條件：API 失敗、JSON 解析失敗、最終 text 為空。
+    『有效但 items 為空』在最後一次嘗試會被接受（記錄為今日無合格新聞）。"""
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
     user_msg = (
         f"請依系統指示，搜尋並產出 {TODAY.isoformat()} 的醫療 AI 每日簡報。"
+        f"只允許納入發布日期等於 {TODAY.isoformat()} 的新聞，"
         "完成所有搜尋後，最後一則訊息只回傳符合 schema 的 JSON。"
     )
+
+    last_valid_empty = False  # 是否曾收到「JSON 有效但 items 空」的回應
 
     for attempt in range(1, max_retries + 1):
         try:
@@ -362,7 +369,6 @@ def call_claude(system_prompt: str, max_retries: int = 3) -> list[dict]:
                 messages=[{"role": "user", "content": user_msg}],
             )
 
-            # 統計 web_search 使用次數（從 usage 取，或從 content block 數）
             tool_use_count = sum(
                 1 for b in message.content
                 if getattr(b, "type", "") == "server_tool_use"
@@ -384,9 +390,15 @@ def call_claude(system_prompt: str, max_retries: int = 3) -> list[dict]:
                 continue
 
             if len(items) == 0:
-                print(f"  [WARN] 模型回傳空 items（attempt {attempt}）；可能搜尋無結果，重試。")
-                time.sleep(8)
-                continue
+                last_valid_empty = True
+                # 不是最後一次 → 多試一次，可能只是搜尋運氣
+                if attempt < max_retries:
+                    print(f"  [WARN] 模型回傳空 items（attempt {attempt}）；再嘗試一次，確認今日確無新聞。")
+                    time.sleep(8)
+                    continue
+                # 最後一次仍空 → 視為今日確實無合格新聞，正常返回
+                print(f"  [INFO] 連續 {max_retries} 次嘗試後仍為空 → 判定今日（{TODAY.isoformat()}）無合格醫療 AI 新聞")
+                return []
 
             return items
 
@@ -396,6 +408,10 @@ def call_claude(system_prompt: str, max_retries: int = 3) -> list[dict]:
         if attempt < max_retries:
             time.sleep(15)
 
+    # 所有嘗試都因 API 失敗或解析失敗而失敗
+    if last_valid_empty:
+        print("  [INFO] 雖有 API 失敗但其中收過合法空回應 → 視為今日無合格新聞")
+        return []
     raise RuntimeError(f"Claude API 在 {max_retries} 次嘗試後仍無法取得有效回應")
 
 
