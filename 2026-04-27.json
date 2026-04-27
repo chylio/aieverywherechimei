@@ -1,4 +1,19 @@
 {
   "date": "2026年04月27日",
-  "items": []
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "HFMA調查：逾八成醫療機構AI處於試點或部署階段，27%已跨職能大規模落地",
+      "summary": "Healthcare IT Today於2026年4月26日發布週報，彙整美國醫療財務管理協會（HFMA）最新調查數據：27%的醫療機構已在多個職能領域大規模部署AI，另有53%正在進行試點。60%的醫療機構將「更佳的分析與洞察」列為2026年優先項目，53%聚焦於比較數據與基準指標（Strata Decision Technology報告）。此外LeanTaaS調查顯示，56%的醫療機構領導者樂觀認為運營與技術投資有助穩定財務狀況。本次摘要亦涵蓋Ambience Healthcare任命新Chief Medical Officer、牙科AI平台VideaHealth更名為Videa、Yelp與Zocdoc整合等業界動態。整體數據顯示，醫療AI正從試驗階段加速向多功能規模化部署轉型，同時財務回報與分析能力已成為機構決策核心考量，對正評估AI導入效益的醫療體系領導層具有重要參考價值。",
+      "tags": [
+        "醫療AI採用率",
+        "規模化部署",
+        "臨床決策支援",
+        "醫療財務"
+      ],
+      "author": "Brian Eastwood（Healthcare IT Today｜2026-04-26）",
+      "source_url": "https://www.healthcareittoday.com/2026/04/26/bonus-features-april-26-2026-27-of-healthcare-orgs-deploying-ai-across-multiple-functions-56-of-orgs-believe-operational-and-technology-investment-will-stabilize-finances-plus-2/"
+    }
+  ]
 }
