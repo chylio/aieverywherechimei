@@ -18,6 +18,7 @@ import time
 
 import anthropic
 import feedparser
+import requests
 from jinja2 import Environment, FileSystemLoader
 from zoneinfo import ZoneInfo
 
@@ -125,6 +126,32 @@ def _strip_html(text: str) -> str:
     return text.strip()
 
 
+def _resolve_gnews_url(url: str, timeout: float = 8.0) -> str:
+    """Google News RSS 給的是 proxy URL（news.google.com/rss/articles/CBMi...），
+    點擊時才 redirect 到真實網址。我們在抓 RSS 階段就 follow redirect，
+    把真實的原始來源 URL 存進候選，避免使用者點到失效 redirect。
+
+    非 Google News URL 直接原樣回傳；解析失敗也回傳原 URL（fallback）。"""
+    if not url or "news.google.com/rss/articles/" not in url:
+        return url
+    try:
+        # 用 GET（HEAD 有些 CDN 會拒絕）但只讀 headers，allow_redirects 跟到底
+        resp = requests.get(
+            url,
+            allow_redirects=True,
+            timeout=timeout,
+            headers={"User-Agent": "Mozilla/5.0 (compatible; ChimeiAIBriefBot/1.0)"},
+            stream=True,
+        )
+        final_url = resp.url
+        resp.close()
+        if final_url and "news.google.com" not in final_url:
+            return final_url
+    except Exception as e:
+        print(f"    [WARN] resolve gnews url 失敗：{e}")
+    return url
+
+
 def fetch_rss_candidates() -> list[dict]:
     print(f"-> 從 {len(RSS_FEEDS)} 個 RSS 來源蒐集候選新聞（accept dates: {YESTERDAY.isoformat()} / {TODAY.isoformat()}）...")
     accept_dates = {TODAY, YESTERDAY}
@@ -140,7 +167,11 @@ def fetch_rss_candidates() -> list[dict]:
                 if pub_date is None or pub_date not in accept_dates:
                     continue
                 url = (entry.get("link") or "").strip()
-                if not url or url in seen_urls:
+                if not url:
+                    continue
+                # Google News proxy URL → 解析成真實網址（其他 URL 原樣回傳）
+                url = _resolve_gnews_url(url)
+                if url in seen_urls:
                     continue
                 seen_urls.add(url)
                 title = _strip_html(entry.get("title") or "")
