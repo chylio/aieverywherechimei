@@ -56,7 +56,7 @@ EXCLUDED_DATE_ISOS: set[str] = {
 
 # Claude 模型與 Web Search Tool 設定
 CLAUDE_MODEL = "claude-sonnet-4-6"
-WEB_SEARCH_MAX_USES = 12  # 限制最多搜幾次；過高會把累積 input tokens 推爆 30K/min rate limit
+WEB_SEARCH_MAX_USES = 6   # 必須壓在 6 以下，否則單次呼叫累積 input tokens 會超過 30K/min org 限額
 MAX_OUTPUT_TOKENS = 8000
 
 
@@ -185,12 +185,10 @@ SYSTEM_PROMPT_TEMPLATE = textwrap.dedent("""
     1. `healthcare AI clinical statnews.com OR nature.com OR nejm.org OR thelancet.com OR healthcareitnews.com OR jamanetwork.com after:{yesterday_iso}`
     2. `medical AI FDA approval hospital workflow after:{yesterday_iso}`
     3. `AI radiology pathology diagnosis breakthrough after:{yesterday_iso}`
-    4. `healthcare AI policy regulation after:{yesterday_iso}`
-    5. `醫療 AI 人工智慧 臨床 after:{yesterday_iso}`（台灣新聞）
-    6. `site:healthcareitnews.com AI after:{yesterday_iso}`
-    7. `site:jamanetwork.com artificial intelligence after:{yesterday_iso}`
+    4. `醫療 AI 人工智慧 臨床 after:{yesterday_iso}`（台灣新聞）
+    5. `site:healthcareitnews.com AI after:{yesterday_iso}`
 
-    （日本/韓國/AMA/Stanford 等次要來源，若以上 7 組已產生足夠候選則可省略；如不足才補搜）
+    > **重要：搜尋次數上限為 5，請務必在 5 次內完成且不要進行驗證 fetch。** 模型須直接根據搜尋結果片段判斷發布日期、納入條件並產出 JSON；不得對個別文章再做 web_fetch。
 
     優先來源（不限於此）：上述查詢涵蓋重點來源，但不排除其他高品質來源。
     若搜尋過程中發現來自 WHO、NIH、MIT Technology Review、Wired Health、FierceBiotech、
@@ -267,13 +265,12 @@ def build_excluded_block(excluded_pairs: list[dict]) -> str:
     if not excluded_pairs:
         return "（過去 7 天無歷史紀錄，本次無需去重）"
     lines = []
-    for p in excluded_pairs[:60]:  # 上限 60 則避免 prompt 過長
+    for p in excluded_pairs[:25]:  # 上限 25 則（保留最近期最相關的，避免吃光 token 預算）
         line = f"- [{p['date']}] {p['title']}"
-        if p.get("url"):
-            line += f"  {p['url']}"
+        # 不再夾 URL（後處理階段會再用 URL set 防呆去重，prompt 內只保留標題即可省 tokens）
         lines.append(line)
-    if len(excluded_pairs) > 60:
-        lines.append(f"…（另有 {len(excluded_pairs) - 60} 則歷史紀錄，請一併視為已納入）")
+    if len(excluded_pairs) > 25:
+        lines.append(f"…（另有 {len(excluded_pairs) - 25} 則歷史紀錄，請一併視為已納入）")
     return "\n    ".join(lines)
 
 
