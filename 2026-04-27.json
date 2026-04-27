@@ -4,27 +4,27 @@
     {
       "rank": 1,
       "score": 9.0,
-      "title": "頂尖醫學期刊發表重量級警示：醫療AI潛藏多重風險，呼籲嚴謹審查",
-      "summary": "一篇發表於頂尖醫學期刊的評論文章，對醫療AI的廣泛應用提出嚴厲警告，指出當前醫療AI系統在臨床落地過程中存在多重系統性風險，包含演算法偏差、訓練資料品質不足、缺乏嚴謹前瞻性臨床驗證，以及過度依賴AI判斷可能導致的醫療疏失等問題。文章呼籲醫療機構、監管機關與AI開發商共同建立更嚴謹的審查框架，確保AI工具在實際臨床環境中的安全性與可靠性。這篇評論在醫療AI產業引發廣泛討論，被視為對現行AI導入速度過快現象的重要反思，對正積極評估或已部署AI系統的醫院管理層與臨床科主任具有高度參考價值，提醒應在追求數位轉型效益的同時，強化風險管理機制。",
+      "title": "頂尖醫學期刊發表嚴正警告：醫療AI應用潛藏多重風險，呼籲嚴謹審查",
+      "summary": "一篇刊載於頂尖醫學期刊的評論文章對當前醫療AI應用的快速擴張提出強烈警示。文章指出，現有醫療AI系統在臨床驗證、資料偏差、演算法透明度及問責機制等面向存在根本性缺陷，若在缺乏充分監管的情況下廣泛部署，恐對病患安全造成實質危害。作者呼籲醫療機構、監管單位與科技業者共同建立更嚴謹的獨立評估標準，並強調AI工具在進入臨床應用前應經過與藥物審查同等級別的證據要求。此警告出現於醫療AI商業化加速的時間點，對醫院領導層、臨床科主任與法規遵循團隊在評估導入新AI工具時具有重要參考價值，提醒決策者在追求效率的同時，不可忽視系統性風險的管控。",
       "tags": [
         "醫療AI風險",
-        "臨床安全",
+        "臨床驗證",
         "AI監管",
-        "期刊警示"
+        "病患安全"
       ],
       "author": "未標示（GNews-台灣醫療AI｜2026-04-27）",
-      "source_url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNZjV0YXFXRmZRQ3NUNWJiM2hycUJDaFlGQ3dEa09MVjB1bm1TdWFxSXF5OUxXODlZTGs2VlZJYTBBUmlfUC1jWEctTk5tNUZXdUU0b3RCc2FJampLSTY3MEVSaEpYdHBUR3ktMGd5Tlo3N2QwbkZ1ZlY4RkoyRDJhU2g5R21sNW5YYkRudUh5VHpqakFxa3NfOGlGVi1uby1XYy1TS3NHVkkwUDZvc3VTLVVCZTlzeGV0dmhzamRWRE14a19TVmYwWkl4Tl9mRUNiTzFtaDFyR3JxRkN2bzd2Nmk4UnFHemRvbWh0Smtud0V1LVZnakRMbldkQ1kwY1FvcTBEN0dxMDBVRThKNW5nbkJiX28zSjE1dmU2OFg2SXJGTld0TDVlaWhOeGpHeldwTG9idGZWS1BsWnl1cGJVOVRFbHZicTRkMlRxdWhYeVVNRnk3RVc3WThn"
+      "source_url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQR09Yc1hTSGNOQjdmbmJLdFU2TjRTZTFBeWxQbUlXeTNmTTdVT1BhYl94bzBVak9oOHlGa0lES3RYMzJSS01rMmdkVGgxZzRtOUQzaFROSmM1Y1FrdVhLRFlHNUZSbWZuZkNtQVA2QUVpUUt1MVRNZUFxQjJ0ZGpLSFQtcXFYQW1BbkpaSVBmdUtLN2hIa1pJVDMxa01mMlJSeXFtc1BjQVJkWXRSYUlmME5rUkd6T1Nablpnb1FYRDlaS3ZDN0NOa2t1U1gwSHVWLVlBS0VSZzVLU3lmQlZJYk1TVGJwYjVScjBQM0Z6d24tOUhfMlFUaHNBYy0zN3Zpem9NU1d6TWFqUUxVSTJhVjl6aFZrNWlGY1hjMXdqTjJoUUxTOTROb1ppY3NnNl9aZVB0U2VjRlFYNGM4MElxWUwta1o5Y0NvN21JMDZwOA?oc=5"
     },
     {
       "rank": 2,
       "score": 8.5,
-      "title": "AMA呼籲國會立法強化AI心理健康聊天機器人安全規範",
-      "summary": "美國醫學會（AMA）正式致函國會，要求針對AI心理健康聊天機器人建立更完善的安全保護機制。AMA指出，此類AI工具雖具有擴大心理健康照護可近性的潛力，尤其能服務偏遠地區或醫療資源不足族群，但目前市面上部分產品在危機辨識、資料隱私及臨床準確性方面存在明顯缺口，恐對脆弱族群造成傷害。AMA建議國會要求AI心理健康工具在上市前須通過嚴格臨床測試，並強制揭露AI介入範疇，同時設立明確的緊急轉介機制。此呼籲正值AI聊天機器人在全球醫療應用快速擴張之際，對醫院精神科及心理健康服務規劃具有直接政策參考意義，亦預示相關立法監管趨勢的加速到來。",
+      "title": "美國醫學會呼籲國會強化AI心理健康聊天機器人安全監管規範",
+      "summary": "美國醫學會（AMA）正式向美國國會提交建議，要求針對AI心理健康聊天機器人建立更嚴格的安全防護機制。AMA指出，目前市面上的AI心理健康應用程式在危機處理、緊急轉介及個資保護等方面缺乏一致性標準，可能對脆弱族群造成傷害。與此同時，AMA也認可此類工具在擴大心理健康服務可及性、特別是偏遠或資源不足地區方面的潛在價值。建議包括要求開發者揭露演算法運作邏輯、建立強制性安全測試流程，以及明確規範AI聊天機器人在何種情境下必須轉介人類醫療專業人員。此一政策動向對計畫導入或已部署AI心理支持工具的醫療機構具有直接的法規遵循參考意義。",
       "tags": [
         "AI聊天機器人",
         "心理健康",
         "AMA",
-        "醫療法規"
+        "法規監管"
       ],
       "author": "未標示（MedCity News｜2026-04-26）",
       "source_url": "https://medcitynews.com/2026/04/ama-ai-mental-health-chatbot/"
@@ -32,86 +32,100 @@
     {
       "rank": 3,
       "score": 8.0,
-      "title": "台灣「健康台灣」政策成果：AI減輕醫護負擔、偏鄉醫療服務升級",
-      "summary": "台灣衛生主管機關公布「健康台灣」政策執行成果，其中AI應用成效成為重點亮點。報告顯示，AI技術已在多家醫療院所協助減輕醫護人員行政與臨床工作負擔，包含AI輔助病歷摘要、影像判讀及護理記錄自動化等功能，有效緩解醫護人力短缺壓力。在偏鄉醫療服務方面，遠距醫療結合AI診斷輔助的模式已逐步在資源不足地區落地，提升基層醫療服務品質與可近性。此政策成果報告對正在評估AI導入效益的醫療體系具有重要參考價值，顯示台灣本土醫療AI應用已從試驗階段進入規模化落地，並在人力資源優化與城鄉醫療均衡兩大目標上取得初步成效。",
+      "title": "台灣「健康台灣」政策成效：AI減輕醫護負擔、偏鄉醫療獲顯著升級",
+      "summary": "台灣政府公布「健康台灣」政策執行成績單，AI應用成為其中最受矚目的亮點。報告顯示，多家醫院導入AI輔助診斷、自動化病歷摘要及智慧排班系統後，醫護人員的行政負擔明顯降低，臨床工作時間得以更有效分配。在偏鄉醫療方面，透過AI遠距判讀與輔助診療平台，偏遠地區民眾的就醫可及性顯著提升，部分山地原鄉已可獲得與都市相近品質的影像診斷服務。此外，AI技術亦協助強化慢性病管理與早期篩檢的效率。此報告為台灣醫療AI政策落地提供了具體數據依據，對於評估本土AI導入成效與規劃下一階段數位轉型策略的醫療機構具有高度參考價值。",
       "tags": [
         "台灣醫療AI",
         "偏鄉醫療",
-        "醫護負擔",
-        "健康台灣政策"
+        "健康台灣",
+        "數位轉型"
       ],
       "author": "未標示（GNews-台灣醫療AI｜2026-04-27）",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52MmZMWFhQbEJjWTRVdEpyeVAxRDcwbmVmTWdzckRseS1mQW5FcXllRHVVeWlGdGlrb0FiQ3R1a2NsR0dESWMxVW9tYVlFanQxRi0zc2VR"
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52MmZMWFhQbEJjWTRVdEpyeVAxRDcwbmVmTWdzckRseS1mQW5FcXllRHVVeWlGdGlrb0FiQ3R1a2NsR0dESWMxVW9tYVlFanQxRi0zc2VR?oc=5"
     },
     {
       "rank": 4,
       "score": 7.5,
-      "title": "三星醫療中心啟用AI智慧病房，打造新世代住院照護環境",
-      "summary": "韓國三星醫療中心（Samsung Medical Center）宣布正式啟用AI驅動的智慧病房系統，透過整合環境感測器、生命徵象連續監測及自然語言處理技術，實現病房內的智能照護管理。系統可自動偵測病患異常狀況並即時通知護理人員，同時透過AI分析住院患者的照護需求，優化護理工作排程與資源配置。此外，智慧病房亦整合語音互動功能，讓病患能更便利地呼叫服務或查詢資訊，提升住院體驗。三星醫療中心此舉代表亞洲頂尖醫學中心在AI病房落地應用上的重要里程碑，其整合性架構設計與臨床工作流程優化模式，對區域醫療體系推動病房智慧化具有實質參考價值。",
+      "title": "歐盟醫療AI快速普及，WHO報告警示人才培育與治理機制刻不容緩",
+      "summary": "世界衛生組織（WHO）最新報告指出，歐盟各國醫療機構採用AI工具的速度已大幅超越相應的治理框架建置進程。報告顯示，影像診斷、臨床決策支援及行政自動化是目前歐盟醫療AI最普及的三大應用領域，但各國在監管標準、資料使用規範及跨境互通性方面仍存在顯著落差。WHO特別強調，當前最迫切的挑戰不在於技術本身，而在於醫療專業人員的AI素養培訓及健全治理架構的建立，包括問責機制、偏見偵測與透明度要求。此報告對台灣及亞太地區醫療機構在規劃AI導入策略時，提供了國際視野下的風險預警與治理參考框架。",
       "tags": [
-        "智慧病房",
-        "AI醫院",
-        "臨床照護",
-        "韓國醫療"
+        "WHO",
+        "醫療AI治理",
+        "人才培育",
+        "歐盟"
       ],
-      "author": "未標示（GNews-AI clinical｜2026-04-27）",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWDFrRVZJdHdGLXJQUXR4OWNpUzhDY0NmZ2ZFOEg0d2lwUVl6a2NZM0RCOHhvZEEtMUNPSzFTTmVURlcwOVkzeXJzeDJISk9IUTJWZ2tBNkk2YVMwSGVNdGV5SllzOWFZaHAzX2tOX0NLREJwMzN6QktpeHdpRGNSMUhrbXpuNlZuZS1zNUF5UllQRHBxQ0xmVnFPcHFwZmpPY0pWVg"
+      "author": "未標示（GNews-台灣醫療AI｜2026-04-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNdWtic1ptdjBpWWJsc1BLcGpsb1lSeHZQTF8zY0Yzd1NhRjZXQ2hZLXR0clJGNzY2b0U1UUtFd19KRF9oR0V1bi1tSERhd3l0NnlHVmpfa2hybjZpZXpocEE4SU9nY0Rwc2QweVhhTmxvOE9UMjhqVi1DSlc2NXEycjlvNjNGbEloelJtc3VpaDctZWhaWlB5S3diaktFREdNcFNLakszVE5McjRaSkZzX080WHl6Tzd5ZkZldUlGQV9vYWd5WVFnV0prR0VIem9ITktUdWhWMnJzRWh6OEE2QWdjZ2lnVk1SOFo3Tl9SZFFadGhJcmo1MTZHQ3IxU0tzOXlBN0lwb3BGZXk3aUNqTDJvUjdkSDFQZEJnTGt1cHJZdjh5ZHZWRHo4TGZxOEtIOWE1eGtaOXRXWVExeS12MVdneHN4S3UySklaNjNTTQ?oc=5"
     },
     {
       "rank": 5,
-      "score": 7.0,
-      "title": "歐盟醫療AI普及化進程：WHO報告呼籲重視人才培育與治理框架",
-      "summary": "世界衛生組織（WHO）最新報告指出，歐盟各國醫療AI應用已進入大規模普及階段，涵蓋影像診斷、臨床決策支援及行政流程自動化等多個面向。然而報告同時警示，當前醫療AI推廣速度遠超過相關人才培訓與治理機制建置速度，形成顯著落差。WHO建議各國政府與醫療機構應同步投資AI素養教育，培訓具備批判性評估AI工具能力的臨床人員，並建立涵蓋演算法透明度、問責機制與跨境資料流動規範的整體治理框架。此報告對台灣醫療AI政策規劃具有直接參考意義，尤其在人力培訓與監管制度建置方面，為醫療體系提供具體方向指引。",
+      "score": 7.5,
+      "title": "三星醫療中心啟用AI智慧病房，全面提升住院照護效率與安全監測",
+      "summary": "韓國三星醫療中心正式啟用由AI技術驅動的智慧病房系統，成為亞洲頂尖醫學中心推動病房數位化的重要里程碑。此系統整合了AI即時生命徵象監測、跌倒風險預警、病患活動偵測及自動化護理紀錄等功能，能在異常狀況發生前即時通知醫護人員，顯著縮短緊急應變時間。智慧病房亦配備語音辨識介面，方便病患呼叫照護服務，同時透過環境感測器自動調節室內溫濕度與照明，提升病患舒適度。初步數據顯示，導入後護理人員的常規巡視負擔降低，得以將精力集中於複雜照護工作。此案例對計畫升級住院環境與推動智慧照護的醫療機構具有重要的實務參考價值。",
       "tags": [
-        "WHO報告",
-        "歐盟醫療AI",
-        "AI治理",
-        "人才培育"
+        "智慧病房",
+        "AI監測",
+        "住院照護",
+        "亞洲醫療AI"
       ],
-      "author": "未標示（GNews-台灣醫療AI｜2026-04-26）",
-      "source_url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNdWtic1ptdjBpWWJsc1BLcGpsb1lSeHZQTF8zY0Yzd1NhRjZXQ2hZLXR0clJGNzY2b0U1UUtFd19KRF9oR0V1bi1tSERhd3l0NnlHVmpfa2hybjZpZXpocEE4SU9nY0Rwc2QweVhhTmxvOE9UMjhqVi1DSlc2NXEycjlvNjNGbEloelJtc3VpaDctZWhaWlB5S3diaktFREdNcFNLakszVE5McjRaSkZzX080WHl6Tzd5ZkZldUlGQV9vYWd5WVFnV0prR0VIem9ITktUdWhWMnJzRWh6OEE2QWdjZ2lnVk1SOFo3Tl9SZFFadGhJcmo1MTZHQ3IxU0tzOXlBN0lwb3BGZXk3aUNqTDJvUjdkSDFQZEJnTGt1cHJZdjh5ZHZWRHo4TGZxOEtIOWE1eGtaOXRXWVExeS12MVdneHN4S3UySklaNjNTTQ"
+      "author": "未標示（GNews-AI clinical｜2026-04-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWDFrRVZJdHdGLXJQUXR4OWNpUzhDY0NmZ2ZFOEg0d2lwUVl6a2NZM0RCOHhvZEEtMUNPSzFTTmVURlcwOVkzeXJzeDJISk9IUTJWZ2tBNkk2YVMwSGVNdGV5SllzOWFZaHAzX2tOX0NLREJwMzN6QktpeHdpRGNSMUhrbXpuNlZuZS1zNUF5UllQRHBxQ0xmVnFPcHFwZmpPY0pWVg?oc=5"
     },
     {
       "rank": 6,
-      "score": 6.5,
-      "title": "AI驅動放射影像判讀需求持續攀升：放射科如何因應工作量爆增挑戰",
-      "summary": "美國放射影像領域最新報告指出，隨著AI輔助篩查工具的普及，各醫療機構的影像檢查量正以前所未有的速度成長，對放射科醫師形成極大的工作量壓力。報告分析了影像量增加的多重驅動因素，包含高齡化人口需求增加、AI輔助篩查提升異常偵測率，以及患者對預防性影像檢查意識提升等。專家指出，單純仰賴增加放射科醫師人力並非可持續解方，醫療機構必須同步優化AI輔助閱片工作流程、建立影像判讀優先序機制，並重新評估放射科人力配置策略。此分析對規劃放射科AI導入的醫療體系提供了務實的需求端視角，有助於制定更完整的AI整合策略。",
+      "score": 7.0,
+      "title": "AI縮短影像判讀延遲：5C放射網絡模式為偏遠地區帶來即時診療決策",
+      "summary": "印度5C Network以AI輔助放射科判讀模式為核心，成功解決偏遠地區放射科醫師嚴重短缺的問題。該平台透過AI預篩選與優先排序機制，將異常影像自動標記並推送至遠端放射科醫師，大幅縮短從掃描完成到報告產出的等待時間。根據報導，部分醫院的影像回報時間從數小時壓縮至30分鐘以內，使臨床醫師能更即時地做出治療決策。5C Network目前服務範圍已擴及印度多個偏遠邦縣，並積極向東南亞市場拓展。此模式對於面臨放射科人力不足挑戰的醫療系統，包括台灣偏鄉及區域醫院，提供了一個兼顧效率與可及性的AI應用參考案例。",
       "tags": [
-        "放射科AI",
-        "影像工作量",
-        "臨床工作流程",
-        "醫療人力"
+        "AI放射科",
+        "影像判讀",
+        "偏鄉醫療",
+        "診療效率"
       ],
       "author": "未標示（GNews-AI radiology｜2026-04-27）",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNFJfb0F5b0N0N083UndBbWVReDU2SzdCNm4zUGgwbENIWFU0dE90dTNDWjZ6bUM5U1dOeGtiUjQ5UUlTcGFiVHZndVFEUzdtMEVSRkJ5MnhpWnRxZ2hxWkE5WDFnRmNDbE1mN0hOQUZSWHVQYWRZekdBczRXM0dsc1BTMWFib0VJeFhpcGhuYzJnRENnTkY5TXFLNVY5UmlCT0M1U3ZqY0R4RWhUWmotVmZDaklLOHNkaUhmSXRVaVZPS1VaWTB2Ug"
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcHZiYzJ5eW90NEhVeVFaeU1OaUxCR3dfbVpSd3Q3TjNhT2pJd3NUTnZkdkI0WkdKVWVuMGVwS1Z3dHN1cFBKemp3NERuX1VVWUdUUUpGMzJ1aHFhTUtPVVJkMlVSWjVqQ3RQdmJpU3k5a0NaaEdHeUk2MjlvWVZPQVROZmN2azZYNGZibWFHQjZzVF9IeERRd0xFT0JSQTgzVlRxaldjX1BFQTdrdnF6dXRiRURFVTJEamFmbjhiMzFURjV0YmxIOVRxZnF0QWNUSHZoSXZLeHdEdkJZMHBtZENNSUFZZ9IB7AFBVV95cUxQcHZibVVRUm9oUEVhVVZ1eEdiUkNMRFNKSExTaVl2cHVtdnJ2MDEtRFlfQU5tTGsycU9HVWp6b08yVUtJSG1LX3hxVC1ydjM0ZjBmd1ppV3JnX1hKVVlfYVdta3l2RTl5RlJYUC1Id0Y5VkhlaWREeUFIQnpuaXpZYVA0Q3dJSUVsV2F3bTlGdm9KZlJKaVpGM3RiYzZQTTBRYjhXVnNVc2poMkNuc2FDWEo3QjduMkZRa19OQ0YtRDc2SnpzZEFTNVhFU2g2QXZpZno5ZlJVdy1rSWpiTHhvN0c1NzlBdmNscFM1Sw?oc=5"
     },
     {
       "rank": 7,
-      "score": 6.0,
-      "title": "醫院借助AI優化採購決策：Midstream Health協助消除醫療浪費",
-      "summary": "新創公司Midstream Health採取有別於主流醫療AI的切入策略，聚焦於協助醫院從採購端降低營運成本，而非單純提升收入。該平台透過AI分析醫院內部碎片化的支出資料，找出跨部門採購浪費與重複支出的改善機會，已成功協助Mount Sinai及CommonSpirit等大型醫療體系快速優化採購決策流程。與傳統臨床AI應用不同，Midstream Health的方案不需要臨床資料整合，導入門檻相對較低，適合資訊化程度不一的醫療機構使用。此案例展示了AI在醫療後台營運管理的實際應用潛力，對面臨成本控制壓力的醫院管理層而言，提供了一個具參考價值的財務優化路徑。",
-      "tags": [
-        "醫療AI",
-        "醫院營運",
-        "採購優化",
-        "成本控制"
-      ],
-      "author": "未標示（MedCity News｜2026-04-27）",
-      "source_url": "https://medcitynews.com/2026/04/hospital-finance-costs-ai/"
-    },
-    {
-      "rank": 8,
-      "score": 5.5,
-      "title": "台灣TPIsoftware以FHIR架構醫療AI應用榮獲「Taiwan SMART 50 Award」",
-      "summary": "台灣軟體廠商TPIsoftware憑藉其基於FHIR（Fast Healthcare Interoperability Resources）標準開發的醫療AI應用平台，榮獲「Taiwan SMART 50 Award」殊榮。該平台透過FHIR標準實現醫療資料的結構化整合，為AI模型提供高品質、標準化的訓練與推論資料基礎，有效解決台灣醫療機構長期面臨的異質資料格式整合難題。此獲獎案例顯示台灣本土醫療AI開發商在技術標準化與臨床應用落地方面已取得具體進展，FHIR架構的採用亦符合國際醫療資料互通趨勢，對正在評估醫療資訊系統標準化與AI平台建置的醫療機構提供了本土參考案例。",
+      "score": 7.0,
+      "title": "台灣TPIsoftware以FHIR為基礎的醫療AI應用獲Taiwan SMART 50大獎",
+      "summary": "台灣軟體廠商TPIsoftware宣布其基於FHIR（Fast Healthcare Interoperability Resources）標準所開發的醫療AI應用平台，榮獲「Taiwan SMART 50 Award」殊榮。該平台整合了自然語言處理與機器學習技術，能夠在符合FHIR互通標準的環境下，自動化處理臨床文件、輔助診斷決策並提升跨院資料交換效率。獲獎被視為台灣本土醫療資訊化廠商在AI與國際資料標準結合應用上取得重要認可的里程碑，同時也顯示台灣醫療AI產業在互通性與標準化方面持續深化。對於正在評估FHIR導入或規劃跨系統資料整合的醫療機構資訊部門，此案例提供了本土可參考的實作典範。",
       "tags": [
         "FHIR",
         "台灣醫療AI",
-        "資料標準化",
-        "醫療資訊系統"
+        "資料互通",
+        "醫療資訊化"
       ],
-      "author": "未標示（GNews-Medical AI｜2026-04-27）",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdWlQMXV4RDNxb3JaaEswOWFPTnFRQlJUaE91SlhfQlNRblpKdzlUem41TlRCNWlvUlE1Ty1WNmpHU0tHYzdGeFI0SG4yaTVieUNfRWRQVjhEWkxKR1VzMTNPMnpidkxObmVQTzlnd0E3dDlDWm80UmVXdDF0a3ZnaXZ2Y3JWRHVoZWFXMXpPejlSdXZXc09xVENzaXZZTG9uUGRFcFYwbWZzaEVWT0ZrMnNkQlg1enB4UVE0Rjl4bzhiRVJvSHc"
+      "author": "未標示（GNews-台灣醫療AI｜2026-04-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSk93SkhKbEFLRUZGMXlvMllJTWFpSlkxdDVvT0ZpUElsU1lhTjdWRUZtX1JsNEdlSmM1dzE5eEoxOVhDM25oZTZXdTBCZUo3bnJzS2VmbktSTmVoVFpOd2pnUjBOSGxTc2xPR2RpODYtNmEwRWszZkpBbWhLRzZTbGNwSXlaVkV2?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "醫療AI導入HIMS將如何革新醫院整體運營效率",
+      "summary": "一篇探討AI整合至醫院資訊管理系統（HIMS）的分析報導指出，AI技術與HIMS深度融合將從多個面向顯著提升醫院運營效率。具體應用包括：自動化病歷輸入與摘要生成、智慧床位管理、藥品庫存預測、手術排程優化，以及財務請款流程的自動稽核。文章強調，AI強化HIMS不僅能減輕行政人員重複性工作負擔，更能透過即時數據分析協助管理層做出更精準的資源配置決策。然而，作者也提醒，成功導入需克服系統整合複雜度、員工數位素養培訓及資料安全等挑戰。對於正在評估或升級現有醫院資訊系統的醫療機構資訊部門，此文章提供了全面性的應用藍圖與導入注意事項。",
+      "tags": [
+        "HIMS",
+        "醫院資訊系統",
+        "AI運營效率",
+        "數位轉型"
+      ],
+      "author": "未標示（GNews-AI clinical｜2026-04-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkoxdVhGOUFjNFFfOVBzc0t0NU53OEJvV0ZPMUY1ejJpNF9ub2MwS0NrRzVMdF9OYTJsZUJwcFdlaHkzVW0wdnA2QTZEcHF5MUNHNW9yY3ZkYmpBZUs1TVpjaFJ3Z0JZNmFDS3dQWWluc2NwcGEtbk1PNzc3ZGhiOGpzUEdOYkpYWTVSZUhsY3I3Tm03UUktQmNZWmg4bV93a0M3UC1ZXzB6OVRh?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.0,
+      "title": "醫院借助AI削減營運浪費：Midstream Health的新型成本優化模式",
+      "summary": "美國新創公司Midstream Health以AI分析醫療機構的碎片化採購支出數據，協助醫院找出隱藏的成本節省機會，採取有別於多數醫療AI專注於增加營收的反向策略。該平台已與Mount Sinai、CommonSpirit等大型醫療系統合作，通過整合供應鏈、設備採購及服務合約等多來源數據，識別重複採購、價格異常及低效合約等問題，幫助醫院快速改善採購決策品質。Midstream Health的模式顯示，AI在醫療機構的價值不僅限於臨床場域，在財務與運營管理層面同樣具有可觀的應用潛力。對於面臨成本壓力的醫院財務與資源管理團隊，此一案例提供了利用AI優化支出結構的具體參考方向。",
+      "tags": [
+        "醫院財務AI",
+        "成本優化",
+        "採購管理",
+        "醫療運營"
+      ],
+      "author": "未標示（MedCity News｜2026-04-27）",
+      "source_url": "https://medcitynews.com/2026/04/hospital-finance-costs-ai/"
     }
   ]
 }
