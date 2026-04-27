@@ -56,7 +56,7 @@ EXCLUDED_DATE_ISOS: set[str] = {
 
 # Claude 模型與 Web Search Tool 設定
 CLAUDE_MODEL = "claude-sonnet-4-6"
-WEB_SEARCH_MAX_USES = 15  # 限制最多搜幾次（涵蓋 11 組查詢 + 驗證 fetch）
+WEB_SEARCH_MAX_USES = 20  # 限制最多搜幾次（涵蓋 11 組查詢 + 驗證 fetch + 補搜空間）
 MAX_OUTPUT_TOKENS = 8000
 
 
@@ -179,19 +179,20 @@ SYSTEM_PROMPT_TEMPLATE = textwrap.dedent("""
     ## 第一步 — 搜尋新聞（使用 web_search 工具）
 
     使用 web_search 工具，依下列順序執行查詢；每組查詢完成後再進行下一組。
-    所有查詢一律使用 `after:{today_iso}` 過濾，**僅收今日（{today_iso}）發布的新聞**。
+    所有查詢一律使用 `after:{yesterday_iso}` 過濾（即取「昨日含當日」之後發布的文章），確保候選池同時涵蓋今日（{today_iso}）與昨日（{yesterday_iso}）兩天的稿件。
+    最終是否納入仍由第二步「納入條件」決定（優先收今日；不足 5 則才補昨日）。
 
-    1. `healthcare AI clinical statnews.com OR nature.com OR nejm.org OR thelancet.com OR healthcareitnews.com OR jamanetwork.com after:{today_iso}`
-    2. `medical AI FDA approval hospital workflow after:{today_iso}`
-    3. `AI radiology pathology diagnosis breakthrough after:{today_iso}`
-    4. `healthcare AI policy regulation after:{today_iso}`
-    5. `醫療 AI 人工智慧 臨床 {today_en}`（台灣新聞）
-    6. `日本 医療AI 人工知能 臨床 {today_en}`（日本新聞）
-    7. `韓國 의료AI healthcare AI Korea after:{today_iso}`（韓國新聞）
-    8. `site:healthcareitnews.com AI after:{today_iso}`
-    9. `site:ama-assn.org AI healthcare after:{today_iso}`
-    10. `site:jamanetwork.com artificial intelligence after:{today_iso}`
-    11. `site:hai.stanford.edu healthcare AI after:{today_iso}`
+    1. `healthcare AI clinical statnews.com OR nature.com OR nejm.org OR thelancet.com OR healthcareitnews.com OR jamanetwork.com after:{yesterday_iso}`
+    2. `medical AI FDA approval hospital workflow after:{yesterday_iso}`
+    3. `AI radiology pathology diagnosis breakthrough after:{yesterday_iso}`
+    4. `healthcare AI policy regulation after:{yesterday_iso}`
+    5. `醫療 AI 人工智慧 臨床 after:{yesterday_iso}`（台灣新聞）
+    6. `日本 医療AI 人工知能 臨床 after:{yesterday_iso}`（日本新聞）
+    7. `韓國 의료AI healthcare AI Korea after:{yesterday_iso}`（韓國新聞）
+    8. `site:healthcareitnews.com AI after:{yesterday_iso}`
+    9. `site:ama-assn.org AI healthcare after:{yesterday_iso}`
+    10. `site:jamanetwork.com artificial intelligence after:{yesterday_iso}`
+    11. `site:hai.stanford.edu healthcare AI after:{yesterday_iso}`
 
     優先來源（不限於此）：上述查詢涵蓋重點來源，但不排除其他高品質來源。
     若搜尋過程中發現來自 WHO、NIH、MIT Technology Review、Wired Health、FierceBiotech、
