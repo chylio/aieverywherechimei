@@ -56,7 +56,7 @@ EXCLUDED_DATE_ISOS: set[str] = {
 
 # Claude 模型與 Web Search Tool 設定
 CLAUDE_MODEL = "claude-sonnet-4-6"
-WEB_SEARCH_MAX_USES = 20  # 限制最多搜幾次（涵蓋 11 組查詢 + 驗證 fetch + 補搜空間）
+WEB_SEARCH_MAX_USES = 12  # 限制最多搜幾次；過高會把累積 input tokens 推爆 30K/min rate limit
 MAX_OUTPUT_TOKENS = 8000
 
 
@@ -187,12 +187,10 @@ SYSTEM_PROMPT_TEMPLATE = textwrap.dedent("""
     3. `AI radiology pathology diagnosis breakthrough after:{yesterday_iso}`
     4. `healthcare AI policy regulation after:{yesterday_iso}`
     5. `醫療 AI 人工智慧 臨床 after:{yesterday_iso}`（台灣新聞）
-    6. `日本 医療AI 人工知能 臨床 after:{yesterday_iso}`（日本新聞）
-    7. `韓國 의료AI healthcare AI Korea after:{yesterday_iso}`（韓國新聞）
-    8. `site:healthcareitnews.com AI after:{yesterday_iso}`
-    9. `site:ama-assn.org AI healthcare after:{yesterday_iso}`
-    10. `site:jamanetwork.com artificial intelligence after:{yesterday_iso}`
-    11. `site:hai.stanford.edu healthcare AI after:{yesterday_iso}`
+    6. `site:healthcareitnews.com AI after:{yesterday_iso}`
+    7. `site:jamanetwork.com artificial intelligence after:{yesterday_iso}`
+
+    （日本/韓國/AMA/Stanford 等次要來源，若以上 7 組已產生足夠候選則可省略；如不足才補搜）
 
     優先來源（不限於此）：上述查詢涵蓋重點來源，但不排除其他高品質來源。
     若搜尋過程中發現來自 WHO、NIH、MIT Technology Review、Wired Health、FierceBiotech、
@@ -408,7 +406,14 @@ def call_claude(system_prompt: str, max_retries: int = 3) -> list[dict]:
             return items
 
         except Exception as e:
+            err_str = str(e)
             print(f"  [ERROR] API 呼叫失敗（attempt {attempt}）：{e}")
+            # 429 rate limit → 必須等到 token bucket 回滿（per-minute 限額）
+            if "429" in err_str or "rate_limit" in err_str.lower():
+                wait_s = 65
+                print(f"  [BACKOFF] 偵測到 rate limit，等待 {wait_s} 秒讓 token bucket 回滿...")
+                time.sleep(wait_s)
+                continue
 
         if attempt < max_retries:
             time.sleep(15)
