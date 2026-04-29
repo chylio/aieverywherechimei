@@ -1,0 +1,131 @@
+{
+  "date": "2026年04月29日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "FDA宣布啟動即時臨床試驗重大計畫，AI技術加速藥物審查流程",
+      "summary": "美國食品藥物管理局（FDA）於2026年4月29日正式宣布推動「即時臨床試驗（Real-Time Clinical Trial，RTCT）」計畫的兩項重大步驟。此計畫允許FDA監管人員透過雲端平台即時監看試驗終點數據，改變過去事後審查的傳統模式。FDA局長表示，這將使臨床試驗更「聰明」，有助縮短各試驗階段之間的時間間隔，並降低重複試驗的資源浪費。合作夥伴包含AstraZeneca及Amgen等大型藥廠，初期聚焦於癌症藥物開發。此舉被視為AI與數據科技正式進入FDA核心監管流程的里程碑，對新藥上市時程、臨床試驗設計及醫療機構參與研究的模式均具深遠影響，也為全球監管機構提供將AI整合至法規審查體系的示範案例。",
+      "tags": [
+        "FDA",
+        "即時臨床試驗",
+        "藥物開發",
+        "法規科技"
+      ],
+      "author": "未標示（FDA Press Releases｜2026-04-29）",
+      "source_url": "http://www.fda.gov/news-events/press-announcements/fda-announces-major-steps-implement-real-time-clinical-trials"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "AI應用於腫瘤學報告生成：西北大學研究顯示優於醫師表現",
+      "summary": "美國西北大學Feinberg醫學院研究人員發表最新研究，發現AI在生成全面性腫瘤學報告方面的能力已超越醫師。研究針對腫瘤科臨床報告進行系統性評估，AI生成的報告在完整性、結構一致性與關鍵資訊涵蓋率等指標上均優於人工撰寫版本。此發現對放射科、腫瘤科及病理科的臨床工作流程具有直接衝擊，顯示AI輔助報告工具已從「輔助角色」逐步演進為可獨立作業的能力層級。然而研究同時提醒，AI報告的臨床應用仍需建立嚴謹的審核機制與責任歸屬框架，以確保患者安全。此研究為醫院評估導入AI文件生成系統提供重要參考依據。",
+      "tags": [
+        "腫瘤學",
+        "AI報告生成",
+        "放射科",
+        "臨床AI"
+      ],
+      "author": "未標示（The Daily Northwestern｜2026-04-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRy15NV9GZ2xFUWFheUcwT2FMaDR6LVJtYVZFZDMwR1ZjZXQ3Y1RmSnpJRExBWGN4UDZfWDVJTE53b0dMbTFnUkJMR0U1bHN2OTROY2d3aDdqVFMtT2NWeXhsZGlRY1FqYnM5WEViRzl0Ql9IdFZ1QzJMTHdmbjYyVENEME5SRVBIZ1RKYm1aZHNOTU52TmhNSW9mRnBrdWdNc0I5czh5dVJtZ3hlaWFmcGZLcG1kQWNTU3c5RDJTeV94ZVFqellFWFZabmxya3JVS0wxcEZQS3lrbWRlWlYzdXV4M2s4dw"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "以色列AITRICS與越南興安省衛生局簽署MOU，擴大醫療AI國際合作版圖",
+      "summary": "韓國醫療AI新創公司AITRICS宣布與越南興安省（Hung Yen）衛生局正式簽署合作備忘錄（MOU），將在當地推廣其醫療AI解決方案，涵蓋早期敗血症預警、病患惡化偵測等重症監護AI應用。此合作標誌著亞洲醫療AI企業積極向東南亞醫療體系擴張的趨勢，越南龐大的公立醫院體系與相對不足的醫療人力，使AI輔助臨床決策系統具有高度落地潛力。對於亞洲區域醫療AI生態系而言，此類政府層級的合作協議有助於建立長期採購與資料共享框架，也為其他醫療AI廠商提供進入新興市場的策略參考。",
+      "tags": [
+        "醫療AI",
+        "國際合作",
+        "東南亞",
+        "重症監護"
+      ],
+      "author": "未標示（koreabiomed.com｜2026-04-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEX20yWWpTbHgxaHNtdEtOanlpV3VSak1ocktJQWE5U0g4MnR6dm1uRV94clhvWjRLbW1XejZjdVdjalJGbUh4QUlTeTg4QzZhRGNTcll4T25qYW44QjV5SWNHclJkZ05acktvWVFB0gFyQVVfeXFMUDJ1WlVSVzVqRTdMZ21wZjNDUnRBRmJlT28zSVVLRUxiWHRGNDZKYUlVY3EyRFB0bDhHVlNiRHZYMkptYVN2dVNTbU9pZnF4Zno5YW9RRmQwNy1CaTZFTmtsMXB3RU9CaXlVRUdJZTdDa3NR"
+    },
+    {
+      "rank": 4,
+      "score": 8.2,
+      "title": "Nvidia與Hoppr攜手打造醫療AI基礎設施層，破解規模化瓶頸",
+      "summary": "MedCity News深度報導指出，醫療AI至今仍難以大規模落地的核心原因在於缺乏統一的基礎設施層。Nvidia與新創公司Hoppr正合作建立一套新型架構，讓醫療機構能夠自行開發並部署專屬的醫療影像AI模型，而非依賴各自獨立的商業應用程式。此模式類似雲端平台的概念，將AI能力下放至醫院端，使機構得以根據自身臨床需求、資料特性與法規環境進行客製化。報導強調，這種「基礎設施即服務」的策略，相較於單一AI應用導入模式，更能解決跨科室、跨系統整合的根本挑戰，被視為醫療AI進入下一階段規模化部署的關鍵路徑。",
+      "tags": [
+        "醫療AI",
+        "Nvidia",
+        "影像AI",
+        "基礎設施"
+      ],
+      "author": "未標示（MedCity News｜2026-04-28）",
+      "source_url": "https://medcitynews.com/2026/04/ai-healthcare-nvidia-hoppr-tech/"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "AI透過常規非顯影劑CT偵測大腸癌，機會性篩查新應用引發關注",
+      "summary": "Radiology Business報導，最新研究顯示AI已能透過分析常規無顯影劑（noncontrast）CT影像，偵測出大腸直腸癌的影像特徵，此技術被稱為「機會性篩查（Opportunistic Screening）」。其核心優勢在於不需要額外安排專項篩查，而是從病患因其他原因接受的常規CT掃描中，同步挖掘潛在癌症訊號，大幅降低額外檢查成本與病患不便。此研究對放射科AI工作流程整合具有直接意義，若能廣泛導入，有望在不增加醫療資源負擔的前提下，提升早期癌症偵測率，對台灣大腸癌高盛行率的臨床現場尤具參考價值。",
+      "tags": [
+        "大腸癌篩查",
+        "機會性AI",
+        "放射科",
+        "CT影像"
+      ],
+      "author": "未標示（Radiology Business｜2026-04-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ3djaExycWFUdEtBNFFwSzE2Ums1MzJjUmZDc1NtNGRZT1VYRzl2NkF0RTYwNmk1YThZaFBnTkZMWFluNnRmSXZMeXU5QmtHTEZuMUtYZy1rWXFwdll5V3ZIMjVueGVvVkhnMkdaM1huRkhNVUZxSnQ2S3hiREkxLV8zRU9Tbkk5N2p0WU5YLUpvZFVsZVJFTEE5M3JrUXNLOEhmaDZQemVrdlBTLTdHd0ktMDNMakliVlBfQWZWQW1oMHcxLWVubWVnb0Y"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "Google臨床主任：AI可成為心理健康危機的「橋樑」，但安全挑戰不容輕忽",
+      "summary": "STAT News專訪Google臨床主任Megan Bell Jones，深入探討Google如何因應其AI產品（包含Gemini）在心理健康領域的安全性爭議。Bell Jones表示，AI可在使用者處於心理健康危機時扮演「橋樑」角色，協助連結正規醫療資源，但同時強調公司正積極建立安全防護機制，以避免AI回應加劇用戶脆弱狀態。報導亦涉及Google AI聊天機器人面臨的多重挑戰，包括用戶對AI情感依賴、危機識別準確度及轉介機制設計等議題。此訪談為醫療機構評估導入AI心理健康工具時的風險管理框架，提供來自科技巨頭第一線的實務觀點。",
+      "tags": [
+        "心理健康AI",
+        "Google",
+        "安全性",
+        "臨床AI"
+      ],
+      "author": "未標示（STAT News｜2026-04-28）",
+      "source_url": "https://www.statnews.com/2026/04/28/google-gemini-ai-mental-health-safety-interview-clinical-director-megan-jones-bell/?utm_campaign=rss"
+    },
+    {
+      "rank": 7,
+      "score": 7.3,
+      "title": "取代放射科醫師不能消除風險，只是將風險轉嫁給病患",
+      "summary": "AuntMinnie刊載深度評論，指出當前醫療界以AI「取代」放射科醫師的討論方向存在根本性謬誤。文章論點核心為：AI取代人工判讀並不等同於消除誤診風險，而是將責任鏈中的風險節點從臨床醫師端移轉至病患端，尤其當AI發生錯誤時，缺乏具備專業判斷能力的醫師作為最後防線，後果可能更為嚴重。文章呼籲業界重新框架AI在放射科的定位，應以「增強人類判斷力」而非「替代人類」為核心原則，並建議監管機構在核准AI放射診斷工具時，應更嚴格要求臨床驗證標準與責任歸屬規範，以保障病患安全。",
+      "tags": [
+        "放射科AI",
+        "病患安全",
+        "AI風險",
+        "醫療責任"
+      ],
+      "author": "未標示（AuntMinnie｜2026-04-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWW50SmpudEdqMG1Pcy1YOVpFT2RDZUw2RnR6RmFGN3B2andTNmR0M0F4V0xRTURfa3RqNVZrVGRhdUY1THZpaDZUeVdSS05vVXI2SFhWNUVIV0p3aGhSMjRwNXU4NzBrN2IzLXRHaFV3OUJyTEZjQ3l6N2Z0UDJCZ2NaN2FfRmZRNlI3eXhQb29QRUVybldiZDJBZElPQUtDQ3VsQThuQ1M2b00yWE1udXNndWNQdmNjbWpwSVl6OTQ5cTFWRXFrMmg1YnZYcVhMbm9XS1RoWlBHRFNPcXk1czJCTGlOemQ1RjF6dnUtamdDdw"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "健康臺灣首階段成果出爐：AI導入、FHIR與跨院整合同步加速",
+      "summary": "CIO Taiwan報導台灣「健康臺灣」政策首階段執行成果，重點涵蓋三大面向：一、醫療機構AI工具導入率提升，涵蓋臨床決策支援、影像判讀及行政自動化；二、FHIR（Fast Healthcare Interoperability Resources）標準在各級醫院的落地進展，推動電子病歷互通性；三、跨院資料整合機制的具體建置成果，包括雙向轉診與照護連續性資料流通。報導顯示政策推進速度優於預期，但各院所在資安合規、資料品質標準化及基層醫療數位化能力上仍存在落差，為下一階段政策修訂提供方向。此報告對台灣醫療機構掌握整體數位轉型進度具有重要參考意義。",
+      "tags": [
+        "健康臺灣",
+        "FHIR",
+        "醫療互通性",
+        "數位轉型"
+      ],
+      "author": "未標示（CIO Taiwan｜2026-04-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9vOVlHRmpvTFNMV0xiWXBCWVotN3ZnRXdSdTRMLVRNTHFiSGtycVZsTkxPM1laU3hPTGRxNFNSelZaR1B5"
+    },
+    {
+      "rank": 9,
+      "score": 6.8,
+      "title": "亞洲大學自主研發可解釋醫療AI，心電圖判讀同時提供決策依據說明",
+      "summary": "台灣亞洲大學宣布自主開發一套具可解釋性（Explainable AI，XAI）的醫療AI系統，專注於心電圖（ECG）自動判讀。有別於傳統黑箱AI僅輸出診斷結論，此系統能同步說明判斷依據，例如指出具體波形特徵與異常區段，協助臨床醫師理解AI推論過程。可解釋性AI在醫療場域的應用一直是學術與監管機構關注的核心議題，此系統的開發有助於建立醫師對AI輔助診斷工具的信任，並在發生誤判時提供追溯依據。研究團隊表示，此技術有望擴展至其他生理訊號判讀領域，為台灣本土醫療AI研發能量提供實質展現。",
+      "tags": [
+        "可解釋AI",
+        "心電圖",
+        "台灣醫療AI",
+        "臨床決策支援"
+      ],
+      "author": "未標示（MSN｜2026-04-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQM21HRHhXMjlMVGdYRUZMbm9JZFE5dkFIZW54eEE4OGducEZxcDQ4YjVJM1dDNlhDeW93dTFadTdaSEhRVHY3cjNhWXpINDhPOXlqa3ZBZGM1RFZ6UkpyR3h0VUJxTVRPVTdiWUM0TWgtMjNXTElFR1pvbFEwYU4yMjIzMXZlQ3RLaDRxTGx2WDRua2ZjaVczSXFJMEZEQ3lMOW1MY0s1MERodHlOck1iU0hhZER5SkZCcnE3cS1JUF9ydWJkZjFIa2xhcmZSdmVOSllrUUlrS1dCV21CSGhyMDZLUlpEaHkyQVFDZkRuNU5ta01YLTA4SjN6cFJSSkx3RUdMelBCdW84UHA4dkVrUG5Pb2lnY243YXpXbVZCY3NMS0xfYndCYVZDbll2Tno0VHIxZ1hYRlNzVDc5OWFZNUZkSDgzcWJTQ1Z0NDJMNmM2TUs2cUZ6cm1SdkoxcjhxS0FwZUZyVU8tU01ieHN5ZUstdzA2QXJsenBJT2xLWWM5azNEdlZ3ZlpfTmJERU9CUW1NZ2E3NGljb1U5U3h2aWhYSGttTC01VVdSSUVlcE03V0c3QXZLdkxFVkZySmNwMFF5cUFLQjh0TG40M2ZKQ2oyMHhYS2M"
+    }
+  ]
+}
