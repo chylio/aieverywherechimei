@@ -1,0 +1,117 @@
+{
+  "date": "2026年05月01日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "OpenAI大型語言模型在診斷推理任務上超越醫師，科學家反思前進方向",
+      "summary": "《Science》期刊於2026年4月30日發表最新研究，測試OpenAI旗下大型語言模型在診斷與臨床推理任務中的表現。結果顯示，該模型在多項測試指標上超越醫師，引發醫學界對AI輔助診斷未來發展路徑的廣泛討論。研究人員指出，這項成果雖代表技術上的重大突破，但也帶來諸多待解問題，包括：AI診斷結果如何整合至臨床流程、如何建立適切的驗證與監管框架、以及醫師角色將如何轉變。專家強調，模型表現優異並不等同於可直接取代醫師判斷，臨床落地仍需克服資料代表性、責任歸屬與安全性等挑戰。此研究為醫院領導層與臨床科主任提供重要參考，顯示AI在輔助診斷決策方面的潛力已進入實證階段，相關治理架構的建立刻不容緩。",
+      "tags": [
+        "臨床AI",
+        "大型語言模型",
+        "診斷輔助",
+        "AI治理"
+      ],
+      "author": "未標示（STAT News｜2026-05-01）",
+      "source_url": "https://www.statnews.com/2026/04/30/open-ai-llm-model-outperforms-doctors-study-published-journal-science/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "醫療AI安全審查跟不上技術發展速度，專家發出警示",
+      "summary": "Medical Xpress報導指出，醫療AI的商業化與臨床部署速度已明顯超越相應的安全審查與監管機制，多位專家對此發出警示。報導指出，目前許多醫療AI工具在進入臨床使用前，缺乏嚴謹的前瞻性驗證研究，尤其在邊緣案例、族群多樣性及系統整合層面存在隱患。隨著AI被廣泛應用於影像判讀、風險預測與臨床決策支援，若安全評估機制無法同步跟進，將對病患安全構成潛在威脅。專家呼籲監管機構、醫院及廠商應建立更具約束力的上市前評估標準，並強化上市後的持續監控機制。這項議題對於正在評估或導入AI系統的醫院領導層與資訊部門具有高度參考價值，顯示治理框架的完備性不亞於技術本身的重要性。",
+      "tags": [
+        "AI安全",
+        "醫療監管",
+        "臨床AI",
+        "AI治理"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-05-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORjBKTWJYV0luMDZ0a1NvMXJRb0VIM0JwWmhaNFpDcDdveDBxYXRQMHFWSDdZMVVwVGw1ZUVOYTVWRE9NNGVucGViRUNKTHltS1lBMXd5NklqSzRNTHlDTFBqX21lQW96cm9sQlhoOFdBZE92blp3eFBibV9LS1FONUxn?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "AI模型偵測胰臟癌早期徵兆的能力超越放射科醫師",
+      "summary": "Radiology Business報導，最新研究顯示，一款AI模型在偵測胰臟癌早期影像徵兆方面的表現已超越放射科醫師。胰臟癌因早期症狀不明顯、診斷困難，患者確診時往往已進入晚期，五年存活率極低，因此早期篩檢工具的突破具有極高臨床意義。該AI模型透過分析電腦斷層影像，能夠識別人類醫師容易忽略的細微病灶特徵，有望顯著提升早期診斷率，進而改善患者預後。研究結果引發放射醫學界對AI輔助篩查的高度關注，並促使業界重新審視AI在高難度影像判讀場域的定位。對於設有放射科及腫瘤科的醫院而言，此類工具的臨床引進潛力與配套驗證需求值得密切追蹤。",
+      "tags": [
+        "放射科AI",
+        "胰臟癌篩查",
+        "影像診斷",
+        "腫瘤學"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-04-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSFBIOUdXX3l0WnpubzVET3BUN1R2TGdDYU02d0hHZWxYaEw0SVVLV2lxaTN1VVdWU2s3RmFKV0wzd01rM0hoajdxeXdNVV81M1NkdmFUSjFEWHZ3eFp3aEdsbGNXOHUwMjNQdU9CNmxEUVV2MjRqQWRnSUp3Z25HdDN4M0FONV83bzFtcWtqS3dWcDVDcTZleE1qOTl0Slc3UDBENGZGM3hZX1JqdmxXcTNaV2F2MEFBRVNUdElIQ3BhVEtpZXFz?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.0,
+      "title": "AgentClinic框架：以更貼近臨床現實的方式測試醫療AI",
+      "summary": "News-Medical報導，研究人員推出名為AgentClinic的新型評測框架，旨在以更接近真實臨床場景的方式測試醫療AI系統。有別於傳統以靜態醫學考題或固定問答集評估AI的方法，AgentClinic模擬醫師與病患互動的動態流程，涵蓋病史採集、鑑別診斷與治療決策等多個環節，藉此更全面地衡量AI在複雜臨床情境下的推理能力與可靠性。研究人員指出，現有醫療AI評測方法往往高估模型的臨床實用性，AgentClinic的出現有助於填補這一驗證缺口。對於醫院在評估、採購或自行開發AI診斷工具時，此框架提供了更具參考價值的性能基準，也呼應了業界對醫療AI落地驗證標準化的迫切需求。",
+      "tags": [
+        "AI評測",
+        "臨床AI",
+        "診斷輔助",
+        "AI驗證"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-05-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU19YbXk1aFZZX0RoUmFOM2pfMmd0eHZkWUVHd19KRUlfZVJtZ3hPNlFHTEJWX0wxYVdoUUxfR2s0a05pc0VneGtzUjRzOFRjNWRuVWpZMGV4dWRUbEZsdUtPRHVQS3dLTDhtellyLXhyUklvanF3TlhnR1Z2UWh5NDhqc2ZlOTM2VUVXNmJhOXRyZ2NCek9JOERhNWFhRThubzVYVkFZMlg1RkU2Mk92d0hUd3dTclE?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "韓國Coreline Soft的AI冠狀動脈鈣化評分工具取得美國計費代碼，醫療AI給付里程碑",
+      "summary": "koreabiomed.com報導，韓國醫療AI公司Coreline Soft旗下產品AVIEW CAC（冠狀動脈鈣化評分AI工具）已取得美國正式計費代碼，標誌著醫療AI進入可申請保險給付的新階段。這是醫療AI商業化的重要里程碑，顯示AI影像分析工具從「輔助工具」轉變為「可計費醫療服務」的趨勢正在加速。AVIEW CAC能自動分析CT影像中的冠狀動脈鈣化程度，協助評估心血管疾病風險。取得計費代碼後，醫院採用此類工具的商業誘因大幅提升，預期將加速相關AI產品在美國市場的普及。此一發展對台灣醫療AI廠商及醫院資訊採購部門均具有重要的政策與市場參考意義。",
+      "tags": [
+        "醫療AI給付",
+        "心血管AI",
+        "影像診斷",
+        "醫療監管"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-04-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0cmx6bl9iNXljV3hRb0FCQnlLdnlscnViQlJ2eVNUcFo4Skl3RWIzcGJtX2lIamV4Y2RuREZmdlgyY3Fma3BfVkh2b184Y3MtWWgxZnMweUhCcjVaWkJqWWJYSEt1aFRBOEtJZHpR0gFyQVVfeXFMTTRRbzg1RWZNTk5yZEYyc25tZVBWUExnLWtpZjBBRFYwWlJTY3ZVcTg1dE9QN000WmxCZkVZZXdtMjBjelJWUk5DRC1qZHhNZ3lNcTVzUkdmUlloMEhMUUpmM2JUSmdRUVBDMHVtOTAtdkJB?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "UToledo Health導入環境式AI後，醫師開放病歷時間縮短、文件記錄品質提升",
+      "summary": "Healthcare IT News報導，美國托雷多大學健康體系（UToledo Health）導入環境式AI（Ambient AI）抄寫工具後，成功解決臨床醫師長期面臨的文件記錄負擔問題。過去電子病歷雖有助於資料蒐集與照護協調，卻也使臨床人員花費大量時間於行政作業，壓縮直接照護時間。導入環境式AI後，「開放中病歷」數量顯著下降，代表醫師能在診間即時完成記錄，不再需要於看診後補寫，文件完整性與時效性均有改善。此案例為醫院推動AI輔助臨床文件記錄提供具體實證，顯示環境式AI不僅能減輕醫師行政負擔，亦有助於提升醫病溝通品質。對於正在評估環境式AI導入的醫院資訊及臨床部門具有直接參考價值。",
+      "tags": [
+        "環境式AI",
+        "臨床文件記錄",
+        "醫師負擔",
+        "醫療資訊系統"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-01）",
+      "source_url": "https://www.healthcareitnews.com/news/utoledo-health-ambient-ai-decreases-open-charts-improves-documentation"
+    },
+    {
+      "rank": 7,
+      "score": 7.3,
+      "title": "醫療AI治理新標竿：Credo AI將旗下平台與CHAI框架完整對齊",
+      "summary": "TipRanks報導，AI治理平台公司Credo AI宣布將其醫療健康AI治理產品與CHAI（Coalition for Health AI）框架全面對齊，成為業界在AI問責制與透明度管理上的重要示範。CHAI框架由美國主要醫療機構共同制定，旨在為醫療AI系統建立一致的評估與驗證標準，涵蓋公平性、可解釋性、臨床安全性及資料隱私等核心面向。Credo AI此次整合使醫療機構能夠透過單一平台，系統化地追蹤並證明其AI應用符合CHAI規範，降低合規管理複雜度。隨著各國對醫療AI監管要求日趨嚴格，此類治理工具對醫院數位轉型團隊及法規遵循部門的重要性持續上升，值得醫院領導層關注其對未來採購與自主開發AI產品的影響。",
+      "tags": [
+        "AI治理",
+        "醫療合規",
+        "CHAI框架",
+        "AI問責"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-04-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcFVFQzRxSTdCOWtlQmNOV1g0d0dyRHRndGtjS1R5WENlWFBPaEo4eDRxRWIzM3NqNkRsVy1COWNqM0JkYjRZY0FkY0VnWUxPZnM2SGYwWm9PN1ZORkVYNWphRkxtNUFyWHVpZFJHcjJPVkVpbnk1TnFMVDl5ZjRDQk1oUGtkX2tHOW5xSUp3dVJObTBiM3k0M3F1RGVRekNMeTB1V0JZSFpmaHlaeXR2S3FsLUw1aEZI?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "德適發布醫療AI評測平台DoctorBench，矢志建立全球醫療大模型臨床實戰新標準",
+      "summary": "香港商報及經濟導報報導，港股上市公司德適（Diagnostics Robotics相關企業）發布醫療AI評測平台DoctorBench，主打以臨床實戰場景為核心的評測體系，旨在重新定義全球醫療大型語言模型的評估標準。有別於現有以醫學考試題目為主的評測方式，DoctorBench聚焦真實臨床場景下的模型表現，涵蓋多科別病例推理、中英文雙語醫療問答及多模態影像理解等向度。德適表示，2025年公司營收年增逾133%，顯示其醫療AI商業化佈局快速擴張。對台灣醫療AI產業而言，此類評測平台的出現有助於推動本地廠商與國際標準接軌，也為醫院在選購AI產品時提供更客觀的比較基準。",
+      "tags": [
+        "醫療AI評測",
+        "大型語言模型",
+        "臨床AI",
+        "亞洲醫療AI"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-04-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BSEtCb2FGc0xqd25EU3ZDdUJ2S1JTd1FadEp4RjZ5YzJmd1B3ZHVYMXpUVFRacHBQVkpOZTE1NFVSdl9BZGdlUkQ5QktoS05lMmxJQlBOdGEyTDNZQThkaFgtSmwzNjhORkpHU1dFTGE0MnpwMVpSYjdhUQ?oc=5"
+    }
+  ]
+}
