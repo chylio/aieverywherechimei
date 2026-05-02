@@ -1,0 +1,117 @@
+{
+  "date": "2026年05月02日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Cleveland Clinic攜手新創Luminai，測試AI全面運行醫院營運管理",
+      "summary": "Cleveland Clinic宣布與新創公司Luminai展開合作，測試以AI自動化執行醫院日常營運任務，涵蓋床位調度、人員排班、行政流程等工作。Luminai的平台透過大型語言模型與醫院現有系統整合，能自動執行原本需人工完成的複雜操作決策。此舉代表AI在醫療體系中的應用已從輔助診斷向醫院營運指揮層級延伸，若試驗成效顯著，將對醫院管理模式帶來深遠影響。對醫院領導層而言，此案例揭示AI代理人（AI agent）技術正逐步進入醫療機構核心運作，值得密切關注其在資安、責任歸屬與員工角色重組等層面的潛在挑戰與機會。",
+      "tags": [
+        "醫院營運AI",
+        "AI代理人",
+        "數位轉型",
+        "臨床管理"
+      ],
+      "author": "未標示（Fierce Healthcare｜2026-05-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcXE5NU0wOGtCdEFiMGUwbVc0Y0FSQ3dFRkNXT01DbXhlYzdXTEZWMlFoOGNqM21LeTllY3Q5TWZjQzJVdmtsckF4Sy1JWWZKRmpnbW9CVTgyanhRRkJ6cl91ZnFYUjBGY1owdWFQXzZad09UVG5SQWhxOFlDTGdOTnoxR0tCYUN1TlN4Yl83WjlRN2h2eUdMWW1nVEVBWGZOR3l1ZXVHN0dtbmhZVGE0OUpDelhEdENzb0c1U25fc2lLRGZVMFNDOXJn"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI急診診斷真實世界測試超越醫師：CBC最新報導揭示臨床應用前景",
+      "summary": "加拿大CBC報導一項真實世界測試結果，顯示AI模型在急診室診斷任務上的表現超越人類醫師，引發廣泛討論。此研究並非模擬情境，而是在實際臨床環境中評估AI的診斷準確率，強化了先前多項實驗室研究的發現。急診醫學面臨高壓、資訊量大、時間緊迫等特性，使其成為AI輔助診斷最具潛力的應用場域之一。然而，研究也指出AI目前仍無法完全掌握病患的非語言線索與情境脈絡，臨床部署前須審慎評估誤診風險與責任歸屬。此研究對急診部門、資訊部門及醫療AI治理政策制定均具重要參考價值，提醒醫療機構在引進AI診斷工具時應建立完善的監督機制。",
+      "tags": [
+        "急診AI",
+        "臨床診斷",
+        "真實世界驗證",
+        "AI超越醫師"
+      ],
+      "author": "未標示（CBC｜2026-05-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUhRd0I1ZmhOcE5IZDlGdTV3S1pUTjQzSi0tUVhTWVhGR0dJU1VnVm5sX19mYXZHYzkzZ2pkU1lNZklqR0tWOTJJYzJtR3VxSEw3MHJ5WFZXT3p3Ykx5RDh6dEZSMVJ0b0JqSjlpMXlvTHk1V0JtSlFEUEsyZ2JLeW9HcEVEMzg"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "病患面對醫療AI傾向隱瞞資訊，恐影響數位診斷準確性",
+      "summary": "Medical Xpress報導一項重要研究發現，病患在與醫療AI系統互動時，存在明顯的「資訊隱瞞」行為，不願向AI透露與人類醫師溝通時會主動分享的敏感症狀或生活習慣。這種現象可能源自對AI隱私保護的疑慮、不信任感，或認為AI「不夠理解人情」。研究指出，此一資訊落差將直接削弱AI輔助診斷的準確性，甚至可能衍生出比傳統診療更多的誤診風險。對醫療機構而言，導入AI問診或篩查工具前，如何建立病患信任、確保資訊揭露完整性，將是決定AI臨床效益的關鍵因素。此研究對數位轉型策略、病患溝通設計及AI工具的使用者體驗優化均具直接啟示。",
+      "tags": [
+        "病患信任",
+        "醫療AI溝通",
+        "數位診斷",
+        "使用者行為"
+      ],
+      "author": "未標示（Medical Xpress｜2026-05-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yZkdtVjhWUWRfU2pUWDBpai1xTmF1bXNfd3ZvXzlyMkdWeURPN21IbHNqcGJ4TndLTFpRV1JjMXFOcDBwR2pybm1MbWVCSF9salVYaDNsTFk0OGxoUF9SdnZka1h4cUhnUy1DT3p6cldMbGFLOW95UUdhM1o"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "新加坡醫院導入AI跌倒偵測攝影機與AR技術，智慧醫院應用實例",
+      "summary": "菲律賓星報報導新加坡一家醫院積極部署多項AI與擴增實境（AR）技術，包括用於病房監控的AI跌倒偵測攝影機系統，以及回答病患常見問題的智慧對話機器人。該院的跌倒偵測系統可即時分析攝影機影像，在病患有跌倒風險時自動發出警報通知護理站，有效減少護理人員的監測負擔。此外，AR技術被應用於醫護人員培訓與臨床操作輔助。這項案例展示了亞太地區醫院在智慧化轉型上的具體實踐路徑，對臺灣醫療機構在規劃病安監控系統、護理人力優化及數位醫院建設上，提供了值得參考的實際運作模式。",
+      "tags": [
+        "智慧醫院",
+        "跌倒偵測",
+        "病患安全",
+        "亞太醫療AI"
+      ],
+      "author": "未標示（Philstar Life｜2026-05-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVXZEYzd2T1BTRUFrVDFuY0ZPcGpNTHRnQldRMHdaUU5MdTZFVWs3dU40ZTNSaTI4YnVxUXFrT0pjUE4xT2ZZQXQ0RGNJYTBuZ3p3RVphOEE1M1JjLTdEN3NPUEhFZUFmbzk3aDJ3OFZTNzFuRURLeGV2bzM5RDJHR0RDQ0k3T1BmZ0Nsd1pR"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "醫院法務團隊如何有效介入AI治理：六大關鍵建議",
+      "summary": "HealthExec發布一篇針對醫院管理層的實務指南，列出六項確保法律團隊適切參與AI治理與監督的具體做法。文章指出，隨著AI工具在臨床與行政流程中快速普及，醫院若未將法律顧問納入AI採購、部署與稽核流程，將面臨重大法律曝險。六項建議包括：在AI採購早期納入法務審查、建立AI使用政策與員工培訓制度、制訂AI事件通報機制、定期進行AI工具合規稽核、明確界定AI輔助決策的責任歸屬，以及追蹤FDA與國際AI法規動態。此指南對醫院資訊部、法務室及數位轉型委員會在建構AI治理框架時，提供了清晰的行動參考。",
+      "tags": [
+        "AI治理",
+        "醫療法規",
+        "風險管理",
+        "合規"
+      ],
+      "author": "未標示（HealthExec｜2026-05-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2owLS0ySHBiOUoxSVYwa1dxSHJjTzh1VGszNHlNaG5LSnJaT0NMVlhYT3pROV9NUmtuLWZMTW1vYmg1WXp0TUpGWFZVdVROWmd3MHlWSzQ5c2Y1MUhqcmVMY01VWG8ySFVJeTYzbldTMXN3VnY3S1FNMkV0NWRIeVFLbHQya2Vvb0Q0anpJYTJwOEpvTFB2dnd0a29Cdw"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "Techcyte獲1,500萬美元融資，加速AI數位病理平台邁向獲利規模化",
+      "summary": "數位病理AI新創公司Techcyte完成1,500萬美元融資，將用於擴大其AI驅動的數位病理平台規模並推進商業化。Techcyte的技術以AI自動分析組織切片影像，協助病理科醫師提升判讀效率與準確性，特別適用於癌症篩查與診斷。此輪融資顯示投資市場對數位病理AI的持續看好，也反映全球病理科人力短缺背景下，AI輔助判讀工具的市場需求正快速增長。對醫療機構而言，數位病理AI不僅有助縮短報告回覆時間，亦可作為偏遠地區或人力不足醫院的遠距病理支援解方。此融資案為相關技術採購評估提供了市場動態參考。",
+      "tags": [
+        "數位病理",
+        "AI影像診斷",
+        "醫療AI投資",
+        "癌症篩查"
+      ],
+      "author": "未標示（Pulse 2.0｜2026-05-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVEUwQXJkc0JRSWRib3Bid2Y5d0RUZmFMR0RtVjNQS1QxamVpNkJkSUxzeTV6N08xWUNScE5TWjhablZMcWpwZmVCN0dteUdrbG5PblRUeTgzcGcxcGE3N29OLUhpTHE3NlNEUnNhU0hzVG5HZ28wd0NxaXpjX3NQYi1yWUtNUDhkWVJOeWlDQlF3cFRDSVdnRVBvVHFnR213MnZDLVQwTmVQV0taVHB6YWdHTTjSAboBQVVfeXFMTUEybzF5UEU1NEROT0VFS1dCVnBNZnFnLWs3eFBjQm1lQ3hsZUVJeXFXcnJHV2xoRlZYaHJlaVdBeFJzWFBVZEtiOVJvcEZYcFd2NmFzQXcydnVmbjkybU1nLURVZ1lmeFdiSHRublctTVQ0LTB5TEJMTUxyU0RJcWtRRE9uS083YW1xbDFLZEJZczZEQUVxSk9IUzliT2V5emNMcFh0U1hhUlBLZk9lSVMtUHRLampack13"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "NEC啟動生成式AI醫療數據二次利用實驗，探索大型語言模型在臨床資料分析的應用潛力",
+      "summary": "日本科技大廠NEC宣布啟動一項實驗計畫，探索以生成式AI對醫療數據進行二次利用的可行性。計畫重點在於利用大型語言模型（LLM）分析結構化與非結構化的臨床資料，包括電子病歷、影像報告及檢驗數值，以發掘疾病規律與輔助臨床決策。NEC強調，此實驗將嚴格遵循日本個人資訊保護法及醫療資料相關規範，確保病患隱私。此案例對台灣醫療機構具有直接參考意義，特別是在健保資料庫及院內大數據的AI應用規劃上，展示了如何在合規框架下推動醫療數據的智慧化再利用，對數位轉型策略制定具啟發性。",
+      "tags": [
+        "生成式AI",
+        "醫療數據",
+        "二次利用",
+        "日本醫療AI"
+      ],
+      "author": "未標示（客观日本｜2026-05-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NcVVxcUNzRHV5Yl9Eb1p3ZEI3eERxYlVBRE5abXgwdzBSdjBscnhYLUwybmJuQW0zRGtCZDdoOXg3V29LWklPbW5kX2RRR0pWYTR2ODNDZlU3eUtabG1zZHVJUWE5S28ySlZVZXFlME5zS3FhekE"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "醫療AI論壇揭示健康體系導入挑戰：法律、倫理與治理框架成焦點",
+      "summary": "JD Supra報導Sheppard Mullin律師事務所舉辦的首屆「Healthy AI Forum」論壇重點摘要，與會者涵蓋醫療機構高層、法律專家與AI業者。論壇聚焦於醫療AI在實際導入過程中面臨的關鍵議題，包括：AI輔助決策的醫療責任歸屬、FDA監管框架的適用範圍、患者數據隱私保護（HIPAA合規）、AI偏見與公平性，以及醫院如何建立有效的AI治理委員會。與會專家指出，許多醫療機構雖已積極試用AI工具，但在制度面與法律面的準備仍明顯滯後。此論壇內容對醫院領導層及法務、資訊部門規劃AI治理架構具有直接參考價值。",
+      "tags": [
+        "醫療AI治理",
+        "法律責任",
+        "AI倫理",
+        "HIPAA合規"
+      ],
+      "author": "未標示（JD Supra｜2026-05-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaEoxb0VfQnkxdi0tV2R6azRJN1h1SGc5eHlfWUVxMWlYeGpnVm51UndaeGFXdTVuU291NHptcDRjQURFcGhONTA5cG9jdVp0N3ZJUEh0cTdNOVBrQjB6MEZ6QWczY3lhU2VCaXFiMGd0Ml9idTZZOFFpbl8yWmk3MXUxU250R1B2SkE"
+    }
+  ]
+}
