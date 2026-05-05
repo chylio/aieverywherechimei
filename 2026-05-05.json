@@ -1,0 +1,131 @@
+{
+  "date": "2026年05月05日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "OpenAI推出醫師專屬AI助理「ChatGPT for Clinicians」，以GPT-5.4驅動、供醫療人員免費使用",
+      "summary": "OpenAI正式推出專為臨床醫療人員設計的AI工具「ChatGPT for Clinicians」，以最新GPT-5.4模型驅動，並向醫療人員免費開放使用。此舉代表OpenAI首度針對臨床場域推出專屬產品線，有別於過去的一般消費者或企業版本。該工具預計可協助醫師進行病歷摘要、臨床決策支援、醫學文獻查詢及患者溝通草稿撰寫等工作，大幅降低行政負擔。免費提供策略顯示OpenAI積極搶進醫療AI市場，與Google Health、Microsoft Nuance等大廠形成直接競爭。對醫院資訊部及臨床科主任而言，此工具的上市時程、資料隱私合規性（是否符合HIPAA及台灣個資法）以及與現有EHR系統的整合可行性，將是評估導入的核心議題。",
+      "tags": [
+        "臨床AI工具",
+        "大型語言模型",
+        "醫師工作效率",
+        "OpenAI"
+      ],
+      "author": "未標示（Mashdigi｜2026-05-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQd3VUamNCV3VwVzNCNlVSbDcxRWkzN21SZGdIQWJDVzB4MHc4ZVlLMkpfLU5lcGU2bEppOFFmby0zR1ljdHE1UjR1UzRpMVJkN1BLdlJwclh6N2RtV3hjaDhyVTFrbTNPUjJ0aGxsd21rRlc4TkhsaFhtd1ZvSE5pbGExVF9nU2N0aGZKQmllX0NWYXd3dFhCQy1XRU5jdFdQQzBZLWpidko0ZzlFRnhybUU2eXZjMzVVcWtvVnNnb0x2Q1I4V0twWE96SjJhV3Y2TURGT3BLdURISG16b3diZjFRU3I3Z0ZqcFF4OHEwcWdjY3BvdFhGNFVBRkJ3QzJ6UlE"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "哈佛研究發表於Science：OpenAI o1急診分診正確率達67%、超越資深醫師，揭示醫療AI落地邊界",
+      "summary": "哈佛大學研究團隊於《Science》期刊發表實證研究，顯示OpenAI o1推理模型在急診分診任務中的正確率達到67%，超越參與比較的資深醫師。研究同時指出，儘管AI在臨床推理測驗上的表現已超越人類，但目前仍距離完全接手醫療決策有相當距離，兩者差距主要體現在情境判斷、患者溝通及突發狀況處置等面向。研究特別強調AI在急診環境下作為「輔助工具」的潛力，並提醒過度詮釋準確率數字可能導致誤導性政策決定。此研究引發多家台灣媒體廣泛報導，為2026年至今醫療AI能力評測最受矚目的成果之一，對急診科臨床主任及AI政策制定者均具高度參考價值。",
+      "tags": [
+        "急診AI",
+        "臨床推理",
+        "AI能力評測",
+        "哈佛研究"
+      ],
+      "author": "未標示（TechOrange 科技報橘｜2026-05-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemF5c1l4SDhZZ0plbFBsNlVuUXAwTGxVNEdraEo3Rnc1ZlZhbUIwaXNjZ0J0enJxY2Ytb1RtTHVHMmJLZVNINDhSelBXdTVKczRrbU9fVUxxTDRiSll4aWM1NGc1WDZ5WnROcU13dmRsbHc5cXRyWnBsa3Y1cE1FUDl0TFNMVzN2QmNvZEE3bmZicnlMT3A5X3lOSlhhS1g5ME91c1ZMOA"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "Cedars-Sinai分享：AI如何重塑醫院供應鏈管理模式",
+      "summary": "美國知名學術醫療中心Cedars-Sinai發布最新案例報告，說明其如何運用AI技術全面優化醫院供應鏈管理流程。報告指出，AI系統能即時分析耗材使用趨勢、預測庫存需求並自動調度採購流程，有效減少因人工預測失準導致的缺貨或過量囤積問題，進而降低整體營運成本。Cedars-Sinai的實踐顯示，AI導入供應鏈後不僅提升物料流通效率，也讓相關行政人員得以釋放人力專注於更高價值任務。對於面臨耗材成本壓力及人力短缺的醫院管理層而言，此案例提供具體可參考的實施框架。醫院資訊部與採購管理單位可進一步評估類似AI平台的導入可行性及投資報酬率。",
+      "tags": [
+        "醫院供應鏈",
+        "AI運營管理",
+        "成本優化",
+        "智慧醫院"
+      ],
+      "author": "未標示（Cedars-Sinai｜2026-05-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaEVYWldhX184TkVoTlNGQ2NjV0JZYVNRYXAya2VaRHJSS1FtNDM2cGFOZkRrb0J2LVRUX3lIWTR5TTl6Q2pjT3pCX0NaNWZ5Zm9WVXRHaWg0T0VkbWNTck5VMjFoTEFRNldwRUZ3amJ6RjZ4U2UwVGswV0pvUEZ4OE5CTWRaNjl5amdmZWFkN09NYmstWDMzQXJLX3hiN204UHVsU2VWQ1F3c0gwVGFFd0tuMFF2c1h6czVrSEp5STc5dlJiNEI1U2VCZUFmUWRtVkI1VA"
+    },
+    {
+      "rank": 4,
+      "score": 8.0,
+      "title": "雲象科技深耕病理AI市場，2025年營收成長91%、積極布局歐美",
+      "summary": "台灣AI醫療新創雲象科技（股票代號7803）公布2025年度營收數據，年增率高達91%，展現病理AI市場強勁成長動能。雲象科技目前以數位病理切片AI分析為核心，產品已通過多項國際法規認證，並積極鎖定歐洲及美國市場為主要拓展目標。在台灣本土市場持續深耕的同時，雲象藉由歐美醫療AI監管法規趨於成熟的時機，加速海外商業化佈局。此一營收表現不僅反映病理AI需求快速增長，亦印證台灣醫療AI廠商在國際競爭中逐漸取得市場認可。對國內醫院採購病理AI解決方案的決策者而言，雲象的國際擴張策略及產品成熟度值得持續關注。",
+      "tags": [
+        "台灣醫療AI",
+        "數位病理",
+        "醫療新創",
+        "國際市場"
+      ],
+      "author": "未標示（genetinfo.com｜2026-05-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XWExHWDR3eHNROW4zREVCeWFlcUZSamhsUWJPUUs0UTJsOTdSbDE2VkwwMW5RY1RvQ1BFMTl0SHJQVEFLZEZUYjB6UEpwNGVmMERlYS1pOHZnUUlkcnVBeWxONDJ2RnFHRm9UeWV3"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "MIT科技評論深度分析：如何為醫療場域量身打造AI解決方案",
+      "summary": "《MIT Technology Review》發表深度分析文章，探討醫療AI市場充斥過度承諾的現象，並指出真正能落地的解決方案必須針對醫療場域的特殊性進行客製化開發，而非單純將通用AI工具套用於醫療情境。文章指出醫療體系面臨財務壓力、人力短缺及高齡化照護需求等多重挑戰，使其成為AI廠商積極進攻的目標市場。然而研究顯示，許多醫療AI產品因未能充分理解臨床工作流程而在實際導入時遭遇阻礙。作者強調，成功的醫療AI須涵蓋從癌症篩查到手術輔助、再到行政流程自動化的完整生態系統思維，並以實際臨床數據驗證效益，方能取得醫療機構信任並實現規模化應用。",
+      "tags": [
+        "醫療AI策略",
+        "AI導入挑戰",
+        "數位轉型",
+        "臨床工作流程"
+      ],
+      "author": "未標示（MIT Technology Review｜2026-05-04）",
+      "source_url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "AI代理人目標：還給醫師更多臨床時間，實際成效與挑戰全面檢視",
+      "summary": "PYMNTS媒體深度報導醫療場域中AI代理人（AI Agents）的最新發展，說明多家醫療AI新創及大型健康體系正積極部署能自主執行任務的AI代理人系統，目標是將醫師從大量行政工作中解放，回歸以患者為中心的臨床工作。這類AI代理人能夠自動完成預約排程、保險事前授權申請、病歷摘要及用藥提醒等繁瑣任務，部分系統已進入試點驗證階段。業界預期AI代理人將是繼生成式AI後，醫療科技的下一波重要浪潮。然而報導亦指出，代理人的自主決策能力引發醫療責任歸屬及患者安全疑慮，如何建立適當的人工監督機制仍是目前各醫療機構面臨的核心治理挑戰。",
+      "tags": [
+        "AI代理人",
+        "醫師工作負擔",
+        "醫療行政自動化",
+        "AI治理"
+      ],
+      "author": "未標示（PYMNTS.com｜2026-05-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZU1yU0xKNXByYlhWaDhIMTNXeDlvNXNjU09tYXFjNXBJVkhvTDVDQVB1cXhHRHpLQl9sZThETUJ5TDBfbXNnb0hiUGUtYUVoLWtWS2d3aTU3MWxweFFxSkJVSGNZS3RmVnktR1YzcTE2VFVzY3lKb191VXFXd29tTjNtRU4ya2stRG16QXR1TUE2ZDJiOEpxX0kyY1c3RjN5NjJfTVV5ZGdKUQ"
+    },
+    {
+      "rank": 7,
+      "score": 7.2,
+      "title": "AI「腦霧」現象：為何所有醫療AI產品公告聽起來都一模一樣",
+      "summary": "HLTH媒體發表犀利評論，點出當前醫療AI市場存在嚴重的「同質化」問題。文章指出，各家廠商的AI產品發布稿幾乎如出一轍，充斥著「改善患者預後」「降低醫師負擔」「提升效率」等空洞承諾，卻缺乏具體的臨床實證數據支撐。作者將此現象稱為「AI Brain Rot」（AI腦霧），認為醫療AI市場正陷入行銷話術氾濫、實質差異模糊的困境。文章呼籲醫院採購決策者建立更嚴格的評估標準，要求廠商提供經過同儕審查的臨床試驗結果、真實世界數據及清晰的投資報酬率分析，而非僅憑行銷素材進行採購決策。此觀點對正在評估或導入醫療AI的醫院領導層具有重要的批判性參考價值。",
+      "tags": [
+        "醫療AI市場",
+        "AI評估",
+        "採購決策",
+        "產業批評"
+      ],
+      "author": "未標示（HLTH｜2026-05-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUxWaTJxU3JlTmR1ZktXT25TU1lVZk1aYXFMZzZTb1dBTS1mMWlVM2lGWWQ1dU1vZHhPVmNRal9rSzZHOVkzODlvZHpteFpYdThpZTROV19sMTN1UGRlazBMNjZOWDZIT05nRkxEajJnZ2hPeWZWM3JhVmVtS2k2MHhFY2tTekVHRmNQeTRuN0pTWG1rVjJIYW12aUpMaTJ6aUE"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "放射科AI十年回顧：「AI將淘汰放射科醫師」預言落空，薪資反創新高達57萬美元",
+      "summary": "《Fortune》雜誌深度回顧2016年AI「教父」Geoffrey Hinton預言「放射科醫師將被AI取代」的十年演變。現實數據顯示，美國放射科醫師薪資不降反升，2026年平均年薪已達571,000美元，並持續成長，與當年的末日預言背道而馳。文章分析，AI工具確實大幅提升了放射科的診斷效率與影像判讀輔助能力，但並未取代放射科醫師，反而使其在整合AI判讀結果、處理複雜案例及跨科溝通方面的角色更加重要。此一案例對醫療界具有重要啟示：AI在醫療場域更可能扮演「增能工具」而非「替代者」，對臨床科主任規劃人力與AI協作模式具有直接參考意義。",
+      "tags": [
+        "放射科AI",
+        "AI與醫師角色",
+        "AI影像判讀",
+        "人力規劃"
+      ],
+      "author": "未標示（Fortune｜2026-05-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVY3Y0JaR1FQYkFhV04zNTdtWkZmRTlmdk52eWlVZWdWaVY3dUhNampXM0pydXF2aGJKZDNOaHB3aGFUMk1aLUVsTi1ZbFFGYTJMc0hVYTFJQmc5TlpLVlo3bG5fbDJIamExYjhHNXR6OVRfSHBjWXpsTVRxM0RLSGdsdjQwS0c2Xy1IZzl2bmgtT0k5UkxGSHhwVHp5cGM2NDBtSnFxVklObmNPektQeQ"
+    },
+    {
+      "rank": 9,
+      "score": 6.8,
+      "title": "睡眠：被忽略的第五大生命徵象，健康AI正在放大其應用與風險",
+      "summary": "MedCity News發表分析文章，主張睡眠應被視為繼體溫、脈搏、呼吸、血壓之後的「第五大生命徵象」，並探討健康AI如何大規模蒐集與分析睡眠數據。文章指出，睡眠品質與心血管功能、代謝健康、免疫系統及心理健康均有密切關聯，穿戴裝置每日蒐集的睡眠數據若能透過AI有效分析，可望提供近期健康變化及長期疾病風險的早期預警訊號。然而文章同時警示，AI大規模處理睡眠數據也帶來資料隱私、演算法偏差及過度醫療化等潛在風險。對醫院預防醫學科及慢性病管理團隊而言，睡眠AI監測工具的臨床驗證程度及資料治理框架是評估導入的關鍵考量。",
+      "tags": [
+        "睡眠監測",
+        "穿戴式裝置",
+        "預防醫學AI",
+        "健康數據"
+      ],
+      "author": "未標示（MedCity News｜2026-05-04）",
+      "source_url": "https://medcitynews.com/2026/05/sleep-is-the-missing-vital-sign-and-health-ai-is-scaling-the-consequences/"
+    }
+  ]
+}
