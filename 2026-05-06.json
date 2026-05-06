@@ -1,0 +1,131 @@
+{
+  "date": "2026年05月06日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "美國放射學院史上首次核准影像AI實務規範，同步啟動Assess-AI登錄系統",
+      "summary": "美國放射學院（ACR）與醫療影像資訊學會（SIIM）於2026年5月正式核准史上第一份影像人工智慧實務規範（Practice Parameter for Imaging AI），同步宣布啟動「Assess-AI」登錄系統，供醫療機構系統性蒐集並評估臨床環境中AI工具的實際表現。此舉標誌著放射科AI從技術驗證邁向標準化治理的重要里程碑。新規範涵蓋AI工具導入前的評估框架、臨床使用監督責任及性能追蹤要求，為各醫院放射科提供具體依循依據。Assess-AI登錄系統將彙整真實世界數據，協助業界了解不同AI產品在多元臨床場域的效益與風險，並作為未來監管與採購決策的重要參考。此政策對正在評估或已導入放射影像AI的醫療機構具有直接指引意義，也可能影響後續FDA審查標準及台灣等各國監管機關的參考方向。",
+      "tags": [
+        "放射科AI",
+        "法規政策",
+        "ACR",
+        "影像辨識"
+      ],
+      "author": "未標示（AuntMinnie｜2026-05-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd1B5TFlCWmN5bGQyaGlTUFFGYVJ1ME44bFRjcHFqWVZMY0J3cGh2eFJSdGp2bTg2NGFEQ2NBdzFmZkQwLWo5U1poaC1zZlBsclk3ejNNcWZtcnFXMWRPX1dlX0ZvV2hFWFIyeXJlN1psOW9YRFJGOGhrVWxpV0tIaXZlZXl2Sl8wVUU4QTVJZ2poa0k1elZkZ2dKdmRlT2NoOGczdVRnSGc3TWprVFY0M1otMl9CdXNLOTBmX1FVczExWVg0d3F4Y2E0Y1pmTXhqYjV0WDR2MU9JZFUwMl9Hb2FB"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "醫療AI發展速度超前安全審查機制，澳洲研究示警",
+      "summary": "澳洲弗林德斯大學（Flinders University）發布最新研究報告指出，醫療AI工具的開發與臨床部署速度已明顯超越相對應的安全審查與法規監管機制。研究人員分析目前全球醫療AI核准現況後發現，許多產品在缺乏嚴謹臨床試驗驗證的情況下即進入市場，尤其在診斷輔助、影像判讀與臨床決策支援等高風險應用場景中，此問題更為突出。報告呼籲監管機關應建立上市後持續監測義務，並要求廠商提交真實世界效能數據；醫院採購AI工具時亦應要求獨立第三方驗證報告，而非僅依賴廠商自行提供的研究成果。此議題與台灣衛福部近年持續推動醫療器材軟體（SaMD）管理規範高度相關，對正在評估AI系統導入的醫院資訊與法規部門具重要參考價值。",
+      "tags": [
+        "AI安全",
+        "法規監管",
+        "醫療器材",
+        "政策"
+      ],
+      "author": "未標示（Flinders University｜2026-05-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU1V6T0V3bnl1RU8weW5iZWFEV0s4MTRFOVhLX2Jyb0M1WWdBbTJBZ1JzSXJlUTVIN09hQU9LeGxnNGxIV2VhbFVLU21sNVVpS2tCbnVCOGRTQnhEYTN6VFVnNEZIaUg1Z0xiREVBUENMWS1kQzY0T1NqQVVIOG5mT1gxclU1MUJoUkE5Um81MEVFZ2s"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "AI病理框架大幅提升癌症分子層次理解，研究成果登上Nature",
+      "summary": "最新刊載於Nature的研究顯示，以AI為核心的病理分析框架能夠從數位組織切片中萃取出傳統病理學難以識別的分子特徵，大幅加深對癌症生物學的理解。研究團隊開發的多模態AI模型可同時整合形態學影像與基因體資訊，實現對腫瘤微環境的精細分型，並預測患者對特定治療的反應。此框架在多種癌別的驗證集中均展現出優於單純影像或基因分析的預測效能，具備轉譯至臨床病理報告的潛力。對於擁有病理科及腫瘤中心的醫療機構而言，此類AI輔助病理工具可望縮短診斷週期、提升分子分型準確性，並為精準醫療提供更堅實的依據。相關技術亦可能加速數位病理平台的採購與標準化需求。",
+      "tags": [
+        "數位病理",
+        "癌症AI",
+        "精準醫療",
+        "Nature研究"
+      ],
+      "author": "未標示（Medical Xpress｜2026-05-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObWZZUTVUUG1wMEI2elNoY2VYZ1RObmQtYTR6Vjh1Xy0ya2JkaGZmdzFTczJ3R2xLRXFJcnhJOXpmSVR1QnJOWmYwcUtfWmhTNnRYc19PMGpDdWJWemlEUTBVUDhhOXdob09WSHJTd1JQaXJTaUtXbHl5TFVkSU1aZWktUFRNcjA"
+    },
+    {
+      "rank": 4,
+      "score": 8.2,
+      "title": "自主病理研究AI代理人於腫瘤學展現重大潛力",
+      "summary": "Nature發表最新研究顯示，具備自主能力的AI代理人（Agentic AI）可在腫瘤病理研究中獨立執行假設生成、文獻檢索、數據分析與結果詮釋等任務，大幅減少研究人員所需的手動介入。該系統在多項癌症病理任務中達到與人類專家相當的分析水準，並能在數小時內完成傳統需耗費數週的分析流程。研究人員指出，此類自主AI代理人尤其適合應用於罕見癌症或樣本量不足的研究場景，可協助加速生物標記探索與治療靶點識別。然而，論文同時強調，AI代理人的決策透明度與可解釋性仍是臨床轉譯的主要挑戰，需建立嚴謹的人機協作監督機制，方可安全用於真實臨床研究環境。",
+      "tags": [
+        "AI代理人",
+        "腫瘤病理",
+        "自主AI",
+        "研究加速"
+      ],
+      "author": "未標示（nature.com｜2026-05-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvUEZjY3NuS25WUkVQQmtmeW4yTlE5eC0tOGJheW95eTBZMWVkN1dYOG1sMFFOM1l5MmRPbFppWktaTDlnYUkxLWVGanZsLW9oZTlyZkRIX3JZUmg0djMw"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "AI輔助模型精準判斷乳房篩檢後補充影像需求，提升分診效率",
+      "summary": "最新研究顯示，AI模型能有效協助放射科醫師判斷患者在標準乳房攝影後是否需要接受補充影像檢查（如超音波或MRI），從而優化篩檢後的分診流程。該模型透過分析乳房密度、影像特徵及患者風險因子，輸出個人化補充檢查建議，在測試集中顯示可減少不必要的後續檢查，同時維持對高風險病灶的敏感度。研究結果發表於Radiology Business，指出此工具有潛力降低醫療資源耗用、縮短患者等待時間，並減輕放射科醫師閱片負擔。對乳房影像中心及健康篩檢部門而言，此類AI分流工具具有直接的臨床應用價值，亦可作為醫院評估影像AI投資報酬率的重要參考案例。",
+      "tags": [
+        "乳房影像",
+        "AI篩檢",
+        "放射科",
+        "分診優化"
+      ],
+      "author": "未標示（Radiology Business｜2026-05-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdlZmMG41dVdpTDVFREZGMHYyM0FsTUdmem10X3lIMmJVdXRWR3RsNE9yQXA1VzNZNjl6UXRJRnlHSGllT3MzMFFiYjFRc08xZUY2enc5SC1MSXcweGFQNW9yc0kxMldUbjlWQ19iVVJWQjNwdV9tMWJEcU93TXlTQ2hBU3IxaDZuTFg3TWc1V004cnJRS2dpRDZfX0FOa2JvUHRCTWdFelJmVmdjZDhJQkk1RFU5WDQzaHgwSmtTLURMb0d6TjVTZjBJTjA"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "臺大雲林分院攜手工研院簽署合作協議，共推AI智慧醫療新典範",
+      "summary": "臺灣大學醫學院附設醫院雲林分院與工業技術研究院（工研院）正式簽署合作備忘錄，雙方將在AI智慧醫療及生醫研發領域展開深度合作。合作範疇涵蓋臨床AI模型開發、醫療數據標準化、智慧診療流程優化及生醫材料研究等多個面向，目標是以雲林在地醫療需求為核心，打造可複製推廣的智慧醫院示範模式。工研院將提供AI技術研發能量與產業鏈接資源，臺大雲林則貢獻臨床數據與場域驗證環境。此合作模式對台灣各區域醫院具有參考意義，尤其在偏鄉醫療資源有限的情境下，如何借助AI與產研合作提升服務品質，值得密切關注。此案亦可能成為台灣南部醫療體系推動AI轉型的重要標竿案例。",
+      "tags": [
+        "台灣醫療AI",
+        "智慧醫院",
+        "產學合作",
+        "工研院"
+      ],
+      "author": "未標示（蕃新聞｜2026-05-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1V2dkZy0yU0oxYmVpVV9oeUI2LVhMcjZBZlh1NWdfR1F1NXpSY0FNRXNJTTNVTHZYMTk3a0JpYS1xR05SS3FTZWJvOV9FMnkwTFE"
+    },
+    {
+      "rank": 7,
+      "score": 7.3,
+      "title": "AI醫療筆錄系統成效未如預期，醫師加班問題仍難解",
+      "summary": "台灣媒體報導指出，多家醫療院所導入AI醫療語音筆錄系統後，實際減少醫師行政負擔的成效未如預期。調查發現，AI轉錄準確率受限於醫學術語、方言口音及嘈雜環境等因素，醫師仍需花費大量時間校正錯誤，部分情況甚至比手動輸入耗時更久。此外，系統與電子病歷（EMR）的整合介面不夠流暢，導致工作流程斷點頻繁。專家指出，AI筆錄系統的成功落地需要充足的本地化訓練數據、友善的人機介面設計及完善的導入輔導，缺一不可。此報導對正在評估或已導入AI語音記錄工具的台灣醫院資訊部門與臨床科室具有重要的落地實踐警示，提醒勿高估AI工具的即時效益。",
+      "tags": [
+        "AI語音筆錄",
+        "臨床工作流程",
+        "台灣醫療",
+        "導入挑戰"
+      ],
+      "author": "未標示（記者爆料網｜2026-05-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QcnMxd3IxbWNIaUdvek5Oa09CZUVEM28td1NZR24xZW1RNXNra1k2UjNlTUNEWGZuUkhYeGJGU0hRekJWd0pGc3RyTUgwQQ"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "醫療AI能力逼近醫師水準，專家強調人為監督機制不可廢除",
+      "summary": "台灣Yahoo股市引述多項國際研究報告指出，最新一代醫療AI系統在診斷準確率、影像判讀及臨床決策支援等多項指標上已逼近甚至在特定任務超越人類醫師。然而，多位臨床AI專家同時發出警告，強調即便AI技術持續進步，臨床應用中的人為監督機制絕不應被取消或弱化。專家列舉多項AI失誤案例，說明在邊緣案例（edge case）、罕見疾病及跨族群泛化能力方面，AI仍存在顯著缺口。建議醫療機構在採用AI輔助決策工具時，應明確界定「AI建議」與「醫師最終決策」之間的責任歸屬，並建立定期性能稽核制度，確保AI系統在真實臨床環境中的持續安全性與有效性。",
+      "tags": [
+        "AI監督機制",
+        "臨床決策",
+        "AI安全",
+        "醫師責任"
+      ],
+      "author": "未標示（Yahoo股市｜2026-05-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPSVN1UXFQU2VSM1FNUkRHUTg4RjVCSHptb1lQaUVMRHphQWVhOFJnMmlDQmYtcWx1Y292WFpLSkRmV3U1NmZkU2xqX3Nfcy12cUs2U1pIZlRzNkpTWFd1clA1NXh1eUFOa2lNd1FxZVBQSURYZGNBQ3BRZEk0aWdKVm5kV1ZoQTg2X0VpQWZTWFUwR1lGRmJCZWRHR0hEVTRFYjZzX1NzS2dVVl9iV000WEg3M3BTeng4VUE2NHVBLW5ETHN3YmlZNnRzYzhqNzdlYmIwVmhCT0xMVnJrNHp2TkE4MmxyUVNnZkR4Y2JJeDYwNnVENGJEY2VqQ0FtcVNGck9oSE5QZkhjWjBKeXF3YS1vblZfdUE4T085M0VkYVh0aUJNcjA4NjE2bVkteGRqcmJrSHJMMkctQmE4VjhDN0dpVXhSWEtWakFWTE5xUm5XOGYzQU5EVU1vSnlJZXJ0QndCdTZXYw"
+    },
+    {
+      "rank": 9,
+      "score": 6.8,
+      "title": "仁寶電腦攜手北醫大簽署MoU，聚焦數位與實體AI醫療雙軌發展",
+      "summary": "仁寶電腦與台北醫學大學（北醫）正式簽署合作備忘錄（MoU），雙方宣示將在數位AI及實體AI兩大主軸上推動醫療創新。數位AI方向包含智慧診斷輔助、電子病歷分析及遠距醫療應用；實體AI方向則聚焦於AI驅動的醫療器材、手術機器人輔助及智慧病房設備開發。此合作結合仁寶在硬體製造與嵌入式系統的優勢，以及北醫在臨床研究與醫學教育的資源，被視為台灣科技業跨入醫療AI硬體整合應用的重要布局。對台灣醫療體系而言，此類產學合作模式有助於加速AI醫療解決方案的本土化開發與臨床驗證，降低採購國際產品的依賴度，並推動供應鏈在地化，具有中長期的產業戰略意義。",
+      "tags": [
+        "台灣醫療AI",
+        "產學合作",
+        "仁寶",
+        "北醫大"
+      ],
+      "author": "未標示（自由財經｜2026-05-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCLVB0anJGSVVFSmw3RXkwR0h2d0VrbHFFYS1oLXZoVlNjaXNsemRxTlgySDJvU3BtdFExX0pqVzJVNVBrUzFVU3J5X216emVOcnJHcktTZ2JpNjlGMS130gFkQVVfeXFMTkotcHVkQU9iM0g1dUI3UG9kQU1ZM1RNMkRYSlZGMjRhMmVhTTBxSkFGN1J5Y1Rlb1pSOHozMG9xV1BYemJycW9XYnN4NkQ1dHZHbjB5SDYyWFBrUjFfbUx6T2V6QQ"
+    }
+  ]
+}
