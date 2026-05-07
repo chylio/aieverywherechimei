@@ -1,0 +1,145 @@
+{
+  "date": "2026年05月07日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "FDA大幅升級內部AI能力，Elsa 4.0正式上線並完成數據平台整合",
+      "summary": "美國食品藥物管理局（FDA）於2026年5月7日宣布完成機構現代化重大里程碑：全面升級內部AI工具至Elsa 4.0版本，並完成數據平台的整合整併。Elsa 4.0現已開放給所有FDA員工使用，涵蓋科學審查人員至實地調查員，大幅提升跨部門的分析與決策效率。此舉是FDA「大膽現代化計畫」的核心環節，旨在加速藥物、醫材及生物製品的審查流程，並強化科學決策的數據基礎。對於全球醫療產業而言，FDA審查效能的提升將直接影響創新醫材與AI軟體的上市時程，具高度政策與產業連動意義。醫院資訊部門與數位轉型團隊應持續追蹤FDA AI政策走向，以利提前布局符合監管預期的AI產品導入策略。",
+      "tags": [
+        "FDA政策",
+        "監管科技",
+        "AI治理",
+        "醫療法規"
+      ],
+      "author": "未標示（FDA Press Releases｜2026-05-07）",
+      "source_url": "http://www.fda.gov/news-events/press-announcements/fda-expands-ai-capabilities-and-completes-data-platform-consolidation"
+    },
+    {
+      "rank": 2,
+      "score": 9.0,
+      "title": "FDA核准HR+/HER2-侵襲性乳癌AI分層工具，精準治療決策邁入新紀元",
+      "summary": "FDA於2026年5月7日正式核准一款專為荷爾蒙受體陽性（HR+）、HER2陰性侵襲性乳癌設計的AI風險分層工具。此工具可協助臨床醫師根據患者腫瘤特性進行更精準的治療決策分層，有望改善過去依賴傳統病理分期的侷限性。乳癌是全球女性最常見癌症之一，精準分層對於決定是否需要輔助化療至關重要，而AI工具的導入可望減少過度治療或治療不足的問題。此次FDA核准不僅代表AI輔助臨床決策工具在腫瘤科的重要進展，也為後續類似工具的審查建立參考先例。對醫院腫瘤科與病理科而言，此類工具的臨床整合模式值得密切追蹤與評估。",
+      "tags": [
+        "FDA核准",
+        "乳癌AI",
+        "精準醫療",
+        "腫瘤科"
+      ],
+      "author": "未標示（CancerNetwork｜2026-05-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ2ZfcGJsMlNpR3R4bVptd2tCMHNaVDhfNFNncERjdktFaVlMYnlZSUdsYkhJVkNvVmhyc1JSTDNCRDJhSXRDU2lWNUV4QkhkRjZlODRWRlZuSmg2TGJqRHp3OWJaazFRZm5lTHJNUldFM0lfcWNKRUloUThmMTJ5Tlk0UURpRnQ2cHBQenoteWZkcmFvSHlDV21vV1RTLWQ2WnoxaQ"
+    },
+    {
+      "rank": 3,
+      "score": 8.8,
+      "title": "Mayo Clinic AI模型胰臟癌早期偵測靈敏度提升三倍，Nature研究同步驗證高風險疾病AI潛力",
+      "summary": "根據Healthcare IT News於2026年5月7日報導，兩項最新研究顯示AI在高風險疾病早期偵測方面具有突破性潛力。其中Mayo Clinic開發的放射體學早期偵測模型（REDMOD）在常規腹部CT掃描中，可將放射科醫師對視覺隱匿期胰臟癌的偵測靈敏度提升至原本的三倍，能在腫瘤尚未肉眼可見前即識別疾病徵兆。胰臟癌因早期診斷困難而死亡率極高，此類AI工具若成功臨床落地，將大幅改變胰臟癌患者的預後。此報導與早前台灣研究顯示AI可提前475天偵測胰臟癌的發現相互呼應，共同強化了AI在消化道腫瘤早篩領域的臨床價值。放射科與消化內科主任應關注此類工具的驗證進展與導入可行性評估。",
+      "tags": [
+        "胰臟癌早篩",
+        "放射AI",
+        "Mayo Clinic",
+        "腫瘤早期偵測"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-07）",
+      "source_url": "https://www.healthcareitnews.com/news/advanced-ai-holds-promise-high-stakes-healthcare-studies-show"
+    },
+    {
+      "rank": 4,
+      "score": 8.5,
+      "title": "OpenAI醫療AI藍圖政策解析：專家指出合理但帶有自利色彩",
+      "summary": "STAT News於2026年5月6日深度分析OpenAI所發布的醫療AI政策藍圖，該藍圖旨在推動AI在醫療照護領域的廣泛應用。多位專家指出，藍圖中的政策建議整體方向合理，例如呼籲建立統一的數據標準、簡化監管審批流程，以及促進公私部門數據共享。然而，也有聲音批評部分建議明顯有利於OpenAI本身的商業利益，包括對AI模型訓練數據取得的寬鬆主張，引發醫療數據隱私與利益衝突的疑慮。此分析揭示了大型科技公司積極參與醫療AI政策制定的趨勢，以及如何在推動創新與保護患者權益之間取得平衡，對醫院法遵與資訊部門而言具重要的政策參考價值。",
+      "tags": [
+        "OpenAI",
+        "醫療AI政策",
+        "數據治理",
+        "監管框架"
+      ],
+      "author": "未標示（STAT News｜2026-05-06）",
+      "source_url": "https://www.statnews.com/2026/05/06/openai-policy-blueprint-unleashing-ai-potential-health-care/?utm_campaign=rss"
+    },
+    {
+      "rank": 5,
+      "score": 8.3,
+      "title": "衛福部推動SBOM強化AI供應鏈安全，醫療主權雲八大方針正式版即將發布",
+      "summary": "根據iThome於2026年5月6日臺灣資安大會現場報導，衛福部正積極推動軟體物料清單（SBOM）機制，以填補醫療AI系統在供應鏈安全上的潛在漏洞。SBOM可讓醫療機構清楚掌握所使用AI系統的組成元件與第三方套件，有效降低供應鏈攻擊風險。此外，衛福部亦透露「醫療主權雲八大方針」正式版本即將出爐，此方針旨在確保國內醫療數據的主權保護與雲端應用合規性。對於正在導入或評估AI系統的醫院而言，這兩項政策方向將直接影響採購規範、合規要求與資安稽核標準，資訊部門與法遵團隊應提早了解並準備因應措施。",
+      "tags": [
+        "醫療資安",
+        "SBOM",
+        "醫療主權雲",
+        "台灣政策"
+      ],
+      "author": "未標示（iThome｜2026-05-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtVjJJV0VYeWE3OVRNLUU0Q2ZySFJuVi1ibzFCaDRmOGZOTWhuQ3lnNVFXY0pWQi1RYU1KWjhRQ19CRFNvQXh3WWViclltUQ"
+    },
+    {
+      "rank": 6,
+      "score": 8.0,
+      "title": "中醫大附醫打造全球數位健康滿分標竿，AI轉型列為核心戰略",
+      "summary": "商業周刊於2026年5月7日報導，中國醫藥大學附設醫院（中醫大附醫）在AI數位轉型方面已取得全球頂尖評級，成為數位健康領域的國際標竿。院方強調AI轉型已不再是可選擇的選項，而是醫院未來競爭力的關鍵戰略方向。中醫大附醫在臨床AI應用、智慧病房、遠距醫療及數據分析等多個面向持續投入，並獲得國際認證機構的高度評價。此案例對台灣醫院領導層具有重要的借鑑意義，顯示系統性的AI戰略布局、組織文化轉型以及高層持續承諾，是達到頂尖數位健康水準的核心要素。對奇美醫療體系等大型醫療機構而言，此案例提供具體的對標參考與轉型路徑思考方向。",
+      "tags": [
+        "數位醫院",
+        "台灣醫療AI",
+        "智慧醫院",
+        "醫院轉型"
+      ],
+      "author": "未標示（商周｜2026-05-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhdnRjTkpuYllsTGhtZ3ZwNVFpWnJwS2pNamtsTkQyWVR6Vmd2ZzhYN1hVaHhOekM0MU5KUW43Rk1LajZ1UldtQWhwcldXRnhQNlB0aGxtZmlOV20yNmt3Z1NJMA"
+    },
+    {
+      "rank": 7,
+      "score": 7.8,
+      "title": "AMA呼籲立法遏制醫療AI錯誤資訊，推動規範化管理框架",
+      "summary": "美國醫師學會（AMA）近期積極倡議應透過立法手段，針對醫療AI產生或傳播錯誤資訊的問題建立明確的法律規範。AMA指出，隨著AI醫療工具日益普及，患者與醫療人員面臨的AI錯誤資訊風險也隨之升高，現行監管框架尚不足以有效應對此挑戰。AMA建議應明確界定醫療AI錯誤資訊的法律責任歸屬，並要求AI工具提供者對輸出內容的準確性負責。此一倡議反映了醫療專業組織對AI監管缺口的高度重視，也與全球多國正在加速推進的醫療AI治理討論同步。對醫院法遵、倫理委員會及資訊部門而言，此動向預示著未來醫療AI使用的責任框架將更趨嚴格，應提早檢視院內AI工具的使用規範。",
+      "tags": [
+        "AMA",
+        "醫療AI法規",
+        "AI錯誤資訊",
+        "醫療治理"
+      ],
+      "author": "未標示（Let's Data Science｜2026-05-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLWdsZzVSZFdYTXpsTC0tQWUwVEFEbzZzOWo5MDZ1V21JZlRkSGN3el8zNENVTVZTWU1zZC1oYWE0cEhPN0NhNXJHc3dKcTlVY1NGRzRiQXVzSUFOdjRIQUlYbVVVQWwwUjRuQjNma05XUEJfQTRHektyb1hqQmZkZ1lFeE9nY1BQcl9iR1VRRjRmUzROckVQeVlhNFFBUQ"
+    },
+    {
+      "rank": 8,
+      "score": 7.5,
+      "title": "醫療AI治理必須與時俱進而非原地凍結，MobiHealthNews深度評析",
+      "summary": "MobiHealthNews於2026年5月6日發表深度評析，指出醫療AI治理框架必須保持動態靈活性，不能以過度謹慎的態度導致政策原地停滯。文章強調，隨著醫療AI技術快速迭代，固守僵化的舊有監管思維將阻礙創新應用落地，進而損害患者可能受惠的醫療改善機會。作者建議治理框架應採取「動態調適」策略，包括建立持續監控機制、設計靈活的沙盒監管環境，以及鼓勵醫療機構與監管機關建立即時對話管道。此觀點呼應了近期多國醫療AI監管改革的討論方向，對台灣衛福部正在規劃的醫療AI相關法規亦具有重要參考價值。醫院數位轉型團隊可藉此了解國際治理趨勢，提前規劃符合未來監管方向的AI導入架構。",
+      "tags": [
+        "醫療AI治理",
+        "監管框架",
+        "數位轉型",
+        "政策分析"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-05-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOalBZSHVObXFuRG0zSmVIQVRlckJhWndCa05IbUpjQUU4eHByOE1EcFJBbmNzeW5URnZ1b0VNSFNJM2otUzVibWhSZGdWclNkWGNFdm5kVWl1NWo1OUxjd2F4RVFObmV1T1NhSlZBVnRBWmw2SXAtc2pCMXdQRExsNzFRNGF0ZlNtWWc"
+    },
+    {
+      "rank": 9,
+      "score": 7.3,
+      "title": "韓國研究團隊開發AI即時胃癌映射技術，內視鏡精準辨識能力大幅提升",
+      "summary": "韓國生醫媒體koreabiomed.com於2026年5月6日報導，韓國研究人員成功開發出一套基於AI的即時胃癌映射技術，可在內視鏡檢查過程中即時標記並映射胃部癌變區域的範圍與邊界。此技術的突破在於結合深度學習與即時影像處理，能在內視鏡醫師操作過程中同步提供視覺化輔助，協助判斷病變範圍，有助於提升胃癌早期偵測率及內視鏡手術的切除精準度。胃癌在東亞地區（包括台灣）發生率相對較高，此技術若成功商業化並取得監管核准，將對胃腸科與內視鏡診療流程產生直接影響。消化內科與外科主任可持續追蹤此技術的臨床驗證進展。",
+      "tags": [
+        "胃癌AI",
+        "內視鏡AI",
+        "韓國研究",
+        "消化道腫瘤"
+      ],
+      "author": "未標示（koreabiomed.com｜2026-05-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaWnFTNXpLMkpWUF9LVlBBVTVpcHdGMFNKOGpZV2VVcUdJMEtCdXpoMlpSNlRYY3RINllvSTZaeFRrY0luY1pOUE9JN2tTQUdCWmt1bmFiVmJCeThablJ2MlNGZnRNNTJRUGpVMHNR0gFyQVVfeXFMTTdXdklENVQyTTB2T0ZockllVGlvSFhxVUlta2MzNUJpUV9wT2VqTkY5Vzk4dWFmVUVaZXR1bHpuRWNYRVNpTEd5a0hETDI5ZjRuVlllWlFCZzUtV1RjTEQtenkySUtDdEUtcldwU2xyWndB"
+    },
+    {
+      "rank": 10,
+      "score": 7.0,
+      "title": "腫瘤微環境非侵入性空間生態型分析：機器學習結合液態切片開啟癌症精準分型新路徑",
+      "summary": "Nature於2026年5月6日刊載重要研究成果，由多模態機器學習技術揭示腫瘤微環境可被分解為具空間組織結構的多細胞生態系統，稱為「空間生態型（spatial ecotypes）」。研究顯示這些空間生態型可透過非侵入性的液態切片方式取得相關資訊，並據此對個別患者的癌症進行精準分型，進而指引個人化治療選擇。此研究的突破性在於將複雜的腫瘤微環境特徵轉化為可透過血液檢測獲取的生物標記，避免了重複侵入性取樣的需求。此成果對腫瘤科、病理科及精準醫療發展具有深遠意義，有望在未來催生新一代基於AI的腫瘤微環境評估工具，並影響免疫治療與標靶治療的決策框架。",
+      "tags": [
+        "腫瘤微環境",
+        "機器學習",
+        "液態切片",
+        "精準醫療"
+      ],
+      "author": "未標示（Nature｜2026-05-06）",
+      "source_url": "https://www.nature.com/articles/s41586-026-10452-4"
+    }
+  ]
+}
