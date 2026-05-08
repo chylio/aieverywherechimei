@@ -1,0 +1,131 @@
+{
+  "date": "2026年05月08日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "Roche以最高10.5億美元收購AI病理公司PathAI，強化數位病理診斷能力",
+      "summary": "全球製藥與診斷巨頭Roche宣布以最高10.5億美元（基礎交易金額約7.5億美元）收購波士頓AI病理新創公司PathAI，此為近年醫療AI領域規模最大的產業整併案之一。PathAI專注於開發以深度學習驅動的數位病理分析平台，可協助病理科醫師在組織切片影像中自動辨識腫瘤型態、生物標記分布及分子特徵，大幅縮短傳統人工判讀所需時間。Roche此舉旨在將PathAI的AI技術整合進旗下診斷部門，加速提供更快速、標準化的病理報告，並強化其於精準腫瘤學領域的競爭地位。對醫院而言，此案預示AI病理平台將逐步成為大型IVD廠商的標配，未來病理科採購與數位轉型策略將受到更直接的影響。此併購案亦顯示全球資本對醫療AI基礎設施持續高度興趣，產業整合速度正在加快。",
+      "tags": [
+        "AI病理",
+        "數位病理",
+        "產業併購",
+        "精準腫瘤學"
+      ],
+      "author": "未標示（MedTech Dive｜2026-05-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWFRUbmRiSklJNURGcnlHQ0FScHNBNGZyS0U3c0N2SDNkMXdNbEFqTEZHNkppMFZZU2RUeTdUUDJrUlpTZmhtYWF3SF9LRTdnMFhrWTVobzIxTWZHUnlvcnBnaVkyelNYcEhValZSb2x1eDRNdEktNmprV0hibHU0dmk0TUdUQy16RmJMNmY4a0Y4emI3UEhKQTZzcGViVmR3Z0E3Tw"
+    },
+    {
+      "rank": 2,
+      "score": 8.6,
+      "title": "醫療AI面臨透明度、偏見與臨床問責三大壓力，治理挑戰全面浮現",
+      "summary": "隨著醫療AI應用快速普及，透明度不足、演算法偏見以及臨床問責機制缺失等問題正受到監管機構、學術界與醫療機構的高度關注。相關報導指出，目前許多AI輔助決策工具在訓練資料多樣性、模型可解釋性及部署後監控機制上仍存在明顯缺口，導致不同族群患者的診斷與治療建議出現系統性差異。臨床問責的模糊地帶亦引發爭議，當AI推薦與醫師判斷發生衝突時，責任歸屬往往不清。業界呼籲醫療機構應建立完整的AI治理框架，包含演算法審計、偏見檢測、使用者教育及持續性能監測等機制。此外，監管壓力正促使廠商加速提供更清晰的模型說明文件與真實世界驗證資料。對醫院領導層與資訊部門而言，如何在引進AI的同時落實完善的治理機制，已成為數位轉型的核心課題。",
+      "tags": [
+        "AI治理",
+        "演算法偏見",
+        "臨床問責",
+        "透明度"
+      ],
+      "author": "未標示（Devdiscourse｜2026-05-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX3FZbUdGdEtFdnV4bG1Vd2d5N0d5cGlTX28weU1YWllFRUN2R2xaLXZ4RFZYdDhWd1RtNmNlUkVqNk9XVGJWZkxoYnBrTHNEc0NBRU95UWk5c2x4ZDdicnhUN0ZadEdoZ1VOU3E5Ynd6RE1GWjVnblV1Z1NzaHNGTGwydHk3Q2NFcDI0SkJCT0d4ckYzYXFRN1lEUTFGNHlZOU0tU1JHUHl3cksxMjJLN2hhT1M5TjlBM3otUkcyRUlGVWxRdk1qaDZ3Q2tOYWlhTE83M1dkQlRxejjSAeABQVVfeXFMUFJ6b2tHS0lyczk3UU5UY3dsX2xzZGFEbGU0WFdSLVNqUE5BTWFBemYycnE4MDRaZTNBTmNkaWRHYWM2eXlUSVFPeXN4YklycnBGUFBBbzhldjZhSUxxY1h5N1RxblBXWGJDTENXdTJnRFV1V3JqRGc0WUpKb21wRUJueHlhRUliQ0xPZEY0V1VoaGNldUt2c1FydUdMVThjN3JFSWZiSHRPcVJMVmIxMzV0ZDRtRkV0TExSMUVlYnp0d1pwbktEZnhmc2Y5NTJzUW9aeXNwNk1JZG9PT09KOFk"
+    },
+    {
+      "rank": 3,
+      "score": 8.4,
+      "title": "Tether推出可在手機本地運行的醫療AI QVAC MedPsy，效能超越體積大16倍的雲端模型",
+      "summary": "加密貨幣及科技公司Tether宣布推出QVAC MedPsy醫療AI系統，最大特色在於可完全在智慧型手機等終端裝置上本地運行，無需連接雲端，從根本解決醫療資料傳輸的隱私與安全疑慮。根據公司公布的基準測試結果，QVAC MedPsy在多項醫療診斷評測中表現優於體積大其16倍的雲端SoTA（State-of-the-Art）模型，包含超越Google部分旗艦醫療AI模型的成績。該系統聚焦於心理健康及精神科輔助診斷領域，具備離線運作能力，適合網路基礎建設薄弱或對資料主權要求嚴格的醫療場景。此發展對醫院資訊部門具有重要參考意義：邊緣AI（Edge AI）在醫療場域的可行性正快速提升，未來院內敏感資料處理或許不再需要仰賴外部雲端服務，有助於強化資料主權與法規遵循能力。",
+      "tags": [
+        "邊緣AI",
+        "裝置端推論",
+        "醫療資料隱私",
+        "精神健康AI"
+      ],
+      "author": "未標示（動區動趨｜2026-05-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSnFuQjltc25yaEFMOU9RZFljcE4wNG5fNk9CQWVhaWdyNkxZUjkzQlVjenhScGZUNEhpTE5JNUtpMFNxcnM5X3BrdXlRd0NySHVfUncwT3B3MUs0cXJxejFVZm9JYkpfcTU3ZHFrRjhnZkh0ZWQxZWVtTmdsX2VXaTdZU2FxRkhURVA1d21ScDNHQ2NxSVE"
+    },
+    {
+      "rank": 4,
+      "score": 8.1,
+      "title": "醫療AI不能淪為什麼？一位CIO的警示與治理紅線",
+      "summary": "Healthcare IT News刊載一篇來自醫療機構CIO視角的深度評析，探討醫療AI在快速落地過程中不應跨越的邊界與底線。該CIO指出，醫療AI最大的風險並非技術失靈，而是在組織內部被錯誤定位——例如被視為削減人力成本的工具、掩蓋系統性問題的包裝，或在缺乏臨床驗證的情況下倉促部署。文章強調，AI應被定義為增強臨床判斷的輔助系統，而非取代醫師專業責任的自動化裝置。CIO呼籲醫院在導入AI前應先建立明確的使用政策、問責機制及失效應變計畫，並強調治理架構必須由臨床、法務、資訊三方共同參與建構，而非單由IT部門主導。對於正處於AI採購與部署階段的醫院領導層，此文提供了務實的風險管理框架參考。",
+      "tags": [
+        "AI治理",
+        "醫療CIO",
+        "臨床AI風險",
+        "數位轉型"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZnlPU1BjV1VwYXA4bW1MTmZmTHkwRTFlQmprOXBLdDBJSTJycnA2d0s2U3dkX3BZck9FR0hKUzBGUEh5ZWtCNG9qajROOHNwc1YyT3V4MmJqYlplTXAyUWw2QlpRc01WZDZpQ1BnaTJCZXlEQXNKZ21QUHFQVG9QbDJLanp2Z3NlNFhYdHlyemRsdkY1M2trNm5JaFE0dHpk"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "AI語言模型在基本醫院資料任務中表現不佳，研究揭示臨床應用落差",
+      "summary": "最新研究發現，目前主流的大型語言模型（LLM）在處理醫院日常結構化資料任務時，表現遠不如預期，引發醫療界對AI臨床應用準備度的重新審視。研究測試了多款LLM在病患出院摘要擷取、實驗室數值解讀、藥物劑量換算及ICD編碼等基礎醫院資料處理任務上的表現，發現錯誤率偏高且一致性不穩定，尤其在需要精確數值判讀的情境下失誤頻繁。研究人員指出，這些模型在開放式問答中表現亮眼，但面對醫院資訊系統中高度結構化、格式嚴格的資料時，往往出現幻覺（hallucination）或斷章取義的問題。此研究提醒醫院在將LLM整合進臨床工作流程前，必須針對特定資料任務進行嚴格的場域驗證，而非依賴通用性基準測試成績作為部署依據。",
+      "tags": [
+        "大型語言模型",
+        "臨床資料處理",
+        "AI幻覺",
+        "醫院資訊系統"
+      ],
+      "author": "未標示（Medical Xpress｜2026-05-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZDdja3JsOV9iTTJPa3hJdTB2bmNSSlg1am5MR1gyLUEwSzZ3cEYwd3RLQmpaV1BpdmUxN1NvMkRtUVpqMDBCdzA0OU1XZ2h1LWhFMWJqWjlqUFdRMDhHRjVaT1E5MU4wZGFTMEZQYU90NW1Mc0JxcnlUWGJqcGp1elpITXFZQQ"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "賓州眾議院推動醫療AI使用揭露立法，法案順利通過委員會審查",
+      "summary": "美國賓夕法尼亞州眾議院一項要求醫療院所揭露AI使用情形的法案，已順利通過委員會審查，即將進入全院投票程序。該法案規定，當醫療決策或病患溝通過程中使用了AI輔助工具，醫療提供者必須向病患進行相應的知情揭露，並說明AI在診療流程中扮演的角色。提案人認為，隨著AI在病歷摘要、影像判讀、保險授權等場景的應用日益廣泛，患者有權了解其所接受的醫療服務是否涉及演算法輔助決策。法案若通過，將成為美國州級醫療AI透明度立法的重要先例，可能引發其他州效仿跟進。對醫院法遵與資訊部門而言，此發展意味著未來AI工具的部署必須同步建立完整的揭露流程與患者溝通機制。",
+      "tags": [
+        "醫療AI立法",
+        "知情揭露",
+        "法規遵循",
+        "患者權益"
+      ],
+      "author": "未標示（Butler Eagle｜2026-05-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2tPTWVCQ3N3eFo2eldnQlQwVHpadVpXeVJhV2l4RkdEVEZra3dIMFk3Y3d4cGh3SWRFdW0zUDNEbk85cUxjUExLX1hhU1VvZzFEY2R0MWdkQU51VTRFTDdFMy1ucnRGRk9sYTk5NjJxRjRGS29tLVN0QTVRUHBZVHBfSnFoNEp0R3VwdW9JN0g0TTJLaWdscWFEZFplU0dMYVQwMUl3bw"
+    },
+    {
+      "rank": 7,
+      "score": 7.3,
+      "title": "加拿大各省資料保護機構共同研擬醫療AI轉錄工具隱私規範指引",
+      "summary": "加拿大各省個人資料保護機構（DPA）正就醫療AI轉錄工具（AI scribe）的隱私保護規範展開跨省協調討論，擬定統一的指導方針。由於AI醫療記錄工具在診間的應用快速普及，自動錄音、語音辨識與病歷生成等功能涉及大量敏感健康資料的蒐集與處理，引發各省監管機構對患者知情同意、資料儲存地點、資料存取權限及跨境傳輸等面向的高度關切。各省DPA計畫協調一致，避免出現各省規範分歧導致醫療機構遵循困難的情形。此跨省協作模式對台灣醫療體系亦具參考價值，特別是在衛福部推動AI主權雲及SBOM規範的背景下，如何建立全國統一的醫療AI隱私保護框架，是醫院資訊部門須提前關注的政策走向。",
+      "tags": [
+        "醫療AI隱私",
+        "AI轉錄工具",
+        "資料保護",
+        "法規政策"
+      ],
+      "author": "未標示（IAPP｜2026-05-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGRDakVabTNMRkpka3lxQWZ3MXlmV3FYODBSYy02WDFEWXE4ZWRUcmMtbmcwOEhqZzRlY0VxdFJaa0FyVjJxT0hXbl9oWllsRER1aTVnQTd6WmFILVlvQ1I2ZHZBYzVpTDRkVW1aaWZBczZwUlVKWmF5SDZVWGk2U3FiLVctVWJNLWZEQTNQZV9qVnUxVVJyamhIWQ"
+    },
+    {
+      "rank": 8,
+      "score": 7.1,
+      "title": "AI演算法大幅提升醫院出院預測準確率，有助病床調度與流程規劃",
+      "summary": "加拿大Hospital News報導，一項最新研究開發出以AI為核心的出院預測演算法，可整合電子病歷、實驗室數值、護理記錄及入院診斷等多維度資料，即時預測住院患者的可能出院時間，準確率相較傳統統計模型顯著提升。此工具可協助護理長及病床管理人員提前安排病床清潔、後續照護轉介及醫療資源調配，有效降低病床壅塞問題，並縮短患者等候時間。研究團隊指出，模型在不同科別及患者族群中均保持穩定的預測表現，顯示具備良好的泛化能力。對於面臨病床管理壓力的醫院而言，此類AI工具提供了一個以資料驅動優化運營效率的實際解方，且無需大規模改變既有工作流程即可導入。",
+      "tags": [
+        "出院預測",
+        "病床管理",
+        "醫院營運AI",
+        "電子病歷"
+      ],
+      "author": "未標示（Hospital News｜2026-05-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2E1R2d6Y2J6d3VGdTBabWs4c2dmMHptcnMwbVhNMUlfbmUxV2tMU3hYM3JFWmJLN1g4NlFESHpTby1ZbkJKSGtJVzRtajdPZ0ZDOUh4eVoyOXRYcTBwTmtYNHZtSVlDSDU3SWdTVEZrTHZqNWUwYkxRa1dvVzVRSTVCY3ZqS0tDVU5JYk5tZy14bU1Lay0tMGR0Y21Jc2VXbXVF"
+    },
+    {
+      "rank": 9,
+      "score": 6.8,
+      "title": "SimonMed影像中心推出AI加值服務並額外收費，引發醫療AI商業模式爭議",
+      "summary": "美國大型影像連鎖機構SimonMed Imaging宣布推出一系列AI輔助影像分析加值服務，包含骨密度分析、肺結節偵測及心血管風險評估等項目，並對患者額外收取自費費用。此舉在放射科業界引發廣泛討論，部分業者認為此商業模式有助於加速AI工具的臨床普及與商業可持續性；批評者則擔憂，此類自費AI附加服務可能加深醫療不平等，使經濟條件較差的患者無法獲得AI輔助的早期疾病偵測。此案例標誌著醫療影像AI從「嵌入式服務」向「獨立計費項目」的商業模式轉變，對各國醫院在AI工具定價與收費模式的規劃上具有重要參考意義，亦可能影響未來健保及商業保險對AI診斷服務的給付政策討論方向。",
+      "tags": [
+        "醫療AI商業模式",
+        "影像AI",
+        "自費AI服務",
+        "醫療不平等"
+      ],
+      "author": "未標示（Radiology Business｜2026-05-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcU9NaTU2RFBLSVZZQ1pqWmJXc1ZXaVpWdU5QNkYyVEdOMWxnMEM0VDF3cXF0NmJkX25RRnhYRTI3cjhRb2NFVjJoOGtWQ0NvLVlBY1M1aXB2d05RdG1FMURXekpvNXhGT3REdlpSMUlPSE1WOENNdjZsbXFRQ1lmVThTNzFpTUJXLW1paHF0LUN0bk1ueGZUd2dfUDNhZV9DWVBUUUpiUDg5d2pHTi1aMDdWMGJzelAtd3BrRTdCU1lKek5sUHFuS2NXQQ"
+    }
+  ]
+}
