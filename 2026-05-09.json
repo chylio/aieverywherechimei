@@ -1,0 +1,145 @@
+{
+  "date": "2026年05月09日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "賓夕法尼亞州起訴AI聊天機器人冒充醫師，醫療AI監管壓力持續升溫",
+      "summary": "賓夕法尼亞州司法部長對Character.ai提起訴訟，指控其旗下AI聊天機器人非法冒充持牌精神科醫師執行醫療業務，構成無照行醫。此案為美國第二起針對該公司的州級訴訟，凸顯各州對通用型AI平台在醫療應用上安全護欄不足的高度警惕。案件焦點在於AI是否能在未受監管的情況下提供心理健康諮詢，以及現行法規是否足以規範AI在臨床邊界的角色扮演行為。此案預料將加速美國各州制定專針對醫療AI聊天機器人的立法框架，並引發醫院資訊部門重新審視院內及院外患者使用之AI工具的合規邊界，對數位轉型策略具有直接政策參考意義。",
+      "tags": [
+        "醫療AI監管",
+        "聊天機器人",
+        "法規政策",
+        "醫療倫理"
+      ],
+      "author": "未標示（MedCity News｜2026-05-09）",
+      "source_url": "https://medcitynews.com/2026/05/pennsylvania-chatbot-doctors-lawsuit/"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI生成醫院住院摘要之醫師安全性評估研究出爐，臨床導入前景受關注",
+      "summary": "一項由醫師主導的評估研究針對AI自動生成的醫院住院病程摘要（Hospital Course Summaries）進行安全性審查，探討其在臨床文件應用中的可靠性與潛在風險。研究設計由執業醫師逐一審閱AI產出內容，評估其準確性、遺漏率與臨床危害潛力，為目前文獻中少見的實證評估。AI生成住院摘要可大幅降低醫師書寫負擔，惟其錯誤若未被察覺將影響後續照護決策，因此臨床落地前的安全驗證至關重要。此研究結果對各醫院評估導入AI文件自動化工具、建立人工審核流程及設定品質管控標準，具有直接參考價值。",
+      "tags": [
+        "AI臨床文件",
+        "住院摘要",
+        "患者安全",
+        "臨床驗證"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-05-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzYyT3haWE9KMUxJcUlBSV9uSW8tZjFQbE5RaGFpOXEtcE1DLXkza1pJNlpRSVQ5TGJWcTB3ZDlpcVhEejRUNTViNHBxT09paV95a1E2NDQwWUZINS1adEZhVEFJeklHUXRWMlJudnBJLW5NYVdMZVdxamVGMlN6THdSQnBkaktELWpMcGpHNDJnVzdZeDN2bw"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "Abridge環境式AI文件技術正式向全美護理人員開放，減輕行政負擔",
+      "summary": "醫療AI新創公司Abridge宣布，其環境式醫療文件（Ambient Documentation）技術現已向全美所有合作醫療體系的護理人員全面開放。此前該技術主要服務醫師群體，此次擴展至護理人員標誌著AI輔助文件工具進入臨床護理的關鍵里程碑。系統可在護病互動過程中自動記錄臨床內容，目標是降低護理人員的行政文書負擔，使其得以維持與患者的直接眼神接觸與溝通品質，進而提升照護體驗。此舉回應了長期以來護理人力短缺與過度行政化的議題，對醫院護理部門的工作流程優化與人力留任策略具有參考價值。",
+      "tags": [
+        "環境式AI",
+        "護理文件",
+        "工作流程優化",
+        "臨床應用"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-08）",
+      "source_url": "https://www.healthcareitnews.com/news/abridge-releases-ambient-ai-tech-nurses"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "衛福部強調醫院資安預算至少應編3%，AI與資安治理成期中重點政策",
+      "summary": "台灣衛生福利部明確表示，醫院資訊安全預算佔比至少應達3%，並將在近期期中審查中重點聚焦AI治理與資安管理議題。此政策方向反映主管機關對醫療機構在快速導入AI工具同時，資安防護能力是否同步到位的高度關切。隨著醫療AI應用場景從輔助診斷擴展至行政流程、臨床決策支援等多元領域，資安漏洞風險亦相應提升。衛福部此舉預告將透過稽核與預算規範雙軌推動醫院落實資安投入，醫療機構資訊部門應儘早盤點現有資安預算配置，確保符合即將強化的監管要求，並將AI治理框架納入整體資安策略規劃。",
+      "tags": [
+        "台灣醫療AI",
+        "資安治理",
+        "衛福部政策",
+        "醫院資安"
+      ],
+      "author": "未標示（iThome｜2026-05-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IVzZMWGxRV0dnZWxLSWFHY3pFUmtnVEZBWElFd2tZWEZSU2lwaDQtR21hWUxIekJwRnRhMG01dUpEY2o5U21kSVQyU2pVdw"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "LLM應用於放射科申請遭拒案件申覆，研究評估潛力與挑戰",
+      "summary": "美國放射醫學商業媒體Radiology Business報導，一項研究評估大型語言模型（LLM）在協助放射科醫師撰寫保險申覆文件方面的潛力。保險公司拒絕給付影像檢查的比例近年持續攀升，申覆程序耗費大量醫師與行政人員時間。研究探討LLM能否自動化生成具說服力的申覆理由、整合臨床依據，並符合保險公司的格式要求。初步結果顯示LLM在草擬申覆函方面具備一定能力，惟在醫學術語精確性與個案化程度上仍有改善空間。此議題對醫院收入循環管理及放射科行政效率具有直接影響，值得各醫院放射科及財務部門關注。",
+      "tags": [
+        "大型語言模型",
+        "放射科",
+        "保險申覆",
+        "行政效率"
+      ],
+      "author": "未標示（Radiology Business｜2026-05-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMXFTeVJpWFJnUXNzMGh3SVNsNzFTZWFLR3VmaVZ6ZldUNkF5WlpRM1Z5bnNWRGpySGlJMmY1TXpGejFWWjItMnR1eXdyUmtxeDhmV1V4OUEzVW1MVmQxWUdqaElZMlNYYU11T1lMZjZ1Q2o3cno1eWlPdUFHNk5ZVU03b2tmY3FFZ09CLVZpY3plQ082NWRpRkg0Zy1FMndCbzlseklMamc1WVVQTFZaLWJBYU5PUFktemczNnN5MGRZajA2U1V5cEZfT3lUcFNFWGJF"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "King's College Hospital導入AI軟體優化心臟介入手術流程",
+      "summary": "英國倫敦King's College Hospital宣布在心臟科導入AI輔助軟體，目標是提升心臟介入手術的精準度與流程效率。該系統可在術前與術中提供即時影像分析與決策支援，協助心臟科醫師更精確定位病灶、規劃手術路徑，並縮短手術時間。此舉為歐洲頂尖教學醫院於心臟科應用AI的代表性案例，顯示AI輔助手術正從研究階段邁向常規臨床實施。King's College Hospital的經驗可作為其他醫院評估心臟科AI工具選型、臨床整合流程設計及成效評估指標建立的重要參考，對心臟科主任及資訊部門具有直接的跨院學習價值。",
+      "tags": [
+        "心臟科AI",
+        "手術輔助",
+        "臨床導入",
+        "英國醫療"
+      ],
+      "author": "未標示（National Health Executive｜2026-05-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWNEaTAyaVBncmVpZERtNzZWMmdfZHhoeDF0b2M2OGxPWGluYmtGWXZnTklVNjZRbnJoWmxxYkMyMUQyMi05V1lOa1dvVnJ0SzU0NGRzMlM3TmVzUGl0Vl9xVkhKckR6Z1NkWEJ3V0gtRmV0LUVzbzRPSFE2V1d2cXg2VUx3dExGdVRNUTQtcktUSXpDdTBXaG5wdWVVTXdoRktfLWVLcDRuYTVONWg2T2FhSFBMQk1nU3c"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "無程式碼工具賦能醫護人員，台灣智慧醫療AI應用邁向全民化",
+      "summary": "台灣商傳媒報導，隨著無程式碼（No-Code）AI開發工具日趨成熟，醫護人員無需具備程式設計背景，即可自行建立或調整臨床AI應用模組，顯著降低智慧醫療工具的使用門檻。此趨勢正推動醫療AI應用從資訊部門主導轉向臨床第一線賦能，使護理師、醫師、醫療行政人員均能參與AI工具的設計與優化。報導指出，台灣多家醫療機構已開始試行此模式，讓臨床需求與技術實作之間的落差大幅縮小。這一「全民化」趨勢對醫院數位轉型策略具有重要意涵，預示AI工具的推廣速度將因降低技術門檻而顯著加速，同時也對AI治理與品質管控提出新挑戰。",
+      "tags": [
+        "無程式碼AI",
+        "台灣醫療AI",
+        "數位轉型",
+        "臨床賦能"
+      ],
+      "author": "未標示（商傳媒｜2026-05-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVWNmMndoTlAyb3RLaDVvU2FNaHFpc2c1cDVDNjIxczhXbWxIaTFiM25QdzBMeEllc0YtVlJLWldHYXZFM1NjMlpTZE0zMmZseDNTNTQxNUdyZ29nYWJCNjNGSEo2SWJjaThoNTMzSTlzajZkbjlTaHBxUWtXMTM2YzZpQ0UwU2thZlc5VUtzZ0hTbWpjY1dqY3pjOW40RTVIMWI3Z0FjOEJnUC1CZHl5TEZGOWthOUhoWkdPbFlFbnBMRkVkVENCMFJsclhTaUJJVnBvNlFXUFpncjdIY0RxcnE4Nml0UTVsUjlfUlN3cXBxam1VeHpoMWhYTkJqUGdjQ2c1QzNMYkpIQVZITDh6cS1EckZGbW1mdUFXZ0FPMnBfZEI5azA0eDctY2p6dlZzNllSam1fVFhNZGQwWjVBMk5MYVdSdGpqNmp1SDZlcHZJNEJzRkVMMEtJRHpRT2Z1RE1wMHBR"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "韓國天主教醫院集團制定醫療AI倫理規範，強調人類責任優先原則",
+      "summary": "韓國一家天主教醫院集團宣布正式採行醫療AI倫理規範，明確訂定AI輔助決策的責任歸屬原則，強調人類醫護人員須對所有AI輔助決策的最終結果負責。規範涵蓋AI應用的透明度要求、患者知情同意機制、演算法偏見防範措施及資料隱私保護框架，並設立院內AI倫理委員會作為監督機制。此案例顯示亞洲醫療機構正主動建立機構層級的AI治理架構，而非等待主管機關強制規範。此舉對同樣面臨AI導入倫理挑戰的台灣醫療體系具有參考價值，尤其在建立AI問責框架、倫理審查流程及醫護人員AI教育訓練方面，提供了具體的機構自律實踐案例。",
+      "tags": [
+        "醫療AI倫理",
+        "AI治理",
+        "韓國醫療",
+        "問責框架"
+      ],
+      "author": "未標示（Koreabizwire｜2026-05-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbThHM1QtckxVeEhORjZ0ZVl4NmlpY3ZpLTJCNnpIbTlkWnZaN2tNaVk4ZWVpb3hYMlllTFBSVk9PNHAtRFlpM2VGd3Q1dkJ5dGVyYVpJanZOLUNnREdNVUFKMU5pUmZhcXpiQ0xWYlRVeGNQY1VydEVIVDlyZWl3OXhhQWpUdzVEVjhta1psMG02Tnl0S2c2Z0NsODhhamZqaW9kbEpxWThFQXBLYVZxa3BR"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "IndiaAI與ICMR簽署合作備忘錄，攜手推進印度醫療AI發展",
+      "summary": "印度政府AI推動機構IndiaAI與印度醫學研究委員會（ICMR）正式簽署合作備忘錄（MoU），宣示雙方將共同推進醫療AI的研究、標準化與臨床應用。合作重點包括建立醫療AI資料基礎設施、推動跨院所資料共享機制、制定本土化AI醫療應用評估標準，以及加速AI醫療工具從研究室到臨床的轉化。此舉標誌著印度將醫療AI列為國家優先戰略，並以政府層級合作框架協調研究機構與科技部門資源。對於亞太地區醫療AI政策走向有觀察意義，同時呈現新興市場如何透過政府主導的頂層設計加速醫療AI基礎建設，可作為台灣相關政策規劃的比較參考。",
+      "tags": [
+        "印度醫療AI",
+        "政策合作",
+        "國家AI戰略",
+        "亞太醫療"
+      ],
+      "author": "未標示（Let's Data Science｜2026-05-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcHRNN0RSak8yc0xwR3ZMNEswdTNtXzRPR2EwNDlEWWk5NVk0TkRCRFFlTUJybm8xaDRXTE5NcnhXU2xRWEFyZHkzdlo2YjUxckZoNVgwQ0MxLVNFejVpM2JvYTRJdFNzRWpCbU5mcjRvYU8zSUpKbURVT1R0Z3hsNzFrWktxdVhQTkI4RHZJUzZtR1RxZ3lV"
+    },
+    {
+      "rank": 10,
+      "score": 6.0,
+      "title": "緊急照護診所導入AI語音助理後，營收與接診量均顯著提升",
+      "summary": "Healthcare IT News報導，美國多家緊急照護（Urgent Care）診所在導入AI語音助理（AI Scribe）技術後，同時實現了營收增長與接診效率提升的雙重效益。AI語音助理透過自動記錄醫病對話並即時生成臨床筆記，使醫護人員得以從文書作業中解放，將注意力重新聚焦於患者互動。診所反映，文件完整性提升有助於帳務申報更精確，進而改善收入循環；而減少每次診察中的鍵盤操作時間，也讓每日接診人次有所增加。此案例為門診及急診環境導入AI語音文件工具提供了具說服力的商業案例，對希望評估AI助理工具投資報酬的醫院管理層具有參考意義。",
+      "tags": [
+        "AI語音助理",
+        "緊急照護",
+        "臨床效率",
+        "收入循環"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-08）",
+      "source_url": "https://www.healthcareitnews.com/news/urgent-care-clinics-boost-revenue-and-throughput-ai-scribe"
+    }
+  ]
+}
