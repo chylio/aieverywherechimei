@@ -1,0 +1,89 @@
+{
+  "date": "2026年05月10日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "AI模型結合轉錄組學與數位病理數據，精準預測膀胱癌化療抗藥性",
+      "summary": "一項最新研究開發出整合轉錄組學（transcriptomic）與數位病理影像資料的AI模型，能夠預測膀胱癌患者對化療的抗藥性。該模型透過分析腫瘤組織的基因表達特徵與形態學影像，識別出高抗藥性風險患者，協助臨床醫師在治療前即制定更精準的用藥策略，避免無效化療帶來的副作用與延誤。此研究突顯數位病理與多模態AI在腫瘤精準醫療中的潛力，尤其對泌尿腫瘤科及病理科具有重要的臨床參考價值。隨著數位病理平台在各大醫院逐步普及，此類AI輔助決策工具有望縮短從診斷到治療方案確定的時間，提升整體照護品質，並為膀胱癌患者帶來更個人化的治療路徑。",
+      "tags": [
+        "數位病理",
+        "腫瘤AI",
+        "膀胱癌",
+        "化療抗藥性"
+      ],
+      "author": "未標示（geneonline.com｜2026-05-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOFhCazNZUlFSbUNSOG1wRi14SjFnMTAxRVJ5V3ZaSWVYeE5NSkNUaXA1YWVDYnlSVzR2dkJLVEh3WWl5cWh6RTNpVHI4VWRXS0RuSGlWeGZNeU1FOUlscEw0cm9RczhhSVFObFlXVnZqcFFMOFNiSmJneTI1NzlJWDd3bnJmY3A3ZGpPbFJ5akFhWVJkeS1XWlBfaWdmZmlIVjFhZWpFZEJ6SjJlS1A2OFRoYWNub3RRVlIzckxEZFVVTm1VNHc"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "數位病理與AI時代正式來臨：專家解析臨床導入的機遇與挑戰",
+      "summary": "資深病理專家Jayesh Deshmukh於Oncodaily發表深度評析，指出數位病理結合AI的時代已全面到來。他強調，AI輔助病理診斷不再僅是研究工具，而是正在改變日常病理判讀流程的實用技術，包括腫瘤分型、生物標記評估與預後預測等應用已日趨成熟。文章同時探討醫療機構在導入數位病理平台時面臨的挑戰，涵蓋硬體基礎設施建置、病理師再培訓、法規核准以及數據安全等面向。對於醫院領導層而言，此評析提供了評估數位病理投資優先序的重要視角，亦呼應近期Roche收購PathAI等產業整合趨勢，顯示數位病理已成為全球醫療AI發展的核心戰場之一。",
+      "tags": [
+        "數位病理",
+        "AI診斷",
+        "病理科",
+        "臨床導入"
+      ],
+      "author": "未標示（Oncodaily｜2026-05-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UUFFSS1dfMi1Ka0dQLWpLUkVOMTF2cVliUGlhNjF3Z3VXdi1CTl9PcUdpb2ZIRkEwampQazIwZ3ptYWswcG93bllpdXYxcEdUMGlkTFNfMWJHZ1RfZ21OVw"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "醫院能否信任AI處理數字運算？臨床應用中的數值推理風險探討",
+      "summary": "《The Daily Star》刊載一篇針對醫院使用AI進行數字相關任務的深度分析，核心問題是：AI在醫療環境中處理數值計算、劑量換算、檢驗數值解讀等任務時，可靠性究竟有多高？文章援引多項近期研究，指出目前主流大型語言模型在數學推理與精確數值計算上仍存在顯著缺陷，可能在臨床決策支援中產生誤導。報導強調，醫院在部署AI工具前必須嚴格評估其數值處理能力，並建立人工複核機制，以避免因AI計算錯誤造成的醫療傷害。此議題對醫院資訊部、藥劑科及臨床決策支援系統建置團隊具有直接的政策與操作意涵。",
+      "tags": [
+        "臨床AI安全",
+        "大型語言模型",
+        "醫療決策支援",
+        "風險管理"
+      ],
+      "author": "未標示（The Daily Star｜2026-05-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ09GcFo3RlZ0djdRUV9NRGZ4dDVucGJMTllvUHU0VUgyZzZJN1JTemFoaFN6bEk2aTVBS3hnclNyd0hBMGpqY2F6MVVfNG5uRHJOd2M2MHdQMF9LWkpHTzV6Nno4c3RWWVR5OXc5NGtvd0prQllRUEhFYUc2TExnSndoMVpKUQ"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "AI精準診斷對抗抗生素抗藥性危機，醫界面臨百年最大轉折",
+      "summary": "TechNews科技新報報導，AI技術正快速應用於對抗全球抗生素抗藥性（AMR）危機。透過機器學習分析病原菌基因組數據與臨床表現，AI模型能在數小時內預測特定細菌的抗藥性譜，大幅縮短傳統藥敏試驗所需的數天等待時間，協助醫師更早啟動精準抗菌治療。報導指出，WHO已將AMR列為全球公共衛生頭號威脅之一，而AI輔助的快速抗藥性鑑定有望改變感染科的治療典範。對於設有感染管制中心與微生物實驗室的醫院而言，評估導入AI輔助細菌抗藥性偵測系統的時機已日趨成熟，此類技術亦與健保抗生素管理政策方向高度契合。",
+      "tags": [
+        "抗生素抗藥性",
+        "感染管制",
+        "AI診斷",
+        "精準醫療"
+      ],
+      "author": "未標示（TechNews科技新報｜2026-05-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLXFiN0lRaGdSbEFuOUxYSDg2VDVQX28zZVR1a18tWmhnLUY2VmlaZzlOOThKWkp6dXhUQUd4MVZ0Z1lEdlNXbXBUeHFXS2xEanR6T2lZdlpzWnBzLWNZZHdYMHFwMkp4WDlCV01zZkcxZjZLY0UwbXh0WGd0RHlOZlBFOXg"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "麻州醫療機構全面導入AI助理，從病歷記錄到診斷決策應用多元",
+      "summary": "ENN台灣電報報導，美國麻薩諸塞州多家醫療機構正積極部署AI助理系統，應用範圍涵蓋自動化病歷生成、診斷輔助建議、影像判讀輔助及患者溝通摘要等多元場景。相關醫院表示，AI助理的導入顯著減輕了醫師的行政文書負擔，使臨床人員得以將更多時間投入直接照護工作。部分機構亦結合環境式語音擷取技術，實現診間即時紀錄，減少事後補記的錯誤與遺漏。此報導對台灣醫療體系具有參考意義，尤其在智慧病歷、AI輔助診斷導入策略及醫護人員接受度等議題上，提供了來自美國前線的實務經驗，可作為醫院推動數位轉型的參考依據。",
+      "tags": [
+        "AI病歷記錄",
+        "醫療助理",
+        "數位轉型",
+        "智慧醫院"
+      ],
+      "author": "未標示（ENN台灣電報｜2026-05-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1XUTE5ejNOdW9maE5UVzdiRl9vTURnLWNheGdBOFVUSDl4MXRUbzdOaFRWbFp2WUloaXc"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "學術論文偽造引用危機：250萬篇生醫論文系統性審計揭露AI生成假引文問題",
+      "summary": "《The Lancet》刊載一項由Topaz等人主導的大規模審計研究，針對PubMed Central平台上2023年至2026年間發表的約247萬篇論文共逾1.25億筆引用文獻進行真實性驗證。結果發現，在可核查的9,710萬筆引用中，存在一定比例指向不存在文獻的「幽靈引用」，且此現象與AI生成內容的普及高度相關。研究者指出，AI語言模型在撰寫或輔助撰寫學術論文時，可能自動生成看似合理卻實際不存在的引用文獻，對醫學文獻完整性構成系統性威脅。此發現對醫療機構在使用AI輔助學術寫作、臨床指引制定及文獻回顧時，具有重要的品質把關與稽核意涵。",
+      "tags": [
+        "學術誠信",
+        "AI生成內容",
+        "文獻造假",
+        "醫學研究"
+      ],
+      "author": "未標示（The Lancet｜2026-05-09）",
+      "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00603-3/fulltext?rss=yes"
+    }
+  ]
+}
