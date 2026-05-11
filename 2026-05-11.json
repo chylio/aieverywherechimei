@@ -1,0 +1,89 @@
+{
+  "date": "2026年05月11日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "OpenAI推出醫療人員專屬AI助理「ChatGPT for Clinicians」，以GPT-5.4驅動並免費開放使用",
+      "summary": "OpenAI正式推出專為醫療人員設計的AI助理「ChatGPT for Clinicians」，以最新GPT-5.4模型為核心，向醫師、護理師等臨床人員免費提供服務。此工具旨在協助醫療專業人員於臨床情境中進行病歷查詢、鑑別診斷參考、醫學文獻摘要等多元應用，降低行政負擔並提升決策輔助效率。此舉代表OpenAI正式將醫療場域列為核心市場，並透過免費策略加速臨床端採用率。對於醫院領導層而言，此工具的推出意味著臨床AI助理正進入大規模普及階段，院內人員可能已自發性使用，相關治理政策、資安規範與資料隱私保護等配套措施的制定將日益迫切。此外，GPT-5.4在醫療問答能力上的提升，也為後續AI輔助診療的效能驗證提供新的評估基準。",
+      "tags": [
+        "臨床AI助理",
+        "OpenAI",
+        "GPT-5.4",
+        "醫療數位轉型"
+      ],
+      "author": "未標示（udn科技玩家｜2026-05-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BQ1o1OWtNYjlIS1FyVU96OTRneVV1N28tMl8teEN6QWhyZGRxLUx3VFg0ekpfU2RTRThJQWQ1V2RNbU1LTjNBVlY1LWlZYzhCSG52RnlTTGJfXzFuUTI2U1NfWDdBaXU2eFpDZXAwMHY4RGJoMEVHaG1yc0w"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "Becton Dickinson與Wellstar Health System聯盟測試AI醫院用藥管理平台",
+      "summary": "醫療器材巨頭Becton Dickinson與Wellstar Health System宣布合作，共同測試一款以AI為核心的醫院用藥管理平台。此平台旨在整合藥物配給、給藥流程監控與臨床決策支援，透過AI分析即時用藥數據，協助臨床人員降低用藥錯誤風險並優化藥品庫存調度。在醫院管理層面，此類AI用藥平台的導入不僅涉及臨床安全，更牽動藥事部門的作業流程重組與系統整合需求。Becton Dickinson作為全球領先的醫療設備供應商，其與大型醫療系統的AI合作試驗，具有重要的產業示範效應，預期將推動更多醫院跟進評估類似解決方案。對於資訊部與數位轉型團隊而言，此案例亦提供了醫院級AI用藥平台的實作參考，值得持續關注後續試驗成效與安全性數據。",
+      "tags": [
+        "AI用藥管理",
+        "醫院數位化",
+        "Becton Dickinson",
+        "臨床安全"
+      ],
+      "author": "未標示（simplywall.st｜2026-05-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVnVFb183UHYtQ0J1Q0R5UlcyVTZjMjMzV1VfeU1mZkZ3WUFOaXhNZW8tNFdDeFZyR2JfM3cwN2lhazBwLTZ6UFpLbnBqTkpKVHlhbTBYM3I4a0xzWHFBNkdkZnhtLTVPV0RBZE40THR5QjIxZml2ZFR0ZV9PMHhvcHVna1MyNmNwRVg1Y2ZXdE42OEVqS0ZwMVFkUlZuNFZpSUw0aHJGVzNzRkZZeUpTT21UR3hZVjlpcU5PWjV5eDRSamJVYWkxblhaM04zX0HSAdQBQVVfeXFMTk5vdTJrcW1sY2F5NlNqaTBBVlAtcUQ3b3VQYXV6dDdZalM0VWpPYkRBb1VRQmpCMEtmdXBBa2M4eWRBQnV2ZVNqaURCTy10WlVQdlg4R1kyRURHU3JGaDUyd3QxTzhYQmJ6dTdEcm9TWVU0bEpGUDFxajlNTTBsZFkya3BYNnVMdG5OSVhDT3BFNzRGWHFrMnFYcm5wT0Z2eU1XZTJtTW1aazdRNFFUbEJZU2tFOUZONDBXYkVLRjJscC11REh6cjdEaHB2SVA0MjJmNUE"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "香港學者：醫療AI發展聚焦「早期預測」，疾病風險分層成核心應用方向",
+      "summary": "香港學術界研究者指出，香港醫療AI的發展重心正集中於「早期預測」領域，包含疾病風險分層、高危患者識別及預防性介入等應用。學者認為，相較於輔助診斷或影像辨識等成熟應用，早期預測AI在減少急性就醫、降低醫療系統負擔方面具有更顯著的長期效益。此一趨勢與全球醫療AI從診斷輔助轉向預測性照護的整體方向高度一致，反映出亞太地區在醫療AI戰略佈局上的共同走向。對於醫院領導層及臨床科主任而言，早期預測模型的臨床驗證標準、資料治理架構，以及如何將AI預測結果有效整合進臨床工作流程，將是下一階段推動此類應用的關鍵挑戰。香港的發展經驗亦可作為台灣醫療AI政策規劃的重要參考依據。",
+      "tags": [
+        "早期預測AI",
+        "預測性照護",
+        "醫療AI政策",
+        "香港"
+      ],
+      "author": "未標示（香港文匯網｜2026-05-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYb01tT3cyWmIzUTBsdXhwU1ppWmZqWUQ5WHphUUZ5TTQ0cjVqYWVXdFBCSW94SEVNRFRmbnpyTVdOemhrUlQ2ZlhYZU1VSGpfdVI4M1ZRaGtlZjNqVEJFdUdMc29tMkxqOFZieTEyUC1LTnJUVzhKR1hiMlE"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "Hakeem Health獲165萬美元融資，將AI臨床決策支援系統引入海灣國家醫院",
+      "summary": "醫療AI新創公司Hakeem Health完成165萬美元種子輪融資，由Merak Capital領投，計畫將AI驅動的臨床決策支援系統（Clinical Decision Support）導入海灣合作委員會（GCC）地區醫院。Hakeem Health的平台旨在輔助臨床醫師在診斷、用藥建議及治療路徑規劃等環節進行決策，並針對中東地區的疾病型態與醫療環境進行本地化調整。此案例呈現出新興市場對AI臨床決策工具的強烈需求，同時也說明小規模資金即可啟動區域性AI醫療部署。對於全球醫療AI生態系而言，GCC地區的積極投資態勢值得持續關注，其本地化AI醫療策略亦可提供亞太區域醫院參考。相關融資動態也反映出臨床決策支援為當前投資人最青睞的醫療AI細分領域之一。",
+      "tags": [
+        "臨床決策支援",
+        "醫療AI投資",
+        "新興市場",
+        "Hakeem Health"
+      ],
+      "author": "未標示（waya.media｜2026-05-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUW5OMS16Z01Yb1RNc0dlOXJHRnVuX2xhQThDUVlMN1QxR0djUkdoWFo1SGRIZFJDMnRIYkg0THFyaDRfYlFFYTNRWnZQenVfaU82TW9QdnhEUGhNSk5YYzdaUk5DOW4xVWNNNjhBYTMyZlpYVmJaME1HVXV4OUlLYU9Hakl2cF9MdkhIdnk5elZwbk4xbHFTbVU5Y0ROelF4R3J0dm0yQ0VQRWxvcFZ5NzY0Qjd3UXpnOElUYm0tUG5OMERCNkhEQXN3"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "台北智慧醫療主題館赴日出征，AI與精準醫療產品瞄準日本市場商機",
+      "summary": "台北市政府組織智慧醫療主題館，率領AI醫療科技廠商赴日本參展，聚焦AI輔助診斷、精準醫療、穿戴裝置與遠距照護等核心領域，積極開拓日本醫療市場商機。此次出征顯示台灣醫療AI產業的國際化步伐正在加速，廠商涵蓋影像AI、健康數據分析及智慧照護解決方案等多元類別。對於台灣醫療體系而言，此類展會不僅是產品推廣平台，更有助於促成國際醫療機構合作、引進先進AI應用場景的雙向交流。台灣在醫療AI出口策略上的積極態勢，也意味著本地醫院有機會與具備國際視野的AI廠商建立更緊密的合作關係，共同推動智慧醫療的落地實踐。",
+      "tags": [
+        "台灣智慧醫療",
+        "醫療AI國際化",
+        "精準醫療",
+        "產業展會"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-05-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNRmRlR2theHpxWDF3VkJ3Q0JJSU9lSmd4Qk1VOGMwaF9Tc1RndmY5M0RaTGZnc2ZIUGlKd2lqQ1pqS1BVRGdEaXJORGI4bUxrc2FrOFhtajhIS2J0QmxaVlFrdjMtSHRaNWliWWFNd3dNZWtoNk00cHNhZWc2X1MyY1J4bkNGcnBaUDlhUW1waWF4V2hXbGRabnhOSmdLREpXSjVub19VRlRPLUp3czhhakVnMngwTVB1dUZycEkweHV4SUp4YWNQcnMxXzNBUGNXN29FZUxDS1BWWnZSS09heW45ZlA5eFp0eE9KZ052NTg0M2dUVEVGdllJc2dLQXVHVEdSR0gybmhmY1BPZGdIeXdGU3pLTDdTYTA2LWRkRWUzR2xDSVp6TTBFUTYzaDJac1lENU5sWU1TSE15dXlVVUJobHZLaU9NUHdnaEpIVXJOWlpqdVQwZWMxSi1yWDhGQnFoeXdadW9wMUN2alE"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "DOJ設立西岸醫療詐欺特別行動組，數據驅動執法將衝擊遠距醫療與AI帳務自動化業者",
+      "summary": "美國司法部（DOJ）宣布成立「西岸醫療詐欺特別行動組」，鎖定亞利桑那州、內華達州及北加州等詐欺高風險地區，重點調查Medicaid、安寧療護及科技輔助詐欺案件。法律專家指出，此舉標誌著聯邦執法從傳統調查轉向以數據分析為核心的主動偵測模式，遠距醫療公司及帳務自動化軟體供應商將面臨更嚴格的合規審查。對於醫院及數位醫療業者而言，AI驅動的帳務與申報系統若存在自動化錯誤或不當設計，可能觸發詐欺調查風險。此案例提醒醫療機構在導入AI行政自動化工具時，必須強化合規稽核機制，確保演算法決策符合聯邦申報規範，避免因AI系統瑕疵引發法律責任。",
+      "tags": [
+        "醫療詐欺執法",
+        "AI合規風險",
+        "遠距醫療",
+        "帳務自動化"
+      ],
+      "author": "未標示（MedCity News｜2026-05-10）",
+      "source_url": "https://medcitynews.com/2026/05/doj-healthcare-fraud/"
+    }
+  ]
+}
