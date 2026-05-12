@@ -1,0 +1,117 @@
+{
+  "date": "2026年05月12日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "生成式AI放射影像模型獲FDA突破性器材認定，加速臨床審查進程",
+      "summary": "一款以生成式AI為核心的放射影像分析模型已獲美國FDA授予「突破性器材認定」（Breakthrough Device Designation），這是FDA針對能顯著改善嚴重或危及生命疾病診斷或治療之醫療器材所設立的加速審查機制。此認定意味著該模型將享有FDA優先審查資源與互動指導，有助縮短上市時程。生成式AI應用於放射影像解讀是近年臨床AI領域最受矚目的發展方向之一，此次獲得突破性認定不僅代表技術層級獲FDA肯定，也為醫院影像科提供了明確的監管進展訊號。對於正在評估AI輔助影像診斷導入的醫療機構而言，此案例顯示監管路徑已逐步明朗，相關解讀效率與報告品質的提升具備更強的政策背書基礎。",
+      "tags": [
+        "放射影像AI",
+        "FDA認證",
+        "生成式AI",
+        "突破性器材"
+      ],
+      "author": "未標示（Medical Product Outsourcing｜2026-05-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNEJja0hIOEZiR2NmX1VBZ2pBSFFadm9SYW95QUZERktsMFZIZDB0OVN2QThSOHhEemFfdUVvUnlMckpZWHlOa1lQMm10V1hzcnliV2tjY3F4NUhqYXhxVGtCaU0xbXpjcFNIVkRnTHk1ZEhIWnBQSU4ySUJ5bGI1TXBWYlNZOFBjeGFvcGhWSHljS0g1S0gtT2hpeU9TVjNEdTFZY0lwMzFNbEJqMFpqeFBKY0Z1U2c"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI賦予病理科醫師「空間超視力」，可偵測傳統檢查難以發現的隱藏癌症",
+      "summary": "一項發表於Technology Networks的研究報告指出，最新AI工具能為病理科醫師提供所謂「空間超視力」（Spatial Super Vision），透過整合空間轉錄組學（spatial transcriptomics）與影像深度學習，使病理醫師得以在組織切片中識別傳統H&E染色無法輕易辨別的隱藏癌細胞及微環境特徵。此技術突破傳統病理判讀的解析度限制，能在細胞層級甚至次細胞層級揭示腫瘤異質性與侵犯邊界，對於早期癌症偵測及治療計劃制定具有高度臨床價值。該工具不僅提升診斷精準度，也有助於減少因閱片主觀差異造成的誤診。對癌症中心、病理科及數位病理推動團隊而言，此類AI工具代表數位病理進入新的功能維度，值得密切追蹤其臨床驗證與導入可行性。",
+      "tags": [
+        "數位病理",
+        "癌症偵測",
+        "空間轉錄組學",
+        "臨床AI"
+      ],
+      "author": "未標示（Technology Networks｜2026-05-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaEV3TVJpempqZ0hHaTlVTjFlcWNMSnE2dVp4dGtPcllibEFnNXBXc01NRTZnZHhncllVY3NLWUdBeHY3SzhjdUVaOHU1QkMzVW4xOUFxNThxZFI5a1l0VU04eFBxTm05T3U2TGx3dFlqaUNaalBZemQzend1QjlkdW9fSjl1c2JIWmRuSFZZVVlreFpXN2N2QURGeEpQYUZ6S2RGYk9ocDhtMHY3N0UxT0FPUWJ1ZlFNbnR5TnRB"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "醫療AI品質治理新動向：農村醫療、AI代理品管與合規平台集體發力",
+      "summary": "Healthcare IT News報導，為提升醫療AI的臨床安全性與法規合規性，多項集體治理與平台升級方案同步推出。全國農村健康協會（National Rural Health Association）聯合Viz.AI與InterSystems，針對農村醫療協調不足的問題，推動AI治理框架與工作流程自動化，期望縮小城鄉數位醫療落差。與此同時，Credo AI發布新版AI治理平台，強化對AI代理（Agentic AI）的行為監控與品質評估能力；Zyter｜TruCare及Infinitus Systems亦各自宣布強化agentic AI品質保證的新工具。這些進展反映出醫療AI生態系正從「導入期」邁向「治理期」，重點已從功能展示轉向可解釋性、偏見監測與持續合規管理。對醫院資訊部與數位轉型團隊而言，建立AI生命週期監控機制的急迫性正在上升。",
+      "tags": [
+        "醫療AI治理",
+        "農村醫療",
+        "AI合規",
+        "工作流程自動化"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-12）",
+      "source_url": "https://www.healthcareitnews.com/news/vendor-notebook-health-ai-bolstered-collective-approaches-quality"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "台灣員林兩家醫院導入AI排班與護理紀錄生成，以智慧醫療解決護理人力短缺",
+      "summary": "據自由健康網報導，台灣彰化縣員林地區兩家醫院已正式上線AI智慧排班系統及護理紀錄自動生成功能，旨在減輕護理人員行政負擔，進而改善護理職場留任率。AI排班系統可依據人力需求、排休規則及護理師偏好自動產生最佳班表，大幅縮短排班所需人力與時間；護理紀錄生成功能則透過語音或結構化輸入，自動產製符合規範的電子護理紀錄。這兩項應用直接對應台灣護理人力嚴重短缺的核心痛點，也呼應衛福部推動智慧醫療的政策方向。此案例顯示，AI工具在護理場域已從概念驗證走向實際部署，且以解決勞動力問題為主要訴求，對面臨相同挑戰的醫院具有相當的參考價值。",
+      "tags": [
+        "護理AI",
+        "智慧排班",
+        "臨床文件自動化",
+        "台灣醫療"
+      ],
+      "author": "未標示（自由健康網｜2026-05-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rM3ZCN3FpUTlpVlBJbnJUU1lVbTUtY2g2NzZsTGljZVB5WjJZZWhLaTk4a3lobXZWdDRpbHc4bE1BMU4tdy1XU1BuSFVNZE5CY0VWc0xDUlcweDBUT0Y4U0xuQWbSAWpBVV95cUxOLWw5TV9EbEFZRy1ndFF3LW1JSWRBWk91bEhqRU1TVFNVeFZJOFRJQ0k1dUtTejdXZ2hqZjMyQ2NRSmZkQ0Iwa3RZRnlpMFlpV3hMUVhDWV9IenpsLUVoMGNCNHFIY1V2V1Vn"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "醫療AI模型生命週期監控與信任維護：MedTech Intelligence深度解析",
+      "summary": "MedTech Intelligence刊出深度分析，探討在醫療AI大規模臨床部署後，如何持續監控模型生命週期以維持信任與安全性。文章指出，AI模型在訓練資料環境與實際臨床環境之間往往存在「資料漂移」（data drift）現象，導致模型表現隨時間衰退而醫院未能即時察覺。有效的生命週期管理應包含：定期效能再評估、異常預測警示、模型版本控制，以及針對不同患者族群的公平性監測。此外，監管機關對上市後AI醫療器材的持續監測要求也在逐步強化，醫院若缺乏相應的內部稽核機制，將面臨合規風險。對資訊部與臨床工程團隊而言，建立AI模型監控儀表板與定期審核流程已成為不可迴避的課題。",
+      "tags": [
+        "AI模型治理",
+        "生命週期管理",
+        "資料漂移",
+        "醫療AI合規"
+      ],
+      "author": "未標示（MedTech Intelligence｜2026-05-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ3BrekhJS1Jxa2VhYjJ4NXk0bUh3d3VNRkRmeGRsV3FmUGc0SHNGM2g0TTFzN0txZzgySkxMS1lCeVRWRzZoYUtZMVhGNnIyYzd4RFJFZUxTSjIxS2p4S0xwamVWTkZvX1lxeXZ5VGI0RmVOQWlyclB0cTJUdFRLLTBhRkQ3Ti1yX2tORHBtbXFIZ1h2RHRGUFNhN2hYTUVHZ1JPZnJOSEVzWjB4NldTTTQ0SlRfUG5XYUladNIBwgFBVV95cUxPNG44VkR1RlN4Nk5jVlZ2bVhMMndoN3Rkb2FVdktmSEF2REVzVlJ0NXRtUDBjU0dnMjZ4bTJFZTNLUXFDazR3WFJFaDJLS2h3MGs5cmhWRVRxc0tKTnFzOE80QWx5OGZWOEdsVEcyWlRlaWgwOUo5UU5WaTA3RXlyaTlaUURRekhxQXFwSWFMTHZQY2RQTmJvbjhxWGFyOXN6LTc1ajlsQUJuZjh0QmVwTWdoeUsxbDlSVTdMSVJXTUxuQQ"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "Sarasota Memorial Hospital運用分析平台實現早期肺癌偵測，精準醫療進入實戰階段",
+      "summary": "Healthcare IT News報導，美國佛羅里達州Sarasota Memorial Health Care System透過導入先進醫療分析平台，成功提升肺癌早期偵測能力。該系統近年投入逾20億美元建設Brian D. Jellison癌症研究所，整合最新診斷技術與AI驅動分析工具，使臨床團隊能在更早期階段識別高風險患者並介入治療。早期肺癌偵測是目前臨床AI最具成效的應用領域之一，其核心在於整合電子病歷、影像數據與風險分層模型，主動篩出符合低劑量電腦斷層掃描（LDCT）條件的族群。此案例展示了大型醫療體系如何將資本投資與數位分析能力結合，打造系統性癌症早期發現機制，對有意強化腫瘤防治成效的醫院具有直接參考意義。",
+      "tags": [
+        "肺癌早期偵測",
+        "醫療分析平台",
+        "腫瘤AI",
+        "臨床決策支援"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-12）",
+      "source_url": "https://www.healthcareitnews.com/news/sarasota-memorial-ids-lung-cancers-earlier-analytics-platform"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "醫療AI倫理規範滯後於技術發展，醫院加速自動化之際監管框架仍待完善",
+      "summary": "Devdiscourse報導，隨著醫院加速部署AI自動化醫療決策工具，醫療AI的倫理規範與法規框架卻明顯落後於技術發展速度，形成治理缺口。文章指出，目前多數國家缺乏針對臨床AI決策的強制性問責機制，醫院在導入AI診斷、分診或治療建議工具時，往往依賴廠商自我聲明而非第三方驗證。此外，AI系統在不同族群間的公平性問題、患者知情同意、以及AI輔助決策出錯後的責任歸屬，均尚未形成清晰的法律標準。文章呼籲各國監管機關加速制定具約束力的醫療AI治理準則，並建立跨機構的稽核機制。對醫院領導層而言，在監管尚未到位前，主動建立內部AI倫理委員會與審查流程是降低風險的關鍵策略。",
+      "tags": [
+        "醫療AI倫理",
+        "監管框架",
+        "AI問責",
+        "臨床自動化"
+      ],
+      "author": "未標示（Devdiscourse｜2026-05-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnl5RDdsejVIQzdtUmswUG9XUUZYVkRHVlc1d2QzZEw3Y084T3V4ZnRzVUR6c0lpQ2lSRXl5cHlKRWJ2WFVyc0dOdFVSaDQ4Ny16MG5SdlJxRnNDWS12Z1E5UVROUjR5bFVOVXhPUUNrc3ZGQjNUQU9ENEpGRlkzM2NBbVZ4OGlSWEJxdThCdDd1T2JFTHVwRGxSQ0hPY2t6WkZENHFVOFRnV0NvTzRMenNhVmNUV01oeGFPVnNSSnZmRUFyMzRJOVkyZ2tJOUtFbkt30gHYAUFVX3lxTE1hRHFZWjVZd01XRWlvaHNnYXEtT0RfWG1XTDNuNG5Wc3BRWUJRbzhMZjRDVDJhRWswVFpEOER2aUR4ZHJUOU8xbHhBV3FBTUJzRGJvUF9IREhjTnZ6cWkySFJmamdFMDhRekF4S0VTQVBNTVQ5ZURmS1hfeEdFN3lYaElKampJcWJzdFBTcVNEdTJ3VlBMX3FtdmJ3cHVjc19EM09KOHBRazZXaTJMeHlYSTNUMC1weHFnNWx0YjdtT0szc3ppRjViUHB4Q3hhNVlKMVhDbjN6UQ"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "Basata獲2,100萬美元融資，推進醫療AI代理與行政自動化平台",
+      "summary": "HIT Consultant報導，醫療AI新創公司Basata完成2,100萬美元融資，將用於擴展其醫療AI代理（Healthcare AI Agents）平台與行政自動化解決方案。Basata的核心產品旨在以AI代理技術自動化處理醫療機構中繁瑣的行政作業，包括預約排程、保險授權、帳務處理及患者溝通等流程。此次融資反映出投資市場對醫療行政AI自動化領域的持續看好，也顯示「agentic AI」在醫療後台的應用正加速成熟。相較於臨床診斷AI，行政自動化AI的導入門檻相對較低，且回報可量化，是醫院數位轉型的重要切入點。對資訊部與營運管理團隊而言，此類平台的成熟度與市場動態值得持續關注。",
+      "tags": [
+        "醫療行政AI",
+        "AI代理",
+        "自動化",
+        "新創融資"
+      ],
+      "author": "未標示（HIT Consultant｜2026-05-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1FlQlVYdGI3Y0NyeF9Cc2hRUENEeVNLWWpCZHlkQ0NuYjJTT0cwYUtmUEJwcEVoQmdTZjlHczhzcWZ3XzFFNF94Y2RSUndHWnZTVktRbllJbDhYeG5Wb2RBZzdLRVkwN2JTQTFaOGduRDdWdGwwbWtUaUExSzBOMmJ2M0JJRzB1RFE3WVVB"
+    }
+  ]
+}
