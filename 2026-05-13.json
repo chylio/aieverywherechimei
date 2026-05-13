@@ -1,0 +1,131 @@
+{
+  "date": "2026年05月13日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "安大略審計長揭露醫療AI轉錄工具問題，政府採購與品質把關受質疑",
+      "summary": "加拿大安大略省審計長針對醫療院所使用之AI語音轉錄工具展開審查，發現該系統存在多項問題，引發外界對政府醫療AI採購決策及品質監控機制的高度關注。此案凸顯醫療AI工具在正式部署前的驗證流程不足，以及政府在評估AI產品時欠缺嚴謹標準的隱憂。AI語音轉錄在臨床上廣泛應用於病歷記錄與門診摘要生成，若工具出現錯誤或可靠性不足，將直接影響醫療安全與法律責任歸屬。此事件為醫療機構敲響警鐘：在引入任何AI輔助記錄系統前，須建立完善的效能評估、持續監控與出錯問責機制，並需納入臨床、資訊與法務等跨部門協作。對於正推動AI臨床文件自動化的醫療體系而言，本案具有重要的政策與治理參考價值。",
+      "tags": [
+        "醫療AI治理",
+        "語音轉錄",
+        "政府採購",
+        "品質監控"
+      ],
+      "author": "未標示（Toronto Star｜2026-05-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQV09GWFA2LS1kOVF2LXN2TFloWDJKeU9yeEZvN2hDN1RuVmhJUm1yb290aE52cTl5ZDNrUTdmM1BtZm1KOGIybEJrNDk4WkVpXzJlLVQwYUdCQ0cwMlQzYTZxQndjbFMxWjBkcEE2dUozLVp0QlBmSy1vUnE3eGlYakEwM0RsdHdNTEhLYktfX3ZEb0VNZDFGblctd015cC1TU1NMU3ItVnkzOGdDeDhWWGtMdHZMZDQ1cE1ZZWplMVhBLTZ0Y2RocjJpUWlQekdzd2Njcm9nOXo2N1pTbXo3VzIwNTE4TElXQ25Wc0oxaWY2UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "Albany Medical Center率先採用AI輔助腦部手術系統，神經外科手術邁入新里程",
+      "summary": "美國紐約州Albany Medical Center宣布成為全美首家在腦部手術中導入AI驅動手術系統的醫院，標誌著神經外科領域的重大技術突破。該AI手術系統能夠即時整合術中影像資料，輔助外科醫師進行精準定位與操作決策，有望降低手術風險、縮短手術時間並提升病患安全性。腦部手術因解剖結構複雜、容錯率極低，長期被視為AI輔助手術應用中最具挑戰性的領域之一。此案例不僅驗證AI手術系統在高難度神經外科場景的臨床可行性，更對其他醫學中心評估引進同類技術具有指標性意義。對於有意發展智慧手術室或機器人手術計畫的醫院領導層與外科部門，此消息值得密切追蹤後續療效與安全性的臨床數據發表。",
+      "tags": [
+        "AI手術系統",
+        "神經外科",
+        "智慧手術室",
+        "臨床創新"
+      ],
+      "author": "未標示（NEWS10 ABC｜2026-05-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRk55aDhHSDVVZXZvTDZyLUNIRUwyLVdKVDdVeUs0YmxqTmVxbjVDNks5LW1WWWJ4RDJoWVE1YTVSa090UFd1VUVhdm9Ib09GRm9fUjh1cmtKSFB1bU9Ob09tc0NwWkhCbkVJdEhLMWZzN19JX2pqNnhyQXRfNHg2LWFzbFROdFRkR0Q3SDhfTEFOZjBxU1RLclZWOVZmbmJxbnJFS0VVeExGZnB4X3lGeWpiMVkxQVozdW1UT2VwYXVrdzVkOUIxY2lBMUxwckU?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "Roche與PathAI簽署高達10億美元AI診斷合作協議，數位病理商業化加速",
+      "summary": "全球製藥及診斷巨頭Roche與AI病理診斷公司PathAI宣布達成一項最高10億美元的戰略合作協議，攜手推進AI驅動的數位病理學診斷解決方案。此合作將結合Roche在全球診斷市場的龐大商業網絡與PathAI在深度學習病理影像分析的核心技術優勢，目標涵蓋腫瘤生物標誌物偵測、疾病分型及伴隨診斷等多個臨床應用場景。此筆交易金額創下AI病理領域單一合作協議的新高紀錄，顯示業界對數位病理商業化的強烈信心，並預示大型診斷公司加速整合AI能力的市場趨勢。對醫院病理科及腫瘤科而言，此類合作將推動AI病理工具的可及性提升，並可能對未來採購決策及臨床診斷流程帶來深遠影響。",
+      "tags": [
+        "數位病理",
+        "AI診斷",
+        "腫瘤學",
+        "產業合作"
+      ],
+      "author": "未標示（Oncodaily｜2026-05-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mc2haWXZnUHBzSHJSQzRTNzF3dDlhUUpzeExKcnNObEJnZWxrSFo3ZkJMX1pMX0FTbEFxalZVUkFlX2dReVJNYkhVTGRYMkdfVDhpckZLcUVXSmxx?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "美國醫學會提出七大原則對抗AI深度偽造醫師身份，醫療詐欺風險管控刻不容緩",
+      "summary": "美國醫學會（AMA）針對日益嚴峻的AI深度偽造（Deepfake）威脅，正式提出七大防範原則，旨在保護醫師身份不被惡意冒用，並防止詐欺者利用AI生成假冒醫師聲音或影像誤導病患及醫療機構。隨著生成式AI技術持續精進，不法人士得以輕易製造逼真的醫師影片或語音，進行詐騙診斷、誘導就醫或詐取保險給付等違法行為，對醫療信任體系構成嚴重衝擊。AMA所提原則涵蓋身份驗證強化、AI生成內容辨識機制建立及相關法規配套等面向，為醫療機構提供具體的治理框架參考。此議題對醫院資安部門、臨床溝通平台管理者及醫療法規遵循人員尤具參考價值，需及早納入醫療AI風險管理政策中。",
+      "tags": [
+        "深度偽造",
+        "醫療詐欺",
+        "AI倫理",
+        "身份安全"
+      ],
+      "author": "未標示（商傳媒｜2026-05-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOT2d1RG1IX2pGRUIzUS1SdVd1MDJLOUY1My1KQTdOenB5c1oxUktJWGJhRTNUYndnZWdxOWN6eERBQWoxd09ibFpHUG5qLUY0bHFYeEJFel9EMURvWnNLcHNGNWxyZld3MG9KRUY1QmR3MGhCY0VnR05BeWhSbkxybll1Zld5MENTLTJmWjBhbXJ4N2FiTVdRc2hzZ2ROR0N1ZHJERklWSGR6d3NVYUFNWG1ZM1l0alZSRUVISkVoRTZLLTUwNGlmcHdpbjM4YVZTeDMwMEJmOWJqcWVpekVreHNqUFJLM2R5NzdzQmI5TE03X0hrLUJPRFQ3M2h1cGxmQWJadGVVMV9jeFZsTVJkaXZjX3VBWWpabUJrRzJ1WHd0RnhFVHlMSmZrSDFXdTNsR0pSWi13SjBkY2stNlNGdGhmbzdhdmZKSmdQZFdB?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "AI用於器官移植診斷：如何將複雜數據轉化為臨床決策清晰度",
+      "summary": "MedCity News刊載深度分析文章，探討AI技術在器官移植診斷領域的應用前景與落地策略。文章指出，移植醫學涉及排斥反應監測、供受體配對及術後免疫管理等高度複雜的臨床決策場景，傳統診斷工具往往難以即時整合多維度生物標誌物與影像數據。AI模型透過整合電子病歷、基因組學及影像資料，能在移植術後早期提供風險分層訊號，協助臨床團隊更及時介入。文章強調，成功的AI導入應遵循「從小規模試驗、跨場域驗證、再行規模化」的審慎原則，以確保在不同醫院環境與班別輪替下仍能穩健運作。此類應用對移植外科、腎臟科及重症照護團隊具有直接參考意義，亦呼應AI臨床工具需經嚴格多場域驗證的行業共識。",
+      "tags": [
+        "器官移植",
+        "AI診斷",
+        "臨床決策支援",
+        "精準醫療"
+      ],
+      "author": "未標示（MedCity News｜2026-05-12）",
+      "source_url": "https://medcitynews.com/2026/05/ai-in-transplant-diagnostics-turning-complexity-into-clinical-clarity/"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "敗血症AI演算法市場競爭白熱化，性能優異並非醫院採購的唯一關鍵",
+      "summary": "STAT News深度報導揭示，儘管市場上新興敗血症AI預測模型的技術性能持續提升，但業界專家普遍認為，單純的模型準確率並不足以驅動醫院採購決策。研究顯示，臨床工作流程整合難度、警示疲勞（Alert Fatigue）風險、與現有電子病歷系統的相容性，以及醫師對AI建議的信任程度，才是決定採購與實際使用率的核心因素。此外，如何在競爭激烈的市場中與Epic等大型系統內建模型區隔，也是新創業者面臨的重大挑戰。此報導對評估導入或升級敗血症早期預警系統的醫院決策層及重症醫學科主任具有高度參考價值，提醒採購評估不應僅聚焦技術指標，更需納入實際臨床場域的可用性與整合成本考量。",
+      "tags": [
+        "敗血症AI",
+        "臨床決策支援",
+        "醫療AI採購",
+        "警示疲勞"
+      ],
+      "author": "未標示（STAT News｜2026-05-12）",
+      "source_url": "https://www.statnews.com/2026/05/12/ai-sepsis-detection-startups-challenge-epic-systems/?utm_campaign=rss"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "兒童放射科AI臨床部署進展：Children's National Hospital發布實戰推動框架",
+      "summary": "Children's National Hospital針對人工智慧在兒科放射科的臨床部署發表最新進展報告，提出一套涵蓋技術驗證、臨床整合與持續監控的系統性推動框架。兒科放射影像因患者年齡層跨度大、解剖構造與成人差異顯著，加之輻射劑量敏感性較高，使AI模型的訓練資料與成人數據集往往無法直接通用，構成獨特的技術挑戰。報告強調，在兒科場域導入AI影像輔助工具前，必須針對不同年齡層進行分層驗證，並建立嚴謹的臨床回饋機制以持續優化模型效能。此框架對有意在兒科影像或其他特殊族群場域部署AI的放射科及醫院資訊團隊具有直接的實務參考意義，亦呼應了醫療AI監管機構對族群特異性驗證的要求。",
+      "tags": [
+        "兒科放射科",
+        "AI臨床部署",
+        "醫療影像AI",
+        "模型驗證"
+      ],
+      "author": "未標示（Children's National Hospital｜2026-05-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVzRCZzBIUWNzY0FsbWQteDVpWTY0NHFaWXFTNGR6a1VmRFhTbFdxMFZlcnVycDBCNXpZZ09sYzF3NXJOcVdXU1Y2dEJwcl8xaU1UTU1xTnYwYmF4WGJ2R2FEZzktM0ktbTBNeVFCbWJhTEZkaHJfS2IzVGlIb3lqMTVkYnhTZ0w1RGk5VU1teEZoaXJuRFhXSl9odjc4Q0o1QnJsMFgzUWZKb0JKbFZKMnRWRTVNcm1KdVZWWm42RGpucXFXNEpaMg?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "護理師公會警示醫療AI錯誤資訊風險，呼籲臨床人員強化辨識能力",
+      "summary": "美國護理師公會發出警示，指出醫療AI工具所產生的錯誤資訊對臨床決策構成潛在威脅，並呼籲護理從業人員提升對AI生成內容的批判性辨識能力。隨著AI助理、臨床查詢工具及自動化病歷系統在醫院快速普及，護理師在第一線直接接觸這些工具的機會大幅增加，卻往往缺乏足夠的AI素養訓練以識別模型輸出的錯誤或偏差。公會強調，醫療機構應加強對護理人員的AI教育培訓，並建立清晰的人機協作界限，確保最終臨床判斷仍由具備專業資格的醫療人員做出。此議題對醫院護理部、教育訓練部門及數位轉型推動團隊具有直接政策意涵，凸顯醫療AI導入必須同步投資人員素養培育。",
+      "tags": [
+        "護理AI素養",
+        "醫療AI錯誤資訊",
+        "臨床安全",
+        "人員培訓"
+      ],
+      "author": "未標示（WABI｜2026-05-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWDFJaGV4Yy1mTVRCNHVjdWM0ek5MNHNHLUZQN0preXRZNndzNFZ1MUROVWN3aVhEMUJMMF9FdGpsNmlxMFRkR216NG1RQ1c1czd0MmtpQXI5VFFRYWNCTWNLWWNrcHI4MV92LWtueVhxTTRsWEs1TlMwTGQ4cFJXdDRndDlsWW1DVEVuMzJ30gGiAUFVX3lxTFBrT19BSVNSczd0dnVGMDgyZlY5Qnd0YlpWb0otcnJsdExjX195Mk8wR0Y5Ym0xd3BGcFNlN0h3WmJLN1RaWkNZV01NN2RZWUVyTURDSmdOcDg1RGUyZW95alpodk01R0IxNE5oQzhNRFB4U1B3c21OelRieTRtWmw0eFNhUEhGNXNaNWdaSXRsbExlbU96OUlIc2hYNHpqN0Vhdw?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "Pair Team納入美國Medicare ACCESS計劃，AI醫療照護模式進入聯邦實證測試階段",
+      "summary": "AI醫療照護新創公司Pair Team正式獲選納入美國聯邦醫療保險（Medicare）的ACCESS計劃，將在真實醫療體系中測試其AI驅動的照護管理模式。ACCESS計劃旨在評估創新照護模式對Medicare受益人健康結果及費用控制的實際效果，被選入代表該AI照護模式已達到聯邦評估標準門檻。Pair Team的平台主要聚焦於高風險複雜病患的全程照護協調，透過AI分析識別需要主動介入的個案，並整合遠距醫療與社區醫療資源。此案例顯示美國聯邦醫療保險機構對AI驅動照護管理模式的開放態度，並為未來AI照護平台的付費模式與納保機制提供重要參考，值得關注AI與醫療支付制度交匯趨勢的醫院管理層留意。",
+      "tags": [
+        "AI照護管理",
+        "Medicare",
+        "聯邦醫療政策",
+        "慢病管理"
+      ],
+      "author": "未標示（Techritual Hong Kong｜2026-05-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByU0pUc2hrakNQRl9lazE0OURISVByU1V5dENRaEd6NmplYlNRT09MWHFJTmdETUozWUl3YUpZelRwdlY1R01EaXB4bXhNZGNXdlhyOXZPTjY?oc=5"
+    }
+  ]
+}
