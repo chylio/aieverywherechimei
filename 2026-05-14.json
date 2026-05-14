@@ -1,0 +1,145 @@
+{
+  "date": "2026年05月14日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "AI肺栓塞偵測系統在超過3.2萬筆真實CT血管攝影中達97.8%與放射科醫師一致率",
+      "summary": "一項大規模真實世界研究顯示，AI肺栓塞（PE）自動偵測系統在超過32,000筆臨床CT肺血管攝影（CTPA）中，與放射科醫師的診斷一致率達97.8%，展現出高度的臨床可靠性。此研究結果發表於2026年5月13日，是迄今規模最大的PE AI驗證研究之一。肺栓塞屬於急性高致死率疾病，早期準確診斷至關重要。此系統若廣泛部署，有望協助緊急放射科分流、縮短報告時間，並在值班人力不足時提供即時輔助決策。對於具備放射AI導入計畫的醫院而言，此研究提供了強而有力的臨床證據基礎，可作為評估PE AI工具部署可行性的重要參考依據。",
+      "tags": [
+        "放射影像AI",
+        "肺栓塞偵測",
+        "真實世界驗證",
+        "臨床決策支援"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRVBvZVZTTnFLYmRPVnQza1hVYUZSa0swVHc3VTBnaFlSRVctR2FudDdYV2x3N1RveHlSN05RYkxVMU5YeWFwNkxTRVo3aThzWUUxZGliWVp3TDIyWnRJamNOa1VYWHJtNTJSMzNoTEZzVkJrOVkyVFF6NDI5My1JTEhocm9NVjZ5ZTNmVDgtMGVoRTJMNnZzYzJFLVZLMWh1ZnRENm5KS0RGdTdLS2lwYm0tTjBQSF9VOUdBRndqQUhXczZkMzRES2haSGxZUdIBzgFBVV95cUxQRVBvZVZTTnFLYmRPVnQza1hVYUZSa0swVHc3VTBnaFlSRVctR2FudDdYV2x3N1RveHlSN05RYkxVMU5YeWFwNkxTRVo3aThzWUUxZGliWVp3TDIyWnRJamNOa1VYWHJtNTJSMzNoTEZzVkJrOVkyVFF6NDI5My1JTEhocm9NVjZ5ZTNmVDgtMGVoRTJMNnZzYzJFLVZLMWh1ZnRENm5KS0RGdTdLS2lwYm0tTjBQSF9VOUdBRndqQUhXczZkMzRES2haSGxZUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 9.0,
+      "title": "FDA核准AI乳癌風險分層工具，精準篩檢進入新階段",
+      "summary": "美國FDA近日批准一款基於AI的乳癌風險分層工具，可協助臨床端依據影像特徵與病患資料，對受檢者進行個人化風險評估與分類，有望改善傳統篩檢模式中「一體適用」的局限性。此工具的獲准代表AI在乳癌早期偵測領域的應用再獲監管背書，也顯示FDA對AI輔助診斷設備的審查流程持續成熟化。乳癌為女性最常見癌症之一，精準風險分層可協助醫院資源配置、縮短高風險族群的確診路徑，並減少不必要的切片或複查。對於放射科、乳房外科及腫瘤科而言，此類工具的導入將直接影響臨床篩檢流程設計與品質指標。相關醫院宜密切追蹤此工具的臨床應用證據與採購評估進展。",
+      "tags": [
+        "FDA核准",
+        "乳癌篩檢",
+        "風險分層",
+        "放射影像AI"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYjlja053dlBjT05vYVAtRlBfZW1nUXRCSHJCQVJMSlVqTkY3aE4xQ201NUVFZVF3YWJUcW1DTGMxTXFZd3Y1WG5aMWVtd2hIeHN1bGdrb0xJeEdMMDF4bHJRYUhJbHVidV9OemRNVDhnc1d4VFVZd3IzUnZaWnAxcFR6OTNkWkRpV1FKbEhnUFVITHFuQWd3YVh3?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.8,
+      "title": "STAT深度揭露：AI醫療器材通過FDA的「隱藏秘密」與敗血症演算法現況",
+      "summary": "STAT News「AI Prognosis」電子報深度剖析目前AI醫療器材最常使用的FDA審查途徑（510(k)實質等同）中存在的結構性漏洞，指出部分AI產品藉由認定與已核准產品「實質等同」而省略嚴格臨床驗證，引發業界對上市前安全把關的疑慮。文章同時聚焦敗血症AI演算法的市場現況，探討性能指標與醫院實際採購決策之間的落差。此議題對醫院IT採購、臨床工程與法遵團隊具有高度參考價值，點出在評估AI醫療設備時，不應僅依賴FDA核准狀態，仍須自行進行臨床驗證與情境適配評估。在監管框架尚未全面跟上AI技術迭代速度的當下，此報導為醫院建立AI採購品管機制提供重要的政策與監管視角。",
+      "tags": [
+        "FDA監管",
+        "AI醫療器材",
+        "敗血症演算法",
+        "醫療AI治理"
+      ],
+      "author": "未標示（STAT News｜2026-05-13）",
+      "source_url": "https://www.statnews.com/2026/05/13/ai-medical-devices-dirty-fda-secret-ai-prognosis/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "score": 8.5,
+      "title": "美國近65%醫師已採用OpenEvidence輔助臨床決策，AI醫療查詢平台每月處理數千萬次請求",
+      "summary": "根據多方報導，AI臨床決策支援平台OpenEvidence已覆蓋美國約65%的執業醫師，每月處理數千萬次醫學查詢，成為目前美國醫療環境中使用最廣泛的AI工具之一。儘管如此，許多病患對醫師使用AI輔助診斷一事仍不知情，引發醫病知情同意與透明度的倫理討論。此現象反映AI工具正以「靜默」方式滲透臨床實務，而醫院政策與病患溝通規範尚未同步跟進。OpenEvidence主要功能包括即時醫學文獻摘要、藥物查詢與臨床指引整合，定位為醫師的「AI參考助理」。對醫院管理層而言，此趨勢凸顯制訂AI工具使用政策、確保臨床品質管控及建立病患告知機制的迫切性。",
+      "tags": [
+        "臨床決策支援",
+        "AI使用率",
+        "醫病透明度",
+        "AI治理"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-05-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNVFMwS3VVeHhyRV9CVjJfOElNWXJEb1VwWHk5ZHkzT0c0Wm9OeGhFMFlXZG8xV2xiSGhHU1RZUnp2eHI3R3piek01MUZtUmhtYlNJVVNBazNJb3ZIYkQ2ME1MWVhRNnlnZjhFMDFHem02VC12WFRFX3dRMWtEd0RQUWNKSFVGLTNfa3lOUWt0UXRMR0pmN0dyUzQ2WTlhZEN1UVhRZnBsZ0ZuMnhCeEE5VWNJTC0yendfbG01Z3ZrV0EyeV9Ca1ByamZMdGhJYzZFeGNHQkpLamNobmhQWlZQbS1nY2I0YTVHZEhWZTBIVkZ3WTdYUHM3ci0wMmx5NDdManpSX09pRTkwNGJ1NUZadzl4YUhmQ2E5c0F5aUp5MFJZOXNncmFPc1JqY1BINE5SNjZ2bXVmaEs2bXItVFR6eFp0TnJPUnFJYVNVbUdWY2NkWmVNMWs3OTZJc0VnMmN6aE90V0I0bHhWWVNjV180UW5MTXg3blRtS1h2YURlNlpnQW5tZTRXREJZVmNqZHZqUEhB?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 8.3,
+      "title": "醫療AI究責難題：當AI出錯，誰該負責？",
+      "summary": "Unite.AI及Oncodaily等媒體於2026年5月13至14日接連刊出醫療AI問責性專題，探討當AI系統在臨床環境中發生錯誤時，責任歸屬的複雜性與目前法律框架的不足。文章指出，AI工具的責任鏈條橫跨開發商、醫院管理層、採購決策者與直接使用的臨床醫師，現行侵權與醫療責任法規難以清楚劃分。隨著AI在診斷、用藥建議、影像判讀等核心臨床任務上的參與度提升，醫院若未建立明確的AI使用規範與稽核紀錄，將面臨法律與聲譽的雙重風險。專家呼籲醫院應主動制訂AI錯誤通報機制、建立臨床AI稽核軌跡，並在採購合約中明確界定廠商責任範圍，以因應日益嚴格的監管環境。",
+      "tags": [
+        "醫療AI問責",
+        "法律責任",
+        "AI治理",
+        "風險管理"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-05-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qVzNjWUwxUEYtM0RrOUV1Snl4MjRiZ0I4VTVMQmMwamg2TUNDeFFBVFlTVXEyVERXUm5xSVExZ1NTRzlLMTlWaHB5RjZBV1RMbm9EV2RUaU1XckkxMEFvU2t4alpZOWtsMVhfUGJn?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 8.0,
+      "title": "Isomorphic Labs完成20億美元B輪融資，成生技史上第二大募資，AI新藥研發競賽白熱化",
+      "summary": "由Alphabet（Google DeepMind）衍生的AI新藥開發公司Isomorphic Labs宣布完成20億美元B輪融資，成為生技新創史上第二大單筆融資紀錄。值得注意的是，該公司並未公開任何具體的藥物管線細節，引發外界對其研發進度透明度的質疑。Isomorphic Labs以AlphaFold蛋白質結構預測技術為核心，致力於將AI應用於小分子藥物設計與靶點識別。此次鉅額融資顯示資本市場對AI驅動新藥研發賽道的高度看好，同時也凸顯此類平台公司在商業模式與臨床驗證路徑上仍存在高度不確定性。對醫院研究部門與生醫投資人而言，此案例代表AI在藥物開發端的影響力正急速擴張，值得持續追蹤其臨床轉化進展。",
+      "tags": [
+        "AI新藥開發",
+        "DeepMind",
+        "生技融資",
+        "AlphaFold"
+      ],
+      "author": "未標示（MedCity News｜2026-05-14）",
+      "source_url": "https://medcitynews.com/2026/05/isomorphic-labs-techbio-startup-ai-drug-discovery-alphabet-google-deepmind/"
+    },
+    {
+      "rank": 7,
+      "score": 7.8,
+      "title": "阿里巴巴健康發布醫療AI「氫離子」並與英國BMJ集團達成獨家合作",
+      "summary": "阿里巴巴健康（Alibaba Health）正式發布新一代醫療AI模型「氫離子（Hydrogen Ion）」，並宣布與英國老牌醫學出版機構BMJ集團簽署獨家合作協議。「氫離子」定位為面向臨床決策支援的大型語言模型，具備醫學知識問答、診斷輔助及醫學文獻整合能力。與BMJ的合作將使其得以整合高品質臨床實證內容，提升模型的醫學可信度與專業性。此舉標誌著中國大型科技公司在全球醫療AI市場的布局持續擴大，並嘗試透過與國際醫學機構合作建立品牌公信力。對亞太醫療體系而言，此類平台的崛起意味著醫療AI工具的選擇版圖正在擴展，同時也帶來資料主權與醫學倫理審查等新課題。",
+      "tags": [
+        "阿里巴巴健康",
+        "醫療大語言模型",
+        "BMJ集團",
+        "AI臨床決策"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-05-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kQS1YeVk3UnJZTEtGYVhoMWZUMUdnbU1NVHdxOG04VmtCd2g0UjNJa3c5dkdfUGFncGlQRGN5MHRDNEx4VkRGUklPaklDeEg2OGZBd2lMNThZNVB4N0s2Mk04NVNkNVROdG5rekFGdU1yZ3M2ZjhENg?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.5,
+      "title": "AI能否像醫師一樣推理？IEEE深度剖析大型語言模型的臨床診斷極限",
+      "summary": "IEEE Spectrum於2026年5月13日發表深度分析，探討目前大型語言模型（LLM）在臨床診斷推理上的能力邊界。文章指出，儘管GPT-4等模型在醫師執照考試中表現優異，但在面對需要整合多模態資訊、動態更新病情判斷或處理罕見疾病的複雜臨床情境時，AI推理仍與資深醫師存在顯著落差。研究者強調，目前LLM的「推理」本質上仍是基於模式匹配而非真正的因果邏輯推論，且容易在高度不確定情境下過度自信。此分析對於評估AI臨床決策工具的適用範圍、設計人機協作流程以及訓練臨床人員正確使用AI具有重要參考價值，是理解AI診斷能力真實現況的必讀資料。",
+      "tags": [
+        "大型語言模型",
+        "臨床推理",
+        "AI診斷極限",
+        "人機協作"
+      ],
+      "author": "未標示（GNews-AI clinical｜2026-05-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YRDNrVnNPRHp0Z3F3cTA4TXJSVXNRZ0NxTlJ4MllxNmlOVHd1aUFGNmVGRDJRVmtldVRZMXIwcWdFNDFwZW52YlRLaHNzVHkyZ0laNGRTS0xYaEtHczg3eHVuZlnSAXhBVV95cUxQUldXcUFmam9LZWhvaWUxVDZmcFF2Y2lSangzUGZmM3hpb2ZJcTF1NnVUX19FbTl4bTRlbHp6R0Z0SVBHdVdFWEdXNDJsemZrRkFHaTRKbENyTThGUERtVldya3Y2QVZORUxBZUkwVzM2bzByTG9Jbzk?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 7.2,
+      "title": "台灣國家兒童醫學中心建置兒科腦瘤AI資料集，推動罕見癌症診斷精準化",
+      "summary": "台灣國家兒童醫學中心宣布推出專為兒科腦瘤設計的AI訓練資料集，目標是解決兒童腦瘤在影像診斷上資料量稀少、標注困難的挑戰。兒科腦瘤為兒童最常見的實體惡性腫瘤，早期精準診斷對治療決策與預後影響深遠，但因案例數量相對稀少，長期缺乏足夠的標注影像資料供AI模型訓練使用。此資料集的建立有望提升AI模型在兒童神經腫瘤影像判讀上的泛化能力，並促進國內外研究機構的協作。此舉亦顯示台灣兒童醫療機構已積極投入AI資料基礎建設，為後續臨床AI應用奠定基礎，對兒童放射科與神經外科的智慧化發展具有重要示範意義。",
+      "tags": [
+        "兒科腦瘤",
+        "AI資料集",
+        "台灣醫療AI",
+        "影像診斷"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-05-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQSWZfeEwtalZZcmJyS3cwSmR4U3gtdkwwcjFKcE03bzlGX3JtUWZ5RVhVbHlNZE9YaUFnWGllb3JKZWFwREFQWXRGal9QSnpWM2t4MENIUGtxNHdmb3dNWkFqQXZWNDQ5eFJQV2lQNEJnMjV3akd1aVQ2QUNWSXRGbk1yTm1xZXVJb05VOFNvRjBHR2UzS2gwSVNmNm5oSWVSbzctMWNFRnhpYzhkRG5uQnVxeWRqcGU2b0FuVjVQR1c0RUptaDFuVGxQc1RxV0phMnVwZC1aaVBZWEFaQ0xnNjJoNmcwT25nbnZrcUExLVl2N29pRUhSMTVLNzhaV2lkbVBya29Ib0l4WUpwdlJwdTl5RFVaUWxuS2M3X0hCRDB3eVF2QjR0WVN4LUxiS0M5Y1JTeU9kNkNHRUlZTlB6RnBYdlJ2SVBkVm5icVV3ZGtMcnZjS0lFUHRIUG85MEwwU3AtZmU3eHh5eE90aUVDY0F0YkxXV3RNallSYUNlaTBQQQ?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 7.0,
+      "title": "Lunit擴大美國AI訂閱業務，並布局數位病理併購商機",
+      "summary": "韓國醫療AI公司Lunit宣布持續擴大其在美國的AI訂閱制服務規模，同時積極尋求數位病理領域的併購機會，以補強現有以胸腔X光與乳房攝影為主的影像AI產品線。Lunit的訂閱模式允許醫院按月付費使用AI輔助影像判讀服務，降低一次性採購的財務門檻，有助於中小型醫療機構導入AI。數位病理為當前醫療AI成長最快的細分領域之一，Roche與PathAI的合作協議已凸顯此賽道的高商業價值。Lunit的策略轉向顯示放射影像AI公司正積極向病理科延伸服務版圖，以建構更完整的腫瘤診斷AI生態。對已導入或評估放射AI的醫院而言，此動向值得在制訂多年期採購策略時納入考量。",
+      "tags": [
+        "Lunit",
+        "數位病理",
+        "放射影像AI",
+        "訂閱制商業模式"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOHU2bDhSNG53ZUxNcUIxVWY5STZxeEt1OS1nX2xkRUVpZEwxNXJ2eTR1ejJNbUVNclJheUVfcjdDcXJib05wSDdwaDZKWDdFZ2xDa2pobTZ6bFg4RWFJLUc4MjctNlBSLUJWdkdPdHQ2SkFiSnV3bmZjVHprRVNQcHBsOHREU2h2bmpxUlV5UWx5b0lpZTZCVWRIZjB2QQ?oc=5"
+    }
+  ]
+}
