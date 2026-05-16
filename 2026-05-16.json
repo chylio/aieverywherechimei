@@ -1,0 +1,145 @@
+{
+  "date": "2026年05月16日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "醫療AI評估框架新典範：從準確率邁向安全性與公平性",
+      "summary": "HIT Consultant發表深度分析，指出醫療AI評估框架亟需超越單純準確率指標，全面納入安全性、公平性與可解釋性等多維度標準。文章指出，現行許多醫院在評估AI工具時仍以模型準確率為主要依據，但此一做法忽略了演算法在不同族群、不同臨床情境下的表現差異，可能導致系統性偏差傷害弱勢患者群體。新興評估框架建議機構採用多元績效指標，包括族群公平性測試、臨床情境模擬、實際部署後的持續監測，以及人機協作流程的有效性評估。此框架尤其適用於診斷輔助、風險分層與臨床決策支援等高風險應用場景。對於正在規劃或已導入AI工具的醫療機構而言，此一評估典範轉移具有直接的政策與採購指引意義，有助於在提升效率的同時確保患者安全與醫療公平性。",
+      "tags": [
+        "AI評估框架",
+        "安全性",
+        "醫療公平性",
+        "臨床決策支援"
+      ],
+      "author": "未標示（HIT Consultant｜2026-05-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHlQUlh4VE1HaVJocHJ1aDhMbkNfUDdvNWs5UlNvRzhQQnc1Mi1kRklTd3llc0twS2VzMUFtbWYtVTRYTHYwRWhMWjhFd2RqcnhLYTR0cHoySTVmNmZuNkpXTkp5cy1NY0d4djdtUkE2MjFaVzQ5VkJWWVN2SnUzUUdyUzBCUDdqSElXcjkzMWE?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "The Lancet觀點：AI為胸腺研究帶來新突破，揭示其終身重要性",
+      "summary": "《The Lancet》最新Perspectives文章指出，人工智能的導入正在顛覆醫學界長期以來對胸腺功能的認知。過去普遍認為胸腺在青春期後萎縮退化為脂肪組織，便喪失其臨床意義；然而近年研究顯示，胸腺切除術與不良預後之間存在顯著關聯。本文介紹最新由AI輔助完成的研究，提供胸腺在人體整個生命週期中持續扮演免疫調節角色的新證據。AI技術在影像分析與大規模資料整合方面的應用，使研究人員能夠更精確地評估胸腺組織的狀態與功能，進而重新定義其在免疫學上的地位。此一發現對胸腔外科、免疫相關疾病診治乃至老年醫學均有深遠影響，也再次展示了AI輔助研究在推動基礎醫學認知革新上的潛力。",
+      "tags": [
+        "AI輔助研究",
+        "胸腺免疫",
+        "The Lancet",
+        "基礎醫學"
+      ],
+      "author": "未標示（The Lancet｜2026-05-16）",
+      "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00926-8/fulltext?rss=yes"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "The Lancet深度探討：AI與生成式AI進入醫療心理治療的機遇與挑戰",
+      "summary": "《The Lancet》最新Perspectives文章深入探討人工智能與生成式AI應用於臨床醫療與心理治療的核心議題。文章指出，AI的崛起促使醫療界重新審視人際治療互動的本質價值，並釐清實踐中長期存在的誤解。作者強調，儘管AI能夠有效輔助資訊處理與症狀評估，但人類臨床工作者在建立信任關係、理解情境脈絡及提供情感支持方面仍具有不可替代的優勢。文章同時點出生成式AI的潛在風險，包括幻覺問題（hallucination）、邊界模糊以及對脆弱患者族群可能造成的傷害。這一討論對正在評估是否引入AI心理健康工具的醫療機構具有重要參考價值，呼籲在擁抱技術創新的同時，需謹慎維護人本醫療的核心倫理。",
+      "tags": [
+        "生成式AI",
+        "心理治療",
+        "醫療倫理",
+        "The Lancet"
+      ],
+      "author": "未標示（The Lancet｜2026-05-16）",
+      "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00927-X/fulltext?rss=yes"
+    },
+    {
+      "rank": 4,
+      "score": 8.0,
+      "title": "醫療AI數據與基礎建設不足恐成導入最大障礙",
+      "summary": "Healthcare Finance News報導指出，儘管醫療AI應用持續擴展，但資料品質不足與基礎建設落差仍是阻礙大規模實施的主要瓶頸。調查顯示，許多醫療機構在推進AI專案時，面臨電子病歷系統碎片化、資料標準不一致、跨機構資料整合困難等根本性挑戰。此外，算力資源、網路安全防護與IT人力的不足，進一步限制了AI從概念驗證走向實際臨床部署的能力。專家呼籲，醫療機構應在投資AI應用之前，優先強化資料治理架構與底層基礎建設，否則即便採購最先進的AI工具，也難以發揮預期效益。這一警示對於正在規劃數位轉型路徑的醫院資訊部門與領導層具有重要的策略指引意義。",
+      "tags": [
+        "資料治理",
+        "基礎建設",
+        "醫療AI導入",
+        "數位轉型"
+      ],
+      "author": "未標示（Healthcare Finance News｜2026-05-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmFpN2FiYUNkZGZLd09jbHM3WU52X3Y1UTZEUVNKeGxSNGdXTUdoZU1wQjV4d3pOVlpTX2hLSXBzVVJKV2s5M3FmcVJ6NW96N1JKdjBCVS1IQUh3cW5RdjRVaTk3SlFyYjNUSWJsdXJJMnNxcGgxZUF2bUlHSWpJMHRvdm8tUFlLUVN5S0QtaWZ1TUJzNHl4Rk9RVzdVSzlqdDYzcGdBQjEzUk5VNTREX2Nacw?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 8.0,
+      "title": "賓州首度起訴Character.ai，醫療AI監管的聯邦與州府分歧浮上檯面",
+      "summary": "賓州成為美國首個起訴Character.ai的州，此案深刻凸顯了美國聯邦政府與各州在醫療AI及消費者AI安全監管上的嚴重分歧。起訴內容涉及AI聊天機器人對青少年用戶心理健康的潛在危害，尤其關注AI在無適當醫療監督情況下扮演心理治療或健康教練角色的風險。此案引發外界對聯邦層級缺乏統一醫療AI監管架構的廣泛憂慮，各州開始自行填補監管空白，形成法規碎片化的局面。對醫療機構而言，此判例提示在採用或推薦任何AI健康應用時，必須審慎評估法律責任歸屬與患者保護機制，避免在監管不明朗環境下承擔不可預期的法律與聲譽風險。",
+      "tags": [
+        "AI監管",
+        "Character.ai",
+        "法律責任",
+        "患者安全"
+      ],
+      "author": "未標示（樂聯網｜2026-05-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBweDkxUkp2dWVwX0MyQll1aUZKdl95d2ppWTY2ZFdFVFJaaWw1ZlFiVFVhT085OGg5ejQ1Ymw5alNnU2Ntd3g2SXdCNA?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "農村醫療體系如何設計精準AI試點以紓解照護壓力",
+      "summary": "Healthcare IT News深度報導美國麻薩諸塞州Berkshire Health Systems的AI試點策略。這家擁有三家醫院、數十個診所及癌症中心的農村醫療體系，在面對人力短缺、成本攀升與臨床負荷加重的多重壓力下，採取「目標導向式」AI試點方法，而非盲目追求全面數位化。CIO William Young強調，AI部署必須以可測量的臨床與營運成效為前提，優先選擇能實際減輕前線醫護人員負擔的應用場景。此案例對同樣資源有限、但面臨類似挑戰的中小型醫療機構具有高度參考價值，展示了以務實、漸進方式推動AI轉型的可行路徑，避免了大規模投資卻難以落地的常見陷阱。",
+      "tags": [
+        "農村醫療",
+        "AI試點",
+        "資源有限機構",
+        "照護效率"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-16）",
+      "source_url": "https://www.healthcareitnews.com/news/how-one-rural-health-system-designing-targeted-ai-pilots-ease-care-delivery-pressures"
+    },
+    {
+      "rank": 7,
+      "score": 7.5,
+      "title": "The Lancet通訊：大型語言模型聊天機器人加劇醫療信任悖論",
+      "summary": "《The Lancet》最新通訊文章以Marcello Ienca等人的信任悖論研究為基礎，進一步指出大型語言模型（LLM）聊天機器人正在醫療領域製造一種「放大版信任悖論」：嚴謹的醫療機構信譽持續受損，而缺乏問責機制的AI工具卻獲得愈來愈多民眾信賴。作者認為，LLM聊天機器人的本質問題遠超出社群媒體時代的資訊失真問題，其擬人化的回應風格、流暢的語言輸出以及全天候即時存取特性，使患者更容易對其產生過度信任，甚至以AI意見取代專業醫療建議。此現象對醫療機構的公信力與患者安全均構成潛在威脅，呼籲制定更嚴格的LLM醫療應用問責框架。",
+      "tags": [
+        "大型語言模型",
+        "醫療信任",
+        "問責機制",
+        "The Lancet"
+      ],
+      "author": "未標示（The Lancet｜2026-05-16）",
+      "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00817-2/fulltext?rss=yes"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "Anthropic聯手比爾蓋茲基金會投入2億美元，推動全球健康AI發展",
+      "summary": "根據商傳媒報導，AI公司Anthropic與比爾及梅琳達蓋茲基金會宣布合作，共同投入2億美元資金推動全球健康領域的AI應用發展。此項合作旨在將Anthropic的大型語言模型技術應用於低收入與中等收入國家的醫療資源缺乏問題，包括疾病診斷輔助、醫療資訊普及化以及基層醫療人員的決策支援。比爾蓋茲基金會長期關注全球衛生不平等議題，此次與頂尖AI公司的深度合作，標誌著科技慈善資本大規模進入醫療AI領域的重要里程碑。對國際醫療組織與新興市場醫療機構而言，此合作可能加速AI醫療工具的普惠化進程，同時也引發外界對AI在資源匱乏環境中安全部署與在地化適應的深層討論。",
+      "tags": [
+        "全球健康",
+        "Anthropic",
+        "蓋茲基金會",
+        "醫療AI普惠"
+      ],
+      "author": "未標示（商傳媒｜2026-05-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPWExmQzl3U3lTUWkwUHotcGs0eVpXZG9QWTNsUFk4WVF0Xy1kYkpSNzJWZ0RuY0tRNHpTdVdwYjRLR0xMRHNLMXZIV1ZZQWFOaWV0RV9kallMb3hTeHFVbTYwejZudmVPLVdhTnRQLUx6QXdJcHR5TnpxeTRSd1FkTEQyU3o4bGJUd2xBUW5ZNkRwdzUxdElMcHBtSUZsSjRDSk1lWExJR25LNzZUVjRjYjhhVW83UXByZFRMOVNHQm9IMDhGdXdQbkU0M1J1UFlUcFdqcUM2a3dUcnk5aU1JM1hsYkdMcVhPQTk0YUw2TFRMWWhGUXFsWlZQd2YwZDNhOTlacjNjM0tUTmtuMXEyNzZPRmVYR18weHZaS0p2VnlsOGdYNWhWWGpsQWFtaXRpZlpUN2tNMG1sWXZTTmg4WjdTMnIwRU9qdlpfTmhGSVY2bnZzUDd1M2VHbERNOTRQdWpRaHdGWQ?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 7.0,
+      "title": "IKS Health收購AI新創ARAI，自建專屬醫療AI技術堆疊",
+      "summary": "MedCity News報導，醫療服務公司IKS Health宣布收購醫療AI新創公司ARAI，目的在於強化自身自動化工具的技術底層，並減少對第三方AI模型的依賴。此舉反映出醫療服務商正從「採購外部AI」轉向「自建專屬AI能力」的策略趨勢。IKS Health主要提供醫師工作流程自動化、醫療文件管理及臨床決策輔助等服務，收購ARAI後，將能更靈活地針對醫療場景進行模型客製化，提升資料隱私控管能力並降低長期授權成本。此案例為同樣考慮自建AI能力的大型醫療機構或醫療服務商提供了具體參考，也顯示出醫療AI產業鏈整合正在加速，外部採購與自主研發之間的戰略抉擇日益重要。",
+      "tags": [
+        "醫療AI收購",
+        "技術整合",
+        "工作流程自動化",
+        "產業策略"
+      ],
+      "author": "未標示（MedCity News｜2026-05-16）",
+      "source_url": "https://medcitynews.com/2026/05/iks-healthcare-ai-acquisition/"
+    },
+    {
+      "rank": 10,
+      "score": 6.5,
+      "title": "AI從常規胸部影像中挖掘隱藏健康訊號，拓展放射科AI應用邊界",
+      "summary": "healthcare-in-europe.com報導最新研究指出，AI工具已能夠從常規胸部X光與CT影像中擷取超出傳統判讀範疇的健康資訊，包括心臟代謝風險指標、骨密度評估乃至早期肺部病變跡象。這些「附加價值」的發現無需額外的醫療檢查即可獲得，有效提升了每次影像檢查的臨床資訊密度。研究者認為，此類AI應用有潛力將放射科從單純的影像報告部門，轉型為整合性的患者健康監測中樞。然而，文章也指出相關臨床驗證、工作流程整合及報告規範等配套機制仍需完善，方能確保這些額外發現能以安全、有效的方式回饋至臨床決策流程，避免造成不必要的過度診斷或患者焦慮。",
+      "tags": [
+        "胸部影像AI",
+        "放射科",
+        "預防醫學",
+        "臨床價值"
+      ],
+      "author": "未標示（healthcare-in-europe.com｜2026-05-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbURQWGM4NC10YzVObndNQXEzRmtzUmZJS2hET2d0eUkxUjM0eTh3Z1BPVVRhdHpaWTBPVGJoQmQyMnFWZVY4ckpxQmNNcUFjYmtLY0JWX3hub3RFaWhySUdkczRBTF9HcG16MGxjbW5GeU5PTEIzMVhtRGkzZHB3SUMzQ1djc21oQTlZQ0taMGJWSmFOREE?oc=5"
+    }
+  ]
+}
