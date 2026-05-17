@@ -1,0 +1,103 @@
+{
+  "date": "2026年05月17日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "FDA核准Johns Hopkins AI敗血症早期預測系統，有效提升存活率",
+      "summary": "FDA近日正式核准由Johns Hopkins大學開發的人工智慧敗血症早期預測系統，該系統能在患者出現明顯臨床症狀前，透過即時監測生命徵象與實驗室數值，提前識別敗血症高風險個案，進而爭取更早的介入治療時機，顯著提升患者存活率。敗血症是全球醫院加護病房最主要的死亡原因之一，早期辨識一直是臨床照護的關鍵挑戰。此次FDA核准代表AI臨床決策輔助工具在感染症領域取得重要突破，也為其他醫療機構提供具監管背書的臨床AI工具參考案例。此前，AI輔助敗血症偵測工具曾因缺乏嚴謹臨床驗證而飽受爭議，此次FDA正式核准象徵該類工具進入監管合規的新階段，對加護醫學、感染科及醫院資訊系統整合具重要參考價值。",
+      "tags": [
+        "敗血症AI",
+        "FDA核准",
+        "臨床決策輔助",
+        "加護醫學"
+      ],
+      "author": "未標示（GNews-FDA AI approval｜2026-05-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZldTa0ZYYmZ6TWFoV3ROTnFMd2tTemtVZWZUV1hPTmQ1ZnFjTjhCMTdLX0NaOWx5cmFkRFVZV3dKYmhMelZ1ZmJKR0htaHlNdlg4RFQxc2lOT1lxNFBobG82dUJOQTZPbGgxQmJzVXZGWDNHalAyZ1o0d2Q5WnZCOTJEUGN1RWtsbFR1b09ObzJxQkNUdjlEeU9zWmc2Z3ZkcEFuMFZoUW9weVBIakhIU0dRTVl1dWxQZTg4?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "Nabla強調工作流程驅動策略，推動醫療AI大規模部署",
+      "summary": "醫療AI公司Nabla近日公開說明其以工作流程為核心的醫療AI規模化部署策略。Nabla的做法並非單純導入AI技術，而是深度分析各臨床科別的實際工作流程，確保AI工具能夠無縫嵌入既有流程，而非要求醫護人員配合系統調整習慣。該策略強調減少臨床人員的操作負擔，並以可量化的效率指標衡量導入成效。此一策略方向回應了業界長期以來對醫療AI「導入易、落地難」的批評，指出許多AI工具失敗的根本原因在於忽略真實臨床工作流程的複雜性與醫護人員的使用體驗。Nabla的做法為醫院資訊部門與數位轉型團隊提供了一個可借鑑的規模化部署框架，尤其適用於正在評估AI採購與落地策略的醫療機構領導層。",
+      "tags": [
+        "醫療AI部署",
+        "工作流程整合",
+        "數位轉型",
+        "臨床效率"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-05-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaGxYT0c0cTVsYkhBWjBjZVZWbHVKUWhBRE5kbzdxNFJKRE40UDFndXNHSUpmWm5ETDlPeldrVkhtZGZQeXA0bV9KUDRQdEh5WVVyOTc0RGZGNzVhNmlYSkF6eUlicFNRb1huOFlhcE40SlZHMVR4WHp6ay1LTTg5YUVkRVdHMzBzQjZDZjNGcEFPSTVBYUM4VGZIMjdPY19saTB3Zll3UTBtSkh1al9RMDNTRjAwa1dtUWRXYVExRnZva2FRM1VFWg?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "AI語音辨識取代手動輸入病歷，助醫師更專注於診療本身",
+      "summary": "據明報新聞網2026年5月17日報導，AI語音辨識技術正逐步應用於醫療紀錄的自動輸入，讓醫師得以從繁瑣的文書作業中解放，將更多注意力投注於與病患的溝通互動及臨床判斷。這類工具可即時將醫師的口述內容轉化為結構化電子病歷，大幅縮短每診次的文書處理時間。業界估計，醫師每日花費在電子病歷輸入的時間平均佔工作量的三到四成，AI語音辨識有望將此比例顯著壓縮，進而緩解醫護人員的職業疲憊問題。此趨勢在香港及亞太地區醫療環境中同樣引發廣泛關注，對評估環境音轉錄、門診AI助理等應用的醫院資訊與臨床科別具直接參考意義。",
+      "tags": [
+        "AI語音辨識",
+        "電子病歷",
+        "醫師減負",
+        "門診效率"
+      ],
+      "author": "薛偉傑（GNews-台灣醫療AI｜2026-05-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQb1pmWWZXZE9LWjFzXzBGdGktX0tqMW5WVWpmeHZCS3U1aVR4V1hWcmJ2aU5iYThhQlRvUVp6TllSdkExSnUxWnJrR0cwbEJoSzBJTE5xTTN5ci03Qk50UUJINmRRMXI3WUhDRFp6LXczQjBGbFBrbEpUbTRueFd2SVBIa2V5OHI5MkMtQS1yZjY1LTF3dGY2T2ctY3FZWmpPQnVncHZ0U2Q1RDJ4QjIyOTduOUlCd3ViN3NKSDhVb3pOMm9SQUFDUFhWd3M2d29sOGIydW5EN0hlU0lRSU4xbklTMzRWNktJZlNkT2pDVU1HY2lnM1dIc3RKTzdtZ1U0QUY3dTU3alhVbmR4c1VLMVJwTDRDT09IeTVSWjZDTUhvVk40aXd3c3RtU2FtZGJsXzVfNG1QdWN5TW82SnpoNVVGVGdhTEZubl9TUjFwTlliX1RIU09FVnc0OFN2UFRlc05IS0NaVzVKU0FqazFURkZ3a3VLdk83ZGxYRGxDTjJ1b2lpdXU1QmFzaDZmcjlyalpSMGtnZ1BaczNC?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "Contextflow以AI放射科工具搶攻肺癌篩檢成長市場",
+      "summary": "AI放射科新創公司Contextflow近日宣布，將旗下AI放射影像分析工具的市場策略聚焦於快速擴張的肺癌篩檢市場。隨著各國低劑量電腦斷層（LDCT）肺癌篩檢計畫陸續推廣，影像判讀需求大幅增加，放射科人力短缺問題日益嚴峻。Contextflow的AI平台能輔助放射科醫師快速篩選高風險結節，提升判讀效率並降低漏診率。該公司的市場定位策略反映了一個重要趨勢：醫療AI業者正從泛用型工具轉向針對特定高需求臨床場景深耕，以求在競爭激烈的市場中建立差異化優勢。對於正在評估肺癌篩檢AI輔助工具或擴充影像科AI能量的醫療機構，此案例具參考價值。",
+      "tags": [
+        "AI放射科",
+        "肺癌篩檢",
+        "影像AI",
+        "臨床決策輔助"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcEo5NmRGMHN5S2paNC1TdkVCQUxHX1ZCb3o2WGJQWjFKdGdncThaNjhTdGtsV0tUT2dzdG9NdG9NT1ZrNHhsenYtcVNnWndjNVJBVXo2d3BIa2dhYjRJeTdOTFd5bkNta1JRUXpFNVZXQ3VKQ3h0SnNLdVdJV3JVVkItOWt3M1JCOFZhRUdIZ3Vpak5qNk5sSnltQ1FRcFRDY3psWTRORDdTNEFjVnNMUnVnNGxtZU1xOVVLMFU1bi11eTZoMVpvNUkyZTkyMWdH?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "Charles River拓展細胞治療角色並強化AI病理分析平台",
+      "summary": "全球知名藥物研究服務機構Charles River Laboratories近日宣布進一步深化細胞治療領域的業務佈局，同時擴充其AI病理影像分析平台的功能與規模。在AI病理方面，Charles River強化了數位切片自動分析能力，可支援更多種類的組織型態辨識與量化分析，目標是加速藥物開發流程中的病理評估環節。此舉與近期Roche收購PathAI的趨勢一致，顯示數位病理AI正成為生技製藥及醫療產業鏈的重要基礎建設。對於醫院病理科及參與臨床試驗的醫療機構而言，AI病理平台的商業化整合進程值得持續關注，其技術成熟度將直接影響病理診斷效率與科研合作模式。",
+      "tags": [
+        "AI病理",
+        "數位病理",
+        "細胞治療",
+        "藥物研發"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTlBYSkd3SnJpZWNiZ2ZEVzFHNUtDWDF5cHlLTjhKc1lYaC1haEFUWUR1SG12WEpfdWxXR3luamlTT2kwVXpzSER5X2xwbnltYld5d0lTcnc4ak1KVTlHbXhrUGlPMW9pT0Nhb1JlT1FMQXBtZlZoVFVtRUVnbmYyQnhiby15MGdpd1FtTE5HMWQzYmxEcTJkb0JyWTBGblBKb1ppTU5IYmpJQm1DM3VxdEtmc2RQek5tX1lFSnl3U0ZCNDNYNTFvTkJrSHRNT1JrZVRnRnJTQUtZaEhUUFVkUnB3YXFWaXl5TWs5X0dGdjFEeThBU3k3WlZDaXJBNi140gGGAkFVX3lxTFBjeVRMUVluYXdBOXpRcXQ1OFZIc3pmUWNDa09EZnBXYXgwNXo2Q3dNZE9pdGdEbk9NYTZ3eEJsN21EWVYzdnZEdklmTEtOaXlWc1AzVFVCb3RJVzE3ODJwZVdSaDZNcWtwNFJyMDhRdzhtSzNxMy1VcUZHajVNSktSS09PMGtiQV9WeVN1UXpjYnpBLVowN0FaVDFwNENWS1Fpd0RqT3dBRlhjZ3VoeDFnY3B3MlhWN1lRaHFnSFpWZHBNLWt2MUFvX3ZhRkwyQkFUUkJPZ3hzLUE1bF9BdzdSQXhDcnlacEZwMkdVUXdqdVQ5VmdCY0RhWkhfejl6d2hnQUNFcGc?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "Anomaly獲1,700萬美元融資，打造AI驅動的醫療保險智能分析平台",
+      "summary": "醫療AI新創公司Anomaly宣布完成1,700萬美元融資，本輪由Sound Ventures領投，Alumni Ventures、Link Ventures、Redesign Health及RRE Ventures等機構參與。Anomaly的核心產品為AI驅動的醫療保險支付方智能分析平台（Payer Intelligence Platform），旨在協助醫療機構及健保相關組織分析保險理賠數據、識別異常模式並優化給付談判策略。隨著醫療保險環境日趨複雜，AI輔助的理賠分析與收入循環管理工具需求持續升溫。此融資案反映投資市場對醫療行政效率AI工具的持續關注，對於醫院財務部門及健保相關業務單位而言，此類平台的發展趨勢具一定參考意義。",
+      "tags": [
+        "醫療AI融資",
+        "健保分析",
+        "收入循環管理",
+        "保險科技"
+      ],
+      "author": "未標示（MedCity News｜2026-05-16）",
+      "source_url": "https://medcitynews.com/2026/05/anomaly-raises-17m-for-ai-powered-payer-intelligence-platform/"
+    },
+    {
+      "rank": 7,
+      "score": 5.5,
+      "title": "患者對AI輔助醫療照護的期待將成未來常態",
+      "summary": "Healthcare IT News近日刊出一則影音評論，探討在不遠的將來，AI輔助的醫療照護服務可能從「加值選項」演變為患者的「基本期待」。隨著消費性AI工具普及，患者對科技輔助診療的接受度與期待值均持續提升，醫療機構若無法提供相應的AI輔助服務，恐將面臨患者滿意度下滑及競爭力流失的風險。這一觀點呼應了近期多份調查顯示的趨勢：患者對AI輔助診斷、預約管理及衛教資訊的需求正在快速成長。對醫院領導層而言，此一趨勢意味著醫療AI的導入已非長遠規劃議題，而是需要積極因應的現實競爭課題，尤其在患者體驗與服務差異化方面影響深遠。",
+      "tags": [
+        "患者體驗",
+        "醫療AI普及",
+        "數位醫療",
+        "醫院競爭力"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-16）",
+      "source_url": "https://www.healthcareitnews.com/video/near-future-ai-enabled-care-may-be-expected-patients"
+    }
+  ]
+}
