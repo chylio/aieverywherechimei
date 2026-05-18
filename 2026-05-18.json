@@ -1,0 +1,89 @@
+{
+  "date": "2026年05月18日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "放射科AI代理人監管新框架：未來十年「在迴路中、在迴路上、脫離迴路」三階段演進",
+      "summary": "HLTH平台發表深度分析，探討放射科在AI代理人（AI agents）快速普及下的監管模式演進。文章提出三種人機協作層級：「在迴路中」（In the Loop）代表醫師全程參與每項AI決策；「在迴路上」（On the Loop）指醫師監督AI批量作業並保留介入權；「脫離迴路」（Off the Loop）則是AI在特定情境下完全自主運作。作者認為，未來十年放射科將從第一階段逐步過渡至第二階段，並在高度規範化的流程中有限度引入第三階段。此框架對醫院在制定AI影像判讀政策、確立臨床責任歸屬及設計人員訓練計畫上具有直接參考價值，也呼應全球監管機構對AI醫療器材上市後監控的核心關切。",
+      "tags": [
+        "放射科AI",
+        "AI監管",
+        "人機協作",
+        "臨床治理"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZldUOG9VZUpoTlp6RHp5aWVTVmtnLXNITDNVcF93ODJPdmNjQ2tWcV9uQnlyYVlzVzlpdTZKdl9fVWs0THQ2RjBObEo5ZjNFbklURTVLTTVkYTZnSXRYS0p6X2JMQnN1V2drc0R1V1pYaVhRcWN6bHBYRWFRSzM4YmFfcnl5VGFJbWFKLS03S016RzFLcGZtQzZLQi1ZVDFDQjJsTUszU00zdm1PSy03YnlsMTlJd01tUzhv?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "仁寶AI超音波落地台大醫院，患者候診時間縮短22小時",
+      "summary": "台灣仁寶電腦開發的AI超音波輔助診斷系統正式導入台大醫院，成為本土醫療AI產品進入頂尖學術醫療中心的重要里程碑。根據報導，該系統透過即時影像分析與自動判讀輔助，大幅壓縮超音波排程與報告等待時間，使患者平均候診時間減少達22小時，顯著改善就醫流程效率。此案例展示了AI輔助影像診斷在實際臨床環境中可量化的營運效益，對於希望以AI優化影像科流程、舒緩人力壓力的醫療機構具有高度參考價值。仁寶切入醫療硬體AI領域，也顯示台灣科技製造業跨界醫療的趨勢持續加速，未來有望在超音波、內視鏡等影像設備市場擴大佈局。",
+      "tags": [
+        "AI超音波",
+        "台灣醫療AI",
+        "影像診斷",
+        "流程優化"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-05-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbHhmZFlkV0JVWEVKWXpOTjAwRTJsdDl3RTFONmRKcHZoT0dhbjRvN01yZ1p1allNZF9teXJYT2R1OFhUS3N1V0R2czl5SFg4S283VnljalZnZjRVeW9JMDZFREM?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "虛擬健保卡數位創新應用分享會：台灣智慧就醫新時代正式啟動",
+      "summary": "衛生福利部舉辦「就醫數位化 啟動智慧醫療新時代」標竿學習與前瞻分享會，聚焦虛擬健保卡的數位創新應用推廣。虛擬健保卡作為台灣健保數位轉型的核心基礎建設，結合行動裝置與雲端驗證機制，可與AI分診、遠距醫療、電子病歷等系統深度整合。此次分享會廣邀各醫療院所交流導入經驗，目的在加速全國醫療機構的數位化腳步，並為後續AI應用場景（如AI掛號預測、智能分流、健保數據分析）奠定基礎。對於醫院資訊部門與數位轉型團隊而言，此政策方向具有明確的指導意義，有助於規劃院內數位身分驗證與AI應用的整合路徑。",
+      "tags": [
+        "虛擬健保卡",
+        "台灣健保",
+        "數位轉型",
+        "智慧醫療"
+      ],
+      "author": "未標示（衛生福利部｜2026-05-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTLWs2YWQyN01iMElub1lOeFEzc1RTdTFzSE1aUFV3MW9JNWoyN1JFTHpzd2N6TksyLWl2QkJYRHhyQkdOM19hNXViazBuVUFvblE?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "OSF Healthcare：AI將全面革新疾病偵測與患者照護模式",
+      "summary": "美國OSF Healthcare系統發表前瞻性聲明，強調人工智慧技術將從根本上改變疾病早期偵測與患者照護的方式。文章指出，AI在醫學影像判讀、預測性分析及個人化治療計畫等面向已展現顯著潛力，並預期未來將進一步整合至急診分流、慢性病管理及術後追蹤等臨床流程。OSF Healthcare作為美國中西部規模較大的非營利整合型醫療系統，其公開表態反映大型醫療機構對AI戰略投資的高度重視。該聲明亦強調，AI導入需搭配完善的員工訓練與倫理治理框架，方能實現安全且可持續的臨床應用，對各醫療體系制定AI發展策略具有參考意義。",
+      "tags": [
+        "醫療AI策略",
+        "疾病偵測",
+        "臨床AI應用",
+        "醫療系統轉型"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-05-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPODhxTTR0cklGZ1RaN1Y0Nm9CN09LRmZSUzNiM0dVUHpmSFYzSTRKdFNSc0ZFNFE3eV9aei02eElrYUxRaGtzdlRNZGg2NFVSOXRrUFN2aXIyRlJzQ2E5V3BVa1FxYk41alQ0eFJRS2NaOTZqSGpxdUdoUS1oQmhQcm0zU3JnQ0h2VWFDYWRLNlYwWHl4ckpkLVE4ZFM4OUp2bmRVSXgwRkx5Z0NucXFIWHJOd1lRUmZvYlQ4NV9jVW1EQ3hIeFhxR01ZV0w3V1lFaTZ3MjRMNDBONnFkUUdZUmFYeFFhYU9Rd1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "Proscia AI病理平台獲業界肯定，數位病理AI採用率持續攀升",
+      "summary": "數位病理AI領域廠商Proscia近期獲得多項產業認可，反映市場對AI輔助病理診斷的接受度正快速提升。Proscia的Concentriq平台以深度學習技術支援組織切片的自動分析與腫瘤分類，協助病理科縮短診斷周期並提升報告一致性。此消息發布時間點恰逢Roche完成收購PathAI，顯示數位病理AI整體市場正處於整合加速期，大型廠商與新創皆積極卡位。對於醫院病理科而言，此趨勢意味著AI輔助病理工具的選擇將更加多元，但同時也須審慎評估平台互通性、數據安全及長期維運支援等因素，以確保導入後的可持續性。",
+      "tags": [
+        "數位病理",
+        "AI病理診斷",
+        "Proscia",
+        "影像AI"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPajBxZXNQQ2VQUVIwekZyMVh1WkRWSnp1V0czWW4wamcyd2JmeFRPTlVQYVZkNW40aGZUeHlEMG9mZy1SN09mTWkzaGF3eWMyYkkySHc0SThjckFCVGFOS2RmOE9LanRTS21GNmx4dTZjUUdVbTZEYktMVDBqNmp0RVBwV1hXMDlfSUFnZllPcnNrcklFODZTaWN3YW1rTkZYS2c?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "首爾大學牙醫附設醫院新任院長金誠均推動AI主導的韓國口腔醫療成長",
+      "summary": "韓國首爾大學牙科醫院迎來新任院長金誠均（Kim Seong-gyun），其就任後公開宣示將以AI技術為核心驅動力，推動醫院在智慧口腔診斷、數位影像分析及遠距牙科照護等領域的全面升級。金誠均強調，AI輔助的口腔影像判讀（如X光自動偵測齲齒、牙周疾病）已具備臨床可用性，將優先推動落地實施。此人事案反映亞洲頂尖學術醫療機構將AI領導力納入高層治理的趨勢，對各醫院在思考數位轉型人才布局與科室AI發展路徑時具有一定的參考意義。韓國在醫療AI監管與商業化方面的推進速度，也持續受到亞太地區同業的高度關注。",
+      "tags": [
+        "牙科AI",
+        "韓國醫療AI",
+        "智慧醫院",
+        "醫療領導"
+      ],
+      "author": "未標示（GNews-AI clinical｜2026-05-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVFM1VnAteEd4VjhiNmp1M0FCUHFndGxFY2lQVFI0TnpTUUlJV0daWW1zSmF3NVFLN1o0R3dzODhfS3RjbDJXOURRWFhCcUNpekpKVnBvSHo3Uk5rZ21kb0RJUHpKSE9PR3pSYkZtaWVmcEdUQTFpSjlJN0dFcXhsOdIBlAFBVV95cUxNWElSLTVGUzk2Q2ZyTG1hd2RZTWFTa2MtRjVRX21fajFvNFZYZU1sTXlNR2pYdGlRMHJOcHFIU1NrRUdpdmowY3VGUDZkeW5tUGVZSC1FTm9kQXA0UUw5U0xqMWlYT0dRY3p0YnU0MVN1bG03RllmR0RLa2diNUVITDBTTE9lMGUtdHF3MmJpcDh3SlRB?oc=5"
+    }
+  ]
+}
