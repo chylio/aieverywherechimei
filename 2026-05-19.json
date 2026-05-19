@@ -1,0 +1,145 @@
+{
+  "date": "2026年05月19日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "AI輔助CPR指導工具ChatCPR實測超越真人調度員，開源釋出供緊急應變機構採用",
+      "summary": "來自UC San Diego、Johns Hopkins與UPMC的研究團隊共同開發了名為ChatCPR的AI驅動CPR即時指導工具，並在實測中證明其表現優於真人911調度員，能更精準地引導旁觀者執行心肺復甦術。研究團隊已將ChatCPR以開源方式釋出，期望緊急救護機構、醫院及相關企業能夠廣泛部署應用。此工具以大型語言模型（LLM）為核心，可即時解析現場描述並給出逐步指令，顯著降低因調度員溝通效率不足而造成的黃金搶救時間損失。研究團隊強調，ChatCPR的目標不在取代專業人員，而是在救護車抵達前的空窗期提升院外心跳停止的存活率。此成果對急診醫學、緊急醫療救護體系及智慧醫院的院前照護策略具有直接參考價值。",
+      "tags": [
+        "急救AI",
+        "大型語言模型",
+        "院前照護",
+        "開源工具"
+      ],
+      "author": "未標示（MedCity News｜2026-05-19）",
+      "source_url": "https://medcitynews.com/2026/05/chatcpr-cpr-ai-llm/"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "醫療AI黑箱模型轉化為可解釋全域決策邏輯的新突破——Nature最新研究",
+      "summary": "Nature期刊最新刊載一篇研究，探討如何將黑箱醫療AI模型轉譯為具可解釋性的全域決策邏輯（interpretable global decision logic）。現行臨床AI模型雖具備高準確率，但其內部運算過程難以被醫師理解，導致臨床採用意願偏低且監管挑戰巨大。此研究提出系統性方法，將複雜神經網路的決策路徑轉換為人類可讀、可審計的規則結構，使臨床醫師能理解AI建議的依據，進而提升信任度與問責性。研究成果對需要通過監管審查的AI醫療器材（如影像診斷、病理分析）具有重要意義，亦為醫院導入AI決策支援系統時的透明度要求提供學術基礎，是當前醫療AI可解釋性（XAI）領域的重要進展。",
+      "tags": [
+        "可解釋AI",
+        "臨床決策支援",
+        "醫療AI監管",
+        "Nature研究"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-05-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5WGtFRFEyZFlXRzJHNTV2WmlqbnR6a0tNNnhLcVpfQlJLYnk4ODQwTG04VU1kcWNTUDlvQjVPRUliTnphbkFKU21LTlUxb0NLLXN2Ri1vLTNodVZVVWlJ?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "歐盟AI法案合規期程重大調整：醫療及人資等高風險應用場景延長16個月緩衝期",
+      "summary": "歐盟宣布對AI法案（AI Act）合規時程表進行重大修訂，針對醫療照護、招募人才等高風險AI應用場景，額外給予16個月的合規緩衝期，以協助相關機構有充裕時間完成法規遵循準備。此調整反映歐盟認知到醫療AI系統複雜度較高、驗證與認證流程耗時，若強制原定期限恐導致大量產品被迫下架或暫停使用，影響患者照護連續性。與此同時，法規亦明確要求部分高風險AI應用（如「去衣」類應用程式）須於2026年12月前完全退出市場。此政策調整對歐洲醫療機構及相關AI供應商的合規策略具有直接影響，也為台灣醫院在評估未來導入歐規AI產品時提供重要的法規背景參考。",
+      "tags": [
+        "歐盟AI法案",
+        "醫療AI監管",
+        "法規合規",
+        "政策調整"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-05-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYzFYYldKTFJRUGJOQ0NvSzE0N1NiNDhPekhuR3JyY1lkM3B4ZmZmSU9fNFhzYTRUd2kxbklsZk5zOGNMbS04RzFCak1uR2c1ZF95R0xubWRWR1c3dS0yZEQwYjYwajVvaDBiOUYyb0wzQzJTa0l1UWl1VkZ2MUd4aVY4TGpjOXpGN3lkT1lnUzFGc0lNd093R3FHSVBwTm5TdjhBdk9BN0hUZm9PWjN2MXdSbnlZYVgtQm1IczYxUWdQbWRRLTV6bHN0Rm1XWHRMMkliR2VMX2oyemtKYjJiMmVn?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "2026年放射科：人力危機與AI革命雙重夾擊下的產業轉型",
+      "summary": "Becker's Hospital Review深度報導指出，2026年放射科正面臨前所未有的雙重壓力：一方面是全球性放射科醫師人力嚴重短缺，另一方面是AI診斷輔助工具快速滲透日常工作流程。文章分析，AI已從輔助工具逐步演變為放射科運營不可或缺的一環，部分醫院甚至倚賴AI優先篩查機制來應對讀片積壓問題。然而，人力短缺也帶來訓練督導不足、AI決策過度依賴等新風險。報導呼籲醫院領導層重新審視放射科人力規劃與AI治理框架，確保AI擴大應用的同時，不犧牲診斷品質與患者安全。此議題對正在推動影像AI部署的醫療機構具有高度參考價值。",
+      "tags": [
+        "放射科AI",
+        "人力危機",
+        "影像診斷",
+        "AI治理"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTF9OWE5DVjdnM2tGZ0M2Z05wanJlcE5LS1dGUlc2aFRaakJKbGRuVUliYWtpRnhZT0tENHZsU1BYSnh0UWo1bmJSVUdhTDdzMGczTV9ERVRVb0J1NE9NU3pwRXl6TWNxUFZzUWN0emcxRm0ydmU4dU56VWUtcVptZ2U3OHJoZ3hOay1Ma0x0V0M3ZGg0Wmg3WFQ3ZTB4UE1Yc1lsOFhUa000Unlqcnp1aw?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "AI肺動脈栓塞偵測真實世界研究：與放射科醫師高度一致，臨床應用性獲驗證",
+      "summary": "DOTmed報導一項真實世界研究結果，針對AI肺動脈栓塞（pulmonary embolism）偵測系統進行大規模臨床驗證，結果顯示AI判讀與放射科醫師診斷的一致性達到高度相關。此研究採用真實臨床場景數據（非封閉測試集），更具外部效度，說明該AI工具具備在一般醫院放射科環境中部署的可行性。肺動脈栓塞為急診高風險疾病，漏診率高且後果嚴重，AI輔助偵測有望縮短診斷時間並降低漏診率。此類真實世界驗證研究是醫院採購放射科AI工具時的重要參考依據，對急診醫學、胸腔科及放射科均具臨床意義，也為相關AI產品的院內導入決策提供循證支持。",
+      "tags": [
+        "肺動脈栓塞",
+        "放射科AI",
+        "真實世界研究",
+        "臨床驗證"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yQ0I0cEhMUE1sMjNDb0ZmanBjOFRNUzdUVDNGZEprYWNmNl9fVEtHc0p1UEs0Tng3RnJHNjVlMV8tWE9xNGROTm16Y1JlejRy?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "放射科AI下一波應用不是診斷，而是提升患者對影像報告的理解力",
+      "summary": "HIT Consultant刊載觀點文章，指出放射科AI的下一個重要應用場景，正從輔助診斷轉向協助患者理解影像報告內容。現行放射科報告多以專業術語撰寫，患者往往難以理解，導致溝通落差與不必要的焦慮。AI工具可將技術性報告轉化為易讀的患者友善版本，並即時回答患者對檢查結果的疑問，提升健康識能與就醫體驗。文章認為，此應用能有效減少放射科醫師與臨床醫師解釋報告的時間負擔，同時強化以患者為中心的照護模式。隨著醫院數位轉型深化，患者溝通AI工具有望成為放射科資訊化的新標配，對醫療品質提升與患者滿意度均具正面影響。",
+      "tags": [
+        "放射科AI",
+        "患者溝通",
+        "健康識能",
+        "數位轉型"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRS0yNTdLejBVTlRTMkx1S2FHaVBpdUczT29STEd1bW5oTzNKVkM5MkNaYVYyUnhPeG9RSDYxWlJUb01jTzBCUzlNS19LcEhKbXVPYVZEbzZWWTZuRGdqa3ZtUDU1cFk3WWtrVDN5ZG54V1Z0aF9tc3ZRU3A2MDZrUG5ZSmcxTE5T?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "AstraZeneca與Roche攜手，加速AI癌症生物標記檢測在亞洲的臨床應用",
+      "summary": "FirstWord Pharma報導，AstraZeneca與Roche宣布在亞洲市場展開合作，共同推動AI輔助癌症生物標記（biomarker）偵測技術的臨床應用與普及。此合作結合AstraZeneca在腫瘤治療藥物的深厚布局，以及Roche在體外診斷與數位病理領域的技術優勢，目標是透過AI分析組織切片與液態生物檢體，加速識別適合標靶治療或免疫療法的患者族群。亞洲市場因病理判讀人力相對不足，AI生物標記分析需求尤為迫切。此合作模式對台灣醫院的精準腫瘤科發展具有參考意義，也顯示跨國大廠正積極以AI技術強化亞太地區的伴隨式診斷（companion diagnostics）生態系布局。",
+      "tags": [
+        "癌症生物標記",
+        "精準醫療",
+        "數位病理",
+        "亞洲市場"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPLVdaMVAxUktkbHpMdEZvX3phTVo3RV9tMkdxVHhMMlV4M0RoSkZIdWdnalBNdVo3c0FyUEdFVDdJOWREZm1TUENuNU5vOXVQTERV?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "台灣多所大學醫院展示AI精準醫療臨床轉譯成果，加速智慧醫療落地",
+      "summary": "環球生技月刊報導，中國醫藥大學、亞洲大學、高雄醫學大學及雙和醫院近期聯合發表AI加速精準醫療臨床轉譯的實務成果。各機構展示了包含AI輔助基因組分析、影像辨識、個人化治療決策支援等多元應用，說明台灣學研醫療體系在將AI研究從實驗室推進至真實臨床場景方面已取得具體進展。這些成果涵蓋腫瘤科、慢性病管理及罕見疾病診斷等多個領域，顯示台灣本土醫療AI生態系正逐步成熟。此類臨床轉譯成果的公開分享，有助於推動醫療機構間的經驗交流，並為尚在規劃AI導入的醫院提供本土案例參考，對台灣智慧醫療整體發展具有正向示範效應。",
+      "tags": [
+        "台灣醫療AI",
+        "精準醫療",
+        "臨床轉譯",
+        "智慧醫院"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-05-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hOFBmWHJheE1WMVBZQ190a0ozcGtnaEdTeFRrVW81ZU1ZTGMwTk8wMGtWUVp4Tk9WelJlMWNkdzd3eVhDRmJvT1BvMEFiMHkxTHJYelpVZXExN2dnMEJIZ25oaFFXbEJJ?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "醫療AI原型開發費用高昂卻鮮少投產，業界剖析關鍵失敗原因",
+      "summary": "Healthcare IT News刊載深度訪談，引用MIT研究指出超過95%的AI計畫從未成功投入生產或產生可量化回報，受訪的Availity首席數據暨工程長Michael Privat更指出，醫療產業的AI失敗率可能更高。文章深入探討醫療機構AI原型開發投入大量資源後卻被擱置的主因，包括：資料品質與互通性不足、臨床工作流程整合困難、缺乏終端使用者參與、監管合規不確定性，以及ROI衡量指標定義模糊等。此分析對正在規劃或執行AI計畫的醫院資訊部門與數位轉型團隊具有直接參考價值，提示需在原型階段前優先解決數據治理與業務需求對齊問題，以避免資源浪費。",
+      "tags": [
+        "醫療AI導入",
+        "AI失敗案例",
+        "數位轉型",
+        "投資回報"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-19）",
+      "source_url": "https://www.healthcareitnews.com/news/qa-why-pricey-ai-prototypes-are-often-left-cutting-room-floor"
+    },
+    {
+      "rank": 10,
+      "score": 6.0,
+      "title": "國科會推動在宅醫療創新布局，智慧醫療結合AI照護成政策新重點",
+      "summary": "工商時報報導，台灣國家科學及技術委員會（國科會）正積極推動在宅醫療（home-based medical care）與AI照護技術的整合創新布局，將智慧醫療列為重點政策推進方向。規劃內容涵蓋遠端生理監測、AI輔助照護決策、居家智慧設備與醫院系統的資料串接等面向，目標是建立可持續的居家照護生態系，以應對台灣高齡化社會帶來的長期照護壓力。此政策方向與全球醫療去中心化趨勢一致，對醫院規劃居家醫療延伸服務、發展院外AI照護平台具有重要政策信號意義，也可能帶動相關醫療資訊系統與穿戴裝置的整合需求提升。",
+      "tags": [
+        "在宅醫療",
+        "台灣醫療政策",
+        "AI照護",
+        "國科會"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-05-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XNWZtbmEtRzhQYW0zNjFUY2tTdklWV2tWSFAzSjMwa1dtVXBGazU5dlY4SnZCa0FwT3l0QUVWQ3AyMjl4QkJZbXVSQnY1bFhscTRERVFycmE0YUR2U0tr?oc=5"
+    }
+  ]
+}
