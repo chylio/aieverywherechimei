@@ -1,0 +1,131 @@
+{
+  "date": "2026年05月21日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "FDA授予AI膀胱癌預後測試「突破性醫療器材」資格認定",
+      "summary": "FDA近日授予一款AI驅動膀胱癌預後測試「突破性醫療器材」（Breakthrough Device Designation）資格，代表該工具在監管審查流程上將獲得優先加速通道。此AI測試旨在協助臨床醫師更精準預測膀胱癌患者的疾病進程與治療反應，有望改善現行依賴傳統病理分期的侷限性。突破性資格的取得意味著FDA將與開發商密切合作，縮短上市審查時間，有助於加速此類AI診斷工具進入臨床實務。膀胱癌是泌尿系統最常見惡性腫瘤之一，預後預測對於手術、化療及免疫治療的決策至關重要。此消息對關注AI病理學與精準腫瘤學整合的醫療院所具有重要參考價值，亦反映FDA持續擴大對AI醫療器材創新的支持力度，為相關臨床科室及數位病理採購規劃提供重要市場信號。",
+      "tags": [
+        "FDA認證",
+        "AI診斷",
+        "腫瘤學",
+        "數位病理"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2NCNFZCanpvRVZ6YzRIMHJIMmhxeTZBYjY0MTEyOGgzUkszaDNEMl9iUE5qZEZ1SzRLaFdENG91X20yVURiWnM1d2xjR0tPWVJiRnIwZXRHeE9TSkxXQ3gyY1c0SktpbWZXVXVXNGRfUmxtN1Q2T3Bzdzg1RjRXTjJpampMamhNZERVU2lMNzdRR05zNmx5bQ"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "美國國會民主黨人強推終止Medicare AI預授權試驗立法動議",
+      "summary": "美國國會民主黨議員正積極推動立法程序，要求強制表決以終止一項由聯邦醫療保險（Medicare）主導的AI預授權（prior authorization）試驗計畫。該試驗允許AI系統代替人工審核，自動核准或拒絕特定醫療照護申請。批評者憂慮此模式將使保險公司以演算法取代臨床判斷，導致患者應有的照護遭不當拒絕，進而引發醫療品質與患者權益的系統性風險。此政策爭議直接觸及AI在醫療行政流程中的角色邊界，不僅牽動美國醫療支付體系的未來走向，對全球各地考慮導入AI輔助審查機制的醫院管理層與政策制定者亦具有重要警示意義。此案若立法成功，可能對醫療AI應用場景的監管框架形成重大轉折，值得密切關注。",
+      "tags": [
+        "醫療政策",
+        "AI預授權",
+        "Medicare",
+        "法規監管"
+      ],
+      "author": "未標示（STAT News｜2026-05-21）",
+      "source_url": "https://www.statnews.com/2026/05/20/democrats-force-vote-to-end-medicare-ai-prior-authorization-pilot/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "AI胸部X光分析軟體比較研究揭示：肺癌偵測準確度存在「顯著變異性」",
+      "summary": "一項最新比較放射科研究針對多款市售AI胸部X光（CXR）分析軟體進行肺癌偵測能力評估，結果顯示各系統之間存在「顯著變異性」（significant variability），意即不同廠牌AI工具的敏感度與特異度表現差距明顯。此發現對正在評估或已部署AI影像輔助診斷工具的醫療院所而言具有高度警示意義：採購或引入AI輔助影像判讀系統前，不可僅憑廠商宣傳數據，必須透過本院真實世界資料進行驗證。研究強調，AI系統在不同醫院情境、影像品質與患者族群下的表現可能大相徑庭，呼籲放射科建立嚴格的AI效能監測機制，確保臨床決策品質不因工具選擇而受損。",
+      "tags": [
+        "放射科AI",
+        "肺癌篩檢",
+        "臨床驗證",
+        "影像診斷"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMEJrdkNXbXpPUVc4V1c3MHFWd0VHZ0dCMnFvV0NlRlhFQk5qeEhIT2dBM0pJR09fYTRIZ3lmOUU3NUkzbDlxa29BSExNenNKV0k0MWUyRjR3ZkNlUThhQ1p1WkRJVkdQaThlYnhKMEtjSGx0V192UkItN3ZoVHJ6YkpNM3JjUlRWLVhaZVZiazdRQ3RjdWdfQXBMbU1jZzFQblVzX3NLU3pPa2xCTEdWbk9OVDlyUUpPQlBRVVhoM3V2SFYzR2dR"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "AI輔助草稿顯著縮短放射科X光報告撰寫時間",
+      "summary": "最新研究顯示，採用AI自動生成報告草稿（AI Drafts）技術，可有效縮短放射科醫師完成X光影像報告所需的時間。AI系統預先依影像辨識結果產出結構化初稿，放射科醫師僅需審核修改，大幅降低重複性文書工作負擔。此模式在放射科人力吃緊的現實背景下尤具實用價值，有助於提升報告周轉效率、縮短患者等待報告時間，並可讓醫師將心力集中於複雜判讀案例。對於正在評估放射科工作流程最佳化的醫療機構，此類工具代表一種低阻力、高效益的AI落地路徑，惟仍需留意草稿品質監控與醫師最終責任歸屬等管理議題。",
+      "tags": [
+        "放射科AI",
+        "報告自動化",
+        "工作流程優化",
+        "影像判讀"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVjd4dmVNQkdtcV90YTB1Y3I3ajVSNlJUUzFQV0tWd0I0MXdpVXM3NWxKS1Q3aTZ4M0FyWHFiM3pTX2dSYTIySjd3NXAzc282Ymo5N05ZdUNNbUdMNFF6RjNzQTdhRE1xYzJWT1AzTVRfNkNyTmN1RHFFQ21fRnhUYWdYNDFhMmJX"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "AI模型應付複雜醫療流程失敗率逾七成——美國新基準測驗揭示嚴峻缺口",
+      "summary": "美國一項針對AI模型處理複雜醫療情境能力的新基準測驗（benchmark）顯示，超過七成的多步驟臨床工作流程測試以失敗告終。該測驗模擬真實醫療情境中涉及多項判斷與資訊整合的複雜決策流程，結果揭示現行主流AI模型在面對非線性、需要跨步驟推理的醫療場景時仍存在根本性限制。此發現對正積極推動AI輔助臨床決策的醫療機構具有重要警示：AI工具在結構化、單一任務中的表現不代表能應對實際臨床複雜度。研究呼籲業界在導入AI系統前，應針對機構特有的複雜工作流程進行嚴格的本地化測試，而非單純依賴廠商提供的通用測試指標。",
+      "tags": [
+        "AI評測",
+        "臨床決策支援",
+        "醫療AI侷限",
+        "工作流程"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-05-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQMk0wekVYUF8yMmtEUEZrbGtWZkh1WFNwWHpyNVBCQmlIcjBQOUFlZGRfeWJDWGUxbl9hSW5tdXR1MEZkR1ZjcWJfWW1SSUxLZktqbUxjTFhBMGFSZnhNcVY0ZmpnY0pwY0tkSm4tQlhQUnBkQ1BXRlRsSlVPYkxORFliSTJ5Yk9xa3FoX3pybk5EOXM3TjBvWGxPbnh6bHpzU3Fjelh2MS1RNXROZGpVclo5Z2FOTGFKNjVSc2ZqSmxpemlYMjFsdjVTb2xsSkszN1lRNHJqdno2VDg2WXh0cG5oeFZlWVpULXRqMExVZTltRzdyWlhMcWZORklSVWJpc19oZEJZeUJQYng2UE9zWDZYdm1PVTk0RTJpQkpQaDNoZURYdkZWczBMaEs1Zjc4a1VhcVB2bmJVSWh0YW1hU3ZvYVZkeEZ0TDRveWljUm9wRGVmT1lOcU9pekFGeW1obDBYUUx4RkFpbHNHWlBUSzNtZ25QdHV4d3V1R2o2aw"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "GE HealthCare推出免費醫療AI培訓課程，降低臨床人員技能門檻",
+      "summary": "GE HealthCare宣布提供免費醫療AI培訓課程，目標受眾涵蓋臨床醫師、放射科技術人員及醫療資訊專業人員。此舉旨在降低醫療機構導入AI工具時的人員培訓成本與技術門檻，協助第一線醫護人員理解AI輔助診斷工具的運作邏輯、適用場景與侷限性。在醫療AI採用率持續擴大但人才缺口同步擴大的背景下，大型設備廠商主動承擔教育角色具有重要產業意涵。免費培訓資源的開放亦有助於加速醫療機構的AI素養建立，為後續AI工具的有效落地與監督機制建置奠定基礎，對資訊部及數位轉型團隊在規劃AI推廣策略時具有直接參考價值。",
+      "tags": [
+        "AI教育訓練",
+        "GE HealthCare",
+        "醫療人員培訓",
+        "數位轉型"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-05-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQU5vbEYwR0dZS2hrUy1MclJDUFdwU2xtUWQyM0ZSUlhwU2hLTlhOZHJ3RkRBVTVvZ3RReUFPWGJwU1pvODJkOG1RNk9qZ2dLZkxRNmt0REIyM3hodVVqdnV5aWRWMUxnU2tQVUlleTNvXzhKdUxzdG1URjhyY2Q4MEQ5cjRBSUU2Zno0ZTdfUU4"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "台灣雲象科技數位病理AI平台登錄創新板，多引擎策略驅動業務成長",
+      "summary": "台灣數位病理AI新創公司雲象科技正式於證券市場創新板掛牌上市，標誌著國內醫療AI產業發展的重要里程碑。雲象科技專注於數位病理影像AI分析平台，應用場景涵蓋癌症篩檢、組織切片辨識與病理報告輔助生成，並積極布局多引擎成長策略，包括國際市場拓展與醫院合作夥伴深化。上市不僅為公司引入新資金支持技術研發，亦提升台灣數位病理AI在國際舞台的能見度。此消息對關注本土醫療AI生態系發展、評估數位病理導入可行性的醫療機構及相關採購決策者具有參考價值，亦顯示台灣醫療AI新創正逐步邁向資本市場成熟化階段。",
+      "tags": [
+        "數位病理",
+        "台灣醫療AI",
+        "雲象科技",
+        "上市掛牌"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-05-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yVDhOT0tTMnhRYTdSeEFZWDhDbDJqdmxVc3lWbk5XdmdmbmY1bWVaWUluZWptbTBtbzJHRjBVSWtUVlBXMWhwLU1uTU14eGNaM0p1VE5YbW5YZmJYdlpEV2V3SC1ONmswdGJFOHZhQUlINURqcjZjNmlCWmtyNzg"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "醫療AI從採用走向規模化運營：XCHANGE '26大會揭示產業轉型新階段",
+      "summary": "XCHANGE '26年度醫療科技大會的與會者洞察報告顯示，醫療AI產業正經歷從「採用期」邁向「規模化運營」的關鍵轉型。多數醫療機構已跨越初期概念驗證階段，當前面臨的核心挑戰轉為如何在全機構範圍內穩定部署AI工具、確保工作流程整合順暢，以及建立有效的績效監測機制。報告指出，組織文化調適、跨部門協作與AI治理框架建置，成為推動規模化的三大關鍵因素。對於正在規劃第二階段AI推廣的醫療領導層而言，此份產業洞察提供了關於共通挑戰與最佳實踐的重要參考，有助於制定更務實的數位轉型路徑圖。",
+      "tags": [
+        "醫療AI規模化",
+        "數位轉型",
+        "產業趨勢",
+        "AI治理"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-05-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVjFuZU1lM1dRUXpTNWU3TEk5RXgzY3cyVG5rX0ZySlFUeERhd1FZdkw1RWFmREF6LXdBekFUclpzbENCMzFCbHIxM0FOb3JJYklJUG05NzBxa3dhN0lFSmNkcGM0WHJQTlBIY1ZodldLSVVPNHpucHZvbU9Bb3ZSVzFSYkpwT0FyMHhJLTMwWTZqRmNjNjRWR3RXd2ZCTlhpNFRhX05fclA1ejg"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "AI「玻璃箱」原則：一位醫師呼籲醫療AI必須透明展示決策邏輯",
+      "summary": "Healthcare IT News報導，急診科醫師Niki Panich提出「玻璃箱」（glass box）概念，主張醫療AI工具不應是黑箱，而必須能清楚呈現其決策邏輯與推理依據，讓臨床醫師理解AI為何做出特定建議。Panich以電子病歷導入失敗經驗為警示，強調若AI系統重蹈覆轍、讓醫師淪為「點擊機器」，將損害醫病關係與照護品質。她特別指出，可解釋性（explainability）不僅是技術需求，更是信任建立的前提，唯有醫師能夠理解並批判性審視AI輸出，AI輔助臨床決策才具有真正的安全保障。此觀點呼應近期醫療AI透明度討論的主流方向，對醫院採購評估與AI導入政策制定具有直接參考意義。",
+      "tags": [
+        "AI可解釋性",
+        "臨床信任",
+        "醫療AI倫理",
+        "決策透明度"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-20）",
+      "source_url": "https://www.healthcareitnews.com/news/inside-glass-box-why-one-physician-thinks-ai-medicine-must-show-its-work"
+    }
+  ]
+}
