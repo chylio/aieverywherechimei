@@ -1,0 +1,145 @@
+{
+  "date": "2026年05月22日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "OpenEvidence推出免持聲控醫療AI，首創原生語音對語音功能並擴展至Cedars-Sinai",
+      "summary": "臨床決策支援平台OpenEvidence宣布推出全球首款原生語音對語音（Speech-to-Speech）醫療AI功能「Voice Mode」，讓臨床醫師無需動手即可即時取得循證醫療資訊，大幅降低操作摩擦。目前該平台已服務逾86萬名臨床醫師，並與知名學術醫療中心Cedars-Sinai完成合作協議，進一步擴大醫院端部署版圖。語音模式可在診間、手術室或病房巡視等忙碌情境下提供即時查詢，無需觸碰螢幕。此舉標誌著AI臨床輔助工具正從文字介面進化為更自然的語音互動模式，對提升臨床效率、減輕認知負荷具重要意義。業界觀察人士指出，隨著大型醫療機構陸續採用，此類免持AI工具將加速融入臨床工作流程，成為下一波醫院數位轉型的關鍵切入點。",
+      "tags": [
+        "臨床決策支援",
+        "語音AI",
+        "醫院數位轉型",
+        "醫療AI平台"
+      ],
+      "author": "未標示（Fierce Healthcare｜2026-05-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZzVLYjlodW1ILU9sQ3QwdVd6Z3ZlcEhfUU0xVFZyem1PMzdiem1hdjBteUpKZkM2RElQbWtHTkhQUzhRX0RWeVpCY3hSTFYxYThyTlV5SWdOSUNJT05aVFRBSGk0X1lFZUJhNVB1WmZZWXJiQk1GalBwdk9zZ2xyRGFrN1JoeHA0bll1NjRuRVBSNm5sQWFhbDR5Yl93MW5xQkpjcHA0X2ljdEU5NlhCc2ZYSDJwUU8wbTFLV0E1ZXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "Roche宣布收購AI病理學公司PathAI，全力押注數位病理診斷領域",
+      "summary": "全球最大體外診斷廠商Roche宣布收購美國AI病理學新創PathAI，進一步鞏固其在數位病理與精準診斷領域的戰略布局。PathAI專注於運用深度學習分析數位化組織切片，協助病理科醫師提升腫瘤診斷準確率、加速生物標記判讀，並支援新藥臨床試驗的伴隨診斷開發。此次收購是繼Roche近期重塑診斷策略、全面聚焦AI病理學之後的具體行動。業界認為，此舉將加速AI輔助病理診斷在全球大型醫療機構的普及，並對現有數位病理生態系產生整合效應。對醫院病理科而言，工作流程與平台標準可能面臨重整，同時也意味著AI病理工具的商業可及性與支援體系將更趨完善，值得密切關注其後續整合進程。",
+      "tags": [
+        "數位病理",
+        "AI診斷",
+        "企業併購",
+        "精準醫療"
+      ],
+      "author": "未標示（Imaging Technology News｜2026-05-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Qd3F1WVRRYkNPQ19RNGhTd3Y4bnlRMWZkeWhOYmxXSDVRMndOWlVFYWZYZS1TSFh0ODhJQjFGMm5VbGJiTXE3SmQ0cDJPb1ZOM2ZSb25Ud0lDbGh1S2ZCamxrZnFLUUhMUVEyYW5rMmJRVVZiVVAtdE5GZXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "AI導入醫療的最大障礙為何？HCPLive深度剖析實際困境",
+      "summary": "HCPLive刊出深度報導，聚焦臨床機構在導入醫療AI時面臨的核心障礙。文章指出，技術本身已非主要瓶頸，真正的挑戰在於：缺乏清晰的臨床工作流程整合路徑、醫護人員信任度不足、資料治理與隱私合規的複雜性，以及組織內部變革管理能力薄弱。報導也強調，若AI工具無法嵌入既有系統（如電子病歷、排程平台），其實際使用率將大打折扣。此外，績效評估機制的缺位使醫院難以量化AI的投資回報，進一步延緩採購決策。這些發現對醫院領導層與資訊部門具高度參考價值，提示在技術選型之外，組織準備度與流程再造同樣是AI規模化落地的關鍵前提條件。",
+      "tags": [
+        "醫療AI採用",
+        "組織變革",
+        "工作流程整合",
+        "臨床資訊系統"
+      ],
+      "author": "未標示（HCPLive｜2026-05-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTQTZ0SEp2cVY3N0pFRThOSzZvUlUxWlRVM19LRkRmMWJiRXpQQ3JLWmVJTzFZMkNKM2N1VkwtU0RoYkRCdHQ3aVFMaE13MHVUSFVHOWlJYW5zNm02NUU0cnVWS0lPVXl4ZHhoT085dE5STlB5bXFKZy1qQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "AWS發布AI代理人智慧放射科工作流程優化方案，重塑影像判讀效率",
+      "summary": "Amazon Web Services（AWS）在其官方部落格發布技術白皮書，詳細介紹如何運用AI代理人（AI Agents）架構優化放射科工作流程。方案涵蓋影像分診優先排序、報告草稿自動生成、異常自動標記與案件追蹤等應用場景，並說明如何將多個AI代理人串接整合至現有放射資訊系統（RIS）及影像存檔系統（PACS）。此方法有別於單一AI模型介入，強調多代理人協作可覆蓋更廣泛的臨床流程節點，從接單到報告完成實現全鏈路自動化。對面臨放射科人力短缺壓力的醫院而言，此類雲端AI代理人方案提供了可快速部署的技術路徑，同時也引發對資料安全、模型責任歸屬與臨床驗證標準的討論。",
+      "tags": [
+        "放射科AI",
+        "AI代理人",
+        "工作流程自動化",
+        "雲端醫療"
+      ],
+      "author": "未標示（Amazon Web Services｜2026-05-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLVlqd21yel80eXNiek1UZGlGSWJxaHRnQllYajZTZ0NyNFJ4d3NYcVluLTlIV19faWpwaExhLWp0NW5YZ1Itb0NTay1aRlFYbU96SDM1b2ZBeU8wU08zZzROblVJQ19mU0VYZmxUTHM0eDJyR2lqWjBsQkV4UjAzYTJuTXZOOTJKVTVVU3ZLcGYydTlscmRfUDJWa21nTFd0OFI0YTRYaUNmeW8?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "醫療AI從抱負到落地：彌合承諾與實際執行之間的鴻溝",
+      "summary": "Healthcare IT News刊出由醫師Justin Norden共同撰寫的深度評析，探討醫療體系在AI導入過程中「野心勃勃但執行滯後」的普遍困境。文章指出，許多醫療機構已完成AI概念驗證，卻卡在規模化部署階段，主因包括：缺乏清晰的臨床指標定義、資料品質參差不齊、跨部門協作機制不健全，以及AI模型在真實世界的表現往往低於試驗環境。作者呼籲醫院領導層將AI治理機制制度化，明確指定負責人與衡量框架，並強調技術選型應以臨床問題為起點而非以工具為導向。此文為醫院數位轉型團隊提供了務實的執行路線圖，對正在評估AI投資回報或規劃第二階段部署的機構具直接參考價值。",
+      "tags": [
+        "醫療AI落地",
+        "數位轉型",
+        "AI治理",
+        "規模化部署"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-22）",
+      "source_url": "https://www.healthcareitnews.com/blog/ai-ambition-health-system-execution-closing-gap-between-promise-and-practice"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "AI醫療保險應用引發北美監管辯論，台灣與美加政策方向現分歧",
+      "summary": "商傳媒報導指出，隨著AI技術被廣泛應用於醫療保險核保、理賠審查與預授權判斷，北美兩地（美國與加拿大）的監管機構對此展現出截然不同的政策取向。美國方面已有國會議員提案限制Medicare中的AI預授權機制，部分州政府也著手立法要求保險公司揭示AI決策邏輯；加拿大則傾向採取較寬鬆的觀察態度，優先促進創新。報導同時關注台灣健保體系未來引入AI審查工具的潛在監管挑戰，包括申訴機制設計、演算法透明度要求與族群公平性等議題。此一議題對台灣醫院管理層與健保申報作業具前瞻參考意義，尤其在AI輔助醫療必要性審查逐漸普及的背景下。",
+      "tags": [
+        "AI醫療保險",
+        "法規監管",
+        "健保政策",
+        "演算法公平性"
+      ],
+      "author": "未標示（商傳媒｜2026-05-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPWHFBcEhTdXp3SmQ0RXRkY2NRZC1pVURzbm14NENsN3loYzRFcWpnVGFZVlZBc3N1cndiVXlGS2RsLU5tTld0SlZUOGZVM2FiTmFubnZXQ21PZ0MtR3dIdEFBTkZkV0hRdXlGNFJnODlna25jVVJyYU42UDQ1cHY3U1RsYkh1S2hUaGlNQmNDZllIaUJwSVZ3SFlwWXJQeTRPLVhSNncxVDIyXzlDYVpBQi15RFJzVlJCY0FaTTRWRVdZamI0XzFpeFBzeTVLdnU4VW9QR2xzUWo1RnNSMEstMVJzalNrX1BjVHNNZHhUU3E0c0JXV2dubEVvcXpacENZVFFNSk91dEdPbnhMYTNLZ3hSUWQxVURwRG93cmdYMllpVnZQMm4tMmNIMVNKd213bEJ4M3ZtUVF0Um9yYkJLVjE2X0FNa0YtNXhlSXdRNGN5cXJEYi1qeE9rWnEydV9ueWVOOFk2NDhmQQ?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "醫療AI導入的缺失關鍵：人才與勞動力準備度，而非技術本身",
+      "summary": "Healthcare IT Today發表分析文章，強調醫療AI大規模採用的核心瓶頸在於「勞動力準備度」（Workforce Readiness）不足，而非技術可及性問題。文章指出，即使醫院已採購先進AI工具，若臨床人員缺乏基礎AI素養、對工具輸出結果無法批判性評估，或未接受適當的使用培訓，則AI投資效益將大幅折損。作者建議醫院應系統性建立AI教育課程，涵蓋從住院醫師到資深主治醫師的各層級人員，並將AI能力納入繼續教育要求。此外，文章也呼籲醫療院校提前調整課程架構，將AI判讀與人機協作納入核心訓練內容。對正在規劃AI培訓策略的醫院領導層而言，本文提供了清晰的政策建議框架。",
+      "tags": [
+        "醫療AI培訓",
+        "勞動力準備度",
+        "臨床教育",
+        "人機協作"
+      ],
+      "author": "未標示（Healthcare IT Today｜2026-05-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd3JDSmRyWGNLN2pia2tCRzNkOUFpX2daZU1hdy00bTNRWDlrbjlwQzRQMk1xdEFXREtsSzNZd1phQzdBdG42OFlXSEh0dGx5ZTROQWtsYVlSZTcxdkxia0doRE1JejFhekVYOVBwa3VMMGVZN3lnS2ZQV2szN0JKZU82X1c3SWhyMTRyb1JocE5UOFpWQ1FabWk1aE41eGFwcndEUVdjQ0xsOVJz?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "AMA警告患者：AI不應單獨用於診斷決策，臨床判斷仍不可或缺",
+      "summary": "美國醫學會（AMA）透過Radiology Business發出公開警示，提醒患者與醫療機構，現階段AI工具不應被單獨依賴用於醫療診斷決策。AMA指出，雖然AI在影像判讀、篩檢輔助等場景展現潛力，但其錯誤率、偏差問題及在多元族群的表現差異仍未完全解決，若缺乏臨床醫師的監督與覆核，可能導致誤診或延誤治療。AMA強調，AI應定位為輔助工具，最終診斷責任仍應由執照醫師承擔。此聲明對醫院法規遵循與知情同意流程設計具直接影響，亦提示醫療機構在AI輔助診斷工具的公開溝通策略上需更加審慎，避免患者對AI能力產生過度期待。",
+      "tags": [
+        "AI診斷安全",
+        "醫療倫理",
+        "AMA政策",
+        "臨床責任"
+      ],
+      "author": "未標示（Radiology Business｜2026-05-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNGlyOFh0Q2s0ZER4UkRJSEo0MXdfbkFULVVzU2ZvWUZPV2FOX3BtQU9UVHpnWGJkNmJtXzJSSzFlOGloZFk5bXRpODZNaXJIeDNZZG53b0ttVmp0WEtkNHBfanI0R3VNU3poeWhQTmszaWs0cDlGbWZLTks0UUxGOG1qRVEwMUp1dWp0M3QtdE11amFXcDN6VEp6R2R4VVNhMTNWYi1LdGRFOTFXYWRVWEQtRkw0YkZZZHl1XzBpUHl1X1Bl?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "ATxSummit 2026新加坡登場：AI治理、醫療應用與青年創新三大主軸引領區域討論",
+      "summary": "2026年亞洲科技峰會（ATxSummit）於新加坡盛大舉行，本屆峰會以AI治理框架、醫療AI應用實踐與青年創新生態為三大核心議題。在醫療AI議題上，與會者討論了AI輔助診斷工具的跨境資料共享挑戰、新加坡與亞太各國在醫療AI監管標準制定上的協調進展，以及如何透過公私合作加速AI醫療解決方案的臨床驗證與落地。台灣智慧醫療業者也有代表參與交流，分享本土AI臨床實踐經驗。此峰會是亞太地區醫療AI政策對話的重要平台，其討論成果將對區域醫療AI監管走向與國際合作模式產生參考影響，對台灣醫療機構的國際接軌策略具有觀察意義。",
+      "tags": [
+        "AI治理",
+        "亞太醫療AI",
+        "國際交流",
+        "智慧醫療"
+      ],
+      "author": "未標示（三嘻行動哇 Yipee!｜2026-05-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNZ3RUX09lanNGTzVHazR2TXhCQTdIVWg1MlA0OWhUWDBqOWcyVG5nSkpPMjJmOVRNOUpFQnhiZzR1Z245VklEdFBwNld2ZXpCV3RSZ3ZEUmpLRnBOTzBpbVB5amk0MUE0YjhBTTlsVjJVR29JSVlTbng0TUlkYlViVDN1N2NTVVc0VlRJdnRXeE5QMmtoaDJlRkE1c3lvWWtOUmFsVXV3cUVKczVvd2huV1ZfamlCclVZaHctaXBRS1cwbWhQVkhFODVJSEFCREN4NlM3UFBnc1VqMWFSWDhSbG10cGJVSF9RM1NTdDI1VENWRkFUQjctcGM3VmJ2Y0lDaTVVaEJEdTVRaU4tX2lGM1lkVGFVdkduVm1qY05NZXVjdEh4RVRrZmtLRl9qR0gyVVFOdG85U0FqNW9CVU8tU0tMR2FicDQ0LXR3?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 6.0,
+      "title": "白內障手術結合精準AI醫療：眼科名醫宣告進入新世代",
+      "summary": "台灣早安健康專訪眼科權威醫師，探討AI技術如何革新白內障手術的術前規劃與術中導引。報導指出，現代白內障手術已從傳統經驗導向進化為數據驅動的精準醫療模式，AI可整合患者眼軸長度、角膜地形圖、晶狀體度數計算等多維度資料，自動推薦最適人工水晶體規格，顯著降低術後屈光誤差。受訪醫師強調，AI輔助決策工具不僅提升手術預測精準度，也有助於與患者進行更清晰的術前溝通與期望值管理。此一應用案例展示了AI在高度標準化手術情境中的實際臨床價值，對眼科及其他外科專科推動AI輔助手術規劃具參考意義，亦呼應全球精準手術AI化的產業趨勢。",
+      "tags": [
+        "眼科AI",
+        "白內障手術",
+        "精準醫療",
+        "台灣醫療"
+      ],
+      "author": "未標示（早安健康｜2026-05-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkV1I5ZEFYMWsxRjhfclNXNEx6Tk03eFpUQXVmRzdNVGtXYnBEOGtwTHExT0pKVW5Sd0FNd3REODVEMEJGQ1E?oc=5"
+    }
+  ]
+}
