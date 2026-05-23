@@ -1,0 +1,131 @@
+{
+  "date": "2026年05月23日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "Wolters Kluwer推出臨床AI審核框架，協助醫院治理委員會監管床邊AI工具",
+      "summary": "知名醫療資訊供應商Wolters Kluwer正式發布「Clinical AI Framework」，專為醫院治理委員會設計，提供系統化稽核機制以評估床邊AI工具的安全性、準確性與合規性。此框架涵蓋AI工具導入前的審查流程、上線後的持續監控，以及針對臨床決策支援系統的透明度要求，旨在幫助醫院領導層建立可追責、可解釋的AI治理架構。隨著醫療院所加速部署AI輔助診療工具，如何確保這些工具符合臨床標準、不危害病患安全，已成為院方管理層與資訊部門的共同挑戰。該框架的推出，代表醫療AI治理正從個別科室的自主管理，走向全院層級的制度化監管，對於正在建置或評估AI導入計畫的醫院具有重要的參考價值，也呼應了國際上對醫療AI問責制日益升高的要求。",
+      "tags": [
+        "AI治理",
+        "臨床決策支援",
+        "醫院管理",
+        "合規稽核"
+      ],
+      "author": "未標示（HIT Consultant｜2026-05-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnZkYlNuMWI4eGdoVEVyZEsybEpQb3ZaeDhoWDZZY0x6NVdZNk1ycEN6N1N5aVNkNWNBTXZSR2tzSC1QR09mNkFBU1VWTHRVNng3YUJ1Nk93QUNvNE5Ud0QxaGFYRE9FQkdFNmg5MGZ3NnNZWFl2Qm1WZTZlc3pSVmFsekF5Z2IxSUlxeFNn?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.2,
+      "title": "AI可穿戴裝置進入產後出血早期偵測試驗，婦產臨床應用再添新利器",
+      "summary": "美國路易斯安那州Woman's Hospital宣布啟動一項AI可穿戴裝置試驗計畫，目標是在產婦發生產後大出血（postpartum hemorrhage）的早期階段即時發出警示。產後出血是全球孕產婦死亡的首要原因之一，傳統監測往往在失血量已達警戒門檻後才反應。這款AI驅動的穿戴式裝置透過持續監測生理訊號並即時分析趨勢，嘗試提前識別出血風險，讓臨床團隊爭取更多黃金處置時間。此試驗代表AI技術在高風險產科情境的實際應用正從實驗室走向床邊，若結果驗證其效能，有望成為婦產科急性照護的標準輔助工具。對於設有產科部門的醫院而言，此類早期預警系統在降低孕產婦死亡率與提升照護品質方面具有高度臨床意義。",
+      "tags": [
+        "產後出血",
+        "可穿戴裝置",
+        "婦產科AI",
+        "患者安全"
+      ],
+      "author": "未標示（WAFB｜2026-05-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSXJIUHhCb2l1LXppaXVsSFdqSm9ic3Y0SEl2WENHWHpycFZxbk5IZVFMN0pUR1Q1TFVFUUhXbGZGZl9Mczd6YkdTenZRNU5yTVNqczZHV2FWNjBoX0dCVEg0eDljWDdCZHhqVy1vbm0wMWRlU005Ty1zSVRxbVNuX2l2RHBrQWlzczExeTIxTHREb09PVlRvaDE3NFdBN2Uza2pj?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "研究團隊合作開發心臟MRI AI判讀系統，提升心血管影像自動化診斷能力",
+      "summary": "多個研究機構攜手合作，致力開發一套能自動判讀心臟核磁共振（Cardiac MRI）影像的AI系統。心臟MRI是評估心室功能、心肌病變及結構性心臟病的重要工具，但其判讀高度依賴具豐富經驗的心臟影像科醫師，在人力資源有限的醫療場域形成瓶頸。此AI系統的開發目標包括自動分割心臟結構、量化左右心室功能指標，以及標記潛在異常區域，以輔助臨床醫師做出更快速且一致的診斷。心臟AI影像分析若能通過臨床驗證並廣泛應用，將有助於縮短心臟病患的診斷等待時間，並在基層醫療或資源較少的地區提供更平等的診斷能力。對於心臟科、放射科及資訊部門而言，此一發展值得密切關注，以評估未來導入的可行性。",
+      "tags": [
+        "心臟影像AI",
+        "MRI判讀",
+        "心血管診斷",
+        "醫學影像"
+      ],
+      "author": "未標示（Imaging Technology News｜2026-05-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObU5FN3FmU1dubHZYQnNrUkRMT3o5azlFbmJLeGFveHF6Y18xcmtsZVpjaTBhZWVCRjJXVmZWMTZlMmd2SXRzREZhMkJyWjBPckJRMk5TOEFfV2VVSDgzYVJxOGlOV292ZUZybzNxc1R6aUZJRlNIc0ZkOS1IUXJfcWZ1dUQ3RVhEemxCOW5SN1FOdnNfaTR6TWJmdmhLcm9GNTlTSEs1Q015ZFJu?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.8,
+      "title": "Radin Health與AZmed合作強化放射科工作流程，AI影像輔助診斷整合加速",
+      "summary": "影像醫療科技公司Radin Health宣布與法國AI放射科新創AZmed達成合作協議，雙方將整合各自平台，共同優化放射科工作流程。AZmed以其骨折偵測AI工具聞名，能在X光影像中快速標記可疑病灶；Radin Health則專注於放射科影像管理與流程調度平台。兩者的結合旨在讓AI輔助診斷工具無縫嵌入既有的影像判讀流程，減少漏診風險並提升放射科醫師的工作效率。此合作反映出醫療AI產業「平台整合」的趨勢——單一功能AI工具透過與流程管理系統結合，才能真正在臨床環境中落地發揮價值。對於正在評估或已部署放射科AI的醫療機構，此案例提供了實際的整合路徑參考，也再次凸顯了互操作性（interoperability）在醫療AI推廣中的關鍵地位。",
+      "tags": [
+        "放射科AI",
+        "影像工作流程",
+        "AI整合",
+        "骨折偵測"
+      ],
+      "author": "未標示（Imaging Technology News｜2026-05-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZTJlOXBoUUVOUEZEbG5CN084Mmx6QkZ4OGVteUZDWlpWVGVOVk9tWnR3Z0FTeGNMb2MzX0Q4MXNxdHVMQlpEeGNNOTV1eERkQnlKRTZkaFBaLTkwUnZvaXR2dFpkdnFxUTEzRVJ1MndrTENvS21td0hWQjJUS21KZmg3SzFJVEtuemh1Wg?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "川普政府擬鬆綁醫療AI監管，醫界警告恐引發病患安全隱患",
+      "summary": "據報導，川普政府正研擬放寬對醫療AI工具的監管框架，包括可能調整FDA對AI輔助診斷軟體的審查要求，以加速AI產品進入市場。支持者認為此舉有助於推動醫療創新、降低新產品進入臨床的門檻；然而，醫界與患者安全倡議團體對此表達強烈憂慮，指出若缺乏嚴謹的臨床驗證與上市後監測機制，AI工具可能在尚未充分驗證的情況下被廣泛使用，進而危及患者安全。此政策辯論凸顯了醫療AI監管的核心矛盾：如何在鼓勵創新與確保安全之間取得平衡。對於亞洲醫療體系而言，美國監管方向的轉變往往具有指標性意義，值得持續關注其對全球醫療AI政策走向的影響。",
+      "tags": [
+        "AI監管",
+        "FDA政策",
+        "患者安全",
+        "醫療AI法規"
+      ],
+      "author": "未標示（Yahoo股市｜2026-05-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNdld4R21JWDZseGhUYmhiSTdSOV9LdzFJX1RycjcwTXNHSnozU3lBSGJ5NlFCZGt6SkVnaUc2dkFoXzVfY2JJTFFtcUh5aHdlVjZURGtOQ3ZEbzVRNVZnZmYzQXV2a05aSExGZ2VNcHdUVWlSVHV6YzBodEFCRGFpSW1mMHNkWWxVczVmeGt3XzRqT1BFRFgwNHZxU1dFOTM3LW0wR3YtZzNPTFRUbW8ySnNCcGNOTFJzUTl3UHZuZmFkWFBwUmhPRDJzTElENE5tWHNYZGxEQ3M1NUVYSnZKYzQwb3BxZ3BHNFJFSjc3cWJjLXc2XzhuTm9WbUM1TG9RT1pjZV9xbnRQUzNLcHZydUh3MHZlWldNM01ISG0zeG9sM3lwUVFWQUZJdzR4NGw0RTJBUFZ6Tl9ySDU0UWpfSzVsa2c3Uk9paFBfYlJOQS1CTm14S2JrRTJidldaYVhJQndybnFTclViTVpMeWZYV0prRE5wb3pBcFBsOUlyd052QQ?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.3,
+      "title": "台灣三軍總醫院AI心電圖前進離島，智慧醫療縮短城鄉診斷落差",
+      "summary": "三軍總醫院在創院80週年之際，積極推動智慧醫療向基層與離島地區延伸，其中AI心電圖判讀系統的離島部署尤受矚目。透過AI輔助分析，當地醫護人員即便缺乏心臟科專科醫師，也能在第一時間獲得初步判讀結果，大幅縮短疑似心臟疾病患者的診斷與轉診時間。院長蔡宜廷表示，軍醫院肩負國防醫療與偏鄉照護的雙重使命，AI技術的導入正是實踐這項使命的關鍵路徑。此案例呈現了醫療AI在解決城鄉醫療資源不均問題上的實際效益，也為其他致力於偏鄉醫療服務的醫院提供了可借鑑的模式。對於台灣智慧醫療發展而言，這是一個結合技術應用與社會使命的代表性範例。",
+      "tags": [
+        "AI心電圖",
+        "離島醫療",
+        "智慧醫療台灣",
+        "城鄉醫療平等"
+      ],
+      "author": "未標示（元氣網｜2026-05-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OZ3FTSFZEejJILU0yaXI3dnFHbXJvS2xEMVA1RUx1S0paUF90SUlFQVZqNTFkZEcxTTA0dFJFS3RrWXl3bzM1VEFISWY2LTFPVm5SdWJ5Y29MdFFOcS1n0gFkQVVfeXFMUGNHMHFmUE5QMUVlUV9sY2lhM3lGMlU2blFtUlhEck5zX004UzVSYkdHX2FUbG5vejJ2UGJMcng0YWgwMm5xLVJCMUc3cFhBZUlIUVFoTnpaTnhfMFE3OUYwcmtCZw?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "Innovaccer以6,600萬美元收購CaduceusHealth，加速建構自主式醫療收益循環管理平台",
+      "summary": "醫療AI獨角獸Innovaccer宣布以約6,600萬美元收購CaduceusHealth，透過整合後者的核心能力，強化其「自主式收益循環管理（Agentic RCM）」平台。醫療收益循環管理涉及保險申報、給付核定及費用回收等複雜流程，拒付率居高不下已讓許多美國醫療機構每年損失數十億美元。Innovaccer表示，此次收購將使其AI代理人（AI agents）能更完整地自動化處理申報錯誤偵測、拒付原因分析及重新申報等工作，顯著降低人工介入需求。此案例呈現了醫療AI從純臨床應用向醫院營運後台延伸的趨勢，對於面臨健保給付壓力、尋求行政效率優化的醫療機構具有參考意義，也反映了AI代理人（Agentic AI）技術在醫療行政流程自動化領域的加速佈局。",
+      "tags": [
+        "收益循環管理",
+        "醫療AI收購",
+        "Agentic AI",
+        "醫院營運"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-22）",
+      "source_url": "https://www.healthcareitnews.com/news/innovaccer-acquires-caduceushealth-eye-toward-autonomous-rcm"
+    },
+    {
+      "rank": 8,
+      "score": 6.8,
+      "title": "Tempus推出AI驅動前列腺癌預後數位檢測，鎖定轉移性患者精準分層",
+      "summary": "美國精準醫療公司Tempus正式發布一款以AI驅動的前列腺癌預後數位檢測工具，專為轉移性前列腺癌患者設計。該工具透過分析腫瘤組織的基因體與病理影像資料，結合AI模型預測患者的預後風險分層，協助腫瘤科醫師制定更個人化的治療策略，例如決定是否加強全身性治療或調整監測頻率。前列腺癌是男性最常見的惡性腫瘤之一，轉移性階段的治療決策複雜，精準的預後預測工具有助於避免過度或不足治療。此工具的推出呼應了數位病理與AI在腫瘤精準醫療中日益重要的地位，也顯示AI輔助檢測正從影像判讀擴展至多模態生物標記整合分析，為臨床腫瘤科帶來新的決策輔助工具。",
+      "tags": [
+        "前列腺癌",
+        "AI預後",
+        "精準醫療",
+        "數位病理"
+      ],
+      "author": "未標示（Clinical Lab Products｜2026-05-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZFlfRTJxMzQxZWpXUHhsTkdCRjJHSmVzZXJyNHlqNHhCeTFaWno2cjN4LTR2SUQ1TTFST3B0MjhESkNoUHloeHV4QnZqTjZPR0owNmtNVFB5WkRydEZoNEYxZlJBWFQxblF4cWpVcWdvZlk1dGVxZk51QkxndWktZUtzVXl2bDdTY1lqa3ZZUmtfbFA4bjlsN0lBRVVENWhZOHFSSC1oTQ?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "宏碁智醫擴大AI醫療落地，攜手新光醫院推中風預防管理解決方案",
+      "summary": "台灣宏碁智醫（股票代號6857）宣布深化與新光醫院的智慧醫療合作，推出以AI為核心的中風預防管理應用。此合作涵蓋AI輔助心房顫動偵測、高風險族群的自動化篩查以及個案管理系統整合，旨在透過早期識別中風高風險患者，降低腦中風發生率及其帶來的長期照護負擔。中風是台灣重要的致死與致殘原因，預防性照護的AI化被視為降低醫療負擔的關鍵策略之一。宏碁智醫此舉顯示台灣本土醫療AI新創正加速從醫院內部系統向跨科整合的慢性病管理平台演進，同時也反映台灣醫療AI產業在本地落地應用上的持續成熟，對關注智慧醫療在慢性病預防領域應用的醫院管理層具有參考價值。",
+      "tags": [
+        "中風預防",
+        "AI醫療台灣",
+        "心房顫動偵測",
+        "慢性病管理"
+      ],
+      "author": "未標示（環球生技月刊｜2026-05-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11cG9wSmdUcExWejFUUVBlZkZRS0tBdkJfMXJRYWNLTjBaaUswMEszT2VTdTIyY3lyU01BbjVZRXUzZDlBX1Z5WlVsSExEdmdpeENzN3FjS21xS2J0TkRsNFZDTWZfRTA?oc=5"
+    }
+  ]
+}
