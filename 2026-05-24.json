@@ -1,0 +1,87 @@
+{
+  "date": "2026年05月24日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "AI工具縮短聖瑪麗醫院急診室滯留時間，研究成果引發臨床關注",
+      "summary": "一項針對美國聖瑪麗醫院（Saint Marys）急診室的研究發現，導入AI輔助工具後，患者在急診室的等待與滯留時間顯著縮短。急診壅塞是全球醫院普遍面臨的挑戰，影響患者安全與照護品質。此研究結果顯示，AI工具能協助醫護人員更快速進行分流決策、優化床位調配流程，進而提升急診室整體運作效率。對於同樣面臨急診容量壓力的醫院而言，此類實證研究具有重要的參考價值，亦為AI技術從理論走向臨床落地提供了具體佐證。研究細節刊載於Post Bulletin，是近期少數以真實急診環境為場景、有量化成效的AI應用案例，值得醫療領導層與急診科主任深入評估其可複製性與導入可行性。",
+      "tags": [
+        "急診醫療",
+        "AI臨床應用",
+        "流程優化"
+      ],
+      "author": "未標示（Post Bulletin｜2026-05-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdWtNejBsdDlnd2xDWXBuclBXdlBhd04yTGdMdXYyZjhBNE5ZR0VxVHJQcDlVc29pZU5vWXhyZWRTTWh1SDhkVVhtVmZvNlp4SHQ5YjN6Y0xUdjNIM0lNaGVqYTZ3bDEzZy15QjZFZVZmM0dicmczeS1NN0hHVDloN3NfUTNTN1B4WnFlc3NzZXRtMHVuM1YxbmwyV1hWd2NEV2NORXUzenZFRjg4dU51N0J4eWxZM1lONWNJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "AI進攻兒科前線：CHOC兒童醫院推動智慧工具扭轉電子病歷沉重負擔",
+      "summary": "加州奧蘭治縣兒童醫院（CHOC Children's，隸屬Rady兒童健康體系）的Dr. Steven Martel指出，多年來醫院在電子病歷系統上投入大量資源，卻反而使臨床醫師陷入資訊過載與行政負擔的困境。他認為新一波AI工具有望逆轉這一趨勢，讓技術真正回歸輔助臨床的本質。兒科環境因患者族群特殊、家長溝通需求高，對工作流程效率要求更為嚴苛。此報導呈現了AI在兒科醫療情境中的實際應用潛力，包括自動化文件處理、臨床決策支援等面向，並強調AI應以減輕醫師負擔為核心目標。對於正在評估AI導入策略的醫院資訊部門與各科主任，此案例提供了兒科場域的實務洞察，具跨科別的參考意義。",
+      "tags": [
+        "兒科醫療",
+        "AI臨床應用",
+        "電子病歷",
+        "工作流程"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-23）",
+      "source_url": "https://www.healthcareitnews.com/news/ais-promise-meets-pediatric-frontline"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "放射科AI監管週報：FDA 5月17日至22日核准動態一次掌握",
+      "summary": "Diagnostic Imaging彙整了2026年5月17日至22日間FDA針對放射科相關AI產品的最新審查與核准動態。放射科是醫療AI應用最密集的領域之一，FDA對此類產品的監管節奏直接影響醫院設備採購決策與臨床導入時程。此週期內的FDA新聞整理，涵蓋影像分析軟體、AI輔助診斷工具等多類產品的法規進展，為醫院影像科主任及資訊採購團隊提供即時的合規參考依據。隨著AI放射科工具持續增加，定期追蹤FDA動態已成為醫院落實AI治理的重要環節。此類週報式彙整有助於決策者在繁雜的監管資訊中快速掌握關鍵變化，是醫療AI監管透明度的重要體現。",
+      "tags": [
+        "放射科AI",
+        "FDA監管",
+        "醫療影像",
+        "法規動態"
+      ],
+      "author": "未標示（Diagnostic Imaging｜2026-05-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOU5MZTBFUkxiVDZJTWl5NDlzczZoY2ZyVW56NWJmWWw1ZEdIQ1ZNWXU2enFUOTF4aGZ3LXRnNExsQ1VtRUxqc1k0NWFPZDE5dzhHWC1lVHRBQy05VVZ3cEpTZnNEb1h1bEcyMm0weWRXRzBaLVlLLThmVGFZTFJCS2pnR1JhQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "COMPUTEX 2026：中美萬泰三連霸Best Choice Award，醫療電腦聚焦AI運算與永續設計",
+      "summary": "在COMPUTEX 2026展覽中，台灣醫療電腦廠商中美萬泰連續第三年榮獲Best Choice Award，其醫療專用電腦產品以強化AI運算能力與永續設計為核心亮點。隨著醫院端對AI推論運算需求大幅提升，醫療級硬體的效能、安全認證與能源效率正成為採購評估的關鍵指標。中美萬泰此次獲獎顯示台灣在醫療硬體領域持續深耕AI整合，其產品定位兼顧臨床環境的特殊需求（如防水、易消毒、長效支援）與高效AI運算。對於正在規劃智慧病房、AI影像工作站或臨床端AI部署的醫療機構，本屆COMPUTEX的醫療電腦發展趨勢具有硬體選型的參考價值，亦反映台灣醫療科技產業在國際舞台的競爭力。",
+      "tags": [
+        "醫療硬體",
+        "AI運算",
+        "台灣醫療科技",
+        "COMPUTEX"
+      ],
+      "author": "未標示（三嘻行動哇 Yipee!｜2026-05-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNU1BsTnJ0RkIyckxFb0JFRl9iUUpWOHY1UFZvMFNsdVpkRDBoZkpwZlgzZ2dmRGdsRXJNN1M5LWhvc2R1N0VyYi1HLVpqSFM5S1RPakNpZGFUeVRKdlZjNjhrQ2ZubzgzODMtbVBfNVV3ZGFLaVZFOFBGdmhFbVFXOGlUZlNTMkVZWDJpZFlMWmVSTkVKYzRTRWItX3ZOa25ybmVtTHlURmJKODJOLWxTS0plUkhGeE5iMjdkZFdzV1VOd1ltVTRXMTVteWVHX0RNVnNXbDJaY09NbWg4eFpwNzBqVnFxMV9uTFpLcFpoaTFVMXVpblJtanNmSzdYQW15M2VaNlRKTjM5RUFkMkZpVlFORzBGTTczOXNqbzVtSmM0MkY4aHNxS0d5Z3UxTnFHSC1XWlplV3JpVjlocnFBQnBFanRKMHM2?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "AI重塑全球醫療體系：台灣積極推動與土耳其深化AI醫療合作",
+      "summary": "台灣國際廣播電台（RTI）報導，台灣醫界人士黃志揚近期投書，呼籲土耳其與台灣在AI醫療領域深化雙邊合作。文章指出，AI技術正從根本上重塑全球醫療體系的運作模式，涵蓋診斷輔助、病患管理、醫療影像分析等多個面向。台灣在醫療AI的研發與臨床應用上累積了相當的實力，包括健保資料庫的AI應用與多個醫院的AI落地成果，具備向國際輸出合作模式的基礎。此次投書反映台灣醫療AI的國際能見度逐步提升，以及政府與醫界積極拓展海外合作的戰略意圖。對於醫院領導層而言，此動態代表台灣醫療AI正從本土深耕走向國際連結，具有拓展跨國研究與技術交流的潛在機會。",
+      "tags": [
+        "台灣醫療AI",
+        "國際合作",
+        "AI政策"
+      ],
+      "author": "未標示（rti.org.tw｜2026-05-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qVG5NSXRUaWFCdVlkektlMTBDUDUydElrU1g5NjZvQVJaYXBkdFlfRW1OVjVKcFFxUVJyTlRQbTB3ZDlkaTJkQ3VHOE1ZZFoyOHduTmhyUQ?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "川崎重工業矽谷設立實體AI中心，攜手NVIDIA與Microsoft加速醫療AI應用",
+      "summary": "日本川崎重工業宣布在矽谷設立實體AI研究中心，並與NVIDIA及Microsoft展開策略合作，重點加速醫療領域的AI應用開發。此舉顯示傳統製造業巨頭正積極跨界布局醫療AI，利用NVIDIA的GPU運算基礎設施與Microsoft Azure的雲端平台，推進醫療器械智慧化與臨床AI解決方案。矽谷設點亦代表川崎重工業希望借助矽谷生態系的創新資源，加速與醫療新創及學研機構的合作。對於醫療產業而言，此類跨產業巨頭的入局將帶來更多元的AI技術來源，也可能重塑現有的醫療AI供應鏈格局。台灣醫療機構可藉此觀察日本製造業在醫療AI的戰略佈局，評估未來合作或採購的可能性。",
+      "tags": [
+        "醫療AI產業",
+        "跨業合作",
+        "NVIDIA",
+        "Microsoft"
+      ],
+      "author": "未標示（Yahoo股市｜2026-05-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOelNPU0czcV9xWnMxd0ZORXNtZUxyX3JOcFQybWs4NFl3YWxXbGxfTG5DY28welI3T3REVVloa19penZJYXlGWVNTT3hxcWhDbXZRZTE1S3h0YzZxMGtCREFpcWJsVGFpbHNaczRfTmFRczh5U0hfbTFtUXZIUldTREdJdzZsMl90ektIdzd5UDh2OUNYa192N3NCamc2blJ0Z0pOY0g1b05wUEpjWUx2SnRPNHg0OTRCZUFJVldyajJYM1dVaHR1Ny1IOGFrZTRwUWdHT09Wd0NGWG1NQnItQWp5aDQyVTZ0RUdpUWhiZHBHb1Q3cFZnWEJpTXh3Q3lZQ1lrSHFkMFBLVnNvRHZKZW9meWFKWWR0b2VwNjRZN2thdHVhRkVTZkhJdlpZUTJ5Wlk4LVNwUGZ1aXRBalMwMy1qYl9GNno5X1JCSW96dW1MbkdOVWRQaEdrMFdpa1RnYnh3SFNYOTBIT0xQaWRacFl5OTNqSkM0RFM3Z3NQYw?oc=5"
+    }
+  ]
+}
