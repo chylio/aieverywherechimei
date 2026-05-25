@@ -1,0 +1,89 @@
+{
+  "date": "2026年05月25日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "假疾病測試揭露醫療AI致命盲點：光有光鮮介面不夠，臨床驗證才是關鍵",
+      "summary": "一項以虛構疾病為測試情境的實驗顯示，部分醫療AI系統在面對從未存在的病症時，仍能生成看似合理的診斷建議，暴露出當前AI工具缺乏嚴謹臨床驗證的根本問題。文章指出，醫療AI產品過於強調使用者介面的精緻度與流暢體驗，卻忽略了最核心的臨床證據基礎。作者呼籲，醫療AI的開發與採購決策應回歸實證醫學標準，要求廠商提供嚴格的臨床試驗數據、錯誤率分析及外部驗證結果，而非僅憑展示成效或使用者滿意度作為評估依據。此議題對醫院在評估、引進AI輔助診斷工具時具有直接的參考意義，呼應了近期監管機構與學術界對醫療AI「可信賴性」的持續關注。",
+      "tags": [
+        "臨床驗證",
+        "AI安全性",
+        "醫療AI監管",
+        "診斷輔助"
+      ],
+      "author": "未標示（Startup Fortune｜2026-05-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNml2a2o0c1o4Y1V0eWl0U2tTVWtXZ250eXBjZ1QydWxWYnBWWlFGSF95T21FT0Q5VjI4U1NZOUNyZ1hKaEhyMEZkbF9UMW9ZVEFuY2ktMjFwdzVZVExfZVpHeVdDTExoRU1BVkNYQkVsUEc3UmpMY2lpV0pqX1p3LXdGMGdvRThHYjB0eEtkWQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "KAIST聯手江南世福蘭斯醫院，以AI輔助精神科初診訪談提升效率",
+      "summary": "韓國科學技術院（KAIST）與首爾江南世福蘭斯醫院合作開發AI輔助系統，專門應用於精神科初診訪談流程。該系統透過自然語言處理技術，在患者候診或初步接觸階段自動收集症狀史、情緒狀態及相關背景資訊，並將結構化摘要提供給精神科醫師，以縮短訪談準備時間、提升問診品質。研究團隊表示，初步測試結果顯示AI輔助訪談可有效減少醫師重複詢問基本資料的時間，並有助於識別高風險患者的早期訊號。此應用在精神科資源相對稀缺的醫療環境中具有重要意義，也為AI輔助心理健康評估提供了新的臨床實踐案例，對推動精神科數位化轉型具有參考價值。",
+      "tags": [
+        "精神科AI",
+        "臨床訪談",
+        "自然語言處理",
+        "數位醫療"
+      ],
+      "author": "未標示（The Korea Times｜2026-05-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGdCWFZhOU9xTjE1akdUNFNXNmxseUdJdTVmdmJWOVBJOVhqZnpUYUszNVNKUlBIV29sUWQ5TUV3TXBBR3BWMGlGUEVZbjhjbVZnNGtIYm9PSnlYZkRaOXRaQlhpOXAta2RpNTI1b21iMzN4OGhlT0tHMlRfem9yT0hLLTNqSTVTbUJKZEp4S2tNVGlsR0NZVFJORWl5OWlNRHAyWGlVMHpJeGFxWHI1ZEJxa2FiUkg1S2hUMVRLU3ZTQk3SAcgBQVVfeXFMT3NqNlZZYS1OeGRaOXIxbXZrZVlMNHB5OXYxU24zcklxU25MNm50VWVMQXk3Tl81RmN6X0FIRjdxc3JhRmxTSmxYWnlRdzdwUWZaYS1wU005N2lqY19Yd3Y2MlV2M1U5TVpzejVHMWoxc29tQVBlOHk1TkNlV2tReWJaVWYxS29IdldOcHQyLWJTa09TMm5IZDRQMEJNMXlVUXd1SFJsX2hZTkJWY0E3bmRONEpmWDRuT1BwTXptYk83UFhIZUxEZ0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "AI介入放射介入治療程序內效率：術中輔助能否成為下一個突破點？",
+      "summary": "Diagnostic Imaging 刊載深度分析，探討AI技術在介入放射科（Interventional Radiology）術中流程的潛在應用價值。文章指出，目前AI在放射科的應用多集中於影像判讀與報告生成，而術中即時輔助——包括導管路徑規劃、術中影像即時分析、器械定位確認及即時風險警示——仍屬發展初期。部分研究團隊已在血管攝影及神經介入治療中驗證AI輔助的可行性，初步數據顯示可縮短手術時間並降低輻射暴露。文章同時點出主要障礙，包括術中數據串流延遲、模型在真實手術環境的泛化能力，以及與現有設備整合的技術挑戰。對具有介入放射科的醫療機構而言，此為值得追蹤的前瞻應用方向。",
+      "tags": [
+        "介入放射科",
+        "術中AI",
+        "影像輔助",
+        "臨床效率"
+      ],
+      "author": "未標示（diagnosticimaging.com｜2026-05-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGk3N0NTNFpQdjVrZ0NRZ2NrRm93M3JkNFgwYWJfYUhtTGhUS1E0UGZxRGhpaTZGSko2cTVzdndSM01YaUFXWnBMV2oxUEFJWVh2eFV3YTRENHMxSjdIUHJ5U0tVbXdVa0h3UFNydHQ4X0tneXZrTkpYYllsTTYzMFdsc3BBQXNKMjExNXN1STNUWEVTeUpnODVXT1BtODJrNjJnSWluOFdybXRVbmd3?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "AI成為醫療新入口卻將弱勢患者拒於門外：可近用性設計不能是選項",
+      "summary": "MedCity News 刊載評論指出，隨著AI聊天機器人與智慧問診工具成為患者接觸醫療資訊的主要途徑，數位落差問題正在被系統性地放大。文章分析，現有醫療AI工具多以英語為主要語言、預設使用者具備高數位素養，且介面設計未充分考量視覺障礙、認知障礙或低識字率族群的需求。對於本已面臨醫療近用障礙的弱勢族群而言，AI非但未能降低門檻，反而可能形成新的排除機制。作者強調，可近用性設計必須從產品開發初期納入核心考量，而非事後補救，並呼籲醫院與AI廠商合作時，將無障礙設計列為採購合約的必要條件。此議題對醫院評估AI患者服務工具時具有重要的政策與倫理參考價值。",
+      "tags": [
+        "醫療可近用性",
+        "數位落差",
+        "AI倫理",
+        "患者服務"
+      ],
+      "author": "未標示（MedCity News｜2026-05-24）",
+      "source_url": "https://medcitynews.com/2026/05/ai-is-becoming-the-front-door-to-healthcare-but-millions-of-patients-cant-get-through-it/"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "診斷學即醫療智慧核心層：AI將使其成為全球醫療體系無法忽視的關鍵",
+      "summary": "HLTH 平台發布分析文章，主張診斷醫學（Diagnostics）是整個醫療體系智慧化的核心基礎設施，而AI技術的快速進步正使其重要性躍升至新高度。文章指出，從基因組學到影像判讀、從血液生物標記到病理切片分析，AI正在重塑診斷工作的速度、精準度與可擴展性。作者認為，過去診斷長期被視為醫療流程中的「幕後」環節，但AI驅動的診斷工具已開始直接影響治療決策、住院時間與預後管理，使其成為醫院競爭力的核心差異化因素。文章也指出，未能及早投資AI診斷能量的醫療機構，將在精準醫療時代面臨明顯的競爭劣勢。此觀點對醫院數位轉型策略的優先順序設定具有宏觀參考意義。",
+      "tags": [
+        "診斷AI",
+        "精準醫療",
+        "數位轉型",
+        "醫療競爭力"
+      ],
+      "author": "未標示（HLTH｜2026-05-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkl2YnpvMDFkQ2lMZk5ZMzJscUJ1TzVpbnF6QTBzd3dQeE9aNEgtYzQ3RWxBSl91UVVxR2taM2trd1RkTjdsRHhpSS1ZLTdDYkNMeDJIUVdBQlRYdTA2LXRENzJTdElqM0RVN2l4ZTRIdU9sTEFwUlpLeXlWbGxTSGVOaExrZVduNzlXdkJ1bzBFSkh1MFRsTkExSVAwckV1Zl82QVpyTlNsQUQzdl9CdER0RUI3NHdWWUdoN0NSX3pFYXJyTDZJa1BR?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 5.5,
+      "title": "AI讓醫療更聰明之後，下一步是讓醫療更簡單：整合破碎資訊的新挑戰",
+      "summary": "MedCity News 評論指出，AI雖已大幅提升醫療資訊的處理與分析能力，但對患者而言，醫療體系的複雜度非但未因此降低，反而因資訊碎片化而更加難以駕馭。文章以新確診患者為例，說明其需同時面對多位醫師、藥局、保險公司、給付規則與事前授權等各自獨立運作的系統，而現有AI工具多僅解決單一環節，缺乏整合性的患者旅程視角。作者主張，下一階段的醫療AI應以「簡化」為核心設計理念，協助患者統整跨系統資訊、理解照護計畫，並主動引導其完成必要的醫療行動。此觀點對醫院規劃以患者為中心的AI整合策略具有方向性參考價值。",
+      "tags": [
+        "患者體驗",
+        "AI整合",
+        "照護協調",
+        "數位健康"
+      ],
+      "author": "未標示（MedCity News｜2026-05-24）",
+      "source_url": "https://medcitynews.com/2026/05/ai-made-healthcare-smarter-the-next-step-is-making-it-simpler/"
+    }
+  ]
+}
