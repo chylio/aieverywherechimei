@@ -1,0 +1,103 @@
+{
+  "date": "2026年05月26日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "首爾醫院與哈佛合作，以醫院模擬器取代靜態AI測試方法",
+      "summary": "首爾一家醫院與哈佛大學研究團隊合作，開發出以「醫院模擬器」取代傳統靜態測試的AI臨床驗證新方法。傳統靜態測試往往難以反映真實臨床環境的複雜性與動態變化，而模擬器能夠重現臨床工作流程、患者流量及突發情境，讓AI工具在部署前接受更接近現實的壓力測試。這項創新方法有望成為醫療AI上線前驗證的新標準，解決現行測試框架與真實臨床落差過大的核心問題。對於正積極導入AI工具的醫院而言，此方法提供了更嚴謹的品質把關機制，有助於降低上線後發生意外錯誤的風險，並提升醫護人員對AI輔助決策系統的信任度。此一研究方向對全球醫院IT與數位轉型團隊具有重要參考價值。",
+      "tags": [
+        "AI臨床驗證",
+        "醫院模擬器",
+        "醫療AI治理",
+        "患者安全"
+      ],
+      "author": "未標示（Healthcare Asia Magazine｜2026-05-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSm9VNEdKcEtmMWxyOERFQml5ZWVrRkc4eWJpN3NNOXZvdnZ5T1dLTllUcXpJWFV5MlZLVVp3RnppWnh3TElDcF9HalR1dk1hMGlEbEl5LVYtQ2YyREdERWhfVngzajcwdmNYdm5HZ1Jmek9rc1h5YWdpSGk3Rlp1ZjhzaHZQS01yWWdVOEY4UHYtSEtycFIzWWQya0tfWnBzTXRNbkp2MUpVeUw4TGR5RktuaEZxbThHN1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "韓國峨山醫療中心上線AI驅動私有知識搜尋系統，強化院內資訊安全",
+      "summary": "韓國最大醫院之一峨山醫療中心（Asan Medical Center）正式啟用基於私有網路的AI知識搜尋系統。該系統採完全離線、封閉網路架構運行，徹底與外部網際網路隔離，有效解決醫療資料外洩疑慮。院內IT團隊以本地端（on-premises）方式自行開發，確保敏感患者資料及醫療知識庫不流出院外。此舉不僅提升院內知識管理效率，更為醫療機構在導入生成式AI工具時如何兼顧資安合規樹立示範。隨著各國醫院積極探索AI應用，封閉式私有AI架構的實作經驗日益受到重視，峨山醫療中心的案例可作為同規模機構在資安敏感環境中部署AI工具的重要參考。",
+      "tags": [
+        "私有AI架構",
+        "醫療資訊安全",
+        "院內知識管理",
+        "數位轉型"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-26）",
+      "source_url": "https://www.healthcareitnews.com/news/asia/asan-medical-center-unveils-ai-powered-private-search-system"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "新加坡與不丹攜手開發農村胸部X光AI輔助診斷系統",
+      "summary": "新加坡SingHealth與不丹皇家大學資訊技術學院（GCIT）簽署兩年期合作備忘錄，共同開發AI輔助胸部X光判讀模型，目標支援不丹農村醫院的肺部疾病診斷能力。此合作計畫由新加坡衛生與通訊暨資訊部政務部長Rahayu Mahzam於政府主辦AI會議上正式宣布。在資源匱乏的偏遠地區，放射科醫師嚴重不足，AI輔助影像診斷被視為縮短城鄉醫療落差的重要手段。此案例也凸顯亞洲各國政府積極透過跨境合作推動醫療AI普及，並為低中收入國家或離島、偏鄉地區的醫療體系提供新的AI賦能路徑，對台灣推動離島及偏遠地區智慧醫療具有政策借鏡意義。",
+      "tags": [
+        "AI影像診斷",
+        "跨國合作",
+        "偏鄉醫療",
+        "胸部X光"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-26）",
+      "source_url": "https://www.healthcareitnews.com/news/asia/singapore-bhutan-partner-rural-chest-x-ray-ai"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "Grundium收購AI精準病理軟體商Visiopharm，打造端到端病理AI平台",
+      "summary": "芬蘭數位病理掃描儀製造商Grundium宣布收購丹麥AI精準病理軟體供應商Visiopharm，目標整合硬體掃描與AI分析軟體，建構完整的端到端AI精準病理學平台。Visiopharm長期深耕病理影像AI分析，其軟體已廣泛應用於腫瘤病理、生物標記定量等臨床及研究場景。此次收購象徵病理AI領域垂直整合趨勢加速，硬體廠商藉由併購軟體公司強化完整解決方案能力。繼Roche收購PathAI之後，病理AI並購潮持續，顯示數位病理診斷市場競爭白熱化。對醫院病理科而言，未來選擇病理AI系統時，軟硬體一體化整合方案將成主流選項，採購決策複雜度也將隨之提升。",
+      "tags": [
+        "數位病理",
+        "AI精準診斷",
+        "醫療AI併購",
+        "病理影像分析"
+      ],
+      "author": "未標示（EU-Startups｜2026-05-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQm5XcHAxT2xRODdFWnRFWk0xYXNfOUtPX19YM2pkb19rVFMxdGpQX3MtZld3U1NnbGVmcTE3MkJjYTFuNkp2akNIb3BNMnpnWTRKYVlkSFgwOVZpR0R4X0EyaTY2UmFzcTVIVUNMOEhHNUVXbEFUNnpfTmVGY1hnSHJ0dGpkM3A1X3BRN21yTlEzWm5IVEtRSFN0ZjdVS2E1MFVHLTNkSmhadEc3MlhmQ3VkcEJkS2lxNTFuRkhsWkFlM0JrSGJfYndTRF9pWDhxQUx4VA?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "Anthropic聯手比爾蓋茲基金會，投入2億美元推動全球AI醫療與教育",
+      "summary": "AI公司Anthropic宣布與比爾及梅琳達蓋茲基金會合作，共同投入2億美元，推動AI在醫療與教育領域的應用與普及。此合作聚焦於提升低收入國家和資源不足地區的醫療服務品質，以及強化健康教育相關的AI工具開發與部署。Anthropic以其Claude系列語言模型著稱，在醫療AI安全性與可信度方面有較多著墨，此次與大型慈善機構的結盟，標誌著AI廠商積極拓展公衛與全球健康場景。對醫療體系而言，此合作也可能加速針對臨床用途設計的AI工具在全球推廣，間接影響未來相關工具的可取得性與採用成本，值得持續關注。",
+      "tags": [
+        "AI醫療教育",
+        "全球健康",
+        "慈善科技合作",
+        "語言模型應用"
+      ],
+      "author": "未標示（蕃新聞｜2026-05-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4am9JQ0h4dUZZU3RhU2hnVG1XZEJFQ0NLVnRONkJ0TENBX1FReHQzUzcwX042TG91MlFHZXlXMVE1MUpSTEdxR1g1QXljRndjSFE?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "德國高度重視台灣AI與數位醫療經驗，衛福部石崇良出席交流",
+      "summary": "衛生福利部醫事司長石崇良出席相關論壇，表示德國方面對台灣在AI與數位醫療領域的發展經驗高度重視，雙方就醫療數位化、健保資料應用及AI輔助診斷等議題進行深度交流。石崇良以「德不孤，必有鄰」形容台德醫療合作關係，強調台灣在智慧醫療領域累積的實務成果已獲國際認可。此一外交互動顯示台灣醫療AI的國際能見度持續提升，也為後續台德在醫療資料標準、AI監管框架等層面的合作奠定基礎。對國內醫療機構而言，台灣醫療AI經驗的國際輸出，有助於推動相關標準接軌，並吸引更多國際資源與合作機會進入本土生態系。",
+      "tags": [
+        "台灣醫療AI",
+        "國際合作",
+        "數位醫療",
+        "健康政策"
+      ],
+      "author": "未標示（中央社 CNA｜2026-05-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TZkVnQXBIUDUxdDlfdnZFaEx5QmZRTHlqWkJRT2F3czFMN2pfU0VLa0NvemozRXdPRHBNcnk3TUszYW1UaS1QY1dlWE05dlZlWk9qQUVIS3FMRDR5UWtN?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 5.5,
+      "title": "AI助理協助穆爾西亞La Arrixaca醫院心臟病患者照護",
+      "summary": "西班牙穆爾西亞地區的La Arrixaca醫院導入AI助理系統，應用於心臟病患者的臨床照護支援。該系統協助醫護人員監測患者狀況、提供即時資訊查詢，並優化心臟科工作流程。AI助理在歐洲醫院的實際落地案例仍屬相對早期，此報導顯示歐洲各國醫療機構正逐步將AI工具融入心臟科日常照護，探索人機協作的可行模式。對於有意在心臟內外科引進AI輔助工具的醫院而言，此類歐洲實例提供了參考場景，說明AI助理在專科病房的應用路徑與可能帶來的效益，包括降低醫護負擔及提升病患照護連續性等面向。",
+      "tags": [
+        "AI臨床助理",
+        "心臟科",
+        "醫護輔助",
+        "歐洲醫療AI"
+      ],
+      "author": "未標示（Murcia Today｜2026-05-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXJ1NTBoUlBTbE1iVjlmblN2ZktrR0RGMEVYLWcyYXdXQTNfN05WWllGRnFPbTlKVUtkMGxIbVp0THc1dHFpSHFJUEQwRlRHWDczVUdkeWtJbWJSM0pRVVp0T0xtUEU3cFhla3BKTHZKYjZHOTdnRl9KbkdTcFNiWjQ1RmFMeHRIV2RKbXM1c0RNUUdJdkhON1dQMC11ODZRUmZNRFB6SHBGRmtkRWc?oc=5"
+    }
+  ]
+}
