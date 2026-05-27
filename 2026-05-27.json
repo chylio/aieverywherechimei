@@ -1,0 +1,131 @@
+{
+  "date": "2026年05月27日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "Roche收購PathAI，強化數位病理與AI診斷能力",
+      "summary": "全球體外診斷龍頭Roche宣布收購數位病理AI平台PathAI，此舉標誌著大型醫療企業加速整合人工智慧於病理診斷工作流程的戰略趨勢。PathAI專注於以深度學習技術輔助病理切片判讀，其平台可提升腫瘤分級、生物標記評估與臨床試驗病理分析的一致性與效率。Roche此次收購將PathAI的AI演算法與其龐大的診斷儀器及試劑生態系結合，預期可為醫院病理科提供更完整的端到端數位病理解決方案。對於推動精準醫療的醫療機構而言，此一整合意味著未來採購數位病理系統時，AI輔助判讀將成為標準配備而非選配功能，院方在評估病理科數位化轉型時須將AI治理與資料互通性納入規劃重點。",
+      "tags": [
+        "數位病理",
+        "AI診斷",
+        "企業併購",
+        "精準醫療"
+      ],
+      "author": "未標示（Clinical Lab Products｜2026-05-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPakFORnJzcXNieFJkWlF3aXJLUjVWMWM4cHlMSWZGOEpYbzBqQ214dGpPaXUxMG1NYUt0ZEVtbnNFd2trR3k3TmRfU1VxRVdVT3gxV3MtWGVscEJCTEdEWnlmNXdiZGtiT1RyTHctbjJxLVhaeFo1WmdxczNuT3FqOTNHODdkYjdGVDc5bkRfeGZld3J2WlZiTGFfS0s?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 9.0,
+      "title": "AI進入心臟停止急救照護：自動化輔助系統進入臨床研究階段",
+      "summary": "最新研究顯示，AI輔助系統已開始進入院外及院內心臟停止（cardiac arrest）的急救照護流程，包括自動偵測心律異常、即時指導心肺復甦術品質，以及預測患者存活機率等應用。相關研究團隊透過EurekAlert!發布成果，指出AI工具能在急救黃金時間內提供決策支援，有助於降低人為判斷延遲所帶來的風險。此類系統的臨床導入涉及急診科、加護病房與院前緊急醫療服務的協作，技術層面需整合心電監測設備與即時資料傳輸基礎設施。對於擁有急診與加護病房的醫療機構而言，此一發展提示AI輔助急救工具正從研究走向實際應用，具備高度的臨床部署潛力與迫切性。",
+      "tags": [
+        "急救醫療",
+        "心臟停止",
+        "臨床AI應用",
+        "加護病房"
+      ],
+      "author": "未標示（EurekAlert!｜2026-05-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXSzVPTDlDZGdXNUZDaHFCMnhqTm5tMzA4QWZGWFBlRmE1ZXQyTmZpSmRQVFdOZ3p1eWJmMHJSTkVJQ0JSWEZDS0lIbVNja0ttVUVhYVJXQlRpeWdP?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.8,
+      "title": "Myriad Genetics推出全球首款結合基因體與數位病理AI的攝護腺癌檢測",
+      "summary": "Myriad Genetics正式發布Prolaris® + AI，這是全球首款同時整合基因組學（genomics）與數位病理人工智慧的攝護腺癌風險分層檢測工具。該產品透過分析腫瘤基因表現特徵，並結合AI對病理切片影像的深度解讀，提供更精確的臨床預後評估，協助醫師決定患者是否適合積極監測（active surveillance）或需要立即介入治療。此一多模態AI整合策略突破傳統單一生物標記檢測的侷限，代表攝護腺癌精準診斷進入新世代。對泌尿科及病理科而言，此類結合多來源數據的AI工具將改變臨床決策流程，同時對醫院資訊系統的資料整合能力提出更高要求。",
+      "tags": [
+        "攝護腺癌",
+        "基因體學",
+        "數位病理AI",
+        "精準醫療"
+      ],
+      "author": "未標示（Yahoo Finance UK｜2026-05-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFdiZGxRNW56SVhVeThSTzg1ZmdWVXh2Mk5vYUdPbmpNQmJ5Qy1TekNKNXJFOGV2S180N3MyZFN0VFZLcnl6NkNEZzlyU1lsSzN0bmtaYW1YT0poTmF6X2ZtazFOZXZnTzd2RWxPVWpEckN4bENoWFlaTWtqZ1RlcTB4eEZiZ25pQzl6a0FB?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.5,
+      "title": "AI多模態策略提升早期乳癌風險分層準確度",
+      "summary": "歐洲腫瘤醫學學會（ESMO）會議報告指出，以AI驅動的多模態分析策略能顯著改善早期乳癌患者的風險分層精確度。該研究結合影像學、基因組學與臨床病歷等多元數據來源，透過AI演算法進行整合分析，與傳統單一影像或生物標記評估相比，在預測復發風險與指導輔助療法選擇方面展現更優異的效能。此項研究成果對腫瘤科、放射科與病理科跨科室協作模式具有重要啟示，亦凸顯多模態AI在個別化治療決策中的核心價值。隨著乳癌精準治療需求持續上升，如何在院內建立支持多模態AI運行的數據基礎設施，將成為醫療機構數位轉型的關鍵議題。",
+      "tags": [
+        "乳癌",
+        "多模態AI",
+        "風險分層",
+        "腫瘤醫學"
+      ],
+      "author": "未標示（ESMO Daily Reporter｜2026-05-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORDctTlRRU3dvRTFzZkZ3ZkliTXRoVTFEZjI0ZXZXbWs5a010Ui1XYUpqZnpyNUJaWXdTUU1xRG55RS15Y0VPc0Y0QURaU3RWOURYdURuQ0p6YTcyUmJqOUYtaVJwWFQ1REZZTVNnSDRZcmdkRTllUWVrUXVJNmlEYlJIcE5IclptT3hUZTlKTll5ZDZfNFNyMktxbE5TUUZjTzY1eEc1aFhZcHhVTWJYY3N4dTZSd1cxVW5SRzV2ejVfRENZNzB3dDMtWHhCTktQa3N4Nlk3ZjU3SFBCVmhLNUpR?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 8.3,
+      "title": "放射科AI採用須正視經濟現實：RSNA呼籲業界理性評估投資效益",
+      "summary": "北美放射學會（RSNA）發表聲明，呼籲醫療機構在採購放射科AI工具時應正視經濟現實，避免因技術炒作而忽略實際成本效益分析。聲明指出，目前許多AI影像輔助診斷產品的採購與維護費用偏高，而其在日常臨床工作流程中的真實績效提升幅度尚未獲得充分驗證。RSNA建議放射科主任與醫院採購委員會在評估AI工具時，應要求廠商提供真實世界績效數據、明確的工作流程整合方案及可量化的投資回報指標，而非僅依賴學術研究或行銷宣傳材料作為決策依據。此聲明對於正在規劃或已推動放射科AI導入的醫療機構具有重要的政策參考價值。",
+      "tags": [
+        "放射科AI",
+        "採購治理",
+        "臨床效益",
+        "RSNA"
+      ],
+      "author": "未標示（RSNA｜2026-05-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nMmZLS0NLZ2FXbHFWdmlMeXFFemlNNm95WGhVS0JTWk8wbnNRbXdxWU9hRzV4aWRFLVZDN0VtYkExdHRRYm5VRnM3dDNKc2VvQkU0MGVzZW8zVUpKdHY1Zm5XOFhoRG5GU3FLdEFZSkFMdDgt?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 8.0,
+      "title": "IHH Healthcare將AI全面嵌入醫院工作流程，亞太醫療AI規模化進程加速",
+      "summary": "亞太最大私立醫療集團之一IHH Healthcare透過Healthcare IT News揭露其AI整合策略，說明集團旗下各醫院正系統性地將AI工具嵌入行政作業與臨床工作流程，重點涵蓋減少文書負擔、強化排程效率及支援臨床決策等面向。IHH表示，AI採用已從試點階段進入規模化落地，並持續評估更進階的臨床應用，包括影像判讀輔助與預測性分析。此案例作為亞太地區大型醫療集團的實踐範本，顯示AI整合不再僅是技術部門課題，而是涉及整體組織流程再造的院級策略決策。對於同樣位處亞太、推動數位轉型的醫療機構而言，IHH的規模化經驗提供了具參考價值的實務借鑑。",
+      "tags": [
+        "醫院AI整合",
+        "亞太醫療",
+        "工作流程優化",
+        "數位轉型"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-27）",
+      "source_url": "https://www.healthcareitnews.com/news/asia/ihh-healthcare-embeds-ai-workflows-adoption-scales-across-hospitals"
+    },
+    {
+      "rank": 7,
+      "score": 7.8,
+      "title": "AI治理缺失將動搖醫病信任：醫療AI推行必須內建監管機制",
+      "summary": "MedCity News發表分析指出，醫療AI的信任危機根源在於治理機制的缺位。文章強調，若醫師或患者因某一AI工具出現錯誤或不當建議而產生負面經驗，其對後續所有AI工具的接受意願將大幅降低，形成難以逆轉的信任赤字。作者呼籲每一個推行AI工具的醫療提供者，必須在開發與部署過程中主動建立治理架構，包括明確的問責機制、持續的效能監控、異常事件通報流程，以及使用者教育訓練。此觀點與當前國際醫療AI監管趨勢高度契合，亦呼應各國衛生主管機關對AI上市後監控的政策要求，對醫院資訊部門與品質管理單位具有直接的實務意義。",
+      "tags": [
+        "AI治理",
+        "醫療信任",
+        "風險管理",
+        "臨床AI監管"
+      ],
+      "author": "未標示（MedCity News｜2026-05-26）",
+      "source_url": "https://medcitynews.com/2026/05/ai-health-check-no-governance-no-trust/"
+    },
+    {
+      "rank": 8,
+      "score": 7.5,
+      "title": "AI協助診斷超罕見疾病：臺灣病童用藥後出現顯著改善",
+      "summary": "ETtoday新聞雲報導，台灣一名罹患超罕見疾病的女童，經AI輔助分析基因與臨床數據後成功找到對應治療方案，用藥後病況出現戲劇性好轉，主治醫師形容「像突然打開開關」。此案例凸顯AI在罕見疾病診斷中的獨特價值：面對文獻稀缺、臨床經驗不足的極罕見病症，AI能跨越人類知識邊界，整合全球醫學資料庫與基因體資訊，提供傳統診斷路徑難以觸及的洞察。此類應用雖屬個案，但其示範意義重大，有助於推動醫療機構評估將AI納入罕見疾病多學科診療團隊（MDT）工作流程，並進一步思考罕病基因資料庫的建置與共享機制。",
+      "tags": [
+        "罕見疾病",
+        "AI輔助診斷",
+        "台灣醫療",
+        "基因體醫學"
+      ],
+      "author": "未標示（ETtoday新聞雲｜2026-05-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zMWdVY3BfRTMxLVRMRkxFWWxIem9ySmEwSEtaT0cxcWZGY0JmVUVyR2laWk4tWFozU1RLdkhKbHM2LThUY3R0alowTdIBZ0FVX3lxTE45U0hjSXBzRUd5WnJ4ZFpjLVN0MTcxNXhwQlBpTUtDZ0tSbEt3TjFuTkd4WWlLZ2xZWlpKaXdpUHZVNTZ2ek9STlhPcWJQQ0xxQnFJa3pQWm1rR214ZWstUWkzcjY5VjQ?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 7.2,
+      "title": "台灣2026智慧醫療跨部會交流會：AI×醫療×機器人勾勒智慧醫院未來三部曲",
+      "summary": "由國家新創獎主辦的「2026智慧醫療跨部會鏈結交流會」聚焦智慧醫院發展願景，以「AI×醫療×機器人」為核心主軸，探討人工智慧、臨床應用與醫療機器人三大技術面向的協同整合路徑。會議匯聚衛福部、科技部及各醫療機構代表，討論議題涵蓋AI輔助診療工具的跨部會監管協調、智慧病房建置標準，以及醫療機器人在手術輔助與護理照護領域的落地挑戰。此類跨部會平台的建立，反映台灣政府積極推動醫療AI從單點技術試驗轉型為系統性政策落地的戰略意圖，對醫院管理層參與政策對話、掌握補助資源與法規動向具有重要參考價值。",
+      "tags": [
+        "台灣智慧醫療",
+        "跨部會政策",
+        "醫療機器人",
+        "AI治理"
+      ],
+      "author": "未標示（國家新創獎｜2026-05-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRFJlcVc5cjVjNUxRU2JjYjBBcEtrcWpPT1JsMUdzVERkdDlNOEt2UmRMWHU4amlhOUpYNGZQcVl5WmRNbHg5eTIxNFJzZGZNNHczOWN3MnBJRm9MYVRNc1BwRFp6R284dnowdUg1YlFOV1Y5aXlsRzA5MV8yQUNJQUR1clBnS3Yw?oc=5"
+    }
+  ]
+}
