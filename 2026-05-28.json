@@ -1,0 +1,117 @@
+{
+  "date": "2026年05月28日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "Bayesian Health 敗血症AI監測系統獲FDA核准，臨床警示減少同時降低死亡率",
+      "summary": "Bayesian Health 成為全球首家獲得 FDA 核准、持續性 AI 驅動敗血症監測系統的公司。該系統透過持續分析電子病歷中的生命徵象、實驗室數值與護理紀錄，即時預測敗血症風險，並精準觸發警示。有別於傳統規則式警示系統常見的高誤報率問題，Bayesian Health 的模型經多個醫療體系的臨床驗證，在減少無效警示的同時，有效縮短從識別到治療介入的時間。此次 FDA 核准不僅是監管里程碑，更代表 AI 輔助敗血症管理從研究走向正式臨床部署的關鍵轉折點。對於承擔急重症照護的醫院而言，此類系統兼顧警示疲乏與病患安全兩大痛點，具高度導入參考價值。",
+      "tags": [
+        "敗血症AI",
+        "FDA核准",
+        "臨床決策支援",
+        "警示疲乏"
+      ],
+      "author": "未標示（MedCity News｜2026-05-28）",
+      "source_url": "https://medcitynews.com/2026/05/bayesian-sepsis-ai/"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "Stanford Health Care 引入病患視角審查AI工具，揭露醫院與病患在AI採用上的認知落差",
+      "summary": "Stanford Health Care 開創性地在 AI 工具正式上線前，邀請病患代表參與評估流程，透過患者諮詢小組蒐集意見，系統性揭露醫療機構與患者之間對 AI 功能與信任的「斷層線」。病患關切的核心議題包括：AI 系統的透明度、資料使用方式、以及 AI 建議是否凌駕醫師判斷。這項做法挑戰了傳統以機構為主導的 AI 採用模式，強調病患在 AI 治理中應扮演更積極的角色。此舉不僅呼應國際醫療 AI 倫理框架的趨勢，也為其他醫療體系提供可參考的病患參與機制，對正在評估或部署臨床 AI 的醫院領導層與數位轉型團隊具有直接啟示意義。",
+      "tags": [
+        "AI治理",
+        "病患參與",
+        "醫療AI倫理",
+        "Stanford"
+      ],
+      "author": "未標示（STAT News｜2026-05-27）",
+      "source_url": "https://www.statnews.com/2026/05/27/stanford-patient-panels-feedback-on-ai-shaping-health-care/"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "健康AI聯盟發布治理指南，逾百家台灣醫療機構共同建立AI安全應用標準",
+      "summary": "健康AI聯盟正式發布醫療 AI 治理指南，集結超過百家台灣醫療機構的共識，涵蓋 AI 工具採購評估、臨床驗證要求、資料隱私保護與持續監控等核心面向。此指南旨在為各層級醫院建立統一的 AI 安全應用準則，填補目前台灣醫療 AI 監管框架尚未完整的空缺。對於正積極推動數位轉型的醫院而言，此治理指南提供了在引入 AI 解決方案時可依循的在地化標準，有助於降低合規風險、提升跨機構 AI 互信基礎。此一集體行動亦標誌著台灣醫療 AI 生態系從個別試點走向體系化治理的重要轉型節點。",
+      "tags": [
+        "AI治理",
+        "台灣醫療AI",
+        "醫療法規",
+        "數位轉型"
+      ],
+      "author": "未標示（商傳媒｜2026-05-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQeXBBVnJvWXh4NW95ZGhPdnowczFxbGVhVEg1NXNQdDJvbUJwTGpHV3pYcVZld1l2aTBEWEI4NFB3aWNJZ1dvMlFDVW9JRDZLQ0Z5a1VFVDlnRThyUVAxSnExOTdvQXI4SEZjVkVRVFMtNVI4LXB6U1dndFF0VWtYUlNWdHRkdEI5YTBWbXFJNEhaZ3FtNllwQmtweE5PSXh3QXB3UGp4WnY2SVUxbnNBb0FvZWctc0JXUEQ0WjJDN2NjcGRYeFctRkdlOXRJLTNaNjAtbUV4VVg5TnkweTE5RmlveHJhbDh4UE9WZjVTNmczT2FQUk5kRXhUMy1acmhGVWVKRjlDNU1VQkJVYVVBQnBGX2lVWVliSFQ5RnZCbldiYnVud0wyWnA3Ymp1OHZXR2hYdGNyeEd4UWd4ZXJTeHEwNlVCUUtlMFhxNW96MElzcVI1Z3U0TS15S1c2SU1YbVA1dDBoRlVoOVZQckRCdk1uLTY?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.0,
+      "title": "Optum Health 推動 AI 實用化：如何讓臨床醫師真正受益於人工智慧",
+      "summary": "Optum Health 分享其將 AI 工具落實於臨床工作流程的具體策略與成果。長期以來，臨床醫師在診療之外須花費大量時間處理電子病歷的繁瑣操作，Optum 正以 AI 協助簡化文件記錄、輔助臨床決策並自動化例行任務。該公司強調，AI 導入成功的關鍵在於以醫師為中心設計介面、確保系統能融入既有工作流程而非增加額外負擔，並持續蒐集使用者反饋進行迭代優化。此案例揭示大型整合型醫療體系如何將 AI 從概念驗證推向規模化應用，對正在評估 AI 輔助文件工具或臨床決策支援系統的資訊部門與科主任具有高度參考價值。",
+      "tags": [
+        "臨床AI應用",
+        "電子病歷",
+        "醫師工作流程",
+        "規模化部署"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-27）",
+      "source_url": "https://www.healthcareitnews.com/news/inside-optum-healths-push-make-ai-practical-clinicians"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "台灣醫學會115年春季會登場，成大醫院攜手產官學聚焦AI與精準醫療",
+      "summary": "臺灣醫學會115年春季學術大會於台南盛大召開，成功大學醫學院附設醫院作為重要東道主，匯聚來自產業、政府與學術界的專家，共同探討 AI 技術與精準醫療的整合應用前景。會議議程涵蓋基因體學、AI 輔助診斷、個人化治療策略等核心主題，強調跨域合作對於推動台灣醫療創新的關鍵作用。此次大會亦呈現台灣醫療體系在 AI 與精準醫療領域的最新研究成果與臨床應用實績，是掌握國內醫療 AI 政策方向與學術動態的重要場合。對於關注台灣智慧醫療生態系發展的醫院領導層與研究團隊，此一年度指標盛會的主題方向具有重要參考意義。",
+      "tags": [
+        "台灣醫療AI",
+        "精準醫療",
+        "學術交流",
+        "成大醫院"
+      ],
+      "author": "未標示（經濟日報｜2026-05-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13YTk2NlYzSEp6clVVVUNPN0ZxUWdWVm9oVjkzZllZZkQxM2QzQlFTMTZ6elRSZFBWQkhhRzdQcjZKcXlnSzE1NmMteWczLTBLNVBiMXk4R0RiUQ?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "AI恐成放射科招募警訊：醫學生憂職涯前景，部分人士卻步",
+      "summary": "根據 Radiology Business 報導，AI 技術在放射科的快速滲透已開始對醫學生的科別選擇產生影響，部分學生因擔憂 AI 將取代放射科醫師的核心功能，而對投身放射科職涯感到疑慮。此現象引發醫學教育界與放射科學會的關注，討論焦點集中在如何重新定義放射科醫師在 AI 輔助診斷時代的核心價值，包括複雜病例判讀、跨科溝通與介入治療等不可替代的專業能力。這一趨勢對醫院的人才招募策略與住院醫師訓練規劃具有直接影響，提示醫院領導層需積極參與放射科人才培育的論述重塑。",
+      "tags": [
+        "放射科AI",
+        "醫學教育",
+        "人才招募",
+        "AI職涯衝擊"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb1JTMGQ0NHY4Z3JMbndId0N2b0VXWlZtN1MyamxLSDZuVDVfOUpRT3Q0TWNsWG9UcjVyNHFmSGtxSW1QV2tKUVptUDlzY0UwTFJxVmszVXpBZWxtbzJwckVzREtueUpwYXlHQkFJRF9Ua2xuUFBTbEtjTnptc1BsT1FlVFRidFM0cFViTGZTMEU0am5RUFZtNkFqUTNtYTdYZGNkWWE2Q2VTOFlEX2dqaWtBMjRwV1FYTTZONWJhbmNLWjhw?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.2,
+      "title": "7B參數輕量模型超越 O3 與 GPT-5：醫療AI代理人學會「看哪裡、怎麼看」",
+      "summary": "一項來自 eu.36kr.com 的技術報導指出，一個僅有 70 億參數的輕量語言模型在特定醫療 AI 任務評測中，表現超越 OpenAI 的 O3 及 GPT-5 等大型模型。其關鍵突破在於引入醫療 AI 代理人框架，使模型能夠學習「應關注哪些臨床資訊」及「如何有效解讀這些資訊」，透過任務導向的注意力機制與工具調用策略，大幅提升在醫療問答與診斷推理上的準確性。此研究對醫院資訊部門在評估臨床 AI 工具時具有重要啟示：模型規模並非唯一決定性能的因素，針對醫療場景優化的代理人設計可能比單純擴大模型規模更具實效。",
+      "tags": [
+        "醫療AI模型",
+        "AI代理人",
+        "輕量化AI",
+        "臨床推理"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-05-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Fc0hRRTJNYWhjb1ZpZWFrS29DSU5mMWl5MHE0M1VGb0VwSmdhTG1IYVZFZkpqWllWbDdVWmQtUXpXNDEzZkhfTDE5dmVtTmhKMzJB?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "美國醫療保險服務中心大規模招募，部署AI打擊健保詐欺",
+      "summary": "美國聯邦醫療保險與醫療補助服務中心（CMS）宣布啟動大規模招募計畫，預計增聘逾千名人員，並同步引入 AI 技術強化對醫療詐欺、濫用與浪費行為的偵測能力。AI 系統將協助分析龐大的申報資料流，識別異常帳單模式、重複申報或不合規給付等行為，大幅提升傳統人工審查難以涵蓋的稽核廣度。此舉代表美國聯邦政府在健保支付監管領域的重大 AI 投資，不僅對美國醫療體系的合規管理產生深遠影響，亦為其他國家的健保 AI 反詐欺應用提供政策參考。對於台灣健保制度下的醫院管理層，此案例展現 AI 在支付審查與合規監控方面的潛在價值。",
+      "tags": [
+        "健保AI",
+        "醫療詐欺偵測",
+        "CMS",
+        "AI監管"
+      ],
+      "author": "未標示（商傳媒｜2026-05-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOMFhKaUlnSU1pYVJFRXVvWFdDNl9jbWZsbTMwSzZ4WFc3b3h3Mnd2SkI0SVl6TnZFNG1VcjJWYkxIWmVBNkhGYkhwSG5lY3EwV0U2dVhBWk1ydHJUcWlFYlVvbFc4SzR6YTEzZmFod1JvUE1JSk9fLXZZV21hWmsyVi1Gb2l2TEl2N3lSWTR1R1ZXOVVwbmJUTWpxSGJsYVFJMWpHejRTYkN6U09RalUwR1JnTmpnR20zOS0zOEZqRHIxSzg2blVlWERUUGtWV1BtVTNwcmYzNmt1R0d1bFEzTm9lamt6RFpTemN1cWpkN2x1RGNLTi1NMnZrWC1ocGR2RWQ4S1RmUWRoS2I4ZEdoRndNZGp1TnNuRHktLUotRnpsUHZjbGNuOXdVVllVdFUxUUdVN3NHOWxpNXNyTlZoY2RpUnJpb3J2UVlpeUh6TjUxa3dPZkgtd2Q0V3E4dktOLWN0cGgxaXlGRnA5WkwyRHl3?oc=5"
+    }
+  ]
+}
