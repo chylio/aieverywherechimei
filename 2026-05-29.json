@@ -1,0 +1,131 @@
+{
+  "date": "2026年05月29日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "FDA授予Coredio心臟衰竭AI平台突破性醫療器材認定，可望將進階評估延伸至院外",
+      "summary": "FDA近日授予Coredio公司旗下AI平台「突破性醫療器材」（Breakthrough Device）認定，該平台專為進階心臟衰竭評估設計，目標是將原本僅限於院內的心臟功能監測延伸至院外環境。心臟衰竭患者往往需要頻繁回診進行血流動力學評估，耗費大量醫療資源，Coredio的AI系統可透過非侵入性方式提供連續監測，協助臨床團隊即時掌握病患狀態並提早介入。突破性認定代表FDA將優先審查該裝置，並提供互動式指引，有助加速產品進入臨床應用。此一進展對心臟科、重症醫學及遠距醫療領域具有重要意義，顯示AI輔助遠端監測正逐步獲得監管機構的認可，為院外心臟照護模式的轉型奠定基礎。",
+      "tags": [
+        "心臟衰竭",
+        "FDA突破性認定",
+        "院外監測",
+        "臨床AI"
+      ],
+      "author": "未標示（Business Wire｜2026-05-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQLVZJLWgzT3dhdVJ3Z1kySDc5WXYyT1pxQjJZTTVOT2JNLS1xMmlCTDZTOEJQQlhiekhtS1dvYktGM0M2S0NpSmRVMGw0MDhBYVJPaHZfZENianVxejNxcG5yTkVyc1Y4bXVycWNSb253eGFxbTJRNElFcjRKNGJsVnhkY3RWcERXRTZQeGZ5RjdISHdxQ1g1V1Q3cW5CMUlXRVFpWHVEdVhBOU1fMzhvbXd3S3k5MHVmMW8yakFZakZpQWpxaU9aZld1Y25DUUxRMjlUY05tTWZPZUpvaGN0Z01pM2tBR3ZWQUVKWGxOS1pjaE5qc1kwRTBHOWtOcHFVaDZHWWd6V0ViMVU"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "Abridge揭露GPT-5.5應用於臨床決策支援的具體作法",
+      "summary": "醫療AI新創公司Abridge近日公開說明其如何將OpenAI最新的GPT-5.5模型整合至臨床決策支援功能中。Abridge原以AI自動化醫師與病患對話紀錄聞名，此次擴展至輔助臨床判斷領域，包括協助醫師快速彙整病史、提供鑑別診斷建議及歸納相關文獻。GPT-5.5相較前代模型在醫療語境的推理能力與指令遵循準確度均有顯著提升。Abridge強調，系統設計以臨床工作流程為核心，而非替代醫師判斷，所有輸出均附有信心指標與來源標註，以確保透明度。此一發展反映大型語言模型在臨床端的應用已從單純的文件自動化，進一步邁向主動式決策輔助，對醫療機構評估AI工具採購具有重要參考價值。",
+      "tags": [
+        "臨床決策支援",
+        "大型語言模型",
+        "GPT-5.5",
+        "醫療AI新創"
+      ],
+      "author": "未標示（StartupHub.ai｜2026-05-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWVfTFpRd29hTEdTckpmR2RmY05XdUwtcVFmMHBTVU5nSE5UdmlBTkxYd2dla2p2blUta0x3N1djR3h0SHJUa29Bc3V3MGVkSkpJMWNONlM5LW53Y19FOHdfSHV1dllZaUk2Q0poTVFBcHB5WlBaOTE4Y0Y5MHJlZlR1aFVUVDhScnFDOTk1Y294UHByYl9hMjJ3eXFqODV0bmM0aEs2Y0k1bXFLVEF4dWl1WkV3TVFwMlFPbQ"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "AI預測病患出院時間可望緩解醫院壅塞問題",
+      "summary": "加拿大CBC報導，研究人員正探索運用AI模型預測住院病患確切出院時間，以解決醫院病床不足與急診壅塞的長期困境。現行做法多依賴主治醫師個人經驗估算，準確率偏低且難以協調各部門資源。新研究顯示，透過整合電子病歷、診斷數據與歷史出院模式，AI可提前數小時乃至一天精準預測出院時機，使床務管理、清潔排程及後續轉介能提早啟動。初步試驗結果顯示病床周轉率明顯改善，等待入院時間也隨之縮短。研究團隊指出，此類工具若能與醫院資訊系統深度整合，將為醫院營運帶來實質效益，特別是在醫療資源吃緊、高齡化需求持續增加的環境下，具有廣泛的應用潛力。",
+      "tags": [
+        "病床管理",
+        "出院預測",
+        "醫院營運",
+        "臨床AI"
+      ],
+      "author": "未標示（CBC｜2026-05-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORkpVOVJ3a2JuaUZoZ2dRUjROMXhpSTBVeUp3ODBLNjFVamRFeEVZeTUwLW1UQXVfck84TmJpVXNTZjhjbFZFWWcyR29BMDcydkMtbXh2elN6N18tb2NCbTBsRkJxb0NJSzlBSjVqbXlFSEE5WldtVFFUcC1kLVFzOUxjZEozTGVROHhNenMyeTlmWGxiRTF2djZudkVTTU5nLXJSZTVLTk1pSkxnX3ZTcHdRZFFYQTdmVlRJ"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "醫療AI的價值取決於治理系統的完備程度",
+      "summary": "MedCity News刊載深度分析指出，醫療AI系統的實際效益高度依賴其背後的治理架構品質，而非單純的演算法性能。文章指出，當前多數醫療機構在導入AI工具時，仍沿用舊有的操作流程與管理框架，欠缺足夠的精確性、可追溯性與問責機制。作者主張，AI時代需要一套全新的營運模式，涵蓋資料品質管控、模型監控、偏差偵測及臨床干預流程的重新設計。文章特別強調，若缺乏完整的治理基礎，AI不但無法改善照護品質，甚至可能因錯誤輸出而帶來系統性風險。這一觀點對正在規劃或已部署AI的醫療機構具有直接參考價值，提醒領導層應將AI治理視為與技術採購同等重要的策略投資。",
+      "tags": [
+        "AI治理",
+        "醫療品質",
+        "風險管理",
+        "數位轉型"
+      ],
+      "author": "未標示（MedCity News｜2026-05-28）",
+      "source_url": "https://medcitynews.com/2026/05/healthcare-ai-is-only-as-good-as-the-systems-that-govern-it/"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "超越EHR時代：一位CIO預言AI將是醫療資訊史上最大變革",
+      "summary": "Healthcare IT News訪問資深醫療資訊長Dave Lundal，他將醫療IT發展分為三個時代：早期醫院資訊系統、EHR電子病歷普及期，以及當前正在展開的AI時代。Lundal認為，AI對醫療機構的衝擊將遠超過EHR導入期，因為AI不只改變資料記錄方式，更將全面重塑臨床決策、行政流程與病患互動。他強調，醫療機構若仍以導入EHR的思維看待AI，將嚴重低估所需的組織變革幅度。Lundal建議領導層應從策略層面重新定位AI，而非將其視為單純的資訊工具升級。此一觀點對醫院CIO及數位轉型團隊在制定中長期AI策略時，具有重要的框架性參考意義。",
+      "tags": [
+        "醫療資訊長",
+        "數位轉型",
+        "AI策略",
+        "醫院管理"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-05-29）",
+      "source_url": "https://www.healthcareitnews.com/news/beyond-ehr-why-one-cio-believes-ai-will-dwarf-every-prior-health-it-shift"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "Leica Biosystems、Indica Labs與Lunit攜手推進PD-L1生物標記AI數位病理分析",
+      "summary": "Leica Biosystems、Indica Labs與韓國AI醫療影像公司Lunit宣布三方合作，共同推進以AI驅動的數位病理平台，專注於腫瘤免疫治療關鍵指標PD-L1的生物標記自動化分析。PD-L1表現程度是判斷病患是否適合免疫檢查點抑制劑治療的重要依據，但傳統人工評分存在觀察者間差異大的問題。三方整合Leica的數位掃描硬體、Indica Labs的影像分析軟體平台與Lunit的深度學習模型，目標是建立標準化、可重現的AI評分流程，提升病理診斷的一致性與效率。此合作涵蓋亞太地區市場，對台灣醫療機構在腫瘤病理AI導入上具有參考價值，也反映數位病理AI生態系整合的加速趨勢。",
+      "tags": [
+        "數位病理",
+        "PD-L1",
+        "腫瘤AI",
+        "生物標記"
+      ],
+      "author": "未標示（BioPharma APAC｜2026-05-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOERfU2ZPTzFDNE9JMWREZURmQlg0ZEJzbXZqZUdLc0pEVXpVRTZtaWJobDUwT3EzM0xSdFJ4UmFlRW9Cb3BwZ1BXNHd1V0dveWxTanl3SVZmcE4wbkpyd0FpS1Z1LUJyRmhLNkQ3eF9kTGJ5ekFwN01ibEc5RlJFeVV3X1E2NHNEX3RwZjRCaW5nZHNYTXZBaldQLVFtVTFOZVF5OWZGMWM0MzNPaW9kVy1TSnk2NUxiMDc5WkdvQmwwYVV6WEVSdldYNGZWS1padlJlZTF0QWd1VE8yYlFBQXJmTQ"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "放射科AI下一個突破點：協助病患真正理解影像報告",
+      "summary": "MedCity News刊載評論指出，放射科AI目前發展重心多集中於自動診斷與異常偵測，然而真正具有大規模影響力的應用，或許是建立一個「病患理解層」：將複雜的影像報告轉化為一般人可理解的語言。作者觀察到，現行影像報告充斥專業術語，病患往往難以自行解讀，導致焦慮增加或錯誤理解診斷結果。AI可扮演即時翻譯角色，依據病患教育程度與語言偏好生成個人化說明，同時保留醫師原始報告供臨床使用。此一構想兼具可擴展性與臨床意義，也與以病患為中心的照護理念高度契合。文章提醒放射科與資訊團隊，病患溝通層面的AI應用值得納入下一階段的規劃重點。",
+      "tags": [
+        "放射科AI",
+        "病患溝通",
+        "醫療影像",
+        "以病患為中心"
+      ],
+      "author": "未標示（MedCity News｜2026-05-28）",
+      "source_url": "https://medcitynews.com/2026/05/the-next-useful-layer-in-radiology-ai-is-patient-comprehension/"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "COMPUTEX 2026：台灣倍智醫電攜手台中榮總，AI醫療影像健檢邁向國際",
+      "summary": "工商時報報導，台灣醫療AI新創公司倍智醫電在COMPUTEX 2026展會上宣布與台中榮民總醫院深化合作，共同推動AI醫療影像技術應用於智慧健康檢查領域，並積極拓展國際市場。倍智醫電的AI影像分析系統可協助醫師在健檢流程中更快速、精準地判讀胸部X光、腹部超音波等影像，有效縮短報告時間並提升診斷一致性。台中榮總作為國內重要醫學中心，此次合作不僅是技術驗證，更具有醫學中心背書的市場推廣意義。此一模式展示台灣本土醫療AI廠商結合頂尖教學醫院，共同打造國際化解決方案的路徑，對有意推動AI健檢服務的醫療機構具有借鑑價值。",
+      "tags": [
+        "台灣醫療AI",
+        "AI健檢",
+        "醫療影像",
+        "COMPUTEX"
+      ],
+      "author": "未標示（工商時報｜2026-05-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPbGdwMFlNaHpQdUhFWUxMZmlvOGx6RTgxcDFYRFVKaDg5YXhWNjFpS01BSmxWOVdQSExId0w5THpTTGgwRmZ1ak52UGE4M09xcFcwOFdaUmpzallnTlQw"
+    },
+    {
+      "rank": 9,
+      "score": 6.0,
+      "title": "AI如何重塑醫院採購決策：數位健康工具評估標準正在改變",
+      "summary": "Medical Buyer分析報告指出，AI與數位健康科技的快速發展，正從根本上改變醫院採購部門的評估框架與決策流程。過去醫院採購以功能符合性、價格及供應商信譽為主要考量，如今AI工具的導入還需評估演算法透明度、臨床驗證證據、資料隱私合規性及長期維護成本。報告指出，越來越多醫院成立跨部門AI評估委員會，納入臨床、資訊、法遵及倫理等多元視角。此外，採購方也開始要求供應商提供真實世界的臨床績效數據，而非僅依賴實驗室測試結果。這一趨勢對醫療AI廠商的產品開發策略及醫院採購政策制定，均具有重要的方向性參考意義。",
+      "tags": [
+        "醫院採購",
+        "AI評估",
+        "數位健康",
+        "醫療資訊"
+      ],
+      "author": "未標示（Medical Buyer｜2026-05-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWURjRkc1eDJheXljUEJsZzZQT1U0NXZCaGdhOVRxQVlIUFpTZ0F6c0Jva2RoVHhmV190SzdpNW5QZ1c3OVpvNTlPem5UY3gxV3h2Q3lVdDZIcVdrM1BxT0FYVDQyVTllQlpRcy1yOEpPaUpsZFE3UFNoek5KN0dIRHpTdDYzdnlFMkNuZ3BubDZ1bHR2UXQzaw"
+    }
+  ]
+}
