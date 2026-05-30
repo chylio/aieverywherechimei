@@ -1,0 +1,145 @@
+{
+  "date": "2026年05月30日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Boston Children's Hospital運用AI突破罕見疾病診斷瓶頸",
+      "summary": "Boston Children's Hospital與OpenAI合作，將AI技術應用於罕見疾病的診斷流程，成功為原本難以確診的病患解鎖新診斷路徑。此案例顯示，大型語言模型在整合多元臨床資料、辨識罕見疾病表徵方面具備實質效益，尤其對於症狀複雜、病程漫長的患者族群意義重大。Boston Children's Hospital的實踐經驗表明，AI不僅能輔助常見疾病的篩查，更能在罕見病領域彌補人類知識盲區，縮短確診時間並改善照護品質。此案例被OpenAI官方收錄為醫療AI應用典範，代表頂尖醫學中心與AI開發商之間的深度合作模式正在成形，對其他醫院在考量AI部署策略時具有重要參考價值。",
+      "tags": [
+        "罕見疾病",
+        "臨床診斷AI",
+        "兒童醫院",
+        "OpenAI"
+      ],
+      "author": "未標示（GNews-AI clinical｜2026-05-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5STVJQSEVpZFBZVEhaOFNXUGxTd0ZLSXg1ZzRnN1kyWDNKMkpnY3VMQWJxOGllRjJsYWFuTkFOM25EWkJBZ21uSXAyMklGbzZsckZfMk44Z2RpQV9OM0Jn?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI乳癌風險預測工具獲FDA核准，加速臨床篩查決策",
+      "summary": "一款以AI技術為核心的乳癌風險預測工具正式獲得FDA clearance，能夠更快速地為臨床醫師提供個人化風險洞察，有望改變現行乳癌篩查流程。此工具透過分析影像及相關臨床資料，自動生成風險評估結果，協助醫師更精準地識別高風險族群並安排後續追蹤或預防性介入。FDA的核准不僅代表此技術具備充分的安全性與有效性證據，也象徵乳癌AI篩查工具進入實際臨床應用的重要里程碑。隨著乳癌仍居全球女性癌症發生率首位，此類AI輔助診斷工具的問世對於提升篩查效率、減少漏診以及優化放射科醫師工作負擔具有深遠意義，亦預示相關市場需求將持續擴大。",
+      "tags": [
+        "FDA核准",
+        "乳癌篩查",
+        "AI影像診斷",
+        "風險預測"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WcWNjdUp3XzVsWnJ6eXhmd29LeFZySFowSk8zc1RNbDZIMFdyNmRZbng0djM3cDlXVV80eUc3ZnRoSllSV0pTMUNTUUxJT0Z0a1Atbmc0YVhTRzdSQ3dSalcwODEwVDJxMkEw?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "台灣AI醫療受國際矚目，衛福部次長石崇良投書籲支持台灣參與WHO",
+      "summary": "台灣衛生福利部政務次長石崇良近日投書國際媒體，強調台灣在醫療AI領域累積的深厚實力已受到國際社會廣泛關注，並呼籲各國支持台灣實質參與世界衛生組織（WHO）相關事務。文章指出，台灣在智慧醫療、AI輔助診斷及健康資料治理等方面的創新成果，不僅嘉惠國內民眾，更具備向全球輸出的潛力與價值。台灣長期因政治因素被排除於WHO體系之外，導致寶貴的醫療AI經驗與公衛情報難以及時融入全球防疫與健康治理架構。此次投書被廣泛轉載，顯示台灣醫療AI的國際能見度正持續提升，對於台灣醫院與AI研發機構走向國際合作具有重要政策意涵。",
+      "tags": [
+        "台灣醫療AI",
+        "WHO參與",
+        "國際醫療",
+        "健康政策"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-05-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzc1cmpEMVhvSUN3ZEF5V2laV0dtZk1TMW9qT3p4a2lmRnppWUxkenFvNmFudnBScG5PR1dxWnpSSWYxalppSkpGdU1YbWR2eC1MRmg3OUVVbXdSUXhfMWhPenNWYzZVS2xUbFFvYXNyZXBBd1BlWHhxM1BEdkVCX29MRnNwZ9IBZ0FVX3lxTE14ZkJkWnlnV0poNVhyMUNRbURwTlc0UlpsQTg4cmlaeV93TmhVX21pSnhLNnBsNUVra3lDaU05QjN6bFY1a0NhNm1KNE1oeEhTWGV2S2hvSm5lZFhoQUQ3STBtRkdKdjg?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "美國醫療AI訴訟風波浮現，專家籲強化病患同意與資料治理機制",
+      "summary": "美國近期出現多起與醫療AI相關的訴訟案件，促使法律及醫療專家呼籲醫療機構應更審慎地建立病患知情同意流程，並強化AI系統所使用資料的治理架構。訴訟爭議核心多集中於：AI系統在未充分告知病患的情況下使用其健康資料、演算法決策透明度不足，以及AI輔助診斷結果影響醫療照護品質所衍生的責任歸屬問題。專家指出，隨著AI在臨床決策中扮演的角色日益吃重，現行的知情同意框架與資料使用規範亟需與時俱進，醫院應主動建立AI使用登錄制度及病患通知機制，以降低法律風險並維護醫病信任。此趨勢對台灣醫療機構規劃AI部署及完善治理制度具有直接的參考價值。",
+      "tags": [
+        "醫療AI法律",
+        "資料治理",
+        "病患同意",
+        "AI責任"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-05-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNZktLb3g2d3loWk5NUEJOSWw1SWlVMmVzTVlnN1pyTnJ6Ml9xQ0IxNnpjRDQ1NWxKNmt2UEc2bkdVUVRSR25YeFBoSXBTNmcyd3Z3UWhObVJiVmM2WTFwbm9SQWZ1dzc3TFVIQndUWjZhYXVnNWhCc2gxTzBLcHRPTzc2b1BIbmJTenJlczRuLTEtenZZV0MwZE5POWh1dGx4dGZ4RGtHazZvalY5THRPMmg4VjBwNU1IOGxDUkk0dGxkdHJqNzJSejhrMEdMUEZlbWhyc3dTdUl4YkVJQVd1NXRhZ3dsLU1nLXdidEdnOWNmV3Y2TFU5UEVTZTZ1cW9MdFZkeXNMSWpqc2U5Z21JeVl6SkI1UWF6WXlQUkJESHNUNnB3WHBRVEJpcFFZWjBFcGMzVUlaM1FnUzJYbXdxeGJYaGpKVVFPekMyS0U1YS1BMVVXZ05iaUVTVzNQdGQ2Sl9WUDFfUkpYQ1Vqb2ozNThYTQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "AI手術輔助機器人亮相COMPUTEX：鴻海醫療機器人進駐開刀房",
+      "summary": "在2026年COMPUTEX展會上，鴻海展出其最新醫療機器人解決方案，AI技術已從螢幕走入真實手術場域，成為外科手術的智慧助手。此款醫療機器人整合AI視覺辨識與精密動作控制，能夠協助外科醫師執行精確度要求極高的手術步驟，有望提升手術安全性並縮短學習曲線。鴻海此次展出標誌著台灣科技業龍頭正式切入手術機器人市場，與國際大廠如Intuitive Surgical等形成競爭態勢。此外，COMPUTEX同期展示的多項AI醫療應用顯示，台灣正將AI系統價值從單一工具延伸至整合性手術平台，對於醫院手術室數位化升級與國產智慧醫療設備採購決策具有重要參考意義。",
+      "tags": [
+        "手術機器人",
+        "AI醫療設備",
+        "COMPUTEX",
+        "鴻海"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-05-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vSkgyLUY2anRHWlBOY1RiUl84UEd1bFZXSkhYbk1MOEZpbDM1MU5VNHVVNGx1ODcwcWUtdUhESkstS2VBV2VfR2ozcFR4UQ?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "AI結直腸癌病理樣本分析技術進展：輔助病理診斷效率提升",
+      "summary": "最新報導顯示，AI技術在結直腸癌病理樣本分析領域取得新進展，能夠自動化處理大量組織切片影像並協助病理科醫師識別腫瘤特徵，顯著提升診斷效率與一致性。此類AI輔助數位病理工具透過深度學習演算法，可快速標記可疑區域並量化腫瘤細胞密度、形態特徵及微衛星不穩定性等關鍵生物標記，為後續治療決策提供更精確的依據。結直腸癌為全球常見癌症之一，病理診斷的準確性直接影響治療方案選擇與預後評估。AI輔助病理分析的商業化應用正加速推進，預期將改變病理科日常工作流程，並有助於緩解病理科人力短缺的問題，對醫院病理部門的數位轉型具有直接參考價值。",
+      "tags": [
+        "數位病理",
+        "結直腸癌",
+        "AI影像分析",
+        "病理診斷"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVExIU3pWekhoZDhHOXFTSmdXdDRNUEFpelVRZ1RfVi1IVUc5ODZPNEtIZjM1X3hubGFFcVI5RjBxWUlNWDNPVTBNWnN5WXZGTUFBUnJmYURZWHh1d2ZvczBvaXBlUS1WYzRmSzdURjk4QlpadnVxNENUdHM0Zkhvc0o1b3ZxZVBadUtR?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "AI術中肺腺癌評估展現臨床應用潛力，有望即時輔助胸腔外科決策",
+      "summary": "最新研究顯示，AI技術在肺腺癌術中（intraoperative）評估方面展現出顯著臨床潛力，能夠在手術過程中即時分析組織樣本，協助外科醫師判斷腫瘤邊緣切除是否完整及病灶性質，減少術後二次手術的需求。傳統術中病理切片需等待冷凍切片結果，耗時且準確度有限；AI輔助評估系統透過影像辨識技術，可大幅縮短判讀時間並提升判斷精確度。肺腺癌為台灣及全球發生率持續上升的癌症類型，術中精準評估對於手術成功率與患者預後至關重要。此技術若成熟落地，將對胸腔外科、病理科及手術室管理流程產生深遠影響，是醫院智慧手術室規劃的重要參考方向。",
+      "tags": [
+        "術中AI評估",
+        "肺腺癌",
+        "胸腔外科",
+        "AI影像診斷"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejRMbjMyb0hHN0tmal80akM0UVhUOEVmdzJGRFFRT0QyeTJxMXZVZ3BUeTlic1U2U1YxQWlvZGs3el84RDBZdGNxN2w1UHUwelFFQmFXdzNPR3NfLThrYTZUSUc0dDBVcGhSaDRpeUNhc1VfQTZnOV9YSkdaN1NHOUVpVEI2LUx4TklOTkpvUHZoanJMTkJ2OTl6ZXdFY3piMWpReGVtMS1wcVN3?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "AstraZeneca與Roche攜手推動亞太地區數位病理普及化",
+      "summary": "AstraZeneca與Roche宣布合作，共同推動亞太地區（APAC）數位病理技術的普及與應用落地。兩家國際藥業及醫療科技龍頭的結盟，目的在於加速AI輔助數位病理平台在亞太醫療體系的導入，縮短此地區與歐美在數位病理應用上的差距。此合作將涵蓋技術整合、醫師教育訓練及臨床驗證等面向，有助於提升亞太各國醫院的病理診斷能量。對台灣而言，此類跨國產業合作模式提供了醫院與國際廠商洽談數位病理解決方案的參考範例，也凸顯亞太市場在全球醫療AI版圖中的戰略地位正持續上升，對於正在評估數位病理投資的醫療機構具有市場訊號意義。",
+      "tags": [
+        "數位病理",
+        "亞太醫療AI",
+        "AstraZeneca",
+        "Roche"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-05-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWtZZXk0cTRuUUpFdHFmRmg2dVlTaTFlNW5RZ3hZS1pXcUdjS1c3SnR4TUNjRF9KNkQ3LTBMaXpOVkJVUXpXcFk5d1l4VUNCRk5DcWQySEcwcS1CU0p2R0JwNHhsN043NTFXeEJFM280d2Yyc2UtdVdDMU1kYnVrNUphZE9qNGpmWUdkeXZNSk9MMWphTmlGS0x3STRIZVhJMmtTWlFaSnR2QjhhOV9sZkp3?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "醫療AI數據不完整困境：患者不信任恐影響診斷準確性",
+      "summary": "最新研究指出，醫療AI系統面臨數據供給不完整的嚴峻挑戰，而患者對AI使用其個人健康資料的不信任感，是導致此困境的重要因素之一。當患者因隱私疑慮而拒絕提供完整病史或拒絕資料共享，AI模型所接收的訓練與推論資料便存在系統性缺漏，進而影響診斷結果的可靠性與公平性。研究強調，數據完整性不僅是技術問題，更是醫病關係與信任建構的核心議題。若醫療機構無法有效溝通AI的使用目的及隱私保護措施，患者的抵制情緒將成為AI應用普及的重大障礙。此研究結果提醒醫療管理者，在推動AI導入的同時，必須同步強化與患者的溝通機制及資料使用透明度，方能確保AI效益得以完整實現。",
+      "tags": [
+        "醫療AI數據",
+        "患者信任",
+        "資料治理",
+        "診斷準確性"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-05-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpbkJUR05ESF9wcFJPdzF1TzlXQnNPVHhtOEFRU05ZbUw0VEhkeVBoVXBpYzlXWkFqUFBkc1Q3QTB2V3FfajRZSTNOYw?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 6.0,
+      "title": "廣達攜手NVIDIA推動APEC醫療AI創新，BAT-HI工作坊六月登場",
+      "summary": "廣達電腦宣布與NVIDIA合作，共同推動APEC（亞太經濟合作）框架下的醫療AI創新計畫，並預計於2026年6月舉辦BAT-HI（Bridging AI Technology for Health Innovation）工作坊。此工作坊將匯聚亞太各經濟體的醫療機構、AI研究單位及科技產業代表，聚焦探討醫療AI技術的跨境應用、標準化與落地策略。廣達長期深耕伺服器與AI基礎設施領域，此次與NVIDIA在醫療AI的合作，顯示台灣科技業正積極從硬體供應商角色轉型為醫療AI解決方案整合者。對台灣醫療機構而言，此類國際平台提供了接觸前沿醫療AI技術、拓展跨國合作網絡的重要機會，也有助於台灣醫療AI標準與國際接軌。",
+      "tags": [
+        "廣達",
+        "NVIDIA",
+        "APEC醫療AI",
+        "國際合作"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-05-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lUkJhQ0FOTFBwUmJHdDZEVkhCM2ZyajM4UnIzS29nV3JKTVFpVGNibzNiLTAyQ1NTNklqVzYxaVZtZVh1V0htTVZzYzMzOGowckE?oc=5"
+    }
+  ]
+}
