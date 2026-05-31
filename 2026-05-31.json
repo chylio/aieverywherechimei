@@ -1,0 +1,89 @@
+{
+  "date": "2026年05月31日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "衛福部發布生成式AI使用指引：醫院須主動揭露，防範「AI幻覺」延誤就醫",
+      "summary": "台灣衛生福利部正式發布生成式AI於醫療場域之使用指引，要求醫療機構在應用生成式AI提供病患服務或臨床輔助時，必須主動揭露AI工具之使用情形，以確保病患知情權。指引中特別強調「AI幻覺」（Hallucination）風險，即AI系統可能產生看似合理但實際錯誤的醫療資訊，若未妥善管控，恐導致誤診或延誤就醫。此政策對醫院資訊部門及臨床科室均具直接規範效力，醫院需建立相應的揭露機制與AI使用紀錄。這是台灣在醫療AI治理領域的重要政策里程碑，有助於建立病患信任基礎，並對醫療機構導入AI工具的標準作業程序提出明確要求，各層級醫療機構均應儘速研訂因應措施。",
+      "tags": [
+        "生成式AI",
+        "醫療AI治理",
+        "衛福部政策",
+        "AI幻覺"
+      ],
+      "author": "未標示（LINE TODAY｜2026-05-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mSXlYQTdpQUNYVFVDeThPMlRwLXV6RE1FbndoaFIzaDFaeU1hbFFjaGpfYTdtbEVBMHdnX1hlNGhQSmYzYnVKM3ZwamcyUkt3RGJfQzRB"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "Oracle分析：如何從醫療AI投資中獲得最大價值",
+      "summary": "Oracle近期發布醫療AI價值最大化指引，聚焦醫療機構如何將AI工具轉化為實質臨床與營運效益。文章指出，醫療機構在導入AI時常面臨投資回報不明確、系統整合困難及臨床端接受度低等挑戰。Oracle建議應從資料治理、工作流程嵌入及使用者培訓三大面向著手，確保AI解決方案能真正融入日常醫療作業，而非僅作為獨立工具存在。此外，文章強調選擇具備互通性（Interoperability）的AI平台，可降低資料孤島風險，並加速院內各科室之間的資訊流通。對於正在評估或擴大醫療AI部署的醫院領導層及資訊部門而言，本文提供了具體的策略框架，有助於優化採購決策並提升AI導入的長期效益。",
+      "tags": [
+        "醫療AI導入",
+        "數位轉型",
+        "資料治理",
+        "投資效益"
+      ],
+      "author": "未標示（Oracle｜2026-05-31）",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aZGI2d2ItUm9vMmlfM2wwaks3ZEhBclQ0RWJCdnNzZUgwM1VwYXQzMjNSMFZac3MySjV4N1JESEhBNHQ3Z1RGODNUY3NsSTM4cDdFSHVFVnpfU250QkxUWU9iNWFZTDVwcnhhM1RKRzFmVGU0"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "金屬中心與台北市立聯合醫院跨域合作，共同推進AI智慧醫療與病人安全環境",
+      "summary": "台灣金屬工業研究發展中心（金屬中心）與台北市立聯合醫院宣布展開跨域合作，攜手打造結合科技創新與病人安全的智慧醫療環境。此合作計畫將金屬中心在材料科學與製造技術領域的專業，與聯醫的臨床醫療需求相結合，聚焦於AI醫療輔助設備的開發與實際場域驗證。雙方將共同建立智慧病房及醫療器材測試環境，期望透過產醫跨域整合，縮短AI醫療設備從研發到臨床應用的落地週期。此案例展示台灣公立醫院如何主動尋求非傳統醫療夥伴，借助製造業技術能量加速智慧醫療佈局。對國內其他醫療機構而言，此合作模式提供了一種可參考的產醫協作路徑，特別是在醫療機器人、智慧感測與病安監測設備等領域的研發應用上。",
+      "tags": [
+        "智慧醫療",
+        "產醫合作",
+        "病人安全",
+        "醫療AI"
+      ],
+      "author": "徐炳文（風傳媒｜2026-05-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45YlVqSFhVcXdUVVN5a2xqNGphT1dCTnpiZndDS3NiT09yUEVURFprWE1OZU5sbXRHb0RuT2tFNWdtRFhnN2lfaktCc3ZBQQ"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "WVU Medicine United Hospital Center率先於西維吉尼亞州導入AI智慧病房",
+      "summary": "美國西維吉尼亞大學醫學中心旗下的 United Hospital Center 宣布成為西維吉尼亞州首家導入AI智慧病房的醫院，引發業界廣泛關注。該系統透過病房內建的AI感測器與攝影機，持續監測病患狀態，包括跌倒風險偵測、生命徵象異常預警及行為分析等功能，旨在提升病人安全並減輕護理人員的監護負擔。此舉被視為美國地區性醫院積極跟進AI智慧病房趨勢的具體案例，顯示AI病房技術已不再僅限於大型學術醫療中心，中型區域醫院亦開始積極採用。對醫院管理層而言，此案例提供了AI病房在真實臨床環境中的應用參考，有助評估同類技術的導入可行性與效益。",
+      "tags": [
+        "AI智慧病房",
+        "病人安全",
+        "護理科技",
+        "醫院數位化"
+      ],
+      "author": "未標示（WV News｜2026-05-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQalJJQkhzaXhLTDFnUWR1aC1scjJobHJWN1oySEJMdHI4TDU5VXRpMG5KTlUwQ2RWZDdaVUNBS0F0N0VpdFo3M3Z4bTkwdkVBX2Z2SGVLZEdBOUFQNmpaUzZvMHdTU1hqc0VxNFN5dTlORnZyVmlqY0RRRGVHQUtNZmhsT3pNLXYxRjd5cXhzTE5VSktRVUlBcjI3U3lIYXh4OG1wTXFyU0RURWRKYkdBOEo5cm9qd1RaeTA0REhjbVRXME5TWlVib2Y3dVZvQVR1RG5JMlRhNzZnZjZIMnNPNkZTNFZrOC1UZFNVZnpId2NQMG9pZkEwSmUyZVFhcXExTjhDOVNnMUdKS1dMVmk2czBXVXo4dEx1"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "威力先進橫跨醫療、生技、AI與半導體，引領台灣健康科技新勢力",
+      "summary": "台灣科技公司威力先進近期受到媒體矚目，其業務版圖橫跨醫療設備、生物技術、人工智慧與半導體四大領域，被視為台灣健康科技產業整合型發展的代表案例。報導指出，威力先進正積極將AI技術與半導體感測元件結合，應用於醫療影像分析、穿戴式健康監測及遠距醫療等場域，展現台灣在硬體製造優勢基礎上發展醫療AI的獨特路徑。該公司的跨域整合策略引發國際市場關注，也凸顯台灣醫療科技產業在全球健康科技版圖中的潛在競爭優勢。對於有意與本土科技廠商合作的醫療機構而言，此類整合型科技公司的崛起，代表國產醫療AI解決方案的生態系正逐步成熟，值得持續追蹤其臨床應用進展。",
+      "tags": [
+        "台灣醫療科技",
+        "AI醫療",
+        "健康科技",
+        "產業整合"
+      ],
+      "author": "未標示（UDN｜2026-05-31）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41bTNOVjQwTDg0bXhTelUyeXh2OVE5M183YThRZXhHWXJ6U1pNSmlTcWY5Skt5NVhGMFhROEFwbk12UG53NTh3VHIyU241OWht"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "DeepMind創辦人哈薩比斯：2030年實現AGI，揭示AI醫療與技術普惠願景",
+      "summary": "Google DeepMind 執行長 Demis Hassabis 近期公開表示，人工通用智慧（AGI）有望於2030年實現，並詳細闡述AI在醫療領域的未來應用藍圖。他指出，AI將在藥物研發、疾病診斷及個人化醫療等方面帶來革命性突破，尤其是在加速新藥開發流程與提升稀有疾病診斷準確率上具有巨大潛力。哈薩比斯同時強調技術普惠的重要性，認為AI醫療工具應讓全球各地的病患皆能受益，而非僅限於資源豐富的醫療機構。此一願景對醫療機構的長期數位策略規劃具有重要參考價值，也提醒醫療領導層需積極準備迎接更高階AI系統進入臨床環境的可能性與挑戰。",
+      "tags": [
+        "AGI",
+        "AI醫療願景",
+        "DeepMind",
+        "醫療創新"
+      ],
+      "author": "未標示（鉅亨號｜2026-05-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HVXNJMmY5ZVpUT25kN0Q3TENycmpGdUF4Vzg0ZUxEMDNRRWJFeHJOYWo0UkQzaXdhdUFMTmpRRzI3THVwVTAxdQ"
+    }
+  ]
+}
