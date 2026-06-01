@@ -1,0 +1,75 @@
+{
+  "date": "2026年06月01日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "失智症將成醫療AI能否真正適應人類需求的關鍵考驗",
+      "summary": "《The AI Journal》刊載分析指出，失智症照護正成為醫療AI能否突破「以技術為中心」框架、真正貼近人類複雜需求的試金石。失智症患者具有認知功能退化、溝通困難、行為多變等特性，對AI系統的適應性、情境理解與情緒辨識能力提出極高要求。文章強調，若醫療AI能在失智症照護場景中有效運作，才能證明其具備跨越標準化任務、因應個體差異的真實能力。這不只是技術挑戰，更涉及AI設計哲學的根本轉變——從優化效率導向，轉為以患者為本的動態互動模式。對醫院領導層而言，失智症照護AI的落地成效，將成為評估整體醫療AI成熟度的重要指標，值得密切關注其臨床導入進展與倫理設計原則。",
+      "tags": [
+        "失智症照護",
+        "醫療AI適應性",
+        "以人為本設計",
+        "臨床AI應用"
+      ],
+      "author": "未標示（The AI Journal｜2026-06-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb29sVUZqT0I3NWZtMzUtY1pteGpCSE9hUjB6eWJQc2ZMYThvbk5rMzJpcC10d2tPbTlKNHh6X0NFZm5zY25WcVRMSjJLbHlUT0ZXcWJucENCOU5BMGRJMHNqX2J1OEF3bXBpdjlNanpJbHZzX19keGVKeHNXWF8tbUZyNFhNSHVuNDZv?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "FDA部署AI加速藥品審查：醫療法規迎來數位革命",
+      "summary": "據報導，FDA已正式啟動AI技術於藥品審查流程中的應用，目標是大幅縮短新藥上市審核時程。此舉被視為醫療法規監管領域的重大里程碑，透過機器學習模型協助審查人員處理大量臨床試驗數據、安全性報告及文獻資料，有助於識別關鍵風險訊號並提升審查一致性。FDA此舉回應了業界長期以來對審核效率的期待，同時也引發外界對AI決策透明度、責任歸屬及演算法偏差的關注。對醫療產業而言，藥品審查加速將直接影響新療法進入市場的速度，進而改變臨床治療選項的可及性。醫院採購與臨床決策團隊應關注此政策走向，評估未來更快速上市的AI輔助藥品及器材在臨床整合上的準備需求。",
+      "tags": [
+        "FDA政策",
+        "AI藥品審查",
+        "醫療法規",
+        "數位轉型"
+      ],
+      "author": "未標示（صوت الإمارات｜2026-05-31）",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZHhYRWVGN2xvYVVMY1pKR2czZG5vcVp6TEswS1BwUklVSDBRMERZbXEyU25GZGJLZ21IVjNuSzNOV1gtVDdaS2ROcm9mdkxQb2dXZHY3UFBJRG1JVmpGckQxU3B6ZTBKY2pwVmZMN0hKeC1YeHl1X1gzUS0wWGUzN3hzU25ZbDZjb0VpVDRtZWw5LUJTWVk5TE1jS2NnbmR1WW1BVVRSQkZZd1RLNUhJTFowc1Nzd0QtNi1LeFVsZ3ZKV2JwNVBnaEdoMHp5X1ZHNi16X0ExVkNsRHFmaXpIdTZrOXZHUjQwaDhDdnpFUkRPa0IzaEM3U2UzdWdpUERn?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "三星首爾醫院成立專屬「AX工作小組」全面推動醫院AI轉型",
+      "summary": "韓國三星首爾醫院宣布成立專責的「AX（AI Transformation）工作小組」，整合醫療、資訊與行政團隊，系統性推進全院AI轉型計畫。此舉標誌著頂尖亞洲醫療機構正從零星AI工具導入，邁向組織架構級別的戰略布局。該工作小組將統籌AI應用場景規劃、資料治理、倫理審查及跨部門協作，以確保AI專案能有效落地並持續優化。三星首爾醫院此舉為亞太地區醫院AI轉型樹立了具體範本，顯示頂尖醫療機構已將AI視為核心競爭力，而非附加功能。對有意推動數位轉型的醫院而言，設立專責組織單位、明確治理機制，是確保AI投資發揮實效的關鍵先決條件。",
+      "tags": [
+        "醫院AI轉型",
+        "組織治理",
+        "數位轉型",
+        "亞太醫療"
+      ],
+      "author": "未標示（아시아경제｜2026-06-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NYUlfeXg1VmNMcWt4NzNuNVFaNDk4Q3Voa3FsWkw1Ni1XSjdSUGZlbUY1SGJOczlNUVNsSXlZdVlTSHFMczVHZDd4VlZ0OWFpSlZveE1PQlRYYTU5ZGFaVHFYczFMQ0lfSFo1QWJvTEMyamE0R0wyMw?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "Leica Biosystems擴大與AstraZeneca及第一三共合作，推進AI驅動肺癌生物標記研究",
+      "summary": "Leica Biosystems宣布擴展與AstraZeneca及第一三共（Daiichi Sankyo）的合作範疇，共同推進以AI為核心的肺癌生物標記研究。此次合作聚焦於數位病理影像分析，透過AI演算法識別與肺癌治療相關的生物標記表現，以提升伴隨診斷（companion diagnostics）的精準度與效率。三方整合了數位病理平台、製藥臨床資料與AI分析能力，形成產學研跨界協作模式。此進展延續了先前AstraZeneca與Roche在亞太數位病理合作的趨勢，顯示大型製藥公司正積極將AI病理納入精準醫療開發鏈。對放射科及病理科而言，AI生物標記分析工具的成熟將直接影響未來癌症診斷與用藥決策流程的整合方向。",
+      "tags": [
+        "數位病理",
+        "AI生物標記",
+        "肺癌精準醫療",
+        "產業合作"
+      ],
+      "author": "未標示（BioPharma APAC｜2026-06-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSXhFZGNxLVFfVG9zSUlGT1FnQk5kT3BhWDg4WXlURjJnV2o5TklsaE1tUzNwQmhtUFZwVnhjVzdxY3FVQTJhUG50cGZrVHN2aS1yY0dZNHhEeGxERXpaSWR4RzE0cXBjc1NnYXExLTJWeklGdmU5T3dhVVIwQzNyTnhnTEMxRUJYSW9CeHp0cEZUUlVUSUF5anIxemhFbDFVQjROdERLVnBjdzJJeURZcDhRVHF4ZTM3M1V3VE8wY1k0cVZRb2RmVm1jLXlKVERpUTRKRVZkUUp0VU5OWC1QTWVpTjByNkYyaWNNcHlId25VZ2ZZeDVMQg?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.0,
+      "title": "AI正在重塑醫學教育：不是問題的根源，而是照出真相的鏡子",
+      "summary": "MedCity News刊載評論指出，AI的崛起正迫使醫學教育界重新審視其核心目的與培訓模式。文章以鏡子為比喻，指出AI並未破壞醫學教育體系，而是清晰照出現行體系長期存在的結構性問題：過度依賴記憶性學習、忽視臨床推理培養、課程設計與實際醫療需求脫節等。作者呼籲醫學院與教學醫院誠實面對：現行制度究竟在培養什麼樣的醫師？AI能處理的知識記憶任務大量外包後，人類醫師的核心價值應重新定義為判斷力、同理心與複雜決策能力。這對教學醫院的住院醫師訓練課程設計、臨床能力評估標準及AI工具導入教學環境均具直接參考意義。",
+      "tags": [
+        "醫學教育",
+        "AI與臨床訓練",
+        "數位轉型",
+        "醫師能力培養"
+      ],
+      "author": "未標示（MedCity News｜2026-05-31）",
+      "source_url": "https://medcitynews.com/2026/05/medical-education-is-at-a-crossroads-ai-isnt-the-problem-its-the-mirror/"
+    }
+  ]
+}
