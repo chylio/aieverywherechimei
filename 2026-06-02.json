@@ -1,0 +1,117 @@
+{
+  "date": "2026年06月02日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "智慧型手機相機被動監測心率：機器學習模型達到穿戴式裝置同等精準度",
+      "summary": "Nature期刊於2026年6月1日發表一項重大研究，團隊開發出一套機器學習系統，能利用智慧型手機前置鏡頭在使用者日常操作手機時，被動擷取臉部影像並即時估算心率，全程無需使用者主動配合。研究顯示，該系統在靜息心率測量上符合業界精準度標準，與傳統穿戴式裝置（如智慧手環）的準確性相當。此技術的核心突破在於「被動式監測」，不依賴專用感測器硬體，理論上可覆蓋大多數現代智慧型手機用戶。對醫療體系而言，此技術具備低成本、高普及性的遠端心臟健康監測潛力，有助於心血管疾病的早期篩查與長期追蹤管理，尤其對偏遠地區或資源匱乏族群更具意義。未來若與院內電子健康紀錄系統整合，或可成為居家照護與慢性病管理的重要數位工具。",
+      "tags": [
+        "遠距醫療",
+        "心血管監測",
+        "機器學習",
+        "穿戴式裝置"
+      ],
+      "author": "未標示（Nature｜2026-06-01）",
+      "source_url": "https://www.nature.com/articles/s41586-026-10507-6"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI病理影像分類器揭示雄激素受體抑制劑在轉移性前列腺癌的療效預測潛力",
+      "summary": "CancerNetwork於2026年6月2日報導，一項研究開發出以AI為基礎的病理影像分類器，能針對轉移性荷爾蒙敏感性前列腺癌（mHSPC）患者，從組織切片影像中識別出可能從雄激素受體（AR）抑制劑獲益的族群。傳統的生物標記檢測依賴分子檢測流程，成本高且耗時，而此AI分類器僅需現有的病理切片即可完成分析，大幅降低預測門檻。研究顯示，該模型在辨別AR訊號特徵上具有統計顯著性，可望協助臨床醫師更精準地為mHSPC患者制定個人化治療決策，避免無效治療造成的毒副作用與醫療資源浪費。對腫瘤科與病理科而言，此類AI輔助工具的出現代表精準腫瘤學向「影像即生物標記」方向邁進的重要一步。",
+      "tags": [
+        "AI病理",
+        "精準腫瘤學",
+        "前列腺癌",
+        "生物標記"
+      ],
+      "author": "未標示（CancerNetwork｜2026-06-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV3g4WTBtanVBNE1EMjRjOTZKZ0NIT1A3VXNHZ2lwQ0hWanZrMS1GVk5STVk2dy1pQkJGT0pwS2JjcGFjdy1TYzc0T2swTmdkV3lsV0Faa1RDMVQ5U2NTZk41MmlaR3ctbmJLaWJrbEdHNUlfbVBsYlpzQ0JyeVlGWUhBNHZjc28yUHo2OEtmbk5qbndCV0hpcExVQUdqTXEtekpYdHJkUQ"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "癌症AI病理模型存在重大安全漏洞：微觀雜訊可使多款模型產生誤判",
+      "summary": "Medical Xpress於2026年6月2日報導，研究人員發現當前多款癌症病理AI模型存在共同的臨床安全隱憂：在數位病理影像中加入人眼難以察覺的微觀雜訊（microscopic noise），即可導致多個獨立訓練的AI模型同時產生錯誤分類結果。研究針對數款臨床級病理AI進行測試，結果顯示此類對抗性干擾（adversarial perturbation）並非個案，而是跨模型普遍存在的結構性弱點。這一發現對正在評估或已部署AI病理輔助診斷系統的醫院具有高度警示意義，揭示在實際臨床環境中僅依賴單一AI模型判讀可能帶來的風險。專家呼籲醫療機構在引進AI病理工具時，應建立嚴格的對抗性測試機制與人工複核流程，以確保患者安全。",
+      "tags": [
+        "AI病理",
+        "模型安全",
+        "臨床風險",
+        "對抗性攻擊"
+      ],
+      "author": "未標示（Medical Xpress｜2026-06-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOWxSLVM3aGVjZ0RFUUdhUDh0NTRpeTBybkUtVDdRdmllRE1TSF9SQkF4dFg4dkZ4Tkdta2dmQWNGRE5rV0VKcVhTTkVZN0dHZFdUY3pmU242d0xuQ0lLbU5jR0RKOXB1dm9yZE95WWZwbnNuTmRuZmVLNURFSzFSUkcxTkJYN2NvaTRiS2dtbEM"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "NVIDIA與鴻海攜手全台醫學中心，代理型AI推動智慧醫療革新",
+      "summary": "COMPUTEX 2026期間，NVIDIA與鴻海宣布合作推動台灣智慧醫療轉型，聯手全台多家醫學中心部署代理型AI（Agentic AI）解決方案，應用範圍涵蓋患者分流、病灶偵測、手術協作及心臟3D重建等多項臨床工作流程。其中，AI輔助心臟3D重建僅需約1分鐘即可完成，較傳統人工流程大幅提速。鴻海在展場展示多款AI醫療應用，包括與黃仁勳共同打造的「AI醫師團隊」概念，強調以多模態AI代理協同運作取代單點輔助工具。此合作標誌著台灣醫療AI生態系進入平台化整合階段，對有意導入AI基礎建設的醫院提供重要的產業方向參考，也顯示本土醫療AI在國際舞台上的能見度持續提升。",
+      "tags": [
+        "代理型AI",
+        "智慧醫療",
+        "鴻海",
+        "NVIDIA"
+      ],
+      "author": "未標示（科技島｜2026-06-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92R01QQWdjWlpPUHNOY3h6ZllDd1JQdkFua2xRUTBDNW9kSnhxOEdteEJMZlRzT3dYUHJFVjEtUldFT1RrN0dFdXNTT1FDQnJKZHBmWk05VkUtZ0Q3U2dWLWcwQU4wMGNp"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "田納西州醫院爆發護理師竊取芬太尼事件，AI藥物管理系統未能及時示警",
+      "summary": "CBS News於2026年6月1日報導，田納西州一家醫院發生護理師長期竊取管制藥品芬太尼的案例，而院方部署的AI藥物管理監控系統未能在事件發生期間發出任何警示，直至州政府稽查紀錄揭露後才曝光。此案引發醫療界對AI藥物管理系統實際效能的嚴重質疑，特別是在偵測人為蓄意操弄行為方面的局限性。專家指出，現行AI監控系統多以統計異常為觸發條件，對於熟悉系統運作的內部人員所採取的刻意規避手段，往往缺乏有效的對應機制。此案對醫院藥事管理、護理人員監督機制及AI工具的治理框架均具有高度啟示，顯示AI輔助系統不能完全取代人工稽核與制度性防弊措施。",
+      "tags": [
+        "藥物管理",
+        "AI監控",
+        "病人安全",
+        "醫院治理"
+      ],
+      "author": "未標示（CBS News｜2026-06-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hcXJYYVYybWJnNnFjUV9EWklHZnFuMXA1azJqektjTlc4b3NVNTk4TkZVWkJBUGdpN0t1ei1hRGFkc21SWnBIeC1CdmZSbWFSQ2VyRVNuR09odXlMeTVKdjdpTXRkVHdnNm5wRjhjc1N2OGtDVGNFSkRvOXI"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "中醫大附醫舉辦國際阿茲海默症轉譯研究高峰會，聚焦AI與精準醫療應用",
+      "summary": "台灣中國醫藥大學附設醫院於2026年6月舉辦國際阿茲海默症轉譯研究高峰會，邀集國內外學者專家，聚焦AI技術、多體學（multi-omics）與精準醫療在失智症診斷與治療上的最新進展。會議探討如何整合大規模基因組學、蛋白質體學與臨床影像資料，運用AI模型建立早期診斷生物標記，並推動從基礎研究到臨床應用的轉譯路徑。隨著台灣高齡化趨勢加速，失智症照護需求持續增長，AI輔助的精準診斷工具對於提升確診率、縮短診斷延遲具有重要意義。此峰會有助於強化台灣在國際失智症AI研究社群中的地位，並促進跨機構、跨領域的合作網絡建立，為相關臨床科室提供最新的研究視野。",
+      "tags": [
+        "失智症",
+        "精準醫療",
+        "AI診斷",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（觀傳媒｜2026-06-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Hb2h5VWlTNE8tenB5dFM4WmxGOWpERUlBRWJJQ1BQYVpwN1BjamtnTl9tUXVmbk84YVk3Z1BEOTYyRGt4ancxVmpaaVFQY2oyeGN3UWNIYw"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "Ainos於台大醫院急診室啟動嗅覺AI研究，探索ER壅塞與呼吸道感染風險評估",
+      "summary": "台灣生技公司Ainos宣布與國立台灣大學醫學院附設醫院急診室合作，啟動以「嗅覺AI」為核心的臨床研究計畫，旨在評估氣味感測技術應用於急診室壅塞管理與呼吸道感染風險分層的可行性。該技術透過AI分析患者呼出氣體中的揮發性有機化合物（VOC）特徵，嘗試建立非侵入式的快速篩檢模型。急診室過度壅塞是全球醫療系統共同面臨的挑戰，若嗅覺AI能輔助分流決策，將有助於縮短等待時間並提升資源配置效率。此研究屬於新興感測AI的前期臨床驗證階段，結果有望為多種感染性疾病的早期識別提供新工具，也代表台灣在非傳統醫療AI感測技術的自主研發能量。",
+      "tags": [
+        "嗅覺AI",
+        "急診分流",
+        "呼吸道感染",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（newswire.com｜2026-06-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdFdZb2J3b1FHbzN1SGthb3ZXS3VYSmZrWHpwTnhLOU8xcXNmVFBHb3I0MzNGa1BYLXF0NlpDMlo0dmVhZ3RyU0c3NkZjRnpEbUZKVlNqUE56ZEl2NE5zRGlyWmRQNmJkRmJXWW1QMGZvWGJDbUZqM25XR2JydTRrbWl4MTAtSWdTUzdLNXVWcXFBUVJKNUpnZWZ4azNveXE5enl3YlptQWk"
+    },
+    {
+      "rank": 8,
+      "score": 6.0,
+      "title": "醫療AI規模化落地的關鍵：從創新試點到可持續系統性實施",
+      "summary": "MedCity News於2026年6月1日刊載一篇深度分析文章，探討醫療體系如何將AI從概念驗證與創新試點，轉化為可持續的系統性臨床與行政應用。文章指出，當前許多醫療機構面臨「AI碎片化」困境：多個部門各自導入不同工具，缺乏統一的技術治理框架與整合策略。作者特別聚焦於醫療收費循環（revenue cycle）領域，強調採用具備臨床語境理解能力的解讀型AI，能確保每項照護細節被精確記錄，既維護收入完整性，又符合合規標準。文章同時提醒，AI的規模化成功有賴於組織文化、資料標準化、員工培訓與跨部門協作的同步推進，技術本身僅是成功的必要條件而非充分條件，治理架構的完備程度才是決定性因素。",
+      "tags": [
+        "AI治理",
+        "醫療收費循環",
+        "數位轉型",
+        "系統整合"
+      ],
+      "author": "未標示（MedCity News｜2026-06-01）",
+      "source_url": "https://medcitynews.com/2026/06/scaling-ai-in-health-systems-from-innovation-to-sustainable-implementation/"
+    }
+  ]
+}
