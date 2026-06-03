@@ -1,0 +1,131 @@
+{
+  "date": "2026年06月03日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "Mayo Clinic與Microsoft攜手合作，共同開發具臨床推理能力的醫療AI模型",
+      "summary": "Mayo Clinic與Microsoft宣布建立合作夥伴關係，共同開發專為醫療場景設計的AI模型，目標是強化臨床推理能力，協助醫師實現更早期診斷與更精準的照護決策。此合作將結合Mayo Clinic深厚的臨床資料與醫療專業知識，以及Microsoft在大型語言模型與雲端基礎設施的技術優勢。與一般通用型AI不同，該模型將針對醫療問題的複雜性進行特化訓練，著重於症狀解析、鑑別診斷與治療建議等高度專業領域。此消息在業界引發廣泛關注，被視為繼Google Health與Epic整合之後，又一具代表性的頂尖醫療機構與科技巨頭深度結盟案例，對全球醫療AI生態系的發展格局具有重要指標意義，也為各醫院在評估臨床AI採購策略時提供重要參考。",
+      "tags": [
+        "臨床決策支援",
+        "大型語言模型",
+        "醫療AI合作",
+        "Microsoft"
+      ],
+      "author": "未標示（WinBuzzer｜2026-06-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaS04SzdXN193WjV4QnRTSGNmRUxMMWFmQnpidnRDc05qMFJILUJJYWVQaHo5NnNKc1ltSjAzTU8wSUVSV08xVGNTbnhwMURXNl9fZ0FNdU90U09jbHlPeXZLbnI2U3cyNnlOSlduTE5JWUw2QUNjMUU5MjY5UndRS1lRcy1MQUFuNy1yWUV5eldPaHR4ZTdwaHl1RUc"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "Joint Commission推出醫療AI責任自願認證，促進安全透明的AI部署",
+      "summary": "美國Joint Commission（聯合認證委員會）正式推出「醫療AI負責任使用認證」（Responsible Use of AI in Healthcare），這是一項自願性質的機構層級認證，旨在推動醫療組織以安全、可靠、透明且符合倫理的方式部署人工智慧。值得注意的是，此認證針對的是醫療組織整體的AI治理架構與實施流程，而非對個別AI工具進行認可或背書。認證涵蓋面向包括AI風險管理、監督機制、資料品質與偏差控制、臨床人員培訓及病患安全保障等。此舉被視為醫療AI監管體系的重要里程碑，有助於填補FDA器械核准與實際臨床部署之間的治理空白，對於正在規劃或已導入AI系統的醫院管理層與資訊團隊具有直接的政策參考價值。",
+      "tags": [
+        "AI治理",
+        "醫療認證",
+        "法規政策",
+        "病患安全"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-06-03）",
+      "source_url": "https://www.healthcareitnews.com/news/joint-commission-intros-new-voluntary-ai-responsibility-certification"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "首爾國立大學醫院與哈佛大學建立全球首座虛擬醫院，專用於醫療AI驗證",
+      "summary": "韓國首爾國立大學醫院（SNUH）與哈佛大學研究團隊聯合宣布，共同建立全球首個「虛擬醫院」框架，專門用於在真實臨床部署前對醫療AI系統進行嚴格驗證。此虛擬醫院以模擬真實醫院運作環境為核心，能夠重現患者就診流程、臨床決策情境與多科協作場景，讓AI模型在安全的沙箱環境中接受壓力測試，確認其在多元病患族群與邊緣案例中的表現。此合作模式提供了一種標準化的AI驗證路徑，可望成為各國醫療機構與監管機構制定AI上線前評估準則的重要參考，對解決目前醫療AI「臨床試用不足即上線」的痛點具有突破性意義。",
+      "tags": [
+        "醫療AI驗證",
+        "虛擬醫院",
+        "臨床安全",
+        "國際合作"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-06-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3I3MV96UHFLQ0pPOTRUSDR1VVhRSVpRdmxxUWpDUWJ4cllmaTRjekRKcnE0UmtOVmdtaEg0SUdnRGRPNmtyREVkeERiV1FHWDdhS3pPaENoT1MydzdHdkNfQ0tqX1gxVjR0SWNkNE5JNUl3eWdldlBPd0RDYXZxZzkwV3lkRTZnMi10Z0Z5ck5uZklsUUdueDFfLVpxZmxZc1Q3eEI2dkxwMjVrcEtkTTdn"
+    },
+    {
+      "rank": 4,
+      "score": 8.0,
+      "title": "AI可誤導放射科醫師判斷並強化錯誤說服力，研究揭示臨床安全隱憂",
+      "summary": "刊載於AuntMinnie Europe的最新研究指出，AI輔助影像判讀系統不僅可能產生誤判，更令人憂慮的是，AI的錯誤結論往往以高度自信的方式呈現，反而強化了放射科醫師接受錯誤診斷的傾向，形成「AI說服效應」。研究顯示，當AI給出錯誤但看似合理的建議時，放射科醫師修正自身正確判斷的機率顯著上升，凸顯人機協作情境下的認知偏誤風險。此發現對臨床AI部署的使用者介面設計、置信度顯示方式及醫師訓練課程均具有重要啟示，呼籲醫療機構在導入AI影像輔助工具時，應同步建立適當的人工覆核機制與醫師AI素養培訓，以防範潛在的診斷安全事故。",
+      "tags": [
+        "放射影像AI",
+        "臨床安全",
+        "人機協作",
+        "AI偏誤"
+      ],
+      "author": "未標示（AuntMinnieEurope｜2026-06-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc0hUM0xqLS1oTE01SkRmZ05lZG11ZFpJSzVhdzVtczlwcHF6cnEtZzFxeDZxam5hR0tfZ1RIUWgtZzVqMVNCSlcwRjM2QlY3RzhYSFEyVV9GMDJMaDR6VDd1M2FVREczNXFvR3pMdGxObG1ZUGh5cGhTRXpWOEdpblJ4MnpoSThNZFo0OVprZkNxakU3Wm9OSW1Pb2hNeEZJVEM5cHdNSUJtd2Fia3FMckx2TUc0eW5UbkpQSEZVRURzd1pPbzNBT3ZlWUJ0dk9YZjlyY2NvWVJaeVotUFp0WmVIT0w3ZnNSaTRBZA"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "台灣AI輔助超音波「肝瘤偵」問世，協助偏鄉落實肝癌早期篩檢",
+      "summary": "台灣每年約有7,000人死於肝癌，且近四成患者確診時已屬晚期，早期偵測成為關鍵挑戰。臺大醫院研究團隊開發的「肝瘤偵」AI輔助超音波判讀系統，透過深度學習技術協助醫師辨識肝臟腫瘤影像特徵，有效降低因判讀者經驗差異所造成的漏診風險。此系統的核心價值在於其適用於偏鄉及基層醫療場域，讓缺乏資深肝臟專科醫師的地區也能獲得接近權威醫師水準的判讀支援，有助縮短城鄉醫療資源落差。此案例同時獲得EASL 2026（歐洲肝臟研究學會年會）國際平台關注，代表台灣醫療AI技術在全球消化器官領域展現出具體的臨床落地成果，對國內醫院評估影像AI在資源有限場域的部署策略具有參考意義。",
+      "tags": [
+        "肝癌篩檢",
+        "超音波AI",
+        "台灣醫療AI",
+        "醫療平權"
+      ],
+      "author": "未標示（LINE TODAY｜2026-06-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuQjY5VS1wNVVjUWszVFlzMFRCNVlZUGM0ZHhubGpETUk2am9TcnVmaUNMVVNRU21nenkwdV9Ed3hNQi00dk9SS01LaVV2aDdoR2w2STN3"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "日本醫療人員與民眾對生成式AI接受度調查：慣用程度影響醫療AI採納意願",
+      "summary": "發表於Cureus的日本橫斷面問卷調查研究，針對醫療從業人員與一般民眾探討日常生成式AI使用習慣與對醫療AI接受度之間的關聯性。研究結果顯示，平時有習慣使用生成式AI工具的受訪者，對醫療AI的接受程度顯著較高，且此趨勢在醫療從業人員與一般大眾兩個族群中均可觀察到。此研究提供了量化數據支持「AI素養培養可促進醫療AI導入」的假說，對醫院規劃內部AI教育訓練與推動臨床人員使用AI工具的策略具有參考價值。在台灣醫療機構積極推動AI轉型的背景下，此類研究有助於了解醫護人員對AI工具的態度差異，並據此設計更有效的推廣方案。",
+      "tags": [
+        "醫療AI接受度",
+        "生成式AI",
+        "醫護人員調查",
+        "日本研究"
+      ],
+      "author": "未標示（Cureus｜2026-06-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaE5MSHlXQ2tmMWhjUlVrWUV3Nmk5aHBrRlIwTmVSdkR1Y3h3MkRydTh2UnZtMFVJS0dfYTBkU0NwRG9tU0h3RVdoNDFmbm1iNGNlZXRFNjBtYVlQLWdVZDN0NDZHNlZwN25IYVFPemdlY3FyQnV4a3pJTk5DazFuTnQ4Mk1TRHlLc09weVJWVHl5YTN0OGF5Ykcxc1dBSFVBQ0QxQUM1bkVYZGF3eHAzLWx1WEI2MHBrSzB0Vk9SSndwcy1wSHZrck45RWd0WU5fWDRMVWNqdlgtY29NNjFOWkdNMmZvUWlyWnVULWpSaTR3QjhwUWhr"
+    },
+    {
+      "rank": 7,
+      "score": 7.3,
+      "title": "仁寶電子攜手NVIDIA推進智慧醫院Physical AI生態系，展示全方位臨床部署藍圖",
+      "summary": "仁寶電子（Compal）在COMPUTEX 2026展出其與NVIDIA合作打造的Polymedx Physical AI平台，展示結合邊緣運算、感測硬體與AI推論能力的智慧醫院整合解決方案。該平台涵蓋病房監測、臨床輔助決策及醫院營運管理等多元應用場景，強調將AI能力從雲端延伸至醫院現場的邊緣設備，實現即時、低延遲的臨床AI部署。仁寶同時宣布深化與NVIDIA的智慧醫療生態系合作，擴展台灣在全球Physical AI醫療硬體供應鏈中的地位。此展示呼應了台灣政府「健康台灣深耕計畫」框架下推動智慧醫療落地的政策方向，對評估智慧病房硬體建置方案的醫療機構具有直接的產品參考價值。",
+      "tags": [
+        "Physical AI",
+        "智慧醫院",
+        "NVIDIA",
+        "台灣醫療科技"
+      ],
+      "author": "未標示（富聯網｜2026-06-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1ZWbDJCN09MZ25sS1BmRjNsQzF6QkZNLXdBczBjMi01ckc3ZzNEeS10c2hvZ3ZORHktdklSYldZZlZvSDJDaWpxTXdFX1NmSmtfMHFJUERxZHk1SE5pWF9UOWd2OTB2Qy1ZTFMyU2JTQzBSQk5mbnlUUTF6dlF4UnFvNmpZTUky"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "AI應用於社區腫瘤診所：提升藥品庫存預測與營運效率的實戰案例",
+      "summary": "Healthcare IT News報導Oklahoma Cancer Specialists and Research Institute（OCSRI）導入AI工具優化社區腫瘤診所營運的實際案例。面對特殊藥品採購成本攀升、給付利潤壓縮及庫存管理複雜度上升等挑戰，OCSRI透過AI平台對患者治療需求進行預測性分析，改善昂貴抗癌藥物的採購時機與庫存水位管理，進而降低藥品浪費與資金積壓風險。此案例展示了AI在臨床以外的醫院營運層面所能帶來的具體財務效益，對資源有限的社區醫院或腫瘤中心在規劃AI導入優先順序時具有參考意義，亦顯示供應鏈AI與臨床AI並重的整合思維正在腫瘤照護機構中逐漸成形。",
+      "tags": [
+        "腫瘤照護",
+        "醫院營運AI",
+        "藥品管理",
+        "社區醫療"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-06-03）",
+      "source_url": "https://www.healthcareitnews.com/news/how-ai-can-give-community-oncology-clinics-clearer-view-future"
+    },
+    {
+      "rank": 9,
+      "score": 6.8,
+      "title": "台灣「醫知彼」獲日資支持，推出醫師免費無限量AI查藥文獻服務",
+      "summary": "台灣醫療AI新創「醫知彼」在InnoVEX 2026首日宣布獲得日本投資方資金挹注，並同步推出面向醫師的免費AI服務，提供藥物資訊查詢與醫學文獻快速摘要功能，且不設Token用量上限。此服務旨在解決臨床醫師日常查藥、閱讀文獻耗時的痛點，透過大型語言模型整合藥典資料庫與PubMed等醫學文獻來源，讓醫師能在診間快速獲取精準資訊支援。免費開放使用的策略顯示台灣醫療AI新創正積極透過降低使用門檻來擴大臨床採用率，獲得日資背書也意味著其技術與市場策略獲得國際認可，對評估臨床知識支援工具的醫院資訊部門具有參考價值。",
+      "tags": [
+        "台灣醫療AI",
+        "臨床知識支援",
+        "醫師工具",
+        "新創投資"
+      ],
+      "author": "未標示（自由財經｜2026-06-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wdUN5bHJpUFZuT2JzTDdzUnAwVjFuVG1JZll3bzN1dTA2eXNsd2UxdHg4NVc3WVE0X1A1a1hMVDJWRVA5QWhia3YzcXl4U0FGRmJFZDNnck5PWVJ0TVZN0gFkQVVfeXFMTjNrM0JsOExEVmdjRmlBd1hBeExYTDYzR1YwX1J1ejEyRDdWSmNHSG1jb21tVGxRdUQtVlJCTmRKUEN3TjVpSTYzTFNLSVlPRFJwODQxVXZaYU5oYmxJM2RRTWdPOQ"
+    }
+  ]
+}
