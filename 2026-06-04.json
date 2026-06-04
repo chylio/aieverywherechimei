@@ -1,0 +1,131 @@
+{
+  "date": "2026年06月04日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "醫療AI網路安全新里程：HSCC發布專屬醫療AI資安治理指南",
+      "summary": "美國醫療與公共衛生部門協調委員會（HSCC）正式發布針對醫療AI的網路安全專項指引，填補現行法規在AI資安治理上的空白。隨著AI廣泛部署於臨床診斷、藥物管理、行政作業等場景，醫療機構面臨的資安風險也日趨複雜。HSCC指出，現有的通用資安框架不足以應對醫療AI的特殊威脅模型，包括模型投毒、對抗性攻擊、資料隱私外洩及供應鏈風險。該指南提供具體的AI資安治理架構，涵蓋風險評估方法、供應商管理要求、事件應變程序及持續監控機制，協助醫院建立適合本身規模與資源的AI資安管理體系。對於正積極導入AI工具的醫院資訊與數位轉型團隊而言，此指南可作為內部AI治理政策制定的重要參考依據，有助於在推動效率提升的同時確保病患資料安全與系統可靠性。",
+      "tags": [
+        "醫療AI資安",
+        "治理框架",
+        "網路安全",
+        "法規指引"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-06-03）",
+      "source_url": "https://www.healthcareitnews.com/news/new-hscc-guide-addresses-cybersecurity-risks-specific-healthcare-ai"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "超越投資報酬率：醫療AI真正缺失的關鍵評估指標",
+      "summary": "IQVIA發表分析報告指出，醫療機構在評估AI投資效益時過度依賴傳統ROI（投資報酬率）指標，忽略了更能反映AI臨床價值的關鍵維度。報告認為，醫療AI的真正影響力應涵蓋臨床結果改善、醫療人員認知負荷降低、病患安全事件減少及工作流程整合深度等面向。單純以財務回報衡量AI工具，可能導致醫院採購決策失準，選擇短期省錢但長期效益有限的解決方案。IQVIA建議醫療機構建立多維度的AI績效評估架構，納入臨床品質指標、醫師滿意度、系統穩定性及倫理合規性，並在導入前明確定義成功標準。此觀點對正在規劃AI投資策略的醫院領導層與資訊部門具有重要參考價值，有助於更全面地評估AI工具的實際貢獻並做出更精準的資源配置決策。",
+      "tags": [
+        "AI評估指標",
+        "醫療AI投資",
+        "臨床效益",
+        "決策框架"
+      ],
+      "author": "未標示（IQVIA via GNews-Medical AI｜2026-06-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanZnSjhaa2dCZVBpcExnUXpIQjBjWHJVQ2ZfVWRReG1DSGo0UVo5bFh5cnJfMm9nYmlVVzJmUDZHX2ZTWnJ0cEpMRFJWOHYxZ0lxZlBXMTlhSW1IOWdsRGZDSGRveEJkM0hqWTlPSGZwM1NlcDFGS21FNEhUYVN2RUxQS0t0aVh1Rnc?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "Cortechs.ai與Microsoft合作，將AI影像分析深度整合至放射科工作流程",
+      "summary": "神經影像AI公司Cortechs.ai宣布與Microsoft建立合作關係，將其AI驅動的腦部影像定量分析工具整合至Microsoft的醫療雲端生態系，目標是讓放射科醫師在不離開現有工作流程的情況下即時取得AI分析洞見。Cortechs.ai的核心產品能對MRI腦部影像進行自動化體積測量與異常偵測，廣泛應用於失智症、多發性硬化症及神經退化性疾病的輔助診斷。此次整合透過Microsoft Azure健康雲端平台，可望大幅降低放射科AI工具的導入門檻，並提升AI分析結果在臨床報告中的可近性。此合作模式代表醫療AI正從獨立工具走向深度嵌入臨床資訊系統的新階段，對於規劃放射科數位轉型的醫療機構而言，此案例展示了平台化AI整合的可行路徑。",
+      "tags": [
+        "放射科AI",
+        "醫療影像",
+        "雲端整合",
+        "工作流程"
+      ],
+      "author": "未標示（Imaging Technology News via GNews-AI radiology｜2026-06-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeFZIOUZELVZMaDgzbzc1aWpFay10VExoenVBbjU4YjN1dUR6SU1sS25qRWVlYXhSMktLaEk4cEJ2aUxmQmxVcjY0WDFzbmdqR2xvWWZreUQxOGktenNiRC00eVBoX1hmdVY3RU9jYUpZS01EZV9Zal9pTEd3b1llUFU2Zmo5QXRNNkp0ZnI0R3p0ZnExNGgzMW1FYWJaa29sZE5kcmRNdmlhM2pCalItdUZRd2tQeHBTeEhuSQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "Tempus AI聯合耶魯紐黑文健康啟動數位病理開源聯盟，加速AI模型共享",
+      "summary": "Tempus AI宣布與耶魯紐黑文健康系統共同成立數位病理學開源聯盟，旨在透過開放原始碼方式共享AI病理模型、標注資料集及演算法工具，降低醫療機構自行開發AI病理工具的技術門檻。此聯盟計畫讓成員機構能共同貢獻去識別化的病理影像資料，協作訓練更具代表性的AI模型，並公開發布研究成果。數位病理AI在腫瘤診斷、生物標記識別及預後預測等領域具有重要臨床潛力，但資料取得不易及模型泛化能力有限是主要挑戰。開源聯盟模式有望打破資料孤島，加速學術與臨床研究協作。對於具備病理科及腫瘤中心的醫療機構而言，參與或關注此類聯盟動態，將有助於掌握AI病理診斷的最新技術進展與合作機會。",
+      "tags": [
+        "數位病理",
+        "開源AI",
+        "腫瘤診斷",
+        "學術合作"
+      ],
+      "author": "未標示（Investing.com via GNews-AI radiology｜2026-06-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUk9LUkdjWU84STFwcWJ5NzZkWFl0RUN0aDdKUHVRd3NBVTdQRjdIN2wyN3NsYy1maWl1NVAxUTlMSGJpNWZseHhzZ3VkczRYaE1taTYzUGFNVHI3YTQzTXBhbm00ald5eGMteHFQSGtkXzhDTnJNdzFmVkZpVVlNQlBpcGNncUoxd19uYkhnU05PR0VEcXEtSTh5TGcxbFRTTVY5VkhBNWhHYWtWZ3ZhSF83ZkEtZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "臨床醫師與病患對醫療AI的六大核心憂慮：2026年調查報告",
+      "summary": "HealthExec發布2026年調查報告，歸納臨床醫師與病患對醫療AI最主要的六項憂慮，包括：AI診斷錯誤的責任歸屬不明確、演算法偏見導致特定族群受到不平等對待、病患資料隱私保護不足、AI決策缺乏可解釋性導致醫師難以判斷是否採信、過度依賴AI削弱臨床人員專業技能，以及AI系統在資安漏洞下可能遭受惡意操控。報告指出，儘管AI工具在效率與準確率上持續進步，上述疑慮仍構成醫療機構大規模採用AI的主要障礙。調查同時發現，醫師對AI的接受度與其接受的AI識讀教育程度高度相關。此報告為醫院領導層評估AI導入策略、設計醫護人員培訓計畫及建立病患溝通機制提供了重要的實證依據。",
+      "tags": [
+        "醫療AI信任",
+        "臨床疑慮",
+        "AI偏見",
+        "病患安全"
+      ],
+      "author": "未標示（HealthExec via GNews-Medical AI｜2026-06-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnN5Q1BXMDQzLVRNOUZtTzlPMjB5dFRtYmZuSEpGc2lzbEdQbzdPcUFBdkNVb3pLNmRMY3c0dnNzb0NiQ21EcEFEakt3WnZZU2RodzRHUjEtX3N0Z3RtaC1fNzY0UUZ5Szh0aDIxYThrZmNkRUhmY0Y1cUluemJ3MGY1TVFrV0ZFMW0xTjJPbXpsYTh6MGNsWlA3bkdBMHdzNDVybkVlc2VBLXpoaEN5ZmxBN2pGZ2QzWUdWMVhxVQ?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "德州大學AI原生醫院藍圖曝光：從設計之初全面融入人工智慧",
+      "summary": "德州大學（UT）正積極規劃一座以「AI原生」為核心設計理念的全新醫院，從建築規劃階段即將AI工作流程、感測器基礎設施及資料架構納入核心設計，而非事後加裝。據報導，該醫院計畫在病房、手術室及急診室全面部署環境感知AI系統，實現即時病況監測、自動化臨床文書及預測性床位管理。此設計理念代表醫院建設思維的重大轉變，不再將AI視為附加工具，而是作為醫療服務交付的基礎架構。此案例對正在規劃院區擴建或翻新的醫療機構領導層具有高度參考價值，展示了如何在實體設計層面預先支援未來的AI應用需求，避免事後整合的高昂成本與系統相容性問題。",
+      "tags": [
+        "AI原生醫院",
+        "智慧醫院設計",
+        "數位轉型",
+        "臨床AI基礎設施"
+      ],
+      "author": "未標示（Austin American-Statesman via GNews-AI clinical｜2026-06-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2RuUmZxLUNMcGlMZTZrcXJXQlF0NTVISzcyeUtERVVVd2R6MFd2elpGQlF0Nmt2M2QxZUgwV0t6aHgzUWkzSy1WYXhULWE2eDdTWElEZHNhQU1DdnFBQnNrcnlmS0F2MnBqYmdNMmdsdW1hSjh2eWFBZl9NV2VEdkVNb0paTkhtenhqTFNlTEJJRHRtS1FXcjlDLXo3U3BvOEM4?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "OSF HealthCare擴大與hellocare.ai合作，全院推行AI輔助智慧病房",
+      "summary": "美國OSF HealthCare宣布擴大與hellocare.ai的策略合作，將AI輔助智慧病房解決方案全面擴展至整個醫療體系。hellocare.ai的平台整合語音AI、視覺監控及患者互動介面，能在不增加護理人力的情況下提升病患安全監測、跌倒預防及病患溝通品質。此次全院部署標誌著智慧病房從試點走向規模化應用的重要節點。OSF HealthCare的案例顯示，院級規模化推行AI智慧病房需要強而有力的策略合作框架，並須解決系統整合、員工培訓及資料治理等挑戰。對醫院領導層而言，此案例提供了將AI環境監控技術從單一病房擴展至全院層級的實務參考，尤其在提升護理效率與改善病患安全方面具有直接的借鑑意義。",
+      "tags": [
+        "智慧病房",
+        "病患安全",
+        "AI護理輔助",
+        "規模化部署"
+      ],
+      "author": "未標示（PR Newswire via GNews-AI clinical｜2026-06-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPQmhMM3pNQ0EtSlRwb0h0d2t2TUp5QkRVYjFGcWdNdTFERU1WQ1V3R1BMWlN6ajJQUF9qdFFaOGI1V3l2ME9RWm8td2ZaUVpRbkctWUpacm9UWngzcko2dWpqVHNaSEh3SVhZZS15RGFOclEyY3RCNlVyN2pGcFJycjRMXzRWcGRjUE5nT1VybXE3OEdHaHJtRzlCNEhhSzNPSGUtUVlwS0k3anZ0OUJQTVdUYW5yaEY1OVpsWDZoSUM1TEJPM2lGaVRGWHFRNjVMemxzdVNGcDh3US0wOFdPb2ZCNXBiUExDTzE2MTV1LUZSTEg4Qm9valM0YlFvQlpxY2QtZ0RPYWRydjhGR053?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "晉弘科技攜手研華，於COMPUTEX展示全自動AI眼底篩檢系統",
+      "summary": "台灣醫療器材廠晉弘科技與工業電腦大廠研華科技在2026年COMPUTEX展覽上聯合展示搭載Edge AI技術的全自動眼底篩檢系統。該系統結合晉弘的眼科光學技術與研華的邊緣運算平台，可在無需眼科專科醫師在場的情況下，自動完成眼底影像拍攝與AI初步判讀，並即時輸出糖尿病視網膜病變、青光眼及黃斑部病變等風險評估報告。此系統設計考量基層醫療及偏鄉健康篩檢場景，有助於解決眼科資源分配不均問題。台灣廠商持續深化AI醫療器材的垂直整合能力，從感測硬體到邊緣AI推論全鏈條自主掌控，展現台灣在智慧醫療硬體生態系的競爭優勢，對推動偏鄉醫療平權具有實質意義。",
+      "tags": [
+        "眼底篩檢",
+        "Edge AI",
+        "台灣醫療AI",
+        "偏鄉醫療"
+      ],
+      "author": "未標示（UDN via GNews-台灣醫療AI｜2026-06-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RRklVNXVwQmx1OUQwLVR4RGVoUDZxTm9pekZHekMtQVVkMFByUTk4NzhRemZxbFpEbHhOUVR3MFViU2xIaC03U2x5ZlJsaDgt0gFWQVVfeXFMUGFHY3RTbm15V3NXY3ZtRFlDelM2SmtFaWZmWmRWeVlQTnJzLTZnZXpTMUE1Q2JuUVZUWGtfOENoRFhlR3U3eGNxN3daMUFqTXJvRWV2TlE?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "ambient AI改變診間互動：Beth Israel Lahey Health的臨床減負實踐",
+      "summary": "Healthcare IT News深度報導Beth Israel Lahey Health導入環境式AI（ambient AI）的實際成效。長期以來，臨床醫師在門診過程中須同時進行病患溝通與電子病歷記錄，造成醫師注意力分散，並降低病患就醫體驗。Beth Israel Lahey Health透過部署環境式AI聆聽系統，自動將醫病對話轉換為結構化病歷草稿，讓醫師得以將視線與注意力完全放在病患身上。院方報告顯示，導入後醫師的文書時間顯著縮短，醫師滿意度提升，病患亦感受到更具人情味的就醫互動。此案例具體說明了ambient AI在減輕醫師行政負擔、改善醫病關係及緩解職業倦怠方面的實際效益，對正在評估或試點臨床語音AI解決方案的醫療機構提供了重要的實務參考。",
+      "tags": [
+        "環境式AI",
+        "臨床文書",
+        "醫師減負",
+        "醫病互動"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-06-03）",
+      "source_url": "https://www.healthcareitnews.com/news/beyond-screen-how-ambient-ai-changing-exam-room"
+    }
+  ]
+}
