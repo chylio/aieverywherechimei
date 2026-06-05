@@ -1,0 +1,145 @@
+{
+  "date": "2026年06月05日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "美國FDA逐步完善AI醫療器材監管：明確軟體功能定義與審查指引",
+      "summary": "美國FDA持續精進AI醫療器材監管框架，針對AI軟體功能的定義範圍與審查流程發布更新指引，目的在於釐清哪些AI輔助軟體屬於醫療器材管制範疇，並規範廠商送審時應提供的技術文件要求。此舉對AI輔助診斷、臨床決策支援、影像分析等系統的開發商與醫院採購方均有直接影響，代表FDA正逐步從「個案審查」走向「系統性監管架構」。對於正在評估或已部署AI醫療器材的醫療機構而言，瞭解最新監管邊界有助於降低合規風險，並在採購、驗收及後市場監測流程中預先因應監理要求。此監管動向亦呼應國際間對AI醫療器材透明度與問責性的高度關注，預期將影響台灣衛福部食藥署未來修訂相關法規的方向。",
+      "tags": [
+        "FDA監管",
+        "AI醫療器材",
+        "法規政策",
+        "臨床決策支援"
+      ],
+      "author": "未標示（商傳媒｜2026-06-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPSE9TUVJSd3VPUldMUVkyaGdGT3RQLWtOMG1zM0pCY3RjYUlRYmZEdVFJQXRfVVdac28tYTUwOHBQZVBnMkE5SjgySkYyeUlOZFF3dHB1ZTJiRTlNanoyZzQ1N09VTXREUkJ0c1E5dDR2NWlFOHR5TjdDNEtiRDdUbWFnN09PS3JSZTFQTngwdlFHOWxmWDhDZ2kyOV9iZEZvQW5UTVVtUUlCRGFMTEVVemI5amV3R3gyRXdpUWVSbDktSzJiVUZHS0hWYzJnYmltWUkzT0cxcmtwcGYwN2FERDBJV2hSODVBeXBjblNLUjNnazZERF9yYjVQbmhMYzlocXhSRV9SNkdBQlpGU2EyVUdPZE1GMUVIdHFBQ2M5Vl81Q2hfT25RVWk0V3JfaGxrOHpKWkpwOFNDYXROblRoZDNGN2hOd3BxT3JIYkh6Qk1ZYzJvUnExMDdTOVBRODFLNXlLRlNJcHVxY0s1SXpPUy1Bc2djNEJLZ0hZN2VYMnYwdHF6YV9hYTJpcWFWdWgxQndYWUxLNmtQdw"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "馬偕醫院於NVIDIA GTC Taipei 2026發表AI實證醫學系統，強化醫療決策可信度並攻克大型語言模型「幻覺」問題",
+      "summary": "馬偕醫院受邀參加NVIDIA GTC Taipei 2026大會，正式發表其自行研發的AI實證醫學系統，核心目標在於解決大型語言模型（LLM）在臨床應用中廣受詬病的「幻覺」問題——即模型生成不實或無根據醫療資訊的現象。該系統透過整合經過驗證的臨床知識庫與可溯源引用機制，要求AI回答必須附有可查核的實證依據，從而提升臨床醫師對AI輔助建議的信任度。馬偕醫師指出，醫界對AI最核心的疑慮正是「能否相信AI的回答」，此系統的設計理念直接回應此痛點。這一本土醫院自主研發的可信任AI案例，對正在評估導入LLM或臨床決策支援工具的台灣醫療機構具有重要參考價值，亦展示了醫療AI從技術部署走向臨床信任建立的實踐路徑。",
+      "tags": [
+        "大型語言模型",
+        "AI幻覺",
+        "實證醫學",
+        "臨床決策支援"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-06-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQbEwtNzBCNUhhekNKQ1RLZU1RR3BBM3hVTHNWQWRvcnVzRWRHMl9jNVl2a3lyR19PclB5NVFSN1BBa0t3SVNINkJCMEJ5djVzZFFXN3U4Zk1MOUVnakVBb19MXzVBZzRyNEF3bmJfZ01aZUc2ajlSbmF3N3RWRkRSbTFBOGhaajFxRVdjTUpmeW5RYjZ1UHhmdDItT2dXZktOVHZkQ3FldU82cHEyZnRqMUx1LWNkMWUzTTBhcmNEVVo0d2cwbWdhSlc0TjJrMm13ZUVkaHNyNFMtYnpucHc2M2w0T1V2SHdySm5lSTVuMV9QYWJnRm1MRWhiaHdOOFpMQ2h3aVRkc3V2Z1NweHd5Mk0yaDctckRhblQ3V3NyYWFWZmc2aXQ2YXRuV0pRUHU4cnN6d25ScGNlWVVVUG54ZUZLWlo5ckoxRUhhMTFyM0I4N1Y5eFpfQ3ZmcXJIWlNaam1sUm5UUQ"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "醫療AI工作流程整合效能最佳化：對齊流程才能真正發揮AI價值",
+      "summary": "InformationWeek最新報導指出，醫療院所導入AI後成效良莠不齊的關鍵原因，在於AI工具是否真正嵌入並對齊既有臨床工作流程。研究與實踐案例均顯示，單純引入技術而未重新設計工作流程，往往導致AI系統淪為閒置工具，甚至增加臨床人員負擔。有效的醫療AI整合應從流程盤點入手，識別瓶頸環節，確保AI在正確的決策節點提供支援，並通過持續的使用者回饋進行迭代優化。此觀點呼應近年來醫療AI實施失敗的主要原因分析——技術本身往往不是問題，組織變革與流程重塑才是成敗關鍵。對醫院資訊部與數位轉型團隊而言，本文提供了評估現有AI部署成效的重要視角，強調「技術採購」與「流程設計」必須同步推進，方能實現AI的臨床與營運價值。",
+      "tags": [
+        "工作流程整合",
+        "醫療AI導入",
+        "數位轉型",
+        "組織變革"
+      ],
+      "author": "未標示（InformationWeek｜2026-06-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkpVSE5vS1BReDZ3RW5rYTZGalpqTHV4OU1Pb19PdDYzU3Z6dW5YaW1wOUdMOHpQaGs0ZVhMWWZGQXd2NzJOcmRNVWNZcEU0cXFfYjlNNkFsT0E1Y2VtMUc1NzhBV2Z1X3ZxSUJQb0J0RDByTzJDSjBvNUhOTU9QRnBrSU1JWlZaOGtxSVpsQlg4ZVU2MzdMU2VyenlUdDQ"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "Utah處方更新AI聊天機器人試點引發爭議：醫療委員會批評AI遭訓斥，患者端AI文書記錄工具崛起",
+      "summary": "STAT News深度報導揭示，猶他州（Utah）一項以AI聊天機器人協助患者更新藥品處方的試點計畫（由Doctronic執行）引發當地醫療委員會公開批評，委員會隨後遭到訓誡，顯示醫療AI監管與臨床自主性之間的張力正在加劇。與此同時，原本以醫師為服務對象的AI病歷書記工具（ambient scribe）正逐步轉向患者端應用，開發商開始推出專為患者設計的就診記錄工具，讓患者能夠自行掌握診療過程的完整紀錄。此趨勢反映出醫療AI的應用邊界正在擴展，從後端行政支援延伸至前端的醫病溝通與患者賦權領域。對醫療機構而言，如何在AI輔助處方管理的便利性與臨床安全監督之間取得平衡，將是未來政策制定的重要課題。",
+      "tags": [
+        "AI處方管理",
+        "AI病歷書記",
+        "患者賦權",
+        "醫療監管"
+      ],
+      "author": "未標示（STAT News｜2026-06-04）",
+      "source_url": "https://www.statnews.com/2026/06/04/doctronic-utah-pilot-medical-board-scolded-health-tech/?utm_campaign=rss"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "COMPUTEX 2026首度將智慧醫療納入AI主軸，四大架構與臨床六情境促進醫院與ICT大廠直接對接",
+      "summary": "COMPUTEX 2026首次將智慧醫療列為AI核心主軸，透過四大技術架構與六項臨床應用情境，促成醫療院所與ICT大廠在展會現場直接對話與合作媒合。六大臨床情境涵蓋影像診斷、手術輔助、病患監測、藥物管理、行政自動化及遠距醫療等領域，旨在縮短醫療需求與技術供給之間的落差。此舉標誌著台灣智慧醫療生態系進入新階段——不再僅止於技術展示，而是強調實際臨床場景的可落地性與商業合作可行性。對醫院領導層而言，COMPUTEX提供了一個評估新興醫療AI解決方案、尋找潛在技術夥伴的重要平台，同時也反映出台灣政府與產業界積極推動「醫療×AI」生態系整合的政策方向。",
+      "tags": [
+        "COMPUTEX 2026",
+        "智慧醫療",
+        "臨床情境應用",
+        "醫療AI生態系"
+      ],
+      "author": "未標示（環球生技月刊｜2026-06-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0aW9qNzJtcHZWYmdJUGQtY1FodUkwcTlBanhMWmJ0T0JiaXl0eENnWWZIbnJNZi1KeURSWW5LS0hBYmpoRlFGeVRRdENwV0k0QVZLQ3VpV1Zycnl6dWNUZTd3QlF4dEpYb0tNSDV0RFJZZUN4clhR"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "AI預測轉移性前列腺癌死亡風險：新型測試工具問世",
+      "summary": "Clinical Lab Products報導，一項新型AI測試工具能夠預測轉移性前列腺癌患者的死亡風險，為腫瘤科臨床決策提供新的輔助依據。該工具透過分析患者的多維度生物標記與臨床數據，建立個人化死亡風險預測模型，有助於臨床醫師針對高風險患者提前介入、調整治療策略，並優化資源配置。轉移性前列腺癌的預後評估長期仰賴傳統病理分期，AI驅動的動態風險預測有望突破既有局限，提升預後判斷的準確性與即時性。此工具的問世呼應近年來AI病理與腫瘤精準醫療的快速發展趨勢，對泌尿腫瘤科、病理科及精準醫療計畫具有直接參考價值，亦展示了AI在癌症分層管理中的潛在臨床效益。",
+      "tags": [
+        "前列腺癌",
+        "AI風險預測",
+        "腫瘤精準醫療",
+        "臨床決策支援"
+      ],
+      "author": "未標示（Clinical Lab Products｜2026-06-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWNQU1lPVnhHZERGR0s5UXNKdEhMRDNJRVhfd1R0TlAyYzRJUXo0d0ZBM2V2N2pJZFV6WHAxMEdUM0lOZGN5LXJZMHA3U3E3RzQwR2ZHWTd1NnJ5bjM3MnZuYWtVZHRrTnRJNVprdEswMGU4VWU3Q1dDS3B3X0pmeUVNTlllbUFCd1BvSmxDcHV3Z3YzbW1fWmtfck1BUHlmMVNjVjFFcTNjcjF4eDNHeUZoS2Qza0o3MGRuU2FCbzdqZFU3d25sTTdR"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "AI偵測肝臟油滴達98%準確度，推進脂肪肝病藥物開發與精準醫療",
+      "summary": "自由健康網報導，研究團隊開發出可自動偵測肝臟組織切片中油滴（脂肪滴）的AI系統，準確率達98%，大幅超越傳統人工病理判讀的效率與一致性。脂肪肝（NAFLD/MASH）是全球盛行率持續攀升的肝臟疾病，精確量化肝臟脂肪含量對於疾病分期、藥物療效評估及臨床試驗終點設定至關重要。此AI工具不僅能加速藥物開發過程中的病理評估流程，亦為臨床端提供更客觀、可重複的診斷依據，有助於推動脂肪肝的精準治療策略。對病理科、消化科及參與NAFLD相關臨床試驗的醫療機構而言，此技術展示了AI在數位病理量化分析領域的高度應用潛力，亦與近年國際間對計算病理學快速商業化的趨勢高度契合。",
+      "tags": [
+        "數位病理",
+        "脂肪肝",
+        "AI影像分析",
+        "精準醫療"
+      ],
+      "author": "未標示（自由健康網｜2026-06-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqSTRraEpHS3dtQWxVWDNXdjRzVDVkdmdsV2tqY3JCV1dReFliLUxqY0VpclE4ZDlqaEh1RV9PWWZySHE0Y2h6cjdJR0ZENnE2dWRlZFVYNk0yOEZPLXNOdEp1XzfSAWpBVV95cUxQZlNkWUZ0MEx4QXMwOU5SNHdNblZiYUM3c3VHT1IxcWpZb0I0bWF1Y0duMXFVZ3hYUll3X2N0dFlLY2E1Y2RLdjM2V0tRN09GR0JDT1A2Zm12VHQyNWhwNnRqYjEzUjlwY1Fn"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "台裔創業家以AI削減診所90%行政負擔，美國醫療新創Nitra年營收成長725%",
+      "summary": "數位時代報導，台裔創業家陳兆慶創辦的美國醫療新創Nitra，以AI技術自動化診所行政流程，成功削減高達90%的行政工作量，驅動公司年營收成長725%。Nitra的核心產品針對醫療診所的預約排程、保險核實、帳務處理及患者溝通等繁瑣行政環節，透過AI自動化取代傳統人工作業，讓臨床人員得以專注於醫療服務本身。此案例展示了AI在醫療行政自動化領域的巨大商業潛力，亦印證了「減少非臨床負擔、提升醫療效率」的市場需求確實存在。對台灣醫療機構而言，此模式提供了一個具體的AI行政轉型參考案例，尤其在人力成本持續上升的背景下，AI驅動的行政減負策略值得各院所資訊與營運部門深入評估。",
+      "tags": [
+        "AI行政自動化",
+        "醫療新創",
+        "診所效率",
+        "台灣創業"
+      ],
+      "author": "未標示（數位時代｜2026-06-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmRQUllSWU1uWUZQQk1rV1dqeE9jTTBUN25FaDl4OE02VFNkaTh0bzZobndCN1RhMjFHX1RNTU13Y0Y4SzBGNkEyOWF4N0J5Wl9OMnJCYjc0MDdFTm4yU0hQdHFrVVhPVVRvWHdPa1ZsaEFVQTR1Qy1fNFIyZklkUVJnVDFhUGY4VnpRV2paajVUejl3Ty03SGJWRHhIdHc"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "字節跳動砸60億建AI醫院，「小荷健康」捲土重來，「內容＋醫療＋AI」戰略全面成形",
+      "summary": "據報導，字節跳動正斥資60億元人民幣籌建AI醫院，同時重啟旗下健康平台「小荷健康」，顯示其「內容＋醫療＋AI」三位一體的戰略意圖已全面浮現。字節跳動憑藉龐大的用戶數據資產與內容分發能力，計畫打造從健康資訊、線上問診到AI輔助診療的全鏈路醫療生態。此舉標誌著中國科技巨頭在醫療AI領域的布局進入實體化、規模化新階段，對全球醫療AI競爭格局具有重要意義。對台灣醫療產業而言，中國大型科技公司以資本密集方式快速構建AI醫療基礎設施，將形成新的競爭壓力，同時也為台灣在精準醫療、醫療數據治理及跨境合作等議題上提供重要的戰略參照。",
+      "tags": [
+        "字節跳動",
+        "AI醫院",
+        "醫療AI競爭",
+        "數位健康平台"
+      ],
+      "author": "未標示（news.cnyes.com｜2026-06-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KUzI1U3dtRG5WRmt1dkV4V0JkUmVqSjJjUGd0QlNxbml3X21JWWdlSzVQVGh2eGVwYzhyQUlNbEZDZF9GWkdaZ1ZSbm5QUTg"
+    },
+    {
+      "rank": 10,
+      "score": 6.0,
+      "title": "加拿大投入1億加幣支持聖麥可醫院醫師創建的健康數據平台，融入國家AI戰略",
+      "summary": "加拿大政府宣布在新國家AI戰略框架下，撥款1億加幣支持由多倫多聖麥可醫院（St. Michael's Hospital）醫師創辦的健康數據平台。該平台旨在整合跨院所的臨床數據資源，為AI模型訓練、臨床研究及醫療決策支援提供高品質、標準化的數據基礎設施。此舉反映出政府層級對「醫療AI需要可信任數據基礎」的高度重視，並將健康數據治理視為國家AI競爭力的核心組成要素。對台灣醫療AI發展而言，加拿大此模式——以公立醫院醫師為核心、政府資金為後盾、國家戰略為驅動——提供了一個值得參考的「政府主導健康數據平台」建設路徑，尤其在健保數據應用與跨院資料整合方面具有政策借鑑價值。",
+      "tags": [
+        "健康數據平台",
+        "國家AI戰略",
+        "醫療數據治理",
+        "加拿大"
+      ],
+      "author": "未標示（Unity Health Toronto｜2026-06-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lTnE3YUVUSG5YY3pYTjhwcUtlODhUSDFOWDRHR1NmTVpSVFNpcHVydDdOeWN0bWRiVURBOFR5VGhOMHpPdmVlaEFSV3BqTkU0WnR1d0lsRmtfLXFKMExmb2poOUJIV1BCVkFwMUx0V0hoaHF6U0pxdg"
+    }
+  ]
+}
