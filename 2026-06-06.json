@@ -3,115 +3,115 @@
   "items": [
     {
       "rank": 1,
-      "score": 9.2,
+      "score": 9.0,
       "title": "FDA核准GE HealthCare AI工具，加速癌症放射治療計畫制定",
-      "summary": "GE HealthCare旗下一款以人工智慧驅動的放射腫瘤計畫輔助工具獲得FDA 510(k)許可。該工具旨在自動化腫瘤及危及器官的輪廓勾勒（contouring）流程，大幅縮短放射治療計畫所需時間，有助於讓患者更快進入治療階段。GE HealthCare近年積極布局AI腫瘤學領域，此次FDA許可是其精準醫療與營收成長雙軌策略的重要里程碑。對醫院放射腫瘤科而言，AI輔助計畫工具可減輕臨床物理師與放射腫瘤科醫師的手動勾勒負擔，並提升跨院一致性。此舉也顯示FDA持續推進醫療AI器材的審查核准進度，為放射科AI工具的商業落地提供監管示範。醫院資訊與數位轉型團隊可關注此類工具與現有治療計畫系統（TPS）的整合可行性，以及採購評估時的臨床驗證要求。",
+      "summary": "FDA近日核准GE HealthCare推出的新型AI工具，專注於腫瘤放射治療計畫的自動化與加速。該工具透過AI演算法輔助放射腫瘤師快速完成靶區勾勒與治療計畫擬定，有望大幅縮短從診斷到治療開始的等待時間，直接改善癌症病患的就醫體驗與預後。GE HealthCare近年來積極布局AI腫瘤學領域，此次FDA核准是其精準醫療策略的重要里程碑，同時也反映出AI輔助放射治療計畫在臨床工作流程中的成熟度持續提升。對於設有放射腫瘤科的醫療機構而言，此類工具不僅可提升科室效率、減輕醫師工作負荷，亦可作為提升治療品質與競爭力的重要契機。此次核准進一步鞏固AI於腫瘤治療計畫領域的監管地位，預計將推動更多廠商跟進研發類似解決方案。",
       "tags": [
-        "放射腫瘤",
-        "FDA許可",
+        "放射腫瘤AI",
+        "FDA核准",
         "GE HealthCare",
         "癌症治療"
       ],
-      "author": "未標示（GNews-Medical AI｜2026-06-06）",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYm9oQU9KYURuX04wWENpOUxOWEFMUFNER3JEVkZ1WHIwMlFtLXM3RTIxR3VpV2JuMnBocFVDWEZzSkZYOVNCbG55ajIxbGozakJaWWRraFRyNlF0TExZakNqeHYySWREWG9LcFNabnpuOUtjcWFycUYycUYtY0FIS1ZHN0F2cmxkRWs3QmI2Zkg5dnlQWHl6NUFvMTRIb0NXdTIxSTJpc0tBd0V0T2xVOE5uTFNkTmNqS2NiVmFHMmo0UkFaeXEyalJkQlJVTVJYc0l3aXlZYTFyd0JvSWN3VdIB5gFBVV95cUxQQ2NRUUZFdnRoWWdXRTh3d2FjWE96SWNZa1ZSMy01Yi1zcGNFemVJZG4wRGY2T0tKMEJRVkhGYWwycjZjWkdsVUpkVWhyTXN1VGs2cjRZenp0UDRzMmRjLTVoOXZwNWYzVFNBcUJhd19KaDcxSHNiblFZaEtOQVA2Mm1pNmh5X0N1cFN3ODRIanRGbjlYa2U5LWowTl9JNzVXVEpyeHNoSkhtVkg4ZElqa1BrNWFma3NVa0VYMVRRTExvcVFibVJsbDVDMGdGWEd5MGhrSE1wTHpIeGRQWjR6c0pSWDBqUQ?oc=5"
+      "author": "未標示（simplywall.st｜2026-06-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYm9oQU9KYURuX04wWENpOUxOWEFMUFNER3JEVkZ1WHIwMlFtLXM3RTIxR3VpV2JuMnBocFVDWEZzSkZYOVNCbG55ajIxbGozakJaWWRraFRyNlF0TExZakNqeHYySWREWG9LcFNabnpuOUtjcWFycUYycUYtY0FIS1ZHN0F2cmxkRWs3QmI2Zkg5dnlQWHl6NUFvMTRIb0NXdTIxSTJpc0tBd0V0T2xVOE5uTFNkTmNqS2NiVmFHMmo0UkFaeXEyalJkQlJVTVJYc0l3aXlZYTFyd0JvSWN3VdIB5gFBVV95cUxQQ2NRUUZFdnRoWWdXRTh3d2FjWE96SWNZa1ZSMy01Yi1zcGNFemVJZG4wRGY2T0tKMEJRVkhGYWwycjZjWkdsVUpkVWhyTXN1VGs2cjRZenp0UDRzMmRjLTVoOXZwNWYzVFNBcUJhd19KaDcxSHNiblFZaEtOQVA2Mm1pNmh5X0N1cFN3ODRIanRGbjlYa2U5LWowTl9JNzVXVEpyeHNoSkhtVkg4ZElqa1BrNWFma3NVa0VYMVRRTExvcVFibVJsbDVDMGdGWEd5MGhrSE1wTHpIeGRQWjR6c0pSWDBqUQ"
     },
     {
       "rank": 2,
-      "score": 8.8,
-      "title": "川普政府力推「AI醫師」進入醫療體系，專家示警風險與倫理挑戰",
-      "summary": "美國川普政府積極推動以AI取代或輔助醫師角色，相關政策方向引發醫療界高度關注。多位專家指出，AI醫師的引入涉及多層次風險：其一為診斷準確性與責任歸屬的法律模糊地帶；其二為演算法偏見可能加劇健康不平等；其三為醫病關係與倫理問責機制的根本性變動。此一政策走向不僅影響美國醫療生態，也可能帶動其他國家政策跟進，對台灣醫療AI監管框架形成參照壓力。就醫院領導層而言，需關注當AI在臨床決策中承擔更多自主角色時，現行的醫師執照、告知同意、醫療糾紛等制度如何應對。此議題亦牽涉醫療AI倫理委員會的職能定位，值得各院提前研議因應機制。",
+      "score": 8.5,
+      "title": "川普政府力推「AI醫師」進入醫療體系，專家憂慮風險與倫理挑戰",
+      "summary": "美國川普政府近期積極推動將AI技術深度整合入醫療診斷與治療決策流程，部分政策方向甚至觸及以AI系統部分取代醫師角色。對此，多位醫療倫理學者、臨床醫師及政策專家公開表達疑慮，指出AI醫師在責任歸屬、演算法偏誤、患者知情同意及資料隱私等層面存在重大挑戰。專家強調，AI工具應作為輔助而非取代醫師，尤其在涉及複雜臨床判斷、病患溝通及高風險決策的情境下，人類醫師的角色不可或缺。此外，監管框架尚不完善，若政策推進速度超越法規建置，恐引發醫療安全事故與法律爭議。此議題對全球醫療AI政策走向具有指標意義，亦促使各國重新審視AI在臨床角色定位的邊界與責任機制。",
       "tags": [
         "AI醫師",
         "醫療倫理",
-        "政策法規",
-        "臨床決策"
+        "政策監管",
+        "臨床AI"
       ],
-      "author": "未標示（GNews-台灣醫療AI｜2026-06-06）",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQTDBuUkUzWkFMbjM0NU85SGZna0hySnNFWkl1ajZwUUREUzBIMzdZSnBDZGZ2V1JNdUdaS0NOaUtWSTJjdXF6UGFyNkhHRWxFbzlTcURnTmxYWmF5WVB0eDAyWVNQNm9GOGFRT0xBSE5WNzRlY2c4WkozeXA5R1ZTbGZDMkhCZTdXY2lIZUEyN0hYTVdTVHJpRGxEamozY094eEdncVVKbDdNMXVVRG14Z3NQMDZfVTMxbzAxLVZ6bWlsM3BCSzJ4UTREckpSQXZydlh3QzhEWmZuNjQ2NEUtVHotTEQtR3MwM1dodjdnXzAzVWlWNGhrT0Q5LVpPUWhUcUEybjdQSVIzRG1xb3kxQTh3MVZpUkZXZ0tOdERYOVAxWEpfN3ZvYlUxRHVlVndaZXFoRFo0VE9HbjNJcFBlNlE0enB5Z0tLMkJlTkZuU1NPNGJvLU9CRURTcw?oc=5"
+      "author": "未標示（Yahoo股市｜2026-06-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQTDBuUkUzWkFMbjM0NU85SGZna0hySnNFWkl1ajZwUUREUzBIMzdZSnBDZGZ2V1JNdUdaS0NOaUtWSTJjdXF6UGFyNkhHRWxFbzlTcURnTmxYWmF5WVB0eDAyWVNQNm9GOGFRT0xBSE5WNzRlY2c4WkozeXA5R1ZTbGZDMkhCZTdXY2lIZUEyN0hYTVdTVHJpRGxEamozY094eEdncVVKbDdNMXVVRG14Z3NQMDZfVTMxbzAxLVZ6bWlsM3BCSzJ4UTREckpSQXZydlh3QzhEWmZuNjQ2NEUtVHotTEQtR3MwM1dodjdnXzAzVWlWNGhrT0Q5LVpPUWhUcUEybjdQSVIzRG1xb3kxQTh3MVZpUkZXZ0tOdERYOVAxWEpfN3ZvYlUxRHVlVndaZXFoRFo0VE9HbjNJcFBlNlE0enB5Z0tLMkJlTkZuU1NPNGJvLU9CRURTcw"
     },
     {
       "rank": 3,
-      "score": 8.3,
-      "title": "Leica、Indica Labs與Lunit三方聯盟推進AI驅動數位病理學",
-      "summary": "醫療設備大廠Leica Biosystems、AI影像分析平台Indica Labs與韓國AI醫療公司Lunit宣布三方合作，共同推進AI驅動的數位病理工作流程。此合作整合了高品質切片掃描、數位影像管理與深度學習模型分析等能力，旨在提升病理診斷效率與一致性。對病理科而言，此類多方夥伴生態系的形成，代表數位病理AI正從單點工具走向整合平台解決方案，有助於加速全玻片影像（WSI）分析在臨床的落地。值得注意的是，Lunit已在多項腫瘤AI研究中取得實證成果，與國際大廠的整合將進一步擴大其臨床應用覆蓋面。對醫院採購與資訊部門而言，數位病理AI的多方生態整合趨勢意味著選型時需考量系統互操作性與長期廠商生態穩定性。",
+      "score": 8.0,
+      "title": "醫療AI中的知情同意困境：「我已知悉」不等於真正同意",
+      "summary": "《Forbes》刊出深度分析，探討醫療AI系統在取得患者同意時普遍存在的設計缺陷。目前許多醫療機構在部署AI輔助診斷或決策工具時，僅要求患者勾選「我已知悉」或類似聲明，卻未真正確保患者理解AI的運作原理、資料使用方式及可能風險，與真正的知情同意（informed consent）有本質差異。文章指出，患者往往不清楚AI工具是否參與其診療決策，且現行法規對此尚無明確規範，導致責任歸屬模糊。作者呼籲醫療機構與科技廠商在設計AI導入流程時，應從「告知」升格為「理解」，建立更具透明度與互動性的同意機制，以維護患者權益並降低法律與倫理風險。此議題對正在推動AI臨床應用的醫院具有直接的政策與流程參考價值。",
       "tags": [
-        "數位病理",
-        "AI影像分析",
-        "Lunit",
-        "產業聯盟"
+        "知情同意",
+        "醫療AI倫理",
+        "患者權益",
+        "AI治理"
       ],
-      "author": "未標示（GNews-AI radiology｜2026-06-05）",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaVRuNzBJMDZPMDBMRjltQ2l4SVZzMkJrVkE4VUZOWlAwSTd6RndZRU5QeV9ldF9IOEZfVjRqWEp1NVg4UjNIRkkzdHA2WC1ua09rTFVGQ1ZBSm5MRXFKV3RfQkV2TWtLYVpobE1laUdQOFBaVmltOFRlakN5MzEwQ3FBc1d0YUttVkVkczYwVFNRRTB6NGpqOWNPcUk2bmxlM1hJRTdhNmxwbEM1WHk0M2NB?oc=5"
+      "author": "未標示（Forbes｜2026-06-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHZVRUJXQ0Yyd1RiMUlyQ0l4VXo2b0I5T21KM291akIyS3BST19GZTdOQUhCYnZpbEhySFRvaU1jZEd6dFl2NkdrY2RtN3V3N0k0VnVsNzVxUEh0TUhZSGJOSHc0R2h1SkRiNFVHUGphNkNPSFl6QUI0NGljVW51b3NKT04zSkhfbW1NYWNOZ2M"
     },
     {
       "rank": 4,
-      "score": 7.8,
-      "title": "醫療AI同意書困境：「我已知悉」不等同於真正的患者同意",
-      "summary": "《Forbes》一篇分析指出，目前許多醫療機構在導入AI工具時，僅要求患者勾選「我已知悉」（I Acknowledge）的聲明，但這與真正的知情同意（Informed Consent）在法律與倫理層面存在本質差異。文章指出，患者對AI如何參與診斷、分析或治療決策往往缺乏實質理解，而醫院為求行政便利可能簡化同意流程，反而累積潛在的法律風險與信任危機。隨著醫療AI在臨床場域的應用日益普及，從影像判讀、風險預測到輔助診斷，患者同意機制的設計成為監管與倫理合規的核心議題。此文對醫院法務、倫理委員會及數位轉型團隊具有直接參考價值，提示需重新檢視現行AI應用的同意書設計是否符合實質告知標準。",
+      "score": 7.5,
+      "title": "AI驅動病理品質控管技術進展：提升數位病理工作流程精確性",
+      "summary": "《The Scientist》報導AI驅動品質控管（QC）技術在數位病理領域的最新進展。傳統病理切片品質檢驗依賴人工目視，耗時且易受主觀判斷影響；新一代AI品質控管系統可自動偵測切片製備缺陷（如組織摺疊、染色不均、焦距模糊等），在影像進入分析流程前即完成篩濾，大幅提升後續AI診斷模型的輸入品質與準確性。研究顯示，導入AI品質控管後，病理科整體報告產出效率與一致性均有顯著改善。此技術不僅是數位病理自動化的關鍵基礎設施，也為後續AI輔助癌症診斷、組織分型等高價值應用奠定品質保障基礎。對於規劃建置或擴展數位病理平台的醫療機構，此類工具代表著從「資料品質」切入AI效益的重要切入點。",
       "tags": [
-        "患者同意",
-        "醫療倫理",
-        "AI合規",
-        "法律風險"
+        "數位病理",
+        "AI品質控管",
+        "病理工作流程",
+        "臨床AI"
       ],
-      "author": "未標示（GNews-Medical AI｜2026-06-05）",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHZVRUJXQ0Yyd1RiMUlyQ0l4VXo2b0I5T21KM291akIyS3BST19GZTdOQUhCYnZpbEhySFRvaU1jZEd6dFl2NkdrY2RtN3V3N0k0VnVsNzVxUEh0TUhZSGJOSHc0R2h1SkRiNFVHUGphNkNPSFl6QUI0NGljVW51b3NKT04zSkhfbW1NYWNOZ2M?oc=5"
+      "author": "未標示（the-scientist.com｜2026-06-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR3FzMnVYR0YxWTBDaTRsYVVPUFBEMGFoTHhoUlBDTlRVODBZcDlFMHdkbXBva0kyVHFFdnRVWllZZmxjS2syVDk0RUhPRklLT2o5dFpJc3p3YmRCWjU0TEZjVzNJYlhYa1BKMVU0c1lLd3dDd3pPOVhWNXlMSTdBaWlWa002TWkxS1Raemh4bF9DcnBWNWx1ejNZaWY"
     },
     {
       "rank": 5,
       "score": 7.5,
-      "title": "長庚醫院運用HIMSS框架衡量數位轉型成熟度，揭示大型醫療體系治理戰略",
-      "summary": "長庚醫療體系在iThome報導中分享如何運用HIMSS數位醫療成熟度框架（HIMSS AMAM/EMRAM等）系統性評估院內數位轉型進程，並建立跨院區的治理戰略。報導指出，大型醫療集團在數位轉型中面臨各院區資訊化程度不一、標準不統一的挑戰，透過HIMSS框架可建立共通的量化指標，協助領導層做出資源配置決策。長庚的實踐經驗涵蓋數據治理、系統互操作性、臨床流程再造等面向，對台灣其他大型醫療體系（包含奇美醫療體系）具有參照意義。此報導對醫院資訊部門與數位轉型推動辦公室而言，提供了一個在地化的成熟度評估與治理框架應用案例，有助於建立內部的AI與數位化投資優先順序。",
+      "title": "Leica、Indica Labs與Lunit三方合作，共推AI數位病理整合解決方案",
+      "summary": "病理影像硬體龍頭Leica Biosystems、AI分析平台Indica Labs與韓國AI醫療公司Lunit宣布三方策略合作，目標是打造從組織切片掃描到AI輔助判讀的端對端數位病理整合流程。此合作結合Leica的掃描硬體與實驗室設備、Indica Labs的影像分析軟體平台，以及Lunit在腫瘤AI判讀的臨床驗證模型，三者互補形成完整生態系。聯盟的成立被視為數位病理商業化進入「整合化」新階段的訊號，有助於降低醫院導入數位病理AI的技術門檻與整合複雜度。對於正在評估或擴充病理科數位化的醫療機構，此類跨廠商整合方案可作為採購與系統規劃的重要參考依據，同時亦反映出AI病理市場競爭格局正向平台整合方向演進。",
       "tags": [
-        "數位轉型",
-        "HIMSS",
-        "醫療資訊化",
-        "長庚醫院"
+        "數位病理",
+        "AI聯盟",
+        "Lunit",
+        "病理自動化"
       ],
-      "author": "未標示（GNews-台灣醫療AI｜2026-06-05）",
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KcmxaZXBvM0l0Y1NZcUhROW05UGc0bXRYQ2N4SmhxS0tTWXRsVU1vN0RvZDlDaHJpcEUxN0FYUllMVkE3YkdyRi1rOElNUQ?oc=5"
+      "author": "未標示（SelectScience｜2026-06-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaVRuNzBJMDZPMDBMRjltQ2l4SVZzMkJrVkE4VUZOWlAwSTd6RndZRU5QeV9ldF9IOEZfVjRqWEp1NVg4UjNIRkkzdHA2WC1ua09rTFVGQ1ZBSm5MRXFKV3RfQkV2TWtLYVpobE1laUdQOFBaVmltOFRlakN5MzEwQ3FBc1d0YUttVkVkczYwVFNRRTB6NGpqOWNPcUk2bmxlM1hJRTdhNmxwbEM1WHk0M2NB"
     },
     {
       "rank": 6,
-      "score": 7.2,
-      "title": "AI問診三大隱憂曝光：日本藝人案例揭示延誤就醫風險與責任缺口",
-      "summary": "TVBS健康2.0報導一起引發廣泛討論的案例：日本藝人柏原崇之弟因血便症狀連續兩次向AI問診，卻未被建議立即就醫，延誤診斷時機。台灣醫師針對此案分析AI問診的三大核心隱憂：一、AI無法進行實體理學檢查，對需要觸診、聽診的症狀判斷存在根本局限；二、AI缺乏對「紅旗症狀」（red flag symptoms）的即時警示機制；三、醫療責任歸屬不明，當AI給出錯誤建議時，目前法規對問責對象無明確規範。此案例對醫院臨床團隊與醫療AI開發商均有警示意義，凸顯出AI問診工具在部署前需建立完善的安全機制、轉介流程與使用者教育，並釐清責任框架。",
+      "score": 7.0,
+      "title": "ASUS如何將AI整合進醫療工作流程：從硬體到臨床應用場景全面布局",
+      "summary": "ASUS官方新聞稿說明其在醫療AI工作流程整合方面的最新進展，涵蓋臨床工作站、邊緣運算裝置及AI輔助影像處理等多個應用層面。ASUS強調其醫療級硬體平台可支援多種臨床AI軟體運行，並已與部分醫院及醫療資訊系統廠商展開合作，目標是將AI能力無縫嵌入放射科、加護病房及門診等實際工作場域。報告中特別提及AI工作負載在邊緣裝置上的本地化部署優勢，包括降低資料傳輸延遲、強化資料隱私保護，以及在網路不穩定環境下維持AI服務可用性。此方向與近年醫院資訊化升級及AI基礎設施投資趨勢高度吻合，對規劃AI硬體採購與臨床部署架構的醫院IT團隊具有實務參考價值。",
       "tags": [
-        "AI問診",
-        "患者安全",
-        "醫療責任",
-        "臨床風險"
+        "醫療AI硬體",
+        "工作流程整合",
+        "ASUS",
+        "邊緣運算"
       ],
-      "author": "未標示（GNews-台灣醫療AI｜2026-06-05）",
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02dm9oTUFWOXJhbHpqUWlPTXFVbWpLR0c4TG14LXpVbndXTERZcjZqaEdoQVFWemlCOGVFUmRiekZDM0FJUVdBTG03NGx5bW41T0NB?oc=5"
+      "author": "未標示（ASUS Pressroom｜2026-06-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVowbHdYX0ZudnJmMzBOaVFsTVpPd2xVd0c1QW1tYUpPUktOcU9tMnRjZGc2em1sVFNxdjNRQmxRRkh4X3A2ekVfX3lpVmNVWTN4RFpiUkN1VnVDRm1vMlJIR3hpVzZZV2JZaWNWVElLODJydFkxUjFwamhZMDNvY1Vtd0pOWFZFNVVkTFhLWHU2QQ"
     },
     {
       "rank": 7,
       "score": 7.0,
-      "title": "長佳智能AI照護機器人進入量產出貨，下半年營運前景看俏",
-      "summary": "台灣醫療AI企業長佳智能（MoneyDJ報導）宣布旗下AI照護機器人已正式進入量產出貨階段，下半年業績展望樂觀。該款機器人應用於醫院及長照機構的日常照護輔助，包含患者監測、提醒服藥、基本互動等功能，旨在緩解護理人力短缺問題。此消息標誌著台灣醫療AI硬體落地進入新階段，從研發原型邁向規模化商業部署。對醫院護理部與長照機構而言，AI照護機器人的量產代表採購成本有望下降、供應穩定性提升，可作為評估引進的參考時機點。值得關注的是，機器人的臨床驗證數據、與護理系統的整合能力，以及在不同照護場景中的實際效益，仍是決策引進前需深入評估的關鍵面向。",
+      "title": "長庚醫療體系揭示以HIMSS框架衡量數位轉型成熟度的治理戰略",
+      "summary": "iThome報導長庚醫療體系如何運用HIMSS（醫療資訊與管理系統學會）數位化成熟度評估框架，系統性衡量旗下多院區的數位轉型進展，並據此制定差異化的IT治理策略。長庚作為台灣規模最大的醫療體系之一，其導入HIMSS框架的實務經驗具有高度示範性，涵蓋電子病歷整合、臨床決策支援、資料分析能力及資安治理等多個維度。報告指出，大型醫療體系在推動數位轉型時，面臨各院區發展程度不一的挑戰，需要兼顧標準化與彈性化的治理架構。長庚的案例提供了以外部認證框架驅動內部改革的具體路徑，對台灣其他醫療機構在規劃HIMSS認證或數位轉型藍圖時具有直接的借鑑價值，同時也凸顯AI就緒度評估在整體數位成熟度中的關鍵地位。",
       "tags": [
-        "照護機器人",
-        "長佳智能",
-        "台灣醫療AI",
-        "長照科技"
+        "HIMSS",
+        "數位轉型",
+        "長庚醫院",
+        "醫療治理"
       ],
-      "author": "未標示（GNews-台灣醫療AI｜2026-06-05）",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWl6cVFINkRxMWJKS3N5dEJyc0ZVX3RFWnBRd2tPcXJ6MDhKRGxRbjUwZFVQRzZKZmpuU25NMUJCVWNGT3VTcUk3d1ZxUmdpbE9jVHNyUHpRa2tmX2dNMTI2NWJXX0FEU2pfblROa3NHMkdjRncxcXREcmpFTDI0VnkwTTdMcTY4S0lLVGUxMC14UQ?oc=5"
+      "author": "未標示（iThome｜2026-06-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KcmxaZXBvM0l0Y1NZcUhROW05UGc0bXRYQ2N4SmhxS0tTWXRsVU1vN0RvZDlDaHJpcEUxN0FYUllMVkE3YkdyRi1rOElNUQ"
     },
     {
       "rank": 8,
-      "score": 6.8,
-      "title": "ASUS揭示如何將AI整合至醫療工作流程，聚焦硬體與臨床場景應用",
-      "summary": "ASUS官方新聞稿介紹其將AI技術導入醫療工作流程的整體策略，涵蓋從醫用工作站硬體優化到臨床應用場景的完整佈局。ASUS強調其在邊緣運算（edge computing）與AI推論硬體方面的能力，可支援醫療影像分析、手術室輔助顯示及遠距醫療等場景。此舉顯示台灣ICT大廠正積極以自有硬體平台切入醫療AI基礎設施市場，與NVIDIA、聯發科等晶片廠形成互補的在地生態系。對醫院資訊部門而言，ASUS的醫療AI硬體方案提供了國內廠商的選項，在採購評估時可與國際品牌進行規格與支援能力的比較。然而，硬體廠商的臨床應用軟體整合深度與長期維護能力仍需進一步驗證。",
+      "score": 6.5,
+      "title": "AI問診便利背後的三大隱憂：台灣醫師籲明確責任歸屬",
+      "summary": "TVBS健康2.0報導一起真實案例：日本藝人柏原崇的弟弟因血便症狀先後兩次詢問AI而延誤就醫，引發台灣醫界對AI問診安全性的高度關注。受訪醫師歸納AI問診的三大核心隱憂：其一為AI可能給出看似合理但實為錯誤的醫療建議，導致患者低估症狀嚴重性；其二為AI無法進行實體檢查，缺乏完整臨床資訊；其三為責任歸屬不明，當AI建議造成傷害時，無法像醫師般承擔法律與倫理責任。醫師強調，AI在醫療諮詢中應扮演「輔助引導就醫」而非「替代診斷」的角色，並呼籲相關主管機關盡速建立AI醫療諮詢的明確責任框架，確保有專業人員為AI輸出的醫療建議負責，以保障病患安全。",
       "tags": [
-        "ASUS",
-        "醫療工作流程",
-        "邊緣運算",
-        "AI硬體"
+        "AI問診安全",
+        "醫療責任",
+        "患者安全",
+        "台灣醫療AI"
       ],
-      "author": "未標示（GNews-Medical AI｜2026-06-05）",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVowbHdYX0ZudnJmMzBOaVFsTVpPd2xVd0c1QW1tYUpPUktOcU9tMnRjZGc2em1sVFNxdjNRQmxRRkh4X3A2ekVfX3lpVmNVWTN4RFpiUkN1VnVDRm1vMlJIR3hpVzZZV2JZaWNWVElLODJydFkxUjFwamhZMDNvY1Vtd0pOWFZFNVVkTFhLWHU2QQ?oc=5"
+      "author": "未標示（TVBS健康2.0｜2026-06-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02dm9oTUFWOXJhbHpqUWlPTXFVbWpLR0c4TG14LXpVbndXTERZcjZqaEdoQVFWemlCOGVFUmRiekZDM0FJUVdBTG03NGx5bW41T0NB"
     }
   ]
 }
