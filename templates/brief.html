@@ -81,6 +81,18 @@
     white-space: nowrap;
     letter-spacing: 0.02em;
   }
+  .header-right { display: flex; align-items: center; gap: 12px; }
+  .header-archive-btn {
+    display: inline-flex; align-items: center; gap: 6px;
+    background: linear-gradient(135deg, var(--accent), var(--teal));
+    color: #fff; text-decoration: none;
+    border-radius: 8px; padding: 8px 16px;
+    font-size: 0.88rem; font-weight: 700; white-space: nowrap;
+    letter-spacing: 0.02em;
+    box-shadow: 0 2px 10px rgba(43,127,232,0.3);
+    transition: transform 0.15s, filter 0.15s;
+  }
+  .header-archive-btn:hover { filter: brightness(1.07); transform: translateY(-1px); }
   /* ── BREADCRUMB ── */
   .breadcrumb {
     background: var(--surface);
@@ -417,7 +429,10 @@
         <p>奇美醫療體系 · 醫療 AI 每日情報簡報</p>
       </div>
     </div>
-    <div class="header-date">📅 {{ today }}（{{ weekday }}）</div>
+    <div class="header-right">
+      <div class="header-date">📅 {{ today }}（{{ weekday }}）</div>
+      <a class="header-archive-btn" href="archive.html" title="查看歷史每日新聞">📚 新聞回顧</a>
+    </div>
   </div>
 </header>
 <!-- BREADCRUMB -->
@@ -608,27 +623,5 @@ function esc(s) {
 switchDay(TODAY_ISO);
 </script>
 
-<!-- 📚 新聞回顧浮動按鈕（純附加，不影響原頁面與 Python 流程） -->
-<a id="cmhx-archive-btn" href="archive.html" title="查看歷史每日新聞">
-  <span class="cmhx-ico">📚</span>
-  <span class="cmhx-txt">新聞回顧</span>
-</a>
-<style>
-  #cmhx-archive-btn{
-    position:fixed; right:24px; bottom:24px; z-index:9999;
-    display:inline-flex; align-items:center; gap:8px;
-    background:linear-gradient(135deg,#1a4a8a,#0e9f8e);
-    color:#fff; text-decoration:none;
-    font-family:'Noto Sans TC',sans-serif; font-size:.95rem; font-weight:700;
-    padding:13px 22px; border-radius:30px;
-    box-shadow:0 6px 20px rgba(10,22,40,.28);
-    transition:transform .15s, box-shadow .15s; letter-spacing:.03em;
-  }
-  #cmhx-archive-btn:hover{ transform:translateY(-2px); box-shadow:0 10px 28px rgba(43,127,232,.4); }
-  #cmhx-archive-btn .cmhx-ico{ font-size:1.1rem; }
-  @media(max-width:800px){
-    #cmhx-archive-btn{ right:16px; bottom:16px; padding:11px 18px; font-size:.88rem; }
-  }
-</style>
 </body>
 </html>
