@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>奇美 AI Everywhere Brief｜新聞回顧</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;700&family=Noto+Sans+TC:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --navy:#103a2e; --blue:#13624c; --accent:#157a5f; --light-blue:#eaf3ef;
+    --teal:#0f6e57; --red:#b9492f; --orange:#bd7b2c; --green:#2e8b6a;
+    --bg:#f5f7f6; --surface:#ffffff; --border:#e4eae7;
+    --text:#1a241f; --text2:#465049; --muted:#7c867f;
+    --serif:'Noto Serif TC',serif; --sans:'Noto Sans TC',sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{font-family:var(--sans);background:var(--bg);color:var(--text);font-size:17px;line-height:1.8}
+
+  /* HEADER */
+  .header{background:var(--navy);background-image:linear-gradient(135deg,#0d3a2d 0%,#13624c 70%,#187a5f 100%);
+    color:#fff;position:sticky;top:0;z-index:100;box-shadow:0 2px 14px rgba(16,58,46,.22)}
+  .header-inner{max-width:1360px;margin:0 auto;padding:22px 40px;display:flex;align-items:center;justify-content:space-between;gap:16px}
+  .logo-area{display:flex;align-items:center;gap:14px}
+  .logo-icon{width:54px;height:54px;background:#fff;border-radius:14px;padding:4px;
+    display:flex;align-items:center;justify-content:center;flex-shrink:0;box-shadow:0 3px 10px rgba(0,0,0,.18)}
+  .logo-icon img,.logo-icon svg{width:100%;height:100%;object-fit:contain}
+  .logo-text h1{font-family:var(--serif);font-size:1.35rem;font-weight:700;letter-spacing:.04em;line-height:1.3}
+  .logo-text p{font-size:.8rem;color:#8aafd4;margin-top:1px}
+  .back-btn{display:inline-flex;align-items:center;gap:6px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.22);
+    color:#cfe3f7;border-radius:8px;padding:9px 18px;font-size:.88rem;font-weight:600;text-decoration:none;white-space:nowrap;transition:all .15s}
+  .back-btn:hover{background:var(--accent);border-color:var(--accent);color:#fff}
+
+  /* BREADCRUMB */
+  .breadcrumb{background:var(--surface);border-bottom:1px solid var(--border);padding:10px 0}
+  .breadcrumb-inner{max-width:1360px;margin:0 auto;padding:0 32px;display:flex;align-items:center;gap:6px;font-size:.82rem;color:var(--muted)}
+  .breadcrumb a{color:var(--muted);text-decoration:none}
+  .breadcrumb a:hover{color:var(--accent)}
+  .breadcrumb .sep{color:#c0c8d4}
+  .breadcrumb .current{color:var(--accent);font-weight:600}
+
+  /* SEARCH BAR */
+  .searchbar{background:var(--surface);border-bottom:1px solid var(--border);padding:16px 0;box-shadow:0 2px 6px rgba(10,22,40,.04)}
+  .searchbar-inner{max-width:1360px;margin:0 auto;padding:0 32px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+  .search-box{position:relative;flex:1;min-width:240px;max-width:560px}
+  .search-box input{width:100%;padding:11px 14px 11px 40px;border:1.5px solid var(--border);border-radius:10px;font-size:.95rem;
+    font-family:var(--sans);outline:none;background:var(--bg);transition:all .15s}
+  .search-box input:focus{border-color:var(--accent);background:#fff;box-shadow:0 0 0 3px rgba(21,122,95,.12)}
+  .search-box svg{position:absolute;left:13px;top:13px;width:17px;height:17px;fill:var(--muted)}
+  .search-stat{font-size:.85rem;color:var(--muted)}
+  .search-stat b{color:var(--accent)}
+  .clear-btn{margin-left:auto;font-size:.82rem;border:1.5px solid var(--border);background:#fff;border-radius:8px;
+    padding:8px 16px;cursor:pointer;color:var(--text2);font-family:var(--sans);transition:all .15s;display:none}
+  .clear-btn:hover{border-color:var(--red);color:var(--red)}
+
+  /* LAYOUT */
+  .layout{max-width:1360px;margin:0 auto;padding:32px 32px 100px;display:grid;grid-template-columns:260px 1fr;gap:40px;align-items:start}
+
+  /* SIDEBAR */
+  .sidebar{position:sticky;top:90px}
+  .sidebar-card{background:var(--surface);border:1px solid var(--border);border-radius:12px;overflow:hidden;margin-bottom:20px;box-shadow:0 2px 8px rgba(10,22,40,.06)}
+  .sidebar-head{background:var(--navy);color:#fff;font-size:.8rem;font-weight:700;padding:13px 18px;letter-spacing:.08em}
+  .date-scroll{max-height:52vh;overflow-y:auto}
+  .sidebar-link{display:flex;align-items:center;justify-content:space-between;padding:11px 18px;font-size:.9rem;color:var(--text2);
+    text-decoration:none;border-bottom:1px solid #f0f4f8;cursor:pointer;transition:all .15s;font-variant-numeric:tabular-nums}
+  .sidebar-link:last-child{border-bottom:none}
+  .sidebar-link:hover{background:var(--light-blue);color:var(--accent)}
+  .sidebar-link.active{color:var(--accent);font-weight:700;background:#eef5fd;box-shadow:inset 3px 0 0 var(--accent)}
+  .sidebar-link .count{background:var(--light-blue);color:var(--accent);font-size:.72rem;font-weight:700;padding:1px 8px;border-radius:10px}
+  .sidebar-link.active .count{background:var(--accent);color:#fff}
+  .tag-cloud{padding:16px;display:flex;flex-wrap:wrap;gap:7px}
+  .tag-chip{font-size:.84rem;border-radius:6px;padding:4px 11px;cursor:pointer;transition:all .15s;font-weight:500;
+    background:var(--light-blue);color:var(--accent);border:1px solid #dde8e3}
+  .tag-chip:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .tag-chip.active{background:var(--navy);color:#fff;border-color:var(--navy)}
+  .tag-chip .tc{opacity:.6;font-size:.75rem;margin-left:3px}
+
+  /* MAIN */
+  .main{min-width:0}
+  .page-title-bar{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:22px 34px;margin-bottom:18px;
+    box-shadow:0 2px 8px rgba(10,22,40,.05);display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}
+  .page-title-bar h2{font-family:var(--serif);font-size:1.3rem;font-weight:700;color:var(--navy);line-height:1.4}
+  .page-title-bar .pt-sub{font-size:.82rem;color:var(--muted);margin-top:2px;font-family:var(--sans)}
+  .count-badge{background:var(--light-blue);color:var(--accent);font-size:.88rem;font-weight:700;padding:6px 16px;border-radius:6px;white-space:nowrap;border:1px solid #d7e6df}
+
+  /* DAY DIVIDER */
+  .day-divider{display:flex;align-items:center;gap:14px;margin:30px 2px 14px}
+  .day-divider:first-child{margin-top:0}
+  .day-divider .dd-date{font-family:var(--serif);font-size:1.1rem;font-weight:700;color:var(--navy);white-space:nowrap}
+  .day-divider .dd-badge{background:var(--light-blue);color:var(--accent);font-size:.74rem;font-weight:700;padding:3px 11px;border-radius:5px;white-space:nowrap;border:1px solid #d7e6df}
+  .day-divider .dd-line{flex:1;height:1px;background:var(--border)}
+
+  /* ARTICLE CARD */
+  .article-card{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:28px 36px 24px;margin-bottom:14px;
+    display:grid;grid-template-columns:40px 1fr;gap:0 24px;transition:background .15s,box-shadow .15s;animation:fadeUp .35s ease both}
+  .article-card{position:relative;overflow:hidden}
+  .article-card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--accent);opacity:0;transition:opacity .15s}
+  .article-card:hover{background:#fbfdfc;box-shadow:0 4px 16px rgba(16,58,46,.09)}
+  .article-card:hover::before{opacity:1}
+  .card-num{padding-top:4px;text-align:center}
+  .num-circle{width:40px;height:40px;border-radius:50%;background:var(--bg);border:2px solid var(--border);color:var(--muted);
+    font-size:.88rem;font-weight:700;display:flex;align-items:center;justify-content:center}
+  .num-top1{background:#fff0ee;border-color:var(--red);color:var(--red)}
+  .num-top2{background:#fff4ec;border-color:var(--orange);color:var(--orange)}
+  .num-top3{background:#edfbf4;border-color:var(--green);color:var(--green)}
+  .card-badges{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:11px;align-items:center}
+  .badge{font-size:.76rem;font-weight:700;padding:3px 10px;border-radius:3px;letter-spacing:.04em}
+  .b-top1{background:var(--red);color:#fff}.b-top2{background:var(--orange);color:#fff}.b-top3{background:var(--green);color:#fff}
+  .b-cat{background:var(--light-blue);color:var(--blue);font-weight:600;border:1px solid #d2e5db}
+  .b-score{background:#eef5f1;color:var(--teal);border:1px solid #cfe6dd}
+  .card-title{font-family:var(--serif);font-size:1.2rem;font-weight:700;color:var(--navy);line-height:1.55;margin-bottom:9px}
+  .card-title a{color:inherit;text-decoration:none;transition:color .15s}
+  .article-card:hover .card-title a{color:var(--accent)}
+  .card-meta{font-size:.84rem;color:var(--muted);margin-bottom:11px}
+  .card-summary{font-size:.97rem;color:var(--text2);line-height:1.85;margin-bottom:14px;text-align:justify}
+  .card-footer{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;padding-top:14px;border-top:1px solid #f0f4f8}
+  .hashtags{display:flex;flex-wrap:wrap;gap:8px}
+  .hashtag{font-size:.84rem;color:var(--accent);cursor:pointer}
+  .hashtag:hover{color:var(--navy);text-decoration:underline}
+  .source-btn{display:inline-flex;align-items:center;gap:5px;background:var(--navy);color:#fff;text-decoration:none;
+    border-radius:6px;padding:8px 18px;font-size:.84rem;font-weight:600;transition:background .15s;white-space:nowrap}
+  .source-btn:hover{background:var(--accent)}
+  mark{background:#fff3b0;padding:0 1px;border-radius:2px}
+
+  /* STATES */
+  .state{text-align:center;color:var(--muted);padding:80px 20px;font-size:1rem}
+  .spinner{width:32px;height:32px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 16px}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+
+  /* FOOTER */
+  .footer{background:var(--navy);color:#6a8aaa;text-align:center;padding:28px 20px;font-size:.82rem;line-height:2}
+  .footer strong{color:#a0bcd8}
+
+  /* RWD */
+  @media(max-width:800px){
+    .layout{grid-template-columns:1fr;padding:18px 16px 60px;gap:24px}
+    .sidebar{position:static}
+    .header-inner{padding:14px 20px}
+    .logo-text p{display:none}
+    .article-card{padding:18px 18px 16px;grid-template-columns:32px 1fr;gap:0 12px}
+    .card-title{font-size:1.05rem}
+    .breadcrumb-inner,.searchbar-inner{padding:0 16px}
+  }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="header">
+  <div class="header-inner">
+    <div class="logo-area">
+      <div class="logo-icon">
+        <img src="LOGO.png" alt="健康台灣 logo">
+      </div>
+      <div class="logo-text">
+        <h1>奇美 AI Everywhere Brief · 新聞回顧</h1>
+        <p>醫療 AI 每日情報簡報 · 全期回溯檔案庫</p>
+      </div>
+    </div>
+    <a class="back-btn" href="index.html">← 回到今日簡報</a>
+  </div>
+</header>
+
+<!-- BREADCRUMB -->
+<div class="breadcrumb">
+  <div class="breadcrumb-inner">
+    <a href="index.html">首頁</a><span class="sep">›</span>
+    <a href="index.html">醫療AI情報</a><span class="sep">›</span>
+    <span class="current">新聞回顧</span>
+  </div>
+</div>
+
+<!-- SEARCH -->
+<div class="searchbar">
+  <div class="searchbar-inner">
+    <div class="search-box">
+      <svg viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 10-.7.7l.27.28v.79l5 5 1.5-1.5-5-5zm-6 0A4.5 4.5 0 1114 9.5 4.5 4.5 0 019.5 14z"/></svg>
+      <input id="q" type="text" placeholder="搜尋標題、內容或標籤關鍵字…" autocomplete="off">
+    </div>
+    <div class="search-stat" id="searchStat"></div>
+    <button class="clear-btn" id="clearBtn" onclick="clearAll()">✕ 清除全部篩選</button>
+  </div>
+</div>
+
+<!-- LAYOUT -->
+<div class="layout">
+  <aside class="sidebar">
+    <div class="sidebar-card">
+      <div class="sidebar-head">📅 日期回溯</div>
+      <div class="date-scroll" id="dateList"></div>
+    </div>
+    <div class="sidebar-card">
+      <div class="sidebar-head">🏷️ 熱門主題標籤</div>
+      <div class="tag-cloud" id="tagCloud"></div>
+    </div>
+  </aside>
+
+  <main class="main">
+    <div class="page-title-bar">
+      <div>
+        <h2 id="viewTitle">歷史回顧</h2>
+        <div class="pt-sub" id="viewSub"></div>
+      </div>
+      <span class="count-badge" id="countBadge"></span>
+    </div>
+    <div id="content"><div class="state"><div class="spinner"></div>正在從 GitHub 載入歷史每日情報…</div></div>
+  </main>
+</div>
+
+<footer class="footer">
+  <strong>🧠 奇美醫療AI每日情報 · 新聞回顧</strong>｜奇美醫療體系 · AI Everywhere 計畫<br>
+  <span id="footNote"></span>
+</footer>
+
+<script>
+/* ========= 設定 ========= */
+const REPO = "chylio/aieverywherechimei";
+const BRANCH = "main";
+const FALLBACK_START = "2026-05-01";
+
+/* ========= 狀態 ========= */
+let DATA=[], activeDate=null, activeTag=null, query="";
+const $=id=>document.getElementById(id);
+const esc=s=>(s||"").replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function hl(t){ if(!query) return esc(t);
+  const q=query.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+  return esc(t).replace(new RegExp('('+q+')','gi'),'<mark>$1</mark>'); }
+
+/* ========= 載入 ========= */
+async function discoverDates(){
+  try{
+    const r=await fetch(`https://api.github.com/repos/${REPO}/contents/?ref=${BRANCH}`);
+    if(r.ok){
+      const ds=(await r.json()).map(f=>f.name).filter(n=>/^\d{4}-\d{2}-\d{2}\.json$/.test(n))
+        .map(n=>n.replace('.json','')).sort().reverse();
+      if(ds.length) return ds;
+    }
+  }catch(e){}
+  const out=[],today=new Date();let d=new Date(FALLBACK_START);
+  while(d<=today){out.push(d.toISOString().slice(0,10));d.setDate(d.getDate()+1);}
+  return out.reverse();
+}
+async function fetchDay(date){
+  for(const u of [`./${date}.json`,`https://raw.githubusercontent.com/${REPO}/${BRANCH}/${date}.json`]){
+    try{const r=await fetch(u);if(r.ok){const j=await r.json();return {date,label:j.date||date,items:j.items||[]};}}catch(e){}
+  }
+  return null;
+}
+async function loadAll(){
+  const dates=await discoverDates();const out=[],pool=8;
+  for(let i=0;i<dates.length;i+=pool){
+    const b=await Promise.all(dates.slice(i,i+pool).map(fetchDay));
+    out.push(...b.filter(Boolean));
+  }
+  DATA=out.filter(d=>d.items.length).sort((a,b)=>b.date.localeCompare(a.date));
+  if(!DATA.length){$("content").innerHTML='<div class="state">⚠️ 無法載入資料。請確認此頁與 JSON 位於同一 repo，並透過 GitHub Pages 開啟。</div>';return;}
+  buildSidebar();render();
+}
+
+/* ========= 側欄 ========= */
+function buildSidebar(){
+  const total=DATA.reduce((s,d)=>s+d.items.length,0);
+  $("dateList").innerHTML=
+    `<div class="sidebar-link ${activeDate===null?'active':''}" onclick="pickDate(null)"><span>📚 全部日期</span><span class="count">${total}</span></div>`+
+    DATA.map(d=>`<div class="sidebar-link ${activeDate===d.date?'active':''}" onclick="pickDate('${d.date}')"><span>${d.date}</span><span class="count">${d.items.length}</span></div>`).join('');
+  const tc={};DATA.forEach(d=>d.items.forEach(it=>(it.tags||[]).forEach(t=>tc[t]=(tc[t]||0)+1)));
+  const top=Object.entries(tc).sort((a,b)=>b[1]-a[1]).slice(0,26);
+  $("tagCloud").innerHTML=top.map(([t,c])=>
+    `<span class="tag-chip ${activeTag===t?'active':''}" onclick="pickTag('${esc(t).replace(/'/g,"\\'")}')">#${esc(t)}<span class="tc">${c}</span></span>`).join('');
+  $("footNote").textContent=`資料來源 github.com/${REPO} · 每日自動更新 · 本頁即時讀取 repo 內 ${DATA.length} 天 / ${total} 則情報`;
+}
+
+/* ========= 互動 ========= */
+function pickDate(d){activeDate=d;buildSidebar();render();window.scrollTo({top:0,behavior:'smooth'});}
+function pickTag(t){activeTag=(activeTag===t?null:t);buildSidebar();render();window.scrollTo({top:0,behavior:'smooth'});}
+function clearAll(){activeDate=null;activeTag=null;query="";$("q").value="";buildSidebar();render();}
+$("q").addEventListener('input',e=>{query=e.target.value.trim();render();});
+
+/* ========= 渲染 ========= */
+function matchItem(it){
+  if(activeTag&&!(it.tags||[]).includes(activeTag))return false;
+  if(query){const h=(it.title+' '+it.summary+' '+(it.tags||[]).join(' ')+' '+(it.author||'')).toLowerCase();
+    if(!h.includes(query.toLowerCase()))return false;}
+  return true;
+}
+function card(it){
+  const top=it.rank<=3;
+  const numc=top?` num-top${it.rank}`:'';
+  let badges='';
+  if(it.rank===1)badges+='<span class="badge b-top1">🔥 TOP 1</span>';
+  else if(it.rank===2)badges+='<span class="badge b-top2">TOP 2</span>';
+  else if(it.rank===3)badges+='<span class="badge b-top3">TOP 3</span>';
+  if((it.tags||[])[0])badges+=`<span class="badge b-cat">${esc(it.tags[0])}</span>`;
+  if(it.score!=null)badges+=`<span class="badge b-score">★ ${it.score}</span>`;
+  const tags=(it.tags||[]).map(t=>`<span class="hashtag" onclick="pickTag('${esc(t).replace(/'/g,"\\'")}')">#${esc(t)}</span>`).join('');
+  const title=it.source_url?`<a href="${esc(it.source_url)}" target="_blank" rel="noopener">${hl(it.title)}</a>`:hl(it.title);
+  const src=it.source_url?`<a class="source-btn" href="${esc(it.source_url)}" target="_blank" rel="noopener">原文連結 ↗</a>`:'';
+  return `<article class="article-card">
+    <div class="card-num"><div class="num-circle${numc}">${it.rank??'•'}</div></div>
+    <div>
+      <div class="card-badges">${badges}</div>
+      <h3 class="card-title">${title}</h3>
+      <div class="card-meta">📰 ${esc(it.author||'未標示')}</div>
+      <p class="card-summary">${hl(it.summary||'')}</p>
+      <div class="card-footer"><div class="hashtags">${tags}</div>${src}</div>
+    </div>
+  </article>`;
+}
+function render(){
+  if(!DATA.length)return;
+  const days=activeDate?DATA.filter(d=>d.date===activeDate):DATA;
+  let html='',count=0;
+  days.forEach(d=>{
+    const items=d.items.filter(matchItem).sort((a,b)=>(a.rank||99)-(b.rank||99));
+    if(!items.length)return;count+=items.length;
+    if(!activeDate)html+=`<div class="day-divider"><span class="dd-date">📅 ${esc(d.label)}</span><span class="dd-badge">${items.length} 則</span><span class="dd-line"></span></div>`;
+    html+=items.map(card).join('');
+  });
+  $("viewTitle").textContent=activeDate?activeDate+'　每日情報':(query||activeTag?'搜尋結果':'全部歷史情報');
+  const f=[];if(query)f.push(`關鍵字「${esc(query)}」`);if(activeTag)f.push(`標籤「${esc(activeTag)}」`);
+  $("viewSub").textContent=f.length?'篩選條件：'+f.join('、'):'依日期由新到舊排列，點左側日期或標籤可快速回溯';
+  $("countBadge").textContent=`共 ${count} 則`;
+  $("searchStat").innerHTML=(query||activeTag||activeDate)?`找到 <b>${count}</b> 則`:'';
+  $("clearBtn").style.display=(activeDate||activeTag||query)?'inline-block':'none';
+  $("content").innerHTML=count?html:'<div class="state">😶 沒有符合條件的情報，試著放寬搜尋或清除篩選。</div>';
+}
+loadAll();
+</script>
+</body>
+</html>

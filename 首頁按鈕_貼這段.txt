@@ -1,0 +1,65 @@
+================================================================
+首頁「📚 歷史回顧」按鈕 ── 安裝說明（模板版・一勞永逸）
+================================================================
+
+★ 你的 index.html 是 Python 用 templates/brief.html 每天自動重生的。
+  所以按鈕要加在「模板」裡，不是加在 index.html，這樣才不會被蓋掉。
+
+做法：打開  templates/brief.html ，把下面【整段】複製，
+      貼到該檔最底部的  </body>  之前，存檔、commit 即可。
+
+不用動：那支 .py 程式完全不必修改，所有功能、流程、評分邏輯都不受影響。
+特性：純附加。不修改、不刪除模板裡原本任何的 HTML / CSS / JS。
+      樣式與 id 都加了 cmhx- 前綴，不會和現有的衝突。
+
+----------------------------------------------------------------
+↓↓↓ 從這裡開始複製 ↓↓↓
+----------------------------------------------------------------
+
+<!-- 📚 歷史回顧浮動按鈕（純附加，不影響原頁面） -->
+<a id="cmhx-archive-btn" href="archive.html" title="查看歷史每日情報">
+  <span class="cmhx-ico">📚</span>
+  <span class="cmhx-txt">歷史回顧</span>
+</a>
+<style>
+  #cmhx-archive-btn{
+    position:fixed; right:24px; bottom:24px; z-index:9999;
+    display:inline-flex; align-items:center; gap:8px;
+    background:linear-gradient(135deg,#1a4a8a,#0e9f8e);
+    color:#fff; text-decoration:none;
+    font-family:'Noto Sans TC',sans-serif; font-size:.95rem; font-weight:700;
+    padding:13px 22px; border-radius:30px;
+    box-shadow:0 6px 20px rgba(10,22,40,.28);
+    transition:transform .15s, box-shadow .15s; letter-spacing:.03em;
+  }
+  #cmhx-archive-btn:hover{ transform:translateY(-2px); box-shadow:0 10px 28px rgba(43,127,232,.4); }
+  #cmhx-archive-btn .cmhx-ico{ font-size:1.1rem; }
+  @media(max-width:800px){
+    #cmhx-archive-btn{ right:16px; bottom:16px; padding:11px 18px; font-size:.88rem; }
+  }
+</style>
+
+----------------------------------------------------------------
+↑↑↑ 複製到這裡為止 ↑↑↑
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+為什麼貼在 templates/brief.html 而不是 index.html？
+----------------------------------------------------------------
+
+  render_html() 會用 templates/brief.html 算出 index.html，
+  每天排程跑一次就覆蓋一次 index.html。
+  → 貼在 index.html：明天重生後按鈕消失。
+  → 貼在 templates/brief.html：每天重生都自動帶上按鈕，永久有效。
+
+  這段是純靜態 HTML（沒有 {{ }} Jinja 語法），放進模板不會干擾
+  原本的迴圈與變數，那支 .py 程式一行都不用改、功能不受影響。
+
+----------------------------------------------------------------
+archive.html 放哪？
+----------------------------------------------------------------
+
+  放在「index.html 與那些 YYYY-MM-DD.json 對外被瀏覽到的同一層」
+  （GitHub Pages 的根目錄，也就是你 repo 首頁看到 index.html 的那層）。
+  archive.html 是獨立靜態檔，不會被 Python 重生流程影響。
