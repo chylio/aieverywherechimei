@@ -1,0 +1,75 @@
+{
+  "date": "2026年06月08日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "AI預測腦膜瘤復發：常規病理切片即可完成風險判斷",
+      "summary": "一項發表於 News-Medical 的最新研究顯示，AI 模型可直接分析常規病理切片影像，準確預測腦膜瘤（meningioma）術後復發風險，無須額外昂貴的分子檢測。腦膜瘤為最常見的顱內腫瘤之一，術後復發率因個體差異而顯著不同，現行分類標準對部分病患的風險預測仍不夠精確。此 AI 工具透過深度學習解讀蘇木精-伊紅染色切片中的組織形態特徵，提取肉眼難以辨識的複雜病理模式，進而生成個人化復發機率評分。研究人員指出，若此技術整合至病理科數位工作流程，可望在不增加額外成本的前提下協助神經外科與放射腫瘤科醫師制定術後追蹤與輔助治療決策，具備高度臨床轉化潛力。此研究方向呼應近年 AI 數位病理快速發展趨勢，對神經外科、病理科及腫瘤科均具重要參考價值。",
+      "tags": [
+        "AI病理",
+        "腦膜瘤",
+        "復發預測",
+        "數位病理"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-06-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQS1IY1dBT1JZeVZKbU50TldfaXlVNTRibmlaZjZKdmpmMUxZZWF1MC1zTmxsOEJuaHBDMk00cUY0TFhub0RrSTdCUXlUSjd4OVppYVJBYWc1Rm1GakRJUzBVX2NaRG1UM3g1dkRaZmdXSEc2Vmdua1AtRjVVRFhPWGJhOFNjbnNjd2hCUGExd00zZG9iaGNnQUdfSzUwQm1oX3cwZUlRX3ZZZVlSTGRueg?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "Microsoft 加速醫療 AI 落地臨床實務，擴大醫療健康領域雄心",
+      "summary": "Digital Journal 報導，Microsoft 正積極推動醫療 AI 從概念驗證邁向真實臨床應用，其醫療健康策略涵蓋 Azure AI 雲端平台、Nuance DAX 環境語音記錄、Dragon Ambient eXperience 等多項工具，並持續深化與醫療系統的整合夥伴關係。Microsoft 在醫療 AI 領域的布局已從行政文書自動化，擴展至臨床決策輔助、影像分析及患者溝通等核心場景。此波擴張不僅反映科技巨頭對醫療市場的高度重視，也代表醫院資訊部門在評估 AI 採購時，面臨更多來自主要雲端供應商的整合壓力與機會。對醫療機構領導層而言，Microsoft 的規模優勢、與 Epic 等電子病歷系統的深度整合能力，以及其在資料安全合規方面的投入，皆是評估長期數位轉型合作夥伴時的重要考量面向。",
+      "tags": [
+        "Microsoft",
+        "臨床AI應用",
+        "數位轉型",
+        "醫療資訊系統"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-06-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTR5SXdoOXJCZGpNaVFHVzBvNmlwa1FMU1Y1V2FwZk1Tb3VfeEJBb0NsWVhSbWtNRUNiXzBkMWpkdHRPYjJncVM5aXRTNUtNVXNCb2hUQTh2ODJDZXFiZGY3NzVpdlphUThZME1LSE5MMXJ2QWo5ZVVYRENmVFY1N0tPbmJrdDRJLTFvak9QbHFLYnQ2cll4Sng2SzM0dHNWSWx6S0lYcXI1NUZHcjVUZmtNS24?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.0,
+      "title": "保險業者搶先部署AI，醫院營收循環管理不能再被動應對",
+      "summary": "MedCity News 刊出評論指出，美國健康保險業者已大規模導入 AI 工具，用於自動化理賠審核、偵測醫療必要性爭議，以及針對特定診療項目快速發出拒付決定，使醫院在申報核銷過程中處於愈來愈不利的地位。文章強調，若醫療機構的營收循環（Revenue Cycle Management）團隊持續採取被動因應策略——僅在遭拒付後才逐件申訴——將在時間與資源上持續失血。作者建議醫院領導層應主動投資 AI 輔助申報工具、強化事前授權自動化，並建立即時數據監測機制，以預測保險業者拒付模式，在索賠送出前即完成修正。此議題對醫院財務長、健保申報部門及資訊長均具直接影響，反映醫療 AI 的競技場已從臨床端延伸至財務管理核心，醫院若未及早布局，恐面臨系統性的財務侵蝕風險。",
+      "tags": [
+        "營收循環管理",
+        "保險理賠AI",
+        "醫院財務",
+        "自動化申報"
+      ],
+      "author": "未標示（MedCity News｜2026-06-07）",
+      "source_url": "https://medcitynews.com/2026/06/when-ai-becomes-a-payer-advantage-hospitals-cannot-afford-to-stay-reactive/"
+    },
+    {
+      "rank": 4,
+      "score": 6.0,
+      "title": "地緣政治成為病患安全威脅：醫療機構如何應對定向網路攻擊新型態",
+      "summary": "MedCity News 評論文章指出，針對醫療機構的網路攻擊動機已出現質變：攻擊者的目標不再僅是勒索贖金，而是以製造系統性混亂、癱瘓醫療服務為目的，背後往往涉及國家級駭客組織或地緣政治因素。作者警示，大多數醫療機構的資安防禦架構仍以傳統勒索軟體威脅為假設前提，對於以破壞關鍵基礎設施為目標的高階持續性威脅（APT）缺乏足夠準備。文章強調，當醫療 AI 系統、電子病歷、影像儲存與手術排程深度整合後，單一入侵點即可引發連鎖式服務中斷，患者安全將直接受到威脅。此觀點提醒醫院資安與資訊團隊，必須將地緣政治風險納入威脅模型，並重新評估 AI 相關系統的資安韌性設計，以因應更複雜的攻擊情境。",
+      "tags": [
+        "醫療資安",
+        "網路攻擊",
+        "患者安全",
+        "關鍵基礎設施"
+      ],
+      "author": "未標示（MedCity News｜2026-06-07）",
+      "source_url": "https://medcitynews.com/2026/06/when-geopolitics-becomes-a-patient-safety-issue-protecting-healthcare-in-an-era-of-targeted-cyberattacks/"
+    },
+    {
+      "rank": 5,
+      "score": 5.5,
+      "title": "科技助力母嬰照護：從數據堆疊到早期風險辨識的系統轉型",
+      "summary": "MedCity News 評論文章指出，改善母嬰安全的關鍵不在於蒐集更多數據或增設更多監測裝置，而在於建立能夠協助臨床人員「更早辨識風險、更有信心溝通與即時行動」的整合系統。作者批評目前許多醫院雖部署大量產科監測設備，但各系統之間缺乏整合，導致警示疲勞（alert fatigue）問題嚴重，反而分散護理師與醫師的注意力。文章呼籲引入 AI 驅動的早期預警系統，整合胎兒監護、產婦生命徵象與電子病歷數據，於危險情況出現前提供可行動的臨床警示。此議題對婦產科、護理部及醫療資訊團隊具有直接參考意義，也呼應全球對降低孕產婦死亡率與嬰兒不良結果的持續關注，是醫院落實以數據驅動照護品質改善的重要場域。",
+      "tags": [
+        "母嬰照護",
+        "早期預警系統",
+        "產科AI",
+        "照護品質"
+      ],
+      "author": "未標示（MedCity News｜2026-06-07）",
+      "source_url": "https://medcitynews.com/2026/06/its-time-for-technology-to-lift-maternal-care/"
+    }
+  ]
+}
