@@ -1,0 +1,145 @@
+{
+  "date": "2026年06月09日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Mayo Clinic研究：AI可在不做昂貴基因檢測的情況下揭示腦瘤風險",
+      "summary": "Mayo Clinic發表最新研究，證實AI技術能夠透過分析標準影像資料，精準辨識腦瘤的遺傳風險特徵，無需仰賴高成本的基因定序檢測。此一突破具有重大的臨床意涵：一方面大幅降低患者在診斷過程中的費用負擔，另一方面加快臨床判斷速度，讓腦腫瘤高風險族群能更及時進入後續治療規劃。傳統上，判斷腦瘤遺傳易感性需要進行專業基因檢測，不僅耗時且費用昂貴，且並非所有醫療機構都具備執行能力。AI模型的介入使得這類分析可在一般影像工作流程中完成，有助於提升醫療資源相對有限地區的腦瘤診斷可近性。對於醫院領導層而言，此研究顯示AI輔助影像分析在神經腫瘤科的應用潛力，值得追蹤後續臨床驗證進展。",
+      "tags": [
+        "腦瘤診斷",
+        "AI影像分析",
+        "基因風險預測",
+        "神經腫瘤科"
+      ],
+      "author": "未標示（Mayo Clinic News Network｜2026-06-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRkVKVnRBUllPbnpIREF4OGRVUGEydDNwY2tub2NxMFFBcWMwNVhlNmJMeVNwYjdCMGRyYTkwZ1dtVDZKeUcyd1d1SlBLS1NNRWtxcTd1cWc2by13c21XN3FheVNvWThCeVNJNGZ0amNRRWRhTWFMcGZabVBRM05pNGFfLUMwRlhkci10TlluNjREbUpRYm1yRGVpYzl4ZjZmai1GdlRIajFyVk52blFIVm1uTEhsSDIxOGdkdUlkZkpVSWF6NnE2WE9TR3hkUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "Stanford研究：AI有望大幅減輕醫師撰寫出院摘要的負擔",
+      "summary": "Stanford Medicine發布新研究，探討生成式AI應用於醫院出院摘要撰寫的可行性與效益。出院摘要是確保照護連續性的關鍵文件，但其撰寫往往佔用住院醫師與主治醫師大量行政時間，是造成臨床人員疲乏的重要來源之一。研究顯示，AI輔助系統能夠自動彙整住院期間的診斷、治療、用藥與追蹤計畫等關鍵資訊，產出結構化草稿供醫師覆核修改，可顯著縮短撰寫時間。這不僅有助於提升醫師的工作品質與職業滿意度，同時也能降低因人工撰寫疏漏造成的資訊不完整風險。對臨床資訊化程度較高的醫療機構而言，此類應用已具備近期導入的技術基礎，是AI減輕文書負擔最具說服力的場景之一。",
+      "tags": [
+        "出院摘要",
+        "生成式AI",
+        "臨床文書自動化",
+        "醫師負擔減輕"
+      ],
+      "author": "未標示（Stanford Medicine｜2026-06-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WbWRRYUhUYUpBdXh0TXhHeDMyaXZTMHB1RlJLbWtqWE9Nbm1FcDFhOGpMajdqX21XdWI5cnNDdm1ndEtkQk13WENRTHVqQk9samxVZGJMeERhcWJlbHo4OW5ib0dfcktITUVlTVZUZ181NUVpOEpfTkhvMEs?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "AI進駐診間：信任何時才能真正到位？",
+      "summary": "《Modern Healthcare》刊出深度分析，探討AI工具快速進入臨床診療現場後，醫病雙方的信任建立仍明顯落後於技術部署速度的現象。文章指出，儘管AI在影像判讀、輔助決策、預測分析等領域的準確性已有充分實證，但臨床醫師對AI建議的採納意願仍受到「黑箱」疑慮、責任歸屬不明及缺乏可解釋性等因素制約；患者端也普遍對AI參與診斷感到不安，尤其在高風險臨床情境中更為明顯。報導呼籲醫院在導入AI時，應同步建立透明度機制、制定人機協作標準作業程序，並主動對醫師與患者進行AI素養教育，才能讓信任與技術同步成熟。這一議題對正在評估或推展AI臨床應用的醫療機構具有直接參考價值。",
+      "tags": [
+        "醫病信任",
+        "AI臨床導入",
+        "可解釋性AI",
+        "醫療AI倫理"
+      ],
+      "author": "未標示（Modern Healthcare｜2026-06-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSkk3RjBld0VsZmNHRmNfOHZUMkJxVVZDZnpvM0NRbGVBZlRXVTAwOF9fYkdIc1kzY00tdHExaEttSTVJSEJMckk3ZjNqSkJNLTItUjVhaUtjRjdyaVczdnRkckdUaGhjcm5nRUlxV0NxTzA1WTA5OUotbWM1N3hlVlp1VndQb01JLW93ZzdVd3NqYmZpY1dGcm5SM1F4Yjh4aTdLWWwzc1RrdUNSc0ppeGJuYlEwLXU1d3RB?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "法國大型醫院集團導入Orange Business生成式AI平台，覆蓋1.5萬名醫療專業人員",
+      "summary": "法國一家大型醫院集團宣布選用Orange Business所提供的「可信賴生成式AI」解決方案，預計部署至旗下1.5萬名醫療專業人員，涵蓋醫師、護理師及行政人員等。此一大規模導入案例標誌著生成式AI在歐洲醫療體系的企業級落地進程持續加速。Orange Business強調其平台符合歐盟AI法規要求，並針對醫療情境進行資料治理與隱私保護設計，以「可信賴」作為核心訴求與一般消費級AI工具做出區隔。此案的規模與跨職類覆蓋廣度，使其成為觀察生成式AI在大型醫院集團系統性整合的重要參考案例，亦顯示歐洲醫療機構在AI治理框架建立後，已逐步進入規模化部署階段。",
+      "tags": [
+        "生成式AI",
+        "醫院全院部署",
+        "歐洲醫療AI",
+        "AI治理"
+      ],
+      "author": "未標示（TyN Magazine｜2026-06-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUjZuNVFCVEh4MnVDTHNnREh4NzdQbVBISWdPQ21NTHNuZWRVV3FuRVQybGtjNUkwdWI2Y3d4UzdMcVlUckhxQ3oxYTJJU0JyVy1uSkFxOG1Ga1ZRdzlsSkJIbXFFMGlxX2VkbHpFNjZxUlk1c1lfblVfM24zT2s5dWhWRWtKRDdZV1UzamNLV0E1eXNPY25iQ0laNzFSV055ZVBQV2VxcEI1Ui1NRG9zN1RXR3hHQzV5cnIyNS1hTnM4NE9vYW1KM3pyZGdodDBUYlQ1VlNIWlc3VEdGZUJISXd4bjlyUk16MjZKTQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "AI如何讓臨床試驗方案設計更聰明：從歷史數據到結構化決策智慧",
+      "summary": "MedCity News刊出分析文章，說明AI如何透過微調領域專屬模型，將歷史臨床試驗資料——包含可行性評估結果、受試者招募模式、資源使用紀錄及過往績效指標——轉化為可供方案設計參考的結構化智慧。傳統臨床試驗方案設計高度仰賴資深研究人員的經驗判斷，耗時且難以系統複製；AI介入後，可自動識別高風險設計環節、預測招募瓶頸、建議資源配置優化策略，使研究團隊能在方案定稿前即進行數據驅動的決策調整。此應用方向不僅有助於縮短試驗啟動準備期，也能提升試驗成功率與成本效益。對於醫學研究中心及臨床試驗辦公室而言，AI輔助方案設計已從概念逐步走向可落地的實務工具。",
+      "tags": [
+        "臨床試驗",
+        "AI方案設計",
+        "受試者招募",
+        "研究效率"
+      ],
+      "author": "未標示（MedCity News｜2026-06-08）",
+      "source_url": "https://medcitynews.com/2026/06/how-ai-is-unlocking-smarter-clinical-trial-protocols/"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "放射科醫師為何偏好領域專屬AI而非通用AI？",
+      "summary": "TechTarget刊出深度報導，剖析放射科醫師在臨床實務中普遍傾向使用領域專屬AI工具而非通用大型語言模型的原因。核心論點在於：通用AI雖具備廣泛知識覆蓋，但在醫學影像判讀的精準性、術語一致性及錯誤容忍度上難以滿足臨床要求；相對地，以放射科資料訓練的專屬模型在特定任務（如肺結節偵測、骨折辨識、病灶分類）上展現出更高的一致性與可靠度。報導並指出，放射科醫師在AI工具選擇上日益具有主導意識，強調「可解釋性」與「工作流程整合度」是採用決策的關鍵要素，而非單純比較準確率數字。此觀點對醫院資訊部評估AI影像工具採購策略具有直接參考意義。",
+      "tags": [
+        "放射科AI",
+        "領域專屬模型",
+        "AI工具評估",
+        "影像判讀"
+      ],
+      "author": "未標示（TechTarget｜2026-06-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN28xV0FQZzE2SnNEcUNPUzBsSHhYMkhnNXZZRFh6NDg5TXdaTmJydWRWVVFab1BQcWpLSGp6QTREX3hvYXBLY0ptVEdobmNKNk11NFVqS3BlNlBxem1KSW5QLUJZSWhtTFRKOGRGS1dkcjZPbXRfVG0zWFFkOGlYanhHS3JNTjNrMG5iSGRwby1HWGgwZWNCTzdsc2JsYndxSXBnVmxBYm00V0s0d2J4TU9lSQ?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "田納西州醫院護理師盜竊芬太尼案件：AI監控系統未能及時示警",
+      "summary": "美國田納西州一起護理師長期盜竊芬太尼的案件，揭露了醫院現行AI管制藥品監控系統存在的重大漏洞。根據州衛生記錄，該名護理師多次以不正常方式取用麻醉藥品，但院方部署的AI異常偵測系統未能在適當時機觸發警示，導致事件延遲被發現。此案引發醫療圈對於AI藥品管理工具「偽陽性率過低設定」與「監控邏輯盲點」的討論，亦凸顯單純依賴AI進行管制藥品稽核而缺乏人工複核機制的潛在風險。對於醫院藥事管理委員會及護理行政主管而言，此案例提示AI監控工具的效能評估不應僅看靈敏度指標，亦須審視其在真實操作情境下的漏報率與應變流程設計。",
+      "tags": [
+        "管制藥品監控",
+        "AI安全漏洞",
+        "藥事管理",
+        "醫療安全"
+      ],
+      "author": "未標示（Tennessee Lookout｜2026-06-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaFU0NmZCek5CeWhBRTJaNTQ4Uk5hU3R1UkJWbGVoSjFBdlpJTW1ZSkRiUjR5ZTJ4MkRIMXRTWWJFenNUb0FrV3BwNFJIVjNsZkZwVFhheGFwSVJENElxSktFNy1mdHlNdDdxS3RQb2gyRFNPbDg4TFhCcWpzazFHUnY1R1hWSm52ZDV4UzBvMUlCZV9MZFpsQ3JhYVdRUHhBeGx0VXR0SG1LeUE2QnlaOFdhOEdMdzE0NDRmQmM3WQ?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "台灣AI醫療落地卡關全解析：法規、資安到風險治理如何不踩雷",
+      "summary": "《環球生技月刊》刊載深度報導，系統性梳理台灣醫療AI落地過程中最常遭遇的四大關卡：法規審查程序、產品安全認證、資訊安全要求與風險治理架構。文章指出，許多醫療機構在評估導入AI產品時，往往低估主管機關（食藥署、健保署）的審查複雜度，以及醫院自身在採購合約中需承擔的資安稽核義務。風險治理層面，文章強調AI工具上線後的持續監測機制（post-market surveillance）在台灣尚未形成標準作業規範，是當前最大的制度缺口。此報導對正在規劃或推進AI醫療器材採購的醫院資訊部與法遵團隊，提供了貼近本土監管環境的實務參考。",
+      "tags": [
+        "台灣醫療AI法規",
+        "AI風險治理",
+        "資訊安全",
+        "醫療器材審查"
+      ],
+      "author": "未標示（環球生技月刊｜2026-06-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5USVFJdHhobDg4djFTWGVMVmZ5RlpxVG1yTk41d0l3WWNOOEIzNkRSSm5aT2VmdkYtY2FuRGVXTTJxaWVVS3VBeDFWeWpRWEFwSjE0QWY1dXQzQ25UcmVnQ1Rxdm01LXJk?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.0,
+      "title": "邁阿密大學Miller醫學院推動病理科百日Agent AI挑戰計畫",
+      "summary": "邁阿密大學Miller醫學院啟動為期100天的「Agentic AI挑戰計畫」，以病理科作為主要實驗場域，探索自主型AI代理（Agentic AI）在數位病理工作流程中的實際應用潛力。計畫聚焦於讓AI代理能夠自主執行多步驟任務，包括切片影像預處理、異常區域標記、報告初稿生成及品質控管等，而非僅作為單一預測工具。此種「任務自主化」的設計理念代表病理AI應用正從輔助判讀進化為流程自動化代理。計畫採用100天限定衝刺模式，目的在於快速驗證可行性並積累實證數據，為後續大規模部署提供依據。此模式對有意評估Agentic AI的醫院數位轉型團隊具有借鑑意義。",
+      "tags": [
+        "Agentic AI",
+        "數位病理",
+        "醫院AI試驗",
+        "工作流程自動化"
+      ],
+      "author": "未標示（University of Miami｜2026-06-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04WFJROE94bkl1el8zREk0TEdWSTF2YlJLV19qblg0OUQwNUNGeWJNYzBmV1FRdHBncmxILVRrcTVVcDV2QXdhb1ZOTUdaMWZJMUlYNWVQMWZFTG0xUkt1aHdwX0JLZTZrV28tTmU2ZEp4RW9EU3MtMUNxVEc?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 5.5,
+      "title": "Photocure與Artera攜手合作，推進膀胱癌數位病理AI檢測評估",
+      "summary": "膀胱癌光動力療法領導廠商Photocure宣布與AI數位病理公司Artera展開合作，針對膀胱癌患者的數位病理切片進行AI檢測工具評估計畫。Artera以其在前列腺癌AI預後模型方面的成果聞名，此次跨疾病領域的擴展標誌著其技術平台正積極向其他泌尿系統腫瘤延伸。合作重點在於驗證AI模型能否從膀胱癌切片影像中萃取具預後意義的生物標記特徵，進而輔助臨床治療決策。若驗證成功，此類AI病理工具有望在不增加額外基因檢測成本的前提下，為泌尿腫瘤科提供更精準的個別化治療建議。此合作案反映出AI數位病理商業化正快速向多癌種擴展的產業趨勢。",
+      "tags": [
+        "膀胱癌",
+        "數位病理AI",
+        "泌尿腫瘤",
+        "AI預後模型"
+      ],
+      "author": "未標示（TradingView｜2026-06-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZE9YZUhNYnpKWGhQNy0tYnQtQ29kcTJaOEpmb1gwQXV2czljNUN2bTFDTzViUE05SE5Ielh6bE41c1JCV0VEcTJZeE5hQ1BsSnliUFlESWNBcUFJdVRINTJQdmstQnZxZC04WmEwRzZ4MzhSWkZiLUxQWERsSmZxNnNpdkpjcHRUOTQxcks1em1wT1psWkc3LXM4VFdWMVh5ZXc3N19ZWm12X3BIQXEyS3hTZmFBLWRkM0pUeGYtaDNZZzlfMF9VN285VnJiSUtUNElkSkZLVFYxMzNUTGlBcHpjYUxwSlBoczZfSw?oc=5"
+    }
+  ]
+}
