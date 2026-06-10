@@ -1,0 +1,117 @@
+{
+  "date": "2026年06月10日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "放射科AI系統可在乳癌確診前六年提前示警",
+      "summary": "來自 News-Medical 與 EurekAlert! 的最新報告指出，放射科 AI 系統透過分析乳房 X 光影像，能在患者正式確診乳癌前最多六年即發出早期預警。該研究顯示，AI 模型藉由識別影像中人類肉眼難以察覺的微細結構變化，建立風險分層機制，對高風險族群進行更密集追蹤。此一發現對乳癌篩檢策略具重大意義——現行篩檢流程多以固定年齡或週期為準，而 AI 輔助的個人化風險預測有望使早期發現率大幅提升，進而改善治療預後。對醫院放射科與乳癌防治計畫而言，此類工具的導入將直接影響篩檢排程設計、設備投資優先順序及與腫瘤科的跨科協作模式，值得密切關注後續臨床驗證進展。",
+      "tags": [
+        "乳癌篩檢",
+        "放射科AI",
+        "早期偵測",
+        "影像辨識"
+      ],
+      "author": "未標示（News-Medical｜2026-06-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDFYTzJOeEMySk9vcjhTMmtLMUJmYTlucGoxZEF1al9hTkExTzVnd0JHbDh2UWdEZHdEWmpucGdUanJFNElSc0lyQm84bWs3eUExTjI5dDFma0Ntb1Z5a3hfUW5UeGQ3czhZQUFHV25UOERRRzg3bXozdWNfZUNObzhtajN5eHlNVTluNFl1VGlUTGVmMkdZXzNDaWppVzBiMnViTzBGSzF4VUxyRkZWQnNiQzY0YTd3TlNhdg"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "Harrison.ai 發布 Harrison.Rad 1.5：首個通過放射科Board考試標準的基礎模型",
+      "summary": "Harrison.ai 正式推出最新放射科基礎模型 Harrison.Rad 1.5，該模型能夠整合影像、歷史報告及臨床背景資訊，自動草擬放射科報告，並宣稱是目前唯一通過放射科新版Board考試標準的 AI 模型。此次更新強化了多模態輸入能力，使模型在解讀複雜病例時更貼近資深放射科醫師的臨床思維。對於放射科報告量龐大、人力吃緊的醫院而言，此類自動草擬工具有望顯著縮短報告週轉時間。然而，Board考試標準是否等同於真實臨床場景的可靠性，仍需獨立的前瞻性驗證研究支持。AuntMinnie 亦同步報導其模型更新情況，顯示業界對此高度關注，相關部署與監管合規討論預計將在 SIIM 等學術會議持續發酵。",
+      "tags": [
+        "放射科AI",
+        "基礎模型",
+        "報告自動化",
+        "臨床工作流程"
+      ],
+      "author": "未標示（AuntMinnie｜2026-06-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0JZdjBGN05TOUd2RUF2eTJWOWFfUWk0WUJxeTBIX2pMUmlFeF9BNmFUMm9SN3htbnRMVzZIWk9jMjlKcVNmQU9QRVc2dVRISEotYUZPdnp6TXpuSHMzMjllb1RtSlNYRjIybFJ5ZEFnb0wwRDJKVTZvZ2Zsd19xZmg2Q0tUTUM3ZmRjOVJvSmFZWUlaeGdpa25sWEJUMkNDSkR1MUxPb0I0Z3VJWW1nVEhqd2pmMDZvdXc5dnl3aTcxaE9QSDFJZWZB"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "影像AI品質管理成功導入的關鍵：SIIM26 專家呼籲建立系統性監控機制",
+      "summary": "在 SIIM 2026 年會上，專家強調影像 AI 工具若缺乏完善的品質管理機制，將難以在臨床環境中實現穩定且可信賴的應用。報告指出，許多醫院在導入影像 AI 後，忽略了演算法性能隨時間漂移、資料分布偏移及跨族群表現差異等問題，導致 AI 輸出的可靠性下降卻未被及時察覺。專家建議醫院應建立持續監測儀表板、定期重新驗證模型，並制定明確的降級或下架標準。此議題直接關係到醫院資訊與臨床工程部門的職責劃分，也影響醫院在採購 AI 產品時應納入的合約條款。對已部署或計畫導入影像 AI 的醫療機構而言，品質管理框架的建置應與技術採購同步規劃，而非事後補救。",
+      "tags": [
+        "影像AI",
+        "品質管理",
+        "AI治理",
+        "放射科"
+      ],
+      "author": "未標示（AuntMinnie｜2026-06-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYW5lTktVM0g4NmVfVGEzRmpnTTR5YUxEU1UxX3oxRlpiLUc5QV8zYTR0U0lObG4zUVM2VkZPVXh1S0VfQkNEZGhOQTRmMmpxckpXa0xUQzZLNUZxeUVSVmNYMmM1M25Hdkh6bFlIZ2NwR1A3S25IWlRFVzJOV1RISTFhRHBEcW9qYXlLakJneWFnV0NDaHhlU0xRbXBIbjhzcHZmeEhJOXdDb3BQNVV2V1lBVzdsUXdjOEZQdld1SDlsRWd6N3c"
+    },
+    {
+      "rank": 4,
+      "score": 8.2,
+      "title": "Rad AI 與耶魯紐黑文健康體系深化合作，擴大放射科AI應用版圖",
+      "summary": "MobiHealthNews 獨家報導，Rad AI 宣布擴大與耶魯紐黑文健康體系（Yale New Haven Health System）的合作夥伴關係。耶魯紐黑文為美國指標性大型學術醫療中心，此次擴展合作意味著 Rad AI 的放射科 AI 工具將在更大規模的臨床環境中部署，涵蓋更多影像判讀場景與工作流程整合需求。Rad AI 的核心產品聚焦於放射科報告效率提升與異常發現優先排序，此類與頂尖學術醫學中心的策略聯盟，通常伴隨著真實世界臨床數據的共同研究與產品迭代。對有意導入放射科 AI 的醫院決策者而言，大型學術中心的採用案例提供了重要的參考依據，同時也顯示 AI 廠商正積極透過旗艦合作建立市場公信力。",
+      "tags": [
+        "放射科AI",
+        "醫院合作",
+        "臨床部署",
+        "工作流程整合"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-06-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORTRhQkxxd2RrUGwtWDVaQlVZelJrTzJvdU5ZYTBBN3BjVHVUVktIX0xURVJhS2NIV25rMjN4M1pYdDBPaEY4dEVaY0M3RjZIQnhoZmdTZVJsaUtiNEpTYUxIZ0JsUjhpYVFvMGVTdFJhMHo0UnREVjh0OGh2OWlwT0lzaFp3SHh3LXo5Sm4ySzEzbFBxcHFaMU9fZkh3LUlQZzBtVGZvbVdaVGVjTUZV"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "民眾轉向AI聊天機器人填補醫療資訊缺口：Nature分析揭示醫療體系的隱憂",
+      "summary": "Nature 刊出一篇系統性評估研究，分析民眾向 AI 聊天機器人提出的健康相關查詢內容，結果揭示醫療體系在資訊提供上的顯著缺口。研究指出，民眾在無法即時獲得醫療諮詢的情況下，愈來愈多轉向 AI 工具尋求解答，查詢範圍涵蓋症狀判斷、藥物交互作用及慢性病管理等敏感議題。作者強調，AI 公司應承擔相應責任，確保健康資訊的準確性與安全性；同時，醫療機構亦應正視此一行為趨勢，思考如何在官方管道提供更即時、易近用的健康資訊服務。此研究對醫院患者教育策略、遠距醫療設計及健康識能推廣政策均具有直接的政策參考價值。",
+      "tags": [
+        "AI聊天機器人",
+        "健康資訊",
+        "患者行為",
+        "醫療缺口"
+      ],
+      "author": "未標示（Nature｜2026-06-09）",
+      "source_url": "https://www.nature.com/articles/d41586-026-01737-9"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "AMD 攜手倫敦帝國學院推進醫療AI運算基礎設施建設",
+      "summary": "Healthcare Digital 報導，AMD 與英國倫敦帝國學院宣布合作推進醫療 AI 領域的運算基礎設施發展。此合作聚焦於為醫療 AI 模型訓練與推論提供高效能、低功耗的硬體支援，以因應醫療影像分析、基因體學及臨床預測模型對算力的龐大需求。帝國學院作為頂尖醫學研究機構，此次合作將有助於驗證 AMD 醫療 AI 解決方案在學術與臨床場景中的實際效能。隨著 NVIDIA 在醫療 AI 硬體市場的主導地位持續受到挑戰，AMD 的積極佈局顯示醫療 AI 硬體競爭格局正在多元化。對醫院資訊部與數位轉型團隊而言，硬體選型的多元競爭有望帶來更具成本效益的建置方案。",
+      "tags": [
+        "醫療AI硬體",
+        "學術合作",
+        "運算基礎設施",
+        "數位轉型"
+      ],
+      "author": "未標示（Healthcare Digital｜2026-06-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT1NGRjVib0xBU0ZkMnRjcEg3d2dYRHhCMzFOa0NtMzhZOHhmLVBTNWpIM01fYVBfMDlySGNGem1LeFNEV2prVTA1eUdqUjJ2Vjc4Tk1acDVPY0lXRDV3YWZNWXJHTGdGVkFibm1fNVdxaWE1Z2Y0MTQxLUFwLTdNd0FrN0x2STBWTUdWbWtXUnE"
+    },
+    {
+      "rank": 7,
+      "score": 7.3,
+      "title": "Microsoft NHS Copilot 合作案：真實世界醫療AI採用的壓力測試",
+      "summary": "Yahoo Finance 報導，Microsoft 與英國國家健保署 NHS 的 Copilot 合作案正成為醫療 AI 大規模落地的重要觀察指標。此合作將 Microsoft Copilot 整合至 NHS 的臨床與行政工作流程，涵蓋病歷摘要、排程優化及臨床決策支援等應用場景。然而，在真實世界的醫療環境中，AI 工具面臨電子病歷系統異質性、資料隱私法規、臨床人員接受度及系統穩定性等多重挑戰，使此案成為全球醫療 AI 採用的壓力測試場域。NHS 的規模與複雜度使其經驗對其他公立醫療體系具有高度參考性。對台灣醫療機構而言，觀察此合作案的落地成效與所遭遇的挑戰，有助於預判本土導入類似工具時可能面臨的困難與因應策略。",
+      "tags": [
+        "Microsoft Copilot",
+        "NHS",
+        "醫療AI採用",
+        "臨床工作流程"
+      ],
+      "author": "未標示（Yahoo Finance｜2026-06-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS0FXdGpRSzJkcmFUSnhaYUhZVHNVVFFSQjFJZ0JlbTZ2UnBsVDRjcFRzaUo0RXBwd1JuOUNCa0JKZjR2VnVkd1NCbFppZGEwUnJsbHFxUng4ci1tRS1VSUl6SVByWTQteWhyM00wb0N4OW1mcFF6bHY4OHdPYlVIenF1TVhRQWJvUUJTcHItbHNlM0Y3VDVVYWZIX2ZZMnNtSGRv"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "2026新竹臺大分院智慧醫療研討會：聚焦AI臨床決策與數位轉型落地",
+      "summary": "新竹臺大分院舉辦 2026 年智慧醫療研討會，聚焦 AI 臨床決策支援系統與醫院數位轉型的實務落地應用。研討會匯聚臨床醫師、資訊專家與政策制定者，探討如何將 AI 工具有效嵌入醫療工作流程，並兼顧法規合規、資料治理及臨床安全等核心挑戰。活動延續台灣近期智慧醫療政策推動的脈絡，強調從概念驗證到規模化部署的轉型路徑。對台灣醫療體系而言，此類跨機構、跨專業的知識交流平台，有助於建立在地化的 AI 導入最佳實踐，並形成醫院間的經驗共享網絡。研討會的議題設定也反映出臺灣醫療機構在 AI 落地過程中所共同面臨的治理與整合挑戰。",
+      "tags": [
+        "台灣智慧醫療",
+        "臨床決策支援",
+        "數位轉型",
+        "醫院AI導入"
+      ],
+      "author": "未標示（台灣好新聞｜2026-06-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQTXN3b2ZkVDR6aEM3dmVDYUc0dlNjS0tGU0dWN0x1UkxrMHFWbVNidkt5M0YwRUZVWXVMZ19jOHBnVFNfY0NyaGtBQlM0Z0JFYjV4cnJzTFkzY0s1TGRONTUyWnY3eTFIRTZybl9FZ09faGhHaDRtOHVCbkd2RVlMaU1HbmhxM2pfWlBoazlpTEMxaDcwOTlIeHd6TndqN2RZNGkzdkE4RXR3Vzhmbi1IS2gzYnNicVF5MGdTeXpYMXExMFpTUlIxMkFZT01TMGNPQWs2R19QYWRWbElOQTd6Y3UtY0lNMVYwTVVtSnFTOTlzZ3E4QzBCcjdnX3laVkNJQWtQVjJwS3MtNHNtRXN1cGVMVm1uc3pNbWdrZVBXTXI1M2I1d0liSGVlOHZORWZVM2hHNG5qbWpqSWFYcVVLQWZZdG5xYU1XR2xBay00YWhLVGJmRkI1azM4b3FHcnJBV2tjN0l2RmhZNURCbk5IQ09PYlRwNloxdVprQzFFR2Rqc1NLQjNuV1MyNVk"
+    }
+  ]
+}
