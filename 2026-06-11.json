@@ -1,0 +1,131 @@
+{
+  "date": "2026年06月11日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "美國醫學會推動醫療AI新政策：確保醫師主導、防止專業被取代",
+      "summary": "美國醫學會（AMA）正式推出一套醫療AI治理新政策框架，核心主張是在AI輔助臨床決策的情境下，醫師必須保有最終決策主導權，而非被AI系統所取代。此政策回應近年AI工具大量進入診間所引發的責任歸屬與專業自主性爭議，明確要求AI開發商與醫療機構在部署前建立透明的演算法說明機制，並保障醫師有能力理解、質疑與覆蓋AI建議。AMA同時強調，任何AI系統若影響到臨床診斷或治療決定，均須經過嚴格驗證與持續監控。此舉被業界視為繼FDA推動AI醫療器材監管框架後，另一層來自專業醫師組織的自律性治理行動，對醫院導入AI工具的合規評估具有重要參考價值，也可能影響未來AI醫療產品的設計規範與問責標準。",
+      "tags": [
+        "醫療AI治理",
+        "臨床決策",
+        "醫師主導",
+        "政策法規"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-06-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZGZVeWw0VUlkcGI5TGJRNkotOUJSXzlQS0NiaHRqR21pVy1qWmlORW9OMDZ0LVR5QlMwYU5JTEJ2MTJVcEdDYXg5ZjluejVxdmVvRS1lX0thRndlZkJHWXhSeU1fLVpBdWdyWTdua2o2bW80dEdoQWFIMktVWGRwUUk1ZFVlYmRDbEFmbGx4d2JPT1IwTFBmR2JkcmdHMWVjR2VLT3paQ1lnRTdFbE1ILWpWTjhFeVNGWjZSVW9JTHZkeE0weEFwNnhxYmJYNWtWZHVyODc1dFFYSWNXYzhabFVnT2pQUW5qOC1vUmtkMVBERWlFXy1KLUhSYm1ZZnY4X3JqS0xiVUVOQzZIRWtnWVRlckZUekNkajlnNzR4VlYyWkdvcDNBeVIyMklRWm1tYlBfeHNSVVFVQ2tDZGtaQXVZR29vTFFlaDVCR0I1R3N2dks3Ny13VUFZYXhwWU0?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "敗血症演算法的數據陷阱：AI時序偏誤問題如何危及臨床可靠性",
+      "summary": "STAT News最新AI Prognosis專欄深入剖析敗血症預測演算法在真實臨床環境中面臨的「時序偏誤」問題，指出部分AI模型在訓練時隱含了未來才能取得的數據特徵，導致模型在回溯驗證中表現優異，卻在前瞻性臨床部署時失效，有如「需要時光機才能運作」。文章同時涵蓋AI醫療記錄輔助工具（AI scribes）對病患溝通的應用進展，以及生技領域的AI新動態。敗血症是醫院內死亡率最高的急症之一，預測模型的可靠性直接影響早期介入時機。這項分析提醒醫療機構在評估AI臨床工具時，必須嚴格審查模型訓練數據的時序完整性與前瞻性驗證結果，而非僅依賴回溯性準確率指標，對採購決策與演算法稽核均具有重要警示意義。",
+      "tags": [
+        "敗血症AI",
+        "演算法偏誤",
+        "臨床驗證",
+        "患者安全"
+      ],
+      "author": "未標示（STAT News｜2026-06-11）",
+      "source_url": "https://www.statnews.com/2026/06/10/sepsis-algorithm-shouldnt-require-time-machine-ai-prognosis/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "腫瘤科成為醫療AI最艱難戰場：複雜度、責任與數據挑戰全面解析",
+      "summary": "Healthcare IT News刊出深度分析，指出腫瘤科（oncology）正成為整個醫療AI領域最嚴苛的應用考驗。腫瘤診療涉及多模態影像、基因組學、病理切片、治療反應追蹤等高度異質性數據，加上病患族群多樣、臨床路徑複雜，使得AI模型在訓練與部署上面臨前所未有的挑戰。文章指出，現有的通用型醫療AI工具往往難以直接移植至腫瘤場域，必須針對特定癌症類型、治療階段與機構數據環境進行客製化調整。此外，腫瘤AI的決策若出現錯誤，後果往往不可逆，因此對可解釋性與臨床醫師最終審查機制的要求遠高於其他科別。對正在評估或推動腫瘤科AI導入的醫院而言，此文提供了關於選型標準、驗證流程與治理架構的重要參考框架。",
+      "tags": [
+        "腫瘤科AI",
+        "臨床AI挑戰",
+        "模型驗證",
+        "可解釋性"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-06-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjdnSktWU3lxWDJXY0JOR21iSk9WQVNxZXFSWi1WZXprRzg1S29QaG9XdW15bmZubFpUTFhvVHJVeFBSQ2hJSVAtY0c0ZlBwdEZNTnhoZVA2bUtkY0tlMjFma3pOQ19vWHpMY2FqM1E0Z2NtbkpjT2lOWTg2cXVMZDNsN1U3ZGJmQzBUMXVEeThjUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "OpenAI、Anthropic邁向IPO之際，醫療AI版圖同步擴張",
+      "summary": "MobiHealthNews報導，OpenAI與Anthropic兩大AI領導企業在籌備首次公開募股（IPO）的同時，正積極擴大其在醫療健康領域的業務布局。兩家公司近期分別與多家醫療機構、健康系統及生技企業深化合作，涵蓋臨床文件自動化、醫療客服、藥物研發輔助等多個應用場景。IPO進程帶來的資金壓力與成長預期，促使兩家公司將醫療AI列為核心商業化方向之一。此一趨勢意味著未來醫療機構在採購AI工具時，將有更多來自大型基礎模型廠商的直接競爭選項，也預示著醫療AI市場的資本集中度將進一步提升。對醫院資訊部門與數位轉型團隊而言，了解主要AI平台的商業策略走向，有助於評估長期合作夥伴的穩定性與技術路線圖。",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "醫療AI商業化",
+        "數位轉型"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-06-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLXdVcnpUMHNMQlJzM0ZwelN6ZTdINmVYZHJHRUhZcXBIM2R2ei00QUhoQ21xSzNsOXhrZExDalFEVXhfUnRhN05nUFJhcmd4TDYwMGg1X1IySmE1RjVmX1B6a1NYc1BzTElibkNCNFdGRjlhWTZjazB0c2Jqdm9kaDlHVTR1Rzh4dEdaZkJTU3BBRmZ4SWZ4dEViaFRKWjIwUjkyZTVFekhXU1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "台灣行政院BTC預備會議聚焦AI生技與智慧醫療，FHIR Box病歷互通方案再受重視",
+      "summary": "根據iThome報導，台灣行政院生技產業策略諮議委員會（BTC）預備會議將AI生技與智慧醫療列為核心議題，並再次提出建置「FHIR Box」基礎設施以實現全台病歷互通的構想。FHIR（Fast Healthcare Interoperability Resources）是國際通行的醫療數據交換標準，FHIR Box方案旨在打破各醫療機構間的數據孤島，使病患就醫紀錄能夠跨院安全共享，進而支持AI模型的訓練與臨床應用。此次會議顯示台灣政府在醫療AI基礎建設上的政策意圖持續強化，若FHIR Box方案落地，將對醫院資訊系統升級需求、數據治理規範以及跨院AI應用開發產生深遠影響，是各大醫療機構資訊部門需持續關注的政策動向。",
+      "tags": [
+        "台灣醫療AI",
+        "FHIR",
+        "病歷互通",
+        "智慧醫療政策"
+      ],
+      "author": "未標示（iThome｜2026-06-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVMmNOMjdOY0dQbXFjbkxQNlhkdkxDOUMxaHRhdkNTMWptLUtpWHBtNHlBc3hscEliaVZHZ1VjMkdIcE96LXZCV2lham5zUQ?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "DeepHealth推出Reporting Pro：為放射科報告帶來AI自動化新工具",
+      "summary": "DeepHealth正式發布名為「Reporting Pro」的放射科AI報告自動化軟體，旨在協助放射科醫師大幅縮短報告撰寫時間並提升一致性。該產品透過AI自動擷取影像關鍵發現、結構化呈現異常區域，並產生初稿供醫師審閱與修訂，實現「AI起草、醫師確認」的工作流程。DeepHealth表示，Reporting Pro已針對多種影像模態（包括CT、MRI、X光）進行優化，並與主流PACS系統整合。放射科報告積壓與人力短缺是全球醫院普遍面臨的挑戰，此類AI自動化工具的商業落地代表市場正進入實質應用階段。對評估放射科AI工具的機構而言，此產品的功能設計與整合架構值得作為比較基準，以判斷適合自身環境的解決方案。",
+      "tags": [
+        "放射科AI",
+        "報告自動化",
+        "DeepHealth",
+        "影像AI"
+      ],
+      "author": "未標示（GlobeNewswire｜2026-06-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZGpuOWhmOHM1YnBiM1MyUGtGV0Znd0p2VDFfd1F1bFctcXgtaWU5UkhmYXB6R3ZHVHpZazdvckVaeTJtZDF5ak1vWlVyTFM5NVpDYnlRSU5Sc2QtcllhUi1JVE9XYkxsMEFYUnloOEw0WDdQdHBvR0RSM0M0YlAwSGRaS3lFWEhGdHZyVS1vQkJxc29ubUtZWjJXcks5NFhDREhxSGpUZjlJOFdzZXkzeXljSFhabkY1WW4ySWFlcHBXVHp4dGNraUtnNl9aZEdadXpBSG8wUmUyMDQ0YUs1bFNjaVFsRDhFNHRR?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "LLM可靠執行放射科數值任務：SIIM 2026研究揭示語言模型臨床潛力",
+      "summary": "美國醫學影像資訊學會年會（SIIM 2026）發表研究指出，大型語言模型（LLM）在放射科報告中執行數值相關任務（如腫瘤尺寸測量、數值提取與比較）時，已展現出可靠的準確性。這打破了外界對LLM在精確數字處理上能力不足的疑慮，顯示LLM不僅適合非結構化文字任務，在需要數值精確度的臨床場景中同樣具備實用價值。研究團隊測試了多個市售與開源LLM在標準化放射科報告數據集上的表現，結果顯示部分模型的數值任務準確率已達臨床可接受水準。此發現對醫院評估LLM輔助放射科工作流程的可行性具有直接參考價值，同時也為語言模型在其他需要數值精確度的臨床科別（如腫瘤科追蹤報告）的應用提供了實證依據。",
+      "tags": [
+        "大型語言模型",
+        "放射科AI",
+        "SIIM",
+        "臨床驗證"
+      ],
+      "author": "未標示（AuntMinnie｜2026-06-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMjFqY2tSaGNxWFRvaEFpYXZCaW5aWFlMTkM1VTJFRG5HQXFLX2d4UVktQ0Z2eDMyNE9wZW5pX2J4VVV3R0lxc1M3VHpsbUpEUnUzczc0VFRSUlBtSENaaXlGcVRnWmpIZEEtUHkyVUY4NW04cHljSkRBeHhhQkNadHFSQTNlSGQzUEFRSlp0c2M1WkpWRGtlSjF3MHR0Z2ItaHBxcXNtUkhIcjIxMUpob1YxbEdibGpKYl9WNjFHNHI?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "AI助力醫院供應鏈決策智慧化：從預測需求到即時調度的系統轉型",
+      "summary": "Logistics Viewpoints分析指出，AI驅動的決策智慧（Decision Intelligence）正在重塑醫院供應鏈管理模式。傳統醫院物料採購依賴歷史消耗量與人工判斷，容易出現庫存積壓或短缺，尤其在手術耗材、藥品及防護用品管理上問題尤為突出。新一代AI供應鏈系統能夠整合電子病歷、排程系統與歷史訂單數據，進行跨部門需求預測，並在異常耗用模式出現時自動觸發補貨或警示流程。文章列舉數個醫院導入案例，顯示AI供應鏈工具可將缺貨率降低20%至35%，並減少過期藥品損耗。對醫院營運管理層而言，此類工具不僅涉及採購效率，更直接影響手術排程穩定性與患者安全，是數位轉型中值得納入評估的非臨床AI應用領域。",
+      "tags": [
+        "醫院供應鏈",
+        "AI決策智慧",
+        "醫院營運",
+        "數位轉型"
+      ],
+      "author": "未標示（Logistics Viewpoints｜2026-06-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGRJYnliWHlaNVdqQXR3TTZSMnVCV0VBeUxIcWdKR2Z6WHd6a2MyblVFZXhYYUZLV0tCQzNGTmpLdVVKVzdLeFhObE50VFEyUC0yanFsd0J3c2s0UWVhZUcxT2V0d0dYTjFmZ21STVRCNjJkQzBvN3owOUVkYkl3QVBvRlpaQjFzcmJwc1AyZDR4V1RtSWJ2dEpKTF80Wk01VllzUEZLblpOSUl2NnRIVTg0bmxONmdPeWc?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "AI醫療轉型下的兒童健康隱憂：訓練數據不足恐使兒科患者被邊緣化",
+      "summary": "Health US News發表深度報導，警示在醫療AI快速發展的浪潮中，兒童族群面臨被系統性忽視的風險。現有大多數醫療AI模型主要以成人數據訓練，兒科的生理特性、疾病表現模式與用藥劑量計算均與成人顯著不同，若直接套用成人AI模型於兒科臨床，可能導致診斷偏差或治療建議失準。文章指出，兒科電子病歷數量相對稀少，加上兒童族群涉及更嚴格的數據隱私保護規範，使得兒科AI模型的開發在數據取得上面臨雙重障礙。報導呼籲醫療機構、監管單位與AI開發商在規劃醫療AI策略時，應明確納入兒科場景的驗證需求，避免AI應用加劇現有的醫療不平等。",
+      "tags": [
+        "兒科AI",
+        "數據偏誤",
+        "醫療公平性",
+        "AI安全"
+      ],
+      "author": "未標示（Health US News｜2026-06-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd3JrbGhMUXhXVjVWN1dtMUpJeTJ0NHFvWU1QZDlfRW5JV0FaRnRpcFdVZDJYdloxYnVCQ0h4ck5QUjM5TzdPLU5BUzFIZDhfakp0YklaR1d1TEVzYlhhY3V4dzFYZFZWMnZaRVdjXzRnUjhLNW1vbi0zcmN2ZVlTbzJEX1g4TElKaWJBTVo3eE0xYW1HWHdHc2o0UkU3NkJITWg4RGdaVE9Cdm5Wdnc4di1tVllzR1ho?oc=5"
+    }
+  ]
+}
