@@ -1,0 +1,131 @@
+{
+  "date": "2026年06月12日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "Abridge 攜手 Nvidia 開發醫療 AI 基礎模型，並與 Eli Lilly 達成合作協議",
+      "summary": "醫療 AI 文件記錄公司 Abridge 宣布與 Nvidia 合作，共同開發專為醫療場域設計的 AI 基礎模型，預計於 2026 年底前正式投入使用。此外，Abridge 同步與製藥巨頭 Eli Lilly 簽署合作協議，進一步拓展其在競爭激烈的醫療 AI 市場中的版圖。Abridge 原本以 AI 輔助醫師記錄臨床對話、自動生成病歷摘要聞名，此次引入 Nvidia 的運算與模型開發能量，意在打造更具臨床深度的專屬基礎模型，而非仰賴通用型大型語言模型。與 Lilly 的合作則被外界解讀為醫療 AI 廠商嘗試跨入藥廠端應用的重要訊號。此舉顯示醫療 AI 平台正快速從單點工具轉型為整合型生態系，對醫院資訊部門評估 AI 文件記錄解決方案的採購策略具有直接參考價值。",
+      "tags": [
+        "醫療AI基礎模型",
+        "臨床文件記錄",
+        "Nvidia",
+        "產業合作"
+      ],
+      "author": "未標示（STAT News｜2026-06-12）",
+      "source_url": "https://www.statnews.com/2026/06/11/abridge-inks-deals-with-nvidia-and-lilly/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 9.0,
+      "title": "Joint Commission 推出醫療 AI 認證機制，正式將 AI 風險管理納入醫院評鑑框架",
+      "summary": "美國醫院評鑑機構 Joint Commission 宣布推出針對醫療 AI 的專項認證計畫，明確將 AI 系統的風險識別、透明度要求與安全監控機制納入醫院評鑑標準。此認證框架旨在解決醫療院所在導入 AI 工具時，普遍面臨的治理漏洞與問責缺口。根據報導，認證內容涵蓋演算法偏誤稽核、AI 系統失效應對流程，以及臨床工作人員對 AI 決策輔助工具的使用培訓等面向。此舉被業界視為美國醫療 AI 監管從 FDA 單一主管機關模式，走向多層次認證體系的重要里程碑。對於正在規劃或已導入 AI 輔助臨床決策系統的醫療機構而言，此一認證標準將成為未來院所 AI 治理架構設計的重要參照依據，亦可能影響保險給付與採購契約條款。",
+      "tags": [
+        "AI治理",
+        "醫院認證",
+        "風險管理",
+        "政策法規"
+      ],
+      "author": "未標示（Bank Info Security｜2026-06-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3VWb0xSY1d0a1VxbnJMR1V0dW84dGdiMXpTS1hDNWhyNkNNQXFMSzY2NXJkaUVrYktJZ20zVVdHbGdNbUVHSkZORDNiWmxvOGctbjJYSzRlMmJEYzBfWWViUWduTm1wUG1CZXZ1OWtfRjV6VVNqV2hPeDFVTmFBV3FZNG1lY1RaTEpyRlNGZ2c5OXBjUnZubmpleDFPb29k?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.8,
+      "title": "AMA 針對 AI 事前授權提案立法，要求確保醫師對 AI 核保決策的監督權",
+      "summary": "美國醫學會（AMA）正式推動政策立場，要求在保險公司使用 AI 進行事前授權（prior authorization）審查時，必須確保醫師具有實質監督與覆核權力，以防止 AI 自動拒絕給付對患者造成傷害。此項政策同時獲得多位國會議員跨黨派支持，並已有立法提案進入審議程序。報導指出，聯邦調查人員發現 Medicare Advantage 計畫中存在系統性拒絕給付再上訴後幾乎全數推翻的異常模式，顯示 AI 核保工具可能被濫用於壓低醫療支出。此議題對醫院營運影響深遠，特別是在涉及復健照護、住院申請等高拒絕率領域。AMA 的政策立場預計將對醫療保險合約談判及 AI 核保工具的設計規範產生中長期約束效果。",
+      "tags": [
+        "事前授權",
+        "AI監管政策",
+        "AMA",
+        "醫師監督"
+      ],
+      "author": "未標示（TechTarget｜2026-06-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM1RNVHNFYnJyaXd0WmM0V3dxMFdGb3RYWUFVOXNtUmtpcThRN0Ffb1lGNHNJZjZkWGNHdEs3OUx0dVlBWExMYmU2TWlROFZsNGZXT2l2cFRBenZkWlVYdGpWR2d4elNYVkYyb0ZadTl1bGI5SGh0MElJdmc5TXJGSHRjMUdFMkZlZ1lwS3Z3eldxeGoyaVFfUm90RU1TMjJja1BZbnRMa3BsZzdwRzBBSnRnVXM2OUxfa3I2a1l2V1oxUjA2bGVvTWl2U004NkE?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.5,
+      "title": "Nature 發表 AIDx 研究：可本地部署的 AI 臨床決策支援系統正式登場",
+      "summary": "《Nature》期刊發表一項名為 AIDx 的研究成果，介紹一套可在醫院本地端（locally deployable）運行的 AI 臨床決策支援系統，無需將患者資料傳送至外部雲端伺服器即可提供診斷輔助建議。此設計直接回應醫療機構在導入 AI 時面臨的資料隱私與資安顧慮。AIDx 系統整合了大型語言模型與結構化醫療知識庫，能根據臨床症狀與檢驗數值提供鑑別診斷建議，並以可解釋的方式呈現推理路徑，輔助臨床醫師進行判斷。研究團隊在多個臨床情境下測試，顯示系統在準確性與可用性方面具備臨床應用潛力。此研究為追求資料自主管控的醫療機構提供了新的 AI 落地路徑參考，對資訊部門評估本地端 AI 部署方案具有重要意義。",
+      "tags": [
+        "臨床決策支援",
+        "本地部署AI",
+        "資料隱私",
+        "大型語言模型"
+      ],
+      "author": "未標示（Nature｜2026-06-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DMG5QR0VvYi1zNEJrRHhWQm9xVmVHM0Y3X0REM2F1SWpQZGdUWDJacDhZSGxCWWJVekxlaHFDM21JMm5BNGl6MU1DSTJ0QkJlZ0tKQ0VXTEs4SjNOdnZR?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 8.2,
+      "title": "三分之二醫療人員私下使用未經授權 AI 工具，醫院系統建置嚴重滯後",
+      "summary": "一項最新調查顯示，高達三分之二的醫療機構工作人員在醫院未正式採購或核准的情況下，自行使用私人 AI 工具（如 ChatGPT 等消費級產品）處理臨床或行政工作。此現象揭示醫療院所在 AI 治理與基礎建設上的嚴重落差：員工因面臨工作量壓力，自發尋求效率工具，卻在資安、隱私合規與醫療責任歸屬方面形成灰色地帶。報告指出，這種「影子 AI」使用模式在護理、行政與文件記錄人員中尤為普遍。專家警告，若醫院持續在官方 AI 工具採購與部署上進展遲緩，此風險將持續擴大。此調查結果對醫院數位轉型團隊制定 AI 使用政策、員工培訓及合規框架具有直接的行動參考價值。",
+      "tags": [
+        "影子AI",
+        "資安風險",
+        "醫療合規",
+        "數位轉型"
+      ],
+      "author": "未標示（AD HOC NEWS｜2026-06-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbi1aeEFSZFVWTVhadk5xUkR6dmEzZC02dDR1MHRkSmpzdnFhNEhINDQ1Y182LXJlbjl1ZnJwNnBCQ3NFSFhORU04NGVvUlMzdUxaOWd0NUZVYnppSUpHUk1keTI3a0VKR1NZVmN3TmtiRDBmaXJ2QWdRcmtmcl9CUGh2aWNRSU1ndTMwRWgydy1SaEhnTTRnTGZrSl9UZkVzR1pQc2ljWm1aUkdSVjM5WERfYk81QmstQXRaWGtqOTdXOXFR?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.8,
+      "title": "乳癌篩檢 AI 偵測評分研究登上 RSNA 期刊：早期預警能力再獲實證支持",
+      "summary": "《Radiology》期刊最新發表研究，探討以 AI 偵測評分（AI Detection Scores）應用於乳房 X 光篩檢，分析其作為乳癌早期預警指標的臨床效益。研究顯示，AI 評分系統能在傳統放射科閱片流程之外，為高風險個案提供額外的量化風險層級資訊，有助於分流後續追蹤與介入時機。此研究與先前報導的「AI 可在確診六年前預警」相互呼應，進一步強化了 AI 輔助篩檢的實證基礎。研究同時探討了 AI 評分與傳統放射科醫師判讀之間的互補關係，指出整合使用可提升整體篩檢靈敏度而不顯著增加假陽性率。對正在規劃或已導入乳房篩檢 AI 的放射科而言，本研究提供了評估工具臨床效益的重要參考數據。",
+      "tags": [
+        "乳癌篩檢",
+        "放射科AI",
+        "早期偵測",
+        "臨床實證"
+      ],
+      "author": "未標示（RSNA Journals｜2026-06-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBia1lrbmV2WVAwRjlGN0F2SlFHUm80U1ZWTzlVWmtHMTl6UVZqRE1vNjg1VGV1d2dtdzZfWkp5S084WVdjN3RpcVlHWl9uMWZhMzRWMWRvRnllUzh1VmxrVE1ucHBsTTVweWZhTnlWejh6UQ?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.5,
+      "title": "數位行為健康進入臨床判斷新階段：AI 從輔助 Copilot 走向人機協作決策系統",
+      "summary": "MedCity News 刊出分析文章，探討數位行為健康（Digital Behavioral Health）領域的 AI 應用正在從單純的「Copilot 工具」演進為支援人機協作臨床判斷的複雜系統。作者指出，下一代醫療 AI 的關鍵不在於自動化替代，而在於建立一套讓臨床醫師、督導人員與 AI 能相互質疑、相互補強的決策架構。文章以心理健康與成癮治療為核心案例，說明當 AI 介入敏感臨床情境時，如何設計人機介面以維持醫師的最終判斷權。此觀點對精神科、身心科及遠距心理衛生服務的 AI 導入策略具有直接指導意義，尤其在建立 AI 使用的倫理框架與工作流程整合設計方面提供了系統性思考方向。",
+      "tags": [
+        "行為健康AI",
+        "臨床決策",
+        "人機協作",
+        "心理衛生"
+      ],
+      "author": "未標示（MedCity News｜2026-06-11）",
+      "source_url": "https://medcitynews.com/2026/06/from-copilots-to-clinical-judgment-the-next-phase-of-ai-in-digital-behavioral-health/"
+    },
+    {
+      "rank": 8,
+      "score": 7.3,
+      "title": "嘉義基督教醫院啟動資料庫與資訊架構改造，為主動式 AI 醫療應用鋪路",
+      "summary": "嘉義基督教醫院（嘉基）宣布啟動大規模資料庫與資訊系統架構改造計畫，目標是為未來導入「主動式 AI」奠定基礎建設。報導指出，此次改造涵蓋資料倉儲整合、標準化資料格式建置，以及系統介面重構等面向，旨在解決目前各資訊系統資料孤島問題，讓 AI 模型能即時存取完整且高品質的臨床資料。嘉基此舉被視為台灣地區型醫院在 AI 轉型上的積極布局，顯示醫療機構已逐漸認識到「資料基礎建設」是 AI 落地成功的先決條件，而非僅靠採購現成 AI 工具即可達成。此案例對同樣面臨資料整合挑戰的台灣中型醫院資訊部門，提供了具體的轉型路徑參考。",
+      "tags": [
+        "智慧醫療",
+        "資料基礎建設",
+        "台灣醫療AI",
+        "醫院數位轉型"
+      ],
+      "author": "未標示（CIO Taiwan｜2026-06-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GZ0hiNlFnM1NRVEZUczdHVDEtTWg1VEV2RDlobE1NbHY5cDRVMlBOM1NscE9rS1ZuaG5FRjJzOENmNWhW?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 7.0,
+      "title": "首爾聖瑪麗醫院推出兒少 AI 自殺防治平台，亞洲醫院智慧精神照護再下一城",
+      "summary": "韓國首爾聖瑪麗醫院宣布正式啟用一套針對兒童與青少年族群的 AI 自殺防治平台，成為亞洲地區醫院將 AI 應用於高風險精神健康監測的重要案例。該平台透過分析患者的語言模式、行為數據及問卷結果，即時生成風險評估報告，協助精神科醫師與社工人員進行早期介入。報導指出，此系統特別針對青少年族群的溝通特性進行模型調整，以提升對隱性自殺意念的偵測靈敏度。此案例對台灣醫院精神科及兒童心理衛生中心在規劃 AI 輔助風險篩查工具時具有參考意義，同時也凸顯亞洲醫療機構在敏感族群 AI 應用倫理設計上的挑戰與實踐方向。",
+      "tags": [
+        "自殺防治AI",
+        "兒少精神健康",
+        "亞洲醫療",
+        "風險監測"
+      ],
+      "author": "未標示（아시아경제｜2026-06-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81eTlvWHN3Sk1CWkRWMEZjR1NtX0FvcDE4a2R0M0t3cEFkUkxXdFNETzZwZUljWTY3dkVVdEJodG5XOGVVeVpCd3J6SWNFNU9qbWlJbzVqRzItZFBnQkdsdzN5TUNEM1o2cW5mV1g1QVBIZDI1dUdwNw?oc=5"
+    }
+  ]
+}
