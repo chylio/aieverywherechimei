@@ -1,0 +1,103 @@
+{
+  "date": "2026年06月13日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Nature Medicine 研究：通用型大型語言模型在醫療任務表現優於專用醫療 AI 工具",
+      "summary": "根據 Nature Medicine 最新發表的研究，通用型大型語言模型（如 GPT-4 等）在多項醫療臨床任務的表現，整體優於專為醫療場域設計的專用 AI 工具。研究分析涵蓋診斷推理、病歷摘要、臨床問答等多個面向，結果顯示通用型 LLM 在彈性與準確度上具有顯著優勢。此一發現對醫療機構的 AI 採購策略具有重要意涵：過去普遍認為「專用醫療 AI」較通用模型更具臨床可信度的假設，正面臨重新檢驗。研究同時指出，通用型模型的廣泛能力雖具優勢，但在資料隱私、法規合規與臨床驗證等層面仍需審慎評估。此研究結果可能影響醫院在選擇臨床決策支援工具時的技術路線判斷，並引發業界對醫療專用 AI 開發模式是否具有長期競爭力的深層討論。",
+      "tags": [
+        "大型語言模型",
+        "臨床決策支援",
+        "醫療AI評測",
+        "Nature Medicine"
+      ],
+      "author": "未標示（Crypto Briefing｜2026-06-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSNElFR1k0aFhjWTJtUS1peGM0dVQyZ0xYYUpWUkcxcXhEN1hiMDZwTmNkRTJ2bk5mODRUUkwyd3lkaVgzWVhfWWRfNm1DenhhWkhzSWZyQ3JDanZKdkhmNm9INFQ4QkpkS0FrbXJsdEpjMGVYQVBSQWJ3?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "醫療 AI 進步為何受阻？HFMA 年會揭示數據基礎設施才是關鍵瓶頸",
+      "summary": "在美國醫療財務管理協會（HFMA）年度大會的專題討論中，來自 Oracle Health、HCA Healthcare 及 BJC Health 的高階主管共同指出，儘管醫療產業對 AI 的投入持續創新高，大量投資恐因底層數據基礎設施老舊破碎而付諸流水。與會者以「Bot vs. Bot」比喻當前困境——前端 AI 工具彼此競爭，卻建立在殘缺不全的數據地基之上，導致系統整合困難、預測結果不可靠。主管們強調，在導入任何先進 AI 應用前，醫院必須優先整頓電子病歷互通性、資料標準化與儲存架構，否則即使採用最尖端的模型，臨床效益也將大打折扣。此次討論凸顯了「數據治理」而非「演算法競賽」才是醫療 AI 落地的真正挑戰，對正規劃 AI 轉型的醫療機構具有高度參考價值。",
+      "tags": [
+        "醫療AI落地",
+        "數據基礎設施",
+        "數位轉型",
+        "HFMA"
+      ],
+      "author": "未標示（MedCity News｜2026-06-13）",
+      "source_url": "https://medcitynews.com/2026/06/healthcare-ai-hfma/"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "台灣行政院長卓榮泰宣示：AI 全面走入智慧醫療與長照體系",
+      "summary": "台灣行政院長卓榮泰公開表態，強調 AI 技術將全面導入智慧醫療與長期照護領域，以應對台灣快速邁入超高齡社會的照護量能挑戰。卓揆指出，在高齡人口比例持續攀升的背景下，單靠傳統人力已無法滿足龐大的醫療與照護需求，AI 的整合應用被視為補足量能缺口的核心策略。此次聲明恰逢「大南方 AI 智慧健康展」在台南盛大開幕，展會聚焦醫療照護 AI 落地應用，串聯產官學研各界，形塑台灣南部智慧健康產業聚落。政府高層的明確表態，預示台灣醫療 AI 政策將進一步加速推進，對醫療機構申請相關補助、規劃智慧照護方案及布局長照 AI 系統具有重要的政策訊號意義。",
+      "tags": [
+        "台灣智慧醫療",
+        "長照AI",
+        "醫療政策",
+        "大南方AI智慧健康展"
+      ],
+      "author": "未標示（工商時報｜2026-06-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHT2I0UEdQdUxfYUtkZTBNQU5SeElwbEJqZ1hteWtmc21iVUlodVpMTmVsdThUd25CaWRhWEVFQWxRcldPb3QtcWVEVUdqRDI2SXJJdy1kM2Nsem5yMzh3?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "衛福部發布 5,050 筆台灣專用 LOINC 對照表，為全國醫療 AI 數據互通奠定基礎",
+      "summary": "衛生福利部正式公布 5,050 筆台灣專用 LOINC（Logical Observation Identifiers Names and Codes）對照表，旨在建立全國一致的醫學檢驗標準語言。LOINC 是國際通行的醫療數據標準，用於統一標記檢驗項目名稱與代碼，此次台灣本土化對照表的完成，將大幅改善不同醫療機構間的檢驗數據互通性。對醫療 AI 發展而言，這是關鍵基礎建設的重要進展：AI 模型訓練、臨床決策支援系統及跨院數據分析，均高度依賴結構化且標準化的檢驗數據。此舉也與台灣推動 FHIR 醫療數據交換標準及健保 AI 應用的方向相互呼應，預計將加速醫療 AI 模型在多院所場景的部署與驗證效率，對資訊部門規劃數據治理與 AI 平台整合具有直接參考意義。",
+      "tags": [
+        "LOINC",
+        "醫療數據標準",
+        "台灣醫療AI",
+        "數據互通"
+      ],
+      "author": "未標示（iThome｜2026-06-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ab1pIVjJpVENBZHRRREY1NnFORnl4LUQ1Z0I1Ukk0UW05eWNKWW5CRG1HaXI3YlVGY1RJeG1Sb2Q0dXR4RG1tZlRnX1g1dw?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "醫療 AI 下一階段：如何將預測結果轉化為真正的臨床行動",
+      "summary": "HealthTech Magazine 發表深度分析，探討醫療 AI 從「預測模型」邁向「臨床行動」的關鍵轉型挑戰。文章指出，目前多數已部署的醫療 AI 系統擅長生成風險預測與警示，但將這些輸出結果轉化為臨床工作流程中可執行的決策仍面臨重大落差。主要障礙包括：AI 建議與電子病歷系統的整合不足、臨床人員對 AI 輸出的信任度不一、以及缺乏明確的責任歸屬機制。文章強調，真正有價值的醫療 AI 必須嵌入臨床流程節點，而非僅作為獨立分析工具存在。作者呼籲醫療機構在採購 AI 系統時，應著重評估其「工作流程整合能力」與「行動觸發機制」，而非單純比較預測準確率，此觀點對醫院評估 AI 系統採購具有直接指導意義。",
+      "tags": [
+        "臨床AI工作流程",
+        "預測轉行動",
+        "醫療AI採購",
+        "臨床決策支援"
+      ],
+      "author": "未標示（HealthTech Magazine｜2026-06-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLXBBUnVKSTFwdDJCNXk2Ql9JSUlvc1Q0S25INm5HQzBpdmVSdXdxRTlXV20wakk4ZlRIUVFlM1d5N2FwUS0yWEJucElJOUJjU0o1b3VFU0pGZFNZVFFCVzJmclVrX20ycGVEWEtGalFRWEVBR1drMVl6akpvdG00YWNTWmwtM2k3YW4zdHI2NjhXOVMwVVRJSHRhRGh2YkFibWRQX1cxeUpBN0pq?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "新竹台大分院深化胸腔醫學 AI 與精準醫療整合，打造智慧醫療創新生態系",
+      "summary": "新竹台大醫院分院宣布深化胸腔醫學領域的 AI 與精準醫療整合應用，積極建構院內智慧醫療創新生態系。院方將 AI 技術導入胸腔疾病診斷、影像判讀及個人化治療方案規劃，並結合基因體數據與臨床資料，強化精準醫療的實際落地能力。此次計畫涵蓋多科別跨域合作，包括放射科、病理科與胸腔外科的 AI 輔助診斷系統整合，目標打通院內各系統數據孤島，實現從篩檢到治療全流程的智慧化支援。此一案例展示台灣區域醫學中心在 AI 應用上已從單點工具導入，逐步進化為系統性生態系規劃，對同樣規劃智慧醫療轉型的醫院具有本土實務參考價值。",
+      "tags": [
+        "胸腔醫學AI",
+        "精準醫療",
+        "台灣智慧醫療",
+        "新竹台大分院"
+      ],
+      "author": "未標示（台灣好新聞｜2026-06-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPdkxfdVNUTkZ3b1NnMnM0XzR0Zkh6ZEswVW14YWp4a0diQ05QMnRwVzJtbDlrRTQydGpvTFF1NUhVYkZRUVUwRlZFSUp4S1JFYkxvUVF4bjN2Ti1lWUNDbm9ENy1sbDREdTVqMTRXeEltd2EyakFMU0hXRlhqUXd1ZVQwbWQwQ1F0UDlXbTVwQld4emdzUFZCNFNEdlhZN2lwYkMwaldOcmNzX1ZrR1JkaG5oa0lfdkhGRnZQU2lvQkZsSUVPWG9PVXVnTW82WVRwYU43M3k3ZkV4bVV6bkJjaE13TUdPeW9FLXNqcWV1QUczdGJsMENiRFJ0MDBmaEEyak1peVZ1cVE4M3JFaXRZYmFIMW5JRENZd2xDcXdsX0kyd0JwVl9MR1JYTFhCbVhzOHNWRm1oaXk0TU8xbnA2NWhpcWJyX2VJWDBYU01ZQVVweHl4TUY2NGI0Zko0SEpUQS1uQWtPUkFoT282eG4tT196UUNoVm5FdUlqV1NmXzJSdmVtUXF1aVlCdFpuWnVadmdBSTNENE9VcmNJZTMyVDcySGl0b1pZTUdtZkwxamllSjdkMkdUX2FHT2M?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "禾榮科聯手西門子醫療導入 AI 演算法，精準優化 BNCT 硼中子捕獲放射治療劑量",
+      "summary": "台灣新創公司禾榮科宣布與西門子醫療（Siemens Healthineers）展開合作，共同將 AI 演算法導入硼中子捕獲治療（BNCT）的放射劑量規劃流程。BNCT 是一種針對惡性腫瘤的先進放射治療技術，其劑量計算高度複雜，傳統方式耗時且存在個體差異挑戰。透過 AI 演算法的輔助，系統可自動化優化每位患者的照射劑量分佈，提升治療精準度並縮短規劃時間。此次台灣本土醫療科技公司與國際醫療設備巨頭的合作，代表 AI 在高階放射腫瘤治療領域的應用正逐步成熟，也顯示台灣在 BNCT 這一新興癌症治療領域具備自主技術整合能力。對醫院放射腫瘤科及醫療科技採購部門而言，此案例提供了 AI 輔助放療規劃的具體本土實例。",
+      "tags": [
+        "BNCT放射治療",
+        "AI劑量優化",
+        "放射腫瘤",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（風傳媒｜2026-06-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VbXJHb0l2WkNQbW9HQjA3WVBfOEdIcnA1VHROYmpNUjNKay1UWUJOSUhUc1gwNVFZaEpmdU5XQ3BiSjRIaW55Vkt5bXdYZw?oc=5"
+    }
+  ]
+}
