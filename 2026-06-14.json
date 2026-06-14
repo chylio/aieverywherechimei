@@ -1,0 +1,89 @@
+{
+  "date": "2026年06月14日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "AI預測急性腎損傷風險，守護加護病房關鍵24小時",
+      "summary": "根據PChome新聞報導，一項應用AI技術於加護病房的研究顯示，透過機器學習模型可在患者發生急性腎損傷（AKI）前24小時提前預測風險，為臨床團隊爭取寶貴的早期介入時間。急性腎損傷是加護病房常見且死亡率高的併發症，傳統監測方式往往在腎功能明顯惡化後才發出警示，錯失最佳治療窗口。此AI預測系統整合患者生命徵象、實驗室檢驗數據及電子病歷資訊，建立動態風險評分模型，能在症狀尚不明顯時即發出預警，協助醫護人員提早調整用藥、液體管理及腎臟保護策略。此研究對於重症醫學科、腎臟科及醫院資訊團隊均具重要參考價值，顯示AI輔助臨床決策在加護病房場域已逐步從概念驗證走向實際落地應用，對提升重症患者存活率與降低醫療資源耗用具有顯著潛力。",
+      "tags": [
+        "急性腎損傷",
+        "加護病房",
+        "AI預測",
+        "臨床決策支援"
+      ],
+      "author": "未標示（PChome Online 新聞｜2026-06-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDBXV2c0RnNmeXlYMEhQUTh3aVk5RnFNeHVFNUhPU3BJSndBU2VMSi1VUEFRenhrQnhLU2xQQ3NnZ04wTHE1N093Q3JUQXAxdk5QcXllSjNwLTlQb09oTi13TmgzVTVEWkJ0Q1JTT2pOcG1qV1BvSUpMQ0wwdlVWa1pQeTIxUURD"
+    },
+    {
+      "rank": 2,
+      "score": 7.5,
+      "title": "通用型 AI 模型在醫療任務再度勝出，挑戰專用醫療 AI 定位",
+      "summary": "Psychology Today於2026年6月14日刊出分析指出，近期多項測試顯示，通用型大型語言模型（如 GPT-4 等）在多項醫療問答、診斷輔助及臨床推理任務上的表現，已超越部分專門針對醫療場景訓練的垂直 AI 工具。此一現象引發業界重新審視「是否需要專用醫療 AI」的根本性問題。分析指出，通用模型因訓練資料規模龐大、泛化能力強，在開放式推理任務中具備優勢；然而，專用醫療 AI 在特定臨床流程整合、法規合規性及電子病歷系統串接等面向，仍具不可取代的價值。此報導對醫院數位轉型團隊在評估 AI 工具採購策略、選擇通用型或專科型模型時，提供了重要的市場情境參考，也進一步凸顯 AI 評估框架與臨床驗證機制的建立迫切性。",
+      "tags": [
+        "大型語言模型",
+        "通用型AI",
+        "醫療AI評估",
+        "數位轉型"
+      ],
+      "author": "未標示（Psychology Today｜2026-06-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZHU3bHZaNGVNYlViRDJYQTVUNktHaXZwaGE2VG0zeVY5RTRFWldDdWt5V2p6UEoxS3dRUUZtREJ4MXlMNFB5ZFhnWmo0OGotZld5N0NMUEZvbUFkTG5vMFlpTm91OE5LQ1psM0I2Y3owUWFmcFI3Yl9PXzk5NGpWZjFsYzJ4YTZwQjV4SlRtT1AyREVqSEVDMUdwdGFmRDlUS0tUTnl3"
+    },
+    {
+      "rank": 3,
+      "score": 7.0,
+      "title": "醫療 AI 進展為何受阻？Bot vs. Bot 困境揭示產業深層矛盾",
+      "summary": "MedCity News於2026年6月13日刊出深度分析，探討醫療 AI 領域進展遭遇的結構性阻力，並以「Bot vs. Bot」比喻描述當前困境——不同 AI 系統、保險核保演算法與臨床決策工具之間的衝突與矛盾，反而造成醫療流程的摩擦增加而非減少。文章指出，醫療 AI 的商業化落地面臨多重挑戰：各系統間缺乏互操作性、AI 輸出結果相互矛盾導致醫師決策困擾、加上醫院端採購分散化，使整體進展停滯。此外，AI 工具在降低行政負擔方面雖有成效，但在實際改善臨床結果方面的實證仍不足。對於正在評估多元 AI 系統整合的醫院管理層而言，此文提供了重要的警示，說明在缺乏統一治理架構下，部署過多 AI 工具可能帶來新的系統性風險。",
+      "tags": [
+        "醫療AI瓶頸",
+        "系統整合",
+        "AI治理",
+        "臨床工作流程"
+      ],
+      "author": "未標示（MedCity News｜2026-06-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90eWhpcDV3ell5VThOUHVqNG9vZUpNWUVoVDBVVFdlUFRkbl9Ha2tsdlh2dmRPc3RFcUtYX2dLSlVDeTlBRldlNm1tdjViUDJLR2l1NXplSzZxUEpNQzhCLQ"
+    },
+    {
+      "rank": 4,
+      "score": 6.5,
+      "title": "大南方 AI 智慧健康展開幕，聚焦醫療照護 AI 落地應用",
+      "summary": "據墨新聞報導，大南方 AI 智慧健康展於2026年6月正式開幕，展覽聚焦醫療照護領域的 AI 實際落地應用，匯聚來自台灣南部及大南方區域的醫療機構、科技業者與新創團隊，展示包括智慧診斷、遠距照護、AI 影像判讀及健康管理平台等多元應用場景。本次展覽特別強調從技術概念驗證走向臨床實用化，並促進醫療機構與產業界的跨域合作。展覽同時吸引投資機構關注，為區域醫療 AI 新創企業提供媒合平台。此一展覽的舉辦反映台灣南部地區對智慧醫療發展的高度重視，也顯示醫療 AI 產業生態系在地化發展的趨勢正逐步加速，對於有意推動智慧醫療落地合作的醫院管理層具有產業動態參考價值。",
+      "tags": [
+        "智慧醫療展覽",
+        "台灣醫療AI",
+        "AI落地應用",
+        "產業合作"
+      ],
+      "author": "未標示（墨新聞-MORE News｜2026-06-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE90dzNJdk92NGdlamN3aHBTemlXWDUwMFNfYlB3UmVkY1E0Y255SWlpSXY1Y2dfMTBmbWVSSEo0b3dNQQ"
+    },
+    {
+      "rank": 5,
+      "score": 6.0,
+      "title": "香港 AI 醫療新創面臨跨境數據成本高牆，積極尋求突破",
+      "summary": "香港文匯網於2026年6月14日報導，香港 AI 醫療新創企業在發展過程中面臨嚴峻的數據跨境傳輸挑戰。由於中港兩地數據法規差異顯著，醫療數據「過河」（即跨境流動）成本極高，包含合規審查、安全認證及技術架構改造等費用，使許多新創公司難以跨越門檻，影響其在大灣區市場的拓展能力。業界人士呼籲政府建立更明確的醫療數據跨境流通機制與沙盒試驗環境，以降低合規成本並促進創新。此議題對台灣醫療 AI 產業亦具借鏡意義，尤其在跨機構數據共享、國際合作及法規沙盒建置方面，相關政策框架的完善對醫療 AI 產業發展至關重要，值得主管機關與醫院資訊主管共同關注。",
+      "tags": [
+        "醫療數據跨境",
+        "香港AI新創",
+        "數據法規",
+        "大灣區"
+      ],
+      "author": "未標示（香港文匯網｜2026-06-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wTXFCTlZ5enZNR2l0b002MkxKd1JlS1U1bFZHaFMwNVZCX3dNbkhzSmF1bDJIdS1tTFZFMF9kTnIyeUttVVlXdGFncHVaSWVreHZvN182Y0RmaGVNWEk0b2x2ZjlTQ0dCdFhPWDdtcW9RcFRfYWJJ"
+    },
+    {
+      "rank": 6,
+      "score": 5.5,
+      "title": "台灣生技 IPO 熱潮湧現，AI 醫療題材領漲推升掛牌估值",
+      "summary": "工商時報於2026年6月13日報導，台灣生技產業迎來新一波 IPO 浪潮，共有15家新興生技公司準備掛牌上市，題材涵蓋 AI 醫療影像診斷、精準醫療、再生醫療及細胞治療等多元領域。其中以 AI 醫療相關題材的公司掛牌定價最高，顯示資本市場對醫療 AI 應用的高度期待。分析人士指出，AI 醫療類股估值受惠於全球醫療數位化趨勢加速，加上台灣在半導體與資通訊產業的既有優勢，使本土醫療 AI 新創具備獨特競爭力。然而，也有法人提醒投資人需關注產品實際臨床落地進度與商業化時程，避免題材過熱導致估值脫離基本面。此報導反映台灣醫療 AI 產業生態系的資本化進程正加速，對醫院在評估潛在 AI 合作夥伴財務穩健性時具參考意義。",
+      "tags": [
+        "生技IPO",
+        "台灣醫療AI",
+        "資本市場",
+        "精準醫療"
+      ],
+      "author": "未標示（工商時報｜2026-06-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aQlM5LXp5T2g1bk9BWGtPbFFMZzY3cEl6cGdmdUlIM3dsbDcxY1ZpVmJvZGJGNXRralNVM2VfR0NIQ3BSSkZrVWw4a2Q5SkJFaXViX1p6aENLZ0M2aTNR"
+    }
+  ]
+}
