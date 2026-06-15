@@ -1,0 +1,89 @@
+{
+  "date": "2026年06月15日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "醫院 AI 系統遭指控釀患者死亡，醫療 AI 安全責任爭議浮上檯面",
+      "summary": "美國一名女性患者死亡案件中，家屬與相關人士將矛頭指向醫院所使用的 AI 系統，認為該系統在診療決策過程中扮演了關鍵且可能有誤的角色，進而導致悲劇發生。此案引發醫療界與法律界對 AI 臨床決策支援系統責任歸屬的高度關注：當 AI 輔助判斷出現錯誤時，責任應由醫師、醫院或 AI 開發商承擔？隨著 AI 系統在急診、重症、診斷等高風險場域的應用日益普及，此案預料將成為醫療 AI 法律責任的重要先例。對醫院領導層與臨床主管而言，本案凸顯建立 AI 臨床決策監督機制、明確人機責任邊界，以及完善 AI 不良事件通報與風險管理流程的迫切性。",
+      "tags": [
+        "AI安全",
+        "臨床責任",
+        "醫療事故",
+        "法規風險"
+      ],
+      "author": "未標示（GNews-AI clinical｜2026-06-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2llZERmSkc1T1BnSTJ0T1ZTclY5UjltdXV0LWh3bndWNWF0LTlrLVFNNmZpdU91QnNMb0l5MHA5VHZEU3pZZVBEN2ptN2FyV1U5RW1BX3BtRV9YT1pWandoektIbG5hZEhGLWt4VFNSMmY5Vmdnbm42aXNveHFuZzk2d2FVZ2wxeHBUSw?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "香港科大研發 AI 病理成像系統，3 分鐘即可識別癌細胞",
+      "summary": "香港科技大學研究團隊發表新型人工智慧病理成像系統，宣稱可在 3 分鐘內完成癌細胞識別，大幅縮短傳統病理切片判讀所需時間。該系統結合高解析度影像擷取與深度學習演算法，能自動標記可疑病灶區域，協助病理科醫師快速篩選與確認診斷結果。相較於傳統人工閱片需耗費數小時乃至數天，此技術若能通過臨床驗證並取得法規許可，將有望顯著提升腫瘤早期診斷效率，並緩解病理科人力短缺的壓力。目前研究成果已受到香港醫療科技界廣泛關注，研究團隊正積極推動與醫療機構的合作試點，以驗證系統在真實臨床環境中的準確率與穩定性。此一進展對腫瘤科、病理科及醫院數位轉型團隊具有重要參考價值。",
+      "tags": [
+        "病理AI",
+        "癌症診斷",
+        "醫學影像",
+        "技術突破"
+      ],
+      "author": "未標示（香港經濟日報HKET｜2026-06-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQOFg0WlU1MHZVdG5TSDlaSlc5ZVFhUDlRUlZGdkhOWTFsS3Iwdk1BYWhOUl95TW1tZjVLell5X0VMY3ZvbC1wQ2s2QTdNdzRaVVFqVnljekZlTHAzX2RHUDZubl85MndlMDNqaG8xUlJGUkl1b1F5YXZnUkZoMV9fbFAyOHhzNk9NLUcxQkZ5SEc2LVhVT01SMld6MERMS3BLR0dqajhacGh1T2VkZnVhZHI5OUp3dHBubUJ5bl80OU5NR1lsUER5NGNLT013T3k4UUJxWXUzc0p2YWlPMFNFajk3TzRVaTZFcTU5U1I2eHhmUlkxRjdLTno1dFFMVFdrMUYtd090cm03YmtRNFBCNzVIRWdoRjZRdVdrTUtwai1PZDdlV05YUW9rQ3JlbnRMLU5kQTJud2Z4RF9KQ3g1SV80bDRzNEt2UDcyc3ZRVXFxVThobExyZXd0TzVvRU05V25pVlNnc2d3NVEwYmJ1V2hxMk5zZFhadE1kUjFJWEhibHdjZGRJNlhUVU9GREI2bzcxSQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "HKT 推出 AI＋醫療整合方案，涵蓋病理診斷、手術機器人等多元應用",
+      "summary": "香港電訊（HKT）宣布推出一系列 AI 加值醫療解決方案，涵蓋範疇包括 AI 病理影像分析、手術輔助機器人及智慧醫院管理平台等多個面向。HKT 作為電信與科技整合業者，此次跨足醫療 AI 服務領域，顯示香港本地大型企業正積極佈局醫療數位化商機。其病理方案強調與臨床流程深度整合，機器人應用則著重於手術精準度與術後復健支援。此舉被視為香港醫療 AI 生態系走向商業化落地的重要里程碑，對於正在評估院內 AI 解決方案供應商的醫院管理層具有市場參考價值。隨著電信業者、科技巨頭與新創公司競相進入醫療 AI 市場，醫院在選型時需更審慎評估技術成熟度、法規合規性與長期維運能力。",
+      "tags": [
+        "AI醫療方案",
+        "醫療機器人",
+        "病理影像",
+        "智慧醫院"
+      ],
+      "author": "未標示（明報新聞網｜2026-06-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQQVNVRnJOSGQzRWpDVGs0cHpBREt5Z1d3dk0tQ3lqRm9jUTBtY2RsRzBxM0lFX256QW82NXlSZXRDaHl3WUx0bjhsMzdvYUpBbl9XZDdQTXJtOTRMU1hhdUVUTkNvSjdpLVZJRjBCVTRkWU12R0hnektkQ056MEU5ejlUWjJGYXhHanh6SkZBY0NBQXhsYi14RlBmbVI2amxsdmtjYUxvVHJ3Z2dVSzZacDh0UUFOOWNFdV9XMUxLa0tUSUNNbXkyYzFrZVRJeEVnTjhnSFo3YUpxemFjZENHUzVLZldXYk85UUVndVpRZkZxYzVMSjRZdXFmTGhFZlVUTmhGcV83cTJMWVZHaHFYSm9haXJyQzRicHhaRkowMGhJN3gxazZGaHBpM3VXSlZNZ19teEtQclZ4dkJsMkhqc01JdWo?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "AI 時代的資料互通不再足夠：醫療體系需要的是「共同理解」而非僅是共享數據",
+      "summary": "MedCity News 一篇深度分析文章指出，隨著醫療 AI 應用加速推展，僅靠傳統資料互通（interoperability）標準已不足以支撐跨系統的臨床 AI 決策品質。文章強調，不同醫療機構、不同 AI 系統之間的數據格式雖可互傳，但若缺乏一致的語意框架與臨床語境詮釋機制，數據共享仍將導致 AI 模型誤判或失準。作者呼籲業界建立能將臨床細微差異轉化為跨系統一致、可信賴表示形式的共通框架，而非僅著眼於技術層面的資料交換。此觀點對推動院際 AI 協作、多中心臨床研究資料整合，以及健保 AI 應用基礎建設的醫院資訊部門具有重要參考意義，也呼應了國際間對醫療數據語意標準化的迫切需求。",
+      "tags": [
+        "數據互通",
+        "醫療AI基礎建設",
+        "語意標準化",
+        "數位轉型"
+      ],
+      "author": "未標示（MedCity News｜2026-06-14）",
+      "source_url": "https://medcitynews.com/2026/06/in-the-age-of-ai-interoperability-isnt-enough-why-healthcare-needs-shared-understanding-not-just-shared-data/"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "法國諾曼第醫院導入 Orange Business 生成式 AI，加速醫院數位轉型",
+      "summary": "法國電信集團 Orange Business 宣布與諾曼第地區醫院合作，將生成式 AI（Generative AI）技術導入醫療日常運營，應用範疇涵蓋臨床文書自動生成、行政流程優化及患者溝通支援等面向。此一合作案是歐洲大型電信業者進軍醫療 AI 服務的代表性案例，展示了生成式 AI 在資源相對有限的區域型醫院中落地應用的可行路徑。諾曼第醫院的試點結果將受到歐洲醫療體系廣泛關注，並可能影響其他國家公立醫院在採購生成式 AI 解決方案時的策略考量。對台灣醫院而言，此案提供了公立醫療機構與電信業者協作推動 AI 轉型的實務參考，特別是在醫師文書減負與行政效率提升等優先議題上具有啟示性。",
+      "tags": [
+        "生成式AI",
+        "醫院數位轉型",
+        "歐洲醫療",
+        "臨床文書"
+      ],
+      "author": "未標示（Healthcare Digital｜2026-06-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbU1uamRCMEpveTBIekNMYzJVQW5vNlphWGUzOFh0UjJQaTRFb2NkZGRFcGg1SW05cXJWWU50NUNNM1FicFBlXzluRjV5V016WS1jeGQ3X0VkTkxjSDM4VXpQamVqTDhQejBVVHVOVUJLZ0drV1pqQnpLRlRpQU90dEE1aExHb0R2UWoyOXU4MEJ1MzVaWU9V?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "Medical Taiwan 展覽聚焦在宅醫療與智慧照護，AI 醫療新趨勢受高度關注",
+      "summary": "2026 年 Medical Taiwan 國際醫療展覽中，在宅醫療與智慧照護成為最受矚目的議題之一，多家廠商展示結合 AI 技術的居家監測裝置、遠距診療平台及智慧長照解決方案。隨著台灣高齡化社會需求持續增加，AI 輔助的居家健康管理與遠端患者監測系統受到醫療機構、保險業者及政府單位的廣泛關注。展覽中的 AI 應用涵蓋生理數據即時分析、異常預警通報及照護人員決策支援等功能，反映台灣醫療科技產業正積極將 AI 從院內延伸至社區與居家場域。對奇美醫療體系而言，此展覽提供了評估在宅醫療 AI 解決方案與潛在合作廠商的重要觀察窗口。",
+      "tags": [
+        "在宅醫療",
+        "智慧照護",
+        "台灣醫療AI",
+        "高齡化"
+      ],
+      "author": "未標示（Mobile01｜2026-06-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kenJBZEdRd2xCWG1Oc1k0ay1oTVktbHZpOF9Bc25kSE9iUVFfNy0zY2pzNGhIeE9FdmxLek41aWxhenlUV0tXZi1qRDlBZnNueEZBRm9XcGh4NHJPUmVxTGdCWWNIYzA?oc=5"
+    }
+  ]
+}
