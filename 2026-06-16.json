@@ -1,0 +1,145 @@
+{
+  "date": "2026年06月16日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Yale New Haven Health System 全面導入 Rad AI 放射報告平台，取代 Microsoft PowerScribe 360",
+      "summary": "美國 Yale New Haven Health System 宣布在旗下整個醫療網絡部署 Rad AI 的放射科 AI 解決方案，此舉背景為 Microsoft 即將終止 PowerScribe 360 服務。Rad AI 平台以 AI 原生架構設計，可自動生成放射報告草稿、整合影像工作流程，並支援結構化報告輸出，旨在減輕放射科醫師工作負擔、縮短報告回報時間。此次大規模系統替換涉及多院區佈建，是近期放射科資訊系統遷移的重要案例，也預示著傳統報告工具市場正加速被 AI 原生平台取代。對於同樣使用 PowerScribe 或評估放射 AI 方案的醫療機構而言，此案例具有高度參考價值，顯示 AI 放射報告系統已逐漸成為臨床基礎建設的核心選項。",
+      "tags": [
+        "放射科AI",
+        "臨床工作流程",
+        "醫療資訊系統",
+        "醫院數位轉型"
+      ],
+      "author": "未標示（Fierce Healthcare｜2026-06-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUEtIYXQtaFZpU2huc1RlZWJYdlJwQlhubXZRUVI0bTBiOEJ5cjNYY1llR2tKRkRaSWR0TUJvN3RyQ0pOUFRFOVFqTGx4LWk1RU82LUEtQnY0WXJGSWx2b2V3UndBZFktTGFzelVna0pjb2ZGM2J2VW1ZMXpoNnV1MlBQc2ZrR2VaVWFsT0otb0VMTVloUEdiakc0R1FsZEFzN2FBTlVaVEx3Zmo0bWFGbTVabWF3R1pRN0k2QjhkSGFfdWZubVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "Elevance Health 揭示醫療 AI 三大優先策略：會員體驗、醫師效率與員工資訊賦能",
+      "summary": "美國大型健康保險集團 Elevance Health 公開說明其 AI 應用三大核心優先方向：第一，簡化會員（病患）就醫與保險申辦體驗；第二，改善醫療提供者的行政與臨床流程效率；第三，確保員工在正確時間取得正確資訊以支援決策。Elevance Health 的布局顯示，大型醫療保險機構已將 AI 從單點工具升級為橫跨會員、提供者與內部營運的整合性策略。此策略框架對醫院管理層具有參考意義，尤其在思考 AI 如何同時兼顧病患端服務品質與後台行政效率時，此三維分類提供了實務可操作的思考架構，也反映出 AI 投資需跨越臨床科室、延伸至保險與行政層面的趨勢。",
+      "tags": [
+        "醫療AI策略",
+        "健康保險",
+        "醫療行政效率",
+        "數位轉型"
+      ],
+      "author": "未標示（MedCity News｜2026-06-16）",
+      "source_url": "https://medcitynews.com/2026/06/elevance-healths-3-key-priorities-for-ai/"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "頂尖醫院上線兩個月：AI 已處理全院 24% 患者付款作業",
+      "summary": "一家美國前十大醫院在導入 AI 付款處理系統僅兩個月後，已將全院 24% 的患者付款流程交由 AI 自動完成，展現出醫療行政 AI 的快速落地能力與高滲透率。此案例顯示 AI 在醫院財務與收款流程的應用具備短期可量化成效，能有效降低人工作業量、加速現金回收週期，並減少帳單錯誤率。對於正在評估 AI 行政應用投資報酬率的醫院管理層而言，此案例提供了具體的成效數據與時程參考，說明 AI 在非臨床行政領域同樣能在短期內創造可衡量的業務價值，是醫院數位轉型從臨床延伸至財務營運的重要佐證。",
+      "tags": [
+        "醫療行政AI",
+        "患者付款",
+        "醫院營運效率",
+        "AI落地案例"
+      ],
+      "author": "未標示（PR Newswire｜2026-06-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcXUwMFZjWjBuMEVwRkl0TlFaLU5jdTJxaWZvc2pVRk44T2EzeHV2dlM5Q1EtT2MxQ242TEhleE9Ld1dtZkZkX0g0R296YzhOVTlTbUFyV0NaTEEwZDc4cDJhQ1FWTWMtOUtZZ0NWLThFRFBtWlpjY2FTQzA3SmdDS0pGenpoM29CYVlrM2hFcm9iVk5nYlNNXzdjZzBwSWFBTVNuRkduOFFYNlY2ZU1ZS1JVaUhMZU5veWFBZjBHQWI5QWFkV1N1RG14WDRLdzRIN29ROHZWaW9HOVY5VXFR?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "醫療 AI 明確角色定位與誠實設限才能真正發揮效益",
+      "summary": "Fierce Healthcare 刊載分析指出，醫療 AI 系統要能真正在臨床環境中發揮效益，關鍵在於兩點：一是明確界定 AI 的角色範疇，避免過度承諾或邊界模糊；二是對 AI 的能力限制保持誠實透明，讓醫護人員能正確理解何時該信任、何時該質疑系統輸出。文章強調，許多醫療 AI 失敗案例並非技術問題，而是角色設定不清與過度誇大能力所致。對醫院領導層而言，這意味著在引進 AI 工具時，除技術評估外，還需建立清晰的臨床治理框架，明確 AI 決策與人類判斷之間的分工，才能確保 AI 安全有效地融入醫療流程。",
+      "tags": [
+        "醫療AI治理",
+        "臨床決策支援",
+        "AI安全",
+        "醫護教育"
+      ],
+      "author": "未標示（Fierce Healthcare｜2026-06-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTHMyQ0tpQjJteVdmRm16MEppSW1mXzBjaVhuUm1SemtwcTJwbm5nODZjOWg2djA1ci1xU0hVdjJIVkVLWWxsdmg5YWhlTTdLOEt5Sk81VW9jNC03YzJEbl9maDFRZGV1Rk5TOWhwcjU1aFd5cFF3eWNrZEpfWHN6dnhoQ3N1ODhqUEl4UWQtSEVQTEpIN3VYWlBaMkNnY3Bz?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "台灣大哥大將 AI 導入醫療場域四大核心流程，直擊醫護痛點",
+      "summary": "台灣大哥大積極布局智慧醫療市場，推出四大 AI 醫療應用，聚焦解決醫護人員實務痛點。應用方向涵蓋病歷摘要自動化、AI 輔助診斷、智慧排班與醫護溝通優化等核心流程，旨在透過電信業者的網路與資料優勢，協助醫療機構提升整體運作效率。此舉代表台灣電信龍頭正式進軍醫療 AI 服務市場，以 B2B 模式切入醫院數位轉型需求。對國內醫院資訊主管而言，電信業者作為醫療 AI 解決方案供應商的角色日益重要，其提供的整合性方案（涵蓋網路、雲端與 AI 服務）可能成為中小型醫院數位轉型的重要選項，值得持續關注其落地成效與合作模式。",
+      "tags": [
+        "台灣醫療AI",
+        "智慧醫療",
+        "電信業者",
+        "醫護流程優化"
+      ],
+      "author": "未標示（旺得富理財網｜2026-06-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8ydFdETkhzamxIeUc1dTBKdkc3MjJ0Ymt6XzBpMWJGNDV6NUJ0SDRHLVF1MjhqUEM1UmhZWnhJQVZ1VW4zem1WOUpPWmI4eEFVRmtHMWtNWVRnMURJUUtPam83ZDFVN05lNWc?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "韓國 Huinno 與柳韓洋行擴大 AI 遠端生理監測部署至高麗大學安岩醫院",
+      "summary": "韓國醫療科技公司 Huinno 與藥商柳韓洋行（Yuhan）合作，將 AI 遠端生理監測系統（AI telemetry）擴展部署至高麗大學安岩醫院，進一步擴大其在韓國醫療機構的市場覆蓋。AI 遠端監測技術可持續追蹤住院患者的生命徵象，並即時分析異常數值以提前預警，有助於減少急性惡化事件的發生。此案例顯示亞洲醫療機構在病房監測 AI 的導入速度持續加快，且藥商與醫療科技公司跨業合作的模式正成為市場推廣的新路徑。對台灣醫療體系而言，此類 AI 監測方案在重症照護與一般病房的應用潛力值得參考。",
+      "tags": [
+        "遠端生理監測",
+        "病房AI",
+        "韓國醫療",
+        "患者安全"
+      ],
+      "author": "未標示（koreabiomed.com｜2026-06-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mSnhLWkJFSWtoR0F4RzlMSldvdmFMUEh4QmJOR2ZINUFqTm9rS1FhTEROQ2NwVnFjMkxaMFY0bThnMEJOM0VkSUhLYmVwbHFBdDc0RHZHT3VTcDFIQWJWT3gxU3VpckdrUnY5QVFB0gFyQVVfeXFMTmd3aUZRSnlwTkJhbGtGS1A3UzdRWW9manVlOTNTck5hWmtzQl9xSXVjMDhCUzZsUjNfWlZPSFFPLUc2M09kYzVYaDgtMnFCYnd5NlJpOWZOcTg4LUo3Z2YtVzdNR1FhQTJsMGR5SldCSUtR?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "AI 輔助醫療如何填補醫院收入缺口：財務與臨床雙軌並進的新方程式",
+      "summary": "Healthcare Dive 分析指出，隨著醫院面臨收入壓力與人力短缺雙重挑戰，AI 已開始在收入週期管理（Revenue Cycle Management）領域扮演關鍵角色，涵蓋事前授權自動化、拒絕理賠預測與帳單錯誤偵測等功能。文章強調，AI 在醫療財務管理的應用已超越單純成本削減，正轉向主動填補收入缺口、提升帳款回收效率的策略定位。對醫院財務主管而言，此趨勢意味著 AI 投資不應僅聚焦於臨床端，財務行政流程的 AI 化同樣能帶來顯著且可量化的財務效益，是評估醫院整體 AI 投資組合時不可忽視的面向。",
+      "tags": [
+        "醫療收入管理",
+        "醫療行政AI",
+        "醫院財務",
+        "AI投資效益"
+      ],
+      "author": "未標示（Healthcare Dive｜2026-06-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcXRUdnVqT0dKUTJMVm4xc0E1UDZhRTliSVBhOW5RMTFmNHNrZUZrNlAwbjQyUWM2WlNDS0JUbUxROHEyV0FWM0ZqZDFud2E4ZjRZQWlVLWhlY3J3UWEzeExncFdWcHJzY0NnRlBDQzZ1WjU5eTRLZDkwbzBHcmdUWXFPcEtLTzhleFROX0JhdWtvQ3M?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "台灣總統賴清德接見再生醫學團體，AI 醫療列為三大支柱焦點之一",
+      "summary": "台灣總統賴清德接見再生醫學相關產業團體，會中強調 AI 醫療、再生醫學與精準健康為台灣打造下一座「護國神山」的三大產業支柱。此次高層政治宣示顯示台灣政府對 AI 醫療產業的重視程度持續提升，有助於帶動相關法規鬆綁、政策資源投入以及國際合作機會的擴展。對醫療體系而言，政府將 AI 醫療列為戰略產業，意味著未來在智慧醫療基礎建設、資料開放與 AI 審查機制等面向可望獲得更多政策支持，同時也代表台灣生醫 AI 新創與醫院合作將受到更多關注與資源挹注。",
+      "tags": [
+        "台灣醫療政策",
+        "AI醫療產業",
+        "再生醫學",
+        "政府策略"
+      ],
+      "author": "未標示（壹蘋新聞網｜2026-06-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDd2c2I1aUpmNGF2ZjhnbElFQ3E0NVdEUUowcFdVV0pscE1tZU1UQWlveThJMEF4OFhsSW16a3p6d2xTdVI1VGhUVjJtUXU2c1M4OW1jdjN1WUw4Vlh4TmVxN3VVYnVmckVESXFNa1dGUlJmdTVsdUdqSUJ1TVJOdmtn?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.0,
+      "title": "ALS 患者成為腦機介面「首位重度使用者」：近三年累積數千小時使用經驗",
+      "summary": "MIT Technology Review 報導，ALS 患者 Casey Harrell 已成為腦機介面（BCI）技術史上首位長期重度使用者，自 2023 年起在腦內植入電極陣列後，已累計數千小時使用經驗，能透過 BCI 系統溝通語句並控制電腦。這項由研究團隊持續追蹤的案例，提供了 BCI 在真實生活場景長期安全性與實用性的關鍵數據，突破了過去僅限實驗室短期測試的局限。對神經科學與復健醫學領域而言，此案例標誌著 BCI 技術正從研究原型邁向臨床可用性的重要里程碑，也為未來神經退化性疾病患者的輔助溝通與生活自主開啟新路徑。",
+      "tags": [
+        "腦機介面",
+        "神經科技",
+        "ALS",
+        "神經復健"
+      ],
+      "author": "未標示（MIT Technology Review｜2026-06-15）",
+      "source_url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/"
+    },
+    {
+      "rank": 10,
+      "score": 5.5,
+      "title": "醫院 AI 系統再遭質疑：家屬指控女性患者因等候 ICU 床位過久不治",
+      "summary": "Gizmodo 報導，一起引發社會關注的醫療糾紛案例中，死者家屬指控醫院 AI 系統在 ICU 床位分配決策中存在瑕疵，導致患者長時間等候 ICU 床位最終不治。此案為近期醫療 AI 問責議題再添一例，延續了醫療 AI 系統安全責任爭議的討論。事件核心問題包括：AI 輔助的床位優先排序是否具備足夠的透明度？醫護人員是否能有效覆核 AI 建議？以及當 AI 決策與不良結果相關時，法律與倫理責任應如何歸屬？此類案例對醫院推行 AI 輔助資源調度的治理框架建立具有重要警示意義。",
+      "tags": [
+        "醫療AI責任",
+        "患者安全",
+        "ICU管理",
+        "AI倫理"
+      ],
+      "author": "未標示（Gizmodo｜2026-06-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGRrOGM0S1Y5UUt5c2E0a3ZTZEVyV1JjRWZocUFGVF9vaVpPQTlJVUpoRXBSbkRUbWdHZXRsTXJFUDRUTGw1MlQ4Z2tVMlNmd2ZSWXk4SWNsYXd0cEdWcDJXRG43UWMxY055MmljTk5ZaEFqODN0MnV3dGhjNnJIMG1lbF9vcUxuQlI2YmZxRktXQnFjQjMxSmJxeDhfUnFYd3c?oc=5"
+    }
+  ]
+}
