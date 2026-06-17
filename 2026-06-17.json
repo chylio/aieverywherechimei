@@ -1,0 +1,117 @@
+{
+  "date": "2026年06月17日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "FDA AI 醫療設備指引草案出爐：強調風險管理框架與監管變革方向",
+      "summary": "美國食品藥物管理局（FDA）近日發布 AI 醫療設備相關指引草案，針對 AI 輔助診斷、治療決策等應用明確提出風險管理要求，並預告監管架構將進行重大調整。草案強調製造商須建立完整的風險評估機制，涵蓋演算法偏差、資料品質與臨床驗證等面向，同時要求上市後持續監測 AI 系統的安全性與有效性。此一政策走向對全球醫療 AI 產業具有深遠影響，尤其是計畫引進或自行開發 AI 醫療設備的醫療機構與廠商，均需提前因應新規。台灣業者與醫院在評估 AI 採購或研發合作時，應密切追蹤 FDA 最終定稿，作為產品設計與風險治理的重要參考依據。",
+      "tags": [
+        "FDA監管",
+        "AI醫療設備",
+        "風險管理",
+        "政策法規"
+      ],
+      "author": "未標示（商傳媒｜2026-06-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQZ0xMdU1fSi1PdGVfdnZzc0ZRdk9YazBqWWlJU0kzQ0hkM1U5ZHFxSE9WR2VNVTlOc0tWTlA1Vm5tREZHYTcyUG90S0lnMXQxNEsxUER5Z2FSTWFRR0NnRzg1T2ZyNlVwZUFaQ196YjNIX2FjRzFaVW9VVzhYU0VjOEc2OEtYdndVU3ZZN2ZpYkpxMmN6OFZYd25zUkwtM0VsenlDcEtXaF85dzRsUWdkNlI5ZHVJdm1DVWs4aUtBNE9mLVpvbmd1YWc3b0pvc3JYb2hiRWl0RmJVb2pVS1hoV1ZQbFR2cnVDM2FGM2QwQm41N0p2Wlh5SUhxU3lZaVh5VURvYnZyYlBRYjBDY1FPZkNab0U1dURONHpMWktwVzRtT3lhVU8xYUNuaGFXdURFOVVCVW5NSU10SlhhWUFQVFhWZzFDQjR4REdCZEJpb3l2aE10Zm9leFpFYV92LXQ1MHlsTW13N3pWMElaSDR6blBQdWpSWVZsNVRUemtsdDNNelJPVXBDaElRdEZwSzh2c1EwSjBQX2NpOS1vNWs1MGNRQjhPdWFOVVdfd2M1Z2l2eDhpQjRBRUJR?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "法院凍結 AI 放射影像平台：患者安全與隱私疑慮引發司法介入",
+      "summary": "一份來自 Business Daily 的報導指出，某法院已就一 AI 驅動的放射影像判讀平台發出凍結令，理由是該系統存在患者安全風險與個資隱私疑慮。法院認為，該平台在未充分驗證臨床準確性的情況下即廣泛部署，可能對患者造成潛在傷害，同時其數據蒐集與儲存方式亦不符合隱私保護標準。此案被視為醫療 AI 監管執法的重要里程碑，說明司法機關已開始積極介入 AI 醫療產品的合規審查。對於正在評估或已部署 AI 影像判讀系統的醫療機構而言，此案提醒應強化臨床驗證文件、資安合規審計與知情同意程序，以降低法律風險。",
+      "tags": [
+        "AI放射影像",
+        "患者安全",
+        "法規合規",
+        "司法監管"
+      ],
+      "author": "未標示（Business Daily｜2026-06-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnl1R2Fic2dtNldSaFJTUmM3Z0JYTVktOVpaTDhsM0lILUZZRVhHUWE3NFdvb2s3X29KTHNnc3FtcnRZMV80b18yeWRkOWVlVkZDTU5sckE0a0tpMDRUeVp1S0k3aUlwbkVjMGlzR2pfYVZKMFBkSEZGYk4wRDlBa0VRRzE2aVlOZVd0RkY0RGFnVE51WlBvbU4wLU1TamJ2Z0huMk1MU3RldEU?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "Verge Labs 將失敗臨床試驗數據轉化為神經疾病 AI 分層模型",
+      "summary": "生技新創 Verge Labs 將一項失敗的神經疾病臨床試驗數據加以再利用，開發出能精準解決患者分層問題的 AI 模型。該模型透過分析試驗中累積的生物標記與臨床特徵，協助研究人員在未來試驗中更準確地篩選適合受試者，從而提升試驗成功率、降低開發成本。此案例展示了「失敗試驗數據再利用」的創新路徑，對於神經退化性疾病如阿茲海默症、帕金森氏症等臨床試驗設計具有重要啟示。從醫院與研究機構角度而言，此模式也凸顯了臨床資料治理與數據資產化的潛在價值，值得關注如何將院內累積的試驗與真實世界數據轉化為 AI 研發基礎。",
+      "tags": [
+        "臨床試驗AI",
+        "患者分層",
+        "神經疾病",
+        "數據再利用"
+      ],
+      "author": "未標示（STAT News｜2026-06-16）",
+      "source_url": "https://www.statnews.com/2026/06/16/verge-labs-ai-model-clinical-trials-data-neurology-diseases/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "放射影像基礎模型正式發布，MGB 放射科啟動骨骼肌肉 AI 臨床驗證",
+      "summary": "MobiHealthNews 報導，本週醫療影像 AI 領域出現兩項重要進展：其一為全新放射影像基礎模型（radiology foundation model）的正式推出，為下游多種影像判讀任務提供預訓練基礎，有望加速各類 AI 影像應用的開發效率；其二為美國麻省醫學院附屬醫院 Mass General Brigham（MGB）放射科宣布開始對 Crescom 骨骼肌肉（MSK）AI 系統進行臨床驗證，評估其在實際醫療環境中的診斷準確性與工作流程整合效果。這兩項進展共同顯示，放射影像 AI 正從概念驗證走向更系統化的臨床落地，基礎模型的出現也將為後續客製化應用提供更靈活的技術基礎。",
+      "tags": [
+        "放射影像AI",
+        "基礎模型",
+        "臨床驗證",
+        "骨骼肌肉影像"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-06-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjRHYnowVHZscXVETENpcmNHTFVnTmpFV3dHd25fcGdBNUdYWXBwa0Z4X3AyMkZ3Z1VsNWlTamcySkNHcTAxN3lHQmppTHZ3MThUTjVnRkVpRHNFODBwM0RRMGlncWJEbldJS0FfM2F2eXVFN2hRRWdSa0MycUgxVUUyLTRneTlTejNNVEZwdnR6bTk3RXc?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "JMIR 新研究探討 AI 臨床決策支援對醫護人員職業倦怠的雙重影響",
+      "summary": "News-Medical 報導，JMIR（Journal of Medical Internet Research）最新發表數篇文章，聚焦 AI 臨床決策支援系統（CDSS）在提升診療效率的同時，對醫療人員職業倦怠的潛在影響。研究指出，設計良好的 AI 決策輔助工具可減少醫師重複性工作、降低認知負荷，有助緩解倦怠；然而若系統警報過多、信任度不足或整合不佳，反而可能加重壓力。文章同時討論 AI 介入後的人機協作模式，強調應將醫護人員的使用者體驗納入系統設計核心。此研究方向對正評估或已導入 AI 臨床工具的醫院具有重要參考意義，提醒在追求效率的同時，亦需關注醫護端的接受度與身心健康。",
+      "tags": [
+        "臨床決策支援",
+        "醫護倦怠",
+        "人機協作",
+        "AI導入管理"
+      ],
+      "author": "未標示（News-Medical｜2026-06-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbjFQbWxDSENhOE9qUW81NHFGYkl4TVIwSUpZc2k5bWVHa2VRUlFYTjY5ZkZtUnlmbDhnbHJ2WXg4UFpnLWtjMnhLSFdXX0ljRUZSOEl1S0drU3BFQmNCNnRVcWltaGIxS2RHbk9ic2hhUlhMZHRfSThQTUx0eVd0Rng1MzlxSlBmTlZQSTk4RGdKSG9hNkQxWmgyU19COXhkZHhaRGEyTjdmRVM1Zk1acUhCNWhpdm1FVTRONUpKY255dU85WDBV?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "芝加哥大學 AI 病理新創 Slideflow Labs 推進癌症精準診斷應用",
+      "summary": "Newswise 報導，芝加哥大學旗下 AI 病理新創 Slideflow Labs 宣布在癌症精準診斷領域取得重要進展。該公司開發的數位病理 AI 平台能夠分析全玻片影像（whole slide images），自動識別腫瘤形態特徵、預測分子亞型，並輔助病理醫師進行更精準的癌症分類與預後評估。Slideflow Labs 的平台具備開放原始碼特性，促進學術與臨床機構的協作應用。此進展呼應全球數位病理 AI 快速發展的趨勢，顯示 AI 在組織病理判讀的應用已逐步從研究走向臨床實用化，對於有意強化病理科數位化能力的醫院具有重要參考價值。",
+      "tags": [
+        "數位病理",
+        "癌症診斷",
+        "AI影像分析",
+        "精準醫療"
+      ],
+      "author": "未標示（Newswise｜2026-06-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDduLXc5X2dISkVFcnlzemRmbjJzY09qN2NCUHhKNWxoX1VxLTlJN2pmdFg3djlISW5XWHFqMmJnNnoyR3VFVVY2cGJJblVWcWo1M0VJMG4taDlsM3J3d0FUUG1ORFV0UGV5SGZGNmRWWDNCMWZCQ2Z0X1pOcDYtc3NXdFFEdE5DSkJTZGJ4WUNtclFibTBENnlQaHkwd3hVbXU1bnRNcjEtb21lMlZmQ0dNSHhiUTdodDI40gG7AUFVX3lxTE1kN24tdzlfZ0hKRUVyeXN6ZGZuMnNjT2o3Y0JQeEo1bGhfVXEtOUk3amZ0WDd2OUhJbldYcWoyYmc2ejJHdUVVNjZwYkluVVZxajUzRUkwbi1oOWwzcnd3QVRQbU5EVXRQZXlIZkY2ZFZYM0IxZkJDZnRfWk5wNi1zc1d0UUR0TkNKQlNkYnhZQ21yUWJtMEQ2eVBoeTB3eFVtdTVudE1yMS1vbWUyVmZDR01IeGJRN2h0Mjg?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "逾半數民眾仰賴 AI 醫療諮詢卻未向專業求證，報告示警醫病關係潛在衝擊",
+      "summary": "台灣商傳媒引述最新調查報告指出，超過半數民眾曾透過 AI 工具進行醫療諮詢，但其中多數人未將 AI 建議向醫師求證即自行採取行動。報告對此現象表達高度憂慮，認為 AI 醫療諮詢的快速普及在提升民眾健康識能的同時，也可能造成誤診風險、延誤就醫，並對傳統醫病信任關係形成潛在挑戰。報告建議醫療機構應積極教育患者正確使用 AI 健康工具，並呼籲平台業者強化資訊準確性標示與適當的免責聲明機制。此趨勢對醫院溝通策略與患者衛教設計具有直接影響，值得臨床科主任與醫療決策層關注。",
+      "tags": [
+        "AI醫療諮詢",
+        "醫病關係",
+        "患者安全",
+        "健康識能"
+      ],
+      "author": "未標示（商傳媒｜2026-06-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQRjhjcG1lTHNBVkFPMWNJLU40SXlJY05teGlEU29QZVpKYk8zd09WVVZ0blREeDdiUWxfeHRtZzU3WDNwTE1oQXhaR0hoLVpDNXRodkNjMlU3bFEwOVdiM1VLdVhpMnBwSlgzeHVrOWhSUlJaUmRKUExnUnpVMkJ5cmlubmxmeU5YZkZZSWh2OHJ6dXc2Zkxtb0JUTDFuVXZkZ2hMdWhqdnQ5WUkxSG1DUGNDcEhQTHFXOFdJcGoya3lwMEdrRkZmS041TE94SzhUSVB4N2Z1T2NDZ0s2MGlsMXg0d1VXSVlBSnVGVFdKNWpaaGtfcFNYaGdxV2VrS2Q0RzBzQUQ0c2x5ZnJ2VExmYmtrWkhybnlrV0twTlV2U3VKZjI1aDY5SmVEX1Jrb0NPSXR1RlAweWdobUNDOW1ydzk4NENROWQ1NW5VNEJDVDl3VnBLRHFmS3ZqOGI2MmRuY29ocngxXzB0VGtKZ1oyLUVpUElnSks5dWpnRDJpeTNkem0zQXR1bFRB?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "抗生素 AI 聊天機器人展現臨床潛力，但安全性落差仍待補強",
+      "summary": "歐洲醫學期刊（EMJ）報導最新研究，針對用於抗生素用藥建議的 AI 聊天機器人進行系統性評估。結果顯示，AI 工具在提供抗生素選擇、劑量建議及感染症鑑別診斷方面展現出相當的潛力，能夠在資源有限的環境中輔助臨床醫師快速取得參考意見。然而研究同時發現，部分情境下 AI 建議存在明顯安全性缺口，例如未能充分考量患者藥物過敏史、腎功能狀態或耐藥性風險，可能導致不適當的處方建議。研究結論強調，現階段 AI 聊天機器人應定位為輔助工具而非替代專業判斷，並需搭配完整的臨床驗證流程方可安全導入感染科實務。",
+      "tags": [
+        "抗生素管理",
+        "AI聊天機器人",
+        "感染症",
+        "臨床安全"
+      ],
+      "author": "未標示（EMJ｜2026-06-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMkIxTDF2X2U1cVk5d2hEZTNtZnUwei11YVN1M29lMjhPdEVZTDNaWVprcGlzd3pqZG1JRWc3QnJGOGtBaDBFQVp5R1d1VFJIWXVFVE1WdUxsQTFVbEI1Wnc1Ri1zUkhMeUpSdjVWX09iWEVUcGpnSjJydDRlNEZINE1SU0V2aDRJM1ZCenFsV0xiNUwzYW1tZUNSVjU4R1NsOGU5SWdlZ1VtRHVENy1keDRNdXU?oc=5"
+    }
+  ]
+}
