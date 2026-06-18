@@ -1,0 +1,145 @@
+{
+  "date": "2026年06月18日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.5,
+      "title": "Nature重磅：自主醫療AI代理人在電子病歷系統中表現超越資深臨床醫師",
+      "summary": "Nature期刊於2026年6月17日發表重要研究，展示一款大型語言模型AI代理人在沙盒化電子健康紀錄系統中，能夠自主完成詢問病史、開立檢查、解讀結果、診斷病情及提出治療方案等完整臨床工作流程。研究結果顯示，該AI代理人在多項任務上的表現優於資深臨床醫師，且同步遵守安全標準與臨床指引。此研究代表醫療AI從「輔助工具」邁向「自主代理人」的重大典範轉移，對醫院資訊系統整合、醫師角色定位及AI監管框架皆具有深遠影響。研究採用沙盒環境以確保安全性，但作者亦強調在真實臨床部署前仍需審慎驗證，包括多元族群適用性、法律責任歸屬與透明度等課題，值得醫院領導層與臨床科主任密切關注。",
+      "tags": [
+        "自主AI代理人",
+        "電子病歷",
+        "臨床決策",
+        "大型語言模型"
+      ],
+      "author": "未標示（Nature｜2026-06-17）",
+      "source_url": "https://www.nature.com/articles/s41586-026-10675-5"
+    },
+    {
+      "rank": 2,
+      "score": 9.0,
+      "title": "Nature同期刊出：對話式AI用於慢性病管理之實證研究",
+      "summary": "Nature期刊同日（2026年6月17日）刊載另一篇重要研究，探討對話式AI在慢性疾病管理中的實際應用成效。研究聚焦於AI如何透過自然語言互動，協助患者進行持續性的健康狀況追蹤、用藥提醒與衛教溝通，並評估其對臨床結果的影響。此研究與前述自主AI代理人論文同步發表，共同勾勒出AI在整個醫療照護連續體中的角色從急性診斷到慢性病長期管理的全面滲透趨勢。對於面臨慢性病患者管理壓力的醫院體系而言，此研究提供對話式AI工具的實證基礎，亦引發對醫病關係、患者隱私及資料治理的深層討論，具有高度臨床與政策參考價值。",
+      "tags": [
+        "對話式AI",
+        "慢性病管理",
+        "患者溝通",
+        "臨床實證"
+      ],
+      "author": "未標示（Nature｜2026-06-17）",
+      "source_url": "https://www.nature.com/articles/s41586-026-10764-5"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "Google AMIE醫療AI新研究：展示慢性病管理輔助潛力",
+      "summary": "Google於2026年6月17日在官方部落格發布最新研究成果，顯示其醫療AI系統AMIE（Articulate Medical Intelligence Explorer）在協助管理慢性健康狀況方面展現顯著潛力。此研究進一步拓展AMIE的應用範疇，從先前的診斷對話延伸至長期慢性病照護場景，包括患者病程追蹤與臨床溝通。Google持續在醫療AI領域深耕，AMIE的最新進展與Nature同日發表的對話式AI研究形成相互呼應，共同強化了AI輔助慢性病管理的實證基礎。此一動向對醫院數位轉型策略及未來與科技巨頭合作模式均具重要參考意義，醫療機構領導層應持續評估此類工具的臨床導入可行性。",
+      "tags": [
+        "Google AMIE",
+        "慢性病AI",
+        "醫療對話系統",
+        "數位轉型"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-06-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM1l6b1JxaHFNLUI0R2wyVlVwM041aW1QUXJkMTZjWmcxYUlRME9DNDZfLVVBcGtWdDVXVEtPbDFXcE90U0lSOE85UE9VcVkzU3ppRTUzaEdUUFlDTDVoZ1dqWjlGbzE5Rlh5QlNuNmstWl9mdkh6QS05TGZMcUJMTEhiVU42YTBvQWJTTkpsYkVmZlEwM0RzQklURFJVdjR6N2Z1YXVvSGxtYjNIUTFKWUNR?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.0,
+      "title": "完全開放的醫療AI框架問世：任何人均可稽核臨床LLM的建構過程",
+      "summary": "Medical Xpress於2026年6月17日報導一項重要進展：研究團隊發布全面開放的醫療AI框架，允許任何人對臨床大型語言模型（LLM）的建構過程進行完整稽核。此框架涵蓋訓練資料來源、模型架構、評估方法等關鍵環節，旨在提升醫療AI的透明度與可信賴性。在AI監管日趨嚴格、患者安全議題受到高度關注的背景下，此開放框架為醫療機構評估與採購AI工具提供重要參考依據，同時也呼應全球各地對醫療AI可解釋性與問責機制的政策訴求。對於醫院資訊部門及數位轉型團隊而言，了解並參與此類開放生態系，有助於強化院內AI治理能力與風險管控。",
+      "tags": [
+        "開放框架",
+        "臨床LLM",
+        "AI透明度",
+        "醫療AI治理"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-06-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVkZvZXJLUkRDVDlrRHhNZDA4ZUVwMWpTdEtVQVY4QUdIYXRnclJaTy1XM2VSM0x5UUpOMUdrVENrOEFYYnBDeVlQc3k0QXBtWDFNWmFsX3dzRFVUa0libDJTZWlad2VLNkV5WmwzLUhWYVo3WWY2dlpsbnNfcGdIV0VrQS12QQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "輝達與鴻海聯手打造大腸鏡AI Agent，協助醫師精準識別病灶",
+      "summary": "遠見雜誌於2026年6月17日報導，輝達（NVIDIA）與鴻海（Foxconn）攜手合作，共同開發應用於大腸鏡檢查的AI Agent系統，目標是協助消化科醫師在內視鏡檢查過程中更清楚、即時地識別病灶，提升腸道腫瘤及息肉的偵測率。此合作案結合輝達在AI運算與醫療影像處理的技術優勢，以及鴻海在硬體整合與醫療設備生產上的能量，具有產業生態系整合的標誌性意義。對於消化內科及內視鏡中心而言，AI輔助偵測工具的成熟應用將直接影響早期癌症篩檢品質。此合作亦顯示台灣科技產業積極布局醫療AI領域的戰略企圖，值得國內醫療機構持續追蹤後續臨床驗證進展。",
+      "tags": [
+        "大腸鏡AI",
+        "內視鏡偵測",
+        "台灣醫療AI",
+        "輝達鴻海"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-06-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40YWdHVXkyaDlBcHFrZ3pnaDgwVzFsOHAzNGVOVkpEeDNuY1pYXzdLZGNnSC02dGpCa1l2YUpVZW01VldHM3pCSlhMNkZIUQ?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "資誠與台北醫學大學共建AI創新平台，智慧醫療競爭力邁向生態系整合",
+      "summary": "CIO Taiwan於2026年6月17日報導，資誠聯合會計師事務所（PwC Taiwan）與台北醫學大學正式合作共建AI創新平台，目標是將智慧醫療的競爭力從單一機構延伸至整體生態系佈局。此合作涵蓋醫療數據治理、AI應用開發及人才培育等面向，期望透過顧問業與學術醫療機構的跨界協作，加速台灣智慧醫療產業化進程。此舉代表台灣醫療AI發展正從個別醫院的點狀應用，走向跨機構、跨產業的系統性整合，具有重要的產業生態示範意義。對於有意推動AI轉型的醫療機構而言，此類公私學合作模式提供資源整合與風險共擔的新路徑，值得借鑑參考。",
+      "tags": [
+        "台灣醫療AI",
+        "產學合作",
+        "智慧醫療生態系",
+        "AI平台"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-06-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAzUEtIWUJkNVRDajFrR3FyNnJibW9RdFJqU3B0a0l2NXljWEtyUDZDSkt3dTE5T3J1c0NpMUVsY2xZZ1pL?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.5,
+      "title": "中山大學攜手高雄榮總簽署策略聯盟，打造南台灣AI智慧醫療基地",
+      "summary": "自由健康網於2026年6月17日報導，國立中山大學與高雄榮民總醫院正式簽署策略聯盟協議，攜手打造南台灣AI智慧醫療基地。此聯盟整合中山大學的AI研發能量與高雄榮總的臨床醫療資源，計畫在影像判讀、疾病預測、智慧病房等多項應用上展開深度合作。此一合作不僅強化南台灣醫療AI研究能量，亦呼應台灣政府推動「健康台灣」及AI醫療產業化的政策方向，有助於縮短南北醫療AI發展差距。對於台灣各大醫療體系而言，此類大學與醫學中心的戰略聯盟模式，提供了整合研究、臨床驗證與人才培育的重要範例，具有推廣借鑑價值。",
+      "tags": [
+        "台灣醫療AI",
+        "產學聯盟",
+        "南台灣",
+        "智慧醫院"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-06-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1V3lKVW11WFRxdDZ3bDVHeTBBVE0yQi1fazdlQjF6NEJOTjEyMjhiVl81WFhpVjFnYWFaZWJSUzdaTklZem10T0hGd2RtTHRMM0pWVVM5YW14dnBQdjRsZi05RlFKbk9VaUHSAWpBVV95cUxQNVd5SlVtdVhUcXQ2d2w1R3kwQVRNMkItX2s3ZUIxejRCTk4xMjI4YlZfNVhYaVYxZ2FhWmViUlM3Wk5JWXptdE9IRndkbUx0TDNKVlVTOWFteHZwUHY0bGYtOUZRSm5PVWlB?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "AI輔助上消化道內視鏡品質管控：彌補上消化道GI聯合手術的品質缺口",
+      "summary": "MedCity News於2026年6月17日刊載專題報導，指出美國醫療院所合併上下消化道內視鏡（聯合GI手術）的執行已日趨普遍，然而上消化道（upper GI）的品質標準基礎建設卻明顯落後於臨床需求。文章提出AI技術可有效協助填補此一品質缺口，包括即時影像分析、異常偵測提示及報告標準化等應用。隨著內視鏡量能擴張，如何維持一致且高品質的檢查標準，成為消化科及內視鏡中心的核心挑戰。AI工具的導入有望在不增加人力負擔的前提下，提升品質管控的一致性與可追溯性。此議題對擁有消化內科及健檢中心的醫院體系具有直接參考價值。",
+      "tags": [
+        "消化道內視鏡",
+        "AI品質管控",
+        "上消化道",
+        "臨床AI應用"
+      ],
+      "author": "未標示（MedCity News｜2026-06-17）",
+      "source_url": "https://medcitynews.com/2026/06/combined-gi-procedures-are-becoming-routine-ai-can-help-address-the-gap-in-upper-gi-quality-standards/"
+    },
+    {
+      "rank": 9,
+      "score": 7.0,
+      "title": "Cleveland Clinic Abu Dhabi啟用「AI科學家」平台，強化臨床決策支援能力",
+      "summary": "ITP.net於2026年6月17日報導，Cleveland Clinic Abu Dhabi正式啟用「AI科學家」（AI Scientist）平台，用以支援臨床醫師的決策制定。該平台整合大量醫學文獻與臨床資料，能夠在臨床情境下快速提供循證建議，協助醫師在複雜病例中做出更精準的判斷。Cleveland Clinic作為全球頂尖醫療機構，此舉具有強烈的標竿示範效果，顯示AI輔助臨床決策已從概念驗證走向正式臨床部署。此案例同時揭示國際一流醫療中心在AI整合策略上的具體作法，對於規劃導入臨床決策支援系統的醫院資訊部門及各臨床科主任，提供了珍貴的實務參考。",
+      "tags": [
+        "臨床決策支援",
+        "AI科學家",
+        "Cleveland Clinic",
+        "醫院AI部署"
+      ],
+      "author": "未標示（GNews-AI clinical｜2026-06-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbHM2MnNWT1NtSGhvQ3lITWFJckNWZEo2ZHlBRi1BczNaVVpuWVpsVHhBVGpkTWIzUFB4S0Y3VUlEM1BUNXBUWDgwM1RSbHpnQklHT2xWMzQwZ2RkeHg0WDdHOEF6cElqMkx4ZGxfRGhBeFA1YldSVGE3djBHUnU4Q2QweXJ6Zmp0NTgwX0EyT2NCNkZjbmYtZXB4UmhoTGtMSV9NZE1mb19CSGdEaXpqbkhkN3hZSXRkNlFtZzFqQmdsV1gwcnlOSzR5U3BSVXBjeHRRcGcwazY?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 6.5,
+      "title": "Abridge「以患者為中心」的定位主張遭質疑，醫療AI場域倫理論述引關注",
+      "summary": "STAT News於2026年6月17日在「AI Prognosis」專欄中，由記者Brittany Trang深度檢視環境式病歷記錄工具開發商Abridge所宣稱的「以患者為中心」定位是否言過其實。文章指出，Abridge的AI環境式聆聽（ambient scribe）技術雖能自動記錄醫病對話並生成病歷，但其「患者中心」的行銷主張在實際設計邏輯、資料使用方式及臨床工作流程整合上，仍存在值得商榷的落差。此報導反映出醫療AI領域中品牌定位與實質效益之間的透明度爭議，同時提醒醫療機構在評估採購AI工具時，需審慎檢視廠商的實證依據與倫理承諾，不應僅憑行銷話語做出決策。",
+      "tags": [
+        "環境式病歷記錄",
+        "Abridge",
+        "醫療AI倫理",
+        "患者中心"
+      ],
+      "author": "Brittany Trang（STAT News｜2026-06-17）",
+      "source_url": "https://www.statnews.com/2026/06/17/is-scribe-developer-abridge-patient-centered-ai-prognosis/?utm_campaign=rss"
+    }
+  ]
+}
