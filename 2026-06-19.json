@@ -1,0 +1,145 @@
+{
+  "date": "2026年06月19日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "醫療AI在考試成績亮眼，但真實患者照護仍頻頻失誤——新基準測試揭露落差",
+      "summary": "Medical Economics報導一項新型基準測試結果，發現當前醫療AI系統在標準化醫學考試中表現優異，卻在實際患者照護情境下錯誤率明顯上升。研究指出，現有AI模型多以靜態題庫或歷史病例訓練，缺乏對動態臨床情境、患者個別差異及模糊診斷資訊的處理能力。此一「考場高分、臨床失誤」的落差引發醫療界對AI評估標準的廣泛反思，認為現行評測框架無法真實反映AI在床邊決策的可靠性。專家呼籲業界重新設計以真實世界臨床場景為核心的AI評估方法，並強調在正式部署前須經過嚴格的前瞻性臨床驗證，避免因過度信任考試成績而將未成熟系統引入高風險臨床環境，對患者安全造成潛在危害。",
+      "tags": [
+        "臨床AI評估",
+        "患者安全",
+        "AI可靠性",
+        "基準測試"
+      ],
+      "author": "未標示（Medical Economics｜2026-06-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZHFXOENYak9xVDZIM1lLVHlTVWFMSERrSXlDSFVUOUUxYjdRWDdhT1UzTUpuSzJQUHdPRzZxeXZ5ZXJ6QVhma2V5SjI3LVJoeGUwbGs1bTVPWmpqeGItZ3Vna2RUWkNERlFfbzI0anJqOEZQM1Q0R05MQTJhb2V6UG04S1YyTVU0MHhfVnV6Nl9acVg0QnlFSW1ZZU5PYXdOX1lUM0hVYnhjWk9VV1JFVmpfUDRmRmNjUUFycmpwT1Y?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 9.0,
+      "title": "AI成功診斷18名罕病兒童，打破傳統醫療困境",
+      "summary": "NBC News報導一項具突破性意義的臨床應用案例：AI系統成功協助診斷18名患有罕見疾病的兒童，這些患者此前歷經多位醫師診治均未獲明確結論。研究團隊將AI工具整合於基因體學與臨床表現型資料分析流程，透過大規模比對罕病資料庫，在傳統診斷路徑受阻的情況下找出可能病因。此項成果顯示AI在罕病診斷領域具有高度臨床潛力，不僅能縮短患者的「診斷流浪」歷程，更可協助基層及專科醫師跨越知識邊界。對於兒科、遺傳醫學及罕病照護中心而言，此類AI輔助工具未來或可成為標準診斷流程的重要環節，但仍需大規模前瞻性研究進一步驗證其準確性與適用範圍。",
+      "tags": [
+        "罕見疾病",
+        "AI診斷",
+        "兒科",
+        "精準醫療"
+      ],
+      "author": "未標示（NBC News｜2026-06-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQODQ1cHZoODdablVGd0lLOERBdkhGVXJFa2M5dFI1eERENVhKamViU3FuY3FkUDhfaEw3enM0YmlLejFaUDdLTUZ1eTNuZEVxZlFFMUlGX3o1VmxsY0lsdnFIQWhiQ0NxSE4ya01BTmVCTUFqand4eTMtaUVqSG5NYTZodExSWkp6RnBvdGc5em5FMjlqbzVVeXF2UGZHMmlGUDJRdndDbWVXblcxcEo1czcxRjM?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.8,
+      "title": "AI輔助早期預警系統助醫院降低敗血症死亡率",
+      "summary": "Palo Alto Daily Post報導一家醫院成功運用AI技術顯著降低敗血症死亡率的實證案例。該院導入AI早期預警系統，透過即時監測患者生命徵象、實驗室數值及電子病歷中的多項臨床指標，在敗血症發生前數小時發出警示，使醫護團隊得以提前介入。導入後數據顯示敗血症死亡率明顯下降，住院時間亦有縮短趨勢。此案例呈現AI在加護病房及一般病房患者安全監測上的具體效益，也印證「預測式臨床決策支援」模型在高風險急重症照護場域的可行性。研究者強調，系統成效有賴臨床流程的配合再造與醫護人員的持續教育訓練，單純技術導入不足以保證臨床結果改善。",
+      "tags": [
+        "敗血症",
+        "AI預警系統",
+        "患者安全",
+        "急重症照護"
+      ],
+      "author": "未標示（Palo Alto Daily Post｜2026-06-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGVpVzNZamlEb3ZndXhVSE9vVkxOUktfX2huUzU2ZWxQWS1FVjNRaDRBTWE1clhPSXQ3SnFkOFJlOG1ScW9lamZrcm01WWY0eVhxMnkxRGM3aTA5TENDVWE0VmRXWVpvdzFkNWR5eEU3UEhPcWlmVF9ySTM3R3Q3YnpYdFlaUXVsdjFZLW5R?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.5,
+      "title": "AI診斷錯誤將加重醫院法律責任，醫師深度介入成關鍵",
+      "summary": "News-Medical報導一項法律與醫療責任研究，指出當AI輔助診斷系統發生錯誤時，若醫師未保持深度介入與獨立判斷，醫院將面臨更高的法律責任風險。研究分析多起涉及AI診斷失誤的案例，發現法院傾向於認定醫療機構對AI系統輸出負有督導義務，「AI決定、醫師簽核」的被動模式將使醫院難以主張免責。研究者強調，AI應定位為輔助工具而非決策主體，並建議醫療機構建立明確的AI使用規範、錯誤通報機制及定期稽核流程，以降低法律暴露風險。此議題對醫療體系的臨床治理框架與AI部署政策具有直接影響，醫院管理層與法務部門應共同制定因應策略。",
+      "tags": [
+        "AI法律責任",
+        "醫療治理",
+        "臨床決策",
+        "患者安全"
+      ],
+      "author": "未標示（News-Medical｜2026-06-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTUl3U3BEaWVoU3hZOWxjclFyOUluSUZsQkVRQjFPcVh5OHRqTEQ2X2ZZV2ozcFB4MEVLMXNzT2pxckZGYnBtbzA2WHRfR2NrNDA2TlpYZnl2WUNNOWJwRl8taEJsMlF6NFRmUnEwbWRNMVljR0hqWWN4MWJybFg2NkJoV2twUEIwTHFCWngzR1VPT3UyQmNaMTg1QU5RakU0S0pyelp6U0V4aWxxT0tjMTJha2VJN2s0SE1qLW1UN25vUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 8.3,
+      "title": "Nature警示：過度依賴AI將侵蝕醫師與工程師的專業技能",
+      "summary": "Nature刊出研究報告，彙整多項早期研究結果，發現持續依賴AI工具已對醫師及軟體工程師等專業人員的核心技能產生負面影響。在醫療場域，研究顯示當AI輔助診斷工具長期使用後，醫師對影像判讀、差異診斷及臨床推理的獨立能力出現退化跡象，尤其在AI系統暫時不可用時，醫師的表現明顯低於未依賴AI的對照組。此一「技能侵蝕」效應引發醫學教育界對於如何在AI輔助環境中維持臨床能力的深切關注。專家建議醫療機構在引入AI工具的同時，應同步設計「不依賴AI的訓練情境」，確保醫師維持獨立判斷能力，避免人機協作關係中人的能力持續弱化，進而影響患者照護品質與醫療安全。",
+      "tags": [
+        "AI技能退化",
+        "醫學教育",
+        "臨床能力",
+        "人機協作"
+      ],
+      "author": "未標示（Nature｜2026-06-18）",
+      "source_url": "https://www.nature.com/articles/d41586-026-01947-1"
+    },
+    {
+      "rank": 6,
+      "score": 8.0,
+      "title": "醫療AI認證機制能否填補治理缺口？業界探索標準化路徑",
+      "summary": "Healthcare Dive報導醫療AI治理議題的新進展，探討認證機制是否能有效解決當前醫療AI部署中普遍存在的治理缺口。文章指出，隨著AI系統在臨床決策、影像診斷及行政流程中的應用快速擴張，醫療機構面臨缺乏統一評估標準、監管框架不一致及責任歸屬不清等挑戰。業界部分聲音認為，建立類似醫療設備認證的AI認證體系，可提升各機構間的信任基礎，並協助採購方評估產品可靠性。然而，批評者指出認證流程若設計不當，反而可能形成進入障礙、延緩創新或製造虛假安全感。報導呼籲監管機構、醫療學會與產業界共同研擬具實質意義的認證標準，並結合上市後監測機制以確保持續性品質保障。",
+      "tags": [
+        "AI治理",
+        "認證機制",
+        "醫療監管",
+        "法規政策"
+      ],
+      "author": "未標示（Healthcare Dive｜2026-06-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOTI2bGg0Z2s3cGZUUllBQWZjQUNScTByc3ZFUnZDNmxzVGFqWjZRTVdNLTZiSEtSWG9NS0N6aF9ic2o5NVNqOGRPdkNYaTVQUE5fT2Y2dHUyNEtoUjZVc19WWERSWUp6UXIzVlNKTE1xYTl4WGtQT3RSMm5ZN3U2ZEdhM3VjejFaRGdRVE02OVlkX2J3X3R1cXIxM2lranVkZ1hVXzRHODBLZFR1dE1oR1RUN1Z4cnU3TGp0cjJSRFhPZw?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.8,
+      "title": "Midjourney跨足醫療影像：計畫以水中超音波進行全身高速掃描",
+      "summary": "iThome報導，以AI影像生成聞名的Midjourney宣布跨入醫療影像領域，計畫開發以水中超音波技術為基礎的全身高速掃描解決方案。此一跨界動作引發業界高度關注，Midjourney擬將其在影像生成與深度學習領域的技術積累轉移至醫療影像分析，並結合超音波物理特性開發非輻射性全身掃描平台。相較於傳統CT或MRI，水中超音波掃描具有無游離輻射、成本相對較低及掃描速度快等潛在優勢。然而，醫療影像AI需通過嚴格的臨床驗證與法規審查，技術轉移至臨床應用仍面臨相當挑戰。此消息顯示科技巨頭跨界醫療影像的趨勢持續升溫，對現有醫療影像設備市場及AI診斷生態系將帶來長期結構性影響。",
+      "tags": [
+        "醫療影像AI",
+        "超音波技術",
+        "跨界創新",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（iThome｜2026-06-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91a3ZqeEdxQVZ0aURpMFhZYmhsUmdCaXJHMTZXYVYwMzJseldzbGVtVXAwVnlJZGZWQVlyRUJXMmZxNngzeHpQTWNjZ29kUQ?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.5,
+      "title": "醫療AI擴大部署如何跨越試驗陷阱並維繫機構信任",
+      "summary": "MedCity News刊出深度分析文章，探討醫療機構在嘗試將AI從概念驗證（PoC）擴展至全院規模部署時，如何避免陷入「永遠在試驗、從未真正落地」的困境。文章指出，許多醫院AI計畫停留在試驗階段的根本原因，在於未能將AI視為可支撐數百個動態模型的企業級平台，而非單一用途工具。作者強調，成功規模化的關鍵要素包括：建立明確的AI治理委員會、制定跨部門資料標準、確保與既有電子病歷系統的深度整合，以及持續量測臨床與營運效益。此外，維繫臨床醫師與管理層的信任同等重要，需透過透明的績效報告與使用者回饋機制加以鞏固，才能使AI真正成為醫院數位轉型的核心動力。",
+      "tags": [
+        "AI規模化",
+        "醫療數位轉型",
+        "AI治理",
+        "企業AI平台"
+      ],
+      "author": "未標示（MedCity News｜2026-06-18）",
+      "source_url": "https://medcitynews.com/2026/06/beyond-the-pilot-trap-how-healthcare-can-scale-ai-without-losing-trust/"
+    },
+    {
+      "rank": 9,
+      "score": 7.3,
+      "title": "健保署擴增LOINC上傳欄位，醫學中心優先試傳推動數據標準化",
+      "summary": "iThome MedTech雙周報第51期報導，台灣健保署今年將擴增LOINC（邏輯觀察識別碼與名稱系統）上傳欄位，並規劃由醫學中心優先進行試傳。此舉旨在強化健保資料庫的結構化程度，為未來醫療AI模型訓練、跨院資料交換及臨床研究奠定更完整的數據基礎。LOINC是國際通用的醫療資料標準，廣泛用於實驗室檢驗、影像及臨床觀察結果的標準化編碼。健保署此次擴增舉措，代表台灣醫療資料互通性政策的重要進展，有助於縮小與國際醫療資訊標準的落差，並為健保AI應用創造更豐富的結構化資料來源。各醫學中心資訊部門應提前評估系統配合需求，確保在試傳期間符合上傳規格要求。",
+      "tags": [
+        "健保署",
+        "LOINC",
+        "醫療資料標準化",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（iThome｜2026-06-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiWnFjamptSmN0NFVlY0VJQ2pNejJKeHBRa3JuSExwOWFRdS1lbGRIcVFVaEJqY25UX2NpQ1lsRVJHc2RqaUhxR1JtUWhxQQ?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 7.0,
+      "title": "Proscia推出第五代Concentriq平台，嵌入多模態AI強化病理與藥物開發",
+      "summary": "Lab Manager報導，數位病理平台公司Proscia正式發布第五代Concentriq平台，核心亮點為嵌入式多模態AI功能，整合影像分析、基因組學及臨床資料，同時服務臨床病理診斷與藥物開發兩大場域。新版本強化了AI模型在不同組織類型與染色方案下的泛化能力，並提供更完善的資料管理與工作流程自動化工具。對於製藥公司的臨床試驗病理評估及醫院病理科的日常診斷作業，此平台均可提供端對端的數位化解決方案。Proscia此次升級顯示數位病理AI已從單一腫瘤類型邁向跨癌種的泛化診斷能力，也呼應了近期「從單一腫瘤到泛癌症AI診斷」的整體趨勢，對病理科數位轉型規劃具有參考價值。",
+      "tags": [
+        "數位病理",
+        "多模態AI",
+        "癌症診斷",
+        "藥物開發"
+      ],
+      "author": "未標示（Lab Manager｜2026-06-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNmxKSkh5eWVjNkQzcmsyM3hDdk9MdnBsRU1LLV9rN1luUlZUZjRMdFp0UHd2c3hhTG1PVUNkdk5mTGFfM0JRVEdkWjdRYTZJbk5BM1YydTY1YTNIMlRiZUZTYjRjNWFJamh1Mmw2WDNMZUZJajBqWjJKbVVWRFU3RkJoUmFPMEM1eC1mLTl4MW9DSnVPeVBmYkRsVTdOVW1SeC1Td3NnZnF2OUVzbkc1ci0xYzFxaDFhaDhrTjA2RzA3eHFXQk40SzczMHdFdmQ0OUpZQTd1bnUyU00?oc=5"
+    }
+  ]
+}
