@@ -1,0 +1,103 @@
+{
+  "date": "2026年06月23日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "自主醫療AI在模擬電子病歷案例中表現超越人類醫師",
+      "summary": "News-Medical 報導，一項最新研究顯示，自主醫療 AI 系統在模擬電子健康紀錄（EHR）情境下的臨床決策表現已超越人類醫師。研究設計以真實 EHR 資料建立模擬案例，比較 AI 與醫師在診斷準確性、治療建議等面向的表現，結果顯示 AI 在多項指標上均領先。此研究引發醫療界對「自主 AI 是否已具備獨立臨床判斷能力」的高度討論，同時也再度凸顯 AI 於受控環境與真實臨床場域之間的落差問題。對醫院領導層而言，此研究既顯示 AI 輔助決策的巨大潛力，也提醒在部署前需審慎評估安全性、責任歸屬與人機協作機制，並建立完善的監督框架以確保病患安全。",
+      "tags": [
+        "臨床決策支援",
+        "電子病歷",
+        "自主AI",
+        "人機協作"
+      ],
+      "author": "未標示（News-Medical｜2026-06-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXRMY0U3bTZ4ZmRqMWQxOGFaSGZEYnQ0WHNBakpGbVV1bGlNTExFSWQyRUNQby1OSFFKTFBDdmIwcy1OR3hrUW1LRTFFOXFRcDRtLXI0Vl9wX3dQNXE2a1pOQzlrWHpLSVVMcndSdmd1QUVVZWRTU3BnZktWSFJITGxHWlZVV0hueXF3cW5JYzRLVnlnUVFmX216d0N6REw1NEl2a1hMd2hhRVVZRTVRZU9B?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "Mayo Clinic 與 Microsoft 攜手開發前沿醫療 AI 模型",
+      "summary": "The Healthcare Technology Report 報導，Mayo Clinic 宣布與 Microsoft 正式合作，共同開發新一代前沿醫療 AI 模型。此合作計畫將結合 Mayo Clinic 龐大的臨床資料庫與豐富的醫學專業知識，以及 Microsoft 在大型語言模型與雲端運算的技術優勢，目標打造專為醫療場景設計、具備高度臨床準確性的 AI 模型。此計畫被視為頂尖醫學中心與科技巨頭深度整合的重要里程碑，預期將加速 AI 在診斷、治療建議與行政作業等多面向的應用落地。對亞洲醫療機構而言，此類大型合作模式亦提供可參考的策略藍圖，顯示醫療 AI 發展正進入以機構戰略夥伴關係為核心的新階段。",
+      "tags": [
+        "Mayo Clinic",
+        "Microsoft",
+        "醫療AI模型",
+        "產學合作"
+      ],
+      "author": "未標示（The Healthcare Technology Report｜2026-06-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ2Z3OWJzczhYZGduWkxpZ0twa1lmVmdqOGszem9BdnBueUJoV1ZYV1BQTGlpSWFUWFJWVVJOMUJ4LWsxTFlfUkI0djdHTlptSWJGTEFQUVVGbVJxNW05SkxrUHdFb3EydzY5aGpPdTNyaXRkRG1vUTRYSTd0LW9yQVZWNndEeXZNT3M0UkJvVVBsZFROVXRKdV9wQnRtYkVQdkNIMVh4MlMzS2ZkZ2xTdlZKc0dQRE0?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "醫療 AI 部署後治理機制失效：問題為何在上線後才浮現",
+      "summary": "Healthcare IT Today 深度報導指出，許多醫療機構在 AI 工具部署後面臨治理機制失效的困境。文章分析，治理問題往往在系統上線後才逐漸顯現，主因包括：缺乏持續監控機制、AI 輸出未經定期稽核、責任歸屬不明確，以及臨床工作流程的動態變化導致模型預測偏移（model drift）。報導建議醫療機構應建立涵蓋「部署後監控」的完整治理框架，包含明確的問責制度、定期績效評估，以及跨臨床、資訊與法規部門的協作機制。此議題對正積極導入 AI 工具的醫療體系尤具參考價值，提醒領導層不能在系統上線後即視為任務完成，持續的制度性監督才是確保 AI 安全與效益的關鍵。",
+      "tags": [
+        "AI治理",
+        "部署後監控",
+        "醫療AI風險",
+        "問責制度"
+      ],
+      "author": "未標示（Healthcare IT Today｜2026-06-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzY4cV95WU9hZDNmTk13WkhpajVPMFljU04zdVVoNkxtTzQ0Si1IcFd5LTJhOWFQTXZRZWhwRU1iODItUTFrYTFDUHdVMURyajZ5M0liMGNhYTZNN1l4c2pOYWdlS3hkeU53azlwNHFxX0pDeEhiWkIyZnZSaUtZaFJHTnpYQ1VxWS1paFlVZGpHd2YwbG1wa3d3b05CQTJZWXItUUp3?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "放射科 AI 普及率為何仍偏低？技術力以外的深層障礙分析",
+      "summary": "The AI Journal 報導深入探討一個核心矛盾：放射科 AI 的技術表現已獲廣泛認可，但實際臨床採用率依然偏低。文章指出，阻礙放射科 AI 大規模落地的主要因素並非技術本身，而是系統整合複雜度高、工作流程嵌入困難、放射科醫師對 AI 輸出的信任度尚待建立，以及法規核准流程繁瑣等結構性問題。此外，醫院採購決策往往缺乏針對 AI 工具的專業評估能力，導致投資效益難以預估。報導強調，唯有從臨床實務、機構文化與制度設計等多面向同步推進，才能真正跨越「技術能做到」與「臨床實際使用」之間的鴻溝，這對亟欲推動影像 AI 落地的醫療機構具有重要啟示。",
+      "tags": [
+        "放射科AI",
+        "臨床採用",
+        "工作流程整合",
+        "AI落地障礙"
+      ],
+      "author": "未標示（The AI Journal｜2026-06-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlJVdnRvWjZpUlRVdXpidmRscGxmZUZ5ZnlHeGNYY1F4bkdfTDhkOWtQZ0tDbVE0dTJkNjdvLUxSQzdUR3V0Q3pnN3RueTZHNThlaHJlZ1U5U1NKSnJnY2Z2anlyT3o0UVZ2bHBkWUh0Mm9EQmt1NUpFc0ZMN0tRNzktVjU4R2J2RXdfVw?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "AI 賦能醫療影像：加速診斷流程並提升判讀精準度",
+      "summary": "電子工程專輯報導臺灣醫療影像領域導入 AI 的最新進展。報導指出，AI 技術正在多個面向重塑醫療影像工作流程，包括：自動化影像前處理、輔助放射科醫師快速定位異常區域、減少人為判讀誤差，以及縮短從檢查到報告產出的整體時間。文章特別強調，AI 的引入並非取代醫師，而是作為「第二意見」提供額外安全保障，尤其在高工作量科室（如放射科、病理科）能有效緩解人力壓力。隨著臺灣生技展帶動 AI 醫療投資熱潮，醫療影像 AI 被視為近期最具商業落地可行性的應用領域之一，各醫療機構正積極評估採購與導入策略。",
+      "tags": [
+        "醫療影像",
+        "放射科AI",
+        "台灣醫療",
+        "診斷輔助"
+      ],
+      "author": "未標示（電子工程專輯｜2026-06-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXRYMkZUeWJyY0dpdjlhZHhwd0ZwOEVMd2xvVkZwRzl1T0pEaFZEWGw3cWdFcWFYUUdaM01lMkpYQjJrdDRCYXZ5cWdhbUMwT3M2SW5yUWdaNUU4ck9RVlVGVFF1Qy1OamltX2ZoSmVSa3RPZDl0djNOMUdwZlZEdFVtMlp2U1hYdVYwUUc2VXhzT0JNSjE0UUNHS2pieWU1N1FV?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "AI 全身超音波百元掃描：60 秒篩檢潛在病灶",
+      "summary": "商傳媒報導一項結合 AI 與超音波技術的創新健康篩檢應用。該服務主打低成本（百元級別）、高效率（60 秒完成全身掃描）的健康篩查模式，透過 AI 即時分析超音波影像，自動標記可疑病灶並生成初步報告。此技術若大規模應用，可望降低民眾健康篩查的財務門檻，提升早期疾病發現率，尤其對癌症、心血管疾病等重大疾病的早期介入具潛在效益。報導同時指出，此類低門檻 AI 篩查服務的興起，對現有醫療體系在品質把關、醫師確認流程與法規監管上均帶來新的挑戰，相關配套機制有待進一步建立。",
+      "tags": [
+        "AI超音波",
+        "健康篩查",
+        "台灣醫療",
+        "早期診斷"
+      ],
+      "author": "未標示（商傳媒｜2026-06-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdkFHZ3dBbGc1UVQxa0doelpxODhpZjNsb0d4OEltVHF2WTBkMEkxYVRjY2pmX3FoanhQTmVzNS1Ed2JTMWhKbndWTWR0RkVURC0yc1hoSk9hS3VVRHZTWDQweHRoWlhBZEJpWXFqY2NRdW9EanIwblViZzFwcGVkVFN6QUNxRFJucjR1QnNVbkRWRGlqaFZWUHpvSjZrUHZkZ2JWZXlXMUIyMXlBVjIzeGQzclpxaXNhc0g1NjhSX3c3X0xiZVA2bVFGWmZkbmtZVFlDdV9kMG9HbndsM1drblhxc0pVc3ptU3RuM3pNOGhzRnQzdXl3T0x1bDJyay0tNmNQX0I1WndGdjV2eUhpN1pmNEF1SkdvZjF5UHJVQ1VFUzBD?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "Mayo Clinic 如何將 AI 應用於醫院收益循環管理",
+      "summary": "MedCity News 報導 Mayo Clinic 在醫院收益循環（Revenue Cycle）領域導入 AI 的實際進展與主管觀點。Mayo Clinic 收益循環主任 Todd Manion 透露，醫院正積極在帳單處理、保險申報、拒付管理等流程部署 AI 工具，以提升作業效率與降低人力成本。然而，Manion 同時對「完全自動化」持審慎態度，強調在短期內收益循環流程仍需大量人工介入與判斷，AI 目前較適合擔任輔助角色。此報導提供醫院行政領導層一個兼顧務實與前瞻的 AI 應用視角，對評估收益循環自動化投資報酬率、規劃人力配置調整的醫療機構具有直接參考價值。",
+      "tags": [
+        "收益循環管理",
+        "醫院行政AI",
+        "Mayo Clinic",
+        "流程自動化"
+      ],
+      "author": "未標示（MedCity News｜2026-06-22）",
+      "source_url": "https://medcitynews.com/2026/06/mayo-clinic-ai-revenue-cycle/"
+    }
+  ]
+}
