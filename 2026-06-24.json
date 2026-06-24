@@ -1,0 +1,131 @@
+{
+  "date": "2026年06月24日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "FDA 核准 AI 心臟病偵測工具 EchoNext 正式整合至 OpenEvidence 臨床平台",
+      "summary": "Pathway Labs 開發的 AI 工具 EchoNext 已獲 FDA 清除（FDA-cleared），可讓醫師透過標準心電圖（EKG）篩查多種結構性心臟疾病，現正式整合至醫師常用的臨床參考平台 OpenEvidence。此舉代表一項具法規核准地位的心臟 AI 診斷工具正式進入臨床工作流程，醫師毋需額外購置設備，即可在日常查詢情境中取得 AI 輔助篩查結果。EchoNext 的推出象徵心臟影像 AI 正從研究階段走向大規模臨床落地，也進一步擴大 OpenEvidence 作為臨床 AI 整合平台的角色。對於心臟科、急診科及內科醫師而言，此工具有望提升早期結構性心臟病偵測率，並降低因延誤診斷造成的風險。法規核准背景為醫院採購與部署提供重要依據，值得臨床資訊與心臟科團隊密切關注後續推廣動態。",
+      "tags": [
+        "心臟AI",
+        "FDA核准",
+        "臨床決策支援",
+        "心電圖"
+      ],
+      "author": "未標示（STAT News｜2026-06-23）",
+      "source_url": "https://www.statnews.com/2026/06/23/pathway-labs-echonext-ai-tool-heart-disease-detection/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "Cadence 募資1億美元，以受監管 AI 大規模自動化慢性病照護",
+      "summary": "數位健康新創公司 Cadence 完成1億美元 C 輪融資，估值達12.3億美元，計劃擴大其以 AI 驅動的慢性病管理平台規模。Cadence 的核心模式為「受監管 AI（regulated AI）」，透過遠端監測、自動化患者追蹤與臨床工作流程整合，協助醫療機構管理高血壓、糖尿病等慢性病族群，同時降低人力成本。本輪融資將用於擴展合作醫院與診所網絡，並加速 AI 功能開發。值得注意的是，該公司強調所有 AI 功能均符合監管要求，有別於市場上部分未經核准的工具，此定位有助於消弭醫療機構的法規顧慮。對於正在評估慢性病照護數位化方案的醫院管理層及資訊團隊，Cadence 的商業模式與融資規模代表此類 AI 照護平台已進入快速規模化階段，是值得持續追蹤的產業動向。",
+      "tags": [
+        "慢性病管理",
+        "數位健康",
+        "AI照護平台",
+        "醫療融資"
+      ],
+      "author": "未標示（STAT News｜2026-06-23）",
+      "source_url": "https://www.statnews.com/2026/06/23/cadence-100-million-raise-automate-chronic-care-ai/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "美國各州加速推進醫療 AI 監管立法，聯邦層級之外形成新監管版圖",
+      "summary": "據 Modern Healthcare 報導，美國多個州政府正積極推動醫療 AI 相關監管法規，在聯邦層級 FDA 監管框架之外，形成以州為單位的新監管浪潮。部分州已針對臨床決策支援工具的透明度、演算法偏誤揭露及責任歸屬等議題提出具體立法草案。此趨勢對在多州營運的大型醫療集團影響尤深，醫院若採購或部署 AI 工具，未來可能需同時符合聯邦與所在州的雙重合規要求，增加法務與資訊治理的複雜度。此外，各州法規的差異化發展也可能影響 AI 廠商的市場策略，進而改變醫院議價空間與採購決策。對於醫院法規遵循部門與數位轉型團隊，此一動態提示需提前建立 AI 治理框架，以因應日趨複雜的法規環境，並確保現有及未來 AI 工具均符合多層次監管要求。",
+      "tags": [
+        "AI法規監管",
+        "醫療政策",
+        "AI治理",
+        "合規"
+      ],
+      "author": "未標示（Modern Healthcare｜2026-06-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcnJIak9zTFM4c1dVYXl4SXZFU3ZrWW1TWU9ScTI4MDVnMlhIYnMyMnFOTnNvczRhMURSYnlGNlNkVmJsQmVlZDFZUzY2MWxCYTFkUXN1ejhoT2w2RDl4UjYydTJHaTJ3RFg3RjJobWc1S3hDZFdnQ1lsSlNOSTBiM0pEdnlmVW0tRV9rUUdhdm92eS1jU2VRUjNUM0VxS1hCemxEN0N1SFpLOTd6?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.3,
+      "title": "中國醫療 AI 雙重里程碑：手術機器人獲歐盟認證、醫療大模型登頂國際基準測試",
+      "summary": "據南華早報報導，中國醫療 AI 領域近期達成兩項重要里程碑：一款中國研發的手術機器人正式獲得歐盟 CE 認證，成功進入歐洲醫療器材市場；另一款中國醫療大型語言模型在國際標準基準測試中取得最高分，超越多項西方競品。手術機器人獲歐盟認證標誌著中國醫療 AI 硬體產品的監管成熟度已達國際水準，對全球競爭格局產生直接衝擊。醫療 AI 模型登頂基準測試則顯示中國在醫療語言模型的研發能力持續強化。對於亞太醫療機構而言，此消息意味著未來採購手術機器人或 AI 診斷工具時，中國廠商將成為更具競爭力的選項。同時，此動態也提示國內醫療 AI 廠商需加快提升產品國際認證能力，以維持市場地位。",
+      "tags": [
+        "手術機器人",
+        "醫療AI",
+        "歐盟認證",
+        "中國醫療科技"
+      ],
+      "author": "未標示（South China Morning Post｜2026-06-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUmJiWUZxSFVVVGdqM3FCM285U28yZEFJcUJINy00ZEhOUGl6RGF1MXlMU0tNUW5neFpGNjRjTW5VM25zajlpbFBIckJwQ1NmYXZZcHN5WEdTNWVQX2dMUVExX3JuWE5aSUQxdUlFSm5oX19mOHd1aXVzejB6czdGdV9jbXpadHlENm9CNV9nU3UzS2tucl84NV91VVEyck16OWlRWGVjUTBCSVNLWGRja2RlMWp3QmwzS1g0NkNXTUNiOEVx0gHEAUFVX3lxTFBOb1diX2hFa3pMcHVRUDJYc2hpSHUtWUlQTjAtNTRjQTJocTVKZWlCa3lKYldZVHBJTUV6LTk3TG1NSnVzX083eGJ4QVp3SVVjMHFSNGJrUTktYTVIXzBVVlhUcmxNNzBZWlp5ZXBlM0p2QlU3NGx0SWVYSlJ2TlZJdTY0WWgyekc1ejd3bklGY1B6bWdRcnJMLUd2ekNZeXpxYkluZWF5Z0ZwekxueDJ5SlY3Snd4d2hlWVpBWXdxQW10amU?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 8.1,
+      "title": "NHS 推出7.5億英鎊醫療 AI 解決方案採購框架，為英國醫院 AI 部署提供標準化路徑",
+      "summary": "英國國家健保署（NHS）宣布推出一套總規模達7.5億英鎊的醫療 AI 解決方案採購框架（Healthcare AI Solutions Framework），旨在為 NHS 旗下醫院提供標準化、快速的 AI 工具採購管道。此框架預計涵蓋放射影像 AI、臨床決策支援、行政自動化等多類別解決方案，並要求入選廠商符合特定安全性與可解釋性標準。對於醫院採購部門而言，此類框架的意義在於降低個別機構的合規評估成本，並建立可信賴的廠商白名單機制。NHS 此舉被視為全球公共醫療體系推動 AI 規模化部署的重要範例，有望為亞太地區的健保或衛福機構提供政策制定參考。此外，龐大的採購規模也將吸引更多國際 AI 廠商積極爭取認證，加速醫療 AI 市場的良性競爭。",
+      "tags": [
+        "NHS",
+        "醫療AI採購",
+        "AI政策",
+        "英國醫療"
+      ],
+      "author": "未標示（politicsuk.com｜2026-06-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Fd2Jhc2habklZdi1icmlkMkh4Nm9WMjRhSGNRbG15RGllYmJuLVdBOUN6X3BrWmMyRVlCUDhScGY2RUp2T0ROWFB2VjZpRHVpZ0JPd2hkV1lKOU1yem9Jb0RUc0pLakstbW1NSllyUFlnWFZwT0E?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.8,
+      "title": "醫療 AI 平台 Xsolis 資料外洩，逾140萬人個資遭波及",
+      "summary": "美國醫療 AI 平台 Xsolis 正式確認發生大規模資料外洩事件，受影響人數達140萬人，涉及患者及相關個人資料。Xsolis 主要提供以 AI 為核心的臨床文件與醫療必要性審查服務，其客戶涵蓋多家醫院與保險機構。此次外洩事件再度凸顯醫療 AI 平台在資料安全治理方面的脆弱性，尤其是整合大量敏感患者資料的第三方 AI 服務商，一旦發生資安事故，連帶風險將波及合作醫療機構。對於醫院資訊長與資安部門，此案例提供具體警示：在與第三方醫療 AI 廠商簽訂合約時，需明確要求資料加密標準、存取控制機制及資安事件應變計畫，同時應定期進行供應商資安稽核，以降低因外部平台漏洞引發的法律與聲譽風險。",
+      "tags": [
+        "資料安全",
+        "醫療AI",
+        "資安外洩",
+        "患者隱私"
+      ],
+      "author": "未標示（TechRadar｜2026-06-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUlh4X1ZRRDk3blJRTzNZNnNyYWFiWV83NWp3R1VtYm9nblB0TnpRX2RwX1FFMEp4QkNtQVVQTDVjbHNWMFhNWHRSeDVTUkVMTFpVWXVzSUwtd0dnTU53X1A1czh0SjNNYWxTNlEtYkt3U1VSa1NOVVU0b1BlQ19qeTNnR3ZCaUx5blZtTDVuZTBoaU1IaDgyNXpOeXVPWXlHMkJRdWRUa0hPUGRtMU1TS0Q4UjVuN1ZNYlREeDlseHAzc2szUjh2Ng?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.6,
+      "title": "AI Agent 正重塑臨床決策支援體系：從靜態查詢到動態推理的典範轉移",
+      "summary": "歐洲醫學雜誌（EMJ）刊出分析文章，探討 AI Agent（智能代理）如何從根本上改變臨床決策支援（CDS）的運作模式。傳統 CDS 工具以規則導向、靜態查詢為主；新世代 AI Agent 則具備多步驟推理、跨系統整合與自主任務執行能力，能動態匯整電子病歷、影像報告、用藥紀錄等異質資料來源，提供更具情境感知的臨床建議。文章同時指出，此類工具的廣泛部署帶來新的風險管理課題，包括醫師對 AI 建議的過度依賴、可解釋性不足，以及系統錯誤的連鎖效應。作者呼籲醫療機構在導入 AI Agent 前，應建立明確的人機協作邊界與責任歸屬機制，確保 AI 輸出受到適當的臨床監督，而非取代醫師的最終判斷。",
+      "tags": [
+        "AI Agent",
+        "臨床決策支援",
+        "人機協作",
+        "醫療AI治理"
+      ],
+      "author": "未標示（EMJ｜2026-06-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWhrc19oczk1cG50bFdHV3hMTkYtZ2doVU4zOG5qc0pIOWw2SlkxSC1oaGNUamdWM1lSZk1nN0RMaER6SktQZTNZZE5tUGtIcDBoTmJYeUdaVk1wQzZZN3FjRVlDX3B1S3lMUUVMbXRLeE80ODVNQnBlX3FESktjRE16SzY2QjFFWndnTG55a1hsQWFZeTBISVpUNXFIV3VyS1E?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.4,
+      "title": "中山大學與奇美醫院、高雄榮總策略聯盟，攜手加速培育 AI 醫療人才",
+      "summary": "中山大學宣布與奇美醫院及高雄榮民總醫院正式建立策略聯盟，三方將共同推動 AI 醫療人才培育計畫。聯盟合作內容涵蓋課程共同開發、學生實習與臨床見習安排，以及 AI 醫療研究計畫協作，旨在縮短學術訓練與臨床實務之間的落差。對於醫院而言，與大學建立人才培育夥伴關係，有助於建立穩定的 AI 醫療專業人才供應鏈，同時也能透過學術合作取得最新研究成果與技術資源。此次聯盟亦反映台灣醫療機構對於 AI 人才培育的重視程度持續提升，在臨床 AI 工具快速普及的背景下，具備跨域能力的複合型人才已成為各大醫院數位轉型的關鍵資源。奇美醫院作為聯盟成員之一，此合作有望強化其 AI 醫療研究量能與人才梯隊建構。",
+      "tags": [
+        "AI醫療人才",
+        "學術合作",
+        "奇美醫院",
+        "數位轉型"
+      ],
+      "author": "未標示（UDN｜2026-06-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHX2owSVRyRm1ja0tOc2sxaWtVTjFpQjZDdWRQdzhvU1dpLU1OVXFuMXBXcFAtWmZ2UDRmT3VjV3U1ZUx3dmoxT29scG1tZG850gFWQVVfeXFMTTUzRl92YkdrQ3VpY0FNWm5EdGZHQ0hMMG9UVVk1OWFrVVZwZ3hWZHZOQ3lJVEFQSGgyb0tMOTI0VTQ3OHNqTmRaaEhvQXNUdFJPZzdxN0E?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 7.2,
+      "title": "醫療 AI 為何錯失要點？組織意圖而非工具先進性才是決定成效的關鍵",
+      "summary": "MedCity News 刊出深度分析文章指出，在醫療 AI 部署實踐中，取得顯著改善成果的醫療機構，其共同特徵並非採用了更先進的 AI 工具，而是以更清晰的目標和更嚴謹的流程設計來使用現有工具。文章強調，許多醫療機構陷入「工具迷思」，過度關注 AI 技術的複雜度或品牌聲量，卻忽略了使用情境的精確定義、工作流程的整合深度，以及跨部門協作的制度設計。作者呼籲醫療領導層重新檢視 AI 採購與部署邏輯，將成效指標的設定與問責機制置於選型決策之前，方能將 AI 投資轉化為可測量的臨床或營運改善。此觀點對正在規劃或檢討 AI 部署策略的醫院管理層具有直接參考價值，提示組織能力建構與文化準備度同等重要。",
+      "tags": [
+        "醫療AI策略",
+        "AI導入",
+        "組織變革",
+        "數位轉型"
+      ],
+      "author": "未標示（MedCity News｜2026-06-23）",
+      "source_url": "https://medcitynews.com/2026/06/why-healthcare-ai-is-missing-the-point/"
+    }
+  ]
+}
