@@ -1,0 +1,117 @@
+{
+  "date": "2026年06月25日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "深度學習發現心電圖猝死生物標記，預測準確度超越現行臨床標準",
+      "summary": "發表於 Nature 的研究顯示，一個以心電圖（ECG）波形訓練的深度學習模型，成功識別出一個肉眼可辨識的生物標記，能比現行臨床最佳方法更精準地預測突發性心臟死亡（SCD）風險。研究團隊從大規模人群資料中訓練模型，找出的標記在傳統十二導聯心電圖上即可觀察，無需額外侵入性檢查，大幅降低應用門檻。突發性心臟死亡每年奪走全球數百萬人命，且多數患者在事前缺乏明確警訊，現有風險分層工具（如射出分率 EF）敏感度有限。此研究指出 AI 可從常規心電圖中挖掘人類難以感知的訊號模式，為高風險族群的早期篩檢與預防性介入提供新途徑，對心臟科、急重症及一般內科均具高度臨床意義。目前研究處於模型驗證階段，臨床轉譯與前瞻性試驗仍是後續重點。",
+      "tags": [
+        "心臟科",
+        "深度學習",
+        "猝死預測",
+        "心電圖AI"
+      ],
+      "author": "未標示（Nature｜2026-06-24）",
+      "source_url": "https://www.nature.com/articles/s41586-026-10674-6"
+    },
+    {
+      "rank": 2,
+      "score": 9.0,
+      "title": "Nature 研究示警：醫療 AI 訓練資料存在隱私洩漏風險，少數族群受害最深",
+      "summary": "Nature 刊出一篇重磅研究，指出用於醫療診斷的 AI 模型普遍存在「成員推斷攻擊」（membership inference attack）漏洞，攻擊者可藉此判斷特定患者的醫療紀錄是否曾被納入模型訓練集，進而間接推斷其疾病史等敏感資訊。研究特別強調，在訓練資料中屬於少數族群或代表性不足的群體，隱私風險顯著高於多數族群，形成不平等的安全暴露。隨著各大醫院積極採用 AI 輔助診斷工具，如何確保訓練資料不成為隱私洩漏的缺口，已成為資訊安全與醫療倫理的核心議題。該研究呼籲 AI 開發者與醫院在模型部署前，納入差異隱私（differential privacy）等防護機制，並進行族群差異化的安全評估，以避免醫療 AI 在賦能臨床的同時，衍生新型態的資料安全危機。",
+      "tags": [
+        "醫療AI隱私",
+        "資料安全",
+        "成員推斷攻擊",
+        "AI倫理"
+      ],
+      "author": "未標示（Nature｜2026-06-24）",
+      "source_url": "https://www.nature.com/articles/s41586-026-10688-0"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "AI 篩選出可對抗耐藥性淋病的候選抗生素，機器學習開闢抗藥菌新戰線",
+      "summary": "Nature 報導一項運用機器學習進行高通量藥物篩選的研究，針對已對多數抗生素產生抗藥性的淋病奈瑟菌（Neisseria gonorrhoeae），從龐大的化合物資料庫中找出具治療潛力的新型候選藥物。淋病是全球最常見的性傳播感染之一，近年因廣泛耐藥性導致可用抗生素選項日益稀缺，已被 WHO 列為優先威脅病原體。AI 驅動的藥物探索方法能在短時間內評估數百萬種化合物與靶標的結合特性，大幅縮短傳統篩選所需時程。此研究不僅為淋病治療提供新的候選分子，更示範了 AI 在抗菌素耐藥（AMR）領域的應用潛力，對感染科、公衛及藥物研發體系均具參考價值。後續仍需動物實驗與臨床試驗驗證安全性及有效性。",
+      "tags": [
+        "抗藥性細菌",
+        "AI藥物探索",
+        "機器學習",
+        "感染科"
+      ],
+      "author": "未標示（Nature｜2026-06-24）",
+      "source_url": "https://www.nature.com/articles/d41586-026-01987-7"
+    },
+    {
+      "rank": 4,
+      "score": 8.2,
+      "title": "HOPPR 推出 Presto 放射科 AI 草稿報告代理人，無縫整合現有工作流程",
+      "summary": "放射科 AI 新創公司 HOPPR 正式發布 Presto，定位為可嵌入現有放射科工作流程的 AI 草稿報告生成代理人（AI Reporting Agent）。Presto 採用與廠商無關（AI-agnostic）的開放架構，可與各主流 PACS 及報告系統整合，毋需替換既有基礎建設。系統會在放射科醫師讀片前自動生成結構化草稿報告，醫師僅需審閱與修改，而非從零開始撰寫，預期可大幅縮短報告回覆時間（TAT）並減輕文書負擔。此發布正值放射科人力短缺與影像量持續攀升的背景下，AI 輔助報告成為各醫院緩解瓶頸的重要工具。對正在評估放射科 AI 解決方案的醫院資訊與影像科團隊而言，Presto 提供了一個強調整合便利性與工作流程相容性的新選項，其去廠商綁定的設計策略值得關注。",
+      "tags": [
+        "放射科AI",
+        "AI報告自動化",
+        "工作流程整合",
+        "影像醫學"
+      ],
+      "author": "未標示（AuntMinnie｜2026-06-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZzl5RGJmMFpnVWpGM0xJUTN4ZXNLX0Jxc0RPTHNYczE0MUFYTFRRTTFjZDc0NFljLTVnbzl3RE5kRFdoaWFXRHdzT0RHUnRsWW1PV3hCamV0aGdLSkZZWDFJaTlOSEZiVGdlbjhkS2lCaFpVcnJoNkF1Ukt6VlRJTXFUWXp2aWQ4SGZaQWhfY0JhNWxaRWl3TnpiTC05TV96LUdRZTY1SVFqaGxiNVU5LS10aFdtQk1ZR3pTWmhXOFhiVVc3RjRyS1dYRkhKdkpQaDRZbmRn?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "AI 驅動生物標記評估將重塑病理科工作模式，數位病理進入實戰轉型期",
+      "summary": "Technology Networks 報導指出，AI 驅動的生物標記自動評估技術正逐步改變傳統病理科的工作型態。透過深度學習對全切片影像（WSI）進行自動化分析，AI 系統可在數分鐘內完成 HER2、PD-L1、Ki-67 等腫瘤生物標記的量化評估，精準度媲美或超越人工判讀，並大幅降低觀察者間差異。Oncodaily 亦同步刊出病理學 AI 領域專家 Joe Lennerz 的專訪，強調病理 AI 必須通過嚴格臨床驗證、具備可靠性，且真正服務臨床需求，方能獲得病理科醫師信任並落地應用。數位病理 AI 的規模化部署不僅涉及技術選型，更需要整合至現有 LIS、PACS 及腫瘤治療決策流程，對醫院病理科與資訊部門均帶來系統性挑戰與機遇。",
+      "tags": [
+        "數位病理",
+        "生物標記AI",
+        "腫瘤診斷",
+        "病理科"
+      ],
+      "author": "未標示（Technology Networks｜2026-06-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2FxX0U5aUIxOEwzU05rNVhjUjdxV3BsUjEyVVN2N2VrMmxNa2lZd3hBVWtUNjQ4VlBDVVhDd1J2a3d6YndOWS1YVmdSTUxGeHRHdDFPUGZkeDF3U0pmLTBEcXpsOXF6WDNsZ0VLVlczME5fSDdWT3U2Y09GQ0Nob2puV0hEc1c5R21ONFpYLVNLRm90a2FLUmlHM2h1Vmdfa3M1eFVHOTVHSTBEUFBwRTQzYzg?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "AI 乳房攝影風險評分動態變化可預測未來乳癌發生，研究為篩檢策略帶來新依據",
+      "summary": "Imaging Technology News 報導一項最新研究發現，AI 乳房攝影（mammogram）風險評分的動態變化趨勢，比單次評分更能有效預測受試者未來罹患乳癌的機率。研究顯示，連續追蹤 AI 評分的變化量，可識別出雖然單次評分屬中等風險、但實際上正快速進展的高危族群，為個人化篩檢頻率調整與預防性介入提供科學依據。此發現對於優化現行乳癌篩檢計畫具有重要意義——醫院可考慮在既有 AI 輔助判讀架構上，加入縱向風險追蹤功能，以提升篩檢資源的精準分配效率。對放射科、乳房外科及預防醫學團隊而言，這項研究提示動態 AI 評估的臨床價值可能遠超靜態單點評估，值得納入未來篩檢協議的研討議程。",
+      "tags": [
+        "乳癌篩檢",
+        "AI乳房攝影",
+        "風險預測",
+        "預防醫學"
+      ],
+      "author": "未標示（Imaging Technology News｜2026-06-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOVprdnBXUEJGZl9iR3o5UGJfVmloaU9PRFJaSzBRM2x2blhUSlVLdmM4WmZ3dzhVTk9RalhQYVV6WElVUWJpTzFhX2hvWXJtMEIwN2lhUXRWOWh4NGptdVMxNjBTeDhVQnBJQ3FyZGw1UzdWS3pOdHhrOXJXSmp4VmdCQ29DUHJyLXBNYl9sZWlBN0RZU1JqYmdiS2d5ODRoLVJ2MUZLMENYaTJ1Sk9QNmlB?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.3,
+      "title": "費城兒童醫院開發 AI 工具，協助臨床醫師為罕見病患者精準選擇基因檢測項目",
+      "summary": "費城兒童醫院（CHOP）研究團隊發布一款 AI 驅動工具，專為罕見疾病的基因診斷流程設計。該工具能根據患者臨床表現、症狀組合及既有檢驗結果，智慧推薦最適合的基因檢測類型（如單基因定序、基因套組或全外顯子定序），協助臨床醫師在資源有限的情況下提升診斷效率並縮短確診時間。罕見病患者平均確診歷程長達數年，不必要的重複檢測不僅增加醫療費用，也延誤治療時機。AI 輔助選擇基因檢測的方法有助於解決「基因診斷迷宮」問題，對兒科、遺傳科及精準醫療計畫均具直接臨床應用價值。此工具目前已在 CHOP 內部驗證，後續是否開放外部醫院使用或商業授權尚待觀察。",
+      "tags": [
+        "罕見疾病",
+        "基因診斷AI",
+        "精準醫療",
+        "兒科"
+      ],
+      "author": "未標示（PR Newswire｜2026-06-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQOXVNX05mQzl6c1N3TE1oZTVXNm41YXltZEk0WFVsX0Rpb0dQRTQ1YXFoR2N2MVBMejJNc0tmRFhEMnkzWmx2N2p5amNqSUF0VnAtTktEQWVEeEppc1JLWTQ1VXdoLW1FLUJCR3Y1YktWZ0hSQkdrQjU0RHowcHUwZGRjTkt5OTV3NV83cHZJN2NqbUctSHdXaGtJX0NuQ3ZkcGhDLWd3WXQ2RlNaeUZiaXk0SFEwbmVxV09kdTRiRDdoYTlEWnZaTWRMUW01QXk2Qkd2MGNQenZacUdyb0tBdGFFekVfQkk0cEtRZnBreXVYY1V1TjlDX1Y2b0s3R1Q1N001ME10OE9ncGRtczJ6RE5fOFg1RVpkU1E?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "中國醫藥大學附設醫院在臨床監督下規模化推進 AI 應用，提供亞洲醫院治理參考",
+      "summary": "Healthcare Asia Magazine 報導，中國醫藥大學附設醫院（China Medical University Hospital）正以「臨床監督優先」為核心原則，系統性地在院內擴大 AI 應用規模。該院建立了 AI 臨床委員會機制，要求所有 AI 工具在正式上線前通過內部臨床驗證，並設置持續性績效監控流程，確保模型在真實環境的表現符合預期。此治理模式在亞洲醫院中具有先行指標意義，對正在探索 AI 部署後監管架構的醫療機構提供了可借鑑的實務案例。文章特別指出，技術選型之外，組織文化與臨床領導層的參與度才是 AI 規模化成功的關鍵因素，這與近期國際醫療 AI 治理趨勢高度吻合，值得台灣醫療體系在規劃 AI 擴散策略時參考。",
+      "tags": [
+        "醫院AI治理",
+        "臨床監督",
+        "AI規模化",
+        "亞洲醫療"
+      ],
+      "author": "未標示（Healthcare Asia Magazine｜2026-06-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFVnZTIwb21WbHlPRkVRaWxiZHNBUEdCTWM2TDNsZkFZbmhqSURXak9jaTJIODhTZTh4TDAzZW5UWmx6Z20zQWZzVVNnUlpBSjk2VDYwOXFIcGoyX1FERlFtQzdjR3ZGdGJJN08zZkc4a2JyNWZfQ0ptS2YydVIzTExNNXVLbGgyWjRoOE4zV0cwa05FdkRIa0RlbnpEdThlb2xzbjZRRQ?oc=5"
+    }
+  ]
+}
