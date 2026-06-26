@@ -1,0 +1,117 @@
+{
+  "date": "2026年06月26日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "FDA 授予生成式 AI 放射科工具「突破性裝置」認定：Aidoc 胸部 X 光報告草稿 AI 獲此殊榮",
+      "summary": "FDA 已正式授予 Aidoc 開發的生成式 AI 工具「突破性裝置認定」（Breakthrough Device Designation），該工具能自動解讀胸部 X 光並草擬放射科報告。同一批次，另一家公司 Cognita 的類似產品亦獲相同認定，成為放射科生成式 AI 首度取得此等級監管肯定的里程碑。突破性認定意味著 FDA 將優先審查、加速溝通，有助縮短這類工具的上市時程。分析師指出，此舉標誌著 FDA 對生成式 AI 應用於臨床影像報告的態度從觀望轉向積極支持。放射科 AI 報告草稿工具可協助醫師減少繁瑣文書、降低漏診率，並可能改善報告一致性。對醫院資訊與放射科主任而言，此認定加速了此類工具的商業可行性，並為採購提供重要的監管依據。",
+      "tags": [
+        "放射科AI",
+        "FDA監管",
+        "生成式AI",
+        "突破性裝置認定"
+      ],
+      "author": "未標示（STAT News｜2026-06-25）",
+      "source_url": "https://www.statnews.com/2026/06/25/radiology-generative-ai-cognita-aidoc-fda-breakthrough-designation/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "FDA 突破性裝置認定湧入生成式 AI 產品：醫療 AI 監管加速新趨勢",
+      "summary": "根據 STAT Health Tech 最新報導，FDA 目前突破性審查管線中生成式 AI 裝置數量顯著增加，顯示監管機構對此類工具的接受度大幅提升。報導同時指出，FDA 已對穿戴裝置廠商 Whoop 停止執法行動，並有更多 AI 裝置陸續獲得突破性標籤。此波趨勢對醫院數位轉型團隊意義重大：一方面，取得突破性認定的工具在商業化時程上具備競爭優勢；另一方面，快速核准周期也對醫院的採購評估、臨床驗證及上線後監控機制提出更高要求。法規環境的鬆動可能加速放射科、病理科、心臟科等影像 AI 工具大量進入市場，醫院治理框架須同步強化以因應此趨勢。",
+      "tags": [
+        "FDA監管",
+        "生成式AI",
+        "醫療裝置審查",
+        "數位轉型"
+      ],
+      "author": "未標示（STAT News｜2026-06-25）",
+      "source_url": "https://www.statnews.com/2026/06/25/fda-breakthrough-generative-ai-devices-health-tech/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "Cercare Medical 腦腫瘤自動分割 AI 獲 FDA 許可上市",
+      "summary": "Cercare Medical 宣布其腦腫瘤分割 AI 工具正式獲得 FDA 許可（Clearance），可自動於 MRI 影像中辨識並勾勒腦腫瘤輪廓。自動分割技術長期以來是放射科與放射治療科的高人力耗損環節，手動勾勒腫瘤邊界不僅耗時，不同醫師間的一致性差異也影響治療精準度。此工具的核准為神經外科、放射腫瘤科及神經放射科帶來直接的工作流程改善機會。對醫院而言，此類工具有助於加快腦腫瘤放射治療規劃周期，並提升跨科別協作的一致性。此訊息發布於 AuntMinnie，為醫療影像領域核心媒體，可信度高。此次核准也呼應 FDA 近期積極推動 AI 影像工具監管審查的整體趨勢。",
+      "tags": [
+        "腦腫瘤AI",
+        "FDA許可",
+        "醫療影像",
+        "放射腫瘤科"
+      ],
+      "author": "未標示（AuntMinnie｜2026-06-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVExKdDZpYVFDZnNwcTdNeDA3WVloRGlfOW1WN1hjanQybDd3YW9GQWgwaEtWc2dCSWJQTV9ocHR4RzJ4Wk1tZ1NSM3lXcW1hRlkyV0tqQllEcUpOTE9OZzVhT1QxLUJiMGZBNWtYVVF0c1ZIbDI4T0pXZy1pc292THNSd1NfUjBlR1hBcmlHbXI5QlM2Q2swUS1PZU81LUYtYm9vdC1GNlVLU09IZ1BES0prY0FHSi11X3JaUlQ1cTVKTFZrWEhSR05sbEFsYnVacUpJeFpSbXZDMVhvR3ZPb3FmWXpVOVZqMl9JREVieVVfU0VFeVhoN0kyMA"
+    },
+    {
+      "rank": 4,
+      "score": 8.2,
+      "title": "Cedars-Sinai 開發 AI 系統，即時偵測住院病患低血糖風險",
+      "summary": "Cedars-Sinai 醫學中心研究團隊開發出一套 AI 系統，能透過分析電子病歷中的連續生理數據與用藥紀錄，即時識別住院病患發生低血糖（低血糖症）的風險。低血糖是住院期間常見但易被忽略的危險事件，特別常見於糖尿病患者、接受胰島素治療者以及術後病患，若未及時介入可能導致嚴重神經損傷甚至死亡。這套系統的臨床意義在於將被動監測轉為主動預警，協助護理師在症狀出現前採取預防行動。對醫院臨床資訊團隊而言，此類即時風險分層工具展示了 AI 整合進護理師工作流程的可行路徑，也為急性照護 AI 部署提供了具體的臨床效益參考案例。",
+      "tags": [
+        "住院安全AI",
+        "低血糖預測",
+        "臨床決策支援",
+        "電子病歷整合"
+      ],
+      "author": "未標示（Cedars-Sinai｜2026-06-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaHBINlNYb2tkeVdmZlY1dEVZZm13dHg2RUFFVHZzS1d1Ykh2UW1lTHRsbVBMdEhwTFNDLXM0bTNrNGtYeDVlQWt1anBnUzgtVmxtODJZZlZHY3RfNHBySTBXdm1oalZyMnZjQ1hRaW5OOVQ3empwZHItWjJFSWFBQnBBSjRYemVfTmlCbExMblRMQTExT29V"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "Houston Methodist 全院系統化導入 HealthLeap，主動偵測院內隱性威脅",
+      "summary": "Houston Methodist 醫院宣布將 HealthLeap AI 平台全面推展至整個醫療體系，而非僅限於試點科別。HealthLeap 的核心功能是監測住院病患的細微生理變化，主動偵測敗血症、急性腎損傷等早期徵兆等「隱性威脅」，在臨床症狀明顯出現前即發出警示。此次全院系統化導入，代表 Houston Methodist 已通過試點驗證並進入規模化部署階段，對其他大型醫療體系具有重要的參考意義。報導強調，此類工具的成效關鍵在於與既有護理流程的無縫整合，以及臨床端對 AI 警示的信任度建立。對醫院領導層而言，此案例展示了 AI 從試驗走向全院治理的可行路徑與組織挑戰。",
+      "tags": [
+        "住院早期預警",
+        "敗血症AI",
+        "全院AI部署",
+        "臨床工作流程"
+      ],
+      "author": "未標示（The AI Journal｜2026-06-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdk1ibjRYVmViZW85UUFucWYzTTA5N2xpanJabHhzS20tVWtCcHYxems3RDREZ0MwZ0VJNlhvanNyUnN6WXBmMl9waXFWeUJnLV9sOGJtaXRWNjM0Z2dncFBTX3dpQnc2Tk1jc0RVbENfeDRtZzF2VGtTQy10S01ncm1Kd3lxRmhXWGhQUTc1THF2LTBQZ2RjN2YyS1FOcHo4TnBzMw"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "醫療 AI 為何在試點後大量失敗？決策觸達不足才是核心障礙",
+      "summary": "MedCity News 深度分析指出，目前多數醫療 AI 工具並非因技術能力不足而失敗，而是因為無法在醫師或護理師實際做出決策的關鍵時刻持續提供有效資訊。文章點出三大常見失敗模式：工具未能整合進臨床工作流程的正確節點、警示設計與實際決策情境脫節、以及缺乏持續的使用者回饋機制。此分析對醫院數位轉型團隊極具參考價值，特別是在評估 AI 工具採購時，應將「決策觸達率」與「工作流程契合度」納入核心指標，而非僅以模型準確度作為選擇依據。文章也強調，試點成功不代表全院部署可行，組織文化與流程設計往往比技術本身更決定成敗。",
+      "tags": [
+        "醫療AI導入",
+        "試點失敗",
+        "工作流程整合",
+        "臨床AI治理"
+      ],
+      "author": "未標示（MedCity News｜2026-06-25）",
+      "source_url": "https://medcitynews.com/2026/06/why-most-healthcare-ai-fails-after-the-pilot-phase/"
+    },
+    {
+      "rank": 7,
+      "score": 7.3,
+      "title": "台灣國際醫療展開幕：AI 智慧醫療與在宅照護成為最大亮點",
+      "summary": "2026 年台灣國際醫療暨健康照護展（Medical Taiwan 2026）於台北世貿中心盛大開幕，AI 智慧醫療應用與在宅照護解決方案成為本屆最受矚目的焦點。貿協董事長表示，AI 加速導入醫療體系，有望引領台灣邁入下一個科技世代，並強調照護機器人將是下一個國際競爭新戰場。展覽中，佳世達旗下品牌展示涵蓋 AI 客製化復健、手術 AI 工具、抗癌新藥及高齡照護數位平台等多項台灣專利技術。遠傳電信亦展示以 5G 與 AI 賦能的智慧醫療解決方案。此展覽集中呈現台灣醫療 AI 生態系的最新發展，對醫院採購評估與產學合作布局具有重要的即時市場情報價值。",
+      "tags": [
+        "台灣醫療展",
+        "智慧醫療",
+        "在宅照護",
+        "照護機器人"
+      ],
+      "author": "未標示（墨新聞-MORE News｜2026-06-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA3T1AzY3c0WnhKTG1tVWdpa3NsMXlDRVB5aW4wZHhKMldHbl92MlJBMlk0ZEkyV0pjZVhkb3FjTUI3UQ"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "Infinitus 推出臨床升級機制，為醫療 AI 語音代理人加入即時臨床風險偵測",
+      "summary": "Infinitus Systems 宣布為其醫療 AI 語音代理人平台推出「臨床升級」（Clinical Escalations）功能，使 AI 代理人在與患者或醫療相關人員對話過程中，能即時偵測潛在臨床風險信號，並自動將案例升級至真人醫療人員處理。此功能的設計目標是解決 AI 自動化對話中的安全漏洞——當患者透露症狀惡化、自傷風險或緊急情況時，AI 能主動識別並觸發人工介入流程。這項能力對於使用 AI 進行術前評估、出院後追蹤或慢性病管理電話的醫療機構尤為關鍵。此發展反映出醫療 AI 代理人正從單純的任務自動化，朝向具備臨床安全閾值判斷的智慧系統演進，對導入 AI Agent 的醫院提供了安全機制設計的重要參考。",
+      "tags": [
+        "AI代理人",
+        "臨床安全",
+        "語音AI",
+        "風險偵測"
+      ],
+      "author": "未標示（PR Newswire｜2026-06-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTnV4akYzNmVFYkExa3l2Zlg5ZXN4dE5IUDB0QnJGaExBSmphYlZ5Q1FYUFhEbDc2VlQ0UVJVZTdvd0tFZHFYTXhLelR5T3l6a2wyNndWelVXamM1c3AzdFkwQVI3VjZITHNyWVg2bElhOEpkTG5wU0dDYU9xTnZnZFY1R0RhSGZEYzJpQXNnUFMybmZZVURMSGxVbWI3LWV1aEg0alc5YWI1Zk1VSW1VLVE2YW9nN3NvMFNYSHM3c1E1bXRkU0VkTU5DbmwzaGlJOTdIRGFRTVRZSjc3YWtpeWh2ZXdFdHlGV0laOElnd1FCYjJBUmJJQ25VcUQzSVdRdEhLQ3FDRDA"
+    }
+  ]
+}
