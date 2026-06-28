@@ -1,0 +1,47 @@
+{
+  "date": "2026年06月28日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 7.5,
+      "title": "AI 能否取代放射科醫師？一位放射科醫師給出不同答案",
+      "summary": "KevinMD.com 刊載一位放射科醫師的第一手觀點，針對「AI 是否正在取代放射科醫師」此一備受關注的議題提出反駁。文章指出，目前 AI 工具在影像辨識、異常偵測及報告草稿生成等方面雖已展現相當能力，但臨床情境判斷、與患者及跨科溝通，以及複雜病例的整合詮釋，仍高度仰賴放射科醫師的專業訓練與人文判斷。此一觀點在醫療 AI 快速滲透影像科室的當下具有重要參考價值，有助於醫院領導層與臨床科主任重新校準 AI 導入策略，釐清 AI 輔助工具的定位應是強化工作流程效率、縮短報告時效，而非作為醫師角色的替代方案。文中亦隱含對醫師訓練與人才留任政策的省思，提醒各界在討論 AI 效益時，不應忽視放射科醫師的不可替代性。",
+      "tags": [
+        "放射科AI",
+        "人機協作",
+        "臨床觀點",
+        "影像診斷"
+      ],
+      "author": "未標示（KevinMD.com｜2026-06-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0pyZll5b0tnM2YwQUFBODh2bl9vR3p3amQ1WkFHazRGT2VlVEVGYzRMMklEUUFvWnlPeXV2MkpRMjZjUzNsX0FhQ0FUWTROMF9RUjNtZjlyM18zWWtMMVpDWG1BeUxiblVWUEVQZW9DMXl2dEkwQ0JXUC1sNUZwXzZyb0s0Sm4ydGdOYWdR?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 6.5,
+      "title": "Radin Health 擴大在內華達州的放射科 AI 平台部署",
+      "summary": "AuntMinnie 報導，Radin Health 宣布在美國內華達州擴大其放射科 AI 平台的部署規模。Radin Health 的平台整合 AI 輔助影像分析功能，旨在協助醫院與影像中心提升影像判讀效率、縮短報告回報時間，並支援偏遠或人力不足地區的遠端放射科服務需求。此次擴展顯示，社區醫院與區域醫療系統對 AI 放射科解決方案的採購意願持續提升，市場滲透已不侷限於大型學術醫療中心。對醫療資訊部門與數位轉型團隊而言，此案例提供了區域性 AI 放射科平台規模化落地的實際參考，亦凸顯放射科 AI 產業競爭加劇的市場趨勢。對醫院領導層而言，在評估影像科室 AI 採購策略時，此類平台的擴張速度與整合能力值得持續追蹤。",
+      "tags": [
+        "放射科AI",
+        "平台部署",
+        "影像診斷",
+        "醫院數位轉型"
+      ],
+      "author": "未標示（AuntMinnie｜2026-06-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeXM1NE1CWW9hTk9fVl9iMFJuekd0TE1tUUdZWGFPWURIeldITVRMYkpISndRUjVBNFBJWXZ3V3ZpWnFUR1NXU3pkZTdBMDllQ1VBUjM1b2VQTUZPS0Nrb1JaREpZNkN2aWthVXVWZkVzdGR6WWJyeTFXdDlxQ2I2bjRIbGZCRmVNU1N5c3NwVWJXSlpBUnVoVXBIbGhGOUIwSk41cVFudE5FT00xeVh1c3NHWXFVY1hkMFZ5YnlDd3pvRU9qOUhTWGZ4X2l1anpKZ3Rz?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 5.5,
+      "title": "The Lancet 刊載健康錯誤資訊委員會報告：AI 與社群媒體加劇全球健康資訊危機",
+      "summary": "The Lancet 發表 Lancet Commission 評論，指出聯合國與世界經濟論壇已將錯誤資訊與不實資訊列為當前全球最高短期風險，其威脅程度甚至超越極端氣候與武裝衝突。委員會特別強調，快速演進的人工智慧技術正在加速健康錯誤資訊的傳播，使 COVID-19 疫情期間已顯現的資訊混亂問題更加複雜難解。報告呼籲各國政府、醫療機構與科技平台共同承擔責任，建立更完善的資訊可信度核查機制。對醫院領導層而言，此報告提示在推動 AI 應用時，亦需同步強化醫療資訊素養教育，防範 AI 生成內容被誤用為醫療建議的風險，尤其在患者自我照護與遠距醫療情境下，機構的公信力與資訊把關角色將愈發關鍵。",
+      "tags": [
+        "健康資訊",
+        "錯誤資訊",
+        "AI倫理",
+        "政策"
+      ],
+      "author": "未標示（The Lancet｜2026-06-27）",
+      "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01128-1/fulltext?rss=yes"
+    }
+  ]
+}
