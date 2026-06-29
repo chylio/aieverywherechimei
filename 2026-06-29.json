@@ -1,0 +1,89 @@
+{
+  "date": "2026年06月29日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "攻擊成功率近乎完美：研究警告醫療 AI 模型恐成病歷外洩新破口",
+      "summary": "TechNews 科技新報報導，最新研究揭示醫療 AI 模型面臨嚴峻的資安威脅，攻擊者可透過特定技術手段對模型發動攻擊，成功率幾近百分之百，導致患者病歷等敏感個資遭到外洩。研究人員指出，當前醫療機構廣泛部署的 AI 診斷與決策支援系統，若未針對對抗性攻擊（adversarial attack）及成員推斷攻擊（membership inference attack）加以防護，將成為駭客竊取病患資料的新途徑。此議題與過去曾報導的「醫療 AI 訓練資料隱私洩漏風險」相呼應，但本次聚焦於模型推論階段的主動攻擊場景，威脅層級更高。報告呼籲醫療機構在導入 AI 系統時，應將模型安全性評估納入採購標準，並建立持續性的紅隊測試（red teaming）機制，以確保病患資料受到完整保護，避免因 AI 系統漏洞引發的法律與合規風險。",
+      "tags": [
+        "醫療AI資安",
+        "病歷隱私",
+        "對抗性攻擊",
+        "AI治理"
+      ],
+      "author": "未標示（TechNews 科技新報｜2026-06-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EM0VoSTczT1JIQ1kwR3lZM0V2aklIM1BOUF9UZlRNUUduUEgwSy05cFRRUVNQeEpkM1JtMmtwemVSQWJVbWRaeVl1YTd4VlBnODluUGZMV1ViVHUzVmJlamVEal9COWUxSmpDcW50N0Q4Tms?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 7.5,
+      "title": "OpenAI 與 Anthropic 搶攻醫療 AI 賽道，三大潛在隱憂不容忽視",
+      "summary": "TechNews 科技新報分析，OpenAI 與 Anthropic 近期積極布局醫療 AI 市場，推動 AI 輔助診斷、病患諮詢及臨床決策支援等應用，業界對「AI 醫師」的想像逐漸從概念走向落地。然而，報導同時點出三大核心隱憂：其一為臨床準確性驗證不足，現有大型語言模型在專科醫學情境下仍存在幻覺（hallucination）風險，可能誤導臨床判斷；其二為醫療責任歸屬模糊，AI 建議若導致醫療疏失，法律責任難以釐清；其三為資料隱私與監管合規挑戰，各國對醫療 AI 的監管框架仍不完備。這波科技巨頭進入醫療市場的浪潮，將對現行醫院 AI 採購策略與臨床治理架構帶來重大衝擊，醫療機構需提前評估合作風險與導入標準，避免在監管尚未成熟前承擔過高的臨床與法律風險。",
+      "tags": [
+        "生成式AI",
+        "醫療AI治理",
+        "臨床決策支援",
+        "AI監管"
+      ],
+      "author": "未標示（TechNews 科技新報｜2026-06-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbTkzZHRRRWZqSHZXcFpyZ0lwS1NkTTNVdE8wTk53VEZBRExUbXdSQjFueVM2ekhpa29lZUR3SHBLekFXV192T0t4WGRGTDhoMFBkMU5yVDFYY1FySmdxckw4YnRRaWczbWowZ00xeGd6VDBSNVZxa0JwbDlwSUdXLUlqRTU4Z1RBTGJVV3RMdEZ2bnlLY21LUDNKcWJNTVNyUUpfVG8yVkJvM19KY3dmR0c0endRRVB0QmtGa3g2YTJGN0U?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.0,
+      "title": "放射 AI 每週 FDA 動態彙整：2026 年 6 月 21 日至 27 日",
+      "summary": "Diagnostic Imaging 彙整本週放射科相關 FDA 動態，涵蓋 2026 年 6 月 21 日至 27 日期間核准、許可及突破性裝置認定等重要監管進展。本週 FDA 持續審核多項影像 AI 產品，顯示監管機構對放射科 AI 工具的審查節奏明顯加快。這份每週彙整對醫院放射科主任及資訊部門具有高度參考價值，可快速掌握市場上哪些 AI 影像工具已取得合規許可，從而評估導入時機與選型風險。值得注意的是，近期 FDA 對生成式 AI 放射科工具的突破性裝置認定數量持續增加，包括此前報導的 Aidoc 胸部 X 光報告草稿 AI，顯示監管環境正逐步為臨床級生成式影像 AI 鋪路。醫療機構在評估放射 AI 採購時，應定期追蹤此類 FDA 核准彙整，以確保所選工具符合最新監管要求。",
+      "tags": [
+        "放射科AI",
+        "FDA監管",
+        "影像AI",
+        "醫療器材許可"
+      ],
+      "author": "未標示（diagnosticimaging.com｜2026-06-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0tMZnJ5NEwwVWF6U19JS1Z5eUNOZGxhX25icHhTS2JWUjcxejhmMk5YN1lIc1hMZjJJbTFwcjlTcXdoODJyZzkwMS1idXk5MV9DVjBjRWZfN1JWQlJ6UUF0Q3FvNjRYa3NIVWQzTngxVTBPcS14bkhBUGtoMHJVRjZoeE82ZDdN?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 6.5,
+      "title": "DeepHealth 深度解析：RadNet 的 AI 策略如何重塑放射科商業模式",
+      "summary": "Oncodaily 深入報導全美最大連鎖放射診斷機構 RadNet 旗下 AI 部門 DeepHealth 的發展路徑，分析其如何透過自建 AI 影像辨識平台，將 AI 能力系統性整合至放射科日常工作流程，進而重塑整體商業模式。RadNet 的策略重點在於垂直整合：不僅開發乳房攝影、肺結節偵測等專科 AI 工具，更透過資料飛輪效應持續優化模型精度，並以此為競爭壁壘吸引保險業者和醫院網路合作。此案例對台灣醫療院所具重要參考意義，顯示放射科 AI 的長期競爭優勢來自資料積累與工作流程深度整合，而非單一工具採購。醫療機構若計劃系統性導入放射 AI，應參考 RadNet 模式，評估建立院內資料治理架構與 AI 能力中心的可行性，以形成可持續的數位轉型動能。",
+      "tags": [
+        "放射科AI",
+        "商業模式",
+        "數位轉型",
+        "影像AI"
+      ],
+      "author": "未標示（Oncodaily｜2026-06-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yUTFOakF5OU5NTVRBalpWcENGYnllYVR5S3JiY3FDcWQ5b09YSkk4NmFPU2tmTU82T0ZJbS1OQUdOMTB5cndpdnUwYmNxWEtoQVpLaDRnRHlDbmdT?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.0,
+      "title": "策略框架助力臨床數位病理永續落地：實踐指引出爐",
+      "summary": "News-Medical 報導一項針對臨床機構數位病理導入的策略框架研究，提出可操作的永續實施路徑，協助醫院從試點走向全面部署。研究指出，數位病理（digital pathology）結合 AI 影像分析雖已展現顯著的診斷效益，但多數機構在規模化推廣時面臨基礎設施、人員培訓、資料標準化及工作流程整合等多重障礙。該框架強調「策略分階段推進」的重要性，建議機構先建立標準化掃描流程與資料治理規範，再逐步引入 AI 輔助診斷模組，並透過持續的績效監測確保臨床品質。此研究與近期「AI 驅動生物標記評估重塑病理科工作模式」的趨勢高度吻合，為有意推動病理科數位化轉型的醫療機構提供了具體的實施藍圖，特別適合作為數位病理 AI 採購與導入計劃的參考依據。",
+      "tags": [
+        "數位病理",
+        "AI導入策略",
+        "病理科轉型",
+        "臨床實施"
+      ],
+      "author": "未標示（News-Medical｜2026-06-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaDM5SWFpMjhES2k0SnB4SFRsMlc2Z3BRa3Z6YU4waE9MYkhiRi1rdTJUakgxbEt6bkJwTUtyQ1A1VWdHdHRJVGNLNWlCb0c1QVRDZEZ4bnJjQ3MtMzN2VGhQVnVGdlVjQ0h3aXBZSWx3Z0dDNXZQQlRqVVc2SHF5MmtKeDZWb2w2SG41YWZFZ3BKTThZT0cwOGl4WE05ZWRKMEp3bWZuNm02Y0hLMmRqRldIS2Jfc3RWSjM0MzhacmxuU0hEbm1GVWdmQjhfcTJwNWwyZVpiVS0?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 5.5,
+      "title": "員榮醫療 AI 智能醫囑系統亮相大南方智慧健康展，成全台唯一 SMART 50 地區醫院",
+      "summary": "PChome Online 新聞報導，員榮醫療以全台唯一獲得 SMART 50 認證的地區醫院身份，攜旗下自主研發的 AI 智能醫囑系統參展大南方智慧健康展。該系統運用人工智慧技術輔助醫師開立醫囑，透過即時分析病患病史、用藥紀錄及臨床指引，提供智能警示與建議，有效降低醫療錯誤風險並提升醫囑品質。員榮醫療此次參展不僅展示台灣地區型醫院在醫療 AI 自主研發上的實力，更代表中小型醫療機構同樣具備推動數位轉型的能量。SMART 50 的認證肯定了該院在智慧醫療整體布局上的成熟度，對台灣各地區醫院具有標竿意義，顯示即便非醫學中心規模的機構，也能透過聚焦特定臨床流程的 AI 應用，實現有效的智慧化升級。",
+      "tags": [
+        "智慧醫囑",
+        "台灣醫療AI",
+        "地區醫院",
+        "臨床決策支援"
+      ],
+      "author": "未標示（PChome Online 新聞｜2026-06-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjZmUjVLbVpoNGhMQW1ManhSSTc0aHpjaWFPeGx0QkZXcWVsN0tzNEc4czZnS3FtdldTSjhRYXZ4RnhQSzAteXBtZ3MtZUFyQnUxTXdfckdkX1NOa2tQRy0wMTBVZXBYNmhUNGs3LWVnY1VoUlU3TUhTNWV2azhVc3o4NHpDb2VRMGtBdFhxZw?oc=5"
+    }
+  ]
+}
