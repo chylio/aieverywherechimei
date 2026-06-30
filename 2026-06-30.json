@@ -1,0 +1,131 @@
+{
+  "date": "2026年06月30日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "醫院 AI 提前 24 小時預測低血糖事件：14 萬餘名患者大規模研究結果出爐",
+      "summary": "一項涵蓋 143,000 名住院患者的大規模研究顯示，醫院部署的 AI 系統能在血糖危急事件發生前 24 小時精準預測低血糖風險，遠超現行臨床警示的反應時間。此研究將預測窗口大幅前推，為臨床團隊爭取充裕的預防性介入時間，有助降低低血糖相關併發症與死亡率。此系統結合電子病歷中的連續生理數據、用藥紀錄與實驗室檢驗值進行模型訓練，展現多模態臨床資料整合的可行性。對醫院領導層與內分泌、重症醫療團隊而言，此研究結果支持將預測型 AI 工具嵌入病房警示流程，以提升住院安全品質。研究同時提醒，大規模部署前仍需針對不同族群進行外部驗證，以確保模型泛化能力與臨床公平性。",
+      "tags": [
+        "臨床預測AI",
+        "低血糖偵測",
+        "住院安全",
+        "電子病歷"
+      ],
+      "author": "未標示（Tech Times｜2026-06-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbXozakx2ZUJOSFhKWXdhcHMzcVNybFlHdEVqWFg3cURvU0hTbi1LdDRPR0ZWQlZIR2tHRWdUc1FacHZsb2Y2VWg1Qzg3MUNDbVk5VUVodFhtSUZyRFdvb2JOZnZnQnBNM0tNVFNzMGdSYW9HdU44OGN4dW5HTGVtR0pQekdtRjVJMGdaWGVSajZqSHBZRExxWUhkeWhPeUVlaG9tcm9iNkpIdFZmVkpyS0NMVEJUQXFFcU0wYmFhVEl1dWlBM0c2WDhjZDc0NlY3dzNrTg"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "Mayo Clinic 高峰會聚焦醫療 AI 下一階段發展藍圖",
+      "summary": "Mayo Clinic 近期舉辦醫療 AI 高峰會，匯聚臨床領袖、技術專家與政策制定者，深入探討醫療 AI 在完成早期試點後如何邁向規模化落地。會議聚焦三大核心議題：一、如何將 AI 工具從單點試驗轉化為全院系統性部署；二、臨床工作流程整合與醫護人員信任建立；三、AI 治理架構與患者數據安全的制度保障。與會者強調，當前醫療 AI 最大挑戰已非技術開發本身，而是組織變革管理、跨部門協作及持續效益評估。Mayo Clinic 作為全球醫療 AI 應用標竿機構，其峰會結論對有意推動 AI 轉型的醫院體系具有高度參考價值，亦揭示醫療 AI 產業正從「概念驗證」轉向「規模化營運」的關鍵轉型期。",
+      "tags": [
+        "醫療AI戰略",
+        "規模化落地",
+        "AI治理",
+        "Mayo Clinic"
+      ],
+      "author": "未標示（Mayo Clinic News Network｜2026-06-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVFJsRHFPdEdfbnhicWNUVUZvcVNOaU04Z3JUbDBfbXN1aHVmcm9PbWVEcGxfdS1ES3VEbE15SXlTS0piaEdCQnM2TUdPU2tqM3cxNV9XWXFWSFFsZ2hlQW1EaFZhQUMxWUpEUXhBOFZwTjlYS1lGYWFYTlI5ZGZyZ0ZHVGYzR0VzVmFSd0VINkJlUnNGaFc3Mlg1a19sS3pSanFCWkNtQzYxOFNXalpKb1FB"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "放射科 AI 治理新課題：RCR 人口普查揭示行政輔助功能嚴重低度使用",
+      "summary": "英國皇家放射科學院（RCR）最新人口普查報告指出，放射科 AI 工具在臨床影像判讀上的採用率持續提升，然而在行政輔助任務（如報告排程、工作量分配、文件自動化）方面的應用仍明顯不足。報告指出，若能充分運用 AI 處理行政事務，可大幅減少放射科醫師的非臨床工作負荷，進而釋出更多診斷時間。調查同時發現，多數機構尚未建立完整的 AI 使用追蹤機制，導致效益評估困難。專家呼籲放射科領導層重新盤點現有 AI 工具的使用範疇，並制定涵蓋行政流程自動化的整體 AI 治理策略，以實現工作流程最佳化並緩解人力短缺壓力。此報告對醫院資訊部與影像診斷科具有直接政策參考意義。",
+      "tags": [
+        "放射科AI",
+        "AI治理",
+        "工作流程優化",
+        "行政自動化"
+      ],
+      "author": "未標示（AuntMinnieEurope｜2026-06-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQR09xQVVIMVE2LWRzRFJERk9IcXA1VFRiU2Z4UmpRdzFvMDZpeVhHSDlmWkIzZTJMSGFqZzBqcGdZVVJMcmk0SlA5bnhfdi1LRnBad0hNREVfamNZU095UDdoenZla0wtQ2VMWVRaWTYzT0NSZlNKazFLTFFZajZVOXg4VlRrbnBPQUxia19pZ3RZOGZ5b0FPLUhpaFVVdl9kNGRuOHlfRGk1VTBpSUNGV2NqZzh6Y2RuNzRsN1FfZGhaTFlweE8xVXpYM3pfMEljMTZscEpJLWd0VGVaOHREcGdod0Q3Zw"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "放射科 AI 整合挑戰：獨立軟體增加工作干擾，臨床端呼籲深度嵌入工作流程",
+      "summary": "MedCity News 發表分析指出，目前多數放射科 AI 工具以獨立平台形式運作，需放射科醫師在主工作站之外切換系統，實際上增加了臨床干擾而非減少負擔。文章強調，有效的放射科 AI 必須深度整合至現有 PACS 與放射資訊系統（RIS）工作流程中，而非另立介面。作者提出，AI 工具若無法在醫師自然操作路徑中提供輔助，採用率將持續低落，甚至引發使用者抗拒。這一觀點對正評估或導入影像 AI 的醫院資訊部與放射科主任極具參考價值，提示選型時應將系統整合深度列為首要評估標準，而非僅著重演算法準確度，並需與 IT 團隊共同規劃導入路徑以確保流程無縫接軌。",
+      "tags": [
+        "放射科AI",
+        "工作流程整合",
+        "PACS",
+        "臨床導入"
+      ],
+      "author": "未標示（MedCity News｜2026-06-29）",
+      "source_url": "https://medcitynews.com/2026/06/radiologists-need-ai-that-works-where-they-work-not-standalone-software/"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "放射科 AI 不均等近用恐加深醫療不平等：Radiology Business 深度分析",
+      "summary": "Radiology Business 發表報導警示，放射科 AI 工具的採用在不同規模、地區與資源條件的醫療機構之間存在顯著落差，可能進一步擴大醫療不平等。大型教學醫院與城市醫療中心因資金充裕、IT 基礎建設完善，得以率先導入先進影像 AI；而社區醫院、偏鄉診所及資源匱乏機構則因成本門檻與技術能力不足而被排除在外。這種不均等的近用現象意味著，AI 帶來的診斷效率提升與準確度改善，恐無法惠及最需要的患者群體，反而使既有的醫療差距雪上加霜。報導呼籲政策制定者與醫療 AI 產業共同研擬可及性方案，包括聯合採購、訂閱制計費模式及公共資助補助機制，以確保 AI 紅利廣泛共享。",
+      "tags": [
+        "醫療不平等",
+        "放射科AI",
+        "醫療近用性",
+        "政策建議"
+      ],
+      "author": "未標示（Radiology Business｜2026-06-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVnRjTk5fVWJqN21qMjlJVGtGcTFDRTdTdWpYZldITTZuREJCNjY3N3F3VmZvZUVlT2toZllIQ180aUVTRlpKbS00MVQ5YU9aY3VXQmRaTmV4UXlSRWxrVmxudHZVVXBxNngzMjhkLU5rQkFEUWFjaHg1cHdybVlnTVVfVVh6Q3N4Q2M1QjFjLXZscDJ4R0FlUjRJUmluYml4b01KdTlKTEVZT2tGZWt4dW1Gdkx2UnNHRk5fRzl1M3M"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "AI 輔助虛擬染色技術或將顛覆病理科工作流程",
+      "summary": "Technology Networks 報導，研究人員開發出以 AI 驅動的虛擬染色技術，能將未染色或低成本染色的組織切片影像轉換為高品質的標準染色（如 H&E 或免疫組織化學）影像，無需實體化學染色程序。此技術若成熟導入臨床，可大幅縮短病理診斷的前處理時間、降低試劑成本，並提升低資源環境下的診斷可及性。研究顯示，AI 生成的虛擬染色影像在多項評估指標上與傳統染色具有高度一致性，達到病理科醫師可接受的診斷品質。此技術對數位病理科建置、術中冷凍切片快速診斷及遠端病理會診具有潛在應用價值，亦可與現有掃描設備整合，加速病理科數位化轉型進程。",
+      "tags": [
+        "數位病理",
+        "AI虛擬染色",
+        "病理工作流程",
+        "技術突破"
+      ],
+      "author": "未標示（Technology Networks｜2026-06-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmNDYmZnbGRWWWVpRHNGZ3J2WE1fMjRXUWhxNEdjZ0ZxWll5cEFWbWhBbVJiN0c1UzBzZVd6cHlUOWItUUJlc1VDM0Q2OUtsVF9pckxZMVAwOVY5c2RCb1o1YkhyLWdEYTh3bFZYRDdyaDFkN3hkd19mUDliblBCUl9iM1VEYS0wR3B5d1dpenpOek9ncTlkRmt6dU9DTmtIa2pEWUdPTTJic0FSSmV2NlRKVzR3clptbGZpb0Znbw"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "醫療 AI 臨床準備度不能以基準測試成績論斷：專家觀點",
+      "summary": "Oncodaily 刊載醫療 AI 專家 Gustavo Monnerat 的深度評論，指出當前醫療 AI 產品在評估臨床可用性時，過度依賴基準測試（benchmark）表現作為衡量標準，忽略了真實世界臨床環境的複雜性與多樣性。文章強調，基準測試通常在受控、乾淨的資料集上進行，無法反映臨床數據的雜訊、人口族群差異、醫院工作流程整合挑戰及使用者行為等因素。作者呼籲醫療機構在評估採購 AI 工具時，應要求廠商提供真實世界臨床驗證數據（real-world evidence），並建立內部評估框架，以患者結果改善作為核心指標，而非僅以模型準確度數字作為決策依據，避免「基準表現優秀但臨床無效」的採購風險。",
+      "tags": [
+        "臨床AI評估",
+        "基準測試",
+        "真實世界驗證",
+        "AI採購"
+      ],
+      "author": "未標示（Oncodaily｜2026-06-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LYnFfamhxQUYwMDZKRFJ2X2kybmJoVHNCTTJFWXdidzhYUm94TnZQcW9zaEZMMmlaSGNpTXZqQzY4VEVLUlF2czhqSTVzWXNzbW0yXzNFaWEyakF1U0Y5aXNB"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "亞洲大學打造 AI 醫療生態系：台灣高校如何從學術研究跨入智慧醫療產業",
+      "summary": "遠見雜誌報導，亞洲大學近年積極布局 AI 醫療生態系，不僅在國際大學排名持續躍升，更整合校內醫學院、資訊工程與大數據研究資源，與醫療機構及產業界共同建立智慧醫療應用場域。該校推動跨域合作，涵蓋 AI 影像診斷、遠距照護、精準醫療數據分析等多個領域，並積極爭取政府與企業研發資金以加速技術落地。此模式顯示台灣高校正從傳統學術定位轉型為醫療 AI 創新樞紐，透過產學合作縮短研究成果至臨床應用的落地時程。對醫療體系而言，與學研機構建立深度合作夥伴關係，可有效降低自主開發 AI 的成本與風險，同時借助高校資源加速人才培育與技術驗證。",
+      "tags": [
+        "台灣醫療AI",
+        "產學合作",
+        "智慧醫療生態系",
+        "AI人才培育"
+      ],
+      "author": "未標示（遠見雜誌｜2026-06-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9idE5SM19Qc05raUFtSG5VdGZJcFFybHVrZkMwV21vWXFlQi1Ebk83VFpfZzF3NEhaeWhBWEJUdUNaWHFGbTg2dGlnUEdYQQ"
+    },
+    {
+      "rank": 9,
+      "score": 6.0,
+      "title": "NASA 與 Red Hat 攜手開發離線 AI 醫療助理，助太空人在無網路環境自主診斷",
+      "summary": "TechNews 科技新報報導，NASA 與 Red Hat 合作開發一套能在完全無網路連線環境下運作的 AI 醫療助理系統，專為執行長期太空任務的太空人設計。此系統採用輕量化本地端語言模型，可在太空站受限的運算資源上執行，協助太空人進行症狀評估、用藥建議及簡易醫療程序指引，無需即時連線至地面醫療中心。此技術突破對地球醫療應用同樣具有啟示意義，包括偏鄉離島醫療、災難緊急救援及行動醫療車等網路訊號不穩定的場域，均可借鑒此離線 AI 醫療模型的架構設計。這一發展亦預示邊緣運算（edge computing）與醫療 AI 的融合將成為未來重要技術方向，值得醫療資訊部門追蹤關注。",
+      "tags": [
+        "離線醫療AI",
+        "邊緣運算",
+        "NASA",
+        "偏鄉醫療"
+      ],
+      "author": "未標示（TechNews 科技新報｜2026-06-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0pzU01TYXZNSnhTME1QZU9ZT2JjcDBEalNVRm9zMk4yWlJPNlZQcXZFZFhoX3NPMDdzd3lSM24xeFE3OGxwcTRhZDBkbUtJVUY5cExOWHJjb3hoWGhFNkRoeEZNWjlpS1dycUphOTFDRmtWb0pvWHQ2dVBtbkdQaElOeDlWbHl2UDZteXk5bDRJanhMakxGaTRxMEZubmtYenlTag"
+    }
+  ]
+}
