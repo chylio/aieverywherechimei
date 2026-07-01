@@ -1,0 +1,145 @@
+{
+  "date": "2026年07月01日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Nature 刊載：AI 代理協作自動生成生醫假說並設計驗證方案，邁向全流程實驗室發現循環",
+      "summary": "Nature 於 2026 年 6 月 30 日刊載一篇重要評論，聚焦 AI 代理系統如何在生醫研究中協作生成假說，並自動規劃驗證實驗，使 AI 深度介入從問題提出、資料分析到實驗設計的每個環節。這項發展標誌著 AI 不再僅扮演工具角色，而是成為科學發現過程的主動參與者。對醫療機構而言，此類系統未來可能加速罕見疾病機制探索、新藥靶點識別及臨床研究假說的快速迭代。報告同時指出，AI 工具能顯著加速研究人員的思維過程，但最終科學證據仍須經過實驗室驗證，強調人機協作而非完全取代人類判斷的重要性。此趨勢對有意布局研究型智慧醫院的機構具重要戰略參考價值。",
+      "tags": [
+        "生醫AI研究",
+        "AI假說生成",
+        "實驗自動化",
+        "科學發現"
+      ],
+      "author": "未標示（Nature｜2026-06-30）",
+      "source_url": "https://www.nature.com/articles/d41586-026-01873-2"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "Nature 刊載：血液腫瘤 AI 臨床決策支援系統以病例為錨點輔助複雜診療決策",
+      "summary": "Nature 於 2026 年 6 月 30 日發表研究，介紹一套針對血液惡性腫瘤設計的「病例錨定式 AI 代理」臨床決策支援系統。該系統能以歷史病例為參照基礎，協助臨床醫師在複雜的血液腫瘤診療場景中進行鑑別診斷與治療方案選擇，突破傳統規則式決策支援工具的侷限。研究顯示，此類 AI 代理在少見或複雜病例中尤具輔助價值，可降低決策不確定性並提升診療一致性。對血液科、腫瘤科及病理科主任而言，此研究揭示了大型語言模型結合病例資料庫在專科臨床端實際落地的可行路徑，也為醫院評估 AI 輔助診斷工具採購提供重要實證依據。",
+      "tags": [
+        "血液腫瘤",
+        "臨床決策支援",
+        "AI代理",
+        "精準醫療"
+      ],
+      "author": "未標示（Nature｜2026-06-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qQWxkR2hnbUk2V0lLWkVTU005SnAyYno1VE9odXhIUkh0ekhoMFBMR1BIV09ZRjdtN3JHNl9MOUxjNlpWUEN3OFZiV1dSYkNCNUIzSGg0YkFuT29lSEpZ"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "Anthropic 發布 Claude Science：專為製藥與科學研究打造的 AI 旗艦產品，並宣布自主研發藥物",
+      "summary": "Anthropic 於 2026 年 6 月 30 日在一場面向製藥高層與生技創辦人的活動中，正式發布 Claude Science——一款專為科學研究優化的大型語言模型應用，定位類似 Claude Code 在軟體工程領域的角色。Claude Science 可依據高階指令自主執行研究任務，預計將深度整合製藥研究工作流程。同步宣布的消息是，Anthropic 計劃開始自主研發藥物，正式從 AI 工具供應商跨入新藥開發賽道，引發業界高度關注。MIT Technology Review 與 STAT News 均指出，儘管目前尚無 AI 設計藥物通過 FDA 核准，但此舉象徵 AI 公司直接挑戰傳統藥廠的時代正式開啟，對醫院研究部門評估 AI 科研工具具有重要參考意義。",
+      "tags": [
+        "AI新藥開發",
+        "大型語言模型",
+        "製藥研究",
+        "Anthropic"
+      ],
+      "author": "未標示（MIT Tech Review｜2026-07-01）",
+      "source_url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
+    },
+    {
+      "rank": 4,
+      "score": 8.2,
+      "title": "FDA 數位政策領導人暗示醫療 AI 法規更新即將出爐",
+      "summary": "STAT News 於 2026 年 6 月 30 日報導，FDA 數位健康部門高層在最新公開發言中透露，FDA 正積極研擬針對醫療 AI 的政策更新方向，具體細節雖未完全公開，但外界預期將涉及 AI 醫療器材的上市審查流程調整、持續性效能監控要求，以及生成式 AI 在臨床端應用的監管框架。此一訊號對所有正在評估或已部署 AI 臨床工具的醫療機構至關重要，後續法規走向將直接影響 AI 產品採購合規性與廠商資格認定。醫院資訊部與數位轉型團隊應密切追蹤 FDA 後續正式公告，提前評估現有 AI 系統是否符合新規要求，並與供應商確認合規計畫。",
+      "tags": [
+        "FDA法規",
+        "醫療AI政策",
+        "數位健康監管",
+        "合規"
+      ],
+      "author": "未標示（STAT News｜2026-06-30）",
+      "source_url": "https://www.statnews.com/2026/06/30/health-tech-fda-digital-leader-hints-at-coming-ai-policy-updates/?utm_campaign=rss"
+    },
+    {
+      "rank": 5,
+      "score": 8.0,
+      "title": "AI 輔助病理分析可預測罕見癌症免疫治療反應：MD Anderson 研究成果",
+      "summary": "德州大學 MD Anderson 癌症中心於 2026 年 7 月 1 日發布研究成果，顯示 AI 引導的病理影像分析技術能有效預測罕見癌症患者對免疫治療的反應。研究團隊透過深度學習模型分析腫瘤病理切片，識別出與免疫治療療效相關的組織學特徵，為難以取得足夠樣本量的罕見癌種提供新的生物標記評估途徑。此研究對腫瘤科與病理科具有直接臨床意義，AI 病理分析有望縮短罕見癌症患者等待精準治療方案的時間，並降低不必要的試誤性用藥。對醫院評估數位病理 AI 導入而言，此類研究提供了在稀少病例場景中證明 AI 輔助診斷價值的重要實證。",
+      "tags": [
+        "AI病理分析",
+        "免疫治療",
+        "罕見癌症",
+        "精準腫瘤學"
+      ],
+      "author": "未標示（UT MD Anderson｜2026-07-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUVhLbDRkVWYwanZnajBabURrMnNWUG9pWHJmc2h2b1VGRldhQzd0TnFWNlBJU2FrdFFsaHVOUzhmLTlPZ1JUSnlRU0JPRmZORHVSVWFIM0NMZlNxQjdPbF9EbjNQNHpkcnVub1dHb0Y1WHRLdXJGR3FMZ005VlNxSFZiaFBKYUJYY1hGSUFuSkQ3YnVkTWtjM05fZnRYaDMtRTBFWTZVLXUxV1dLa2xrSFF3VXBxNExraFY5aTRyZlVGdEZrUFBEajVLeG9kR3pTYXdNMW5ieUs"
+    },
+    {
+      "rank": 6,
+      "score": 7.8,
+      "title": "AI 將醫院 MRI 等候時間縮短逾 50%：實際部署案例出爐",
+      "summary": "Radiology Business 於 2026 年 6 月 30 日報導，某醫院系統透過導入 AI 排程與掃描最佳化工具，成功將 MRI 等候時間削減超過 50%。該系統藉由預測設備使用率、動態調整掃描序列，以及自動識別可合併或縮短的掃描步驟，大幅提升影像科整體產能。此案例提供具體量化成效，對面臨影像科資源緊張的醫院管理層極具參考價值。在台灣醫護人力吃緊、候診壓力持續增加的背景下，AI 輔助排程與流程最佳化已成為放射科提升服務量的可行切入點，醫院資訊與影像科主任可就此類工具的落地可行性展開評估。",
+      "tags": [
+        "放射科AI",
+        "MRI排程最佳化",
+        "醫院營運效率",
+        "影像科流程"
+      ],
+      "author": "未標示（Radiology Business｜2026-06-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUk1mUzhsS0RoWXVtYWZ3TzlFZjhwSWl0QVBqeEd2NDZIZ0JfS2Vtdld2a2Z6SEtUYnFtWWk5Qzh4U1kySnd5aUJydDBZeTJPR3U2cm42cmRHbHE0dDczMVVQcFp3T2Zpc2J5UnVJM0oyaG53ZEk5NVRsQTBRZk5aV1RUdGxoN04taDJDcEJyVGd4ZERDYWJjNnFGUFpxVnZESXZQekF3cjFuZTZheXZFV1FJT01mdFlfeEx0QjhLcE00ZGR6XzhCU1kxQQ"
+    },
+    {
+      "rank": 7,
+      "score": 7.5,
+      "title": "生成式 AI 胸部 X 光模型為放射科報告撰寫與品質改善帶來新方向",
+      "summary": "Radiology Business 於 2026 年 6 月 30 日報導，生成式 AI 模型應用於胸部 X 光判讀，在放射科報告自動生成與報告品質改善方面展現出新的可能性。相較於傳統分類式 AI 僅輸出病灶偵測結果，生成式模型能夠產出結構化、接近人類撰寫風格的報告草稿，同時具備識別多項異常並整合臨床背景的能力。研究顯示此類模型有助於縮短報告回報時間、降低遺漏率，並可作為品質稽核工具輔助教學。對放射科主任與醫院資訊部而言，這代表 AI 在影像科的應用正從「偵測」升級至「報告生成」層次，值得評估整合至現有 PACS 工作流程的可行性。",
+      "tags": [
+        "生成式AI",
+        "胸部X光",
+        "放射科報告",
+        "影像AI"
+      ],
+      "author": "未標示（Radiology Business｜2026-06-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOT2NZcWN5RmYtNE12Mnh5UW9FN3MtSmZpdGNLOVRrekFJZ2F5d3VybjBzTHdBX2F4REdWcnhWcXozRklMSDVWNGlBZHY3cHNDWjF5Z2F4ZlEtMUpWeW5GSndjaGtyQ182WGdfTHRqV21ZSmg0SUNTcHFNSEExZTNPVVFPWEczR2FyLUxQNDE5eldkWWRicThteUUxdGliaWZMV2pVVG1WVk1HX012SzRPRVdwMEV1ZlJrckFhdzRyNkN4cWJCNlM0U0RRdWVIbGNIdERLZTlzd2paT18yOGxJMEtIai1TOVIyUGsxUQ"
+    },
+    {
+      "rank": 8,
+      "score": 7.3,
+      "title": "Boston Children's Hospital 以 AI 協助至少 40 個家庭獲得罕見疾病確診",
+      "summary": "afrotech.com 於 2026 年 7 月 1 日報導，Boston Children's Hospital 運用 AI 技術成功協助至少 40 個家庭為長期無法確診的罕見疾病找到答案。該院導入 AI 輔助基因體學分析與臨床表現比對系統，能在龐大的罕見疾病資料庫中快速識別符合患者症狀組合的疾病模式，大幅縮短傳統「診斷流浪」所需的漫長歷程。此案例清楚展示 AI 在罕見疾病診斷領域的實際臨床價值，對遺傳醫學科、小兒科及基因檢測相關部門極具啟發。在台灣罕見疾病患者診斷資源有限的背景下，類似模式或可作為跨院合作或遠距會診 AI 輔助工具的參考架構。",
+      "tags": [
+        "罕見疾病",
+        "AI診斷",
+        "基因體學",
+        "兒科"
+      ],
+      "author": "未標示（afrotech.com｜2026-07-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT0hJb0JETW1fbzFaeFBlN3N0V0hlMVFEYTFmRmJrYTQtU1Rpb1RzRFB5bnR1azNBZlJKWmxIeER5THZUNXlfTE52Y1RWczVxOWJWV1ZocUo0OV81akU1X241LURrRmQ2TkZldkhFQ1pFcFJ1Q0p2UlVJUE9TTVdBNnBmMS1aWWFJMUtRZnhleTZhX3l4S1E"
+    },
+    {
+      "rank": 9,
+      "score": 7.0,
+      "title": "微軟報告：台灣製造與醫療業 AI Agent 導入率領先全球",
+      "summary": "微軟於 2026 年 7 月 1 日公布最新調查，指出台灣在製造業與醫療業的 AI Agent 實際導入程度已領先全球，相較之下金融業的採用腳步則明顯落後。報告顯示，台灣醫療機構在智慧排程、臨床輔助決策、病歷自動化等 AI Agent 應用場景的落地速度及廣度均居全球前列。此一數據對台灣醫療院所而言既是肯定，也意味著同業競爭壓力持續升溫，未跟上者恐面臨服務品質與效率的差距擴大。對醫院領導層而言，微軟此份報告可作為向董事會或主管機關說明加速 AI 投資必要性的有力外部佐證，亦可用於識別哪些臨床場景仍有 AI Agent 部署空間。",
+      "tags": [
+        "AI Agent",
+        "台灣醫療AI",
+        "智慧醫療",
+        "數位轉型"
+      ],
+      "author": "未標示（UDN｜2026-07-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vNm5wdFRzaXdtaDR4Q25XMkV6SVVSX0o2VUdHMERseG1zUHlFVGV3VHFIY0R4MEpEMjg0cGN4Q3J4eDh1OWJDa01INmo1dm500gFWQVVfeXFMUDktcmxtODhVMlRtYkJsdGd6a1JpUFgwM0FRTm5VWmY2Z2h6ekV6YnhPamZuX0hOdzZEZWVwREFLdUFIbmg1bWw1ZVFEZlIxSng2OWwtOGc"
+    },
+    {
+      "rank": 10,
+      "score": 6.8,
+      "title": "醫療 AI 的核心問題不在模型，而在資料：Healthcare IT News 深度剖析",
+      "summary": "Healthcare IT News 於 2026 年 6 月 30 日刊載深度分析，指出當前醫療 AI 發展的最大瓶頸並非模型演算法能力不足，而是醫療資料的品質、標準化程度與可及性問題。文章指出，許多醫療機構在導入 AI 時遭遇的挑戰根源在於電子病歷格式不統一、資料標注缺乏、跨院資料共享機制不完善，以及資料偏差導致模型在特定族群表現失準。作者強調，醫院在採購或自建 AI 系統之前，必須先投資建立健全的資料治理架構，否則再先進的模型也難以在臨床端產生穩定效益。此觀點對正規劃或推動 AI 導入的醫院資訊部與數位轉型團隊具有直接的策略指導意義。",
+      "tags": [
+        "醫療資料治理",
+        "AI落地挑戰",
+        "資料標準化",
+        "醫療AI策略"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-06-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRGwxNzR2N1ljSU15VE5MXzBCMTF5aVJDZ3dOaDZ0MnhPem1jYWl5Y1BlX3Atc2hlYkJ1SmNrUHQtT2JtX1ZaZ2kySS1ITnFraDFudjZnSE5jbEpVSTVGMGswaTFKelJWc1ZwSFJRY1lyQnpQSGVfdURyM0ZORGJ2bWdZV2lXeTA"
+    }
+  ]
+}
