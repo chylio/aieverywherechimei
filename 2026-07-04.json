@@ -1,0 +1,117 @@
+{
+  "date": "2026年07月04日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "預測 AI 正顛覆住院糖尿病管理：滑動胰島素注射時代即將終結？",
+      "summary": "Diabetes In Control 報導指出，傳統「滑動劑量胰島素」方案長期因反應滯後、血糖控制不穩而備受質疑，而以預測性 AI 為核心的住院糖尿病管理新模式正快速崛起。新一代系統能整合患者即時生理數據、飲食記錄、藥物史及生理節律等多維資訊，提前預測血糖波動趨勢，並主動建議個別化胰島素劑量調整，大幅降低低血糖及高血糖事件發生率。相較於傳統規則式醫囑，AI 驅動的方案能在患者狀態快速變化的急性期提供動態決策支援，有潛力減少護理人員重複血糖監測負擔並縮短住院天數。此一趨勢不僅涉及內分泌科與加護醫學的臨床流程再造，亦對醫院資訊系統整合、電子病歷介面設計及人機協作模式提出新要求，具備高度臨床參考價值。",
+      "tags": [
+        "住院糖尿病管理",
+        "預測AI",
+        "臨床決策支援",
+        "胰島素治療"
+      ],
+      "author": "未標示（Diabetes In Control｜2026-07-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fTXFLaTNROE4wQVc3SVhiZzZjaGxMWHU2aE5BM3pzNmFwNGp4R1FJMkluUUVJR0pvU245VldSdEFUX0tDX2hNTWs1V1NIc1dSZXhhRjNZeTNoVTlnSXd6aUZNNVkyTjg?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "偏遠地區醫院率先導入 AI 工具：新墨西哥州農村醫院的實戰經驗",
+      "summary": "美國醫院協會（AHA）報導新墨西哥州一家偏遠農村醫院積極導入 AI 臨床輔助工具的實際案例。面對醫師人力嚴重不足、轉診距離遙遠等結構性困境，該院選擇以 AI 作為彌補資源缺口的策略性工具，涵蓋臨床文件輔助、初步影像判讀及病患分流支援等應用。案例顯示，AI 工具在資源有限的環境中反而能創造更顯著的相對效益，醫師得以將節省的行政時間回歸床邊照護。此報導對台灣偏鄉醫療體系及地區型醫院具高度參考意義，亦凸顯 AI 導入不僅是大型醫學中心的專利，中小型醫院在適當選型與支援下同樣可實現落地效益，值得醫療主管機關與醫院管理層關注。",
+      "tags": [
+        "偏鄉醫療",
+        "臨床AI導入",
+        "醫療資源不均",
+        "農村醫院"
+      ],
+      "author": "未標示（American Hospital Association｜2026-07-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSnR6Qmh3NU5oS1YteldHR2FiWW5iOTRLMS1KakJGTWtaWjBGSjNPSE1jVGxfWGRnemdKQ3N4RnEtVXhDU3BxOEQzVEFtZnpxeVozTGhMakp1ZkxfenlUQnowbklTRzE0aXAyTGdVZEpxcEZRa1Q3NUhBUnNkUExfajk3NG1xczltSGpJa1BzeUs0SWRHcm83OW43QWlXOVZhbHFmN0Vn?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "員榮醫院 AI 排班系統 25 秒完成護理班表，台灣護理資訊學會成員親身見證",
+      "summary": "蕃新聞報導台灣護理資訊學會成員近日參訪員榮醫院，實地體驗該院自行開發的 AI 智慧排班系統。此系統能在僅 25 秒內自動完成複雜的護理人員班表排定，大幅縮減過去需耗費數小時的手動排班作業，並可同步考量法規限制、個人休假需求與臨床人力配置需求等多項條件。與會者對系統效率及實用性表示高度肯定，認為此應用示範了 AI 在解決醫療機構行政痛點方面的具體價值。此案例對面臨護理人力吃緊與排班管理複雜化挑戰的各級醫院具直接參考意義，亦展示台灣本土醫療機構在 AI 場景化落地開發上的實力，對推動醫院數位轉型具積極示範效果。",
+      "tags": [
+        "AI排班",
+        "護理人力管理",
+        "台灣醫療AI",
+        "智慧醫院"
+      ],
+      "author": "未標示（蕃新聞｜2026-07-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HblJRc25RbUFVeFhkLXJhUjlnUHlUMktzUTFSZGc2cDJfVENsbEdWamtJRUl6QjZWczlBbUI3V29PejRzdndBNEFobzBsNmlSQWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "臺灣醫材公會倡議建構 AI 智慧醫療數據大平台，推動產業數據共享",
+      "summary": "經濟日報報導臺灣醫療器材商業同業公會正積極推動建立全國性「AI 智慧醫療數據大平台」，目標整合各醫療機構產生的醫療影像、診斷記錄及裝置數據，作為 AI 模型訓練與驗證的共用基礎設施。此舉旨在突破台灣醫療 AI 發展長期面臨的資料孤島困境，促進產學研醫各界在合規框架下進行資料共享與模型協作開發。平台建設若能落實，將有助於降低中小型醫療 AI 新創企業的資料取得門檻，並加速本土 AI 醫材的研發與法規取證進程。對醫院資訊部門而言，此一發展意味著未來資料治理、隱私保護機制與跨機構合作模式將需提前因應規劃，具重要政策與產業戰略意涵。",
+      "tags": [
+        "醫療數據平台",
+        "台灣醫療AI",
+        "資料共享",
+        "醫療器材"
+      ],
+      "author": "未標示（經濟日報｜2026-07-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGVFlTNEotS1JYZjJOWjZ1X3p2aHRXRk05TWRhcGtsT1ZiUkp4RUJpblE3bFpDa2ozaWVZcWhHU1F5NXpYLWVRMF8wREt3R1FrdFdhcF84YVFjd9IBX0FVX3lxTFBKdzNpYjBxazAzeTFROFhpRk9ORlNhSkctcnVaQlFwNWo0ZzU5QUVmLXFtY3pyVzlIOUpxWEQwbkxSLW5xSnAzXzJYeHFvTFdaZlVfZXhSSzQ1bjNET0k0?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "醫院遠距醫療規模反映數位化程度，可作為 AI 導入就緒度指標",
+      "summary": "TechTarget 引述最新研究指出，醫院現有遠距醫療（telehealth）的導入規模與成熟度，可作為預測該院 AI 臨床工具導入就緒度的重要指標。研究發現，已建立完善遠距醫療基礎設施的醫院，在數據收集標準化、員工數位工具接受度及資訊系統整合能力等方面均明顯領先，這些條件恰好也是成功部署 AI 臨床應用的核心前提。研究者建議醫院領導層可將遠距醫療成熟度作為自我評估的切入點，藉此診斷 AI 導入的潛在障礙並擬定改善路徑。此一研究框架對正在規劃 AI 戰略的醫院管理層具實用參考價值，有助於更客觀地評估組織現況與轉型差距。",
+      "tags": [
+        "遠距醫療",
+        "數位就緒度",
+        "AI導入評估",
+        "醫院管理"
+      ],
+      "author": "未標示（TechTarget｜2026-07-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU0pqeWJ6SlBkR3htbFQxQWdia1ZhT2Nmc1VUbE1vMjdqeVNQX3ZwLUE4XzN1ZkxYeGxQcjBVVkQ0VmgzUlkwQm1nUXBVVXozRUk3R05xSUdTN2c5a2VNY0lNMFFLQkItRXlrMDNtY0JJOEtrdEExLUZMUGE0WmNWLU5hQy1LMURYSkpmX0ZBTmRqZng4UUlZb2UxdjRLRXFKMjVIbmFpOVhiMVluZzR4aVJJWG1DSkdEQVZucXMzcmpndnpzV2c?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "國發會力推 AI 落地：智慧醫療與無人機巡檢成為台灣政策推動亮點",
+      "summary": "經濟日報報導台灣國家發展委員會正積極推動 AI 技術實際落地應用，其中智慧醫療被列為重點示範領域之一。國發會透過政策資源整合與跨部會協調，協助醫療機構與科技業者共同加速 AI 應用的概念驗證（PoC）及規模化推廣，並以無人機智慧巡檢作為工業 AI 落地的平行示範案例。此政策方向顯示台灣政府已將醫療 AI 視為兼具產業競爭力與公共健康價值的雙重戰略投資，未來在法規鬆綁、資料開放及補助機制方面預期將有進一步配套措施出台。對醫院管理層而言，此政策背景意味著爭取政府資源支持 AI 創新計畫的窗口正在擴大，值得資訊部門與數位轉型團隊密切追蹤。",
+      "tags": [
+        "台灣AI政策",
+        "智慧醫療",
+        "國發會",
+        "數位轉型"
+      ],
+      "author": "未標示（經濟日報｜2026-07-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BcFBQZ1dfbVY3bnNOdkhzVGxqZ09CS3VNUHlNdWY3RUlRTmEzOUY4RVNRRjNHUF9HU29jeVhqd2NLQzBqV1JyX3JybC1NNlF6ODFadW5VcklLd9IBX0FVX3lxTFBMSEdvYndvdmYxWGpHU1JKT29HN1NSRXhKTHlzYkc4bC1keVM1Z3lOVmd2bmhTVmk1NTdIWXNmYndZaFlNQTNIcW4wOUt5YV91LVVhaVJTd3AweVRmMjZr?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "AI 病理學市場規模預計 2035 年前近乎翻倍，地緣政治衝突帶來不確定因素",
+      "summary": "市場研究報告指出，儘管全球面臨地緣政治緊張（包括美國、以色列與伊朗之間的衝突所帶來的供應鏈及政策不確定性），AI 在病理學領域的市場規模預計在 2035 年前將近乎翻倍成長。驅動成長的核心動能包括數位病理切片技術的快速普及、AI 輔助腫瘤分級與基因型預測模型的臨床驗證成果累積，以及全球病理科人力短缺所催生的自動化需求。報告同時指出，地緣政治風險可能影響關鍵半導體及醫療影像硬體的全球供應，進而對部分地區的 AI 病理平台佈建計畫造成延誤。對醫院資訊採購與長期數位病理規劃而言，此報告提供了重要的市場背景參考。",
+      "tags": [
+        "AI病理學",
+        "數位病理",
+        "市場趨勢",
+        "腫瘤診斷"
+      ],
+      "author": "未標示（Pluang｜2026-07-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTXVIUm5YRHl2MnNtSWJ0LVZfQUIwV3NDdmNoU3RhLV94Z0daV0ZCLVRQNGsyclhBSFl6WXVTLVMtdzd1ZV9uWEdYUnpHWWpOeWZkTS1lT1BWNVB2SGZNRW9FQ1hrWDk4RmJoMDFqYkg5TUJOSlNtQ3dBcU9rQ3lPWjE2WFB4WnRWZFlOVXI5VGJNQ0M3bVNCRm1sdjNiUjZFbkRqdEl0VDM?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 5.5,
+      "title": "英國新建專科復健醫院將整合機器人、AI 與 VR 技術，打造沉浸式復健環境",
+      "summary": "Health Tech World 報導英國一家即將啟用的新型專科復健醫院，計畫全面整合機器人輔助治療、AI 個人化復健方案與虛擬實境（VR）訓練環境，打造次世代沉浸式復健體驗。院方表示，AI 系統將根據患者即時復健進展動態調整訓練強度與目標，機器人裝置則提供重複性高精度動作輔助，VR 環境則用以提升患者訓練動機與神經可塑性效果。此案例代表復健醫學領域的科技整合新標竿，亦展示三項前沿技術在同一臨床場景的協同應用模式，對台灣各醫院復健科及神經科在規劃未來科技升級時具參考價值。",
+      "tags": [
+        "復健醫療AI",
+        "機器人治療",
+        "虛擬實境",
+        "智慧醫院"
+      ],
+      "author": "未標示（Health Tech World｜2026-07-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzUtdzVnMGEwMnlSaFUwd0xkTHktaFhtWWVSVlhHdkdfd3hRRWJXTTFOMU9HbHlnbEZOQzUtVkJGbDdrOENHT19KV0lyTnNjZHozRXZVaGQyMkFDUHZHOEpUb1hLeGV3b1FXYTNvT3lGLTV6d3pvemhoOU84Uy1zMHppVzhHczBnSEFJN09ZNmlGZw?oc=5"
+    }
+  ]
+}
