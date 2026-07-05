@@ -1,0 +1,75 @@
+{
+  "date": "2026年07月05日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "芝加哥大學首創「柔性 AI 貼片」，可在毫秒內偵測並警示心律異常",
+      "summary": "芝加哥大學研究團隊開發出一款柔性 AI 感測貼片，能夠貼附於皮膚表面持續監測心電訊號，並透過內建 AI 演算法在毫秒級時間內識別心律異常並發出警示。此技術突破傳統心臟監測設備體積大、需定期至醫院回診的限制，將即時心律監測推進至可穿戴、居家場景。對於心房顫動、室性心動過速等高風險族群，此裝置有望大幅縮短從異常發生到醫療介入的反應時間。柔性電子材料搭配邊緣 AI 運算的整合，代表穿戴式醫療監測裝置進入新世代。此技術對臨床心臟科、急重症醫學及遠距醫療應用均具重要參考價值，未來若取得監管核准，可望成為高風險心臟病患者的日常照護工具。",
+      "tags": [
+        "穿戴式裝置",
+        "心律監測",
+        "邊緣AI",
+        "心臟科"
+      ],
+      "author": "未標示（TechNews 科技新報｜2026-07-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yWHVubkFhckVqSnlZa1QxSElfRVRPekZnY2R3U3RCU290VmNBc1NpSWFxbDVtR1JwRXY1UGpxVnJMVnlJWG5aaEsxVzlLa05ERzBVVDAtSkgtYjVXVmVhaG9SZGtCQllSVkRZ"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "AI 機器人護理師正式走入病房，醫療照護革命啟幕",
+      "summary": "據 UDN 報導，AI 機器人護理師已開始進入實際病房環境執行輔助照護工作，標誌著醫療服務模式的重要轉變。此類機器人結合自然語言處理、感測器融合與臨床決策支援技術，可協助執行病患生命徵象監測、藥物遞送提醒、基本護理衛教等任務，減輕護理人員工作負荷。在台灣面臨護理人力短缺的背景下，此一發展尤具現實意義。機器人護理師的導入同時引發關於人機協作模式、病患接受度、法規責任歸屬以及護理專業角色轉型等議題的廣泛討論。醫療機構領導層需同步評估技術整合策略、員工訓練需求及倫理規範，以確保機器人輔助照護在安全、有效的框架下推行。",
+      "tags": [
+        "機器人護理",
+        "智慧照護",
+        "人機協作",
+        "護理人力"
+      ],
+      "author": "未標示（UDN｜2026-07-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NblBlSGZnUlBpRS1jcU1kWWlndlV0Q2Nwd2E0eU9ubHpQbElTRXlCd19EVmpPWVlUYmFyeUh6NXZpc1dYYmhJZUZRNnY0bEUz0gFWQVVfeXFMT2JsdHhIOUM0X0IzU1kweFpiYlpQanFHOHRfaWw1cXBHZG90NGJsR3hiQkJsaWl0RFFCOFRhSEducXBRWlRScF9CZTZwWWpiTDRVQ2VZb3c"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "黃仁勳智慧醫療藍圖成形，台灣硬體供應鏈扮演關鍵支撐角色",
+      "summary": "NVIDIA 執行長黃仁勳近期提出涵蓋 AI 加速運算、數位孿生醫院及智慧診斷的智慧醫療發展藍圖，台灣硬體供應鏈廠商因在 GPU、伺服器及邊緣運算模組領域的深厚實力，被視為實現此藍圖的核心基礎。報導指出，台灣企業正積極切入醫療 AI 基礎設施市場，包括醫療影像加速運算平台、AI 推論伺服器等關鍵元件。對於台灣醫療體系而言，此趨勢意味著本地 AI 醫療硬體生態系統將更為完整，有助於降低醫院建置 AI 基礎設施的成本與技術門檻。醫療機構在評估 AI 系統採購時，可更積極考量本土硬體廠商的解決方案，以強化供應鏈韌性並支持本地醫療科技產業發展。",
+      "tags": [
+        "智慧醫療",
+        "AI基礎設施",
+        "NVIDIA",
+        "台灣產業"
+      ],
+      "author": "未標示（UDN｜2026-07-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51OEVWcWNoTWtUcEtGcXpkVnRwLWVYWHhTWnY5YURUN1dMWHBjMW43RlNJaXVaaFBzNTBUUzhzSV9Lb2s0VENIdk00MUlvcU8yeFoyZFlB0gFWQVVfeXFMTnU4RVZxY2hNa1RwS0ZxemRWdHAtZVhYeFNadjlhRFQ3V0xYcGMxbjdGU0lpdVpoUHM1MFRTOHNJX0tvazRUQ0h2TTQxSW9xTzJ4WjJkWUE"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "醫療 AI 詐欺防範面臨深偽技術新威脅，身分驗證體系亟待升級",
+      "summary": "隨著深偽（Deepfake）技術日趨成熟，醫療 AI 詐欺防範體系正面臨前所未有的挑戰。不法人士已開始利用 AI 生成偽造的醫師身分、病患聲音及醫療文件，試圖滲透電子健康紀錄系統、詐領健保給付或偽造處方資料。傳統基於密碼或靜態生物特徵的身分驗證機制在深偽攻擊面前顯現明顯脆弱性。報導指出，醫療機構需導入多因子認證、行為生物特徵分析及 AI 驅動的異常偵測系統，以建構更具韌性的防護框架。此議題對醫院資訊部門、醫療資安團隊及健保審核單位均具重要警示意義，亟需將深偽威脅納入現有資安風險評估與應對計畫之中。",
+      "tags": [
+        "醫療資安",
+        "深偽技術",
+        "詐欺防範",
+        "身分驗證"
+      ],
+      "author": "未標示（Programming Insider｜2026-07-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2JNWWJacURZVURINlRFTi1BS2NtVE5iQkVHNUFuNmV2SFJRaDM4ZFA2TEhxOXdjbXJWNjZKaGM4LTAwR3c0V0tjRVV2UU9MVXhlWUFKTHJ1UENwSTBTaGQtSG1aRlhrNjRzMHRPeEpTN3E1Z3l0LTlBSEkwcC1Vbk1XZWJxelVLMm9KbkVrQ2pB"
+    },
+    {
+      "rank": 5,
+      "score": 6.0,
+      "title": "國發會主導 AI 送藥到府服務，逾百家藥局攜手打造智慧醫療一條龍",
+      "summary": "台灣國家發展委員會積極推動智慧醫療政策落地，主導建立 AI 輔助藥品配送服務，目前已有逾百家藥局加入合作體系，形成從醫師開立處方、AI 審核用藥安全、智慧揀藥到最後一哩到府配送的完整服務鏈。此一模式透過 AI 進行藥物交互作用審核、個人化用藥提醒及庫存預測，有望提升用藥安全性並改善慢性病患者的藥物順從性。對於醫療機構而言，此政策代表院外照護延伸與院所藥局業務整合的新機遇，同時也涉及醫藥分業規範、個人健康資料保護及跨單位資料互通等配套議題，值得持續關注其政策進展與法規配套設計。",
+      "tags": [
+        "智慧藥局",
+        "到府送藥",
+        "國發會政策",
+        "慢性病管理"
+      ],
+      "author": "未標示（news.cnyes.com｜2026-07-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NVGgzcVlUamNYaXdJOE5RUVJyZElvLUg5TTVJbXVpTGZxUFA0ZDlPaWV0YUgwM1gzYTlJMTd3NURqWFJObmNydGo0MXZpc2s"
+    }
+  ]
+}
