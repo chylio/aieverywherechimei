@@ -1,0 +1,75 @@
+{
+  "date": "2026年07月06日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "AI「幻覺」問題衝擊醫療、學術與法律領域，各行各業拉警報",
+      "summary": "工商時報報導，AI大型語言模型的「幻覺」現象（即模型生成不實或捏造內容）已成為醫療、學術、法律、會計等高度仰賴精確資訊產業的重大隱憂。報導指出，醫療領域尤為高風險，AI若在診斷建議、藥物資訊或臨床摘要中輸出錯誤內容，可能直接危及病患安全。目前多家大型機構已陸續發現AI輔助工具在專業文件生成過程中出現資料錯誤或引用捏造文獻的情形，被形容為「幻覺重災區」。報導呼籲各機構在導入AI工具時，應建立嚴格的人工審核機制與AI輸出驗證流程，避免因過度信任AI判斷而引發重大失誤。對於正積極推動醫療AI應用的各大醫院而言，此議題提醒領導層須正視AI可信度與模型品質管理問題，並在治理制度面加以因應。",
+      "tags": [
+        "AI幻覺",
+        "醫療安全",
+        "AI風險治理",
+        "臨床AI應用"
+      ],
+      "author": "未標示（工商時報｜2026-07-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5bDNRWFZ2TENYYjRRUmRiUG9BcENnbUU0bklxWHY3SkVqN3BRSHZJQ3h1eThJNVVENEJoWVpWZHFrRWlzRkFGVnZtWnhWMVhrc3labHZWQ01weFNDYzY4?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 7.5,
+      "title": "貝萊德：AI醫療變革正在起步，檢測與診斷應用最為成熟",
+      "summary": "香港經濟日報報導，全球最大資產管理公司貝萊德（BlackRock）發布最新研究觀點，指出AI工具對醫療產業的結構性變革才剛開始，長期將轉化為可觀的經濟效益。貝萊德分析師認為，在所有醫療AI應用場景中，以影像辨識為核心的檢測與診斷領域技術成熟度最高，商業落地進展最快，已有多項產品通過監管核准並進入臨床實際使用。報告同時指出，藥物研發、行政流程自動化與個人化醫療等其他應用領域仍處於發展早期，距離大規模商業化仍需時日。貝萊德建議投資人關注具備完整AI臨床數據與監管核准紀錄的醫療科技公司。此報告對醫院資源配置與AI投資優先順序具有重要參考意義，顯示影像診斷AI仍是當前最值得優先投入的醫療AI應用方向。",
+      "tags": [
+        "醫療AI投資",
+        "影像診斷",
+        "產業趨勢",
+        "AI商業化"
+      ],
+      "author": "未標示（香港經濟日報HKET｜2026-07-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRGFxWldsMThnMDJVQUtLc0hlVXNtVHR0Ulo4b04zYkp4MEJucjBxTExvbzBhUTZ2QTB4empTcXIweHRJUlhKdEZ5OVpHVTlZSVlHVTBFaUVsSWE4ZjhGdGhnSnh4NmJ5OGM0WTdNUWpPcmNibkRVY3hKclpITjVhczZ6V2ZxODUtVWRlTU1uX0RnZnFmSGtTMW9zaFZGeFBpcEw5a3ZPYXlLX0Zsbm4zY2VFOHpqcHpZekZoUWUta3lVOFMwQ3YtZDBNVk8ybjNhb29jVTFJMEhNZ0FaYU9HZTZGUkZHdWM5VVF2ZjZBTEZJaUY1Z1ZjUUxodlA?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.0,
+      "title": "醫療AI生產力平台崛起：六年壓縮1,200年工作量，行業拐點已至",
+      "summary": "富途牛牛轉載報導指出，醫療AI已從單點工具演進為具備整合能力的「生產力平台」，業界預估其所帶來的效率提升，相當於在短短六年內壓縮了傳統需耗費1,200年才能完成的醫療工作量。報導分析，這一轉變的關鍵在於大型語言模型（LLM）與多模態AI技術的成熟，使得臨床文件自動化、醫學影像分析、病歷摘要生成等多項任務得以同步整合於統一平台上運行，而非各自獨立部署。報告強調，醫療機構若能在此時機點完成平台級AI基礎建設布局，將在臨床效率與營運成本上取得顯著優勢。對醫院數位轉型團隊而言，此報導提供了從「工具導入」到「平台整合」思維轉型的重要參考，有助於重新定位AI戰略規劃的層次與格局。",
+      "tags": [
+        "醫療AI平台",
+        "生產力提升",
+        "數位轉型",
+        "LLM臨床應用"
+      ],
+      "author": "未標示（富途牛牛｜2026-07-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXNNZTBPdHFpSktQUy1fZkJOWG1ia3hwSUdSV041dHRKcG51U05NdmoyTFFXcWd4NzdhS2xkSVhJRTVaYVdwX3NwdW1yVGFuVjY0cmtwamxzNmNDMUc1SjBZQWZfRTZpS21wM1BMVUVzZjZIR1JwcXJNaHlWa2pUWWtmZmZReXA0MjcyOUgtY2k0RFJLVkJBdlAxcXR5VG8?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 6.5,
+      "title": "韓國機張病院導入AI病床監測系統「thynC」，擴展醫療資源不足地區數位轉型",
+      "summary": "韓國亞洲經濟報導，位於釜山偏遠地區的機張病院（Gijang Hospital）正式引進AI病床監測系統「thynC」，成為韓國推動醫療資源不足地區數位轉型的具體案例。thynC系統可透過感測器持續監測住院病患的生命跡象與床位狀態，並結合AI演算法自動偵測異常，即時通報護理人員，有效降低因人力不足導致的監測疏失風險。機張病院院方表示，導入此系統的主要目的是在護理人力有限的情況下，維持對病患的高品質即時監護，同時積累臨床數據以支持後續AI應用擴展。此案例對同樣面臨護理人力短缺問題的醫療機構具有重要參考價值，顯示AI病床監測技術在資源受限環境下的可行性與實際效益。",
+      "tags": [
+        "AI病床監測",
+        "偏遠醫療",
+        "護理輔助科技",
+        "數位轉型"
+      ],
+      "author": "未標示（아시아경제｜2026-07-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KWlVMaGg1LWFreDlmUGVuYlU0MlNwenNLSGRuUUV3MFIzRTlVOGFyYmlOSXFpdGZDVWVoS1BtanBVUlY1RjkzeGRSMmJ4OURpV2h4WkVUV0dfLW9NOVAySzQwbFgwYU1IZVY5a1dVOXk2QWM?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 4.0,
+      "title": "環球第一銀行金融AI暨醫療大廈舉辦開放參觀日，共議智慧醫療新未來",
+      "summary": "美南新聞報導，環球第一銀行舉辦「金融AI暨醫療大廈開放參觀日」活動，邀請各界參觀其整合金融科技與醫療健康應用的新型建築設施，現場展示AI在金融服務與醫療健康管理領域的多元應用場景。活動聚焦於智慧金融與醫療健康的跨域整合，呈現AI技術如何在兩大產業間創造協同效益，包括健康保險審核自動化、個人健康數據管理及遠端醫療服務等議題。此次活動定位為產業交流與展示性質，吸引業界人士就AI醫療應用的未來發展方向進行對話。整體而言，本則報導偏向企業宣傳性質，實質技術或政策內容有限，對醫院領導層的直接參考價值相對較低，惟其呈現了金融與醫療AI跨域整合的趨勢方向。",
+      "tags": [
+        "智慧醫療",
+        "跨域AI整合",
+        "產業活動",
+        "金融醫療"
+      ],
+      "author": "未標示（美南新聞｜2026-07-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5IWmdWRmdrWTNmZElXa3FvTFFyekkwWlZkWUJtSjkwc1IyYUxsNG04TmdSaTlzQWs0SFZ5ZWtVTnViQkpV?oc=5"
+    }
+  ]
+}
