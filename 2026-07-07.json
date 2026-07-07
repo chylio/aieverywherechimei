@@ -1,0 +1,117 @@
+{
+  "date": "2026年07月07日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "賓州大學醫學院部署 AI 問診代理人，目標釋放醫師時間專注診療",
+      "summary": "賓州大學醫學院（Penn Medicine）宣布將 K Health 的 AI 驅動問診代理人整合至其虛擬基層照護服務中。該系統於病患就診前自動蒐集病史、症狀描述與用藥資訊，讓臨床人員在進入診療環節時已掌握完整背景，從而減少重複性資訊蒐集工作。Penn Medicine 強調，導入目的並非取代醫師判斷，而是將寶貴的醫師時間從繁瑣的資料填寫轉向真正的醫病互動與臨床決策。此舉代表 Agentic AI 在門診流程自動化的又一具體落地案例，尤其適合大型醫學中心在虛擬照護量持續擴增的背景下提升服務效率。對於正積極規劃智慧醫院與虛擬門診的醫療體系而言，此模式具有直接參考價值，也再次驗證 AI 代理人在醫療前端流程的可行性。",
+      "tags": [
+        "Agentic AI",
+        "虛擬門診",
+        "病患問診自動化",
+        "臨床流程優化"
+      ],
+      "author": "未標示（MedCity News｜2026-07-07）",
+      "source_url": "https://medcitynews.com/2026/07/penn-medicine-agentic-ai/"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "Stanford 醫學院：AI 從標準病理切片推斷腫瘤多細胞交互作用",
+      "summary": "Stanford Medicine 研究團隊發表成果，展示透過 AI 模型分析標準蘇木素—伊紅（H&E）染色病理切片，即可推斷腫瘤微環境中各細胞族群的複雜交互作用，無需額外昂貴的空間基因體學實驗。此技術意義重大：現有病理科工作流程毋須大幅改變，即可獲取過去需要高成本多組學實驗方能取得的腫瘤免疫微環境資訊，對於精準腫瘤學的臨床決策與新藥研發均有潛在助益。這項研究也代表 AI 病理學從「影像辨識分類」向「生物機制推斷」的重要躍進，有助於縮短基礎研究與臨床應用之間的落差，未來可能改變腫瘤科醫師評估治療反應與選擇免疫治療方案的方式。",
+      "tags": [
+        "AI病理學",
+        "腫瘤微環境",
+        "精準醫療",
+        "Stanford"
+      ],
+      "author": "未標示（Stanford Medicine｜2026-07-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFa2dPU0YtOXppWFBkeHJkWWFwSGU1UmFvb2M1dmVtb3Jsc01ucmMwOHBGU1lkV1g1Z3M0N0MwV0FvVnBXdG9EQ2dSa1VHQkkwbkNiY2h6S09zaEw1RjY3YU95VmJ4NmtHa1VZQWJiZEM0dHBock1LRjZB"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "醫療 AI 的挑戰不在導入，而在「就緒度」：組織準備程度才是關鍵",
+      "summary": "Unite.AI 一篇深度分析指出，醫療機構在 AI 落地過程中最核心的障礙並非缺乏技術選項或導入意願，而是組織層面的「就緒度」不足，包含數據基礎設施的完整性、臨床工作流程的標準化程度、員工 AI 素養，以及治理與問責框架的建立。文章強調，許多醫院在尚未評估自身準備狀態之前便急於採購 AI 工具，導致投資報酬率低落、臨床人員抵制或安全疑慮浮現。建議醫療領導層在推動 AI 策略時，應優先進行組織就緒度評估，從資料品質、流程再造與人員培訓著手，再逐步擴大技術部署規模，以確保 AI 真正融入照護流程而非流於形式。",
+      "tags": [
+        "AI就緒度",
+        "數位轉型",
+        "醫院管理",
+        "AI治理"
+      ],
+      "author": "未標示（Unite.AI｜2026-07-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tcmpZUDVnMWNtVHZmdmtYdC16RzdVSWtKZ0RwRFdSWHRWRm9zSUI3OWZ0S2kycDZPV2hkNXNGZXIzM2FkTFExTXU2Si1SRm8yQk1rVjdndy1LZ0hlV1hySU5ib2JZZFNVOUJHcXo0bjdfcmpGbzEzNHc2M19Ba0k"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "FDA 警告信揭示製藥 GMP 稽核中 AI 責任歸屬新挑戰",
+      "summary": "PharmTech.com 報導 FDA 近期針對製藥業 AI 應用所發出的警告信（Warning Letter），深入分析其對藥廠 GMP（良好製造規範）合規責任的重大意涵。警告信的核心問題在於：當製藥企業在品質管控流程中使用 AI 工具時，若系統產生錯誤判斷，責任應由廠商、AI 供應商抑或監管機構共同承擔？FDA 的立場傾向於廠商應對 AI 工具的驗證與監督負完全責任，不得以「AI 判斷」作為合規失敗的免責理由。此一監管立場對所有引進 AI 輔助系統的醫療機構與醫材廠商同樣具有參考意義，提示各方須建立完善的 AI 系統驗證文件與問責機制。",
+      "tags": [
+        "FDA監管",
+        "GMP合規",
+        "AI責任歸屬",
+        "醫療AI法規"
+      ],
+      "author": "未標示（PharmTech.com｜2026-07-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnhDVE0xcC1aNVE2STdRNlVleURqMERHT05fRV9wdWt5OXg3MGFrcTFRWHFoSzBaZ1pmVUNkNVdmdDRORGIzVjRfMllVdUFjQVNTMmdicFFTbS15dnJ5ZU1LSEhqYjd5aGJzZ21RRFNnYUpxSFhKbFBGWmRBWWoyRHQ0M0VlT2hrWURjblRWX1c5S3VHNmI0SQ"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "高雄醫學大學論壇：AI 輔助推動「無邊界醫院」概念逐步成形",
+      "summary": "聯合新聞網報導高醫大舉辦的 AI 醫療論壇，與會專家探討 AI 技術如何突破醫院物理邊界，實現「無邊界醫院」願景。論壇聚焦遠距診療、穿戴裝置整合與社區健康管理三大面向，討論 AI 如何協助醫療資源延伸至院外場域，包含居家監測、社區篩檢及跨院資料串接。專家指出，台灣高齡化趨勢加速，單純依賴實體醫院已難以滿足照護需求，AI 輔助的院外照護生態系建置刻不容緩。論壇亦呼籲政府在健保支付制度、個資保護法規及 AI 醫材認證等面向儘速提供配套，以利相關應用加速落地，讓「無邊界醫院」從概念轉化為實際可運作的照護模式。",
+      "tags": [
+        "無邊界醫院",
+        "智慧照護",
+        "遠距醫療",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（UDN｜2026-07-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11Y2l1Y2t4SEdaaDR4T1ZqSzdrWGhlZ1pjWlA3eDMyOWpxUVNQa1JhR0c4ZHI5NUVLQkQ1ZlpZQnB1VlFGX0tjaTg5RkZkVnFC0gFWQVVfeXFMUGpsUFRHZDFsbGkwM2FxaW9kR3NSTEt2NkZ0bWxJb3pyTkJYVGFSS1p1djNUZUpmUEpIY09yRlFnUDVSWkdZRkpISXczWGlHcmRDNDVJdWc"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "韓國盆唐濟生醫院導入 AI 數位診斷檢測系統，提升血液檢測精準度與效率",
+      "summary": "韓國 koreabiomed.com 報導，盆唐濟生醫院正式引進 AI 驅動的數位診斷檢測系統，主要應用於血液檢測自動化分析。該系統結合影像辨識與機器學習技術，能夠減少人工判讀誤差，並大幅縮短檢驗報告回報時間，有助於加速臨床診斷流程。院方表示，此次導入是醫院數位化轉型計畫的一環，預計未來將延伸至其他體液檢測項目。此案例顯示亞洲醫療機構持續加速 AI 臨床檢驗應用，也呼應全球 AI 體外診斷（IVD）市場快速成長趨勢。對於有意強化醫院檢驗科數位能力的醫療體系而言，此實例提供了具體的系統導入參考。",
+      "tags": [
+        "AI體外診斷",
+        "臨床檢驗自動化",
+        "韓國醫療AI",
+        "數位轉型"
+      ],
+      "author": "未標示（koreabiomed.com｜2026-07-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56Vk94U0luWUU1Mzc3di11eFBkZ2t6T3NWMWF6R2NEOXlFN01ZNnhFNHYyRm5wSmY1Wl9nVHhGb2N5dXpjcFdLaUFlbzQ2ekJ5cWI0b3pXTGZRaURKODZzazI0M0p2cy15WXhFRlJ3"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "Oura 智慧戒指攜手 Counsel Health，整合遠距醫療與醫療 AI 服務",
+      "summary": "Healthcare Technology Report 報導，知名穿戴裝置品牌 Oura 宣布與 Counsel Health 建立合作夥伴關係，將遠距醫療諮詢與醫療 AI 功能直接嵌入 Oura 應用程式生態系中。使用者未來可透過 Oura 戒指持續監測的生理數據（如心率變異、睡眠品質、體溫趨勢），直接觸發 AI 健康建議或串接遠距醫師諮詢服務，形成「感測─分析─就醫」的完整閉環。此合作模式代表消費級穿戴裝置向醫療級健康管理平台演進的最新進展，亦是 AI 輔助預防醫學商業化的具體案例。對於正在評估穿戴裝置數據整合入院前篩檢或慢病管理流程的醫療機構，此模式具有前瞻性參考意義。",
+      "tags": [
+        "穿戴裝置",
+        "遠距醫療",
+        "醫療AI平台",
+        "預防醫學"
+      ],
+      "author": "未標示（The Healthcare Technology Report｜2026-07-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeEYxV2RYWUs4T1NKTDdrdmtSVkVEamFVcE5xYUV4SmFHM1pLRHJES3lidWx0RWFCcGpVbmFtN0VvaEVyc1lJZURVcTlFSW1oRVpnLWZmczNMOFZFU3RYRkVFYUc3ZVlpTG1BVVU1U0tLUUxpWE0tc2xFaFpTZkZ0N1JpS1lwd0V1SGFuOUJQMGcxdlplMm13RmNyd1g0Z3ZZcVFoekplOENPdEE5TDBGRg"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "中山大學聯手高雄長庚醫院，2,600 床規模全面導入 AI 研發應用",
+      "summary": "台灣新媒體報導，國立中山大學與高雄長庚紀念醫院正式啟動深度合作，將在高雄長庚 2,600 床的大型醫學中心場域中，共同推動 AI 醫療研究與臨床應用開發。合作內容涵蓋 AI 輔助診斷、臨床數據分析、智慧病房管理及醫療影像判讀等多個面向，並計畫建立跨域研究平台，串接大學端的 AI 技術研發能量與醫院端的真實世界數據。此案例彰顯台灣學研醫三方協作模式的持續深化，也是南台灣醫療 AI 生態系建構的重要里程碑。對於有意尋求學術合作加速 AI 落地的醫療體系，此合作架構提供了可參考的推進模式。",
+      "tags": [
+        "學研醫合作",
+        "台灣醫療AI",
+        "智慧醫院",
+        "AI研發"
+      ],
+      "author": "未標示（新媒體經紀人｜2026-07-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03RFBmUV9xTnpubHZnOTNLOE5WMGJjaklVVmFhNmpBMVduMzBBd2NHbXdpUVMyS0hFTVVzQ0NZbHhsczBCTWNEczhHNkdaVDk0OVRheVZBUkFrcmZ0"
+    }
+  ]
+}
