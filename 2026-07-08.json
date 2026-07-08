@@ -1,0 +1,131 @@
+{
+  "date": "2026年07月08日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "首爾聖母醫院團隊開發 AI 模型，可在治療前預測肝癌患者風險並指引治療方向",
+      "summary": "韓國首爾聖母醫院（Seoul St. Mary's Hospital）研究團隊發表最新成果，開發出一套 AI 模型，能夠在正式治療介入前，針對肝癌患者進行風險預測並提供個人化治療建議。該模型透過整合患者臨床數據與影像資訊，協助醫師在治療決策關鍵節點提前掌握病情走向，提升治療規劃的精準度。此一工具的臨床應用潛力在於縮短決策時間、降低不必要的侵入性檢查，並為高風險患者提供更早期的積極治療機會。肝癌因早期症狀不明顯、預後差異大，治療前風險分層一直是臨床難題，AI 輔助決策支援工具的問世有望改變現行診療流程，對腫瘤科、肝膽腸胃科及放射科均具重要參考價值。",
+      "tags": [
+        "肝癌",
+        "臨床決策支援",
+        "AI預測模型",
+        "腫瘤治療"
+      ],
+      "author": "未標示（아시아경제｜2026-07-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81aUthVzBsaXg3ZmlpWnRkUTRQV290Snc1bl9UUk10OE1obmc2amd2S3pYcEU1dzV2UmNHVWNrQzQwV1dUSlpGLXJjZGd3UTdySFBKU0hzUW1qRnA0Q21SZ2VxUlQyUkI4ZG5hdk4xelZ0Q2s"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "中國核准更多 AI 醫療器材，應用範疇正式擴展至治療領域",
+      "summary": "根據最新報導，中國監管機構近期核准了數項新 AI 醫療器材，且應用場域已從傳統的輔助診斷明顯擴展至治療領域，標誌著 AI 醫療器材監管政策的重要轉折。過去中國 AI 醫材核准多集中於影像判讀、早期篩查等診斷輔助功能，而治療類應用的開放意味著 AI 技術正式進入更高風險、更直接影響病患預後的環節，對全球醫療 AI 產業格局具有深遠影響。此一趨勢也對其他國家監管機構形成參照壓力，如何在鼓勵創新與確保安全性之間取得平衡，將成為各國政策制定的核心挑戰。醫院採購與臨床科主任需留意此類跨境監管動態，以評估未來相關技術引進的可行性與法規風險。",
+      "tags": [
+        "中國監管",
+        "AI醫療器材",
+        "治療應用",
+        "法規政策"
+      ],
+      "author": "未標示（Let's Data Science｜2026-07-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZnAwSHp6ZDZESzdBQjJGOGw2NDdITlhLdG1iWUE1LUhqNjBkV0o0NUhBdmJUaVo2YlBEdE5haU5GeU10eldGYzR6dTQ5b0dPbVBmN0UycllQcjlOU1N0YUpjWjJMZmU3SjA3eGF4V0t2SUQtZWhjSXlZbTFxZjVlWXZJdE0zZmZ5NXNGRXBFREhTSGQ1ZnE0c3h1aVVCWl9WOTdXcw"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "台灣采風智匯 AI 骨質疏鬆輔助分析軟體獲 FDA 上市許可，積極叩關國際市場",
+      "summary": "台灣醫療 AI 新創采風智匯旗下「DeepXray Spina」骨質疏鬆輔助分析軟體正式獲得美國 FDA 上市許可，同時獲得頂尖學術期刊刊登與國際學會認可，達成三重國際認證里程碑。該軟體能從標準 X 光影像中自動分析脊椎骨密度相關指標，輔助臨床醫師進行骨質疏鬆早期篩檢與風險評估，無需額外的骨密度檢測儀器，大幅降低篩查門檻。目前該公司正積極布局紐澳、中東與印太等新興市場，展現台灣醫療 AI 產品在國際市場的競爭力。此一成果對國內放射科與骨科具直接臨床應用參考價值，亦反映台灣醫療 AI 產業在全球監管認證與市場拓展上的進展。",
+      "tags": [
+        "FDA認證",
+        "骨質疏鬆",
+        "台灣醫療AI",
+        "影像分析"
+      ],
+      "author": "未標示（工商時報｜2026-07-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RcUNRVDZxTXN5YlBzY0RyaHJyZjM5TlJhZV94MU9oMnVqTnJnczRGVXNnWnBHOFlhaE4wSFE1TXZ2TGJTVlg5VF9YUE9OUEFfTDZQVVprT3JKbUhyQi1v"
+    },
+    {
+      "rank": 4,
+      "score": 8.0,
+      "title": "AI 放射影像學的新趨勢、現存障礙與未來方向深度解析",
+      "summary": "來自 Diagnostic Imaging 的深度分析報導梳理了 AI 在放射影像領域的最新發展趨勢、當前主要障礙及未來可能方向。文章指出，AI 工具在胸部 X 光、CT、MRI 等影像判讀上的準確度持續提升，已有多項工具通過 FDA 認證進入臨床，但大規模落地仍面臨系統整合困難、工作流程改變阻力、資料標準不一及法規更新速度不足等挑戰。此外，報導也探討了 AI 從輔助偵測走向自主決策的潛在路徑，以及如何透過更嚴謹的臨床試驗設計驗證其真實世界效益。對於正評估或導入放射 AI 工具的醫院影像部門與資訊長，此報導提供了系統性的現況評估框架。",
+      "tags": [
+        "放射影像AI",
+        "臨床落地",
+        "影像判讀",
+        "工作流程"
+      ],
+      "author": "未標示（diagnosticimaging.com｜2026-07-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnpQdlZjYk92T1VIT0hYV3dzUFIzdHRxb1ZMVUVxMk9QSGpzUE9xQWZVUklHcEhPMTJ6UV9LQUQxbTlKdGp2VUpYc1hfcktCWTVUT1ZsT040RmhHeTJHQ3MyOEMwZm40RURrZTZqdXJ6ZU91bWFlR1VYM3JlZ0xtT2ZYbXRvaVVIYTFfMmxPWlU2WFRNVWYtVDdxSC11SVVNYldVV3h3"
+    },
+    {
+      "rank": 5,
+      "score": 8.0,
+      "title": "衛福部莊人祥明確表態：AI 醫療工具必須「有效且負擔得起」方具推廣價值",
+      "summary": "台灣衛生福利部官員莊人祥在公開場合就 AI 醫療發展方向發表重要表態，強調未來 AI 醫療工具的政策審核標準不只看技術能力，更必須同時滿足「臨床有效性」與「財務可近性」兩大條件。此一表態為台灣醫療 AI 的政策走向定下明確基調，意味著主管機關將更嚴格審視 AI 工具的成本效益分析與健保給付可行性，而非單純鼓勵技術創新。這對正規劃引進或自主開發 AI 醫療工具的醫院機構具有重要政策信號意義：產品若無法兼顧可及性，即便技術先進，也可能面臨推廣障礙。此發言也呼應國際間對醫療 AI 公平性（equity）的關注，是近期台灣醫療 AI 政策面最具方向性的官方表態之一。",
+      "tags": [
+        "衛福部",
+        "醫療AI政策",
+        "健保給付",
+        "台灣"
+      ],
+      "author": "未標示（環球生技月刊｜2026-07-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rU0dWeGpaTHRnaWdtRHJiZlZKUktIbXYwOHFvZXhHV1Fmd1dMTjRGQWdpdmlUTVh2RjFWSGZZbW05T0Rnc3ZrVkNzaWUyVkxiWHg3ZVFqQzM3RDMzMXZidWpUUXlSakZt"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "英國肯特郡醫院率先導入 AI 感染識別系統，成為全英首例",
+      "summary": "英國肯特郡一家醫院成為全英首個正式導入 AI 感染識別系統的醫療機構，依據 BBC 報導，該系統能夠即時分析患者生命徵象、血液檢查結果與臨床紀錄，自動偵測疑似感染或敗血症早期跡象，並發出警示通知臨床團隊。感染管控與敗血症早期識別一直是全球醫院共同面臨的患者安全挑戰，延誤診斷往往導致高死亡率與長期住院。此次英國醫院的實際導入案例驗證了 AI 在感染監控領域的臨床可行性，亦為其他有意跟進的醫院提供了真實世界的參考經驗，包括系統整合方式、臨床人員接受度及初步成效評估等面向，具有高度的臨床安全應用參考價值。",
+      "tags": [
+        "感染識別",
+        "患者安全",
+        "AI臨床監控",
+        "敗血症"
+      ],
+      "author": "未標示（BBC｜2026-07-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsZ0VuZ2s4aGwxNGhDdElZMW83ZGR4RXRiN2h5bEotLVN3NFZraU40YkxKa2NYZVR4bXBWdlhpbzh4QVlkdWpkcGlXaW40UU9RbEg2Wmx5QVp0Zw"
+    },
+    {
+      "rank": 7,
+      "score": 7.5,
+      "title": "AI 病理工具可預測罕見癌症免疫治療成功率，具潛力改變用藥決策",
+      "summary": "來自 Clinical Lab Products 的報導指出，一項新開發的 AI 病理分析工具能夠透過分析標準病理切片影像，預測罕見癌症患者接受免疫治療的成功機率。這項技術的意義在於無需額外的基因定序或特殊檢測，僅利用現有常規病理工作流程即可產出預測結果，大幅降低應用門檻。免疫治療費用高昂且並非對所有患者有效，能夠在治療前精準篩選可能獲益的族群，不僅提升臨床療效，也具有顯著的醫療資源配置效益。此工具對腫瘤科、病理科及精準醫療策略規劃均具直接參考價值，也符合目前國際間推動「可預測、可負擔的精準治療」的政策方向。",
+      "tags": [
+        "AI病理",
+        "免疫治療",
+        "罕見癌症",
+        "精準醫療"
+      ],
+      "author": "未標示（Clinical Lab Products｜2026-07-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDhIdW1xYXNKS2d1R3pYWXkzMnNmNWpQbThkQjhuRzFoU1JwNllES0Y1WEtyYXItRmtuNlVMSE9XcjhELWRDVFpPUHZ0NW5wX0dSN0tVSHRIWlItY25ubzZGa3ZHR1VORUdUM2Mta3FxZFFiR21FZmprTzJOc290aklkNWNSeGctUGZsdEdlQmduX29DcWt6VDBOWlB0YXhESGFNT0h6eU10XzIwb3FDU3ZMQ003b2Z3OTBUNVc1MHF4QQ"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "醫療 AI 被忽視的應用場景：供應鏈管理才是最適合 AI 發揮的領域",
+      "summary": "MedCity News 一篇觀點文章提出，醫療機構在推動 AI 應用時往往聚焦於臨床診斷與行政流程，卻忽略了供應鏈管理這個 AI 最能發揮效益的場域。文章論點指出，AI 表現最佳的情境需符合四個條件：問題定義明確、資料密集、作業重複性高、規模超越人力追蹤上限，而醫療供應鏈恰好完全符合這四項標準。醫院耗材管理、藥品庫存預測、設備維護排程等場景，若導入 AI 預測與自動化工具，可大幅降低缺貨風險、減少浪費並優化採購成本。此觀點對醫院行政管理層、採購部門及資訊長在規劃 AI 投資優先順序時，提供了一個值得重新審視的策略角度。",
+      "tags": [
+        "供應鏈管理",
+        "醫院營運",
+        "AI應用策略",
+        "成本優化"
+      ],
+      "author": "未標示（MedCity News｜2026-07-07）",
+      "source_url": "https://medcitynews.com/2026/07/the-ai-use-case-that-healthcare-is-overlooking/"
+    },
+    {
+      "rank": 9,
+      "score": 7.0,
+      "title": "馬偕醫院發表資安防禦白皮書，為 AI 時代醫療數據安全築起防線",
+      "summary": "馬偕紀念醫院發布資安防禦白皮書，針對醫療機構在 AI 數位轉型過程中面臨的資安威脅提出系統性防禦框架。白皮書內容涵蓋電子病歷保護、AI 系統存取控制、醫療物聯網裝置安全管理及員工資安意識培訓等面向，並結合實際醫院場景提出具體防護措施建議。隨著醫院導入越來越多 AI 工具與雲端服務，資料外洩與系統入侵的風險也隨之上升，資安已成為醫療 AI 落地不可忽視的核心議題。此白皮書的發布對國內各醫療機構資訊部門及資安長具有重要參考價值，亦顯示台灣醫院體系在主動建構 AI 時代資安治理框架方面已踏出具體步伐。",
+      "tags": [
+        "醫療資安",
+        "白皮書",
+        "台灣醫院",
+        "AI治理"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-07-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNOWhKXzRoWXN6U0djWHVoSUJNSTJWay1HUFpVWVd1aUdNWEh6V0tic2h5N2E5bE56djktVXJnNk5Menp5QUUwWWZKZWxLb0lVdFNNNXZic2Z2X0VWX21wUWY4cXVYaGEweEVkQm5vcmN1dEI0T0NHY3RaYmlPR1BfQUloUFVBTzRYTVctRHp0U19iLTdfQ1lnTXNvSVR1UXdQQVVfRk9IMnVtUXdIejhNdXZQWjFlU0g2cnNFZGp0MWlSVVpIMHhVaWVSZUVFUkhBbmpoLThoU1NIU2ozdlJxZ1F6Y3VXWlhOTjlmS2tyUUliUVU4RkhMS01FSHhHNzJJSnpJMTV2VE95UnpxbE8yMlVRYkRoSGpROE41TXJPM3Y3anhEeGlNVEN3bGpHb0ItS0lkYXREZGFJTnZPaVlrcE5iLUNPSGlFOGhwekN4UFZBXzA"
+    }
+  ]
+}
