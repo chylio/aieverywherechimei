@@ -1,0 +1,131 @@
+{
+  "date": "2026年07月09日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Nature 重磅：通用細胞嵌入基礎模型問世，以 3,600 萬細胞訓練奠定細胞生物學 AI 基石",
+      "summary": "Nature 於 2026 年 7 月 8 日發表「Universal Cell Embedding」基礎模型研究，該模型以來自數百項實驗、數十種組織及八個物種共 3,600 萬個細胞進行訓練，學習捕捉細胞組織架構與變異規律。此一基礎模型可作為細胞生物學研究的通用平台，為藥物開發、疾病機轉探索及精準醫療提供強大工具。相較於過去針對單一組織或病種訓練的 AI 模型，跨物種、跨組織的大規模預訓練架構大幅提升模型的泛化能力與遷移學習潛力。研究人員認為，此模型可加速識別罕見細胞亞型、預測細胞對藥物的反應，並為單細胞定序資料的標準化分析提供新範式。對醫療機構而言，此類基礎模型有望成為未來臨床 AI 工具的底層技術基礎，尤其在腫瘤學、免疫學及再生醫學領域具高度應用潛力。",
+      "tags": [
+        "基礎模型",
+        "細胞生物學",
+        "精準醫療",
+        "藥物開發"
+      ],
+      "author": "未標示（Nature｜2026-07-08）",
+      "source_url": "https://www.nature.com/articles/s41586-026-10689-z"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI 授權辯論焦點錯置：真正關鍵是醫師對 AI 進入臨床的問責與主導權",
+      "summary": "STAT News 於 2026 年 7 月 8 日刊出 Afnan R. Tariq 與 Ami Bhatt 的評論文章，指出目前醫療界圍繞 AI 授權問題的討論，往往聚焦於 AI 工具是否應取得「執照」，卻忽略了授權制度的核心精神——確立問責主體。作者強調，AI 將深刻重塑醫療實踐，但最終對臨床結果負責的仍是醫師；因此，醫師群體必須主導 AI 進入病人照護的方式與節奏，而非被動接受技術部署。文章呼籲醫療機構與政策制定者重新框架討論方向：與其爭論 AI 是否需要執照，不如建立明確的醫師監督責任機制、臨床 AI 應用的問責框架，以及醫師在 AI 輔助決策中的主體地位。此議題對醫院領導層制定 AI 治理政策具有直接的參考意義。",
+      "tags": [
+        "AI治理",
+        "醫師問責",
+        "臨床AI",
+        "醫療政策"
+      ],
+      "author": "Afnan R. Tariq、Ami Bhatt（STAT News｜2026-07-08）",
+      "source_url": "https://www.statnews.com/2026/07/08/licensing-ai-medicine-physician-responsibility/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "DeepHealth 推出生成式 AI 平台，自動化放射科報告撰寫流程",
+      "summary": "DeepHealth 於 2026 年 7 月 8 日宣布推出專為放射科設計的生成式 AI 平台，目標是自動化影像報告的撰寫流程，大幅縮短放射科醫師出具報告所需時間。該平台整合了大型語言模型與影像辨識技術，能依據影像分析結果自動草擬報告內容，供放射科醫師審閱修訂，預期可顯著提升科室工作效率並降低報告延誤風險。隨著醫療影像量持續增長，放射科人力壓力日益沉重，此類自動化報告工具被視為緩解瓶頸的重要解方之一。此次發布亦呼應了近期放射 AI 市場快速擴張的趨勢，包括 PACS 系統整合、AI 輔助判讀及報告自動化已逐步成為各大醫療機構數位轉型的核心項目。",
+      "tags": [
+        "放射科AI",
+        "生成式AI",
+        "報告自動化",
+        "影像醫學"
+      ],
+      "author": "未標示（The Healthcare Technology Report｜2026-07-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVDV3dy0tUG1iVER3OXZUS3JpX2VjQzg0aE9adHJwdVNLRWNxZ3VXY0hIUURQX0NESmdWelh6ZUJhT2FyVmxTVVYzSmtPTnR3YkJfNmxzMnFjeFpiXzVPTUlfMHhaRUVVTWZ3bGlNWU1qd0xQZ2pJY0lvOFZWMi14aWd4TVJHNjRZZHlRVGNsdnlpODc2NmRvQi1ZOV90RjJmQ3JhbUtRWjd3d2UtdndHNG13MGk1OEdZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "Nature 發表人形機器人外科手術可行性研究：遠端操控腹腔鏡任務首獲系統性驗證",
+      "summary": "Nature 於 2026 年 7 月 8 日發表一項人形機器人應用於外科手術的體內可行性研究，透過系統性評估顯示，現有人形機器人可藉由遠端操控執行腹腔鏡手術任務，驗證了其技術可行性。研究同時揭示了在臨床部署前仍需克服的關鍵挑戰，包括操作精準度、感測器回饋延遲及機械穩定性等問題。此研究意義在於首次以嚴謹科學方式評估通用人形機器人（而非專用手術機器人）執行外科操作的潛力，為手術機器人技術的未來發展開闢新方向。對醫療機構而言，此類研究預示著未來手術室可能引入更具彈性的機器人輔助系統，但距離實際臨床應用仍需解決安全性、法規認證及人機協作等多重課題。",
+      "tags": [
+        "手術機器人",
+        "人形機器人",
+        "腹腔鏡",
+        "臨床技術"
+      ],
+      "author": "未標示（Nature｜2026-07-08）",
+      "source_url": "https://www.nature.com/articles/s41586-026-10796-x"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "台灣安特羅推動川崎症 AI 輔助診斷系統，完成 QMS 建置並啟動法規送件",
+      "summary": "台灣新創公司安特羅宣布，其川崎症 AI 輔助診斷系統已完成品質管理系統（QMS）建置，並正式啟動法規送件程序，邁向醫材上市認證的關鍵一步。川崎症為好發於五歲以下兒童的急性血管炎，早期診斷困難、延誤診治易引發冠狀動脈病變等嚴重後遺症，AI 輔助診斷工具的引入有望提升基層與急診醫師的早期識別能力。此一系統的推進標誌著台灣醫療 AI 新創在小兒科稀有疾病領域的突破，也反映出國內醫療 AI 監管環境逐步成熟、法規路徑漸趨清晰的發展態勢。對臨床端而言，AI 輔助診斷若能獲得主管機關核准，可望降低川崎症漏診率並縮短確診時程。",
+      "tags": [
+        "川崎症",
+        "AI輔助診斷",
+        "台灣醫療AI",
+        "法規送件"
+      ],
+      "author": "未標示（經濟日報｜2026-07-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXSktJTElZcVNzYW1lRUYxc3ROZHdTeS1mN2R6UldwVUxVcWQ2T2RBQlpJRGFCV09VR0xaSllwbUprUjVvVFd4dzA2bGU5OURySUx1VjZsZmtjME3SAWBBVV95cUxQUVZBYjBvTDhRU3NtXzVfSWtqWW1UcVFJQ0lnbld4ODlHdTYxQmtIYXMtTk05T2ZpSjBsMF9JNnRlRHFlcXRHLUY5UUdvRllkQUd0N0xnazY2U25aS0d5UVY?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "CorePlus 將 AI 前列腺癌風險分層工具整合至數位病理診斷流程，波多黎各率先落地",
+      "summary": "CorePlus 宣布將 AI 驅動的前列腺癌風險分層工具正式整合至其數位病理診斷工作流程，成為波多黎各首家採用此技術的醫療機構。該工具能依據數位病理切片自動進行風險評估與分層，協助病理科醫師更精準地判斷腫瘤惡性程度，進而指引後續治療決策。此整合案例展示了 AI 病理工具從研發走向臨床落地的實際路徑，也印證了數位病理平台與 AI 風險分層模型結合的可行性。對有意導入 AI 病理輔助系統的醫療機構而言，此案例提供了工作流程整合、臨床驗證及機構採購決策的參考依據，尤其在前列腺癌為高盛行率癌症的亞太地區市場，此類工具的推廣潛力值得關注。",
+      "tags": [
+        "數位病理",
+        "前列腺癌",
+        "AI風險分層",
+        "臨床落地"
+      ],
+      "author": "未標示（Imaging Technology News｜2026-07-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaFdTX2ZRU1BoT1ZGbDdsTHBTWk1FbUdtSlJ1UEtuNThiTWN2NkRqbjFTVlZlQ3dlYVNBWWJ6T3daVno5RENwX3BNc3U1Z2ZRTmROUWVtX2VxY0tyUjlxczdOWUYxOElzSzJVYTdQSnpmTEE3Z3pGR1MyTVBBTTM3NUxvSEJGMEUxR1BVVm9fQlFaaEc4NFJxQUtEUEZWeUFuc0o3cWh0bjNWb2RzcW5ETktiRXRSMUNkTWJLaTQ1elk?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "MIDL 2026 全球醫學影像 AI 盛會首度登陸亞洲，台灣接待 58 國頂尖專家",
+      "summary": "全球頂尖醫學影像深度學習研討會 MIDL（Medical Imaging with Deep Learning）2026 年首度移師亞洲，落腳台灣舉辦，吸引來自 58 個國家的醫學影像 AI 領域頂尖學者與產業專家與會。MIDL 是國際醫學影像 AI 研究的重要學術平台，歷年發表的研究成果對放射科、病理科及影像診斷工具的技術演進具有深遠影響。此次會議在台灣舉辦，不僅彰顯台灣在醫療 AI 研究與產業發展上的國際能見度，更為本地醫療機構、學術機構及新創企業提供接觸最新技術趨勢、拓展國際合作網絡的難得契機。對奇美醫療體系而言，此一學術盛會所呈現的前沿技術方向，可作為規劃中長期影像 AI 導入策略的重要參考。",
+      "tags": [
+        "醫學影像AI",
+        "MIDL",
+        "台灣醫療AI",
+        "國際學術"
+      ],
+      "author": "未標示（環球生技月刊｜2026-07-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkLVZNbkFYSDVqM2ZMSldJYUtuZkU0VXM0SWQ4SE14dFJVZ1YxRmkyRDVEaWZKbjFXS3dlTjE1VGlsNk1XY0pfNGZuNy1acGh4dUpaek9JR3Q0bUpkT2pkRU05TVQ5bUpr?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "員榮醫院 AI 智慧排班系統 25 秒完成護理班表，智慧醫療實績令人驚豔",
+      "summary": "台灣員榮醫院發布消息指出，其導入的 AI 智慧排班系統已能在 25 秒內自動完成護理人員班表規劃，大幅縮短過去人工排班所需的數小時甚至數天時間。此系統透過 AI 演算法綜合考量護理師的班別偏好、法規限制、科室需求及人力配置等多重條件，自動生成符合規範且兼顧人員需求的班表。在護理人力短缺與排班管理壓力持續升高的醫療環境下，此類 AI 行政工具的成功落地，展示了 AI 在非臨床但高度影響運營效率領域的實用價值。此案例對面臨相同護理排班挑戰的醫療機構具有直接的參考與借鑑意義，也呈現 AI 在醫院營運管理層面的具體效益。",
+      "tags": [
+        "AI排班",
+        "護理管理",
+        "智慧醫療",
+        "醫院營運"
+      ],
+      "author": "未標示（台灣好新聞｜2026-07-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPUDRmS3dPOGo5WkEtYkxDOEt1VFJhTGxaQkg3UkVrX2pzVUNnMzdxbGxidmJyME9mSW5SZWc0Vm1Kal9RcmwxU3hDV2t2dGtibXBCNGM3eFNZZS1veUJxeWZJVTdhbS1GdHltSkRrTnktNjFyV3lwZzV3aFdTd1ZLeUd0bkFwaDlhbjhTMTA4YWlzbUNYbG9qY00yX3o0enlDMEJFTm40VW5rYmdIejVJZDdDVFdsY0FLTEtIRW9ySG5Wcm9VcVdjT0MxMWxOWndNU2d6V2tPSDFyT1FleTJERFlXMXlnYXJzYTFVWE9kOXBnLS1yV2xpVFAtLWtBemNBOFVEZ2pDeUdOWjVtc3NyYThkNU1ETEpReVZLa0pTMlZlRF9NVVJ1eTg4R0htVXowNlpPLVowTGxzZk5WX1JxakdaVHVzRlRiRWlFWHlDaDdtVVk?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "前梅約診所員工控訴遭報復：因揭露 AI 系統使用疑慮而遭醫院打壓",
+      "summary": "美國梅約診所（Mayo Clinic）一名前員工對院方提起訴訟，指控其因揭露醫院 AI 系統的使用問題而遭受報復性對待，包括職場不公平處置乃至解僱。此案引發醫療界對 AI 內部監督機制與員工申訴管道的廣泛關注。隨著醫療機構加速導入 AI 輔助工具，如何建立健全的內部通報（whistleblowing）制度、確保員工能安全揭露 AI 應用中的潛在風險，已成為醫療 AI 治理的重要課題。此案亦凸顯醫療機構在追求 AI 效率的同時，必須同步建構透明的問責文化與申訴保護機制，方能有效管理 AI 導入帶來的組織與法律風險。",
+      "tags": [
+        "AI治理",
+        "醫院管理",
+        "內部監督",
+        "法律風險"
+      ],
+      "author": "未標示（kare11.com｜2026-07-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSmhoSjhMdmwzaHliSk5Za3JEVGlOd2FjS3ExNUdzS282WnVmOVZQTFlrSlh6dWxQbU9mM3U2T2xJWWt6RDYzc2J1dU93QmFlN0xNbGtUV3NUVVJGRmlObDh5VTcySHJaWFFOMWVsS0FsTU1sVTlobTVZTDZjUzY1R1Iyazh0QWxYNm9teVFUTm9QYjdkT1RKRWxfaWNOR0szRk1oRVlscVVNejhOQ3Z0Q0JkbDRuTFFTOVVFcHNmTy1CdVM0ajhTcms1VUVkN3lRUGZaRTJoWk9MRFAtVzRHTmhDYU5Sa1pxN0VDZnF3M1doYVBVcWtXR29nWHcxOEM5TlpR?oc=5"
+    }
+  ]
+}
