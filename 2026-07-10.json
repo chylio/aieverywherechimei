@@ -1,0 +1,117 @@
+{
+  "date": "2026年07月10日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "醫療 AI 訓練資料隱私危機：患者身份可被近乎完美地還原，研究示警",
+      "summary": "一項最新研究發現，醫療 AI 模型訓練所使用的資料中，患者個人身份資訊可以被以近乎完美的準確率重新識別，揭示現行醫療 AI 開發過程中資料匿名化措施的嚴重不足。研究指出，不同患者族群所面臨的資料暴露風險存在顯著差異，部分弱勢族群遭受更高程度的隱私威脅。這一發現對醫院、研究機構及 AI 開發商在資料治理、隱私保護合規與倫理審查方面提出新的緊迫挑戰，同時也對監管機構如何制定醫療 AI 資料使用規範具有重要政策意涵。該研究結果已在醫療健康科技領域引發廣泛關注，促使業界重新審視訓練資料集的去識別化標準與安全機制，對正在建置或採購 AI 系統的醫療機構具有高度參考價值。",
+      "tags": [
+        "醫療AI隱私",
+        "資料安全",
+        "AI倫理",
+        "法規合規"
+      ],
+      "author": "未標示（Medical Daily｜2026-07-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTlVQVjZVeXBYQTRJWk1saXFpTnlIZjdPbUcxdElBMHo5Zm1NZ1dwX1hFWlpmTjNNb3lIbFYtNEVyLXJSaDNyOFVCcmpJd0QtbkFEWTQtNlRQbHNNQzJlRFhyeW82bUNhYS14bjZSVllUU3oyb0VPUUtVVGs5TnFhX1FSUjJ4cUFiT1hLeURHM1I1ZEw2bjJaZnB6MXlLdWxYUnhFRG9RbDdtUFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "OpenEvidence 在臨床 AI 競評中勝出：專科醫療 LLM 表現優於通用模型",
+      "summary": "醫療專用 AI 平台 OpenEvidence 資助的一項研究顯示，其針對臨床情境優化的大型語言模型（LLM）在回答醫療問題的準確性、可信度與引用品質上，明顯優於 GPT-4 等通用 LLM。此研究在 STAT News 健康科技週報中被重點報導，同時引發外界對廠商資助研究客觀性的討論。儘管資金來源引發透明度疑慮，報告中所呈現的系統性比較方法仍具一定參考價值。對醫療機構而言，此研究凸顯採購臨床 AI 工具時進行嚴謹獨立評估的重要性，也提示醫院資訊部門在評估各類醫療 LLM 產品時應審慎看待廠商自行發布的效能數據，並要求提供外部驗證佐證。",
+      "tags": [
+        "臨床LLM",
+        "醫療AI評估",
+        "OpenEvidence",
+        "AI採購"
+      ],
+      "author": "未標示（STAT News｜2026-07-09）",
+      "source_url": "https://www.statnews.com/2026/07/09/openevidence-backs-study-that-finds-it-beats-llms-health-tech/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "AI 乳癌復發預測工具可從標準病理切片判讀風險，無需額外檢測",
+      "summary": "一項發表於放射藥學領域的研究指出，新型 AI 工具能夠直接分析標準 H&E 染色病理切片，以高準確率預測乳癌術後復發風險，無需額外進行基因檢測或特殊染色程序。此技術若廣泛落地，將大幅降低乳癌預後評估的成本與等待時間，使更多患者得以在早期獲得個人化治療決策依據。對醫院病理科與腫瘤科而言，這類 AI 輔助工具代表一種以現有基礎設施即可部署的低門檻臨床升級路徑。目前該工具尚待更大規模多中心臨床驗證，但其作為常規病理 AI 應用的潛力已獲業界高度關注，亦符合當前影像 AI 朝向臨床決策支援深化整合的趨勢。",
+      "tags": [
+        "乳癌AI",
+        "數位病理",
+        "臨床決策支援",
+        "腫瘤AI"
+      ],
+      "author": "未標示（Pharmacy Times｜2026-07-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbW14RTlYYlgxYkZ1WTgwNEc0cnAxV2ExdFI2dFZQX1AzUE5iZnctcEx5WlBIWVhUU2JkYk1yUTkzMlA2c1haZjM3NHZlWDhtbHZrRUxFQ2FIbS04TnNNNW8wQjNrMklCczhqTERTZDl4RjZBV2FEejJjRUNTRk1uXzliZHlUekZqU0hYeUoybHJhX2ZjRzJ0T1BpNktfY1p4UjE3cjVTbEM2aHFy?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.0,
+      "title": "醫療 AI 偏見研究新警示：紙面上偏差小，實際臨床應用偏差卻更大",
+      "summary": "Medical Xpress 報導一項新研究揭示，部分醫療 AI 系統在標準化測試指標上顯示偏差程度較低，但在真實臨床場景部署後，對不同種族、性別或社經背景患者所產生的差異化影響卻明顯放大。研究指出，現行 AI 效能評估框架過度依賴靜態資料集測試，無法充分捕捉動態臨床決策中的系統性偏差。此發現對醫院 AI 治理委員會、數位轉型團隊及主管機關均具重要參考意義，提示在 AI 工具上線後應持續進行真實世界效能監測，特別是針對弱勢族群的健康公平性指標追蹤，以確保 AI 輔助決策不會加劇現有醫療不平等問題。",
+      "tags": [
+        "AI偏見",
+        "健康公平性",
+        "AI治理",
+        "臨床AI評估"
+      ],
+      "author": "未標示（Medical Xpress｜2026-07-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLWctU0cwYXNoWUJLRmxUYmtiMHNKV0RaWDkxc0ZiSHd3VzkwWmFxN0szSVhkcXNURHJZcV9TSkdKWXVnbC1tZ19XZGg3X3pZREFsOFNRY0g4NDZrRzl3UjRBN0pVekc4aV8yR0ZKanhfWTN2MEJBZ29xbTRBWUNyWNIBgAFBVV95cUxQLWctU0cwYXNoWUJLRmxUYmtiMHNKV0RaWDkxc0ZiSHd3VzkwWmFxN0szSVhkcXNURHJZcV9TSkdKWXVnbC1tZ19XZGg3X3pZREFsOFNRY0g4NDZrRzl3UjRBN0pVekc4aV8yR0ZKanhfWTN2MEJBZ29xbTRBWUNyWA?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "Mayo Clinic 前主管提起訴訟，指控因揭露 AI 使用風險遭醫院打壓報復",
+      "summary": "一名前 Mayo Clinic 高階主管向法院提起訴訟，指控其因內部揭露醫院 AI 系統在患者照護與隱私保護方面的潛在風險，而遭到醫療機構的報復性處分。此案為迄今醫療院所 AI 治理爭議中最受矚目的法律行動之一，涉及醫院對 AI 工具的採購決策透明度、吹哨者保護機制以及內部 AI 風險揭露文化等多個層面。訴訟詳情正由 kare11.com 等媒體持續追蹤，預計將對業界如何建立 AI 風險回報管道、保護內部稽核人員產生深遠影響，亦可能引發監管機構對醫療機構 AI 使用揭露義務的重新審視。",
+      "tags": [
+        "AI治理",
+        "吹哨者保護",
+        "Mayo Clinic",
+        "醫療AI法律"
+      ],
+      "author": "未標示（kare11.com｜2026-07-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNUUNMZEcxOVhucVRSWFdaS3FGSkVZaEg5emRMdHpqNnNiYkJabXNoM1Vjc0pBTjczLWpjWnh3Wk1xVlRMLUtYYlJoNXFPR09iU3hsLU5PVE5wc3NpYVVPSDl3WjVYSzduUjBlSmI3STVqMkFMdVJKczNsVGZEVHVDb2Q4RXY1OVpCMzJwSzRjNkVmM2o3VEI5WnhxMzNWY05mbjJqZFh5bXZCaDA4bk1HRXVuZEdHb1JZTXFNbzR1cFg1bUg1b09MV1M2MDh1VmlhZ0dZZkxIOUlnaVQ2ZG5uV29hbnJjVnJnbllfWVBFZUVpWVI1Q2dTWWpndTZER05HbEE?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "BD 攜手 AI 預測醫院藥品需求，力求模型邊界可控以確保安全部署",
+      "summary": "醫療器材與診斷大廠 BD（Becton, Dickinson and Company）正推進以 AI 預測醫院藥品需求的計畫，目標是透過機器學習模型分析供應鏈數據，提前預警藥品短缺風險並優化庫存管理。值得注意的是，BD 特別強調在模型設計上設定明確的運作邊界，防止 AI 在超出訓練資料範圍的情境下做出不可靠的預測，以確保模型安全可控。此案例示範了醫療機構如何在引入 AI 提升營運效率的同時，透過「模型邊界管理」降低系統失效風險，對醫院資訊部門及供應鏈管理團隊具有直接的實務參考價值。",
+      "tags": [
+        "供應鏈AI",
+        "藥品需求預測",
+        "AI模型治理",
+        "醫院營運"
+      ],
+      "author": "未標示（R&D World｜2026-07-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU1Y5RDd5UTJvcmw0UUQxbmM2Qm92LVRLWkEzemFaQUY3bi1pcW5NVGFPUkEySWpENEtlY1VxWmlxT1VyOUU1djVXTVo2QUhLcXNjSm4zdG5lS3RjRTBlREJDVUVJYW1WZFBta0xkS3dOdEpCY3o0MF9RYlNZdlYtazd4QXM3SlNIRi1MNVo2bFhYamJXN29OVmZyMzV5ajFJMWhCN21EVDZEYVpuczdQSnRCbTh1LWVLVGpQa09UUQ?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "Google 宣示在台灣下一個二十年發展重心：聚焦 AI 醫療與健康應用",
+      "summary": "Google 在台灣耕耘二十年之際，正式宣示將 AI 醫療健康列為未來重點發展方向。根據中央廣播電台報導，Google 計畫在台灣深化與醫療機構及健康照護產業的合作，涵蓋醫學影像判讀、臨床決策輔助、健康數據分析等多元應用領域。此一戰略聲明對台灣醫療生態系統具有重要意義，一方面意味著國際科技巨頭將持續挹注資源於本地醫療 AI 發展，另一方面也預示台灣醫療機構將有更多機會接觸前沿 AI 工具與合作資源。對醫院領導層而言，此趨勢值得密切關注，並評估如何在政策框架下與國際平台建立具實質效益的合作關係。",
+      "tags": [
+        "Google醫療AI",
+        "台灣醫療AI",
+        "數位健康",
+        "國際合作"
+      ],
+      "author": "未標示（rti.org.tw｜2026-07-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HY3dhUk81aTd5N3czaWlUTzcyVFRTQlgwUkUzQnpBSUVvOGpBTjVNZ3pkcnNCZ0d4Z2FVaUI3VXVvRmZydFpIMFdRakp6MzRrNlBnNll5NA?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "醫療 AI 的下一道難關：可靠性，而非導入率",
+      "summary": "SmartBrief 刊載分析指出，醫療 AI 當前面臨的核心挑戰已從「如何讓醫院採用 AI」轉變為「如何確保 AI 在臨床環境中持續穩定可靠地運作」。文章指出，許多已導入 AI 工具的機構在實際使用後發現，模型在訓練環境外的真實臨床場景中表現不穩，甚至出現不可預期的錯誤，導致臨床人員對工具的信任度下降。提升 AI 可靠性需要從資料品質管理、模型持續監測、臨床反饋迴路建立等多面向著手，並且需要資訊部門與臨床科室的密切協作。此觀點與目前國際醫療 AI 治理趨勢高度吻合，對正處於 AI 工具規模化階段的醫療機構具有重要參考意義。",
+      "tags": [
+        "AI可靠性",
+        "醫療AI治理",
+        "臨床AI導入",
+        "AI品質管理"
+      ],
+      "author": "未標示（SmartBrief｜2026-07-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVBVRVU1UzdlbmcwalBGUGlYeTFXRXc5dUpHVHY2UlNrV3BoWFFRTHdxVlRTNnljVHp6VUdLX1Z2b25TZmdxTE1WanhLTHNlRXIzNVRfaVFEN0lmT2JHYzFlWjVWdjRERHBTNEZmNnZ4SjVqYjR2VVIxQ21zaEZaQmJSOHFrZUZlNVpiSVI1RGRWVTIzYzFOSTZ0UQ?oc=5"
+    }
+  ]
+}
