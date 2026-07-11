@@ -1,0 +1,117 @@
+{
+  "date": "2026年07月11日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "放射科 AI 財務效益評估框架：從理論到實踐的務實指引",
+      "summary": "Radiology Business 發布一篇針對放射科 AI 財務影響評估的實務框架文章，探討醫院與放射科在導入 AI 工具時，應如何系統性地計算投資回報、量化效益與控制成本。文章指出，現行許多機構在評估 AI 財務價值時缺乏一致方法論，導致決策難以比較或追蹤。該框架提出從工作流程效率、人力時間節省、報告品質提升及錯誤減少等多維度切入，建立可量化的評估指標。此一議題對於醫院領導層與資訊部門在採購與部署 AI 解決方案時具有直接參考價值，有助於在預算壓力下做出更具依據的投資決策，也為各科主任提供與管理層溝通 AI 導入必要性的語言與工具。",
+      "tags": [
+        "放射科AI",
+        "財務評估",
+        "AI導入",
+        "醫院管理"
+      ],
+      "author": "未標示（Radiology Business｜2026-07-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcl9rSUo2bVk1NTRrRkFSeWFwT0QyMGhjeFBSRWRuMnEtaFU2UnhLWXVCR3BBRzZmWTc5MXg2NmlMQUZTNXYxU2dNTGg0LWtZWmJpWFV0S21hZ3MtcGJFcW4zc0FYaU05YlhoT09FRnh0N1F3WDN4eFMwelFzRDZacTl3T3Z0OTJDN1gzU0hsZFVqZkZnNHZ3dUN4VDV1cXhsa05wSjZsaG9jbU1fMHNWR2F2dXZvaVVvZGVjV1R3?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "兒科放射 AI 使用率持續成長，但訓練資料不足問題仍待解決",
+      "summary": "European Medical Journal 報導指出，兒科放射科在 AI 輔助診斷工具的採用率正逐步提升，然而受限於兒童醫學影像資料集規模遠小於成人，模型訓練資料嚴重不足的問題成為主要瓶頸。報告分析多國兒科放射部門導入 AI 的現況，發現雖有醫院已將 AI 應用於骨齡判讀、肺炎偵測與骨折識別等場景，但由於缺乏大規模高品質兒童影像標註資料，模型準確率與泛化能力仍顯不足。文章呼籲醫療機構、學術單位與政府應協力建立兒科影像資料共享機制，並在 AI 產品驗證時將兒科族群納入必要測試要求，以確保 AI 工具在兒童患者中的安全性與適用性。",
+      "tags": [
+        "兒科放射",
+        "AI影像診斷",
+        "資料缺口",
+        "醫療AI監管"
+      ],
+      "author": "未標示（European Medical Journal｜2026-07-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmFyRjRBa2VWNjdxSjJWQmNXYkRBZW91NzdSQVVKVlFRcWh3akRNNm1EV1BGT0tHZ09DZWRqazBhdzJHUE5yb3UtQVZQUHVGczhVSTVLWFpyVWlIbzdXazQ4YXhlbzkzdDJMVHRHWGpyWjBJNGtFYXdxaFRGVVdUM1Voby1NYXR6X2JLREpBWGZYY0tSVTRaSzRPU0dldWox?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "高雄醫學大學附設醫院舉辦 AI 創新高峰會，聚焦韌性醫療與智慧轉型",
+      "summary": "高雄醫學大學附設醫院（高醫）近日舉辦 AI 創新高峰會，以「韌性醫療革命」為主題，探討 AI Agent 技術如何重塑未來醫院的運作模式。會議聚焦於智慧醫療新紀元的落地策略，包含 AI 在臨床決策支援、智慧排程、病患安全監控及醫療資源調配等面向的實際應用。高醫作為台灣南部重要醫學中心，此次高峰會匯集醫療、資訊與產業各界代表，共同討論如何在資源有限的環境下透過 AI 技術強化醫院韌性與應變能力。相關成果與案例對台灣其他醫療機構在規劃 AI 數位轉型路徑時具有參考意義，亦反映台灣醫院對 AI 整合應用的積極態度正逐步從概念走向實踐。",
+      "tags": [
+        "台灣醫療AI",
+        "智慧醫院",
+        "數位轉型",
+        "AI高峰會"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-07-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPbE0wVEhiTzFYcGdiYzI5LUVqc2dNczltRXZ0ZEY2blRaaTBBV2pwdWdpLVFJaDdxRjJmUkFncm1JMmNXN3FzMFpBREhicUVJVUpvalY3cVBGSFVXc2NRNE1NZ0prZkxXTWlvWF9PZEdwQkhHWHl4VXFLY1Vuc3R2bTR6T3NiMjhUX3k4MnpEQzZIU2ZJNW5GOHhjSWRKZDB5cVJuektXUmhOdHhBQUllOXdQZ25lNG1sZEI2elhQWlpIbVRQdXVjdU9Ba2VMa0tWTng5akt0b3RvWlZ6bUI1d3JtRERuQ3ZlV2V0N1hzeHBRQnZxakJBZ2VvaE5ORUpIS0pMN3dVZGRTOTN4aFZSNUVSSVI1ZGNX?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "醫療 AI 的真正驅動力是信任：從技術採購到文化建立的核心挑戰",
+      "summary": "Africa Business Communities 刊登評論文章，作者 Henry Adams 指出醫療 AI 能否在臨床環境真正落地，關鍵不在於技術本身，而在於能否建立醫師、患者與機構之間的信任基礎。文章分析，許多醫院在導入 AI 工具後，使用率遠低於預期，主要原因包括：臨床人員對 AI 輸出缺乏理解與信心、演算法透明度不足、以及機構對 AI 建議的法律責任歸屬不明確。作者強調，信任的建立需要透過持續的教育訓練、清晰的臨床決策說明介面，以及醫師對 AI 使用的實質主導權來達成。這一論點與近期全球多起 AI 臨床導入遇到阻力的案例相呼應，對醫院領導層在推動 AI 文化變革時具有重要的啟發性背景。",
+      "tags": [
+        "醫療AI信任",
+        "臨床AI導入",
+        "AI治理",
+        "組織文化"
+      ],
+      "author": "Henry Adams（Africa Business Communities｜2026-07-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPclJ2TXRYYV9FVkZtZk1UNDRIQ0Z6ZndYYllNMFJkMTdmTUw1eUttQ3Vld3lMX2s0UF9BNUYxeWFIZDJVX2w1ZnpYYnlWcWI0em93TlAwWkJfMzB5bEtoakF6ZGZ0bVp2cnNFN0N4eFY4c2V3bHplUnZPZUY0N1ExUlFXd3dwRG9xdjdiTmRPQ3dtNEd3QktZTEduenVpSDIxZFlNNmlFbENrOFROa3c?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "醫院擴充 AI 平台面臨重重挑戰：規模化落地比預期困難許多",
+      "summary": "Healthcare IT News 在 HIMSSCast Podcast 中深度探討醫院在擴充 AI 應用規模時所遭遇的現實困境。受訪的醫療資訊主管指出，單一部門的 AI 試驗成功，並不代表全機構規模化可以順利複製，常見障礙包括：現有 IT 基礎架構整合困難、各部門工作流程差異導致模型適用性降低、缺乏足夠的 AI 治理框架，以及臨床人員培訓資源不足。報導特別強調，醫院在制定 AI 策略時，往往低估了資料品質管理與跨系統互通的複雜度。對於正在規劃或已部分導入 AI 的醫療機構而言，此議題直接點出從概念驗證走向全面部署之間的「執行落差」，具有高度實務參考價值。",
+      "tags": [
+        "AI規模化",
+        "醫院資訊化",
+        "AI治理",
+        "數位轉型挑戰"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-07-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVU5Ea1RuWmZEbE1JVTJ6d1J4QTJDODFhNXFFQURKbGVKWnZjbzh3MFVqNHpuNkJNcTJPdk9rZmRxQmhhVVE2b0paYUs0aEk5NUMtalN6UGpfQXI1SklpeWE0bDRGQzBtWG1uQTMtckNZQ0NiQWk1SkdBWmN2bE9GZVdlaTNySk5aZWhfakNqcFFTREVkSWlz?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "醫療 AI 的價值衡量不能只看 ROI：更全面的效益評估框架刻不容緩",
+      "summary": "MobiHealthNews 發表分析文章，指出目前醫療機構在評估 AI 導入成效時，過度依賴財務投資報酬率（ROI）作為單一指標，忽略了 AI 在臨床品質、病患安全、醫護人員工作滿意度及醫院聲譽等非財務面向的實質貢獻。文章引用多項研究與醫院案例，說明僅以 ROI 衡量醫療 AI 價值，可能導致有效工具因短期財務回報不明顯而遭棄置，或是風險較高的工具因帳面數字亮眼而被過度推廣。作者建議醫院建立多維度的 AI 評估框架，涵蓋臨床結果改善、工作流程優化、資料品質提升及長期策略定位等面向，以更全面、負責任的方式衡量 AI 在醫療生態系中的真實價值。",
+      "tags": [
+        "AI效益評估",
+        "醫療AI策略",
+        "醫院管理",
+        "ROI"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-07-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVnVPX2sxSngyeUI0ZDc0VkFJUXBoUERzNDJ2cFBfQ2RzVUdtVGoySXlubTVzUmV0NTVLdEtQZXBmTk5ndEFtSkRVYVJzQkprOVFWdTlCODFsMFNEWHpYdmVvRmFMcEhDVnJnSXBieC1VTndyaVVmNnI5MjRaZVcxVmFyN0tjSDg?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "Nature 評析：哪一款「AI 科學家」最適合你的實驗室？",
+      "summary": "Nature 發表一篇針對科學研究用 AI 工具的比較評析，聚焦於 Claude Science 等通用型 AI 科學助手如何加速研究流程，並提供研究人員選用建議。文章指出，隨著 AI 科學助手功能日益強大，涵蓋文獻整理、假說生成、資料分析與論文草稿撰寫等功能，研究機構面臨如何選擇最適工具的困境。評析從任務適配性、資料隱私、模型可解釋性及使用成本等角度切入，協助不同研究場景的實驗室做出更具根據的選擇。雖然此篇主要針對基礎科學研究，但對於醫院研究部門、臨床試驗團隊及醫學教育單位在評估 AI 輔助研究工具時，具有一定的參考意義與選用方法論的借鑒價值。",
+      "tags": [
+        "AI科研工具",
+        "醫學研究",
+        "大型語言模型",
+        "AI評析"
+      ],
+      "author": "未標示（Nature｜2026-07-10）",
+      "source_url": "https://www.nature.com/articles/d41586-026-02091-6"
+    },
+    {
+      "rank": 8,
+      "score": 5.5,
+      "title": "IKS Health 以 5.57 億美元收購 TruBridge，強化 AI 醫療管理平台版圖",
+      "summary": "IKS Health 宣布以 5.57 億美元收購專注於農村醫院的電子病歷與收益週期管理公司 TruBridge，將其整合進 IKS 旗下的 AI 驅動醫療照護平台。這是 IKS Health 今年內的第三起收購案，顯示其積極透過併購擴充技術堆疊與市場覆蓋範圍的策略意圖。TruBridge 長期服務資源有限的農村醫院，其 EHR 與財務管理系統與 IKS 的 AI 能力結合後，預計可為偏遠地區醫院提供更完整的智慧化後台解決方案。此案例反映醫療 AI 平台整合趨勢持續加速，也凸顯 AI 在醫院營運效率與收益管理的應用場景正從都會型大型醫院向基層與農村醫療機構延伸擴散。",
+      "tags": [
+        "醫療AI平台",
+        "企業併購",
+        "電子病歷",
+        "農村醫療"
+      ],
+      "author": "未標示（MedCity News｜2026-07-10）",
+      "source_url": "https://medcitynews.com/2026/07/iks-health-acquisition-trubridge-technology/"
+    }
+  ]
+}
