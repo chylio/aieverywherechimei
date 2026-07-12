@@ -1,0 +1,89 @@
+{
+  "date": "2026年07月12日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "高醫導入 AI Agent 推動數位轉型，強化臨床照護效能",
+      "summary": "高雄醫學大學附設醫院（高醫）正式導入 AI Agent 技術，以自主智慧代理人協助臨床照護流程的數位轉型。AI Agent 能自動執行資料蒐集、跨系統資訊整合及任務觸發，有別於傳統被動式 AI 工具，可主動協助醫護人員完成文書、排程或臨床決策支援等工作。此舉標誌著台灣醫學中心正從單點 AI 應用邁向以 Agent 為核心的智慧醫療架構。高醫作為南台灣重要教學醫院，其 AI 轉型實踐具有指標意義，可供其他醫療機構參考。對醫院資訊與數位轉型團隊而言，AI Agent 的落地經驗涉及系統整合、資安合規及臨床工作流程再設計等層面，值得密切關注其後續成效與挑戰。",
+      "tags": [
+        "AI Agent",
+        "數位轉型",
+        "臨床照護",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（OCACnews｜2026-07-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OeVBnTGFqVTNaY2RERFQzbUwtanB1UmoyVEE1bURPRzNFYnRBaWFkcDU1cmdWX0FRbUp4QnJ2d1hiZVVYdEs4Wm1lbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "醫療 AI 落地卡關的主因是資料品質，而非模型效能不足",
+      "summary": "MarketScale 報導指出，醫療機構在部署 AI 系統時面臨的最大瓶頸並非模型本身的準確度或演算法能力，而是資料品質問題。醫院電子病歷系統中的資料往往存在格式不一致、缺漏值過多、標籤錯誤及跨系統互通性不足等問題，導致即便採用先進模型，實際臨床部署仍頻頻受阻。報導強調，AI 能否在醫療場域真正發揮價值，資料治理基礎設施的建置至關重要，包括資料清理流程標準化、資料字典統一化以及跨部門的資料協作機制。這一發現與業界普遍反映的「技術可行但落地困難」現象高度吻合，對正在規劃或擴展醫療 AI 部署的醫院資訊及數位轉型團隊而言具有重要的實務參考價值。",
+      "tags": [
+        "資料品質",
+        "AI落地",
+        "醫療資訊系統",
+        "數位轉型"
+      ],
+      "author": "未標示（MarketScale｜2026-07-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR0NrVXhEZXdfSWdfYUVWenQ0R3Y2S3pHSkxwZURJMXhoVGdjRU9pTlNVRl83b19kQmlNNzJ5Nk5Ud1FDY1Jsa0VGeUdXLWh0ang5TURtNzVxVHFwNmZnV1JuTWk1ckNDN2pGd0NxejdESXI4TzNKdTdIQVRtQWdFdUtReWkwT0RsTmhzdThzN1h2SjkxVFRGNGdwNHU3YW1QZmZWTDRnUkZpRGF4ZF9xbTRMT2wzX0ZvRjRR?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "亞東醫院導入 AI 工具，讓醫療回歸以人為本的照護本質",
+      "summary": "亞東紀念醫院推動 AI 導入計畫，核心目標在於透過自動化繁瑣的行政與文書作業，將醫護人員從大量非直接照護工作中解放出來，使其能將更多時間與精力投入病人溝通及臨床照護。報導指出，AI 工具在病歷摘要、醫囑輸入輔助及資料查詢等環節發揮效益，有助於減輕醫師與護理人員的工作負擔。這一案例呈現了 AI 在醫療場域中「增能而非取代」的應用邏輯，強調技術導入的最終目的是提升照護品質與人文溫度，而非單純提升效率指標。對正評估 AI 應用場景的醫院管理層而言，亞東醫院的實踐提供了以人為中心設計 AI 工作流程的具體參考。",
+      "tags": [
+        "AI照護",
+        "醫護減負",
+        "醫院轉型",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-07-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPWWRla05DSWtIcV8zX3ZrTy1pejRDb0dnMDNvYmtQSmhMYm9FOUJ6VVRPTm4zalJsZFRtN1lETUZtdUhVWFlUVnI4Mk96Z3MxZkkzdGdnNENYZTJZNm93dVlILTF0M3A3OXF2V2dSMnU3WEJaaFZxaW56WTlEY2lEQS1oRWUyalM3TWdiZEhyVGFra3I3bzJHcEU1dFFQZ29QZmZSQjd6R1dfYkYyNlk1Z0hrc2dEMnJBNUZQMDJEZlg3WXhtem1RZnZmMUxlbUVybUxRNVlTSDduNjBDandkQU52Unk0NUpXVWRpaFJCeG16Wnc5QzNSMzBSUEV4a3BoX0hCTmI0MHQ4czlPdmY5eTZMZFBzNW5a?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "偏鄉醫院也能用 AI：新墨西哥州農村醫院的實踐案例",
+      "summary": "美國醫院協會（American Hospital Association）報導了新墨西哥州一家農村醫院導入 AI 工具的實際經驗。偏鄉醫療機構長期面臨醫師短缺、資源匱乏及轉診困難等挑戰，該院透過引入臨床 AI 輔助決策工具，協助醫師在資源有限的情境下提升診斷與處置效率。此案例說明 AI 技術並非大型醫學中心的專屬工具，在適當的導入設計與支援架構下，同樣可為規模較小的地區醫院帶來實質效益。這對台灣醫療 AI 推廣而言具有政策啟示，尤其在強化偏鄉醫療可近性與縮短城鄉醫療落差的目標上，AI 輔助工具可扮演重要角色。",
+      "tags": [
+        "偏鄉醫療",
+        "臨床AI",
+        "醫療可近性",
+        "農村醫院"
+      ],
+      "author": "未標示（American Hospital Association｜2026-07-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSnR6Qmh3NU5oS1YteldHR2FiWW5iOTRLMS1KakJGTWtaWjBGSjNPSE1jVGxfWGRnemdKQ3N4RnEtVXhDU3BxOEQzVEFtZnpxeVozTGhMakp1ZkxfenlUQnowbklTRzE0aXAyTGdVZEpxcEZRa1Q3NUhBUnNkUExfajk3NG1xczltSGpJa1BzeUs0SWRHcm83OW43QWlXOVZhbHFmN0Vn?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "中央社專訪：靠 AI 找回醫療溫度，將時間還給病患與家屬",
+      "summary": "中央社刊出深度專訪，探討台灣醫療機構如何透過 AI 技術的導入，解決醫護人員被行政業務佔據大量時間的困境，進而將寶貴的照護時間還給患者及其家屬。專訪以具體的臨床場景為例，說明 AI 在減少重複性資料輸入、自動化例行通知及輔助衛教說明等方面的應用，使醫護人員得以在面對面照護上投入更多心力。報導同時點出，技術導入成功的關鍵在於醫護人員的使用意願與信任感，以及醫院管理層對 AI 輔助工具的明確定位。此報導呈現了台灣在地醫療 AI 人文面向的思考，對醫院推動 AI 文化建立具有參考意義。",
+      "tags": [
+        "醫護減負",
+        "AI照護文化",
+        "台灣醫療",
+        "人文醫療"
+      ],
+      "author": "未標示（中央社 CNA｜2026-07-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mbnZYN09xUFVZc01rV190VTVyYldzTGhIYmpWd3VMU01SbGVsYWZ3YlM4OTRSc25wUS1rcTRDWDJxRlVteEMyWGRwa3VndGIzX2g1c1pNVjdCT3QtUlE?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "解放軍總醫院劉曉莉：醫療 AI 臨床落地關鍵在資料、驗證與真實應用閉環",
+      "summary": "中國解放軍總醫院 AI 研究專家劉曉莉在專題報導中指出，醫療 AI 能否真正落地臨床，核心挑戰並不在於模型演算法的先進程度，而在於三個關鍵環節：一是高品質且具代表性的訓練資料；二是嚴謹的臨床驗證流程，確保模型在真實病患族群中的有效性與安全性；三是建立從資料蒐集、模型推論到臨床回饋的完整應用閉環，讓 AI 系統能持續學習與修正。劉曉莉強調，脫離真實臨床環境的模型開發往往難以轉化為實際效益，醫院與 AI 開發團隊必須緊密協作，共同設計符合臨床工作流程需求的落地路徑。這一論點對兩岸醫療 AI 推動者均具有重要的實務參考價值。",
+      "tags": [
+        "AI臨床落地",
+        "資料驗證",
+        "應用閉環",
+        "醫療AI策略"
+      ],
+      "author": "未標示（FX168｜2026-07-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fUkgzWkJ3WjNWd0dsMkQybnM5VWNGN3BDcW8yRFBmejZmbzRfWVBVcy0zUjkteXo2TUVyLWQwdHR1aGlhaUtNQVA5cUFqajVGT2c2OTlSLW1KYTVRV2V3bzBMa2FHdw?oc=5"
+    }
+  ]
+}
