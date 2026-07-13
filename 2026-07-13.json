@@ -1,0 +1,75 @@
+{
+  "date": "2026年07月13日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 7.5,
+      "title": "AI 起草放射科報告已成新趨勢：流程自動化加速臨床落地",
+      "summary": "根據 Trend Hunter 於 2026 年 7 月 13 日發布的報導，AI 自動起草放射科報告正在成為醫療影像領域的新興趨勢。透過大型語言模型與影像辨識技術的整合，AI 可依據影像分析結果直接生成初稿報告，放射科醫師僅需審閱與確認，大幅縮短報告完成時間。此趨勢呼應全球放射科人力短缺的現實，並與各大醫院推動數位轉型的方向高度契合。目前已有多家影像 AI 新創與大型醫療機構展開合作，試圖將此類工具整合至既有 PACS 與 RIS 系統中。業界普遍認為，AI 起草報告不僅能提升效率，也可能改善報告一致性與品質。然而，醫師的最終審閱責任、法規合規性與醫療機構的系統整合挑戰，仍是推廣的主要考量。此一趨勢值得醫院領導層與放射科主任持續關注，並評估本院導入時機與配套機制。",
+      "tags": [
+        "放射科AI",
+        "報告自動化",
+        "影像AI",
+        "數位轉型"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-07-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FOFl5aTZ4SGNJUHJDaEJScVpnVjVjbE5HTE9DWEctME5Ecm1icnprWVpwcDhjU0tSQ3BFRDFIZHZsSXlyMDMyYUdKMm5CVWZjUklZd0xzUVd6NVdnSHfSAV5BVV95cUxORThZeWk2eEhjSVByQ2hCUnFaZ1Y1Y2xOR0xPQ1hHLTBORHJtYnJ6a1lacHA4Y1NLUkNwRUQxSGR2bEl5cjAzMmFHSjJuQlVmY1JJWXdMc1FXejVXZ0h3?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 7.0,
+      "title": "台灣醫法醫政論壇聚焦 AI 醫療法制：跨域共議制度改革方向",
+      "summary": "2026 年台灣醫法醫政論壇於近日登場，聚焦 AI 醫療應用的法律規範與制度改革議題，吸引醫界、法界及政策制訂者共同參與討論。論壇探討在 AI 工具快速進入臨床場域的背景下，現行醫療法規的適用性與不足之處，以及如何建立兼顧創新與病患安全的監管框架。與會者就 AI 輔助診斷的責任歸屬、資料使用與隱私保護、以及醫療 AI 產品的審查標準等議題深入交流。此次論壇由主播徐韻翔主持，展現台灣社會對醫療 AI 法制建設的高度重視。對於醫療機構而言，了解法制動向有助於提前規劃合規策略，降低導入 AI 工具的法律風險。台灣在醫療 AI 法規制度上的發展，也將影響本土廠商與醫院的技術採購與應用布局，值得醫院法務、資訊及臨床決策層持續追蹤。",
+      "tags": [
+        "醫療AI法規",
+        "台灣政策",
+        "制度改革",
+        "醫療法制"
+      ],
+      "author": "未標示（匯流新聞網｜2026-07-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQdkdUbnlBQllHbDExZFE2NkdvaVFhUDhpa2VETjhDeHdxdWt2M1hmdmtTZndjbFF4VXN1bGZNVmNnbHVUV0VDQWcyc1MyVzJtWWhySlFUVi0ydWFLbW0xSzdWVVZQOVRfb1BPNnhNRXBaSmRULXlROFhBRGJFSVo1Y2w5VXo5ZVJiWmRBbWJqLW5QbzF6WFhmTzM5ay04MDlNRkdZUUk3ZG9leXhDaE4tUnNRcHdRQnJCSFEzcEJYeENQWHNWN0ZnczBBR2ZhczZxVDZKTGxxU2w5LVJJcDBiN0ZTaUlyMEUwVm00N3gwTWJHQl9VdE5UeUtWT1VzS0dVd1IySExUYW5LaE1VWlNfUzdZV2dIQlVpRU1KejM2cFY1QzN6NTBCWXJxVzFZYjBnSmdabkhxbjNISXg5ZWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 6.5,
+      "title": "宇樹人形機器人完成活體手術試驗，AI 醫療應用邁出重要一步",
+      "summary": "中國機器人新創宇樹科技（Unitree）近日宣布其人形機器人已完成活體手術試驗，被視為 AI 醫療應用的重要里程碑。此次試驗展示了人形機器人在手術操作上的可行性，結合 AI 視覺辨識與精細動作控制技術，機器人能夠執行特定手術步驟，為外科機器人領域帶來新的技術方向。相較於傳統的達文西手術系統，人形機器人具備更高的通用性與潛在的成本優勢，但目前在精確度、安全性認證及臨床法規方面仍面臨重大挑戰。業界觀察者指出，此類技術尚處早期研發階段，距離實際臨床應用仍有相當距離，但其突破性意義在於驗證了人形機器人參與手術的基本可行性。對於關注外科技術創新的臨床主任與醫院領導層而言，此一進展值得列入未來技術雷達的觀察範疇。",
+      "tags": [
+        "手術機器人",
+        "人形機器人",
+        "AI醫療",
+        "技術突破"
+      ],
+      "author": "未標示（蕃新聞｜2026-07-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3eFpXcmladXViRU1OTU1rMWJCbVZqMEtJSmFNbnYzZEVaYUpjUmUza3o0TVptQjRGY2ozdDdZem02T285TFVZdjNndjVJNzNXM1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 6.0,
+      "title": "渥太華大學推出 AI 心理治療助理「UbiMyTherapist」，攔截情緒低谷危機",
+      "summary": "渥太華大學近日發表 AI 心理健康助理「UbiMyTherapist」，旨在透過數位分身技術即時偵測並介入用戶的情緒危機。該系統結合自然語言處理與情緒辨識模型，能夠主動識別用戶出現低潮或危機訊號，並提供即時心理支持與資源引導，目標是填補傳統心理治療服務供給不足與等待時間過長的缺口。此一應用方向在新冠疫情後心理健康需求急速上升的背景下尤具意義，尤其在醫療資源有限的偏鄉或基層院所，AI 心理助理可能成為重要的輔助工具。然而，AI 在高風險情境下的判斷準確性、倫理責任歸屬及隱私保護，仍是學術界與醫界持續關注的核心議題。該研究成果為醫院精神科與心理衛生服務的數位轉型提供了新的思考方向。",
+      "tags": [
+        "心理健康AI",
+        "數位治療",
+        "情緒辨識",
+        "臨床AI應用"
+      ],
+      "author": "未標示（TechNews 科技新報｜2026-07-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuNHhsYU1faDNkd2FhR3htZG5hVllETWkyc1JzdE5QbFRreEFndEZWVVZ6ZXFvWnNXdVpLZk1hOVdaVWxERGxqdll2QUpvYTBlNlU0bFlXc0wzTXJYdGNSRzRYdFJ1bG4tUFExMjVLYjlCQlg0?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 5.5,
+      "title": "事前授權之爭：AI 難以終結結構性失衡，但能改變戰場態勢",
+      "summary": "MedCity News 一篇深度評析指出，醫療事前授權（Prior Authorization）長達三十年的結構性失衡問題，不會因 AI 的介入而消失，但 AI 確實正在改變這場博弈的進行方式。文章認為，AI 工具能夠加速文件準備、預測審核結果並提升申訴勝率，協助醫療機構在與保險公司的角力中取得更有效率的應對策略。然而，保險方同樣在運用 AI 強化自動拒絕機制，雙方軍備競賽的本質並未改變。對於醫院行政與財務管理團隊而言，此篇分析提供了冷靜的視角：AI 是強化談判籌碼的工具，而非解決體制問題的萬靈丹。在導入 AI 輔助授權申請流程時，應同步關注對方使用 AI 審查所帶來的新型挑戰，並建立相應的人員培訓與流程調整機制。",
+      "tags": [
+        "事前授權",
+        "醫療行政AI",
+        "健保審查",
+        "醫院管理"
+      ],
+      "author": "未標示（MedCity News｜2026-07-12）",
+      "source_url": "https://medcitynews.com/2026/07/prior-authorization-is-a-fight-and-ai-wont-end-it-stop-pretending-otherwise/"
+    }
+  ]
+}
