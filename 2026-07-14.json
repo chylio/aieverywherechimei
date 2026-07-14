@@ -1,0 +1,145 @@
+{
+  "date": "2026年07月14日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "FDA 核准 UpDoc AI、Aidoc 獲突破性認定：放射科 AI 監管進展加速",
+      "summary": "美國 FDA 近日核准 UpDoc AI 臨床應用，同時授予 Aidoc 突破性設備認定（Breakthrough Device Designation），標誌著放射科 AI 在監管層面的重大里程碑。UpDoc AI 主要應用於醫學影像分析與報告輔助生成，FDA 的清單核准使其得以正式進入美國市場。Aidoc 的突破性認定則意味著其 AI 輔助診斷工具將獲得 FDA 優先審查資源，預期大幅縮短上市時程。兩項監管進展同步發生，反映出 FDA 對醫療影像 AI 審查機制的持續優化，也顯示出美國在推動放射科臨床 AI 落地上的政策加速態勢。對於醫院影像科與資訊部門而言，此一動向代表合規 AI 工具的選擇空間正在擴大，引進相關解決方案時的監管風險亦相應降低。",
+      "tags": [
+        "放射科AI",
+        "FDA監管",
+        "醫療影像",
+        "突破性設備"
+      ],
+      "author": "未標示（MarketScale｜2026-07-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOThRS1NyYzc4WXc0RTU1SVJ2SmlvM0NGVXVMcmRZemxrOE5qaHVueVJiYm9Fdy16NHlGeTNhUkkxTmVJNTlYcEZqOG14Q1F1Xy1TVjEyUDNuVUJiTmxmOERLNG5TS3dybVJmNF9RTmRyUVpaYjQzOGk3WWRVdG5oaDdCajQ0SHdjd282N1YwU2dPTmwzdkxXQ3N0ODBQYTRSQnBPYTVPX3pnRElrVmdNZ21la0hzRldqNFRvLVktenIyS191ejdNekQ5OVo1QTBKQmVvNTh0NWY2RFZPTXFMWENJMWJxVkltc0g0V2NsT0IwSmNUUWpPUzNn"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "腦部影像 AI 在真實醫院試驗中大幅超越 GPT-5，臨床潛力受矚目",
+      "summary": "一項在真實醫院環境中進行為期一週的前瞻性試驗顯示，專為腦部影像設計的 AI 系統在臨床判讀任務上的表現，以超過 20 分的差距勝過通用大型語言模型 GPT-5。此試驗採用真實住院患者的腦部掃描資料，評估兩類 AI 系統在輔助診斷、病灶識別與報告精準度等面向的差異。結果顯示，針對特定影像領域訓練的專科 AI 模型，在醫院實戰環境中的表現遠優於通用模型，與過去實驗室環境的發現一致。此研究對於醫院在選型影像 AI 工具時具有重要參考價值，說明「專科化」而非「通用化」的 AI 部署策略，在臨床放射科應用中可能帶來更高的準確率與安全性，有助於引導採購決策方向。",
+      "tags": [
+        "腦部影像AI",
+        "臨床試驗",
+        "GPT-5比較",
+        "放射科"
+      ],
+      "author": "未標示（Tech Times｜2026-07-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejgxR0VJZGZaYVFSc1liRzE1MUdVMjhSUFhhcDBPdUpnU01MSUxkRkJicV9HblExNzVNN2gzMFZGUGFxbDNRYy1hUlhLdWJ3cHkzOWJMMnBXaWFDRGIwSlZ1Qy1oOVd4T1k1OUNxeUg0SmNpVnczLU56N1lsM09nUWlOUVZ0SW5RdjFfS0V1X3h4RzBZMHdLTUdOQjBwZ2Zjc1VWMUV5d1BMMVIxRFVpWFRMY3ZKWnJpd2dKNw"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "醫療 AI 已到達臨界點：Healthcare IT News 深度分析轉折時機與驅動力",
+      "summary": "Healthcare IT News 發表深度分析，指出醫療 AI 已正式進入「臨界點」（tipping point）階段。文章指出，過去數年醫療機構對 AI 採取觀望態度，但近期在監管框架逐步完善、臨床驗證資料累積、以及大型語言模型技術成熟等多重因素推動下，AI 工具的實際採用速度明顯加快。驅動此波轉折的關鍵包括：FDA 核准數量快速增加、醫院財務壓力促使自動化降本需求上升，以及醫療人力短缺帶動的輔助工具需求。報告並指出，下一階段的競爭焦點將不再是「要不要用 AI」，而是「如何整合到臨床流程並確保安全落地」。此分析對醫院數位轉型策略具有直接參考意義，提示領導層需從採購轉向治理與整合思維。",
+      "tags": [
+        "醫療AI趨勢",
+        "數位轉型",
+        "臨床落地",
+        "產業分析"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-07-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTTVIVWNIWlV3SkpCZV9EZUdPUnhSWmVGVHoyRTA1QS15RWoxZHVjTHl1eXdhSjRrR1RHMTFjU1AxNXoyWHpMcXUtNGhOMEZKWTJudm9QOFRrTmVxTjBkSEd4NTlaMDNBUUpJdFVJUHJEeHFhTlZhSlRyMDF4NDlFMXBpV1hnc3NM"
+    },
+    {
+      "rank": 4,
+      "score": 8.2,
+      "title": "Mayo Clinic AI 安全疑雲：前主管指控遭打壓，訴訟揭示醫療 AI 治理風險",
+      "summary": "前 Mayo Clinic 研究主管 Traci Tamiko Eto 對醫療體系提起訴訟，指控其因內部揭露 AI 安全漏洞與患者隱私風險而遭到噤聲、降職，最終被解雇。訴訟文件顯示，Eto 曾多次向管理層示警，指出 Mayo Clinic 部分 AI 工具在患者資料保護及臨床決策支援上存在重大疏失，卻換來打壓報復而非改善行動。此案已引發醫療界廣泛關注，被視為醫療 AI 內部治理與吹哨者保護機制嚴重缺位的具體案例。MedCity News 整理六大關鍵爭議點，包括 AI 模型透明度不足、院方對內部稽核建議的回應方式，以及員工舉報渠道的實質效能，對各醫療機構建立 AI 問責制度具有重要警示意義。",
+      "tags": [
+        "AI治理",
+        "患者隱私",
+        "醫療倫理",
+        "Mayo Clinic"
+      ],
+      "author": "未標示（MedCity News｜2026-07-13）",
+      "source_url": "https://medcitynews.com/2026/07/mayo-clinic-ai-lawsuit/"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "加泰隆尼亞推動跨機構醫療 AI 互聯系統：區域整合模式的歐洲實踐",
+      "summary": "Healthcare IT News 報導西班牙加泰隆尼亞地區正積極建構跨醫療機構的 AI 互聯系統，目標是將區域內各醫院、診所與公衛機構的 AI 工具整合至統一的資料與決策支援架構之下。此計畫強調跨組織資料共享、模型標準化及演算法治理，旨在解決各機構各自為政導致的資料孤島與服務不一致問題。加泰隆尼亞模式提供了歐洲區域型醫療 AI 整合的具體案例，其在隱私法規（GDPR）框架下的資料治理設計尤具參考價值。對於推動跨院區或跨體系 AI 協作的醫療集團而言，此模式在架構設計與治理機制上均有值得借鑒之處。",
+      "tags": [
+        "區域醫療AI",
+        "跨機構整合",
+        "資料治理",
+        "歐洲醫療"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-07-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaVpTV0pYRFVLdUtLenhpM3ZJUXlfa1ZrSW85ZnpmZjdEazdyTEZYM3NzaDVnd1RrNUlDNEgxejVNeWplZ3E2UTh1RTFPczB1VGxPSUkxSmxhbEhreXVncmtGVDdPY2VzWTllRFV0WEYzaXRDdXp4SGh3bW1NZjJtZ3pyTFRMcS1IUy1ob1RBWXBEQWNlTTFKUA"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "Cedars-Sinai CDAIO：醫療 AI 第二波浪潮的核心是勞動力轉型，而非生產力提升",
+      "summary": "Cedars-Sinai 醫療中心首席資料與 AI 長（CDAIO）接受 MarketScale 專訪，指出醫療 AI 正從第一波「效率提升」過渡至第二波「勞動力轉型」階段。他強調，AI 不應只被視為節省時間的工具，而應被整合進臨床人員的工作角色與職涯發展中。第二波浪潮的關鍵在於如何重新設計醫療人員的工作流程、建立 AI 素養培訓體系，以及管理組織文化的變革阻力。他並指出，醫院領導層若仍以「ROI 計算」為主要評估框架，將錯失 AI 在提升照護品質、員工滿意度及組織韌性上的深層價值。此觀點對醫院數位轉型策略與人力資源規劃具直接啟發性。",
+      "tags": [
+        "醫療AI策略",
+        "勞動力轉型",
+        "組織變革",
+        "數位轉型"
+      ],
+      "author": "未標示（MarketScale｜2026-07-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTzlUa0hYQzFrRHhzUGI0S3dYcFNOcFRwZG5MMWw4SEpSY3pUeUpnMmxxODQ4RDcwMXFqYmJIS0Y2WWVXOVpEd2NnclVxb3RFWWY0V3IzVDIxZTdkSDcyLTVpZk80SXNURjkyTnRlWWRIcmpzejRXcldSMkJZSzlfS08yTmNHLVhhYW5xTk56Rjg3ckxycm1HOU9td1d0OW1rcHdpemhnSUNTTHBFaDNIQ1lUWkVDQTBzSjBzYjlFTFp3UzdGTDlHY3dXX3ZpajlzN08tN05yQkt4UENKbWJj"
+    },
+    {
+      "rank": 7,
+      "score": 7.3,
+      "title": "韓國 Deepnoid 以 AI 自動生成放射報告搶進商業化，目標今年納入保險給付",
+      "summary": "韓國醫療 AI 公司 Deepnoid 宣布正式推動生成式醫療 AI 商業化，其核心產品為可自動撰寫放射科報告的 AI 系統。Deepnoid 表示，此工具旨在解決放射科醫師工作量過大與人力短缺問題，並計畫於 2026 年內取得韓國健保給付資格，以解決過去缺乏收費機制而難以獲利的困境。公司強調，生成式 AI 在報告撰寫上的準確率已達臨床可用水準，並已完成初步醫院合作驗證。此案例代表醫療 AI 從「輔助工具」走向「可計費服務」的重要轉型，亦對台灣健保 AI 給付制度的未來討論具參考價值，值得密切關注其商業模式與監管路徑的後續發展。",
+      "tags": [
+        "放射科AI",
+        "AI報告生成",
+        "健保給付",
+        "商業化"
+      ],
+      "author": "未標示（koreabiomed.com｜2026-07-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XOE14djBQSEswUXduOHpLcWtIdk1xV2t0S3hpcGFlQ1QwTDhjbFZqdHM3U01ueFprLUlrQmJDRFZqUDdlSTRJTXNRRjJPakoyRDZLYm41RXpYQV9sSGd5Y2d3TUFRVFhiV1F6OXZn0gFyQVVfeXFMTWtVQ3JIWHAtQ1RFYlRlVktLMDAyTkVaZTZVVnhHcmxJQjFBWk5MbXVDQzJnc0E1amJmYVhjbGloSWdZWTJwWmRIUkNvZ3ZIaFdDNkFtNldQdVh0TzExVmRzcy1vX0lOclFrMFlqREhObk9n"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "AI 輔助神經母細胞瘤診斷與預後分層，提升兒科罕見癌症判讀精準度",
+      "summary": "European Medical Journal（EMJ）報導，AI 技術在神經母細胞瘤（Neuroblastoma）的診斷與預後風險分層上取得重要進展。研究顯示，透過深度學習模型分析醫學影像與病理切片，AI 系統能更精確地識別腫瘤特徵，並對患者進行高、中、低風險預後分層，有助於臨床醫師制定個人化治療計畫。神經母細胞瘤為兒科最常見的顱外實體腫瘤之一，傳統診斷方式依賴病理科醫師人工判讀，存在主觀性與一致性不足的問題。AI 模型的引入可提升跨院判讀一致性，並在資源有限的醫療環境中發揮輔助作用。此研究對兒科腫瘤科與病理科的 AI 導入決策具直接參考意義。",
+      "tags": [
+        "兒科腫瘤",
+        "AI診斷",
+        "神經母細胞瘤",
+        "預後分層"
+      ],
+      "author": "未標示（EMJ｜2026-07-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTkZDcmNfSWUwOFpQNVI0dkZPVTUxLU9oVElDaEFKaEVQOVdHN1FUSzU5U3p3RWUxelBHczBmUDMzazZGbnFlekpUTTRhejd2Y2lEMmRaelE5N3M5aHpnWlpDb1lKNVhzTndMSWZuSGxXdXBYbTBJRFU1YzRrTGVheUxUdmNXTTFZbWhVOE5WeVlOYmh1OVoyZnNPN3F6ZTN2TWFhYUxQMkVCV3c"
+    },
+    {
+      "rank": 9,
+      "score": 6.8,
+      "title": "AI 驅動精準醫療轉型：次世代治療技術與智慧醫療平台發展趨勢分析",
+      "summary": "台灣科技產業資訊室發布市場報導，深入分析 AI 驅動下精準醫療的轉型趨勢。報告指出，AI 技術正在加速推動次世代治療技術的開發，包括基因體分析、個人化用藥決策與智慧醫療平台的整合應用。在平台發展方面，報告特別關注 AI 如何串聯電子病歷、基因資料與影像資料，形成多模態分析能力，進而支援臨床決策與新藥研發。台灣在生醫資料法規與健保資料庫運用上的政策走向，亦被視為影響本地精準醫療 AI 發展的關鍵變數。報告建議醫療機構應及早布局資料整合基礎設施，以掌握精準醫療 AI 商業化浪潮的先機，對醫院策略規劃具參考價值。",
+      "tags": [
+        "精準醫療",
+        "台灣醫療AI",
+        "智慧醫療平台",
+        "產業趨勢"
+      ],
+      "author": "未標示（科技產業資訊室｜2026-07-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvWjBGLVNDZHlJUThZTjgyTXpHdHZTR3AtQW14cHhLWmtwb3RzTmRNWTl3X2ZoNzhvUHFmOUI3cE1YMlRfUk1WYTEzd3d4LVdEU29ER0JBWVpKRDY1SmdCWHB4LWJLYVFYekE"
+    },
+    {
+      "rank": 10,
+      "score": 6.5,
+      "title": "紐約醫院以 AI 取代 12 名護理師，引發護理品質與患者安全警示",
+      "summary": "美國紐約一家醫院以 AI 系統取代 12 名護理師職位，此舉引發醫護工會、患者權益倡議者及臨床專家的強烈批評與廣泛關注。反對者指出，AI 目前尚無法完全替代護理師在觀察患者細微變化、執行複雜護理操作及提供情感支持等方面的角色，此舉可能對患者安全造成實質威脅。Guardian 報導中引用護理師說法，強調患者「應對此感到擔憂」，因 AI 判斷在夜間急症或複雜個案中的可靠性仍存爭議。此案例凸顯醫療機構在引入 AI 自動化時，必須審慎評估對照護品質的衝擊，並在效率目標與患者安全之間取得平衡，對醫院人力規劃與 AI 導入倫理框架具警示作用。",
+      "tags": [
+        "護理AI",
+        "患者安全",
+        "醫療倫理",
+        "勞動力替代"
+      ],
+      "author": "未標示（The Guardian｜2026-07-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYYlo4TzNkR3A5RDJTU0hFZ1AyRWotSXlKWUt2ZHZkQW5oQk8zQ1RqMkZZaGZkRkhPWVB6Mk9CT09pTjlKU1VQa2dYdXpyZVRRQWJHRjIyMU9OTXJ2alAzSk1uMzQ2aXF1d1g5NkN5ZHhjNE1TSGJWUg"
+    }
+  ]
+}
