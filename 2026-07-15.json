@@ -1,0 +1,145 @@
+{
+  "date": "2026年07月15日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "醫院率先導入 AI 早期偵測感染，感控應用邁向實用化新里程",
+      "summary": "美國某醫院宣布成為全球首家系統性導入 AI 技術以早期偵測院內感染的機構，透過即時監控患者生理數據與病歷資訊，AI 模型能在感染症狀明顯出現前發出警示，協助臨床團隊提前介入。院內感染（HAI）一直是住院患者安全的重大威脅，傳統監控依賴人工審查，時效性不足。此次導入的 AI 系統整合電子病歷、生命徵象與實驗室數值，持續學習感染前驅模式，顯著縮短從危險訊號出現到臨床反應的時間差。此應用案例對感染控制部門、護理與醫療品質管理具有直接參考價值，也為其他醫院推動感控 AI 工具的採購評估與臨床試驗提供實證基礎，預計將引發同業跟進，並推動相關監管規範的討論。",
+      "tags": [
+        "感染控制",
+        "臨床AI應用",
+        "院內感染",
+        "患者安全"
+      ],
+      "author": "未標示（The Mountaineer｜2026-07-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRGxCa1VhSng1el9DTTVnb3dqMVo5TDBTMDhRenczNnR0djBRV05TWDJaYk5Ra0xGRmNZNl9rVW1uZTc4V1BWTlUzSlJZVElJaWtiSUtkOThSN0d1dEtsOTM4am1QTW1BSDZOclNJQmJ0S3EwUENiMm53UkN1aUZ1aEI5RlpSR1Y4TFdhdnpNOHphd3h1XzFWbW9WN1ZGUF9kcG5jeVVXTXUwNENmdXdhVnZaQmJrdXRITUxRMllrTmQ1VzY4N1NlQkVUaWxwdS1vU3VSWm9XM1RKeUNqS3BlNkRncVA1Y2hzNkdFcg"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "放射科 AI 從效率工具轉型為機會創造者：新典範重塑影像醫學價值",
+      "summary": "Diagnostic Imaging 深度分析指出，放射科 AI 的應用正從早期以「提升效率」為核心的階段，轉向以「創造新臨床機會」為主軸的新典範。所謂「機會 AI」不僅限於加速閱片或減少漏診，更延伸至識別傳統影像學難以捕捉的生物標記、預測疾病進程，甚至協助臨床決策的個人化治療路徑選擇。文章指出，此轉變對放射科人力配置、訓練方向及業務模式均有深遠影響。醫院領導層須重新評估 AI 投資的價值框架，不再以「節省時間」為唯一 KPI，而應評估其在差異化診斷能力與新型收費模式上的潛力。此分析對正在規劃放射科數位轉型或進行 AI 工具採購評估的臨床科主任與資訊部門具有重要參考價值。",
+      "tags": [
+        "放射科AI",
+        "臨床決策支援",
+        "數位轉型",
+        "影像醫學"
+      ],
+      "author": "未標示（diagnosticimaging.com｜2026-07-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbjFObWwtdFRKWldGVUdFVTBjLXVTS1BVYlJFQkRTSUNBdjVLNHlLZTFUYkk1bjdSdXo3RUg4U2w3WTBQVlF0d3ZxVGp2RjBNdEhCSjZuYW5ndDBMbGZrVVVBRGMwWjdseVBkR2xDb2J1Z250clcxQy12Y1hxYnJRd0RvcktTWTQwODd1Vzhn"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "Kaiser 護理師抗議 AI 策略被排除在決策之外，醫護勞動力治理問題浮上檯面",
+      "summary": "Kaiser Permanente 執行長 Greg Adams 於美國醫院協會（AHA）領導峰會發表 AI 轉型成果演說期間，數十名 Kaiser 護理師在會場外聚集抗議，指控院方在推動 AI 部署決策時系統性排除護理人員的意見。抗議者表示，院方在未充分諮詢臨床第一線的情況下引入自動化工具，令護理師擔憂工作替代與照護品質下降。此事件呼應近期美國多家醫院以 AI 取代護理人力所引發的爭議，凸顯醫療 AI 落地過程中勞動力代表性與共同治理的關鍵缺口。對於醫院管理層與數位轉型推動者而言，此案提示在 AI 策略制定初期即納入跨職系的利害關係人參與機制，是確保落地成效與降低組織阻力的關鍵前提。",
+      "tags": [
+        "醫療AI治理",
+        "護理勞動力",
+        "組織變革",
+        "AI倫理"
+      ],
+      "author": "未標示（MedCity News｜2026-07-14）",
+      "source_url": "https://medcitynews.com/2026/07/kaiser-permanente-ai-nurses/"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "患者對放射科 AI 的接受度取決於人工監督機制是否到位",
+      "summary": "Conexiant 報導一項針對患者對放射科 AI 態度的調查研究，結果顯示影響患者接受度的關鍵因素並非 AI 技術的準確率，而是「是否有人類醫師進行最終審核」的監督機制。研究指出，若患者明確得知 AI 診斷結果將由放射科醫師複核確認，接受度顯著提升；反之，若 AI 被定位為獨立決策工具，患者信任度明顯下降。此發現對醫院推動 AI 輔助診斷工具的溝通策略與知情同意流程設計具重要意涵，也提示 AI 工具的導入說明應強調「人機協作」而非「AI 自主」的定位框架，有助於降低患者疑慮並提升整體滿意度。",
+      "tags": [
+        "患者信任",
+        "放射科AI",
+        "人機協作",
+        "知情同意"
+      ],
+      "author": "未標示（Conexiant｜2026-07-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORi1PNTctZ0lBMlpYRF9MYkN1bjFnaTlPZUJwVmZxMUtVd2FQdGY0VU1DS3BleDlINV9wT2I0ZUZIWE5BdVZHT2dYLXV3MklWcTh6TmFpcnprVUg2eXNOQ3g5dHk2emx2X2l1aVVuX0EtTlRrS25vMTZrTllLcklDbnA5VUZFSFgxMlp2bUNkVmlPVWRGZklPNllnUzBWSzVnZ2NV"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "亞洲生技展登場：晶片與細胞融合，台灣積極將 AI 算力轉化為醫療治癒力",
+      "summary": "2026 年亞洲生技展於台灣盛大舉行，聚焦半導體 AI 算力與細胞生醫科技的跨域融合。展覽揭示台灣正積極將既有的半導體供應鏈優勢延伸至精準醫療與 AI 診斷領域，多家本土業者展示結合 AI 影像辨識、基因體分析與細胞治療的整合平台。業界代表強調，台灣若能將算力基礎設施與醫療應用場域有效串接，有機會在全球醫療 AI 版圖中建立差異化競爭地位。此次展覽也呈現政府與產學研機構在 AI 醫療監管框架與資料互通標準上的最新進展，對醫療機構評估本土 AI 工具合作夥伴與未來技術路線布局具有參考意義。",
+      "tags": [
+        "台灣醫療AI",
+        "精準醫療",
+        "生技展",
+        "AI產業"
+      ],
+      "author": "未標示（鏡報｜2026-07-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fdTMzTm9BbU56clc5UUplblJqUjQ1NUEzb2pmNHM3cHAzWTBKRkdRUUY1VlNRR3ZLMzZmM3hVcmdBZkVTUmNScGs2SWVCMm9kRnc"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "醫療 AI 需要有備而來的專業人才：建立教育培訓體系已成當務之急",
+      "summary": "Healthcare Finance News 一篇報導指出，隨著 AI 工具在醫療場域快速普及，醫療機構正面臨嚴峻的人才缺口：不僅缺乏能設計、評估 AI 系統的技術人才，更缺少能有效應用 AI 輔助工具的臨床工作者。文章強調，醫療 AI 的成敗關鍵不在於技術本身，而在於是否擁有足夠受過訓練的人力來負責任地操作這些系統。建議醫療機構與教育機構合作，將 AI 素養納入醫護人員繼續教育課程，並建立院內 AI 應用認證機制。對於正推動數位轉型的醫院而言，人才培育策略的制定應與 AI 工具採購計畫同步進行，才能確保投資效益與臨床安全。",
+      "tags": [
+        "醫療AI教育",
+        "人才培訓",
+        "數位素養",
+        "組織能力"
+      ],
+      "author": "未標示（Healthcare Finance News｜2026-07-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOUJvczZYeXk5RFF6TjhzOXZPdHVhWGRQejhYWWdlSTJwN3lKTXNfZzhVdGZfMy1wb1kxSWRrbDBEQmM2RzlDOFNrdDRsOUtJbGdmN2U5Qkw0UjJuRjZPdkpmelltT004YjdRXy1EZVV6elp4bGREWlVLMkVVN3VySmZKdzJIOHd1d0hQbEFKSHo"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "Google 致力建立醫療 AI 實證基礎，推動臨床應用從「可用」走向「可信」",
+      "summary": "Modern Healthcare 報導 Google 正積極投入醫療 AI 的實證研究工作，目標是為現有及開發中的 AI 醫療工具建立嚴謹的科學證據體系。Google 認為，目前醫療 AI 市場上許多工具雖已取得監管核准並開始商業部署，但缺乏足夠的真實世界臨床試驗數據支撐其有效性與安全性主張。Google 計畫透過與醫療機構合作進行前瞻性試驗、整合電子病歷資料開展大規模回顧性研究，以及公開研究方法論等方式，推動醫療 AI 實證標準的建立。此舉被視為對監管機構、醫療採購者與患者信心建立的重要佈局，也可能對業界 AI 產品上市標準產生示範效應。",
+      "tags": [
+        "醫療AI實證",
+        "Google",
+        "臨床試驗",
+        "AI監管"
+      ],
+      "author": "未標示（Modern Healthcare｜2026-07-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd084dGI4OHRIdjZsajR2UVpUSmpjb29uVnpNYmRYcU1YV05RclB6RVcwQmJTSXJ5NDFsVm1lNzhPQjhQQ1ZnWTE4ODhLMTlES1FwMWJXRzB5MHNad3l3Tk5QVVZlMi12SGIxQ1kxYVNHSUhqRDk5bWhFZ0pBNXB4N21STVZhSVF0blZZ"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "昆士蘭研究機構啟動病理實驗室 AI 篩查試驗，病理科自動化進程加速",
+      "summary": "澳洲昆士蘭一家醫學研究機構宣布正式啟動在病理實驗室導入 AI 篩查系統的臨床試驗計畫。該試驗旨在評估 AI 影像辨識技術應用於組織切片分析的準確性與效率提升效益，特別聚焦於癌症早期偵測的應用場景。計畫採取人機協作模式，AI 系統負責初步篩選與標記異常區域，病理科醫師再進行最終確認，以降低漏診率並提升高工作量下的審核效率。此試驗結果將為後續政府採購決策與保險給付評估提供關鍵數據，也為亞太區域醫院評估病理科 AI 工具提供可參照的試驗設計框架與初步成效指標。",
+      "tags": [
+        "病理科AI",
+        "癌症篩查",
+        "臨床試驗",
+        "澳洲"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-07-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3Z5Z0dFejFhVG5zbmFoMmNnS29Yemh0T2tHWngycW45dkpLR0l4TWYwbVRPd2U5RURLUDY2ZTNrQVRVVHd6SkJjRU1SekdxS0hUczZNN0lJZlc2RjNPZWNUU0NvTE9XZUwtUkhocFRhQXl0N1ZKNXVuQkpYWHZjemdWTmRDM0F0SmoweDFGWDg3NnNDa2JSR2ZR"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "跨黨派法案推動兒科癌症 AI 應用，美國立法加速放射腫瘤科技術支援",
+      "summary": "美國國會提出一項跨黨派法案，旨在強化 AI 技術在兒科癌症照護中的應用，特別針對放射腫瘤科的診斷與治療計畫制定提供政府資助與技術支援。法案背景源於兒科放射腫瘤 AI 工具訓練資料嚴重不足的問題：兒童癌症案例稀少，導致現有 AI 模型多以成人資料訓練，直接應用於兒童患者時準確性存疑。法案提議建立專屬的兒科醫學影像資料庫，並資助開發針對兒童解剖特性優化的 AI 模型。此立法進展對兒童醫院與兒科放射腫瘤科主任具有直接政策參考意義，也預示美國醫療 AI 監管框架將更細緻區分成人與兒科適應症。",
+      "tags": [
+        "兒科癌症",
+        "放射腫瘤AI",
+        "美國立法",
+        "AI資料庫"
+      ],
+      "author": "未標示（Radiology Business｜2026-07-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWnZ6TldBUjhjRlFjWkFDeW84b2oydkEzSW5TRVVKU1N1Z08tZ3ItQ3BjZjBPUDk0NTg1Z3E4VXU0WmhvVy1HdU93dmJLbFdyODFNcE5NNDdKOEpoMVFaRlI2c1NkdGxZdkwwV200TzdidURENWdGanBXUXQ2c3A5dFllSzRJMFBEUFpnZWpGOFlsMWpNQUZvWHg1SW5JMnRSWmx4b0tCX25zckdaUF92RjV2cS1sQWE3Sk5tZDR3Qk81NlVKR1Y0emFmaGp6aS1O"
+    },
+    {
+      "rank": 10,
+      "score": 6.0,
+      "title": "醫師應主導醫療 AI 對齊方向，確保工具設計符合臨床實務需求",
+      "summary": "倫敦政治經濟學院（LSE）部落格刊出一篇評論，主張醫師社群應在醫療 AI 系統的「對齊」（alignment）過程中扮演核心主導角色，而非被動等待科技業者或監管單位制定規則。文章指出，目前多數醫療 AI 工具的設計目標與評估指標由工程師與商業利益主導，導致工具在技術指標上表現亮眼，卻未必符合真實臨床工作流程與患者照護需求。作者建議，醫療學會、臨床科主任應積極參與 AI 開發商的需求定義、臨床驗證設計及部署後的持續監督機制，將臨床專業知識系統性地嵌入 AI 產品生命週期的各個階段，以確保工具安全且具實際效益。",
+      "tags": [
+        "AI對齊",
+        "臨床參與",
+        "醫師主導",
+        "AI治理"
+      ],
+      "author": "未標示（LSE Blogs｜2026-07-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWktbG9Tam5qdU9JZ2x6dXg0NkczQ1RQbkc4OEQySVM5WmhTMS1BVzVUY2tWVEdPelZTOS1STXdEdmlUZ1dEeG9ST25CUXRuMFQ0OHJJeE1QOC1SVUlFa2V5RC1ZSFRsMEFfdnhueUd4ZHR0S0NGblh1Uk9LRThmWFQ1MkduZVVyRTZDM1o5eVZBYW56SXBpa3Vhem9fckdPeXlZODhTdnREY1U"
+    }
+  ]
+}
