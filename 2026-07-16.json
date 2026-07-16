@@ -1,0 +1,131 @@
+{
+  "date": "2026年07月16日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Mayo AI 吹哨者、Sutter Health 起訴 Abridge：醫療 AI 治理危機持續延燒",
+      "summary": "STAT News《AI Prognosis》本期彙整兩大醫療 AI 治理事件。其一，Mayo Clinic AI 吹哨者案持續發酵，前主管指控內部對 AI 安全疑慮遭到壓制，相關訴訟牽動醫療機構如何建立 AI 異議與問責機制。其二，Sutter Health 因導入 AI 醫療記錄工具 Abridge 而遭到訴訟，院方已公開回應，此案涉及 AI 輔助書記工具的知情同意、資料使用與責任歸屬等核心議題。兩起事件均顯示，醫療 AI 快速落地的同時，內部治理、員工保護與法律責任框架尚未健全，對已導入或正評估 AI 書記／臨床決策工具的醫院領導層而言，具有重要的合規參考價值。",
+      "tags": [
+        "AI治理",
+        "醫療法律",
+        "AI書記工具",
+        "患者安全"
+      ],
+      "author": "未標示（STAT News｜2026-07-16）",
+      "source_url": "https://www.statnews.com/2026/07/15/mayo-whistleblower-sutter-abridge-lawsuit-news-ai-prognosis/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "兩黨議員施壓 Medicare Advantage 保險商：AI 拒保行為引發國會調查",
+      "summary": "美國參議員 Blumenthal 與 Hawley 以跨黨派之姿，要求 UnitedHealth、Humana、CVS 等主要 Medicare Advantage 保險商提交內部文件，說明其如何運用 AI 系統拒絕或延遲醫療照護授權。此舉標誌著美國國會對保險業 AI 應用的監管力道明顯升級。調查聚焦於 AI 演算法是否系統性地干預臨床決策、剝奪患者應得的醫療服務。對醫療院所而言，此案不僅影響事前授權流程，亦凸顯 AI 輔助核保的透明度與問責機制已成監管焦點。相關立法動向值得密切追蹤，尤其對依賴保險給付的臨床科室與財務規劃團隊影響深遠。",
+      "tags": [
+        "AI監管",
+        "醫療保險",
+        "事前授權",
+        "美國政策"
+      ],
+      "author": "未標示（STAT News｜2026-07-15）",
+      "source_url": "https://www.statnews.com/2026/07/15/medicare-advantage-ai-care-denials-probe-blumenthal-hawley/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "MGH 與 Dana-Farber 聯手發布 AI 風險預測工具，可同時預測逾 300 種疾病",
+      "summary": "麻薩諸塞州總醫院（MGH）與 Dana-Farber 癌症研究所共同開發一款 AI 風險預測工具，能根據個人健康資料同時預測心臟病、乳癌等逾 300 種疾病的罹患風險。此工具整合多維度臨床與基因組資料，突破傳統單一疾病風險模型的侷限，為個人化預防醫學開創新路徑。相較於現行各疾病獨立評估的做法，此一多疾病整合預測架構有望協助臨床醫師更有效識別高風險族群、提前介入。對醫院預防醫學部門、健康管理計畫及資訊系統整合而言，此類工具的臨床導入可行性與資料治理需求值得進一步評估。",
+      "tags": [
+        "疾病風險預測",
+        "精準預防醫學",
+        "AI臨床應用",
+        "大型語言模型"
+      ],
+      "author": "未標示（The Boston Globe｜2026-07-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUVoTmhJMXpoNXFWb1VXWlpnZXlPb1o2aVFrcmNqcmZqRjhOeGFTZDJDR214ZllmdGg3QktZU2lDR2VzRllNYlBZSXpIcDhzUm4tR0FLN05lelhhZlVsUEVZWjVGSEtEVWxJZ2tmS29DMlNMb3k3YTFHVkt3RGhBZWxJSWpJcVNpT2c"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "Nature 發表貝葉斯框架整合縱向電子病歷與基因體資料，識別潛在疾病特徵",
+      "summary": "Nature 最新研究提出一套貝葉斯生成式框架，能同時整合縱向電子病歷（EHR）與基因體資料，從中識別潛在疾病特徵（latent disease signatures）。此方法突破傳統分析僅能處理單一資料來源的限制，透過機率模型捕捉疾病在時間維度上的動態演變，並與遺傳變異進行關聯分析。研究成果對多重共病管理、新型生物標記發掘及藥物開發具有直接應用潛力。對醫院資料科學團隊與臨床研究部門而言，此框架提供了將龐大 EHR 資料轉化為疾病洞察的嶄新方法論，亦呼應精準醫療對多模態資料整合的長期需求。",
+      "tags": [
+        "電子病歷",
+        "基因體學",
+        "機器學習",
+        "精準醫療"
+      ],
+      "author": "未標示（Nature｜2026-07-15）",
+      "source_url": "https://www.nature.com/articles/s41586-026-10780-5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "醫療 AI 技術護城河消失：2026 上半年數位健康募資報告顯示領域專業才是真正差異化關鍵",
+      "summary": "根據 MedCity News 對 2026 年上半年數位健康募資趨勢的分析，整體融資規模達 74 億美元，其中大型交易（megadeals）吸收近半數資金。報告指出，隨著 AI 技術快速普及化，「技術本身」已不再是新創公司的競爭護城河，投資人與創辦人一致認為，「領域專業知識」——即對特定醫療場景的深度理解——才是真正的差異化優勢。此一趨勢對醫院數位轉型策略具有重要意涵：評估 AI 解決方案時，應優先考量廠商在特定臨床場景的實務經驗，而非單純的技術規格。",
+      "tags": [
+        "數位健康",
+        "醫療AI投資",
+        "產業趨勢",
+        "新創生態"
+      ],
+      "author": "未標示（MedCity News｜2026-07-16）",
+      "source_url": "https://medcitynews.com/2026/07/digital-health-capital-fundraise-startups/"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "未受管控的影子 AI 正成為醫療機構網路安全的隱形炸彈",
+      "summary": "MedCity News 分析指出，醫療機構內部員工自行使用未經 IT 核准的 AI 工具（即「影子 AI」），正在快速累積難以追蹤的網路安全風險。由於醫療資料的高度敏感性，一旦未授權工具發生資料外洩或模型偏誤，將對患者隱私與醫療品質造成嚴重衝擊。文章強調「看不見的就無法保護」，呼籲醫療組織建立 AI 工具盤點與核准機制，並制定明確的使用政策。此議題對資訊安全、法遵與數位轉型團隊均高度相關，尤其在各科室 AI 工具使用日趨普遍的現況下，治理框架的建立刻不容緩。",
+      "tags": [
+        "網路安全",
+        "AI治理",
+        "資訊安全",
+        "醫療法遵"
+      ],
+      "author": "未標示（MedCity News｜2026-07-15）",
+      "source_url": "https://medcitynews.com/2026/07/off-the-radar-how-unapproved-ai-is-complicating-healthcare-cyber-risk/"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "AI 進診間：台灣醫療現場導入 AI 輔助，讓醫護有更多時間陪伴患者",
+      "summary": "鏡週刊報導台灣醫療院所導入 AI 工具的實務經驗，聚焦於 AI 如何協助醫護人員處理行政與記錄工作，進而釋放更多時間專注於患者照護與醫病溝通。報導呈現第一線醫護對 AI 輔助工具的實際感受，包括門診記錄自動化、病歷摘要生成等應用場景，並探討人機協作如何在不取代醫護專業判斷的前提下提升服務品質。此報導貼近台灣本土醫療現場脈絡，對正在評估或已導入 AI 書記、語音轉文字等工具的醫院管理層，提供了難得的使用者視角參考。",
+      "tags": [
+        "台灣醫療AI",
+        "人機協作",
+        "AI書記工具",
+        "醫護體驗"
+      ],
+      "author": "未標示（鏡週刊Mirror Media｜2026-07-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PWUxZNGptZTNPb04tR0p4SDJ3TUNfNTNONHZRSnRmbnZrUTlBQnJhZUpOamV0NGhGLUJIWFZPRTFIWGxjQ1RmUFlRdWlyWi0wYk14dDh2R0FOUTRFNE14MnRncllsMWtx0gFoQVVfeXFMTk9ZTFk0am1lM09vTi1HSnhIMndNQ181M040dlFKdGZudmtROUFCcmFlSk5qZXQ0aEYtQkhYVk9FMUhYbGNDVGZQWVF1aXJaLTBiTXh0OHZHQU5RNEU0TXgydGdyWWwxa3E"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "台大院長：AI 醫療走向人機協作，機器人共同手術是可預見的未來",
+      "summary": "台灣大學醫學院附設醫院院長接受 ETtoday 採訪時表示，醫療 AI 的發展方向將從純軟體輔助走向「人機協作實體化」，意即 AI 機器人參與手術操作將在可預見的未來實現。院長強調，此一趨勢並非取代醫師，而是透過機器人精準執行特定操作，使手術更安全、更精準。報導同時涵蓋 AI 在影像判讀、臨床決策支援等領域的現況，以及醫院如何為此調整人才培育與設備投資策略。此一來自頂尖醫學中心領導層的前瞻觀點，對台灣各醫療院所的中長期數位轉型規劃具有重要參考價值。",
+      "tags": [
+        "台灣醫療AI",
+        "手術機器人",
+        "人機協作",
+        "數位轉型"
+      ],
+      "author": "未標示（ETtoday健康雲｜2026-07-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oOTd2NnJic1hEcUJWblpyWjhMaGx5MlRONHNfTXh0YldEZHVrUl8tR2E5cjlnUmVSUmFyV2JLVktlUWt2OFQtX1g3d3Fsdkty0gFsQVVfeXFMUEZ6MGl4Umo0OHNLUFhCVXh2ZTRaNUhkSmJBdW9JUVY3MXhHVk16NHNZQ3ItWjdvN0tjNnowaU43RGcwSkxmZlVNT1JsenBlakptWF9WZjlORzl2NWxwT1lybk9rdldGLUlfX21K"
+    },
+    {
+      "rank": 9,
+      "score": 6.0,
+      "title": "新北市全國首創老人健保補助 AI 語音查詢專線，24 小時服務長輩",
+      "summary": "新北市社會局推出全國首創「老人福利補助 AI 智能查詢專線」（0800-585-085），民眾可透過電話語音與 AI 系統互動，即時查詢老人健保補助資格與相關福利資訊，服務時間不受辦公時間限制。此舉旨在降低高齡長輩查詢行政資訊的門檻，減少須親自臨櫃或等待人工服務的不便。專線採 AI 語音辨識與自然語言處理技術，能理解長輩口語化提問並給予精準回覆。此案例展示 AI 應用於政府社福服務的本土實踐，亦可作為醫院高齡照護服務、智慧客服導入的參考模式。",
+      "tags": [
+        "台灣健保AI",
+        "高齡照護",
+        "智慧客服",
+        "政府服務"
+      ],
+      "author": "未標示（自由健康網｜2026-07-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lWGF1ZDNwUXE4OE1GVTgxM1pLWFFVbmdCZnZXQ1NObFF6b1YzUTNkUmZhNEF6Nm43RVZ5WjMxcDVjLUFNb081MjFqVkU5LUNfVkVnamNiSTNvV3o0dWZrOXREOW05bkQyVWfSAWpBVV95cUxPZVhhdWQzcFFxODhNRlU4MTNaS1hRVW5nQmZ2V0NTTmxRem9WM1EzZFJmYTRBejZuN0VWeVozMXA1Yy1BTW9PNTIxalZFOS1DX1ZFZ2pjYkkzb1d6NHVmazl0RDltOW5EMlVn"
+    }
+  ]
+}
