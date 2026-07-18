@@ -1,0 +1,131 @@
+{
+  "date": "2026年07月18日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "環境 AI 在診間：The Lancet 深度剖析環境式 AI 病歷記錄的臨床忠實度與倫理挑戰",
+      "summary": "《刺胳針》2026年7月18日刊出一篇觀點文章，以真實診間情境探討環境式 AI（ambient AI）自動生成病歷的臨床忠實度問題。文章描述一名醫師審閱 AI 從晨間門診對話自動生成的糖尿病患者病歷：AI 精確捕捉了患者提及自行停藥的關鍵資訊，但對患者耗費大量時間訴說的照顧者壓力與情緒困境，則以精簡但缺乏溫度的語言帶過。作者指出，「忠實度」不僅是技術準確性，更涉及對人類經驗的詮釋深度。AI 病歷可能遺漏影響後續治療決策的社會心理脈絡，形成「技術上正確、臨床上不完整」的記錄。文章呼籲醫療機構在導入環境式 AI 時，需建立清晰的臨床監督與審查機制，並重新思考「臨床文件」的核心定義，確保 AI 輔助記錄不削弱醫病關係的質地與深度。此議題對正評估或已部署 AI 病歷系統的醫院具有直接參考價值。",
+      "tags": [
+        "環境式AI",
+        "電子病歷",
+        "臨床治理",
+        "醫病關係"
+      ],
+      "author": "未標示（The Lancet｜2026-07-18）",
+      "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01388-7/fulltext?rss=yes"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "醫療 AI「機器人對機器人」的事前授權戰爭正在推高全體醫療成本",
+      "summary": "MedCity News 於2026年7月18日報導，Hospital for Special Surgery（HSS）首席數位暨資訊長 Ashis Barad 指出，隨著醫療提供方與保險支付方雙雙大規模部署 AI 處理事前授權（prior authorization）與申訴，醫療體系正陷入一場「機器人對機器人（bot vs. bot）」的消耗戰，而這場戰爭的代價最終由整體醫療系統與患者共同承擔。Barad 曾任職於支付方與提供方兩側，他認為問題根源在於雙方資料孤島，各自訓練 AI 以對抗而非合作為目標。他提出的解方是建立跨方資料共享機制，共同打造以患者為中心的個人化照護路徑，讓 AI 從「審查武器」轉型為「協作工具」。此觀點切中當前醫療 AI 治理的核心矛盾，對醫院資訊長與醫務管理層評估 AI 採購策略具有重要參考意義，亦凸顯單方面導入 AI 自動化恐適得其反的風險。",
+      "tags": [
+        "事前授權",
+        "醫療AI治理",
+        "支付方",
+        "數位轉型"
+      ],
+      "author": "未標示（MedCity News｜2026-07-18）",
+      "source_url": "https://medcitynews.com/2026/07/healthcare-ai-hss/"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "Raidium 將 AI 原生放射科平台擴展至美國多家癌症中心，腫瘤影像工作流程全面升級",
+      "summary": "HIT Consultant 與 Imaging Technology News 於2026年7月18日及17日分別報導，AI 放射科新創 Raidium 正式宣布將其 AI 原生腫瘤影像工作流程平台（AI-native oncology imaging workflow）部署至美國多家癌症中心。該平台以 AI 為核心設計，而非傳統影像系統的附加模組，旨在全面整合影像擷取、分析、報告生成與後續追蹤流程，縮短放射科醫師閱片時間並提升腫瘤病灶偵測一致性。此次擴展標誌著 AI 放射科工具從單一功能輔助走向全流程平台化的重要轉折。對於正在評估或升級腫瘤影像診斷能力的醫院放射科與資訊部門而言，此案例展示了 AI 原生架構與傳統 AI 外掛方案在整合深度上的本質差異，值得在採購評估與工作流程再造規劃時納入參考。",
+      "tags": [
+        "放射科AI",
+        "腫瘤影像",
+        "工作流程自動化",
+        "癌症中心"
+      ],
+      "author": "未標示（HIT Consultant｜2026-07-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQnBsdC1JaWtlZ20zVnBEVzJhNXhLM3gyTWNiOHV3RDNkeV8yV2lwV01QelBlMFRnR3JocWZfU1hSVEhGTXNMVmlPajdpcFB3MjVXR2w0dHRsaXNHa1pwNWV3NEdmS2JfNmdBYUx4SEtHUXBlNFJBaS01YUkzbkhlQ1hQZHFFa3RsZWxVZE9hWWRDWjQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "AI 有望消除部分 MRI 掃描的顯影劑需求，影像醫學技術迎來重大突破",
+      "summary": "Radiology Business 於2026年7月17日報導，研究顯示 AI 模型有潛力在特定 MRI 掃描場景中取代傳統顯影劑（imaging contrast agent）的使用。現行 MRI 顯影劑（尤其是鈆基對比劑）存在腎功能受損患者的安全疑慮，以及對比劑沉積於腦部的長期風險。新一代 AI 影像重建與增強技術透過深度學習模擬顯影劑增強效果，在無需注射對比劑的情況下提升影像對比度與病灶可見性。此技術若通過臨床驗證並獲監管機構核准，將對腎病患者、顯影劑過敏族群及需反覆追蹤的腫瘤患者帶來顯著效益，同時降低耗材成本與醫療廢棄物。對放射科主任與臨床科主任而言，此趨勢值得持續追蹤，以評估未來採購 AI 影像重建系統的臨床與經濟效益。",
+      "tags": [
+        "MRI",
+        "放射科AI",
+        "顯影劑",
+        "影像重建"
+      ],
+      "author": "未標示（Radiology Business｜2026-07-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU2J4NVY3MWpBd3ZTM05fd2ZxNVYweE1BZzZXOUxvcHVlZ2c4aHJLaTlLc01sM3ljYklMZUY3ZTduZEc4TzYtVUh0VU5OZTU0R0ZxdE4yTmU2Q2U3NEpCcGpoXzBLeGVWcUE4N00ySTgtU3JySzM1VENNWHpRd2tfRlVySVVDYVotSVV3cUEzR1A0ejdjRXlpd3lQVmQ2UkVpemtHWEJ2QVI4eHdPYWZNZllZUW5NTHhZWUpQcWRWUW81aU9XRHhFMmtlTUh1MDA?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "Unisound 與多家醫院簽署大型合約，新一代醫療 AI 模型正式進入臨床部署",
+      "summary": "The Globe and Mail 於2026年7月18日報導，中國 AI 語音與醫療 AI 企業 Unisound（雲知聲）宣布與多家醫院簽訂大型合約，推動其新一代醫療 AI 模型的規模化臨床部署。Unisound 的醫療 AI 產品涵蓋語音病歷輸入、智慧問診、影像輔助診斷等多個場景，此次合約簽署顯示醫院端對整合式 AI 解決方案的採購意願持續升溫。此消息對評估醫療 AI 供應商版圖的醫院管理層具有市場參考價值，亦反映亞太地區醫療 AI 商業化步伐加速的產業趨勢。醫院資訊部門在選型時可關注其平台整合能力、資料隱私合規性及在地化支援能力，以作為同類型採購決策的參照依據。",
+      "tags": [
+        "醫療AI部署",
+        "語音病歷",
+        "亞太市場",
+        "智慧醫院"
+      ],
+      "author": "未標示（The Globe and Mail｜2026-07-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNemxpaEJPVDgwbll4c2tudFhJLU5RakJVVGFKVzU0OGNPb1FOZGFTWkUtc1U1dk5oNnljdVE0cHBfSDBnTU9pa1N1Zkt2ZEVuR0RlN21YdWg5SG93OXMyNkxWSG1raHl6aTdxZXpJcTcxYzFacVQwdE9hMGc3ekh5MEpmcWRDU0M0ZGZjbGRRWllWcmYzN3F0akMtMHBPSEhMRkhhQUNfbWxQU0xERXFpNDdjcHFfZV9qQVp6MXJiWkFZSVZBcDY0elNkNURWYk9vVEVGd0NXbDBMbmZV?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "醫療 AI 的「臨床著作權」缺口：誰該為 AI 生成的臨床決策負責？",
+      "summary": "KevinMD.com 於2026年7月18日刊出評論，提出「臨床著作權（clinical authorship）」概念，探討當 AI 系統生成診斷建議、治療計畫或病歷文件時，醫療問責體系面臨的根本性缺口。作者指出，現行醫療法律與倫理框架預設臨床決策由有執照的醫療人員「著作」，然而隨著 AI 工具深度嵌入臨床流程，「誰是這份決策的真正作者」已成模糊地帶。若醫師僅審閱而非實質判斷 AI 輸出，其法律責任範圍應如何界定？文章主張醫療機構與監管機關應盡速建立「臨床著作權」原則，明確定義 AI 輔助決策中人類監督的最低標準與責任歸屬，避免在醫療糾紛或患者傷害事件發生時陷入責任真空。此議題對醫院法務、醫務主任與資訊部門制定 AI 治理政策具有直接參考價值。",
+      "tags": [
+        "醫療AI治理",
+        "臨床責任",
+        "AI倫理",
+        "問責機制"
+      ],
+      "author": "未標示（KevinMD.com｜2026-07-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNjJsQU5oTFpfVWd6bmxiZ1F1VU42VEl4dlo0VjA0QXNTeVhCVk1iS0R3S0xENkdFcHR0a0Izb0hzRWg1eHVXdU1vbGg2WkhiWFBNV1c4TDdnc09aYS05SjhLLUpFcmhkYmx4LUE4blNualZ3THhNNjFkcm5WYzU5SU9HN18waDJncE9PekFZd2wzdw?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "從 Lindsey Graham 之死看醫療 AI 的診斷盲點與人機協作邊界",
+      "summary": "Forbes 於2026年7月17日發表評論，以美國參議員 Lindsey Graham 的死亡事件為引，探討醫療 AI 在複雜臨床情境中的侷限性與潛在診斷盲點。文章指出，即便是最先進的 AI 輔助診斷系統，在面對非典型症狀、共病複雜或稀有疾病時，仍可能產生誤判或遺漏關鍵警示。作者強調，醫療 AI 的真正價值在於擴增（augment）而非取代臨床醫師的判斷，人機協作的品質取決於醫師能否識別 AI 的能力邊界並適時介入。文章同時呼籲醫院管理層建立明確的 AI 使用情境指引，界定哪些臨床場景適合倚重 AI 輸出、哪些場景必須強化人工審核，以避免過度信任 AI 導致的患者安全風險。此觀點對臨床科主任制定 AI 輔助診斷的人機協作規範具有參考意義。",
+      "tags": [
+        "臨床AI",
+        "診斷安全",
+        "人機協作",
+        "患者安全"
+      ],
+      "author": "未標示（Forbes｜2026-07-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQkJuT3RRQW9vS0xGei1BSDB1d0JJZ1dyOEN4X3dKYzU4UjYydW52T3pfM2tjQlZvYzhnOGNjeU1JcXVPcktlcGp3bzdEOWxiWmUxakNrUWpnWWxYTlFYTDBqZTZaZl9fMTlBZm9RSnE1THBWZ0NIQ0xrSlBqalI2ejJOVDdQaHFucUdwSDFPRnI0REx0eGJyWUFlcTduRUg3WG9hdm5lYlMzeXpQa3k3MzBEM0o2cnhXTE8wZA?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.0,
+      "title": "台灣數位健康新浪潮：AI 如何重構醫療與健康服務產業生態",
+      "summary": "Yahoo 新聞於2026年7月17日刊出深度分析，梳理 AI 技術如何從多個維度重構台灣醫療與健康服務產業。文章涵蓋 AI 在門診輔助決策、遠距監測、精準用藥、醫療影像判讀及健康管理平台等場景的在地應用現況，並分析台灣獨特的健保資料庫優勢如何成為 AI 模型訓練的核心資產。報導同時指出，台灣醫療 AI 生態系正逐步從單點工具走向整合平台，跨機構資料協作與監管沙盒機制的建立成為下一階段發展的關鍵挑戰。對於奇美醫療體系等大型醫療機構而言，本文提供了觀察台灣醫療 AI 產業整體方向的參考框架，有助於領導層在制定中長期數位轉型策略時掌握在地生態趨勢與潛在合作夥伴動向。",
+      "tags": [
+        "台灣醫療AI",
+        "數位健康",
+        "健保資料",
+        "數位轉型"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-07-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOSzYxZHlvMlQ0MzFqMjFHSjI5WVNuSzB5UmNva2Z4TndpbmUwaExja3V5UkRNX1YzandkclY2b1FYWmMwSE9FM1ZlVFB2WHA2aV9qREtMaVBmbTMyLVlVWURnZGhnY2ZvV0F6Wk1yU1B6V1VfRzZTeThUVkN5OE5QbUtOTUVSaVQ4QjY3d2pGUXJyVzk5MzhORklVUTh5el9tanJXaV9wSzFwTVktdC1URk8yazJlRTgwbTB1bzlNZmJhVGp6N2NBeVRKaUpSajVTNzVQdThsYVZMQWFWZUVGX1QyeUlOMWI1UDhubHNfS0VxRWpPYjNjcnNlaEZtZzVlNlNWZVpDM2dCT1h2T1BPeDVGakNId3JXVU4wdV9hRDFFVVFVZllDR0xzWjFrZ1E3ak1OUWdFV3FicXNiM056NmdOQ05vOVFiSTVKREN0X056V3B1bWlPWnhBLXlpdkprLWhDMkwxNlBtc3hWVG55R3lQaGJjU0I5?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 5.5,
+      "title": "華碩 AI 醫療布局台灣與新加坡雙地開花，低碳醫療數位轉型同步推進",
+      "summary": "中時新聞網與中央社於2026年7月17日至18日接連報導，華碩在台灣與新加坡的 AI 醫療業務均取得進展。其中，華碩與關渡醫院簽署合作推動低碳醫療數位轉型，將 AI 技術與能源管理整合，目標在降低醫療院所碳排放的同時提升營運效率。新加坡方面，華碩的 AI 醫療解決方案亦持續深化當地醫療機構的合作布局。此系列報導顯示台灣科技大廠正加速跨域進入醫療 AI 市場，並將永續（ESG）議題與數位轉型策略結合。對台灣醫療機構而言，科技業者的大規模進場既帶來更豐富的解決方案選項，也意味著採購評估時需更審慎比較醫療專業深度與技術整合能力，並關注合作廠商的長期服務承諾與資料安全機制。",
+      "tags": [
+        "台灣醫療AI",
+        "華碩",
+        "低碳醫療",
+        "數位轉型"
+      ],
+      "author": "未標示（中時新聞網｜2026-07-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00dWRybkJhNFJsWHBmZWdOVkd0Q3VqVFdqNHlib1RaU1VuTFJpU09CWURkT0lQaWg3dEJDVFUtQnN2cm1DN1Q4RGdxRE8teUx0Xzd6UjJpT2k4bTZEYTVMZUh1Mnk2WmJlVmNR?oc=5"
+    }
+  ]
+}
