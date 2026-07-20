@@ -1,0 +1,89 @@
+{
+  "date": "2026年07月20日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "醫療 AI 新創 OpenEvidence 擬完成 2 億美元融資，臨床決策支援市場競爭加劇",
+      "summary": "醫療 AI 新創公司 OpenEvidence 正在評估一輪規模達 2 億美元的融資計畫。OpenEvidence 專注於為臨床醫師提供以醫學文獻為基礎的 AI 問答與決策支援服務，其產品定位有別於通用型大型語言模型，強調以循證醫學為核心。此輪融資若順利完成，將使該公司在臨床知識 AI 領域的資本實力大幅提升，並可能加速產品研發與市場擴張。近年來，醫療 AI 臨床決策支援賽道競爭日趨激烈，包括 Google、Microsoft 等科技巨頭及多家醫療專屬 AI 新創均積極布局。本輪融資訊號顯示，投資方對以嚴謹醫學內容驅動、針對臨床使用場景優化的垂直型醫療 AI 平台仍具高度信心，此一趨勢值得醫療機構在評估臨床 AI 合作夥伴時密切關注。",
+      "tags": [
+        "臨床決策支援",
+        "醫療AI新創",
+        "融資",
+        "大型語言模型"
+      ],
+      "author": "未標示（PYMNTS.com｜2026-07-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmZRTW9NWk9TbEJvaVphdC1VVFVPRmNELXpLeFVIMnMxd3dDMU42c3FOR0JxdkJQd29ubFlWMnVSMXVNazl2LUdFNkNaZGhxMVVkUWt5eFdidWlCREJnbGwza3FfMUxlaFUxSmZtY1kyZmhWbVJ4eXpmQloxNWh1Z25MQ3d0ZGdCcnpsUmFHRDd5THN5WS1NWU5YMmpiekM1QkxYMnlSTGRFbkx2b0FNc1RoTEd5Tkc4U2tWNTZhYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "首爾國立大學盆唐醫院啟動「全棧式醫療 AI」系統，涵蓋健康管理、治療到預後全流程",
+      "summary": "韓國首爾國立大學盆唐醫院宣布將建構一套「全棧式醫療 AI」（Full-Stack Medical AI）系統，整合範圍涵蓋健康管理、疾病治療與術後預後追蹤三大核心環節。此計畫代表醫院層級的 AI 建設從單點工具導入，升級為端對端、跨臨床流程的系統性整合，是亞洲頂尖學術醫療中心中少見的全面性布局。全棧式架構意味著資料在各節點間能夠串聯流通，有助於建立連續性的病患健康紀錄，並以 AI 驅動不同階段的臨床支援決策。此一模式對於正在規劃數位轉型路徑的醫療機構而言具有重要參考價值，尤其在如何統籌院內異質系統、確保 AI 介入的連貫性與安全性方面，提供了可觀察的實踐案例。",
+      "tags": [
+        "全棧式醫療AI",
+        "智慧醫院",
+        "臨床流程整合",
+        "亞洲醫療"
+      ],
+      "author": "未標示（스포츠조선｜2026-07-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVXJtZGFKV2FGMDlRRm41Z3ZpbkQ1NHgxUHo3b3ZfemdnLVFfSmppcy10c0l4ZkZGNVBTV3pwaEZVdTk1SUJtU2hwQlkxcnoxUU5CU21CMkZ0aTRYOGF2VTV1QmJoWTNuWVRvS1g0UEZyQ0dTRno4cDVoOGRkQmtlSA?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "AI Chatbot 進入醫療現場的落差與風險：效率工具還是精準陷阱？",
+      "summary": "本文深度探討 AI Chatbot 導入醫療場域後所呈現的現實挑戰。文章指出，雖然生成式 AI 在文書整理、初步諮詢等行政效率上展現優勢，但在臨床精準度方面仍存在顯著風險，尤其是當 AI 面對罕見疾病、複雜共病或文化語言差異時，可能出現「水土不服」的誤判情形。文章進一步分析，AI 生成的建議若缺乏臨床醫師的嚴格審核機制，極可能在高風險決策場景中造成傷害。作者強調，醫療機構在引入 AI Chatbot 時，應審慎區分適用場景，避免對 AI 能力過度仰賴，同時建立明確的人機協作邊界與責任歸屬框架。此議題對目前正在評估或已部署醫療 AI 對話工具的醫院管理層，具有重要的風險意識參考價值。",
+      "tags": [
+        "AI Chatbot",
+        "醫療風險",
+        "人機協作",
+        "臨床安全"
+      ],
+      "author": "吳雅詩（BusinessFocus｜2026-07-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS2toYnZXdnQxNFY0Z1U5RGNtTU1nZzRXMHJ1ZGhySHh5Uzd5NUxVZmZBU2dZNzlRMUhCcTlzcWZfUFBXTTB3ZXVDamtDd1FCQXVnQ3FmN09hTWhjNU5saUliSUJoVXpteUFyX0xRM2N2OXlFWEFkX1Y5bFg1RkhlMUd1T2FRVjFwaENqY2V0V09KQW5kVzlfckdJQTZVbzI5Q1I1Z1h5QVc4VkJ0emZyM0Fjb3RfLUxUM0dlVWppalhmMVgya0t1ZEYtR2VBOE0?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "AI 預言放射科將消亡十年後：放射科醫師薪資達 57.1 萬美元且持續成長",
+      "summary": "Fortune 報導指出，距離「AI 教父」Geoffrey Hinton 於約十年前預言放射科醫師將因 AI 而淘汰，現實結果與預測截然相反：美國放射科醫師平均薪資已攀升至 57.1 萬美元，且仍持續走高。這一現象揭示了 AI 在影像醫學領域的實際角色：並非取代人力，而是成為提升效率、補充判讀量能的輔助工具。放射科醫師需求量隨著影像檢查量的持續擴增而增加，AI 反而協助消化龐大的工作負荷而非削減人力。此一數據對於醫院在規劃影像科 AI 採購策略、人力資源配置及薪酬政策時，提供了重要的長期視角，亦有助於緩解臨床人員對 AI 取代就業的疑慮。",
+      "tags": [
+        "放射科",
+        "AI取代論",
+        "人力資源",
+        "影像醫學"
+      ],
+      "author": "未標示（Fortune｜2026-07-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ08zN2IzbWljc2ZpS09QUzltSk5pQ0d4QkRyZ1RzTVhTVEdpa09vd3hoZjRpdzNfRUhaNUZBODM4VU1mYW5nVlA5ZDhNdm5PN01HOGxtekxKLTVTY3VyejFXQWI0WjlhX2NXeld0aF8xT016cWhKVjIyR3ViV3gyVXRHVFBJb2QxQXZXNFBlbk1rZjBQMnpuaThoNzl3Ync?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "AI Chatbot 判讀 X 光過度自信且錯誤率高：研究警示臨床部署風險",
+      "summary": "研究指出，現行多款 AI Chatbot 在判讀 X 光影像時，即便結論有誤，仍會以極高的確定性語氣呈現答案，形成「過度自信」（overconfidence）的系統性問題。此現象對臨床應用構成重大風險，因為醫師若依賴這類工具進行初步篩讀，可能因 AI 的自信表述而降低自身的批判性審視，進而導致誤診或延誤診斷。研究強調，AI 影像判讀工具在校準（calibration）方面仍有顯著不足，模型輸出的信心分數與實際準確率之間的落差，是當前部署前測試中最容易被忽略的評估面向。這對於醫院採購或驗證 AI 影像工具時，應將「不確定性量化」與「校準測試」列為必要評估指標，提供了直接的臨床安全警示。",
+      "tags": [
+        "影像AI",
+        "X光判讀",
+        "過度自信",
+        "臨床安全"
+      ],
+      "author": "未標示（the-decoder.com｜2026-07-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNWtMNllmc0w5SlFCanc2U05LOHdnY2pRR2dRdzE4Vmt6RDNMNmppeWlQd1o3bEZ3aTFTOEJUeWM5OHF4dTVHUF84SGtHZ0dXbjI5dTVjZXdSWkFYREozd3lGcXdTUHd0NERETVVJYkZ3Q2xFVGVfY0o4SF81eWdUMVJQY2FvT0k1cVdHYXJ3N0hNNG1WOFVKempaVnN5bXlXUHN5UHNB?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "Apple Face ID 發明者轉型醫療 AI，目標讓大腦健康檢測如抽血般普及",
+      "summary": "前蘋果工程師、Face ID 技術主要發明者 Ruben Caballero 已跨足醫療 AI 領域，致力於開發非侵入式的大腦健康評估技術，目標是讓神經系統疾病的早期篩檢達到如血液檢測般的便利性與普及度。其核心技術利用感測器與 AI 模型分析生理訊號，以偵測認知功能異常的早期跡象。此一方向契合全球高齡化社會對失智症、帕金森氏症等神經退化性疾病早篩工具的迫切需求。若技術成熟，可望大幅降低神經科診斷的門檻，並為基層醫療提供可擴展的篩檢方案。頂尖科技人才跨界投入醫療 AI，亦顯示消費電子感測技術與臨床應用的融合趨勢正持續加速。",
+      "tags": [
+        "神經系統疾病",
+        "早期篩檢",
+        "可穿戴裝置",
+        "醫療AI新創"
+      ],
+      "author": "未標示（TechNews 科技新報｜2026-07-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpU2hiTTFyRHprc1VxVUFuUFgtZWtVcDI0VHJzZldiR1I3d1BsUTFTUHlnZnhReGI1cXR4c1gxc3JSUm5kLW1zZjUzQUR2elFWV2w1TlliOUVNVEhGcGF3WWN1ZVc4VjlvQVB6cXdKTnFPdw?oc=5"
+    }
+  ]
+}
