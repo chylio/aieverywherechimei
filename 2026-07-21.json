@@ -1,0 +1,131 @@
+{
+  "date": "2026年07月21日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Aidoc 放射報告草擬 AI 獲 FDA 突破性指定，影像醫學自動化邁入新里程",
+      "summary": "影像 AI 領導廠商 Aidoc 宣布其放射科報告草擬 AI 系統獲得 FDA「突破性醫療器材指定（Breakthrough Device Designation）」，成為全球首批獲此殊榮的放射報告自動化工具之一。此指定意味著 FDA 將給予優先審查資源並與開發商密切互動，加速取得上市許可的時程。Aidoc 的系統能根據影像掃描結果自動生成結構化診斷報告草稿，目標大幅縮短放射科醫師報告撰寫時間、降低積壓工作量。此舉對全球面臨放射科人力短缺的醫療體系具有重要意義，亦顯示 FDA 對臨床工作流程 AI 輔助工具的政策態度持續開放。對於正在評估影像 AI 導入的醫院資訊與放射科團隊而言，此一監管里程碑值得密切追蹤，後續上市時程與臨床驗證數據將是決策關鍵依據。",
+      "tags": [
+        "放射科AI",
+        "FDA突破性指定",
+        "影像醫學",
+        "工作流程自動化"
+      ],
+      "author": "未標示（The Healthcare Technology Report｜2026-07-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQk1oc3Ywd1hMb1hZcHRLV3ZPSWJyQ18weHJxakpVUlB2QU4xd2IwSndaQVdEazZDa3JTOHdvMVJmeWNUYUM1cktZX09Sc0hNVTh3X1FrV1Z2bW5UbFpRT1BlTHhCWTFTWUdHVFVLQWNRMDZmMkgwa09LNGY5Z0xkWHR6TVFOYWZybE9vNEpXZTBNeHdjVFpqa1FLQVNhcUhjNmYwRmtJRk10ME1Gdm8xOXh0NW52R0VLazNV?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "臨床 AI 如何定價付費？Peterson 研究院提出三大關鍵警示",
+      "summary": "Peterson Health Technology Institute 最新報告指出，現行醫療支付模式根本不適用於臨床 AI 工具，若不加以改革，反而可能推高整體醫療成本。報告提出三大核心觀察：第一，現行論量計酬（fee-for-service）制度可能誘導不必要的 AI 驅動檢查或治療；第二，缺乏成效導向的付費機制，使醫院難以獲得合理回報而陷入投資困境；第三，AI 的跨機構擴散效益無法在現行架構下被合理捕捉。報告呼籲 CMS 及民間保險業者儘速建立以病患預後為核心的 AI 給付框架，並要求 AI 工具提供真實世界臨床證據才能申請給付。此議題直接影響醫院決策層評估 AI 投資報酬率的依據，也與先前 CMS 提出的成效導向給付方向相互呼應，是 2026 年下半年醫療 AI 政策最關鍵的討論焦點之一。",
+      "tags": [
+        "臨床AI給付",
+        "醫療政策",
+        "支付模式改革",
+        "CMS"
+      ],
+      "author": "未標示（MedCity News｜2026-07-21）",
+      "source_url": "https://medcitynews.com/2026/07/how-should-clinical-ai-be-paid-for-3-takeaways/"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "Johns Hopkins 與 FDA 合作開發工具，專門揪出醫療 AI 訓練資料中的隱性偏誤",
+      "summary": "Johns Hopkins 大學研究團隊與 FDA 合作，發表一套可系統性偵測醫療 AI 訓練資料中「隱性偏誤」的評估工具。研究指出，許多醫療 AI 模型雖在整體表現上達標，但針對特定族群（如少數族裔、老年人或低收入患者）的預測準確率明顯偏低，此類偏誤往往隱藏於訓練資料的採樣不均與標籤錯誤中，難以用傳統驗證方法察覺。新工具能自動掃描資料集的人口結構分布、標記潛在偏誤區段，並生成可供監管審查的偏誤報告。FDA 的參與顯示此類工具未來可能納入醫療 AI 上市前審查的標準流程，對正在自建或採購 AI 解決方案的醫院資訊部門具有直接的合規參考價值，有助於在部署前識別並修正模型公平性問題。",
+      "tags": [
+        "AI偏誤",
+        "資料品質",
+        "FDA監管",
+        "醫療AI公平性"
+      ],
+      "author": "未標示（iAfrica.com｜2026-07-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSlZVeTNoQ0QtdUZzN2F2Rkl4RE5HZVo3eGM3aF9qRXk4cmMxM3J1eWFPUURXZU1aRnJMSFZESzhsWDFKLWVxMVNYWFc0bnFNU0VTemdsRVAxenVJaVcydlVJY1dTbk9SYy1LRXpVZXJBMnFwWXpSRmY1dnpGck9GdFJDcmlYQTMyY3NfREs4TTQwRXUxeUpyT3k1WDZYSjVid2pPVm5oRQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "協助病患的 AI 同時成為攻擊醫院的武器——芝加哥大學醫學中心資安主管示警",
+      "summary": "芝加哥大學醫學中心資訊安全暨隱私長 Karen Habercoss 公開示警，指出醫療機構廣泛導入 AI 以改善照護品質的同時，駭客與國家級攻擊者也正利用同等技術發動更快速、更精準的網路攻擊。AI 能自動化掃描醫院系統弱點、生成高度擬真的釣魚郵件、甚至偽造醫療語音指令，使傳統防禦機制難以應對。Habercoss 強調，醫院必須建立跨部門的 AI 治理架構，將資安風險納入 AI 導入決策的核心評估項目，而非事後補救。她指出現行多數醫院的 AI 治理框架仍側重臨床效能，對雙重用途風險（dual-use risk）明顯準備不足。此議題對正在推進醫療 AI 數位轉型的醫院領導層與資訊部門具有高度警示意義，建議將 AI 資安評估納入採購與部署標準流程。",
+      "tags": [
+        "醫療資安",
+        "AI治理",
+        "網路攻擊",
+        "雙重用途風險"
+      ],
+      "author": "未標示（MedCity News｜2026-07-21）",
+      "source_url": "https://medcitynews.com/2026/07/ai-cybersecurity-hospital/"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "醫療 AI 的專利、FDA 審查與 HIPAA 三重法規張力：開發者如何在夾縫中生存",
+      "summary": "MedCity News 深度分析指出，醫療 AI 開發者正同時面臨三套相互牽制的法律體制：專利法要求盡早公開揭露以確保保護，但過早揭露可能影響 FDA 審查策略；FDA 的上市前審查強調安全性與臨床證據，但審查週期拉長又可能讓競爭者搶先佈局；而 HIPAA 對患者資料的嚴格限制，則直接制約了訓練資料的可及性與模型的持續優化空間。文章指出，三種法律框架的設計初衷各異，彼此之間缺乏協調機制，導致開發者必須從立項之初便同步規劃法規路徑，否則後期調整成本極高。此分析對醫院自行開發或與新創合作推動 AI 工具的法務、資訊與臨床團隊具有實務參考價值，有助於提前識別合規風險並建立跨部門協作機制。",
+      "tags": [
+        "醫療AI法規",
+        "FDA審查",
+        "HIPAA",
+        "知識產權"
+      ],
+      "author": "未標示（MedCity News｜2026-07-20）",
+      "source_url": "https://medcitynews.com/2026/07/the-ai-tension-in-healthcare-patent-strategy-fda-reality-and-hipaa-constraints/"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "Tempus AI 以 15 億美元收購 Personalis，液態切片與癌症 MRD 檢測市場格局劇變",
+      "summary": "醫療 AI 領導企業 Tempus AI 宣布以 15 億美元收購液態切片公司 Personalis，交易完成後將強化其在微量殘存病灶（MRD）檢測領域的市場地位。Personalis 的核心產品能在癌症初次治療後偵測血液中極微量的殘留癌細胞，Tempus AI 自 2023 年起即為其商業合作夥伴，熟悉其技術架構與市場通路。此次垂直整合意味著 Tempus 將把 AI 數據分析平台與高敏感度基因檢測緊密結合，預期大幅提升癌症復發預警的精準度與商業規模。MRD 市場目前快速成長，多家大型檢驗機構與醫療 AI 新創均積極布局。對腫瘤科與病理科而言，此一整合將影響未來癌症隨訪監測的工具選擇與採購策略，也反映醫療 AI 與精準診斷正加速走向高度整合。",
+      "tags": [
+        "癌症AI診斷",
+        "液態切片",
+        "MRD檢測",
+        "醫療AI併購"
+      ],
+      "author": "未標示（MedCity News｜2026-07-21）",
+      "source_url": "https://medcitynews.com/2026/07/tempus-ai-personalis-acquisition-cancer-mrd-diagnostics-detection-tem-psnl/"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "醫療 AI 會考試不等於會看病：權威研究揭示臨床任務表現僅 44.8 分",
+      "summary": "一項廣受關注的權威研究指出，現行主流醫療 AI 模型雖然在標準化醫師執照考試（如 USMLE）中表現優異，但面對真實臨床任務時，綜合表現評分僅達 44.8 分（滿分 100 分），顯示考試型評估與實際臨床應用之間存在顯著落差。研究分析了模型在病史詢問、鑑別診斷、治療計畫擬定及與患者溝通等多個臨床情境下的表現，發現模型在需要整合多源資訊、處理模糊情境及進行動態決策時表現明顯不足。研究者警示，以考試成績作為醫療 AI 臨床部署的主要評估依據存在根本性風險，呼籲建立更貼近真實臨床工作流程的評估標準。此一發現對醫院在評估與採購醫療 AI 工具時，具有重要的方法論參考意義。",
+      "tags": [
+        "醫療AI評估",
+        "臨床驗證",
+        "AI性能落差",
+        "患者安全"
+      ],
+      "author": "未標示（Newswav｜2026-07-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOWkt2RVZGOWlOcUZ5bXI0UHJFTFB1WVlEaEJLN2EzSFRTWkdGSVd1Mzc2dkhLMnlPV1ZqZkI0cmJ3eHFWVkJHTmxRVDZnaDYtV0ItWnRYNl9aYVZBV01rMFU0d21QeV9ITHF6azBJTEhXNkt6RUVGTGlTVGI4djNfbmZHdlVOZFNmWENNeWIxSEVJcm9KYXFQV0p6akVHRGpzRGVwWnQ2YUI5ZEZ4YmUzaENCR19hTUhwR3BiaTZCbWdEd2szdXd3NlVfRXNPUzd4cE9lMDRrUmpacnFHampvYUhrM0ZwakJCaUhzMndSTlNsQlVRcmo1NXBuQjJXMzRKM0Y2dzkydV9XaFBHT2k1MEl6RVpuMmxuRklJQmdKZWh0ck5oSzJ0WklRb0QyUDVmR3R0Z0JCRG1Vc1B0M19lLXVVNktxUlp0WGZsOGNSM08yWGRTOTVkVGtn?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "Bristol Myers Squibb 攜手 NVIDIA 打造製藥業最大 AI 超級電腦，加速藥物研發",
+      "summary": "Bristol Myers Squibb（BMS）宣布與 NVIDIA 合作，建置其宣稱為生命科學產業規模最大的 AI 超級電腦，成為過去九個月內第三家做出相同宣示的大型製藥公司。此超級電腦將應用於藥物分子設計、臨床試驗資料分析及生物標記發現等核心研發流程，目標大幅壓縮新藥從分子設計到臨床驗證的週期。儘管「最大」的宣稱已引發業界對行銷話術的質疑，但三大藥廠接連宣布類似投資，清楚反映 AI 算力基礎建設已成為製藥巨頭的戰略必爭之地。對醫院與醫療體系而言，此趨勢預示未來精準醫療工具與 AI 驅動新藥的研發速度將持續加快，值得追蹤其對臨床試驗設計及新藥供應時程的潛在影響。",
+      "tags": [
+        "製藥AI",
+        "NVIDIA",
+        "AI算力",
+        "藥物研發"
+      ],
+      "author": "未標示（STAT News｜2026-07-20）",
+      "source_url": "https://www.statnews.com/2026/07/20/bms-nvidia-assembling-largest-pharma-ai-supercomputer/?utm_campaign=rss"
+    },
+    {
+      "rank": 9,
+      "score": 6.0,
+      "title": "新北市首辦科技與醫療倫理論壇，聚焦 AI 病歷應用與個資保護",
+      "summary": "新北市政府首次舉辦「科技與醫療倫理論壇」，聚集醫療、法律、資訊及倫理各領域專家，深入探討 AI 應用於病歷管理與臨床決策時所涉及的個人資料保護課題。論壇重點議題包括：AI 輔助病歷摘要與分析的知情同意框架、健保資料二次利用的倫理邊界、以及地方政府在推動醫療 AI 時的監理責任與配套措施。與會者普遍認為，技術導入速度已超前現行法規框架，需要跨部門建立更細緻的指引。此論壇作為台灣地方政府層級首次聚焦此議題的公開對話平台，象徵 AI 醫療倫理治理議題正從學術討論走向地方政策實踐，對醫院在建立 AI 治理架構時具有重要的本土政策參考意義。",
+      "tags": [
+        "醫療AI倫理",
+        "個資保護",
+        "台灣政策",
+        "AI治理"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-07-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPb0lpYVd2aGxOa2tIcDVKOHZaVVFNbDRvbWhISXVVdVN3aHZrSUhiSDRsMmdPUG1kbkNWZzlWdWlNQzU0VWZYcTdsRUxPZXJVRnBmcE9TWkZvRmlXQkRiRXZLMGxQdW80QzBjcUFNcFdPOFJBcDhDTHJDeFF6NC1EdWcyVGNMc3A5RWVBMWJERElNdS1CMC1RSHVzYVZQaExVUW5nVE9Yc1NNdHRMZmJWRV82YjVMVFZ0V1d5UVpnck5WZ244djVweTJWQWN4T0s2U0otNlZNUkozTFpWTFhPWkNXeVJISnhiVkNGblBMaFFGMnljem5aaDlMLWhXWWc4dGxqbzJ5akVteV82RDgwTDhYd2xBQ0Nmb1ZGSk1KdVZUYUozMjFEM0JrbUFiejVsTk00elF5TkZsV1F2ZHpIQ1V0WS01NG9rWVpldjFTUWJBamZfWS0zdXRTZElCY2lmVW51TEpOaHFzZEU?oc=5"
+    }
+  ]
+}
