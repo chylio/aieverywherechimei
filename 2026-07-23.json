@@ -1,0 +1,131 @@
+{
+  "date": "2026年07月23日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "醫院 AI 系統正在悄悄漂移，最高領導層必須親自把關",
+      "summary": "STAT News 刊出由 Peter Pronovost、Justin Norden 與 Kedar Mate 三位醫療領導人共同撰寫的深度評論，指出醫院部署的 AI 系統往往在上線後逐漸「漂移」——模型效能隨時間衰退、訓練資料與現實脫節、臨床使用情境不斷改變，卻無人即時察覺。文章強調，AI 治理不能只是季度性的技術委員會任務，而必須納入院長、醫療長等最高領導層的日常管理責任。作者提出具體建議：建立持續監測儀表板、明確指定 AI 系統「負責人」、定期進行臨床績效審查，並將 AI 安全納入品質改善框架。此文對正在規劃或已部署多項 AI 工具的醫院而言，具有高度的治理參考價值，呼籲領導層從被動等待問題出現，轉為主動建立問責機制。",
+      "tags": [
+        "AI治理",
+        "醫院領導層",
+        "模型漂移",
+        "患者安全"
+      ],
+      "author": "未標示（STAT News｜2026-07-22）",
+      "source_url": "https://www.statnews.com/2026/07/22/hospital-ai-systems-ceo-leadership-accountability-governance/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "FDA 啟動 TEMPO 數位健康裝置試驗計畫，首家製造商正式入選",
+      "summary": "FDA 宣布「Technology-Enabled Meaningful Patient Outcomes（TEMPO）數位健康裝置試驗計畫」完成首家製造商遴選，正式展開實施。TEMPO 計畫旨在建立以患者實際臨床結果為核心的數位健康裝置審查新框架，突破傳統以技術規格與安全性為主的審查模式，強調裝置在真實世界中對患者生活品質與健康結果的實質影響。此舉被視為 FDA 在 AI 輔助醫療裝置監管路徑上的重要里程碑，預期將為後續數位健康與 AI 醫療器材的上市審查提供可複製的評估模板。對於有意申請 FDA 認證的 AI 醫療工具開發者與醫院採購決策者，此計畫的進展值得密切追蹤，因其可能重塑未來數位醫療產品的設計方向與法規預期。",
+      "tags": [
+        "FDA",
+        "數位健康",
+        "法規監管",
+        "醫療器材"
+      ],
+      "author": "未標示（FDA Press Releases｜2026-07-23）",
+      "source_url": "http://www.fda.gov/news-events/press-announcements/fda-announces-first-participant-selected-tempo-digital-health-devices-pilot"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "成本不是評判醫療 AI 的正確標準，臨床醫師提出新主張",
+      "summary": "Medical Economics 刊出多位臨床醫師的聯合意見，主張醫療機構與政策制定者在評估 AI 工具時，不應以「是否節省成本」作為主要或唯一指標。作者指出，若純以財務效益衡量 AI 導入成果，將造成系統性偏誤——那些對病患安全、診療品質或醫師工作負擔有顯著改善的工具，可能因短期成本效益不明顯而遭排除。文章呼籲改以「臨床價值」為核心，建立涵蓋診斷準確率、不良事件減少、患者體驗及工作流程優化等多維度的評估架構。此論述對正在制定 AI 採購標準或進行投資報酬率分析的醫院決策層具有直接參考意義，也呼應當前醫療 AI 付費機制討論中「如何定義價值」的核心爭議。",
+      "tags": [
+        "醫療AI評估",
+        "臨床價值",
+        "採購決策",
+        "醫師觀點"
+      ],
+      "author": "未標示（Medical Economics｜2026-07-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzNpbVM2bWFLSnZmZEV4VDJUc2l5a2tVNGROTzF0UGlxMm91bzhCbVFYMFJ1am42REhaVnJpRTRIUllTcld1RFZabDFiWWE0cENsZ01xR0dZUXZkQzZseUpkTEZvWkFPeDd1LW9BazI2NlAxODlYM0NreDFGNDluaW1uUzJzOXdoQ1Q1YVREWElmT09tLVVvVEJQVWs?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "NVIDIA 高層深談醫療 AI 未來：從影像辨識到全院智慧化佈局",
+      "summary": "MobiHealthNews 刊出對 NVIDIA 醫療事業部高層的深度專訪第一部分，探討 NVIDIA 對醫療 AI 未來發展的整體戰略觀點。受訪者闡述 NVIDIA 如何從單一的影像辨識應用，延伸至支援醫院全院層級的 AI 基礎設施建設，涵蓋 AI 訓練平台、臨床決策支援、數位雙生醫院模型及藥物研發加速等多個面向。訪談中特別提及 GPU 運算力在大型語言模型醫療應用的關鍵角色，以及 NVIDIA 如何與醫療機構、電子病歷廠商及新創公司建立生態系合作。對正在評估 AI 基礎設施投資的醫院資訊部與數位轉型團隊而言，此訪談提供了重要的產業視角，有助於理解未來三至五年醫療 AI 技術演進的主要驅動力量。",
+      "tags": [
+        "NVIDIA",
+        "醫療AI基礎設施",
+        "數位轉型",
+        "產業趨勢"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-07-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtdE55eUFlT2thLUxJY3NER19jeXVLTzF1Z2JqeXVGc1VRQm5xdE5FbVhUSUgyemxKREFiQzQ4NjZPOFRWRjZVNjRiMmQyVjN1eUZDd182ek1fVnBzaDB1dnVGUVFhelpsN0Jod1hYZE1ubnM3YWxBRlVZeWZfQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "AlphaFold3 驅動的接觸預測模型大幅提升 DNA 鹼基編輯精準度",
+      "summary": "Nature 最新刊出研究，介紹名為 ContactSeek 的新型基因組編輯工具，以 AlphaFold3 的蛋白質接觸預測能力為核心，顯著提升 DNA 鹼基編輯的精準度與特異性。研究團隊展示 ContactSeek 能有效降低脫靶效應，在多種細胞類型及基因組位點均表現出穩定的高效率編輯能力。此突破對精準醫療、罕見遺傳疾病治療及癌症基因治療的開發具有重要意義。AlphaFold 系列模型持續擴展其在醫療科學研究的應用邊界，從蛋白質結構預測延伸至基因編輯工具設計，顯示 AI 在基礎醫學研究的角色日益核心化。對醫院基因治療團隊與轉譯醫學研究人員而言，此技術進展值得持續關注其臨床轉譯潛力。",
+      "tags": [
+        "AlphaFold",
+        "基因編輯",
+        "精準醫療",
+        "AI生物技術"
+      ],
+      "author": "未標示（Nature｜2026-07-22）",
+      "source_url": "https://www.nature.com/articles/s41586-026-10794-z"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "可稽核的放射科 AI 基礎模型 CLEAR 問世，以臨床概念為錨點",
+      "summary": "Newswise 報導新型放射科 AI 基礎模型 CLEAR（Clinical Concepts-grounded Auditable Radiology Foundation Model）正式發表。與現有黑箱式放射影像 AI 不同，CLEAR 的設計核心在於「可稽核性」——其決策過程以可解釋的臨床概念為基礎，使放射科醫師能追蹤模型判讀的推理路徑，而非僅接受結果輸出。研究團隊強調此設計有助於建立臨床信任、符合監管要求，並在模型出錯時提供可追責的審查依據。在 EU AI 法案對高風險醫療 AI 要求透明度與可解釋性的背景下，CLEAR 的架構思路具有重要的法規合規參考價值，也直接回應了放射科 AI 臨床導入的核心障礙之一。",
+      "tags": [
+        "放射科AI",
+        "可解釋性AI",
+        "基礎模型",
+        "臨床信任"
+      ],
+      "author": "未標示（Newswise｜2026-07-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWtsLUxOb21Jc3dwMlJlOXZmS2V3LUpUek9POHpaVks4dHFLTTFwdnlqQ2NQelBObDJCb2FPTmtVbkxqRnB3THozSWVDeUhYTFgwZHF3NlROZUdNQWlaTUNsclp4V3ByX1hCRUpiSTZCMTFSLU5zOFFhTnJ2Ym1mU3NFT29LR2FxNmIyajIxRk5ERkZvV1ZQQllLOThudEI2NXhzb0NxUUhad3VSVmZsUFJOcw?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "AI 病理診斷提速：從 5 分鐘壓縮至 50 秒的臨床突破",
+      "summary": "CGTN 報導中國醫療機構導入 AI 輔助病理診斷系統後，將單張病理切片的判讀時間從平均 5 分鐘大幅縮短至 50 秒，效率提升達六倍以上。該系統整合深度學習影像分析，能在數位病理切片中自動識別腫瘤區域、細胞形態異常及分子標記特徵，並提供初步診斷建議供病理科醫師確認。報導指出此技術已在多家三級醫院完成臨床驗證，顯示 AI 在縮短病理報告周轉時間、紓解病理科人力瓶頸方面具有實質效益。對於面臨病理科醫師短缺與檢體量持續增加雙重壓力的醫療機構而言，此類 AI 輔助工具的部署經驗具有高度參考價值。",
+      "tags": [
+        "病理AI",
+        "數位病理",
+        "診斷效率",
+        "影像辨識"
+      ],
+      "author": "未標示（news.cgtn.com｜2026-07-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR2llX2l4empkSzQ0Q002LTIyRnhPZWplVEFuWk5acTR4aFFVNmdlTWwwLVRWR1RpbmRPRGY1TFlkRXJZS0JwLS1SUWFFazBHOUNYQU5OUEtyaWNUSWZTd1VNSnUwVTlvLU1kcWJvSkw0QkNoMnpiZ091SzFtN3hBNFRKUDJWT2dZZkNGaFR3dmduTzFpc1podXk3UWlKODZ2ZDZWLTNpUi1LTm5VSjE2X3YzV3JxcWVSOXFzSGZuVQ?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "個人化醫療的種族盲點：AI 基因預測模型為何系統性忽視非白人族群",
+      "summary": "關鍵評論網刊出深度分析，指出當前以 AI 驅動的基因風險預測與個人化醫療工具，因訓練資料嚴重偏向歐洲裔白人基因組資料庫，導致對亞洲、非洲及其他非白人族群的預測準確度明顯低落，形成「個人化醫療的種族不平等」。文章援引多項研究，顯示多基因風險評分在非歐裔族群的預測效能僅達白人族群的 30%–60%，可能導致高風險患者被低估、藥物基因組建議出現偏差。此議題對台灣醫療體系尤具意義：台灣患者若依賴以白人資料訓練的 AI 工具進行基因風險評估，可能面臨系統性診斷誤差。文章呼籲建立涵蓋多元族裔的基因資料庫，並在 AI 醫療工具採購時納入族裔代表性審查標準。",
+      "tags": [
+        "AI公平性",
+        "基因體學",
+        "族裔偏誤",
+        "個人化醫療"
+      ],
+      "author": "未標示（TNL The News Lens 關鍵評論網｜2026-07-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04dDZxaG1DWXJFdF9PdzJOaWRnYXZmV2Q4ZDdRd1hUQ0tWQWpnTWtzZTZnRldmUGRDMGhyU1YxcEpNd19kbUxfMkpqLVZPTzJObmxWNQ?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.0,
+      "title": "AI 重新設計蛋白質演化起始點，酵素工程效能大幅躍升",
+      "summary": "Nature 刊出研究，提出結合 AI 重新設計蛋白質起始序列的酵素演化新工作流程。傳統蛋白質演化方法以天然蛋白質序列為起點進行定向演化，而此研究團隊透過 AI 模型預先生成最佳化的「人工起始點」，再進行演化篩選，最終獲得的酵素在活性、穩定性及特異性上均顯著優於從天然序列出發的對照組。此方法論突破有望加速酵素藥物、生物催化製程及抗體藥物的開發效率。對於生技製藥領域而言，AI 輔助蛋白質工程正從結構預測擴展至主動設計，代表藥物研發管線的深層變革。此研究亦彰顯 AI 在生命科學基礎研究的持續滲透，為醫院附設研究中心及轉譯醫學部門提供前瞻技術參考。",
+      "tags": [
+        "蛋白質工程",
+        "AI藥物研發",
+        "酵素演化",
+        "生技製藥"
+      ],
+      "author": "未標示（Nature｜2026-07-22）",
+      "source_url": "https://www.nature.com/articles/s41586-026-10820-0"
+    }
+  ]
+}
