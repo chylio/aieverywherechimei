@@ -1,0 +1,131 @@
+{
+  "date": "2026年07月24日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "美國 HHS 召集專家制訂臨床 AI 標準，OSTP 同步發布 AI 報告",
+      "summary": "美國衛生及公共服務部（HHS）宣布加入科學研究 AI 倡議，並邀集各界專家共同研擬臨床 AI 的政策標準框架；與此同時，白宮科技政策辦公室（OSTP）亦同步發布最新 AI 報告，就聯邦政府如何推動負責任的 AI 應用提出具體建議。此舉被視為美國聯邦層級首次系統性整合臨床 AI 治理方向，對未來醫療機構導入 AI 工具的合規要求、監管路徑及驗證標準均可能產生深遠影響。美國醫院協會（AHA）亦就此發布專文，提醒醫療體系密切關注後續政策走向。對於正積極評估或已部署臨床 AI 系統的醫院而言，此次 HHS 的政策行動代表監管環境即將進入新階段，值得領導層提前掌握並預備因應策略。",
+      "tags": [
+        "臨床AI政策",
+        "聯邦監管",
+        "HHS",
+        "AI治理"
+      ],
+      "author": "未標示（American Hospital Association｜2026-07-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFJlYVR0VnYwSFA4NmhmWTNQelFCSDlCNUx6Mk5aZTlkUmc5LWlTdzZZeWtkTUtibGZCbWh1amlKeFhYTGFDTHlhNEtqRi1Pb1NJaWJfMU15ckRRdjc0U2JnQzFoVldJeThUd0V6ZGhMMmZIUGxTUkN1R25DdHpBd1pWVnQ5dHVzeGxqU3dXbkRkbjJwYTVkdGhBYm0tSXF0Q3ZSdmhZa1lTUkx4MkJMVGdn"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "HHS 邀專家為臨床 AI 制訂規範，Whoop 任命新 CMO、腦機介面動態齊受矚目",
+      "summary": "STAT News《健康科技》專欄報導，HHS 正式召集領域專家，就臨床 AI 的標準制訂展開政策對話，涵蓋 AI 輔助診斷、臨床決策支援工具等面向的監管與驗證框架。此外，穿戴裝置品牌 Whoop 宣布任命新任首席醫療官（CMO），顯示消費健康科技公司正加速引入臨床領導力；腦機介面領域亦有最新進展受到關注。整體而言，本期報導勾勒出 2026 年下半年醫療 AI 政策與產業的三大動態：聯邦政府從被動應對轉向主動制訂標準、穿戴健康平台深化醫療化佈局、以及神經科技持續突破。對醫院資訊與數位轉型團隊而言，HHS 臨床 AI 標準討論的走向，將直接影響未來 AI 工具的採購合規與上線策略，建議密切追蹤後續進展。",
+      "tags": [
+        "臨床AI標準",
+        "HHS政策",
+        "數位健康",
+        "腦機介面"
+      ],
+      "author": "未標示（STAT News｜2026-07-23）",
+      "source_url": "https://www.statnews.com/2026/07/23/hhs-convenes-experts-on-clinical-ai-health-tech/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "AI 輔助影像工作流程讓一般放射科醫師達到乳房專科水準",
+      "summary": "Radiology Business 報導一項最新研究成果：透過 AI 輔助的影像工作流程介入，一般（非次專科）放射科醫師在乳房攝影判讀上的表現，可提升至接近乳房專科放射科醫師的水準。此研究直指醫療 AI 在縮短「一般醫師與專科醫師判讀能力落差」方面的實質效益，對人力資源不足或缺乏次專科醫師的基層醫院與區域醫院而言，具有高度臨床參考價值。研究結果顯示，AI 的角色不僅是輔助提速，更能在標準化判讀品質方面發揮關鍵作用，有助醫院在不增加人力配置的前提下維持或提升篩檢品質，是近期放射 AI 應用研究中具代表性的實證成果。",
+      "tags": [
+        "放射AI",
+        "乳房攝影",
+        "影像工作流程",
+        "臨床實證"
+      ],
+      "author": "未標示（Radiology Business｜2026-07-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcjhzT2JXaGR4WnZOZkVRbFp3TEZWMUpBMURiWDBTSmdPOXRCVTZ0RENCS3JKM1hCSndSNGFVQVRfUzlaUHFxd0lFQ2FZZktHOXpLdmpXdFpMdVpHQ3JzQlUteVRjX1g0N2lBTS1LRy1tbWNIdHNVbk1UbUpiV1A4OTVPTDEtcF93ZXZBRlpFWVlTZ3NzaHlUMTJibDQwWVR1Y2J6UjcxOC1rX3Z3UTl6c19vQWhTWVBXUndqc1dfU08xelJWRDZKalhnVWx1Tl92Z19fS3pFamFuR3dQ"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "Sectra 在美國推出 AI 驅動放射報告解決方案，強化影像科工作效率",
+      "summary": "瑞典醫療影像資訊系統大廠 Sectra 宣布於美國市場正式推出其 AI 驅動的放射科報告解決方案，主打智慧化報告草擬與結構化輸出，目標是大幅縮短放射科醫師的報告撰寫時間並提升一致性。Sectra 在全球醫療影像 IT 市場具備相當規模，此次進軍美國 AI 報告市場，意味著放射 AI 解決方案的競爭版圖持續擴大。對於正在評估或更新 PACS／RIS 系統的醫療機構而言，此類整合式 AI 報告工具的導入，不僅影響影像科工作流程，亦涉及 AI 模型合規、資料互通性及臨床驗證等層面，是近期放射科數位化採購的重要參考案例。",
+      "tags": [
+        "放射AI",
+        "AI報告",
+        "影像資訊系統",
+        "Sectra"
+      ],
+      "author": "未標示（Radiology Business｜2026-07-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOEp1MDFDVE1tcHdZUFdpdW14OUVsOEVkY0pfTUx5a1hCTTVLT05zMjRiQlhxTHp3d1dCZHlzakxLa0Q5U2xsLXpLamw3SmJQbWIyRzIzZ3ozc21YdXRXb0FDWHhqaTNsYnhkMGFyUWRiWUJSYmlfQmQ3dnhnR1FwY3QwM3NtNUdhbTlITTJldk1JYUc2alVBXzdPVUQ3TzdUbmljNW5zMS1ScUtlREE3Sg"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "台灣醫療產業 AI 信心充足，但營運落地整合度明顯不足",
+      "summary": "根據最新調查報告，台灣醫療產業對於 AI 的整體發展信心普遍偏高，多數受訪機構認為 AI 將在未來五年內深刻改變醫療作業模式。然而，同一份調查也揭示明顯落差：在實際營運層面，AI 工具的整合程度仍相當有限，反映出「信心走在落地前頭」的現象。業界分析指出，主要瓶頸在於跨部門協作機制不健全、AI 導入缺乏清晰的成效評估框架，以及人才培育進度跟不上技術採購速度。此現象在台灣醫療體系中具有一定普遍性，對於正推動數位轉型的醫院而言，如何縮短「想用」與「用好」之間的距離，將是下一階段最關鍵的管理課題。",
+      "tags": [
+        "台灣醫療AI",
+        "數位轉型",
+        "AI落地",
+        "產業調查"
+      ],
+      "author": "未標示（蕃新聞｜2026-07-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ySVBmRldBaHh0UEJvVnlBTktYUGtvcmgtb0tTWEtpVlZhYnpDeklEY0lubXhHWE5iSW5sMThIU2hJZGFoUV9hdVU2eUlvN0h3LUE"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "台灣超高齡化浪潮下，政府積極導入 AI 強化長照醫療照護",
+      "summary": "公視新聞報導，面對台灣快速邁入超高齡社會所帶來的多元長照需求，政府正積極將 AI 技術引入醫療照護體系，涵蓋居家照護輔助、機構照護品質監測及智慧化健康管理等面向。相關計畫旨在透過 AI 輔助減輕第一線照護人員負擔、提升服務效率，並協助在人力資源有限的情況下維持照護品質。此項政策方向呼應台灣健保署與衛福部近年持續推動的數位健康轉型目標，對於大型醫院體系中設有長期照護、老年醫學或居家醫療服務的部門，具有直接的政策參考價值，也預示著 AI 在長照場域的應用將進入更具體的落地階段。",
+      "tags": [
+        "台灣醫療AI",
+        "長照",
+        "超高齡化",
+        "政府政策"
+      ],
+      "author": "未標示（公視新聞網PNN｜2026-07-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13amVOWWVvTDFMYXc5WTNMS0JTQk9KNXZYaENsU3FhRXdLZmpqUlAzREpleW9fSWZOTjJnQTJxQjJSNERHN21EREVPUVN2Zjg"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "華碩攜手國家衛生研究院深化 AI 醫療場域驗證合作",
+      "summary": "DIGITIMES 報導，台灣科技大廠華碩與國家衛生研究院（國衛院）宣布策略合作，雙方將共同推進 AI 醫療應用的臨床場域驗證工作。此次合作聚焦於將華碩在硬體與 AI 運算平台上的技術優勢，與國衛院在醫療研究與臨床資料方面的資源相結合，共同建立符合台灣醫療情境的 AI 模型驗證機制。此類產學研合作模式，是台灣醫療 AI 生態系走向本土化、系統化驗證的重要里程碑，有助於縮短 AI 工具從研發到臨床部署的時程，並提升本土 AI 醫療解決方案的公信力與市場競爭力，對有意引進或共同開發 AI 工具的醫療機構具有參考意義。",
+      "tags": [
+        "台灣醫療AI",
+        "臨床驗證",
+        "產學合作",
+        "華碩"
+      ],
+      "author": "未標示（DIGITIMES｜2026-07-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHJvalh0WFJDb29Ba0MxMXU2MXBqYXZ0WWx0ckVvR0VnNWpHMl9SenZBOTRGVk90MklVSmRjcHROekU1aVRGaXQyQXkwbWhuOURyYWRzOTk5a3pSdDdURGE4X2FSTXVldnUxd0pWS09RYl80SnBlaEZuUTNMNTVHT0Jna1RuVmhPb3A2bUxB"
+    },
+    {
+      "rank": 8,
+      "score": 6.0,
+      "title": "AI 如何協助科學家設計下一代生物製劑藥物",
+      "summary": "MIT Technology Review 深度報導 AI 在生物製劑藥物設計領域的最新應用進展。文章指出，新藥研發長期面臨高成本、高失敗率困境，一款新藥從研究到上市往往耗時逾十年且耗資龐大。AI 的介入正在改變這一現狀：透過深度學習模型預測蛋白質結構與功能、生成候選分子、篩選最具潛力的生物製劑設計方案，AI 已大幅縮短早期研發週期並降低試錯成本。文中尤其聚焦於工程蛋白質類藥物（biologics）的 AI 輔助設計，包括抗體、蛋白質療法等，並分析多家生技公司實際應用案例。此報導對醫院體系中涉及精準醫療、腫瘤科及新藥評估的臨床及研究部門，提供了技術趨勢的全面性概覽。",
+      "tags": [
+        "AI藥物設計",
+        "生物製劑",
+        "精準醫療",
+        "深度學習"
+      ],
+      "author": "未標示（MIT Technology Review｜2026-07-23）",
+      "source_url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
+    },
+    {
+      "rank": 9,
+      "score": 5.5,
+      "title": "Assured Health 獲 1,900 萬美元融資，以 AI 代理人大幅加速醫師網絡資格認證",
+      "summary": "醫療行政科技新創公司 Assured Health 完成 1,900 萬美元融資，其核心產品為 AI 代理人（agentic AI）系統，專門用於自動化醫師資格驗證（credentialing）及保險網絡入網（enrollment）流程。傳統上，醫師完成資格認證並加入保險網絡需耗費數個月時間，嚴重影響醫師快速上線執業及醫院收益。Assured Health 表示，其 AI 系統可將整個流程壓縮至數天內完成，大幅降低行政負擔並加速醫療人力部署效率。對於管理大規模醫師團隊的醫院集團或正在拓展服務網絡的醫療體系，此類 AI 行政自動化工具代表一個值得關注的新興應用方向，有助於提升醫院的營運靈活性與人力資源管理效率。",
+      "tags": [
+        "AI行政自動化",
+        "醫師資格認證",
+        "醫療新創",
+        "代理人AI"
+      ],
+      "author": "未標示（MedCity News｜2026-07-23）",
+      "source_url": "https://medcitynews.com/2026/07/assured-health-healthcare-credentialing/"
+    }
+  ]
+}
