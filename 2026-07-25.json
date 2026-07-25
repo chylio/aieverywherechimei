@@ -1,0 +1,117 @@
+{
+  "date": "2026年07月25日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "里斯本部長峰會聚焦醫療 AI 治理：如何確保安全負責任地應用",
+      "summary": "《刺胳針》世界報導指出，各國衛生部長日前齊聚葡萄牙里斯本，共同討論如何建立醫療 AI 的全球治理框架，核心議題包括：如何確保 AI 在醫療照護中被安全、負責任地應用、跨國監管標準的協調一致，以及如何平衡創新速度與病患安全之間的張力。與會代表關注的焦點涵蓋 AI 系統的透明度、問責機制、資料隱私保護，以及在資源有限的低中收入國家如何公平導入 AI 技術。此次峰會被視為繼 EU AI 法案之後，國際社會在醫療 AI 監管層面最具代表性的多邊行動之一，其共識成果將對各國衛生主管機關的政策制定產生深遠影響，也為醫院在引進 AI 系統時的合規標準提供重要參考依據。",
+      "tags": [
+        "醫療AI治理",
+        "全球政策",
+        "病患安全",
+        "監管法規"
+      ],
+      "author": "Talha Burki（The Lancet｜2026-07-25）",
+      "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01495-9/fulltext?rss=yes"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "白宮發布科學藍圖：大力挹注 AI 研究、縮減生命科學傳統資助",
+      "summary": "《自然》報導，美國白宮首席科學顧問正式發布美國科學新藍圖，核心方向是將數千億美元的研究經費從大學體系轉移至產業界，並明確點名 AI 為優先加速領域，同步宣布多項以 AI 加速科學研究的新資助計畫。此舉對生命科學與醫療 AI 生態系影響深遠：學術醫療中心恐面臨基礎研究資金萎縮，而民間 AI 醫療新創將獲得更多政策與資金紅利。報告引發科學界褒貶不一的反應，支持者認為此舉能加速 AI 在臨床與藥物開發的落地，批評者則憂心基礎研究能量的流失及科學獨立性受損。此政策走向預示美國醫療 AI 產業格局將出現結構性重組，值得醫院領導層與數位轉型團隊密切追蹤。",
+      "tags": [
+        "美國科學政策",
+        "AI資助",
+        "產業化趨勢",
+        "醫療研究"
+      ],
+      "author": "未標示（Nature｜2026-07-24）",
+      "source_url": "https://www.nature.com/articles/d41586-026-02332-8"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "醫療 AI 資安防護必須從治理架構出發，技術層面遠遠不夠",
+      "summary": "Healthcare Finance News 一篇深度報導指出，隨著醫療機構 AI 應用快速擴張，資安威脅已從傳統 IT 系統延伸至 AI 模型本身，包括訓練資料投毒、模型對抗性攻擊及 AI 決策的可解釋性漏洞等新型風險。文章強調，醫療 AI 資安的根本解方不在於單純部署防火牆或加密技術，而必須從治理架構切入，涵蓋 AI 模型生命週期管理、存取控制政策、稽核追蹤機制，以及跨部門的風險責任分工。報導呼籲醫院 CIO 與資安長應將 AI 資安納入整體數位治理框架，而非視為獨立的技術問題，並建議制訂 AI 資安事件應變計畫，以因應日趨複雜的威脅環境。",
+      "tags": [
+        "醫療AI資安",
+        "治理框架",
+        "數位轉型",
+        "資訊安全"
+      ],
+      "author": "未標示（Healthcare Finance News｜2026-07-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXYxQ2VxX0dPTzNHbVM3ZXdJdTVLcW5UTW01d2tVd3NvYWlxOHJtVHNaY2M1SkpBSk9EYUZTdFNXbjl2a1F2cGdvbWZYUElueFUtcURLSFQ0WkxvbWUtSVRWaExNZ1ExdkNNR1ItRW9jNDJPOVg4TnhWQ0hjdE1mNmtvUWNGNkxmdVdwbGZOVVV6aWs?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "亞洲與英國醫療 AI 開發者普遍缺乏法規認知，研究示警",
+      "summary": "MobiHealthNews 報導一項最新研究結果，調查橫跨亞洲多國與英國的醫療 AI 開發者後發現，相當比例的業者對當地及國際醫療 AI 監管要求缺乏充分認識，部分開發者甚至不清楚其產品是否需要取得醫療器材許可。研究指出，此現象在中小型新創公司中尤為明顯，可能導致不符規範的 AI 產品進入臨床場域，形成病患安全隱患。報告呼籲各國衛生主管機關加強對開發者的法規宣導，並建立更清晰的 AI 醫療器材分類標準。對於正在評估或導入第三方 AI 解決方案的醫院而言，此研究提示在採購流程中應強化對廠商法規合規狀態的盡職調查。",
+      "tags": [
+        "醫療AI法規",
+        "開發者認知",
+        "市場監管",
+        "亞洲醫療"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-07-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNREpEMnFia0h1ZktESmJPZzM1cnhFV1hOWFNYSjhUVGk0cEl0LXFMYlJNZGh3YlVWTzhFWTlVeFJ3V21FM1QzcVRwbDkyejFaOHJ1d1QwN1E3bzN1U1h4cm8tOUlSS2t6Zjg3eVFpeXA1N0lqSGVRZ3lVejFmZnBKYUhZOWZLMWRkQmFvdVZiVlZNYUFkNTVmSmwxQ0s2cElTWm1YYUZicjRLaXc?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "放射科 AI 市場平台 CARPL.ai 獲 1,000 萬美元融資，加速 AI 工具臨床整合",
+      "summary": "Radiology Business 報導，放射科 AI 市場平台 CARPL.ai 完成 1,000 萬美元融資。CARPL.ai 定位為放射科 AI 應用的整合入口，讓醫院影像科室得以在單一平台上評估、試用並部署來自不同廠商的 AI 工具，解決目前市場上 AI 產品碎片化、難以比較及整合的痛點。此輪資金將用於擴大平台上的 AI 工具種類、強化與醫院 PACS 及 RIS 系統的整合能力，並拓展至更多醫療機構。對於正面臨眾多放射科 AI 廠商選擇困難的醫院而言，此類平台模式提供了一種降低採購與評估成本的潛在路徑，值得影像科室及資訊部門持續關注其發展動態。",
+      "tags": [
+        "放射科AI",
+        "新創融資",
+        "AI平台",
+        "影像科數位化"
+      ],
+      "author": "未標示（Radiology Business｜2026-07-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSnNwWTd6alZUSGRZQ1lNM3NhMVpNSlB3R3d5R3RVcUZCd2dJX1RrLVNvSHYyWFVoSnQ4T1JRd3BOdC1Jd3dBODN4RC1iS1hYa2M3cFhOci03cDRHdzIyYTRQMWV3aktvQjdDeWRuSzlxbXZ4ckhoMXFmcGN2eWNKOUtNOVgxbXF5Qm1PaGwtTE9CVTVybV9lOE41UG9hTGFYZGU4cUpyYS02RHZPQ2NkWHhXMUFnUFFlYXlpLUhuOXJPNEE?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "長佳智能骨質密度 AI 篩檢系統獲 TFDA 許可，台灣 AI 醫材認證再添新案",
+      "summary": "台灣醫療 AI 廠商長佳智能旗下骨質密度 AI 篩檢系統正式獲得衛福部食藥署（TFDA）醫療器材許可，成為繼其 182 項危及器官自動勾勒系統之後，再一款通過本土法規認證的 AI 醫材產品。骨質密度篩檢對於骨質疏鬆症的早期發現與骨折風險預測具重要臨床意義，AI 輔助判讀有望提升篩檢效率並降低判讀差異。此次取證不僅顯示長佳智能持續擴充 AI 醫材產品線，也反映 TFDA 在 AI 醫療器材審查能量上的持續累積。對於有意導入骨密度 AI 篩檢工具的醫院，此認證產品可作為合規採購選項之一。",
+      "tags": [
+        "台灣醫療AI",
+        "TFDA認證",
+        "骨質密度篩檢",
+        "AI醫材"
+      ],
+      "author": "未標示（MoneyDJ｜2026-07-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX0x4Mk1iX2hVNXk0UTVZWjFDSnhKLUtyUjJWOVV6UTBMVGlXeTg1c1NiUXF6eHAtY2NLX1pGMkxCeGlOUkZOYkdfSEczemNrelVKVHd4MXdfQVg0dlhpbmhMdVpJU0NSNU5VcE1hS3ByTE9xRmhKS3BNX0U3VXNUMUFoZk9vb0VZaHlsZ3hRblRZdw?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "急診室 AI 排程工具自動優先處理緊急 CT 掃描，提升影像科應變效率",
+      "summary": "Radiology Business 報導，一款專為急診室設計的 AI 檢查排程工具已在醫院實際部署，該系統能自動分析進入影像科的 CT 掃描申請，依據臨床緊迫程度智慧排序，確保急重症患者的影像檢查優先被執行與判讀。傳統手動排程容易因人力不足或資訊不透明而延誤緊急案例，此 AI 工具透過即時分析電子病歷與申請單資訊，動態調整掃描佇列順序。初步應用成果顯示，可縮短高風險患者的影像等待時間，有助於加速臨床決策。此類工作流程 AI 工具兼具實作可行性與臨床效益，對資源有限的急診影像環境尤具參考價值。",
+      "tags": [
+        "急診室AI",
+        "影像排程",
+        "CT掃描",
+        "工作流程優化"
+      ],
+      "author": "未標示（Radiology Business｜2026-07-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRUM0YTRjenFKSGJ0Q3VyS0pIZE1zUG95WjR4dEczaTVycXhqNTBuT3ZjalY1aWhhMnAydWpDb3VFal81UkRKaF9LclZGRnNSQ0p3ZWo2b09JTUNsT0lQR0NVMVR4TUNrMGo5U0lxTVFCUFRZVXJ2VTczcXhqeUVlVEZqdzFLbTl6VGY2blJKWjJVX3ROc0lMUGVQNmxraEt2cXZOeEFOY0hkdUR3NkE?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 5.5,
+      "title": "台灣慈濟大林醫院開發 AI 教學系統，聚焦提升醫療照護品質",
+      "summary": "大林慈濟醫院自行開發 AI 輔助教學系統，目標是將人工智慧技術融入醫護人員的在職教育與臨床訓練流程中，以提升整體醫療照護品質。該系統據報導可協助醫護人員透過 AI 模擬情境、智慧測驗與個人化學習路徑，加速知識吸收與臨床技能精進。此舉反映台灣醫療機構開始將 AI 應用從單純的診斷輔助延伸至醫學教育場域，探索 AI 在人才培育上的潛能。隨著醫療 AI 應用範疇持續擴展，如何將 AI 工具有效整合進醫療教育體系，將成為醫院管理者與教學部門的重要課題。",
+      "tags": [
+        "台灣醫療AI",
+        "AI醫學教育",
+        "臨床訓練",
+        "慈濟醫院"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-07-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeHFTN3gzd2FNdGNDVDUzakQzWks1UHdacDVyQzdudlpNckZ4bnFuTWRaeHpiRXRnZ25PeWZrVi1PVVdZQnlTQ2NHS2E4QlRMNDR2c1BSd1o5Qlk4bHhSSGI0bmozMndyRU5wYzNZNW1RNUdLaGhLall1NTJFRmdUNEZvdldjNlBOWGxrUFlESWJ3OGtzdFNkWklBU28wV0tkQ3VYQWhOU3lwanJJeWZIWGlJMFJLb3I3WlVSbkxkWXNoQkowbEZfRWdGRDhnYXNqSWRMOXhWcjhJMzAwQklCbXJCeEpFQnktRmw4LWZUYld6VW42V2M1Wl9mM1hNUlE?oc=5"
+    }
+  ]
+}
