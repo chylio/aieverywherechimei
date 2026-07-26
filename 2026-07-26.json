@@ -1,0 +1,71 @@
+{
+  "date": "2026年07月26日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "Sully.ai 推出多代理 AI 臨床決策支援系統，強化醫師診療輔助能力",
+      "summary": "AI 醫療新創 Sully.ai 正式發布多代理 AI（Multi-Agent AI）臨床決策支援解決方案，透過多個 AI 代理協同運作，針對不同臨床情境提供即時輔助，涵蓋症狀分析、鑑別診斷建議及治療方案參考等面向。多代理架構的核心優勢在於各代理可專司不同任務，並相互驗證輸出結果，有助於降低單一模型偏誤風險。此技術路徑與近年醫療 AI 從單一模型轉向協作式 AI 系統的趨勢相符，被視為提升臨床輔助系統可靠度的重要方向。對於醫院領導層而言，多代理 AI 在臨床落地的可行性、整合現有電子病歷系統的難度，以及如何確保輸出結果的可解釋性，將是評估導入時的關鍵考量。",
+      "tags": [
+        "臨床決策支援",
+        "多代理AI",
+        "醫療新創"
+      ],
+      "author": "未標示（Trend Hunter｜2026-07-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Pd2ZGTnZZSEM3dDF5NE15QVVpb3BubUFrRWQyaFkxMll3YTl2U0JxZy02M0hqN1ZuSkVaU2d0ZnI4N3VwcGwzVjhTbnNDdF9YdEtwVw?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "臺大醫院北護分院院慶聚焦 AI 智慧醫療實踐，展示臨床創新成果",
+      "summary": "臺大醫院北護分院於 22 週年院慶以「智慧醫療新紀元—AI 引領智慧醫療的實踐與創新」為主題，系統性展示該院近年推動 AI 醫療應用的具體成果與實踐經驗。活動聚焦於 AI 技術如何在實際臨床環境中落地，包括影像判讀輔助、病歷文件自動化及智慧照護流程優化等面向。此次院慶活動不僅是院內成果總結，更具有對外展示台灣公立醫學中心智慧醫療推動成效的意義。對於同樣積極布局數位轉型的醫院體系而言，公立教學醫院在 AI 整合路徑上的實踐案例，具有重要的參考與比較價值，有助於評估自身導入策略的相對進程。",
+      "tags": [
+        "智慧醫療",
+        "台灣醫療AI",
+        "數位轉型"
+      ],
+      "author": "未標示（蕃新聞｜2026-07-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UYWRyeDdnbzNRdS1tSkFoRktkSEVwRzFzaXQtSGtkX2wtbkVsT3o1Yzd5T3JJTGNFU01vSjRqVjBUZzl2a0lGWGpOZmx1eThsdEE?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "患者攜帶 AI 建議進診間成新趨勢，台灣醫界探討真實醫病互動的不可替代性",
+      "summary": "隨著 ChatGPT 等生成式 AI 工具普及，台灣已出現越來越多患者在就醫前先行諮詢 AI、並將 AI 給出的症狀分析或用藥建議帶入診間的現象。健康醫療網報導指出，此趨勢正在悄然改變醫病互動模式，部分醫師反映患者對 AI 建議的採信度有時甚至高於醫囑，帶來溝通挑戰。然而，受訪醫師與專家普遍強調，AI 難以取代的面向包括身體診察、情感支持、複雜病史脈絡判讀及在地醫療資源媒合等。此議題對臨床各科主任及資訊部門均具實務意義，醫院需思考如何引導患者正確使用 AI 輔助工具，並建立配套的醫師溝通教育機制，以維護醫療品質與醫病信任關係。",
+      "tags": [
+        "醫病關係",
+        "生成式AI",
+        "台灣醫療AI",
+        "患者賦能"
+      ],
+      "author": "未標示（健康醫療網｜2026-07-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NalhnV0JqSVVnaTBHdE1hSEg0Rmd2NkZoYVVfY2xCNGZwdEJVLWk2eWxsUElvc0Q0cVVodEdNYTB6LXFRRWsza3I5akNZWEFhTUlBRmd3?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "Sectra 於美國推出 AI 驅動放射科報告解決方案，強化影像診斷效率",
+      "summary": "瑞典醫療影像資訊系統大廠 Sectra 宣布正式在美國市場推出 AI 驅動的放射科報告解決方案，整合自然語言處理與影像分析技術，協助放射科醫師加速報告產出流程並提升結構化報告品質。Sectra 長期深耕影像存檔與通訊系統（PACS）領域，此次將 AI 報告能力直接嵌入現有平台，有助於降低醫院採用新工具的整合門檻。就市場時機而言，美國放射科正面臨醫師人力短缺與報告積壓壓力，AI 輔助報告工具需求持續上升。此則新聞雖與 7 月 24 日已納入簡報的 Sectra 相關報導不同來源，但核心事件高度重疊，列入供參考。",
+      "tags": [
+        "放射科AI",
+        "影像報告自動化",
+        "PACS"
+      ],
+      "author": "未標示（Radiology Business｜2026-07-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOEp1MDFDVE1tcHdZUFdpdW14OUVsOEVkY0pfTUx5a1hCTTVLT05zMjRiQlhxTHp3d1dCZHlzakxLa0Q5U2xsLXpLamw3SmJQbWIyRzIzZ3ozc21YdXRXb0FDWHhqaTNsYnhkMGFyUWRiWUJSYmlfQmQ3dnhnR1FwY3QwM3NtNUdhbTlITTJldk1JYUc2alVBXzdPVUQ3TzdUbmljNW5zMS1ScUtlRDE3Sg?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.0,
+      "title": "器官體外保存技術突破：科學家致力延長離體器官存活時間以解決捐贈短缺",
+      "summary": "MIT Technology Review 深度報導指出，全球器官移植領域正積極研發能大幅延長離體器官存活時間的保存技術，以解決捐贈器官供不應求的根本瓶頸。目前心臟、肝臟等主要器官在體外冰存條件下存活時間僅數小時，嚴格限制了器官的跨區域調配能力。研究人員正探索的技術路徑包括機器灌流（machine perfusion）、低溫冬眠式保存及人工代謝維持系統等，部分方案已在動物實驗中取得突破性成果。雖然此議題目前以生物醫學研究為主、AI 並非核心驅動力，但 AI 在器官配對最適化及保存條件即時監控等環節的潛在應用正受到關注，對移植醫學科及器官捐贈協調部門具有前瞻參考價值。",
+      "tags": [
+        "器官移植",
+        "生物醫學創新",
+        "器官保存技術"
+      ],
+      "author": "未標示（MIT Technology Review｜2026-07-25）",
+      "source_url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
+    }
+  ]
+}
