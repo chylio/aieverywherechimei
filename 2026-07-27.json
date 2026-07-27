@@ -1,0 +1,89 @@
+{
+  "date": "2026年07月27日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "ChatGPT 醫療建議害肺栓塞患者險喪命，AI 問診時代如何避免誤導風險",
+      "summary": "一名肺栓塞男性患者因依賴 ChatGPT 提供的醫療建議而延誤就醫，幾乎釀成致命後果。此案例引發廣泛討論：在「萬事問 AI」的時代，民眾日益習慣以生成式 AI 作為健康諮詢的第一入口，然而大型語言模型在缺乏完整病史、無法進行理學檢查的情況下，仍可能給出不精確甚至危險的建議。專家指出，AI 工具的醫療建議存在幻覺（hallucination）風險，且無法辨別個案的緊急程度。此事件突顯醫療機構在衛教上的責任，包括教導民眾正確使用 AI 輔助工具的邊界、辨別何時應立即就醫，以及 AI 建議與醫師診斷之間的本質差異。對醫院領導層而言，此案例亦提示需建立清晰的院方 AI 使用政策與患者溝通機制，防範潛在的醫療糾紛。",
+      "tags": [
+        "AI安全",
+        "生成式AI",
+        "病患教育",
+        "醫療風險"
+      ],
+      "author": "未標示（知新聞｜2026-07-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Rd3ZyenhKVkZ6cUo0ZnRVYWFLNmN5VFBvR2RUZWw4b05NRTJhemNPRmpBWjVYNUptazlqZHlDTjFzbVc1WEx4QkdZZHpvY3Q3Q1ZNcE1PSUxyQ0Z0aGhQOXR3QnNFcW03M2NvbGt6Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "AI 深入醫院：臨床應用全面擴張的現況與挑戰",
+      "summary": "隨著生成式 AI 與專科模型快速成熟，全球醫院正加速將 AI 工具嵌入日常臨床流程，涵蓋影像判讀、電子病歷摘要、臨床決策支援及行政自動化等多個面向。此篇報導梳理 AI 在醫院場域的最新滲透深度，分析各科室的導入進展與落地挑戰，包含醫師接受度、資料品質、系統整合及法規合規等問題。報導指出，AI 工具已從「試驗性質」逐步演進為「標準工作流程的一部分」，部分醫院已出現 AI 輔助診斷與排程系統並行運作的情形。然而，院方治理架構是否能跟上技術部署速度，仍是各界關注焦點。對醫院資訊部與臨床主任而言，此報導提供了國際醫院在 AI 導入策略上的重要參照，有助於評估自身機構的數位轉型成熟度。",
+      "tags": [
+        "臨床AI應用",
+        "數位轉型",
+        "醫院治理",
+        "工作流程"
+      ],
+      "author": "未標示（IT조선｜2026-07-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uNEp4TUU2OUY1U1N3U3VvQ0RVTUo2a2o3RlI5RndHc0R2RFdyd3MxRjFLcG8wWWM0VHlUdE1mcWFQQ3dQUjYtU0lDb3RoRG54c3B6Q3BZejJqMmhRM2tCZkZwOFl6ZWs4SzFJUGFWS0RSAXRBVV95cUxNTXprQWVULUJDT2Uxa3RoMk93SFNLN0ZsNEZVUkZxazI3c0RNaFRocEY2SkEwN1FBMURFTm9nRU5JVVhzcGxfTUdQRlJ0dVBTUllJZ1czZEtIcEpKMXFDejMyRXFxTWk4N1BVNXRLbE1PWnZfdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "Telefónica Tech 與 Harrison.ai 合作推出 AI X 光影像判讀工具",
+      "summary": "電信科技巨頭 Telefónica Tech 與澳洲醫療 AI 公司 Harrison.ai 宣布策略合作，共同開發基於人工智慧的 X 光影像判讀工具。Harrison.ai 以其胸腔 X 光 AI 平台 annalise.ai 聞名，該平台已在多國獲得監管批准並部署於臨床環境。此次合作將結合 Telefónica 的數位基礎設施與資料管理能力，以及 Harrison.ai 的影像 AI 演算法，旨在擴大 AI 放射科解決方案的規模化應用與跨市場推廣。對放射科及資訊部門而言，此合作模式顯示電信與醫療 AI 的跨業融合趨勢正在加速，也意味著未來醫院導入 AI 放射工具時，可能面臨更多元的供應商生態與採購選項。此動態對正在評估或佈建 AI 影像判讀系統的醫療機構具有直接參考價值。",
+      "tags": [
+        "放射科AI",
+        "影像判讀",
+        "產業合作",
+        "X光"
+      ],
+      "author": "未標示（Healthcare Digital｜2026-07-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN05zNGpsMmU4ejBuU3RxZlE2NjJyc3BpVVIzdVNCcUpuTTlKMXA2V3p2TXhobUZJTUJaeHhzNmt6ekpwZk9xY01FZ2dLNUFsVzA4a1hSMU5oN3NndjFxWlh6U2h6c1RmSHdsSG9CSXVrNGtVWHlHRUcwQ1YtUklTeGRDanlrY2dSazVTdFdlNVd5Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "Pathology-CoT：以專家全切片診斷訓練視覺思維鏈 AI 代理人",
+      "summary": "一項名為 Pathology-CoT 的新研究提出以「視覺思維鏈（Visual Chain-of-Thought）」方法訓練病理 AI 代理人，核心概念是讓 AI 模仿資深病理科醫師的推理過程，逐步分析全切片影像（Whole-Slide Image, WSI）並生成可解釋的診斷步驟，而非僅輸出單一分類結果。此方法透過整合專家標注的推理路徑作為監督訊號，顯著提升模型在複雜病理判讀任務上的準確度與可解釋性。對病理科及 AI 研究團隊而言，此技術代表病理 AI 從「黑盒分類」邁向「透明推理」的重要進展，有助於提升臨床醫師對 AI 輔助診斷的信任度，亦為未來 AI 系統的可解釋性監管需求奠定方法論基礎。此研究對正在評估 AI 病理工具的醫院具有重要的技術參考意義。",
+      "tags": [
+        "病理AI",
+        "可解釋AI",
+        "全切片影像",
+        "深度學習"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-07-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFRFdzBGOFhZNlg2cEZ1dlFRcVdVRGJNdHNKUFRnekR4SDY1Vnd2Nkl5MFlxWGtndGtDaGFjc2w5anZnOGhKWGR0cWRseHBQZFR2SFJMWHJKZklGTGFzYmhjdmxRY1dlZ1pVT19tSUhuNUxDSWhQcGdDZURFdmZqd3pydlZZLXd1QXkzVDZnYU9CY1NQa3VBYkNzM1YyZ3ZQc2tmN1ZzX1lSWE1femQ1dQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "Candid Health 獲 1.2 億美元融資，以 AI 強化醫療收入循環管理平台",
+      "summary": "醫療收入循環管理（Revenue Cycle Management, RCM）新創公司 Candid Health 完成 1.2 億美元 D 輪融資，由 Sixth Street Growth 領投，Oak HC/FT、8VC 及 Y Combinator 跟投。Candid Health 的 AI 平台專注於自動化醫療帳務申報、理賠拒付管理及保險核查等繁瑣行政流程，旨在降低醫療機構的帳務錯誤率並加速回款速度。此輪鉅額融資反映市場對 AI 驅動 RCM 解決方案的高度期待，也顯示投資人看好以 AI 解決醫療行政效率問題的商業潛力。對醫院財務與資訊部門而言，RCM AI 工具正逐漸從輔助功能演變為核心競爭力，此案例提供評估類似解決方案時的市場估值與功能參考基準，亦說明外部資本正持續湧入醫療 AI 行政應用領域。",
+      "tags": [
+        "收入循環管理",
+        "醫療行政AI",
+        "融資",
+        "帳務自動化"
+      ],
+      "author": "未標示（MedCity News｜2026-07-26）",
+      "source_url": "https://medcitynews.com/2026/07/candid-health-snags-120m-for-ai-rcm-platform/"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "AI 輔助醫病溝通：專家解析如何善用科技做好就醫準備",
+      "summary": "台灣健康醫療網推出「AI 陪病時代」系列報導第二篇，邀請專家深入解析 AI 如何在醫病溝通中扮演輔助角色。報導探討民眾在就醫前透過 AI 工具整理症狀、蒐集相關醫學資訊，以及在診後理解醫師說明等應用情境，並強調 AI 是協助患者「備課」的工具，而非取代醫師判斷的角色。專家同時提醒，AI 提供的資訊需經過醫師確認，民眾應培養批判性閱讀能力，避免因過度信任 AI 而產生錯誤的自我診斷。此報導對台灣醫院的病患教育策略具有直接參考價值，特別是在數位健康素養推廣、門診前衛教設計，以及醫師面對「已備課患者」的溝通技巧培訓等方面，均提供了實務討論框架。",
+      "tags": [
+        "醫病溝通",
+        "AI衛教",
+        "台灣醫療",
+        "數位健康素養"
+      ],
+      "author": "未標示（健康醫療網｜2026-07-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uOEFRbDk4MGM0aThfSXByd0tNRHNHSG13RUhOcWo3bGI3RG1rT1ZjZ3ZsSHl6ZXE5YWNXOVkzaEVTaE9xcU9TZnVTY2d6TWhmaFFaT1BR?oc=5"
+    }
+  ]
+}
