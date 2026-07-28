@@ -1,0 +1,117 @@
+{
+  "date": "2026年07月28日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "AI 如何突破放射科最大瓶頸：從工作量到效率的全面升級",
+      "summary": "美國醫療器材與診斷產業媒體報導指出，AI 工具正在系統性地解決放射科長期面臨的三大瓶頸：影像判讀積壓、報告延遲及人力短缺。文章梳理了目前主流的 AI 輔助工作流程方案，說明 AI 如何在不取代放射科醫師的前提下，透過優先排序緊急案例、自動偵測異常及預填報告草稿等方式，顯著縮短周轉時間。報告強調，導入成功的關鍵在於 AI 工具必須嵌入現有影像資訊系統（RIS／PACS）工作流程，而非另立平台。此一趨勢對醫院放射科主任及資訊部門具有直接參考價值，尤其在人力持續緊缺的背景下，AI 驅動的工作流程優化已成為提升科室效能的核心策略。",
+      "tags": [
+        "放射科AI",
+        "影像診斷",
+        "工作流程優化",
+        "臨床效率"
+      ],
+      "author": "未標示（Medical Device and Diagnostic industry｜2026-07-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2dZZXF6a2s2YU9ObjFoQ1RDdl81MDdLYngwTjlINXFDc2tyakJoRGdYa0FlOV9jZmNScFpXcG1jMFEwWE82cjRmQjFiTm1DYnpXVDZOTW9pdnI4ZWxpVi1FNTRvNG5zSVBlaFBPenRkZEUyY09lSXV3dzI1Z1VpOVZFQzhmZEItOWFIZGhvNmFmSFJjc3JEZFFuUnYyZ0NrNktHNEx3YTZ4eGRCNkZsdEdLd3lWQktjakl1YU8zSmVhV05WekVvNA"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "新報告：AI 讓放射科醫師更不可或缺，而非被取代",
+      "summary": "美國《Florida Daily》報導一份最新研究報告，顛覆外界對「AI 將取代放射科醫師」的普遍擔憂。報告指出，AI 輔助工具的廣泛應用反而提高了放射科醫師的臨床價值：AI 負責處理大量重複性影像篩查任務，使放射科醫師得以專注於複雜病例判讀、跨科會診與品質把關等高價值工作。報告同時強調，隨著 AI 工具產出的影像數量與複雜度持續攀升，具備 AI 協作能力的放射科醫師需求反而增加。這對醫院人力規劃與放射科人才培育策略具有重要意涵，也反駁了單純以 AI 削減人力成本的短視觀點，提醒醫院領導層應重新定位 AI 為擴增工具而非替代工具。",
+      "tags": [
+        "放射科AI",
+        "人力規劃",
+        "AI輔助診斷",
+        "臨床角色"
+      ],
+      "author": "未標示（Florida Daily｜2026-07-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemxuU2lGZHFfWXBGcWRNZEtnVlZsR2k2ZTMxM18tMWx3SktySGt6QjZWLV9XQ3dQcFBEZ3I3WlFaUXZ6bDRweGp3cm5xbk5DbjFyclBIUDQ4c0dScGJjUjNhWnE5Z09mN05HUVBQSW03MVUzLUUwME16V2VqSXhZb1Z4WFY4emxu"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "亞太地區醫療 AI 推廣受基礎設施缺口拖累，落地速度明顯遲緩",
+      "summary": "《Healthcare Asia Magazine》報導指出，亞太地區（APAC）醫療 AI 的臨床落地速度遠低於預期，核心癥結在於基礎設施嚴重不足。主要障礙包括：醫療機構資料互通性低落、雲端與邊緣運算建設不均、電子病歷系統碎片化，以及網路連線品質在偏遠地區仍不穩定。報告亦指出，部分醫院雖已採購 AI 工具，卻因後端數據管道無法支撐模型推論需求而導致系統閒置。此一現象對台灣醫療體系具有警示意義，尤其在推動跨院 AI 協作與健保資料串接時，基礎建設的完備程度將直接決定 AI 投資能否實現預期效益，值得資訊部門與數位轉型團隊優先評估。",
+      "tags": [
+        "亞太醫療AI",
+        "基礎設施",
+        "數位轉型",
+        "資料互通"
+      ],
+      "author": "未標示（Healthcare Asia Magazine｜2026-07-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYmt3RVBFQ1pJcHVDSUk2djRrZUNjZ0xZa0gzYjNmM3hOYTJQdnB3NlZxcTV6TDhyMWFtVURodGZnUlhyTkhZNThKY1JvSWg0WWxfUGpFS2NVSks3M05NQTUwZGRqT1hCQ05OS2FFY2pucDdVOEY3Nkk4eXc2ZFZVRXFNckg2ZG5UMlRvcnlaSHhHVllhSDcxeTROZkM3Q2FMZjIyeTlIM1BFMUU"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "AI 嵌入臨床工作流程如何提升病患處置量能",
+      "summary": "MedCity News 刊載深度分析文章，探討 AI 工具唯有嵌入臨床決策當下的工作流程，才能真正提升病患處置效率。文章指出，目前許多醫院導入的 AI 系統仍以「事後報告」形式呈現建議，與實際診療動作脫節，導致醫師鮮少參考。真正有效的 AI 應在醫師開立醫囑、執行評估的同一介面即時提供資訊，例如預警敗血症風險、提示床位調配或優化排班。文章強調，衡量 AI 導入成效的關鍵指標應聚焦於病患等待時間縮短、住院天數減少及急診壅塞改善，而非單純的技術準確率。此一觀點對正在評估或優化 AI 採購策略的臨床科主任與資訊部門具有實務參考價值。",
+      "tags": [
+        "臨床工作流程",
+        "AI整合",
+        "病患處置",
+        "醫院營運"
+      ],
+      "author": "未標示（MedCity News｜2026-07-27）",
+      "source_url": "https://medcitynews.com/2026/07/how-ai-inside-clinical-workflows-is-unlocking-patient-throughput/"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "病患攜帶 AI 建議就診成趨勢，法律責任歸屬仍是灰色地帶",
+      "summary": "MedCity News 訪問醫療法律專家 Meghan O'Connor，深入分析病患將 AI 聊天機器人建議帶入診間的法律與臨床爭議。O'Connor 指出，當病患依賴 AI 建議而延誤就醫或拒絕治療並發生不良後果時，醫師若未明確記錄已告知病患 AI 建議的侷限性，將面臨潛在法律風險。目前美國法規對此情境尚無明確規範，「沉默」是醫師最危險的應對方式。文章建議醫療機構應制訂標準化的 AI 建議溝通流程，並納入知情同意書範本。此議題與前一日入選的 ChatGPT 誤導案例相互呼應，顯示 AI 問診責任認定已成為全球醫療法規的迫切課題。",
+      "tags": [
+        "AI醫療責任",
+        "法律風險",
+        "病醫溝通",
+        "AI聊天機器人"
+      ],
+      "author": "未標示（MedCity News｜2026-07-27）",
+      "source_url": "https://medcitynews.com/2026/07/ai-chatbot-healthcare-law/"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "英國數位病理網絡擴張，為未來 AI 診斷奠定基礎建設",
+      "summary": "《Labmate Online》報導英國正積極擴建全國數位病理切片網絡，旨在為未來大規模 AI 輔助診斷建立可靠的資料基礎設施。擴張計畫涵蓋更多 NHS 醫院加入數位切片掃描及雲端存儲系統，並建立標準化的資料格式與傳輸協定，確保不同機構間的影像可互通。報告指出，缺乏標準化數位病理基礎建設是目前病理 AI 商業化落地的最大障礙之一。英國此舉被視為全球數位病理 AI 生態系發展的重要里程碑，對台灣推動智慧病理及跨院影像共享政策具有借鏡意義，尤其在建構全國性 AI 訓練資料庫方面可作為參考框架。",
+      "tags": [
+        "數位病理",
+        "AI診斷",
+        "醫療基礎建設",
+        "英國NHS"
+      ],
+      "author": "未標示（Labmate Online｜2026-07-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSFk0enJaWl9tTGpKWFc0aWMydWZqVzM4cm9WNEtCQUJuS1p6VlJtQjJRZFJWd1NsbEo2eHRzRGZERWNyWTVkUEtnai1rR0NHU0FzUnZVWVRRTk93Tmtod3E1MUZqdGNfYnZJM2YwNnN1M3Q1UkNZbFR6MzJmNFNzendoMDBDTk9iVTllaWlJRElJUlgzdU5GdERfdUF4UWdVVG1WSGZ0ZkR1dGxDdzdoeDBaLXVuQk54dVFaSFpybmk0bEFURGFJdThvWXg0SkltUl9oNzRaQ2x6eEdR"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "電話健康服務規模可預測醫院 AI 導入程度，研究揭示數位整合關鍵",
+      "summary": "Telehealth.org 報導一項新研究發現，醫院既有遠距醫療（telehealth）服務的規模與成熟度，是預測該機構 AI 臨床導入深度的重要指標。研究分析多家醫院數據後指出，已具備完善遠距醫療架構的醫院，在推動 AI 輔助診斷、病患監測及行政自動化方面的成功率顯著較高，原因在於這些機構已建立必要的數位文化、資料治理流程與跨部門協作機制。研究建議尚未積極布局遠距醫療的醫院，應將其視為 AI 整合的前置投資，而非獨立的數位化項目。此一發現對正在規劃 AI 路徑圖的醫院領導層提供了重要的策略性參考。",
+      "tags": [
+        "遠距醫療",
+        "AI導入",
+        "醫院數位化",
+        "策略規劃"
+      ],
+      "author": "未標示（Telehealth.org｜2026-07-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb1d5UzJIVjl4UkNKaUUxQ25kVHZxdEtrMW5aVjBzMDByM1MyMjdFM2l4RG1ZaFBFdDF3STR4UGVWc3lneFBZUTJ6alg1MGZOV2lTNGtjQWtNZUNRNWpFRnFkYjRibUp0SURUbDY0YnFaSUM1cW9RNzVfTDJoenNaczdPWEVEZm5RZGQyMEtsQ1Rjc2VYQnRtMTZiMEM1dw"
+    },
+    {
+      "rank": 8,
+      "score": 6.0,
+      "title": "美國醫院首家導入 AI 輔助心臟支架手術工具，提升介入治療精準度",
+      "summary": "《ROI-NJ》報導紐澤西州 Valley Hospital 成為全美首家將 AI 輔助工具導入心臟支架（stenting）手術流程的醫院。該 AI 系統能即時分析血管造影影像，輔助心臟科醫師判斷支架置放位置與尺寸，降低手術失誤率並縮短操作時間。醫院心臟科主任表示，AI 工具在複雜分叉病變案例中的輔助效果尤為顯著，可提供客觀的定量影像分析以補充醫師主觀判斷。此一案例代表 AI 從影像診斷延伸至介入性治療的重要進展，對心臟科、心血管外科及導管室作業流程均具參考意義，也是 AI 輔助手術工具從試驗走向常規臨床應用的典型範例。",
+      "tags": [
+        "心臟介入治療",
+        "AI輔助手術",
+        "心臟支架",
+        "臨床應用"
+      ],
+      "author": "未標示（ROI-NJ｜2026-07-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcXh6bFZJQkM3TF9oaXBSMDUtVVQ1WUptSFJVZVhpSXB3T2ZFZU1NUFp3YXNfY3l1VndwQWFIRGlyZndyN3ZQUjJCWm5iVXhhbDhfLUNrRHNqX0I3TFluRlU4ZF95bEpOX2hEa2x2TU8zNVJpa0tnVlBUZXptbDB5NTZERUx6QzhUeko4NVFfbnJsZGd3bDZTNjh1czR1ejJFcmp1eVlSNHRuV3E2SjN3UVVoVG1wT0ljUjd0ajBtZzduNWU0Rll0dWlTdEZXRm8"
+    }
+  ]
+}
