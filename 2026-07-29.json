@@ -1,0 +1,145 @@
+{
+  "date": "2026年07月29日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "醫療 AI 問責框架：依 AI 介入程度分級界定責任歸屬",
+      "summary": "Nature 刊載評論文章指出，隨著 AI 在臨床決策中扮演的角色日益吃重，「當照護失敗時，誰該負責」已成為法律與倫理的核心難題。作者提出一套以 AI 介入程度為基礎的分級問責框架：從「AI 僅提供資訊、醫師全權決策」的低介入層級，到「AI 主導診斷或治療建議、醫師僅核准」的高介入層級，不同層級對應不同的責任分配邏輯。框架強調，問責對象可能涵蓋開發商、醫院、臨床醫師乃至監管機構，需依情境釐清。此一分級模型有助於醫院在導入 AI 工具時預先設計治理架構、知情同意程序與糾紛處理機制，對正積極推動 AI 臨床整合的醫療機構領導層具有直接的政策參考價值。",
+      "tags": [
+        "AI問責",
+        "醫療法律",
+        "臨床治理",
+        "責任分級"
+      ],
+      "author": "未標示（Nature｜2026-07-28）",
+      "source_url": "https://www.nature.com/articles/d41586-026-02315-9"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "醫療 AI 評估困境：技術發展速度遠超現有評量方法",
+      "summary": "Nature 刊載深度報導，以兩款醫療 AI 助理的開發歷程為案例，揭示當前醫療 AI 評估方法存在嚴重落差。隨著大型語言模型與多模態 AI 快速演進，傳統臨床驗證指標（如敏感度、特異度）已難以全面衡量 AI 在真實臨床環境中的實際表現與安全性。報導指出，AI 系統在測試環境表現優異，卻可能在部署後因資料分佈差異或語境誤解而失效，而目前尚無一致的基準測試框架應對此問題。這一挑戰對 FDA 監管、醫院採購評估及臨床科主任的導入決策均構成直接影響，呼籲產學監管三方共同建立更完善的醫療 AI 評量體系。",
+      "tags": [
+        "AI評估",
+        "臨床驗證",
+        "醫療AI監管",
+        "安全性"
+      ],
+      "author": "未標示（Nature｜2026-07-28）",
+      "source_url": "https://www.nature.com/articles/d41586-026-02125-z"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "UC Berkeley 打造首個針對臨床決策理解訓練的醫療 AI 模型",
+      "summary": "UC Berkeley Haas 商學院研究人員與創業家聯手，開發出全球首個專門以「理解臨床決策邏輯」為訓練目標的醫療 AI 模型。有別於過去以診斷準確率為主要優化指標的方法，此模型著重學習臨床醫師在面對複雜病情時的推理過程與決策脈絡，旨在提升 AI 在真實臨床情境下的可解釋性與實用性。這代表醫療 AI 從「預測導向」轉向「決策輔助導向」的重要里程碑，對臨床科主任評估未來 AI 輔助診療工具、以及資訊部門規劃 AI 整合策略，均具有前瞻性的參考意義。",
+      "tags": [
+        "臨床決策AI",
+        "可解釋性",
+        "醫療AI研究",
+        "大學研究"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-07-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVjV4MWd5TGdTTHM2NkN2YnRuSnhRLURGM2pEUWNJcWVHcEFfZS1kU1o2NGp4X0VLQ2RaT21QSDB2RlQxZ0FTRU1tc09wcTJ4QnFjLUNCTmttd0pDT3I2UGJFZVM0M2pFN3JvQVRSRWVpYlU2YUNFUW1GWWRibmhYVUc5Y3p1YjFKTTVHUFdUQllKejNnNUZESnpRZW81NzBTMEl4Tzd6cExZcldxR2ZSX0J6VFFYTmRKNm42ZUdvSUJzbTBQci0wS3VfRkZhUUM0bWtMR1JUaU54cXk1Mmtqcg?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.3,
+      "title": "OpenAI 選定以色列 Sheba 醫院為美國境外首個醫療 AI 合作夥伴",
+      "summary": "OpenAI 宣布與以色列 Sheba 醫療中心建立合作關係，使其成為美國境外第一家正式導入 OpenAI 醫療 AI 模型的醫院。此次合作標誌著 OpenAI 醫療 AI 平台的首次國際化部署，Sheba 將在臨床工作流程中整合 OpenAI 模型，涵蓋病歷摘要、臨床決策支援等應用場景。此一合作具有重要的產業指標意義：全球頂尖醫院正快速成為大型 AI 平台的境外試驗場域，台灣醫療機構在評估國際級 AI 平台導入時，可密切關注 Sheba 的實際落地成效與安全管理經驗，作為本土推展策略的重要參考依據。",
+      "tags": [
+        "OpenAI",
+        "醫院AI合作",
+        "國際部署",
+        "臨床工作流程"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-07-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ra1RydXlmY3VNcms3Q2x4NF9rSE5RT0NtNm9MenRxYzhZaVI1TFJTNWItLXJYTHdXUzB6dk83dkNyeTRuR2dKLVdYN3dXZmNZclp6WnNycUxYR3VvcEpueE5BWllRM0NE?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 8.0,
+      "title": "AI 預測大腸癌術後復發風險，準確度超越現有臨床工具",
+      "summary": "最新研究顯示，一款以病理影像為基礎的 AI 工具能更精準預測大腸癌患者術後復發風險，其表現優於目前臨床常用的分期與生物標記評估方式。研究團隊將深度學習模型應用於全切片病理影像，從中萃取傳統病理師難以量化的組織微環境特徵，進而生成個人化復發風險評分。此一工具若完成臨床驗證，將有助於腫瘤科與外科醫師更精準規劃術後輔助治療策略，避免低風險患者過度治療、高風險患者治療不足的困境，是 AI 數位病理在精準醫療領域的重要進展。",
+      "tags": [
+        "大腸癌",
+        "AI預測",
+        "數位病理",
+        "精準醫療"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-07-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91cHNxS2ZxcGVaemNsOVlLR0pCLTJna0RSV28yaTJRQmh0eVRqcXVmdWt4a1p3Q1pkdmN0SDZMRWJGUWlRZ3BjdWN6NzhKckZaRXd4NUFGRWJwVlktb2RzSENaSWtPSGV0c1gwRHVIblg0akUyaUJIQUJOeng?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.8,
+      "title": "醫療 AI 信任危機持續：技術能力領先、臨床信任落後",
+      "summary": "HCI Innovation Group 分析報告指出，儘管醫療 AI 工具在技術層面持續精進，但臨床一線人員對 AI 系統的信任度仍顯著不足，成為阻礙大規模落地的核心瓶頸。報告歸納出主要信任障礙：AI 決策過程不透明、訓練資料偏誤疑慮、臨床驗證證據不充分，以及醫師在 AI 建議被推翻後的責任承擔模糊性。研究建議醫療機構應優先投資 AI 素養培訓、建立透明的模型監控機制，並讓臨床醫師深度參與 AI 工具的選型與測試流程，以系統性方式重建信任基礎，確保 AI 工具能真正融入日常診療實踐。",
+      "tags": [
+        "醫療AI信任",
+        "臨床採納",
+        "AI素養",
+        "組織變革"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-07-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOVYtZ3V3LU55U1EyTDMtcHhseVFJUTROcFdmQmM0b2Z0WEtDek1RcWdqdGFBU2Z1S2p3SVhOX20xdmJJT0doWGpRYVk5VWdxNVNVclM1cGIzWHcyVnVkcHByWDVtVXdHYVJHSUJUUmZVa3ZSdm9JazYyZVBQd3ZYM2VYNjc1WGJHb3UzcFctYlNQU3RsYnJjeXJ6RHFrMi1Pckp4RjhVN29pZ3VsQlBMcm9jYjVlYmNEUHF3?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.6,
+      "title": "資料落差成醫療 AI 導入最大絆腳石，Cloudera 報告示警",
+      "summary": "Cloudera 最新報告揭示，醫療機構在導入 AI 時面臨的最主要障礙並非演算法能力不足，而是底層資料基礎設施的嚴重缺口。調查發現，多數醫院的電子病歷、影像系統與行政資料仍呈孤島狀態，資料格式不一致、標準化程度低，導致 AI 模型訓練資料品質不佳、跨系統整合困難。報告進一步指出，缺乏統一的資料治理策略是阻礙醫療 AI 從概念驗證走向全面部署的關鍵結構性問題。對正規劃 AI 數位轉型的醫院資訊部門而言，優先建立資料基礎建設與治理框架，是實現 AI 價值的必要前提。",
+      "tags": [
+        "醫療資料治理",
+        "AI導入障礙",
+        "資料基礎建設",
+        "數位轉型"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-07-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU241Nm1vNHVQcExoRWx2dTFNaDBfOURlbjdRTWswLVdqRnl4bGhjeWVNdEV4N3lCeGpmTTREWklKSEdtN3VucnN3NzBreF9PdkpLLUhKZTlxaV9vekdtaEhHZDAtVThWQVhjM0g4bkpZTGhhVXdsRGtNbHpDS1pKbzhyRTROUG9kSS1rQ2dUOGIxT3hnRERyNG1VQnhTNUZ2dkNLRUNzZ3VVTUxDaVE?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.4,
+      "title": "數位平板互動數分鐘即可偵測阿茲海默症早期訊號，AI 實現超前診斷",
+      "summary": "MedCity News 報導一項新興技術應用：受試者只需與數位平板電腦進行數分鐘的互動及語音測試，AI 系統即可從操作模式與語音特徵中偵測出阿茲海默症的早期認知退化訊號，達到傳統影像或長期觀察才能獲得的診斷效果。此技術的關鍵優勢在於低成本、非侵入性且易於大規模篩檢，有潛力在社區診所或居家環境中普及。對神經科與老年醫學科而言，此類工具若通過嚴格臨床驗證，將大幅提升失智症的早期介入機會，改變現有診斷流程並降低患者就醫門檻。",
+      "tags": [
+        "阿茲海默症",
+        "早期篩檢",
+        "認知評估AI",
+        "數位健康"
+      ],
+      "author": "未標示（MedCity News｜2026-07-28）",
+      "source_url": "https://medcitynews.com/2026/07/spotting-alzheimers-years-earlier-through-ai-and-clinically-meaningful-insights/"
+    },
+    {
+      "rank": 9,
+      "score": 7.2,
+      "title": "醫療 AI 治理必須兼顧問責機制與數位素養，亞洲案例值得借鑒",
+      "summary": "GovInsider 報導聚焦醫療 AI 治理框架的核心要素，強調問責機制與 AI 數位素養是確保醫療 AI 安全負責任應用的兩大支柱。文章指出，許多醫療機構在導入 AI 時偏重技術採購，忽略了配套的治理架構建設，包括：誰有權審核 AI 建議、如何記錄 AI 決策軌跡、以及如何確保臨床人員具備足夠能力判斷 AI 輸出的可靠性。報導援引亞洲多個政府的實踐案例，建議從政策層面要求醫院建立 AI 使用登記制度與定期稽核機制，以制度性手段彌補技術治理的空白，保障病患安全。",
+      "tags": [
+        "AI治理",
+        "問責機制",
+        "數位素養",
+        "政策法規"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-07-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaDB1d0RfUzZOa2lCdjVoUl9Ya2lHU1AxOVRpUWtybHk4cC1neW82SG05d3o2NFFwTEVLSHdDVkNrMk50cmJfZU1vRjVqaWRERTc3RmhNM1R4dnlaYXEyLWFvWV8yaDhXNXd2Q0tuRG9OZTRHdEM4RmNXWjJTZnF4V0tYQy1hTzFaczRma053aXNxSVJsMmJ4RUVPTlRsVTQ4V0FBOWxNbmJVUQ?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 7.0,
+      "title": "港產醫療 AI 破解病理診斷痛點，近百家醫院實際應用",
+      "summary": "香港文匯報報導，由香港本地團隊開發的醫療 AI 系統已成功解決病理診斷流程中的多項痛點，目前已在海內外近百家醫院投入實際應用。該系統主要應用於數位病理切片的 AI 輔助判讀，能大幅縮短病理醫師閱片時間、降低漏診率，並提供標準化的量化分析報告。此案例展示了華人醫療機構自主研發 AI 的落地成效，對台灣醫療體系評估引進或自行開發病理 AI 工具具有重要參考價值，同時也凸顯亞太地區醫療 AI 生態系的快速成熟與本地化發展趨勢。",
+      "tags": [
+        "數位病理",
+        "醫療AI落地",
+        "香港醫療AI",
+        "病理診斷"
+      ],
+      "author": "未標示（香港文匯報｜2026-07-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCVktzUmkzR3FtLURLWlpnMGF6QVZXVFRnQUdNcFIydnYxWDQ4a0J0ckhJVkM2aERmVmtlZUplMVJsM0lJTzNnOG53Tk1qeXdGblJDd25HSnY5NnlvaHg3bzVvOWk3b3RrSGtHenJDVUZSTFFCaDJF?oc=5"
+    }
+  ]
+}
