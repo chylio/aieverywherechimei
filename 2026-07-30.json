@@ -1,0 +1,117 @@
+{
+  "date": "2026年07月30日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Epic AI 惡化預警系統與醫院死亡率降低顯著相關，研究證實臨床成效",
+      "summary": "美國最新研究指出，電子病歷龍頭 Epic 系統內建的 AI 病患惡化預警工具，與醫院住院死亡率下降存在顯著統計關聯。RWJBarnabas Health 與 Rutgers 大學的聯合研究分析大規模住院資料後發現，啟用 AI 惡化警示功能的病房，早期干預率明顯提升，院內死亡事件相應減少。此研究為「AI 預警工具真正改善病患預後」提供了目前最具說服力的臨床證據之一，也呼應了近年醫界對 EHR 嵌入式 AI 工具實際效益的持續追蹤需求。由於 Epic 在全球尤其北美醫療機構中佔有極高市場份額，此一發現對考慮擴大導入或評估既有 AI 模組的醫院決策層而言具有重要參考價值，同時也再度引發對 AI 警示頻率、臨床流程整合與醫師接受度等配套議題的討論。",
+      "tags": [
+        "病患安全",
+        "EHR整合",
+        "AI預警系統",
+        "臨床成效"
+      ],
+      "author": "未標示（Unite.AI｜2026-07-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnRPcEJYdWhjWXZTMjhsLWRQaERNMEp1SXA3bVVSYzdIWXJhOHl0UGgwOF9LQzduZ3ZMY05JTy1xcjI3dFp4Y2tJME1kX00tOWRDeEx0ZTBXVW9udDgxVFN0TW5sODJRUkZxTmI3dERmTmpYaXUtRnVxcXVNSzhmMktJZGFRWDl6SWpmUw"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI 工具提前偵測病患惡化跡象，有效降低住院死亡率",
+      "summary": "Medical Xpress 報導一項新研究成果，顯示專為即時監測設計的 AI 病患惡化偵測工具，能在傳統臨床指標發出警報前更早識別高風險病患，進而爭取更充裕的介入時間。研究團隊分析多間醫院的住院資料，發現導入 AI 監測系統後，需緊急救治的重症事件與死亡人數均呈現下降趨勢。該工具透過持續分析生命徵象、實驗室數值及護理紀錄等多維度資料流，即時產生風險評分並自動通知臨床團隊。研究者強調，AI 的優勢不在於取代臨床判斷，而在於協助醫護人員在龐大資訊量中快速辨識優先處置對象。此類工具的推廣對提升加護病房與一般病房的照護品質均具潛在效益，亦為醫院評估 AI 投資報酬率提供了具體的臨床結果依據。",
+      "tags": [
+        "病患安全",
+        "早期預警",
+        "AI監測",
+        "臨床決策支援"
+      ],
+      "author": "未標示（Medical Xpress｜2026-07-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTDA3XzlEdjVvVjk4WE85RG0tZ0lDejNuR0hQRjlHX1hLNVRKMndvQUlIYlkycVdjTXhxYlJrT1d5dXFkYmNVZXRpY0RjTGZNT2o1STlCUUhKaGtLZnBTSnFsQTR1VWFYQlVLLXRnLU5va1BWV1JiSzRxT0pWeHppYUJrQmxqckd2"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "臨床 AI 評測標準存在共同缺陷，OpenEvidence、OpenAI、Anthropic、Doximity 皆中招",
+      "summary": "Fortune 報導一項最新醫療 AI 研究，揭露目前主要臨床 AI 工具（包括 OpenEvidence、OpenAI、Anthropic 及 Doximity 旗下產品）在評測方法上存在相同的系統性缺陷。研究發現這些工具雖在標準醫學問答基準測試中表現亮眼，但其評分機制未能充分反映真實臨床情境的複雜性，例如不確定性的表達、罕見疾病的處理及跨科別知識整合等面向。研究者指出，現行 benchmark 設計過於依賴封閉式問題，導致各家平台都能「刷高分」，卻可能在實際臨床使用中出現隱性錯誤。此一發現與同日 STAT News 對臨床聊天機器人評測問題的深入報導相互呼應，共同凸顯醫療 AI 工具在進入臨床前需要更嚴謹、更貼近實務的評量框架，對醫院在選型與採購決策上具有直接警示意義。",
+      "tags": [
+        "臨床AI評測",
+        "LLM",
+        "醫療安全",
+        "工具選型"
+      ],
+      "author": "未標示（Fortune｜2026-07-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMXBfTUl1blBKNEl4NU1xQXNycnJ1TmNndGNXMmJlTmdZMDVqUDZZTFFfVm5NSWt3Z0tmM09OZVhPaG5yNkh5b1dLYWdJYlc0SUxxZ1N4LV90V3RuQWVuZkQ2UUFUTG9WbzZHR0VwWTIta3AwQjVVLUZKeWNYbFdZTUhtaHF5Z0djRTNBdkhHSFhjSk1lQnFGWDQ4Rk9YdGFHakVF"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "台灣 AI 病房數位助理：告別鍵盤醫療，讓醫師目光重回病人",
+      "summary": "CIO Taiwan 報導台灣醫療機構正積極導入病房端 AI 數位助理技術，透過語音辨識、環境感知與自動化病歷記錄等功能，大幅減少醫師在電腦鍵盤前花費的時間，使臨床注意力得以重新聚焦於病患本身。相關解決方案整合了自然語言處理與智慧醫療物聯網，可在不干擾現有工作流程的前提下，自動擷取查房對話、更新護理紀錄並觸發後續醫囑提示。報導中指出，此類「隱形」AI 工具的設計理念在於輔助而非替代，讓醫護人員保有主導權的同時降低行政負擔。對台灣醫療體系而言，此一趨勢不僅回應了長期以來醫師過勞與文書作業繁重的痛點，也為智慧病房的下一階段發展提供了具體的落地參考，值得各醫院資訊與臨床部門共同關注。",
+      "tags": [
+        "智慧病房",
+        "語音AI",
+        "台灣醫療",
+        "臨床工作流程"
+      ],
+      "author": "未標示（CIO Taiwan｜2026-07-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4wTjhlYzdOT0JUUzBranlhZ093OExhSjZULXJobEppa1NUMFprSTZMRnNNbGs0bklScm5TUDVLaXFHczlp"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "Bunkerhill Health 獲 5,500 萬美元融資，擴展醫院系統 Agentic AI 平台",
+      "summary": "AI 醫療新創 Bunkerhill Health 宣布完成 5,500 萬美元新一輪融資，資金將用於在更多醫院系統中推廣其 Agentic AI 平台。該平台採用多代理架構，能夠跨越不同臨床部門自主執行工作流程任務，包括病患分流、文件自動化及臨床決策支援等功能，並可與主流 EHR 系統深度整合。Bunkerhill Health 強調其「代理式」設計不同於傳統單點 AI 工具，能在複雜的醫療情境中進行多步驟推理與行動，大幅提升自動化程度。此次融資顯示資本市場對醫療 Agentic AI 賽道的持續看好，也預示著醫院 AI 應用正從「輔助決策」邁向「自主執行部分流程」的新階段。對醫療機構而言，此類平台的導入需同步評估自主代理的問責機制與病患安全邊界，是近期醫療 AI 治理討論的重要焦點之一。",
+      "tags": [
+        "Agentic AI",
+        "醫療新創",
+        "融資",
+        "臨床自動化"
+      ],
+      "author": "未標示（AI Insider｜2026-07-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQVJ6OTY0M1dBMGthMzBrNi00djhfc3RHekhIcEtXZEFSazhGRE1PZ2c4NlRFQUxsMUxRc3luR1RWcUNYVFRNSHJHZWdWTVhVZHNJc2g1bmpUTXhoTjE4SHVRNUtkN0t2Zm1kb1dMQ0liTi1jQ2h6WmJzWlNQd25BZHA3bHBFNngyTmJCcjhXZGlhWnhKNUZZZWhweE9FVnIzZFRnUUFndDhGOEI5Tng1NXB5UUNCWHc0M0E2RDZB"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "AI 如何幫助偏鄉放射科持續運作——Modern Healthcare 深度報導",
+      "summary": "Modern Healthcare 聚焦 AI 技術對美國偏鄉放射科的實質助益。由於偏遠地區長期面臨放射科醫師短缺、閱片量超載及設備老舊等困境，AI 影像分析工具的引入正逐步填補這一缺口。報導指出，部分偏鄉醫院透過雲端 AI 閱片平台，得以在無需駐院放射科醫師的情況下，於數分鐘內完成胸部 X 光初篩，並將異常案例自動轉介至遠端專科醫師複閱，大幅縮短診斷等待時間。此外，AI 工具亦有助於標準化報告品質，降低因人力不足導致的遺漏風險。此一經驗對台灣離島、山地及資源相對匱乏的醫療場域同樣具有借鑒意義，顯示 AI 放射科工具的部署策略應兼顧城鄉醫療平等的政策目標，而非僅聚焦於大型醫學中心的效率提升。",
+      "tags": [
+        "放射科AI",
+        "偏鄉醫療",
+        "影像診斷",
+        "醫療平等"
+      ],
+      "author": "未標示（Modern Healthcare｜2026-07-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3V2QVRQS3lUS2NoNnJwMEJzRkZ4SXdiVkgyUjQ5MjJneFE1SFRVd2VVRFQ1bG1obkItNXlQNEZNdFlnMjlQMmdna01XX1VpSldhaVRpc25VSVVpU0dTcTBaTXlGa3FtUzVCUE1DbUs3QUJVXzhPUXE5WUFHVzB4bUZ1ZU5hSUVPZER4TVFfUjZiRTJoSFZKRnVZeW1hc0x2YTkyZWlkYXdUT0tDNnc"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "醫療 AI 數據治理信任鴻溝：可信賴醫療體系的五大基石",
+      "summary": "GeneOnline News 深入探討醫療 AI 在數據治理層面所面臨的信任危機，並提出建構可信賴醫療 AI 體系的五大核心基石：透明的數據來源與使用授權、嚴謹的模型驗證與持續監控機制、跨機構的資料互通標準、清晰的問責與錯誤歸因流程，以及病患知情同意的落實保障。文章指出，許多醫療機構在 AI 工具導入後，往往缺乏系統性的數據治理框架，導致模型偏差、資料品質不均及法律責任不明等問題叢生。作者強調，技術能力的提升若不輔以完善的治理架構，只會加深臨床人員與病患對 AI 的不信任感。此一框架對台灣醫療院所在規劃 AI 策略時具有直接參考價值，尤其在健保資料庫應用與跨院資料共享日益普及的背景下，數據治理的制度化建設已刻不容緩。",
+      "tags": [
+        "數據治理",
+        "AI信任",
+        "醫療法規",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（GeneOnline News｜2026-07-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXJ4aElkUkZ5RW9xb2d1WFlIY21zRE5PM3p4VTVjVVNEYmNZZ2tuUnkyZnNkcTVOZWdVRHNSSHVSbVFxY1ktWEg5R0tVVUJxLVJMMjlZQnpMcnNhZkhpT3dOV0h2aWh0eEY3eGdyVFpLRDZEYnI2LWVpSG5tSVBJbVpsOGlpYmpJUFdYTUM0bw"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "AI 心律判讀準確率達 99.6%，醫療 AI 進入精準心臟診斷新時代",
+      "summary": "Yahoo 新聞報導一項來自台灣的醫療 AI 突破性成果，某 AI 心律判讀系統在大規模臨床驗證中達到 99.6% 的準確率，遠超現有自動心電圖分析工具的平均水準。該系統採用深度學習模型，能夠精準辨識心房顫動、室性早搏、傳導阻滯等多種常見及罕見心律異常，並可在數秒內完成單份 12 導程心電圖的全自動分析報告。研究團隊強調，高準確率不僅體現在常見心律問題，在臨床上較難辨識的複雜心律失常亦有亮眼表現。此一成果若能通過監管機構認證並大規模部署於急診、加護病房及基層醫療院所，將有望顯著降低心律異常漏診率，並緩解心臟科專科人力不足的壓力，對台灣心臟照護體系的整體升級具有重要意義。",
+      "tags": [
+        "心臟AI",
+        "心電圖判讀",
+        "台灣醫療AI",
+        "精準診斷"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-07-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOaXQtN2JNUEhxdlZ3NENPS2ZPUlhkeUhIY0JQQW4tdVZCb1owX1otXzVtWndFSEdQdWFLLTJoLWxtRE8tZUI4OXp4eTd6ejAzYnpueFRTTzZSaDFUNm1WVjVMcEt2ZkxEejFncjRGeEtWbVoxcWhndEJVeG1UQzRJeGRLa3dtOFhxX2F4cGRGQ2wtaTNyRFFZc21JZGVWWFU0T0hlaFlrSURhbGZJdU84Q255WERudHFGaGJNQlpvb1h5WWRwWlhCVUJBVFV5aG40NC15Xy1mY3RETWRlYm1rQ1hud0U1cHVxMHY2MTJ1dnNzbjVmM2FkM20tYmdQX2JkSGtUc2V0MVJDbktoUVd3Vw"
+    }
+  ]
+}
