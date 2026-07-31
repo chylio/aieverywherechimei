@@ -1,0 +1,117 @@
+{
+  "date": "2026年07月31日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "醫療 AI 快速普及國家最難承受 AI 盲點——新興市場導入風險警示",
+      "summary": "一篇來自摩洛哥世界新聞的深度分析指出，醫療 AI 採用速度最快的國家，往往也是最缺乏資源來識別與修正 AI 系統盲點的地區。這些國家在數據代表性、基礎設施、監管能力等方面存在明顯落差，卻因醫療資源短缺而急於引進 AI 輔助診斷工具。報導強調，若訓練數據缺乏多元族群代表性，AI 模型在特定人群中的診斷準確率可能大幅下滑，進而加劇現有醫療不平等。對於正積極推動 AI 落地的醫療體系而言，此報導提醒必須優先評估 AI 工具在在地族群上的驗證成果，而非僅依賴原廠在歐美市場的臨床數據。此議題與台灣推動醫療 AI 國際輸出及在地化驗證的政策方向高度相關，值得醫院領導層及數位轉型團隊關注。",
+      "tags": [
+        "醫療AI公平性",
+        "新興市場",
+        "AI盲點",
+        "在地化驗證"
+      ],
+      "author": "未標示（Morocco World News｜2026-07-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd3dvME9zcHdiU0FnNV9EcGlQZGVqTGNIOGFtelBwaUdiY0oyTi03U0pGQXVCRHpuVGl1M3FKSVVuNXVtbVBoZVE2LUN4VFdLME94enRKbU1uX3loR1NsZ1BZUm9xVjc2a1JkUUdheFVpV3pxeld4aXR4SGcyZ21MMTlRcXVvcDg0eHViVTM4MDduSlZ3UlMzVF9ocDFNZEZkMW9jWjNRT3JIenlibjhtQUdCMXVKS19lMXQwVXNsaEc2TVk1?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "醫療 AI 學到錯誤功課：捷徑學習讓診斷基準測試「被唬住」",
+      "summary": "Tech Times 報導一項關鍵研究警示，醫療 AI 模型存在「捷徑學習」（shortcut learning）問題——模型可能並非真正學習疾病的病理特徵，而是抓取數據集中的非醫學偏差訊號（如標籤位置、掃描設備差異）來做出診斷，導致在標準基準測試中表現優異，但部署到真實臨床環境後準確率大幅下滑。研究人員指出，現有的醫療 AI 評估框架無法有效偵測此類缺陷，形成系統性的安全漏洞。此問題對放射科影像 AI、病理切片分析等高度依賴圖像辨識的臨床工具尤為危險。這項發現與近期多項關於醫療 AI 評測標準缺陷的批評相互呼應，對醫院在採購與驗證 AI 工具時應設立更嚴格的在地測試標準具有直接參考價值。",
+      "tags": [
+        "捷徑學習",
+        "AI評估",
+        "診斷AI",
+        "患者安全"
+      ],
+      "author": "未標示（Tech Times｜2026-07-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTGR1S1lOTFp0MFg3UkpyNjQwWENKNGVjSmktdnVKczNKUy1lcE04Y2VxNU02VkZkZVlaaGE5R2hTQk9Va2FKcEZDRkZ5SU1tM2JyZkRHc1NzeVBiU0V6cUN5dDNfYWFLbjVFbTl1cmkweHR0OHBqcmoyTThoUlVwYnY4aHZUUjdLYVVmd1NkdVF2aGh3NU95VzRwODNjUl9zYnc2LVJoaFZuQ1pDSVlPMjYwY2VDMS10clFTWUlZaEg2aC1XM080YnhIYXE?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "Mayo Clinic Platform 與巴西 Einstein 醫院攜手推進全球 AI 健康創新安全數據協作",
+      "summary": "Mayo Clinic Platform 與巴西 Einstein 醫院 Israelita 宣布建立全球 AI 健康創新合作夥伴關係，重點在於透過安全數據協作（secure data collaboration）框架，在不直接共享原始患者數據的前提下，共同開發與驗證醫療 AI 模型。此合作模式結合聯邦學習與隱私保護技術，讓兩家機構的臨床數據得以互補，提升 AI 模型在不同族群與醫療環境下的泛化能力。Einstein 醫院為拉丁美洲頂級學術醫療中心，此合作意味著 Mayo Clinic 的 AI 平台正積極向美國以外的地區擴展驗證版圖。對於國際醫療 AI 合作模式有意布局的醫療體系而言，此案例展示了如何在法規合規前提下實現跨國數據驅動創新，具有重要的參考示範價值。",
+      "tags": [
+        "國際AI合作",
+        "安全數據協作",
+        "Mayo Clinic",
+        "跨國驗證"
+      ],
+      "author": "未標示（Newswise｜2026-07-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQjhnNHVuSHc0bWdZb19aZ2h6dDBIbnJ4TlBUMHJxUEVpSEhQeFlRcXlWckpiNFhfeXI1aVM1Wko5bmVuU2FuVmVBV0d2UmZMUkR2U19fNFg2ckFrNW5STmg1ZThpQV9MekJFcGNwSW5ZUFlLdHdtLXRMTlZRVXJpUjJuYmlBNkFlLWl1UnRrR2h6U1dmLU4tWHp6UTRhMTh3YnhtdE9PamRFTm9qZlVZODE2NVdTdW5iVXpPYWhETGp4blpaemhWbVVKZFdtamZRdjdObFdrTmNvUzl0UFdwUkRmNUtHTzNu0gHoAUFVX3lxTFBCOGc0dW5IdzRtZ1lvX1pnaHp0MEhucnhOUFQwcnFQRWlISFB4WVFxeVZySmI0WF95cjVpUzVaSjluZW5TYW5WZUFXR3ZSZkxSRHZTX180WDZyQWs1blJOaDVlOGlBX0x6QkVwY3BJbllQWUt0d20tdExOVlFVcmlSMm5iaUE2QWUtaXVSdGtHaHpTV2YtTi1YenpRNGExOHdieG10T09qZEVOb2pmVVk4MTY1V1N1bmJVek9haERManhuWlp6aFZtVUpkV21qZlF2N05sV2tOY29TOXRQV3BSRGY1S0dPM24?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "台灣 AI 新十大建設：教育、醫療、司法三大領域導入 AI 展露成效",
+      "summary": "台灣國發會宣布「AI 新十大建設」政策方向，將教育、醫療、金融與司法列為優先推動領域，並已在醫療場域展現初步成果。報導指出，政府正積極透過公共政策資源挹注推動各領域 AI 應用落地，其中醫療 AI 被視為具有提升診斷效率、改善醫療可近性的重要推手。此政策框架的確立，代表台灣醫療 AI 的發展將獲得更明確的政府支持與資金挹注，有助於加速醫院端的數位轉型進程。對醫療機構而言，掌握政策動向有助於提前佈局相關計畫申請與合規準備，並與政府推動方向保持一致。此報導對醫院領導層與資訊部門評估未來 AI 投資優先序及政策資源申請具有直接參考價值。",
+      "tags": [
+        "台灣醫療AI政策",
+        "國發會",
+        "AI新十大建設",
+        "數位轉型"
+      ],
+      "author": "未標示（NOWnews今日新聞｜2026-07-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1ZTlTdUtuVkdzeVZ3SVlwSloxWmh5Y3oxa2RwWW0yX0dvNW8xSlVjWTdLQ0Rjd3hkNnN4d0NvdXlrSHFVT2FRc1hXczTSAVJBVV95cUxQVDBxdkQ5ZTgxa0V6Z0cxNHJDcE5xTnBjMjdBRG9uTDBHYU5YTFcyRHNYZDR4ZklBUFl4NTU2aW1oVVcxM3VMbWVFYmpabHVsRTNn?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "Tempus AI 積極併購、FDA 核准加持，精準醫療商業模式全面洗牌",
+      "summary": "CMoney 投資網誌報導，Tempus AI 近期大舉展開併購行動，並持續獲得 FDA 核准加持，在基因組學與精準醫療領域迅速擴張市場版圖。Tempus AI 的商業模式結合臨床數據分析、AI 輔助診斷與個人化治療建議，透過與大型醫療機構合作累積龐大真實世界數據，形成數據飛輪效應。此波整合浪潮正在重新定義精準醫療的競爭格局，傳統診斷公司、基因檢測業者與 AI 新創之間的界線日益模糊。對台灣醫療體系而言，Tempus AI 的擴張路徑提供了一個觀察跨國精準醫療 AI 平台如何快速規模化的參考案例，也預示未來台灣醫療機構在選擇 AI 合作夥伴時，數據資產的歸屬與使用授權將成為關鍵談判籌碼。",
+      "tags": [
+        "Tempus AI",
+        "精準醫療",
+        "FDA核准",
+        "醫療AI併購"
+      ],
+      "author": "未標示（CMoney投資網誌｜2026-07-31）",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDdTeUxmQXNhMWZwS0xJMVp6N3lQcklZNk9lRW9WOU9yNUJTa0RtOU9DWjJBQ0RrWWd1d2dfcHpkWjlRYkRjRDR1YXRJUUlPaHV4clJ5enBpajBWaTJtb1IybkMxcUp3VTR1Y0tHM25SY1hOMFFiaTlXM1d6NzJBcFlKdGF5QXljNFo2SjViaXVnMWxrb184OGs1bVRIQW1TTlBnaFRNNkpMNDNhRXJaU1FhUnR0X3h4cDRYZGdxUFpONExSVUNfejJ6Q0xKd2M?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "AI 與能源成本將壓縮醫院 2027 年非人力支出——Vizient 報告示警",
+      "summary": "Fierce Healthcare 引述 Vizient 最新研究報告指出，AI 技術投資與能源價格上漲的雙重壓力，將在 2027 年顯著壓縮醫院的非人力支出預算。報告指出，醫院為維持競爭力必須持續投入 AI 工具採購與基礎設施升級，但同步面臨電力成本攀升的挑戰，兩者合計對醫院財務形成明顯衝擊。Vizient 建議醫療機構提前進行支出結構重組，優先投資能直接產生 ROI 的 AI 應用，並重新評估能源使用效率。此報告對正在規劃 AI 預算的醫院領導層與財務長具有直接參考意義，尤其是如何在 AI 投資與成本控制之間取得平衡，將成為 2027 年醫院管理的核心挑戰之一。",
+      "tags": [
+        "醫院財務",
+        "AI支出",
+        "非人力成本",
+        "Vizient"
+      ],
+      "author": "未標示（Fierce Healthcare｜2026-07-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnB4ajBJWXJ4NVhjd0xIQVZiYlpicmZNbk0wSWN5bmNucFBsdjVXckhsUzc4Q3V2MVo4OTNpMmdvSmZuZ1dqS0NFUGxSdWRibnl3MDNFeVRKbmxuQ2Vzc3lTWDBuZWJhaGFkUXhPekNYaUJObjBweWFHUUhCQ1JwbzdfdmtESjdKY0hwbjJGZ3NwdXVDbkhldDk4U1E2Y2lRNXFSM3d1bW85Qkk0QmdDYg?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "醫揚科技結合 Intel 平台打造 AI 醫療外骨骼，協助下肢傷患安全復健",
+      "summary": "台灣醫揚科技宣布採用 Intel 軟硬體平台，開發出具備 AI 輔助功能的醫療外骨骼裝置，專為下肢運動障礙或受傷患者設計，協助其在安全監控下進行復健訓練。該系統透過 AI 即時分析步態數據與肌肉力量，動態調整外骨骼的輔助程度，降低復健過程中跌倒或二次傷害的風險。此產品將 AI 邊緣運算能力直接整合至穿戴式醫療設備，代表台灣醫療器材業者在 AI 臨床復健領域的重要突破。對復健科、骨科及神經科等臨床科別而言，此類 AI 驅動的主動式復健工具有望縮短住院復健時程，並提升患者的自主訓練意願。此發展也呼應台灣政府 AI 新十大建設中對醫療 AI 在地化製造的政策支持方向。",
+      "tags": [
+        "AI外骨骼",
+        "復健科技",
+        "台灣醫療器材",
+        "穿戴式醫療"
+      ],
+      "author": "未標示（Cool3c｜2026-07-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zUXppWUpkTWlJc1p4dzhDTTFsRjBUVTR0RFRwTl9tZl9sckFUOVR1Vk5vQVl3UElweVhsakF3cHlNaVVuMG9NWVZpLU1mQQ?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 5.5,
+      "title": "AI 醫療市場 2030 年規模預破千億，複合型人才缺口達 250 萬",
+      "summary": "一份市場研究報告預測，全球 AI 醫療市場規模將在 2030 年突破千億美元，但同時面臨高達 250 萬人的複合型人才缺口，即具備醫療專業知識與 AI 技術能力的跨域人才嚴重不足。報告指出，純 IT 工程師與純醫療人員已難以滿足 AI 醫療落地的需求，醫療機構必須培養能理解臨床流程、同時掌握數據科學與 AI 工具應用的複合型人才。這項人才短缺問題將成為制約 AI 醫療發展速度的關鍵瓶頸，尤其在亞太地區更為突出。對醫院人力資源與教育訓練部門而言，提前規劃跨域人才培育路徑，並與醫學院及資工學院建立合作培訓機制，將是維持 AI 競爭力的必要投資。",
+      "tags": [
+        "AI醫療人才",
+        "市場規模",
+        "跨域人才",
+        "2030預測"
+      ],
+      "author": "未標示（i-cable.com｜2026-07-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPMnhjaTg2am9wNTltVU9KaUNYQWI2V0RBU1dpUlZ5WExPSVhmUmFEMVBfVWZwQmhpbUZtUzJnV09WVE1iaGhDbzFFVl91eUFCZzB1LVAweXB3bFNWWFdoUVdvWUFRQzJ3ck96X1B0eElwUVV0OTduZzgzQW9VLTVSUlVqN0N0UFI3Ql85WVdaci1SRjh4N21zTUo5N1BRaHhqd1BMdm8tOVRTWkQ5SkZlaTFpRUk2SHZTUXVRQUNOc1RKcFJhNWxCVi1VZmJNRXN3SERaaEh5NUtNMHI1OVN5MDBCbjNYNUEwNl8zRHhHWmVDaVNWX1FHdDhqWlJHSUlWcDRTcFh1anNhU1VsOEt3U1RSUi1NNXN1TllWNUduY1drUTZVUU5fMWt3YWJfNkxMYjhOOVY2b256X21vUmJxZzI5OXhSQ3E2WnNySmRnNVhoUzZhLURaUzFPWEZmUlF5dDduQ05aNlBNcWlQRlNaa2FVNlhBclkyTTMwQzJveUVUZjhQOHNFZkFhZ3BXNjIwVnplRlpMa2wtakxLcWh4dHNrUlc1Zw?oc=5"
+    }
+  ]
+}
