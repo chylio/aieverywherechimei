@@ -1,0 +1,89 @@
+{
+  "date": "2026年08月02日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "Nature 與 MBZUAI 提出醫療 AI 七層級責任歸屬框架，為全球法規奠定基礎",
+      "summary": "Nature 期刊與阿布達比人工智慧大學（MBZUAI）聯合提出一套七層級醫療 AI 責任框架，依照 AI 系統的自主程度與臨床介入深度，系統性地界定開發者、醫院、臨床醫師及主管機關各自應承擔的法律與倫理責任。此框架涵蓋從單純輔助診斷工具到全自動決策系統的完整光譜，並建議各國監管機構依層級訂定不同的上市前審查標準與事後稽核要求。此架構的提出背景，是全球醫療 AI 問責訴訟案例日益增加，現行法規多未能明確區分「AI建議」與「醫師決策」之間的責任邊界。對於醫院資訊治理與採購合規而言，此框架提供了一個可操作的風險分級參考依據，預計將影響 FDA、歐盟 MDR 及亞太各國對 AI 醫材的監管政策走向，值得醫療體系法務與數位轉型團隊密切追蹤。",
+      "tags": [
+        "醫療AI責任",
+        "法規政策",
+        "AI治理",
+        "國際框架"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-08-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11Tmo0ZFFmQi0zMFQ2YlJzYjJVa2FDclA3RWVVXzV4T2dxZ3IzamE2ZlAtQlJxMXMxVGd0TXBMbXhPZDdXOV9rM0N1dHdxVGRCRktuOQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "OpenEvidence 臨床決策支援平台進駐醫院，實證型 AI 工具加速臨床採用",
+      "summary": "OpenEvidence 宣布將其以實證醫學為核心的臨床決策支援平台（Clinical Decision-Support Platform）正式導入醫院場域，目標協助臨床醫師在床邊快速查詢最新治療指引、藥物交互作用及診斷建議。OpenEvidence 的產品設計強調以經同儕審查的醫學文獻為知識來源，區別於一般大型語言模型可能出現的幻覺問題，並針對急診、住院及門診不同場景提供客製化查詢界面。此次進駐醫院標誌著臨床 AI 工具從醫師個人使用邁向機構層級系統整合的重要轉折，也對院內 EHR 串接、資安合規與授權管理提出新的挑戰。隨著多家競爭者（包括 Doximity、Anthropic 等）同步布局臨床決策 AI，醫院採購評估的標準化與驗證機制需求日益迫切，此動態值得各臨床科主任與資訊部門關注。",
+      "tags": [
+        "臨床決策支援",
+        "AI工具",
+        "醫院導入",
+        "實證醫學"
+      ],
+      "author": "未標示（GNews-AI clinical｜2026-08-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zVnBsdGVBR3FOVmpnRHpyLUZIWlhlQTlyX2piNklWMWwtc2dSS0w4SlBmV0FyQzI2VEZhYUpuSFFjSmhHemFDaVRnTUN0MDdDQTBKWXZ2N0hJanpxd2s3bF9LWXV3UFF0SlM0cmVFTlRMeGhaWHBmag?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "紐澤西州 11 家醫院 AI 工具與死亡率下降顯著相關，臨床成效再獲印證",
+      "summary": "美國紐澤西州一項涵蓋 11 家醫院的觀察性研究顯示，導入 AI 早期預警工具的病房死亡率明顯低於未使用院區，進一步支持臨床 AI 在住院安全管理上的實際效益。該研究追蹤了 AI 系統對患者生命徵象、實驗室數值及護理紀錄的即時監測能力，系統在病患惡化前數小時即可發出警示，使臨床團隊得以提前介入。研究指出，此類工具的成效有賴於院內工作流程再造與醫護人員訓練，單純部署系統並不保證效果。值得注意的是，本研究發布時間與先前 7 月 30 日「AI 工具提前偵測病患惡化跡象」報導主題相近，但聚焦於多院所規模驗證，具有更高的外部效度，對正在評估或已導入同類系統的醫院管理層而言，具重要參考價值。",
+      "tags": [
+        "早期預警",
+        "住院安全",
+        "AI臨床成效",
+        "死亡率"
+      ],
+      "author": "未標示（GNews-AI clinical｜2026-08-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY1d4U3d0MjNKb1pkbVZFcXczbmRxWGU5eU5mcEJ5Y2lBTEVYZGZRdEZaTEdwNmhObldsRVN5NElIQUZxMWpLbE9oY0s3S0tWcmh1a1FEVUdsWWJPV25Ec1NJOHFYNXVJNHV3OHNsZVlNWUc0UXJHZ1daZkU1ZDZqU2FKNzRDeW8xa2ZwbDk1QTRoMWRaZVZza2tsNzlpSFJMVHNOenBiRHp1Ymx2N2Q2cUY3Nk90VEVOMk96VGtXRGR0T0U?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "醫療 AI 應與醫療體系共同建構，而非繞行醫療生態系統",
+      "summary": "Business Journals 一篇評論文章指出，目前許多醫療 AI 產品的開發邏輯仍以科技公司為中心，往往繞過臨床工作流程、醫院資訊架構與醫療法規直接推出產品，導致落地困難或臨床接受度低落。文章強調，真正有效的醫療 AI 必須從醫療實務需求出發，與臨床醫師、護理師、醫院管理層及法規單位共同設計，並在真實醫療環境中進行嚴格驗證。此觀點呼應近年國際醫療 AI 評測研究所揭示的「臨床脈絡缺失」問題，說明技術準確率高不等於臨床實用性高。對於正在評估或引進 AI 解決方案的醫院領導層而言，本文提醒採購與導入決策應納入臨床科室的深度參與，而非單由資訊部門或廠商主導，是當前醫療 AI 治理討論的重要聲音。",
+      "tags": [
+        "醫療AI設計",
+        "臨床整合",
+        "AI治理",
+        "數位轉型"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-08-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0NuWUFDaXU4cURqVTJ3N0s0TmdGQmFZVG5nV0dXc0tLa3lpUWlEWGhKeGR6NWF6NmprbU9jN2FwTnB1a1FZSTNRUGlnRHhJS291OHNkQmJHX0xpeE9laXU3amxkT2p4aE5mOE9DVDRLYUkyelh6ckNJT3lwOUZuNGZFeEZSRzVFdHB6WkZrTk9hN09qc1o4?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "AI 協助醫療領導層將病患數據轉化為決策行動，提升照護品質與安全",
+      "summary": "商傳媒報導指出，AI 技術正協助醫院管理層更有效地運用龐大的病患數據，將原本分散於 EHR、監測設備與行政系統的資訊整合分析，進而支援臨床決策、風險管理與資源配置。報導中強調，醫療 AI 的核心價值不只在於自動化流程，更在於將數據轉化為可執行的臨床洞察，幫助醫師與護理師在有限時間內做出更精準的判斷。文章同時指出，要實現此目標，醫院需要具備完善的數據治理架構、跨部門協作機制與 AI 倫理審查流程。此報導反映台灣醫療機構對 AI 應用層次的討論已從「導入工具」升級至「數據驅動照護」的戰略思考層面，對醫院領導層規劃數位轉型路徑具有參考意義。",
+      "tags": [
+        "數據驅動照護",
+        "醫療AI",
+        "台灣醫療",
+        "數位轉型"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-08-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPbWlSRl9DNldyN3VBd0c3MEVHSzNvbUdyUGx6RWYyaHlKeVJYb1RrOG8tNUM4b2Q2aHU5UVZkMWVGYUxvZzVmVkRUMnhlQndtWWhaSXNsaU8tVGt3MGUwTnRYcV9lRDFoSDFxSV9hOVI2Mk1Edm9ydHZUaER0Tko5RjYzZHdfYjdnWFIzQ2ZOY3ZmMXNGbzZXb3BhZ2FyV0pySm1CRi1fd1hQazhBN2hOcmhldm9FUFZGN19ObGQ5ZGFEQmhEa3ZRcVpTSzB2VkpmbElOQlVaT05sdy1KUzJURTdCUUxzZ1kyd0JxVF9QWjFrVWJpTTZqM3dZTjFXMlFFSjR2dmVFQVdkRDBzWll6R0JaOER0NTBiUjFxWnJIWXZwMWdPRFVYcW9kQkxhSDJoMGE4TFRpVWUtd0FnM2daR1p1SHIyX1haTFhkRA?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "Daffodil Health 以 AI 自動化醫療賬款糾紛處理，減輕行政負擔",
+      "summary": "Daffodil Health 宣布推出以 AI 為核心的「No Surprises Act」糾紛管理解決方案，針對美國《禁止驚天帳單法》所衍生的大量保險理賠爭議，自動化執行賠償審查、協商談判及仲裁申請等繁瑣行政流程。該平台透過機器學習分析歷史理賠數據，預測仲裁結果並建議最佳應對策略，協助保險公司與醫院大幅縮短糾紛處理週期。此工具的推出回應了美國醫療行政成本居高不下的核心痛點，同時也反映出 AI 在醫療行政自動化領域的應用正從輔助角色轉向核心決策環節。對台灣醫院而言，雖法規背景不同，但以 AI 優化健保申覆與收費糾紛處理的思路具有借鑒價值，醫務行政與財務部門可關注此類工具的發展趨勢。",
+      "tags": [
+        "醫療行政AI",
+        "理賠自動化",
+        "法規合規",
+        "健保申覆"
+      ],
+      "author": "未標示（MedCity News｜2026-08-01）",
+      "source_url": "https://medcitynews.com/2026/07/daffodil-health-launches-no-surprises-act-dispute-management-solution/"
+    }
+  ]
+}
