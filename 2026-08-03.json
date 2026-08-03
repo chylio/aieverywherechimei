@@ -1,0 +1,18 @@
+{
+  "date": "2026年08月03日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 6.5,
+      "title": "數學能力為何對醫療 AI 至關重要",
+      "summary": "《Bangkok Post》一篇深度報導探討數學基礎能力與醫療 AI 發展之間的關聯性。文章指出，醫療 AI 系統的設計、訓練與驗證高度依賴統計學、線性代數與微積分等數學知識，若相關人才的數理基礎不足，將導致模型設計缺陷、誤差累積乃至臨床應用失誤。報導強調，對於希望主導或參與醫療 AI 開發的臨床醫師與醫療資訊人員而言，強化數學素養已成為不可迴避的核心能力。此外，文章也點出醫學院課程設計應與時俱進，將數據科學與 AI 相關數理訓練納入必修架構，以確保未來的醫療人才具備足夠能力評估、監督並改善 AI 工具的臨床表現，避免盲目依賴黑箱系統所帶來的醫療風險。",
+      "tags": [
+        "醫療AI教育",
+        "數學素養",
+        "人才培育"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-08-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmNjQnAtWnc4Wm5pRDhYbmdzck9QVFNhOURjZDJuaWZrMlpDXzVEbmRGaEpGbGNNWVNqbnFzVjBwRTgxbW1BazdxZDNDNDNpdXlQajdUaW5Eam95MmZ2b29mdGNqZFlwMXVaUmdrc0hCV1Foa3lkSk5BUWJLRGhsdHV1QzY1VFhFTVpWdUpjcjRVQm5T?oc=5"
+    }
+  ]
+}
