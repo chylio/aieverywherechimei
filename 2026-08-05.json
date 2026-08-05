@@ -1,0 +1,131 @@
+{
+  "date": "2026年08月05日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "醫療 AI 工具隱私風險分布不均：少數族群與特殊病患面臨更高資料洩露風險",
+      "summary": "Nature 於 2026 年 8 月 4 日刊載研究指出，用於訓練醫療 AI 模型的患者數據存在隱私攻擊風險，且風險分布高度不均等。研究發現，與訓練資料多數族群特徵不同的個體，例如罕見疾病患者、少數族裔或特殊人口群體，更容易被「成員推斷攻擊」識別，亦即攻擊者可藉此判斷特定個人的資料是否被納入模型訓練集。這類隱私漏洞不僅構成 GDPR 與 HIPAA 等法規合規風險，更可能加劇健康數據使用的公平性問題。研究呼籲醫療 AI 開發者在模型設計階段即納入差分隱私、聯邦學習等隱私保護技術，並針對弱勢族群進行專項隱私風險評估。對於正積極建置 AI 輔助診斷系統的醫療機構而言，此研究提示在資料治理與模型部署審查流程中，應將不均等隱私風險列為必要評估項目。",
+      "tags": [
+        "隱私保護",
+        "資料治理",
+        "AI 倫理",
+        "法規合規"
+      ],
+      "author": "未標示（Nature｜2026-08-04）",
+      "source_url": "https://www.nature.com/articles/d41586-026-02288-9"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "英國監管機構就 AI 醫療抄寫工具是否屬於醫療器材表態，監理定性爭議浮上檯面",
+      "summary": "STAT News 報導，英國藥品與醫療產品監管局（MHRA）就 AI 醫療抄寫工具（AI scribes）是否應被歸類為醫療器材一事正式表態，引發全球醫療 AI 監管社群高度關注。AI 抄寫工具已廣泛部署於診間與病房，協助醫師自動生成病歷摘要與臨床紀錄，但其監理地位至今仍不明確。若被認定為醫療器材，開發商將面臨更嚴格的上市前審查、臨床驗證及上市後監控要求，採購醫院亦須承擔相應合規責任。此議題與美國 FDA 對 AI/ML 輔助軟體的監管框架高度相關，各國監理機構的態度分歧可能影響跨國產品的市場准入策略。同期報導亦提及 CMS 取消部分突破性醫療器材的關鍵給付路徑，進一步衝擊醫療 AI 商業化前景。本則為付費牆內容，摘要依公開資訊整理。",
+      "tags": [
+        "AI 法規監管",
+        "AI 抄寫工具",
+        "醫療器材認定",
+        "英國 MHRA"
+      ],
+      "author": "未標示（STAT News｜2026-08-04）",
+      "source_url": "https://www.statnews.com/2026/08/04/ai-scribes-medical-devices-uk-regulator-view-health-tech/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "醫療 AI 法規責任重心轉移：新規將風險從監管機構移向醫院端",
+      "summary": "PYMNTS.com 報導，隨著美國及多國醫療 AI 監管框架持續演進，新興規範正逐步將 AI 工具的問責責任從政府監管機構轉移至採購與部署 AI 的醫療機構。此趨勢意味著醫院在引入 AI 輔助診斷、臨床決策支援或行政自動化工具時，將承擔更重的驗證義務、持續監控責任及不良事件通報責任。業界分析指出，此一政策走向雖有助於加速創新工具上市，卻也對資源有限的中小型醫院形成壓力，要求其建立完整的 AI 治理架構與風險管理機制。對醫療機構領導層而言，此報導提示應提前盤點現有 AI 部署清單、評估潛在法律暴露面，並強化內部 AI 審查委員會與資安合規流程，以因應日益嚴格的責任要求。",
+      "tags": [
+        "AI 法規責任",
+        "醫院治理",
+        "風險管理",
+        "政策趨勢"
+      ],
+      "author": "未標示（PYMNTS.com｜2026-08-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN0dIQnNpRWphcElsM0w1bzhNTkxVeVNYLUM1Q3ZHR3h1NlVfMDluZzJvbVQwZWFJY29nbXhEcDU0eUJUTzB0MXpKNWFtQ2VsOEEyTXNkYTVNQlV1OGlXQzNOa1ZHVk5PalZFb0tKWGo2cjBwSU53MWNGQkJ3Slk5UmZ2bEtDelZoY0FWSEZHMWNtWGJXaHlXcGNsdWtObF9k"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "印尼宣布建立國家主權醫療 AI 網絡，東南亞醫療數位主權競賽加速",
+      "summary": "Healthcare IT News 報導，印尼正式宣布成立專責網絡，致力於開發具備國家主權性質的醫療 AI 系統，目標是在本地建立醫療資料控管能力，避免敏感健康數據流向境外雲端平台。此舉反映東南亞各國對醫療 AI 數據主權的高度重視，印尼政府希望透過本土化模型訓練與資料標準化，打造符合當地人口特性的臨床輔助工具。此一政策動向與台灣近年積極推動健保數據平台及本土醫療 AI 生態系的方向高度契合，同時也為台灣醫療 AI 業者拓展東南亞市場提供觀察切入點。對亞太區醫療機構而言，國家主權 AI 的興起意味著跨境合作模式與資料共享協議將面臨更複雜的法規環境，值得持續關注其政策框架發展。",
+      "tags": [
+        "醫療數據主權",
+        "東南亞",
+        "國際政策",
+        "醫療 AI 生態系"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-08-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDJ3OHJZMUc1YXFJTmJGcldrdVNvaV9UTW9ERkZHZDdiZUc5M3ZiWFczdWpLT1pKNWlRaVA4cUxQWXY4UzliczhybVVMc2tOOEI1V1AzYkRpSGlOTXc3S1UtaG1Pa2FvaXVHdjNGcThIQTBzNVdraGFCekVlcDc2LWpsbHB5T0lTdHRjNzRCUWd3RjlkdFZydjlUdld2M0QxRWp1eENB"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "MIT 研究：醫療 AI 輔助效益因使用者專業程度不同而顯著差異",
+      "summary": "MIT News 最新研究發現，醫療 AI 輔助工具的實際效益並非對所有使用者一視同仁，而是高度依賴操作者的專業背景與臨床經驗。研究顯示，對於資淺醫師或初學者，AI 工具的輔助效果較為顯著，能有效彌補知識缺口；然而對於資深專科醫師，AI 建議有時反而可能形成認知干擾或過度依賴問題，在某些情況下甚至降低診斷準確率。研究結果強調，醫療機構在部署 AI 工具時，應針對不同使用族群設計差異化的操作介面、訓練計畫與警示閾值，而非採用統一規格的標準化方案。此發現對臨床教育策略、AI 工具導入評估及人機協作設計均具有重要參考價值，提示「以人為本」的 AI 整合思維不可忽視使用者異質性。",
+      "tags": [
+        "人機協作",
+        "臨床教育",
+        "AI 輔助診斷",
+        "使用者研究"
+      ],
+      "author": "未標示（MIT News｜2026-08-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYnZvNDhuSXpQSXdqdEU5NWZYQlJvQnlUQjVnSV9FWUpTLTNscU5mQ0dDdWdIN3BwRmVJNGpYNXd5MVg2ZkRxNDhnd0p5MkpTZDg0ZVY1NVlKVHpScGlBVWlTVjBmV2lRUkM5UFFzcHFyRzJ0UVRCb0Y3aHRLV2hzVUtPLWk1NUYyLXpBYjVoRlE1Um1h"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "AI 工具有望提升住院患者譫妄早期偵測能力，彌補臨床常見漏診缺口",
+      "summary": "加拿大媒體 CP24 及 The Canadian Press 報導，多項研究與臨床試驗正在探索 AI 風險預測工具應用於住院患者譫妄（delirium）偵測的可行性。譫妄是住院患者，尤其是高齡及重症患者，最常被臨床工作人員漏診的急性意識障礙之一，漏診率據估計高達七成以上，與住院時間延長、死亡率上升及認知功能長期損害高度相關。研究中的 AI 模型透過整合電子病歷中的生命徵象、用藥紀錄與實驗室數據，即時計算譫妄發生風險並觸發警示，有助於護理人員提前介入。專家指出，此類工具若能整合進現有護理資訊系統，將有效強化高風險病患的主動監測機制，對老年科、加護病房及術後照護單位尤具臨床價值。",
+      "tags": [
+        "譫妄偵測",
+        "AI 預警系統",
+        "老年醫療",
+        "臨床決策支援"
+      ],
+      "author": "未標示（cp24.com｜2026-08-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYzBQRC1XUl9zMUVTUTQ1NERmLUEzZ3R1NHdpMUtPNUlZa3JyNU9EaktCdTFqLU5BajVuSl9DT2tLVVZydEhrcVphT0EyX0hZVl9pNWJrWm41NEtjQTNnS3VaSmtMV0doNmFNOHVHdzJsRl9YU0VIOE0zdFBfZ1BhaFc0UXJqaVNDY3N2SEF3ak5oSjJEcUM2YzJCTQ"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "新加坡 NUHS 打造 AI 藥事平台，4 款工具每周節省逾 850 小時藥師工時",
+      "summary": "iThome《MedTech 醫療科技雙周報》第 52 期報導，新加坡國立大學醫學院附屬醫院（NUHS）建置整合型 AI 藥事管理平台，涵蓋 4 款 AI 工具，應用範疇包括藥物交互作用審查、住院用藥核對、出院衛教文件自動生成及藥物不良事件預測。實際導入後，每周可為藥師節省超過 850 小時的重複性行政作業工時，使藥師得以將心力集中於高風險用藥諮詢與患者衛教等高附加價值工作。此案例展示 AI 在醫院藥事部門實現規模化效益的可行路徑，對正在評估藥師人力配置與流程自動化的醫院管理層具有直接參考意義。新加坡持續成為亞洲醫療 AI 實作領先典範，其藥事 AI 整合經驗值得台灣醫療體系借鏡學習。",
+      "tags": [
+        "藥事管理",
+        "流程自動化",
+        "新加坡 NUHS",
+        "醫院效率"
+      ],
+      "author": "未標示（iThome｜2026-08-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUbi1rRzZBNVNGeGNVaUo0TVkwcWYzTnFTMGdPS2lId0xlY2JvMGJfV2xGV3NKUDZVMDBvQnpEaktuUmVLRThGX3NoOVpoQQ"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "韓國政府資助六大聯盟加速 AI 醫療器材導入醫院，國家級推動策略成形",
+      "summary": "Chosunbiz 報導，南韓政府宣布支持六個跨機構聯盟，目標是加快 AI 醫療器材在醫院端的實際落地應用。此項國家級計畫整合大學醫院、醫療器材廠商與研究機構，聚焦於 AI 影像診斷、智慧手術輔助及慢性病管理等關鍵應用場景，並提供資金補助、監管協助與臨床驗證支援。南韓此舉呼應全球主要醫療體系加速推動 AI 醫療器材商業化的趨勢，同時反映政府在推動 AI 醫療生態系發展中扮演積極協調角色的政策取向。對台灣醫療機構及政策制定者而言，南韓的聯盟推動模式提供具體的國家級 AI 採用路徑參考，有助於思考如何在法規、資金與臨床場域之間建立更有效的協作機制。",
+      "tags": [
+        "南韓醫療政策",
+        "AI 醫療器材",
+        "國家推動策略",
+        "產學醫合作"
+      ],
+      "author": "未標示（Chosunbiz｜2026-08-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdTktWmZreEJwcWkydUZzWVd1WGdiT2dnZmVycG5OS0V5ellOaGZmY255cndqaGlyc3JMcHhnM2NyblVfMHF1QjVfamU4dFdxTHhpMjI4em53RU5weWl2eVVIbFZOQjBFRmY5aVZPV19jRm9DX1ZaNnRweWdsZkV0SNIBlAFBVV95cUxPZHppRDhtRk8xS1FjTm5rVGdRMzY4MDg3N015bDZKaDE4ZFJYd1BWd0VxZURDSGdxLTRSYjlDQUpTbDk5R25SbkV5RUdWU2xPMGNCbVFuVmtDNDNMem1mUUNFRGU4bjJCOUQ4S3d2QVExTU1zRDZlamtVeHczMUZLZDB5WXR6N0pMX2tkaGdYeDFKVHMt"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "台北 AI 醫療生態系對接日本關西地區，15 家企業展示台日創新聯動成果",
+      "summary": "蕃新聞報導，台北 AI 醫療生態系代表團赴日本關西地區進行產業交流，共 15 家台灣醫療 AI 相關企業參與，展示在影像診斷、遠距醫療、智慧穿戴裝置及醫院資訊系統等領域的創新成果，並與日本醫療機構及科技企業探討合作可能性。此次對接活動標誌著台灣醫療 AI 產業積極拓展亞洲市場的步伐加速，尤其日本面臨嚴峻的高齡化醫療需求，對台灣 AI 輔助照護工具的潛在市場需求龐大。隨著台日雙方在醫療科技領域的互補性日益凸顯，此類生態系對接活動有望促成具體的技術移轉或共同開發協議，對台灣醫療 AI 產業的國際化布局具有重要指標意義。",
+      "tags": [
+        "台灣醫療 AI",
+        "台日合作",
+        "國際市場",
+        "產業生態系"
+      ],
+      "author": "未標示（蕃新聞｜2026-08-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5Nmt3ZFNzak43N045eF9CZ0hEa0tZa0xmaEVuLWRwYmN4R2cycjNJUFlpQ1VmVEx3WjY3eTdDc0E2eDVyWllhWGc1UWV1TWV5b0E"
+    }
+  ]
+}
