@@ -1,0 +1,117 @@
+{
+  "date": "2026年08月07日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "台灣立法院厚生會成立智慧醫療委員會，衛福部擬提 AI 醫療細則草案",
+      "summary": "台灣立法院厚生會正式成立智慧醫療委員會，目標是建立「可用、可信、可追責」的 AI 醫療制度框架。與此同時，衛福部亦著手研擬 AI 醫療細則草案，預計針對 AI 輔助診斷、臨床決策支援等應用訂定具體規範。此舉標誌著台灣醫療 AI 監理進入制度化新階段：從過去各醫院自行摸索，逐步走向有法規依據的系統性治理。委員會的成立不僅有助於凝聚朝野對 AI 醫療發展的共識，更可為醫院導入 AI 工具提供明確的合規路徑。對醫療體系而言，此政策動向意味著未來 AI 系統的採購、部署與績效追蹤，將需符合更嚴格的透明度與責任規範，醫院資訊部門與法遵單位應提前掌握草案走向，及早進行內部盤點與準備。",
+      "tags": [
+        "台灣政策",
+        "AI法規",
+        "智慧醫療",
+        "衛福部"
+      ],
+      "author": "未標示（自由健康網｜2026-08-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UMkNXbjBzX20xRDVWZzNqZmxtRmswX0I1SkRtTEpHNUF6bUU5S09sLVFFdE5QTXhiZ05CbWxZcmtrSHRYY0hxam5WUDJ5akxBQzlCTVhXOWw3ZVY5cXR1VlBmOGk"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "USC Viterbi 工程學院研究：提升醫療 AI 可靠性的新方法",
+      "summary": "南加州大學 Viterbi 工程學院發布最新研究成果，聚焦於如何提升醫療 AI 模型的可靠性與穩健性。研究團隊針對臨床 AI 系統常見的偏差問題、模型泛化能力不足以及黑箱決策等挑戰，提出新的技術路徑，旨在讓 AI 輔助診斷與臨床決策工具在真實醫療場景中更具一致性與可信度。此研究指出，目前許多醫療 AI 工具在研究環境中表現優異，但部署至不同醫院或族群時往往出現準確率下降的問題，因此需要更嚴格的可靠性測試框架。對醫院資訊與數位轉型團隊而言，此研究所提出的方法論有助於評估現有 AI 工具的穩健程度，也為採購新系統時制定驗收標準提供參考依據，是推動負責任 AI 落地的重要學術基礎。",
+      "tags": [
+        "AI可靠性",
+        "臨床AI",
+        "模型穩健性",
+        "學術研究"
+      ],
+      "author": "未標示（USC Viterbi School of Engineering｜2026-08-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORlFLMElNQk1YMDEtQ2hnZGdjNFFvUU1CaHlCbkdfVHhEakZYbmlVQkNWcnpfaE1ZMkNvWldYd1F3MTkwdnVjRWFISHhTLWNMbUJ2a2QtdlhjMmZ6MTVhcjZwWTNDQ0FucF9ORnByZHNpSDNGek0xQ21mcVJZSzhfcA"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "Atropos Health 與 Health Universe 合作推出 AI 臨床決策支援平台",
+      "summary": "Atropos Health 宣布與 Health Universe 建立合作夥伴關係，共同推出整合性 AI 臨床決策支援解決方案。Atropos Health 擅長利用真實世界數據（real-world data）即時生成證據，Health Universe 則提供雲端 AI 應用部署基礎設施。雙方合作旨在讓臨床醫師能在診療過程中直接獲取由真實病患數據驅動的個人化證據支援，縮短「研究發表」到「臨床應用」之間的落差。此一模式對於缺乏大型研究中心資源的區域型醫院尤具意義，醫師可透過平台查詢特定治療方案在類似患者族群中的實際療效數據，輔助臨床判斷。對台灣醫療體系而言，此類結合真實世界證據與 AI 的決策支援工具，代表臨床 AI 從「影像辨識」向「治療決策」延伸的重要趨勢，值得持續追蹤。",
+      "tags": [
+        "臨床決策支援",
+        "真實世界數據",
+        "AI平台",
+        "數位轉型"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-08-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmdPdmZQUGkzLW11VFBPaG5PeERoMzZwcU9CYjh1TTM4Z1V5bmFvY0Rvb0pwanpLQnVGS2ZVeWxGUmt6cjF6enBUdjhGM2hYeTA0TVZDVEhWaUp5cEt6VHdITVg1RExxTUdXbGNjWW51eDE0Tl80M2hRVHROVVZSM25VSnpKTUhVVGF1VzB0MklNME90WDh4MXZHNlFaamd4RnpCcE1vOA"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "RSNA 發起 2026 年膝關節異常偵測 AI 挑戰賽，推動放射科 AI 標竿建立",
+      "summary": "北美放射學會（RSNA）正式啟動 2026 年膝關節異常偵測 AI 挑戰賽，邀請全球研究團隊開發並競逐最佳膝關節 MRI 自動化分析模型。此挑戰賽延續 RSNA 多年來透過公開競賽推動醫療影像 AI 標準化的傳統，除有助於催生高效能偵測演算法外，也藉由統一的測試資料集與評分機制，建立客觀的 AI 性能比較基準。對放射科與骨科而言，膝關節病變（如半月板撕裂、前十字韌帶損傷、軟骨缺損）的 AI 自動偵測若能達到臨床可用水準，將大幅提升高量影像判讀效率並降低漏診風險。此挑戰賽的結果亦可作為醫院評估或採購膝關節 AI 輔助診斷工具時的外部驗證參考指標，具有直接的臨床採購參考價值。",
+      "tags": [
+        "放射科AI",
+        "RSNA",
+        "影像辨識",
+        "骨科"
+      ],
+      "author": "未標示（AuntMinnie｜2026-08-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMzl5Q3ZuOFlwZ19rZW9EajJHaDk5N3JqTks2bHR6RzgxOG1ENjJrRXZQVGc0VmQ1UnhQZG9SdlpKUTUwUTczWWZwaDRMRWplVEQ3YzJlLTV5bm1HOXQ4UTYya1d6dWExdmxlLUFaVzN2eGhWWnhWV1FqejdXQU1VTUFnaERBWU51ekdTMnQxa1ZyQUNrYWhyNHo2SHlWbXczUGFkSkhlaU1KU0lXeXdhWWRDbFlhSlRkcm1NRE1hUk5pbGxTUi1YNHpXMmJkV25weWtDc0FSeER0X1k"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "AI 應用於糖尿病腎病數位病理學：精準診斷新契機",
+      "summary": "最新研究探討 AI 技術在糖尿病腎病（Diabetic Kidney Disease, DKD）數位病理診斷中的應用潛力。研究顯示，AI 模型能夠自動分析腎臟活體切片的組織影像，精確識別腎小球硬化、間質纖維化等病理特徵，並量化疾病嚴重程度，有望提供比傳統人工判讀更具一致性的診斷結果。糖尿病腎病是全球最主要的末期腎病病因，台灣亦面臨高盛行率壓力，其病理切片的判讀傳統上高度依賴病理科醫師的主觀經驗，具有相當的觀察者間差異。AI 輔助病理分析若能標準化，將有助於提升診斷速度、減少判讀差異，並支援腎臟科醫師的治療決策。此趨勢也呼應數位病理整合 AI 的全球浪潮，對病理科與腎臟科均具直接參考意義。",
+      "tags": [
+        "數位病理",
+        "糖尿病腎病",
+        "AI輔助診斷",
+        "腎臟科"
+      ],
+      "author": "未標示（Diabetes In Control｜2026-08-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTjd4SWZWQW5XMXR1d29uemNtbkY2djlvY0tCWHF3UWpWS0FOU3I1WHNYbGt5bWVFYnVfWFY0RDh5LVA0TlhpX3FlejNXaWRLc3dLdVZBcWItcHNsTGdnM3ZCNHMwcXNyaVRPVEpmTk0tTjIyOXM0eEczSktWNWNUZnBBZ244OEJqbW9GNy1kUFYzN00"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "AI 代理人自動檢核科學文獻，成功揭露數十年舊論文錯誤",
+      "summary": "Nature 報導指出，AI 代理人（AI agents）正被用於系統性審查科學文獻，並已成功偵測出多篇數十年前發表論文及參考資料庫中的錯誤。此類工具能夠自動比對數據、識別統計矛盾，以及標記可疑的圖表或數值，效率遠超人工查核。在醫學研究領域，文獻錯誤可能對臨床實踐產生深遠影響，特別是被廣泛引用的舊版臨床指引若含有根本性錯誤，可能造成治療決策的系統性偏差。AI 代理人應用於文獻品質管控，有望成為醫學知識庫維護的重要工具，也對醫院研究部門及系統性文獻回顧工作流程具有直接的應用潛力。隨著此類工具逐漸成熟，未來有可能整合進期刊投稿審查及醫院研究倫理委員會的評估流程之中。",
+      "tags": [
+        "AI代理人",
+        "科學文獻審查",
+        "研究品質",
+        "醫學知識庫"
+      ],
+      "author": "未標示（Nature｜2026-08-06）",
+      "source_url": "https://www.nature.com/articles/d41586-026-02235-8"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "SAS 分析：醫療 AI 仍面臨實證證據不足與資料缺口的核心挑戰",
+      "summary": "SAS 在 Tech Wire Asia 的報導中指出，儘管醫療 AI 的應用場景持續擴增，但整體產業仍面臨兩大根本性挑戰：一是缺乏足夠嚴謹的臨床實證研究支撐 AI 工具的有效性聲稱；二是訓練與驗證資料存在系統性缺口，包括族群代表性不足、資料品質參差不齊及跨機構資料不一致等問題。SAS 強調，在這些基礎問題未解決前，醫療機構若倉促大規模部署 AI，將承擔難以量化的臨床風險。此觀點呼應國際間對醫療 AI「過度承諾、驗證不足」的普遍憂慮，也與近期 FDA 及各國監管機構加強要求 AI 工具上市後監測的政策方向一致。對醫院採購與評估 AI 工具的決策者而言，建立嚴格的內部驗證機制與持續監測流程，是當前最關鍵的風險管理措施。",
+      "tags": [
+        "醫療AI挑戰",
+        "臨床實證",
+        "資料品質",
+        "AI風險管理"
+      ],
+      "author": "未標示（Tech Wire Asia｜2026-08-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LdHZiaGd2d3lJRmVVSmZrb18wc1M1cGVBa05GYUZISjBXWUotZm5pSDQ3ZGdUMGlUSkZHdmNaZjFfM18xMEVEdFVKb0RTVlB1eVlTTXJCWTMzWUtpeWFfN29NUTBLZGNaNkJJOGhMenpDMmdUOGx5eXZ3"
+    },
+    {
+      "rank": 8,
+      "score": 5.5,
+      "title": "《STAT》觀點：停止問「AI 對醫療好不好」，應聚焦具體工具的具體效益",
+      "summary": "STAT News 刊登觀點文章，作者批評當前醫療界對 AI 的討論過度依賴「AI 整體是否有益」的二元框架，認為此種過度概括化的思維反而阻礙了真正有效的 AI 工具被及時採用。文章舉例，AI 抄寫工具已有充分證據顯示可減輕醫師文書負擔，AI 敗血症預警工具亦有多項研究支持其臨床價值，但因為「AI 整體爭議」的噪音，這些工具的導入速度遠落後於其實證基礎。作者主張，醫院與臨床科室應針對個別工具、個別應用場景進行獨立評估，而非受整體 AI 輿論左右。此觀點對醫院領導層尤具參考意義：建立工具層級的評估機制，比等待「AI 整體共識」形成更具實際效益，也更符合負責任的數位轉型策略。",
+      "tags": [
+        "醫療AI採用",
+        "臨床決策",
+        "AI評估框架",
+        "觀點"
+      ],
+      "author": "未標示（STAT News｜2026-08-06）",
+      "source_url": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/?utm_campaign=rss"
+    }
+  ]
+}
