@@ -1,0 +1,131 @@
+{
+  "date": "2026年08月08日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "北醫生成式AI每月節省8千工時，宏碁智醫將應用延伸至偏鄉醫療",
+      "summary": "台灣臺北醫學大學附屬醫院導入生成式AI系統後，每月可節省約8千工時的行政與臨床作業負擔，顯示AI在醫院實際運營中的規模化效益。同時，宏碁智醫將成熟的智慧醫療工具擴展至偏鄉地區，試圖縮短城鄉醫療資源落差。此案例兼具大型醫院的效率提升典範，以及偏鄉醫療可近性強化的社會意義，展現台灣智慧醫療的雙軌發展策略。對醫院領導層而言，此案提供具體工時節省數字，可作為評估AI導入ROI的在地參考；對資訊與數位轉型團隊而言，則呈現從都會醫院到偏鄉延伸佈建的可行路徑。隨著醫療人力短缺壓力持續，此類工時節省型AI應用的實證數據，對台灣各級醫院具有相當參考價值。",
+      "tags": [
+        "生成式AI",
+        "醫院效率",
+        "偏鄉醫療",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（環球生技月刊｜2026-08-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84Nm1yWVNGLU5aV2lNYlZ1MFMxT3l5djhNSjhDbnc4cFRraHJHdmtVY3c2VXpkd2xUNzM5cXF0UkRWTlphVlFLOUdfLS0ySWQ5djBiYWhKaE9sWlBRbGJUV1VHa2RsS1Iy"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "台加智慧醫療合作重大突破：AI兩分鐘完成失智症認知篩檢",
+      "summary": "中山醫學大學與加拿大合作夥伴共同推出AI認知篩檢工具，可在兩分鐘內完成失智症初步篩查，大幅縮短傳統神經心理測驗所需時間。此次台加智慧醫療新創交流活動聚焦AI健康管理及快速認知評估應用，展示雙方在技術研發與臨床驗證上的聯合成果。快速篩檢工具的出現，有望改善基層醫療與門診環境中失智症的早期識別率，減輕神經科及精神科的診斷壅塞壓力。對臨床科主任而言，此工具若通過主管機關認證，可作為神經科、家醫科、老年醫學科門診的初步輔助篩檢手段，提升照護效率並協助高風險族群及早轉介。台加雙邊合作模式也為台灣智慧醫療的國際化提供新範例。",
+      "tags": [
+        "失智症篩檢",
+        "認知評估AI",
+        "台加合作",
+        "智慧醫療"
+      ],
+      "author": "未標示（cna.com.tw｜2026-08-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhMjQ1LXVaS3VJc1Rxem9xakRrbjRDcGFqTjdQd0hRMENiUlh4RlVkMG1xN0xkVGplVm1wT282bXE5NzJRVjRmUTFrdHI0aWs4YXVkVmFB"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "醫療AI進入規模化時代：應用創新轉向平台治理新階段",
+      "summary": "根據CIO Taiwan報導，醫療AI發展正從單點應用創新轉向系統性的平台治理模式。隨著各大醫院陸續完成AI工具的初期部署，如何建立可擴展、可監管、可互通的AI平台架構，成為新一階段的核心挑戰。報導指出，規模化導入需要跨部門的治理框架，涵蓋資料安全、模型版本管理、臨床績效追蹤及法規遵循等面向。此趨勢對台灣醫療體系具有直接意涵：醫院領導層須從「導入AI工具」的思維，升級至「建立AI治理架構」的戰略高度，確保各科室的AI應用能在統一的平台標準下安全運作，並持續產出可驗證的臨床價值。",
+      "tags": [
+        "AI治理",
+        "平台架構",
+        "規模化部署",
+        "醫療數位轉型"
+      ],
+      "author": "未標示（CIO Taiwan｜2026-08-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBkU3RIUEU0TXJoczJqNjFkRW1UU3EyZkl5eUhWUkVBRVNzN2cxMXIwTm1xN0RwcTZSWmxOcTA1Tldvclhh"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "鴻海團隊駐院挖掘痛點：以AI取代醫療苦工、讓醫護回歸人性化照護",
+      "summary": "鴻海集團旗下醫療AI團隊採取「駐院共創」模式，深入醫院一線尋找臨床與行政流程中的高重複性、低附加價值作業，針對性導入AI自動化工具，目標是讓醫護人員從繁重的文書與行政苦工中解放，回歸以病患為核心的照護工作。報導強調，此模式的差異化在於由科技團隊主動進駐、與臨床人員共同定義問題，而非由外部廠商單向輸出解決方案。這種「問題先行、技術跟進」的共創方式，在提升AI落地成功率上具有示範意義。對各醫院資訊與數位轉型團隊而言，鴻海此模式提供了產業合作的可借鑑樣板，同時也凸顯臨床需求訪談與使用者研究在AI專案中的關鍵地位。",
+      "tags": [
+        "醫療AI落地",
+        "流程自動化",
+        "產業合作",
+        "臨床共創"
+      ],
+      "author": "未標示（元氣網｜2026-08-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MbldaYUVncmxmY0p3cDBhck1raHMyYWtfM0JLOHA3OUd1SmhIcGRZOWN3clFHT2hLb2NVWS05aXcyUy15TFdtRi01dVZrVWZJdDdiRjhQZkdZUXZiRGxr0gFkQVVfeXFMT0xPNERMaFU4TVVLWXZSbFhFa2h0T0VvY3JmVHBxMnRPMkZXQWhMQWttRjZaRHlWRWRaWHc2SDBLUDAwN2JBN1JaeFdzMmhYTjlJQXgwZUh4VWJXOXFMZkZMV3dEUA"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "台北AI醫療生態系對接日本關西，15家企業展示台日智慧醫療創新成果",
+      "summary": "台北醫療AI生態系與日本關西地區展開正式對接，共有15家台日企業共同展示智慧醫療創新成果，涵蓋診斷輔助、遠距照護及醫療數據應用等多元場景。此次交流標誌台灣醫療AI產業在東亞市場的國際化布局再邁一步，顯示台日雙方在法規環境、技術互補與市場拓展上存在合作空間。對台灣醫療機構而言，國際對接活動有助引進日本成熟的醫療AI監管經驗及使用案例，同時也為本土廠商提供進入日本醫療市場的可能路徑。隨著亞太地區智慧醫療競爭加劇，此類具體的台日創新聯動，對於建立台灣醫療AI的國際品牌形象具有積極意義。",
+      "tags": [
+        "台日合作",
+        "醫療AI生態系",
+        "國際化",
+        "智慧醫療"
+      ],
+      "author": "未標示（TechNews 科技新報｜2026-08-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeGg1ZEZsNzlBX1Jrb1F1Zkx1MHlHRHJabnhXdXhKMkQyUmFNbzBnc1ZqYU1TNXd3emY4UnNGenh3VW9lZFNMUVotQi1yVS1RQm1xZE1OMFR6NGtESW9BMVRmd1hXLWdRTS0xWngxQ0RtQ0NBMldzSDFCZVdmbWVPQl9oa2RlTGxVYV9FMXZPSDhtZG9wVWdUaVZoVXlBaEU0MXNWSkkwZDYtTWRtc1B0OTZhYk8zcW9FUUI0SmR3SnUwdUlkTmt1alBFa3BuNWxOMm52ZzVCd3JYYnpqV3pXLVdJRGV2TmVQVmxabGM2ZjVtQms"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "外科與放射科合作評估AI聊天機器人輔助腎上腺結節病患諮詢",
+      "summary": "美國威斯康辛大學麥迪遜分校外科與放射科聯合研究團隊，針對腎上腺結節病患導入AI聊天機器人工具，評估其在病患教育、諮詢解說與就醫導引上的實際效益。腎上腺結節是影像檢查中的常見偶發發現，病患往往對後續追蹤流程感到困惑，此AI工具旨在填補醫病溝通缺口，降低不必要的焦慮並提升就醫效率。此研究的特殊之處在於跨科室的聯合評估設計，由外科與放射科共同主導，兼顧臨床與影像診斷視角。對放射科及相關臨床科主任而言，此案例展示AI輔助病患溝通工具在偶發影像發現管理中的潛在應用，值得關注其後續臨床驗證結果。",
+      "tags": [
+        "AI聊天機器人",
+        "病患溝通",
+        "放射科",
+        "跨科合作"
+      ],
+      "author": "未標示（University of Wisconsin–Madison｜2026-08-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNekF1VDUwWXlDV3k5SWQtU0RfMWp3NGxqV184amdIMjROZFpKRW1ydTdvbk52ZW1HVVRrVE9pZ205RUJBSzJZaEZXdFZEVks0bWhrWlZHMnAxOURhLWQ4SndWOEx6QXEtWGIzN2JRZmRGRENWWG8yMmhLRHlYSXpPa3VkRm5CQ285bEhpcGo3X1VFcmkxbWtpTTgwUGQ5cmlKXy1kb1RKUWQtc0NiRl95eGRyYmdDOW82YWdhNWlLMHNhcXRpekE"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "Doximity股價暴漲50%：醫療AI商業潛力引爆市場熱情",
+      "summary": "美國醫師社群平台Doximity股價單日飆升逾50%，主要驅動力來自市場對其醫療AI功能商業化前景的高度期待。Doximity近期持續強化平台內的AI輔助工具，包括臨床文件生成、病患溝通摘要等功能，吸引大量醫師用戶採用，進而帶動廣告與訂閱收入成長預期。此波漲幅反映資本市場對「已有大規模臨床用戶基礎的醫療AI平台」給予高度估值溢價，顯示醫療AI商業模式正在從「概念驗證」走向「獲利兌現」階段。對醫療機構數位轉型團隊而言，Doximity案例揭示醫師日常溝通平台作為AI應用切入點的商業可行性，也提供評估類似工具採購時的市場參考座標。",
+      "tags": [
+        "醫療AI商業化",
+        "Doximity",
+        "臨床文件AI",
+        "數位健康投資"
+      ],
+      "author": "未標示（marketwatch.com｜2026-08-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUNlRVM0ajBkbEtrRlh4bTdpZDRNZjBhM29FMDlkQ1h0TTNueTJDSHBOZ2FpbDJYeFhjdFJYYVlZYTBCY1lrdXRhaE1nQ096ZGNiemswVW1INHBlU3V1RGFKNEJ3VGcycDRNYVUtc0F4STdjVTUtelJxTVkxU3JUVUluQWZYemt5UE1QY055MkZSVEdFaDNnNnkzeDhiX092Si1OQU5hMU45cThMbHZFSzc3N0hjUEk"
+    },
+    {
+      "rank": 8,
+      "score": 6.0,
+      "title": "La Trobe大學AI工具：精準標記大腸癌復發風險，助力術後監測",
+      "summary": "澳洲拉籌伯大學（La Trobe University）研究團隊開發的AI工具，可分析大腸癌患者的腫瘤病理特徵，精準預測術後復發風險，為臨床醫師提供個人化的術後監測建議。此工具的核心優勢在於能從現有病理切片中萃取復發風險訊號，無需額外昂貴的分子檢測，具備較高的臨床可近性。大腸癌是台灣發生率最高的癌症之一，術後追蹤強度與頻率的個人化調整，對資源配置效率影響顯著。此類AI風險分層工具若能通過前瞻性臨床驗證，有望納入外科與腫瘤科的術後照護標準流程，值得相關科室持續追蹤研究進展。",
+      "tags": [
+        "大腸癌AI",
+        "復發風險預測",
+        "病理AI",
+        "腫瘤學"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-08-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNHhyeWh0Vi02MGtFNjNudnV6OUlKT0lua2FRWVlwWDkzN1RUeWc5NFhkQlUyTWlHLTJ3V0hSQWNpdjRPZjM1XzlWYUJ4ZkRfYW93VnVVME1aWHFWczluSFFUV04za2NhLXI3cGdRRWhDNENXbUdQTzYzU210WmJjdTBqSWEzNEUyVGo1N2h0SQ"
+    },
+    {
+      "rank": 9,
+      "score": 5.5,
+      "title": "觀點：AI不會強化醫師自主性，反而將進一步削弱臨床判斷空間",
+      "summary": "前外科醫師Frances Mei Hardin於《STAT》發表評論，指出醫療AI的廣泛應用並非強化醫師自主判斷的工具，反而可能加速臨床決策權的移轉——從個別醫師手中轉向演算法、醫院管理層與保險給付邏輯。作者認為AI「是一面鏡子」，映照出醫師自主性長期被體制侵蝕的現實，而AI只是讓這一趨勢加速顯現。文章強調，問題的根源不在技術本身，而在於醫療體系如何部署與詮釋AI輸出結果。此觀點對醫院領導層具有警示意義：在推動AI臨床應用時，需同步思考如何在效率優化與保護臨床專業判斷空間之間取得平衡，避免AI成為進一步壓縮醫師自主性的制度工具。",
+      "tags": [
+        "醫師自主性",
+        "AI倫理",
+        "臨床決策",
+        "醫療AI治理"
+      ],
+      "author": "Frances Mei Hardin（STAT News｜2026-08-07）",
+      "source_url": "https://www.statnews.com/2026/08/07/medical-ai-doctors-autonomy/?utm_campaign=rss"
+    }
+  ]
+}
