@@ -1,0 +1,117 @@
+{
+  "date": "2026年08月11日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "醫療 AI 安全是所有人的責任：Healthcare Finance News 深度分析",
+      "summary": "Healthcare Finance News 刊出深度評析，強調醫療 AI 安全不能僅由資訊技術部門或供應商單方面負責，而必須成為醫院全體利害關係人的共同責任。文章指出，隨著 AI 工具快速滲透臨床流程，從診斷輔助、藥物管理到行政自動化，風險已分散至各個業務單位。若缺乏清晰的治理架構與跨部門問責機制，AI 錯誤或偏差所造成的病患安全事件將難以追責與修正。文章建議醫院應建立涵蓋臨床、法務、合規與資訊各部門的 AI 安全委員會，並制定明確的事件通報與處置標準作業程序，將 AI 安全文化內化為整個組織的核心價值，而非僅視為技術問題。此議題對正積極導入 AI 工具的醫療機構領導層與資訊治理團隊具有高度參考價值。",
+      "tags": [
+        "AI安全",
+        "醫院治理",
+        "風險管理",
+        "臨床AI"
+      ],
+      "author": "未標示（Healthcare Finance News｜2026-08-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRzlBc1FIUVVWeFBxOVd1bzYxZC0ycnFkbEdjb0VRQU1PR0N6OUF5RzlPYWMzMk9ScDlxQlNRSGpYSWc2a0h2bndwdE1RWGY5NWNmeXJjdDUzcjk2UmhRZDI2ZWhEWEhOVVFsbmoxUVozOVg3QlQtUUpLZmpVVGU5UUZpSEw?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "研究揭露：多數醫療 AI 開發者不熟悉關鍵 AI 法規",
+      "summary": "Qazinform 引述最新研究指出，相當比例的醫療 AI 開發者對目前已生效或即將施行的重要 AI 法規缺乏足夠認識，包括歐盟 AI 法案、FDA 軟體即醫療器材（SaMD）指引等。研究顯示，法規知識落差在中小型新創公司中尤為明顯，可能導致產品在取得市場准入或醫院採購審查時面臨合規風險。對醫院而言，此發現意味著在評估與採購 AI 解決方案時，必須主動審核供應商的法規遵循狀況，而非僅依賴廠商自我聲明。研究建議監管機構應加強對開發者的法規教育，並呼籲醫院建立供應商盡職調查清單，將 AI 法規符合性列為採購評估的必要項目，以降低導入不合規工具所帶來的法律與臨床風險。",
+      "tags": [
+        "AI法規",
+        "醫療器材軟體",
+        "供應商管理",
+        "合規治理"
+      ],
+      "author": "未標示（Qazinform｜2026-08-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjQ0czdKMzFBSnQ2Um5rcmV1WTdPbGpiWk9maTk3YkdWYURQd2RWNEZwV015Tkp1cU1OT3hwcTMtUnptbE1oa3d3d3llQnRpcGhxd2NVTWVJMFkwNTgzWW40V3pOb2I3NVlibHVHTlRtenA0MUxSSE1zYjY4QVJtczM0NExHd3lUS2xrYjNYZE9xQjd6X1pHT2FkU2hDekw0dHJib9IBpAFBVV95cUxPU3N0eUJRR1BaVWVkSWZkQjZET19nTVBwNU5mV2tNYm1tTzVwUjVCbnZYM1VrZEpwMmlPYWhldnZoMUY3TUh1N1ZOblhmak9FOVk5QWUySFNqSEMxbjlGbVFzWTQtNDBDRWJULXcwVHhyWUZMcTNua0U0WVBrZXJyaGp1N1FPanM4dldsUGpSM1BZb2MtbzRSWTdMa1BtaXl5VmpTZg?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "Aetna 如何全面導入代理型 AI：CVS Health 數位長親揭實戰經驗",
+      "summary": "MedCity News Pivot Podcast 專訪 CVS Health Aetna 首席數位暨技術長，深入說明這家大型保險公司如何在醫療業務中系統性佈局 AI，特別聚焦於代理型 AI（Agentic AI）的實際應用場景。受訪者明確強調，AI 目前並未用於自動拒保或拒絕給付決策，以回應外界對保險業濫用 AI 的疑慮。Aetna 的 AI 應用範疇涵蓋客戶服務自動化、理賠前審查輔助、照護協調優化等行政流程，目標是提升效率並改善會員體驗。代理型 AI 能夠跨系統自主執行多步驟任務的特性，使其在保險行政流程中展現出高度潛力。此案例對希望了解大型醫療機構如何規劃 AI 治理邊界、同時兼顧效率與倫理合規的醫院管理層具有重要參考意義。",
+      "tags": [
+        "代理型AI",
+        "醫療保險",
+        "AI治理",
+        "數位轉型"
+      ],
+      "author": "未標示（MedCity News｜2026-08-11）",
+      "source_url": "https://medcitynews.com/2026/08/medcity-pivot-podcast-how-aetna-is-adopting-agentic-ai/"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "加拿大醫院試行 AI 工具輔助創傷性腦損傷診斷",
+      "summary": "加拿大安大略省 Timmins 地區醫院宣布啟動試驗計畫，導入 AI 工具輔助急診醫師診斷創傷性腦損傷（TBI）。該工具能夠快速分析患者影像與臨床資料，協助醫師在急性期做出更及時的判斷，對於偏遠地區醫療資源有限、難以即時取得神經科專科會診的情境尤具價值。TBI 診斷的延遲往往導致不可逆的神經功能損傷，AI 輔助工具的引入有望縮短從影像採集到初步判讀的時間差。此試驗也反映出全球醫療體系在急重症 AI 應用上的新趨勢，即優先選擇能在資源受限環境中強化第一線決策能力的工具。試驗結果將為未來更大範圍的臨床部署提供實證依據。",
+      "tags": [
+        "創傷性腦損傷",
+        "急診AI",
+        "臨床決策支援",
+        "偏遠醫療"
+      ],
+      "author": "未標示（timminspress.com｜2026-08-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeTMzcXhZV25HRzBpdzQ5Sllnbk1QOHJ3MUFrZ2tCcDUxdUtvcGtuRXBjd0haNm9fNGk3SzNNVTBObkdKNHhvTnZEMmc0cWptejdubmpMRS1QVUhTbHFIVzEwRmR2Ymxld1RqaXhuMXZwaXNNZjIzYm5JNTlhQl9HdFdHOTFPNzNiU3FSZlJGb1d5dUQtR0wzZmtka2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "AI 驅動計算病理學推進泌尿上皮癌研究新突破",
+      "summary": "Oncodaily 報導腫瘤科專家 Shilpa Gupta 的最新研究成果，說明 AI 驅動的計算病理學如何加速泌尿上皮癌（Urothelial Cancer）的研究進程。透過深度學習模型對大量數位病理切片進行自動分析，研究團隊得以識別傳統病理判讀難以發現的腫瘤微環境特徵與生物標記，為後續精準治療策略的制定提供更豐富的數據基礎。計算病理學的應用不僅提升了研究效率，更有助於縮短從基礎發現到臨床轉譯的時程。此研究對放射科、病理科及腫瘤科的 AI 應用布局具有參考意義，也呼應了全球醫療機構積極建立數位病理平台以支援 AI 輔助診斷的趨勢。",
+      "tags": [
+        "計算病理學",
+        "泌尿腫瘤",
+        "數位病理",
+        "精準醫療"
+      ],
+      "author": "未標示（Oncodaily｜2026-08-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFS2lJaGxlYWY3UzE5eE1rYndRUXQyRnNsZEx3RlVLTTNIMzYyQkZOdDRHaDNpRGpHTDRZY1paYzBRWUxmZ212LURiX2tPVGFOTHRZOWx4MXd3SDRraHc?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "Ascension 醫療系統擴大 AI 應用範疇：從病歷記錄延伸至帳務與護理交班",
+      "summary": "MedCity News 報導美國大型醫療體系 Ascension 如何將 AI 工具的應用範圍從門診病歷自動記錄延伸至更廣泛的臨床行政流程，包括帳單編碼輔助、醫囑輸入優化與護理交班摘要自動生成。Ascension 指出，醫師在患者離開診間後仍須耗費大量時間處理行政文書，這類「診後工作」是導致醫師倦怠的主要原因之一。透過 AI 工具的介入，該系統希望系統性減輕臨床人員的非直接照護負擔，使醫護人員得以將更多精力投注於病人互動與臨床判斷。此案例展示了大型醫療體系如何在第一波 AI 導入（病歷記錄）成熟後，進一步拓展至更複雜的流程自動化，對評估院內 AI 擴展路徑的管理團隊具有實務參考價值。",
+      "tags": [
+        "臨床工作流程",
+        "醫師倦怠",
+        "行政自動化",
+        "醫療AI應用"
+      ],
+      "author": "未標示（MedCity News｜2026-08-10）",
+      "source_url": "https://medcitynews.com/2026/08/clinician-ascension-ai/"
+    },
+    {
+      "rank": 7,
+      "score": 5.5,
+      "title": "洞視科技 MacroPACS 結合秒級 AI 品管功能，台灣醫療影像系統進軍國際",
+      "summary": "環球生技月刊報導台灣醫療影像新創洞視科技，其自主研發的 MacroPACS 系統整合 RibbonCare 模組，實現秒級 AI 影像品質管控功能。該系統能在影像上傳瞬間自動偵測曝光不足、位置偏差等品質問題，協助放射師即時重拍，避免影像缺失延誤診斷流程。相較於傳統需依賴人工抽查的品管模式，AI 自動化品管大幅降低人為疏漏風險，並可縮短影像退件率。洞視科技目前已積極拓展海外市場，以台灣研發能量為基礎，瞄準東南亞及日本醫療影像數位化需求。此案例呈現台灣本土醫療 AI 企業在放射影像品管自動化領域的技術實力，對評估國產 AI 影像解決方案的醫院資訊部門具有參考意義。",
+      "tags": [
+        "醫療影像",
+        "PACS",
+        "AI品質管控",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（環球生技月刊｜2026-08-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJOEgxMUNBVDJBaEpGOGRxbXFEbFdtOTlUQ3ZMU0ZZV0dkNGhJOHBFUXZ3TXdodTE3R1pmMDgtbnlJc0VtR1o1T096OFJneTRtRDRZR21oRV9yejVRb09zOFVQa282OUVfR0Qxdg?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 5.0,
+      "title": "醫療邊緣 AI 系統架構解析：將推理能力直接帶給病人端",
+      "summary": "電子工程專輯刊出技術專文，深入解析醫療邊緣 AI 系統的架構設計理念與實作挑戰。文章說明，相較於將所有資料傳送至雲端進行分析的傳統模式，邊緣 AI 將推理運算能力部署於靠近病人的裝置端，能有效降低資料傳輸延遲、減少網路依賴，並強化病患隱私保護。在急重症監測、手術室即時輔助、偏鄉遠距醫療等對即時性要求極高的應用場景中，邊緣 AI 架構展現出顯著優勢。文章同時探討晶片算力、模型壓縮技術與醫療級安全認證等關鍵挑戰，以及台灣硬體廠商在此生態系中的角色定位。對正規劃醫療 AI 基礎設施建置的資訊部門與採購決策者而言，此文提供了兼顧技術深度與實務考量的參考框架。",
+      "tags": [
+        "邊緣AI",
+        "醫療硬體",
+        "即時運算",
+        "隱私保護"
+      ],
+      "author": "未標示（電子工程專輯｜2026-08-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmxRSXpIWWVCOENrVTRmUGxZN011dm56LU1zamNpUksweU4ybDRfMko3XzBqempHSFNMRmw2YURTaHJZYTRxRzF3UWZGVUpwYnJ6cGlBSGlpVmVsT3psQVBMbGZ2OUUwRDZmUW9sVEJfRE0tUThTV2tMV2NoOFRMOFo5R2JzZXVlT3ZQd3dWRnpua0dackI3QXpkVTBBeVVXejJ6cjd2Rks2cG8xTkhNSWJXNGRuSm5m?oc=5"
+    }
+  ]
+}
