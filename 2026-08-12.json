@@ -1,0 +1,145 @@
+{
+  "date": "2026年08月12日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "Google AMIE 醫療 AI 完成首項即時臨床視訊問診研究，展現診療對話新里程",
+      "summary": "Google 旗下研究級醫療 AI 系統 AMIE（Articulate Medical Intelligence Explorer）發布首項即時臨床視訊問診能力研究成果。此項研究為全球首創，AMIE 能在視訊諮詢情境中與模擬病患進行即時對話，執行問診、鑑別診斷與臨床溝通等任務，性能表現在多項指標上達到或超越受測醫師水準。這項突破標誌著醫療 AI 從文字問答跨越至多模態即時互動的新階段，對遠距醫療、初級照護可近性及 AI 輔助問診系統的設計具有深遠意義。研究結果發布於 Google 官方部落格，預期將引發學術界與醫療業界對 AI 臨床角色邊界與倫理規範的廣泛討論，同時也為各醫療機構評估導入對話式 AI 問診系統提供重要實證參考基礎。",
+      "tags": [
+        "臨床AI",
+        "遠距醫療",
+        "大型語言模型",
+        "Google"
+      ],
+      "author": "未標示（blog.google｜2026-08-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaWVfcTVPRW1DclVwZ2hjNXFQYVVrRUpHVjk5MVphcGY3VHRHQmtla285dDg5MmlFVTJHcFZXUjAzbUVKNmtjY1RycE5FUk9nYnhwV3RTZzRTbmg0VUJMSFJVd1d0bENsd2JPOEZ3dTJoZ1hNWnIyWWhGVHphLXM2ZGJBZC0tTnVFak5oR0V4SGFLLV90RWFPMFgzSU92LWtK?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "Leica Biosystems 獲 FDA 多項數位病理掃描儀與業界首創 AI 輔助品管軟體認證",
+      "summary": "Leica Biosystems 宣布獲得 FDA 多項數位病理掃描儀認證，並取得業界首創的 AI 輔助品質控制（QC）軟體清除許可。此 AI-QC 系統能自動偵測數位病理切片影像中的品質缺陷，包括對焦模糊、染色不均及組織折疊等問題，大幅縮短人工審核時間並降低判讀誤差。這項認證對病理科數位化轉型具有標誌性意義：病理科可在掃描後即時獲得品質回饋，避免須重新切片或掃描的延誤，進而加速癌症診斷流程。對於正在推進數位病理整合 AI 分析平台的醫療機構而言，此一 FDA 核可提供了採購與合規決策的重要依據，也預示著 AI 品管模組將成為下世代數位病理系統的標準配備。",
+      "tags": [
+        "數位病理",
+        "FDA認證",
+        "AI品管",
+        "影像AI"
+      ],
+      "author": "未標示（Clinical Lab Products｜2026-08-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZHlWSEZlLWJjS0hCeDBsNXoxaW4xMmljUHdJek1qYnNKTjVTS3NaNlhHbGR1cWR5YzZEN0c4bUg0SjcwSmdvUEV0RkJJakY3ZEJ4dU1YakRjVlJPUTJwR2F2dmcyWTFwLTg5Y1JVcnRPMFB2dFhBLXk3NFVfQ09ub1FpazFrSGM2MkFQNUc1R05oLXJWc2w2QXNoTFpGZWNnanp4cHhpWG1aaklwV2VWTjJWYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "護理師要求參與醫院 AI 治理：指演算法遺漏的臨床細節護理人員才能察覺",
+      "summary": "《STAT》與 Tech Times 報導指出，護理師群體正積極爭取在醫院 AI 治理架構中取得正式席位。護理人員是醫院最大臨床工作族群，卻幾乎被排除在 AI 系統採購、部署與監督的決策流程之外。護理師指出，臨床 AI 演算法常遺漏護理觀察中的細微病情變化，而這些正是護理師在床邊能即時捕捉的關鍵訊息。若缺乏護理端的參與，AI 系統的盲點將直接影響病人安全。此議題涉及醫院 AI 治理的多元代表性問題，也引發對現行 AI 導入決策集中在管理層與資訊部門、忽略臨床第一線聲音的系統性反思。對於正在建構 AI 委員會或制定 AI 政策的醫療機構，此報導提供重要警示。",
+      "tags": [
+        "AI治理",
+        "護理",
+        "病人安全",
+        "臨床AI"
+      ],
+      "author": "未標示（Tech Times｜2026-08-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNmpid2FZSFpWMkdLZHduSUMwNGhyYmVhejU4TTlmTGt1SjR0R1JPZUg3ZE1PMmdudGdfZmgtWmpHQ0FXSG5tYzZJU1VhbXBKRGkxTXFfRXQ1LUVxbWc0N1FRazkxcS1ZOUVqdzRseG9MU2hoSFFxR0RuZGg4STVVRHpKUU9wZ2dWX1ZiQ3E2bWhhV0EwdTNpZkV2SUhraGEtN0poWHI1WGpjTDhNT2hDYTVfVHU5VDIwOVc2WVl4dFoyMnFuLVY4V0Y4aDJCOGxN?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.2,
+      "title": "CMS RAPID 突破性醫療器材給付快速通道細節公布，AI 醫材有望脫離「給付煉獄」",
+      "summary": "美國醫療保險與補助服務中心（CMS）正式公布 RAPID（Rapid Access Pathway for Innovative Devices）突破性醫療器材給付快速通道的詳細規範，旨在縮短 FDA 核可與 Medicare 給付之間的覆蓋空白期。長期以來，醫療器材廠商取得 FDA 認可後，往往需要數年才能正式納入 Medicare 給付，形成所謂「給付煉獄」。RAPID 通道將針對突破性認定器材提供臨時性給付，並設立收集真實世界臨床數據的機制以支持後續正式給付決策。對於 AI 醫療器材廠商及採購醫院而言，此政策有助於加速 AI 診斷工具的市場滲透，也為醫院採購先進 AI 醫材提供更清晰的財務可行性評估框架。產業界反應普遍正面，視此為改善醫療創新轉化環境的重要一步。",
+      "tags": [
+        "醫療政策",
+        "CMS",
+        "FDA",
+        "醫材給付"
+      ],
+      "author": "未標示（MedCity News｜2026-08-11）",
+      "source_url": "https://medcitynews.com/2026/08/cms-medicare-medical-device/"
+    },
+    {
+      "rank": 5,
+      "score": 8.0,
+      "title": "資策會攜手奇美醫院發布智慧醫療 AI 人才培育成果，建立跨域培訓新模式",
+      "summary": "資策會與奇美醫院共同發布智慧醫療 AI 人才教育培訓成果。此合作計畫聚焦於培育兼具醫療實務知識與 AI 技術能力的複合型人才，透過課程設計、實作演練與醫院場域實習，協助醫療人員掌握 AI 工具應用能力，同時協助資訊人才理解臨床需求。成果發布顯示，雙方在課程規劃、師資建構與學員實際成效方面已有具體進展，為台灣智慧醫療生態系的人才供給提供可複製的培訓範式。此模式有助於填補醫療機構在導入 AI 時面臨的人才缺口，對正在規劃數位轉型人才策略的醫院體系具有實質參考價值，也代表台灣產學醫三方協作推動 AI 落地的積極行動。",
+      "tags": [
+        "AI人才培育",
+        "智慧醫療",
+        "台灣",
+        "產學合作"
+      ],
+      "author": "未標示（經濟日報｜2026-08-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbFlKSDExcFA4Z3VvOEhJYXZhN2tyck5icU1ETjVUbDNZQ1JFNmZCWVZ5a29JXzVzMlFNcExFaTc5Z0J2ODNnc2VMS01qTHZCVFotVTBTTzViOXc4RGNxSXZtamJsWHp2Yzl1Tk1pUnRrM09BMGJLbW9Nek9IRlBUZNIBX0FVX3lxTFBiRVpNTmZ4QTlhQVlIaFJBWUZuN3pwNFdNcGp6NjExc1h4UFRHa25zOEhTMWthbXh4RXpCWFllMURxbWM0SHVvRWJ0MFZ3ZzNkT1pmc2R0Sk5yZDhIS3dJ?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.8,
+      "title": "台灣 AI 醫療論壇：貿協黃志芳點出台灣三大競爭優勢，吸引 11 國來台採購",
+      "summary": "「AI 醫療新局 台灣鏈結全球」論壇於台灣舉行，台灣貿易協會董事長黃志芳出席並指出台灣在 AI 醫療領域具備三大國際競爭優勢：豐富且高品質的健保醫療數據資產、完整的半導體與硬體供應鏈支撐 AI 運算基礎，以及醫療與科技跨域整合的創新轉化能力。論壇吸引來自 11 個國家的代表來台進行採購洽談，顯示台灣 AI 醫療解決方案的國際市場潛力正快速提升。此論壇也標誌著台灣 AI 醫療產業從內需市場拓展至全球輸出的策略轉型節點，對醫療機構與相關業者了解台灣 AI 醫療的全球定位與政策支持方向具有參考意義。",
+      "tags": [
+        "台灣醫療AI",
+        "國際市場",
+        "醫療數據",
+        "產業政策"
+      ],
+      "author": "未標示（news.cnyes.com｜2026-08-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5OWVBRnJpc0xVV0hGejBJMzNyWXg0MzgzODRvdlR4SXZNY1hmXzlBTVBNSUdWUHhUZmJnQ3ktVUtJM1hYbFhJM1NLWUdfV00?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.6,
+      "title": "台大醫院成立亞太首座安寧緩和醫療研究中心，導入 AI 技術提升末期照護品質",
+      "summary": "台大醫院宣布成立亞太地區首座安寧緩和醫療研究中心，並同步引入智慧 AI 技術以提升末期病人的照護品質與尊嚴。該中心將結合 AI 輔助工具於症狀評估、疼痛管理預測及照護計畫制定等環節，期望透過數據驅動的方式優化安寧照護的個別化決策。此舉不僅為台灣安寧醫療帶來數位轉型的新契機，也為亞太地區建立了將 AI 整合入緩和醫療的示範模式。隨著高齡化社會對安寧照護需求持續增加，AI 在此領域的應用具有重要的臨床與倫理意涵，相關醫院在規劃類似計畫時可參考台大醫院的整合架構與推進策略。",
+      "tags": [
+        "安寧照護",
+        "台灣",
+        "智慧醫療",
+        "高齡化"
+      ],
+      "author": "未標示（UDN｜2026-08-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tUFRORmE1YW5fTU5vZE1hd242aGhmMV9fVW5SLWRwQUFIWXRzQ1c5ZTV0Yjk2V1RqdkpncHNoZU9YNmllOEFrbDJUeVRzMEts0gFWQVVfeXFMTkliMVFhZlQ5b2VHSXBJNGJFVTZLUUxFaGYySnNRY1NHcDNJTEt3VlgxVE5ZOWRsYU0xeW5VOFc0WEZnRU9yODBCYTJtVmpMaWlVTWFCb0E?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.4,
+      "title": "Yale 醫學院推出線上醫療 AI 碩士學位，系統性培育醫療 AI 複合人才",
+      "summary": "美國耶魯大學醫學院（Yale School of Medicine）宣布推出全新線上醫療 AI 健康科學碩士學位（Master of Health Science in Medical AI），成為全球頂尖醫學院正式將醫療 AI 納入學位課程的重要里程碑。此碩士課程旨在培育能夠設計、評估及負責任地部署醫療 AI 系統的專業人才，課程內容涵蓋機器學習基礎、臨床數據科學、AI 倫理與法規，以及真實臨床場景應用。此舉反映頂尖學術機構對醫療 AI 人才需求快速增長的積極回應，也為各醫療機構規劃內部 AI 人才發展路徑、設計繼續教育課程提供重要參考，顯示醫療 AI 專業化教育正式進入高等學術體系主流。",
+      "tags": [
+        "醫療AI教育",
+        "Yale",
+        "人才培育",
+        "AI倫理"
+      ],
+      "author": "未標示（Yale School of Medicine｜2026-08-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ubFQ5Q3plVVRKd3FjQ2dCQzBreWZOWWtTUGFkeTdHTFNPdTJMMUcwd3RNU3ZRTFlpM01DZmhBcnA1cFFFRXJ6MGNmQnpmXzVJTE11OHBTWmFaOEQ3TXVKZm1RNF9KemJreUtESWx3?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 7.2,
+      "title": "Samsung 醫療 AI 研究：無輻射 MRI 搭配 AI 分析可早期偵測帕金森氏症風險",
+      "summary": "Samsung 研究團隊發布醫療 AI 研究成果，顯示結合無輻射磁振造影（MRI）與人工智慧影像分析技術，能夠在臨床症狀出現之前識別帕金森氏症的潛在風險特徵。此方法透過深度學習模型分析腦部 MRI 影像中的細微結構變化，提供一種非侵入性且無輻射暴露的早期篩查途徑。帕金森氏症目前仍缺乏有效的早期生物標記，此研究若進一步驗證，將為神經退化性疾病的早期介入提供重要工具。對神經科、放射科及預防醫學領域的臨床醫師而言，此技術展示了 AI 輔助影像分析在神經退化疾病早篩領域的潛力，值得持續關注其後續臨床驗證進展。",
+      "tags": [
+        "帕金森氏症",
+        "MRI",
+        "影像AI",
+        "早期診斷"
+      ],
+      "author": "未標示（Ubergizmo｜2026-08-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83ZkU1ZDFBZmdpdXo0bk5KbV9TY1B2VWtEa2xBNWdKSElpcFB6TW43LS1nZUE0TjBLeU91d3QwR3NhVWJFMWFfZTAtSHYyQVBkdHJuelY2UmVIX0Y0M1dwWHZ0VHRrR0cwckR3a0dn?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 7.0,
+      "title": "印度醫院 AI 心臟監測系統實測：顯著減少心臟緊急事件發生率",
+      "summary": "根據 Healthcare Asia Magazine 報導，印度一家醫院實際部署 AI 即時心臟監測系統後，成功大幅降低院內心臟緊急事件的發生率。該系統透過持續分析病患生理數據，提早偵測心律異常與心臟功能惡化的早期徵兆，並在危急情況發生前向臨床團隊發出預警，縮短介入時間。此實際部署案例展示了 AI 持續監測於提升住院病患安全、降低不良事件的具體效益，為心臟科、內科及加護病房評估導入類似預警系統提供真實世界的效益佐證。此類 AI 監測應用在亞洲醫療環境中的成功落地，也為台灣醫院評估類似智慧監測解決方案提供可參照的實施經驗。",
+      "tags": [
+        "心臟監測",
+        "AI預警",
+        "病患安全",
+        "亞洲醫療"
+      ],
+      "author": "未標示（Healthcare Asia Magazine｜2026-08-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZF8xOFVxZVBSenQ4QWFCM3hNc2RFUnY0b2hac3NQcTFRQUVNSnNZc2poOU9EZngtOWFNUzNaWTB0MEhRSV81OXh0b3l3RDROMDdvajBFc2NqU0RhZnEyTGxWUnQ1Zk9jUUhmVlJsdkRaeEY2alNwX2c0SnVEZkdGaFJCZi1wZnpWckYtRi1PTW54amI0emZsdFZEZk5jdXJSOWk0Zl96Z0h3ZzNKbFhfQ2NB?oc=5"
+    }
+  ]
+}
