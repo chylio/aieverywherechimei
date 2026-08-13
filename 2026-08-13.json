@@ -1,0 +1,117 @@
+{
+  "date": "2026年08月13日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Aidoc 聯合 12 家醫療體系組成聯盟，共同推進放射診斷 AI 標準化應用",
+      "summary": "AI 醫療影像公司 Aidoc 宣布與美國 12 家大型醫療體系結成策略聯盟，目標是共同解決放射科診斷 AI 在臨床部署中面臨的互通性、標準化與落地挑戰。此一跨機構合作模式涵蓋數據共享、演算法驗證及臨床工作流程整合等層面，旨在加速放射 AI 從概念驗證走向大規模實際應用。Healthcare IT News 與 Radiology Business 均同步報導此消息，顯示業界對診斷 AI 聯盟化治理的高度關注。對於多院區醫療體系而言，此模式提供了一個以集體驗證取代單院孤立評估的參考路徑，有助降低引入放射 AI 工具的技術與法規風險，並可能加速形成跨院所共通的 AI 績效評估基準，值得國內醫療體系密切觀察其後續進展與標準輸出成果。",
+      "tags": [
+        "放射科AI",
+        "醫療聯盟",
+        "診斷AI",
+        "臨床部署"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-08-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbm5VTFpjci1fRzd0Rk9Bd0Z2dUhDdHJFazNWeGg4ZFJ4clozbnhPQ1FyeHRNRlBfczhxSDVaSll0QjJ1T2l6b0xWcUloZGVNeHFwZm5LbjlCM0JqZkhHX1plWFpaNnIyNGtGMHQ5VXFUUmR5enJKZG8wX0E4dF8ySXhNTURfbjhDZlhZX0dOVkRyQldPX1ZwMG5wRWwtblhQblE"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "Microsoft 提出放射科 AI 新架構，重塑影像判讀工作流程整合方式",
+      "summary": "Microsoft 發布技術文章，提出一套全新的放射科 AI 整合方法，強調將 AI 推理能力嵌入現有放射科資訊系統（RIS）與影像存儲通訊系統（PACS）工作流程，而非以獨立工具形式存在。此架構以 Azure 雲端服務為基礎，結合大型語言模型與影像分析模型，目標是讓放射科醫師在不改變既有操作習慣的前提下獲得 AI 輔助建議。報導指出，Microsoft 已與多家醫療影像廠商展開合作，推動此框架的產品化落地。對醫院資訊部而言，此方向意味著未來放射 AI 的採購評估將更須關注系統整合能力與雲端架構相容性，而非僅聚焦於模型準確率，是數位轉型策略規劃的重要參考訊號。",
+      "tags": [
+        "放射科AI",
+        "微軟",
+        "工作流程整合",
+        "雲端醫療"
+      ],
+      "author": "未標示（Microsoft｜2026-08-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRk5ROFZqVnJ0aXlDTWZvZHN1cngteW9VQUpjNHBUYlhOMDFocnc0M1g2V3pYZDRvN2MyUEFseERLRjB5TVdzQmFYQTdoTzBfZGFlSEpTZ0UzUGRPM2xCTXJwbHJNUTlrb0gwdHRObC1aN2o4UTQwdjdCelhDNEIwdUdMR3RUNkJVSXYwODlEVnM3dWFHLVk1czdWY3JSdS1xb05YTHlsemJhOG5kT3FFZ3loR0hzeDBZNU5TSThhSDJmOFBnNmFyY1FnVUFXYXQ2ajJ6ZGxaUHc2MWJpV2NQU1BuSmV1UVdHOHJLcExDeTFzWnJwSXVTbUQxa0RIRWtEcm5CbHpCV2lIWkV5b0ZXRlA1ajVvT2c"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "Children's Mercy 醫院導入 AI 預測住院人潮，實現病人流量動態管理",
+      "summary": "美國 Children's Mercy 醫院宣布成功導入 AI 預測系統，能提前預測急診與住院部門的病患湧入趨勢，並據此動態調配床位、人力與資源。該系統透過整合歷史入院數據、季節性疾病模式及即時感測資料建立預測模型，使醫院得以從被動應對轉為主動管理病人流量。初步成效顯示等候時間縮短，住院床位使用效率提升。此案例對醫院營運管理層具有直接參考意義：AI 不僅可應用於臨床診斷，亦可作為醫院運營智慧化的核心工具，協助管理者在尖峰時段前部署資源，降低院內壅塞風險並提升病人安全與滿意度，為智慧醫院建設提供具體落地範例。",
+      "tags": [
+        "醫院營運AI",
+        "病人流量管理",
+        "智慧醫院",
+        "資源調配"
+      ],
+      "author": "未標示（The Business Journals｜2026-08-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdUd6ejdpVjcxMHJXZUxkbUw0QkI2WDZ5Ui1Pa25IdFVqRU9rcGlkaDc3OWRma3dQR2tqcEVtUVExdUtuUnRfeWktM0Fnb0huUk81aGJNNUljaElWeFg2MHVHNGVkMTRhTkRUYVNmMTlvT2tyYURoWUIyQUx4WlZCZTVRX1YxazVNT2U4b3hDcWt0SjNFLWZ3cmdpYzdXUF9yT1RyZGo2X0Rpajdf"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "Suvi Health 推出床邊環境感知 AI 平台，Mayo Clinic 率先試行以改善病患溝通與照護交接",
+      "summary": "新創公司 Suvi Health 獲得 1842 Fund 支持，推出以環境感知 AI（ambient AI）為核心的床邊溝通輔助平台。該系統可自動錄製病房內醫病對話，並即時轉化為供病患、家屬與醫護共享的結構化任務清單，目標是縮短因溝通不足導致的照護落差。Mayo Clinic 將於下個月率先展開試驗計畫。Fierce Healthcare 同步報導指出，此平台除提升住院期間溝通品質外，亦有助於降低不必要的住院天數及強化出院後照護轉銜。對臨床護理與醫務管理層而言，此類工具代表環境感知 AI 從醫師記錄輔助延伸至以病患為中心的照護協調新方向，具有實際落地的參考價值。",
+      "tags": [
+        "環境感知AI",
+        "醫病溝通",
+        "照護轉銜",
+        "新創醫療"
+      ],
+      "author": "未標示（MedCity News｜2026-08-13）",
+      "source_url": "https://medcitynews.com/2026/08/suvi-health-patient-handoff/"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "Nature 提出 AI 代理人治理四維框架，為醫療 AI 自主化風險管控提供學術基礎",
+      "summary": "頂尖學術期刊 Nature 刊載一篇 AI 治理框架論文，提出以「自主性、效能、目標複雜度、通用性」四個維度評估 AI 代理人（AI agent）特性，並據此建構「代理人畫像（agentic profile）」作為不同情境下 AI 系統有效治理的依據。此框架適用範圍廣泛，在醫療領域尤具意義：隨著代理型 AI 逐步滲入臨床決策支援、自動化病歷摘要與行政流程，醫院治理委員會亟需系統性方法評估各類 AI 工具的風險層級與監管需求。本框架為醫院 AI 委員會制定分級監管政策、建立 AI 上線審查標準提供了可操作的學術參照，值得資訊部與臨床倫理委員會共同研究。",
+      "tags": [
+        "AI治理",
+        "代理型AI",
+        "醫療倫理",
+        "風險管控"
+      ],
+      "author": "未標示（Nature｜2026-08-12）",
+      "source_url": "https://www.nature.com/articles/s41586-026-10805-z"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "放射科醫師實測：乳房影像 AI 實際臨床效益有限，與預期落差顯著",
+      "summary": "Radiology Business 報導一項針對放射科醫師的調查研究，結果顯示在實際臨床環境中，多數放射科醫師認為目前乳房影像 AI 工具所帶來的「具意義性效益」相當有限，與廠商宣稱的診斷提升效果存在明顯落差。醫師反映，部分工具的假陽性率偏高、系統整合不順暢、以及缺乏針對本地族群的驗證資料，是主要痛點。此調查提醒醫院在評估採購乳房影像 AI 時，應要求廠商提供真實世界（real-world）臨床驗證數據，並優先考量與在地病患族群特性相符的解決方案，避免過度依賴行銷數據而忽略實際應用成效的落差。",
+      "tags": [
+        "乳房影像AI",
+        "放射科",
+        "臨床評估",
+        "真實世界數據"
+      ],
+      "author": "未標示（Radiology Business｜2026-08-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeXNhV2g0clo2WG9JMFA5N0FIOGJkX1hROWhTNmt6REVnNU5faWU4Nk1CWmhxMDhsOThsTnM3MnlLb2JVajBvcFFZbDBHUmo4YlFncVJURENLVzcyeGI2OG5ualR6YmFQZXQ3cmVQbnh3LUJ0UjhncWV4ZzJ1Q29OQjB0U3hBODd5VlBlN2hldUk2elQ5dkxMcU1pSlF6V3k4SlRXTUgwUWtONTFZN3VpNHdpX2NkOUFtVHNiWWoyNVJ6UzdMUnVuLWJDYjdyQQ"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "新竹台大分院 AI 減工成效顯著，護理留任率逾 95%，健康台灣計畫首階段成果出爐",
+      "summary": "新竹台大分院公布「健康台灣深耕計畫」第一階段執行成果，其中導入 AI 工具協助護理人員減少行政作業負擔為重要亮點。透過 AI 自動化處理護理記錄、排班輔助及常規文書工作，護理人員得以將更多時間投入直接照護，院方統計護理人員留任率已突破 95%，達到近年新高。此成果在台灣護理人力短缺的背景下格外具參考意義，顯示 AI 工具若能精準切入護理流程痛點，不僅可提升工作效率，更可能成為改善護理人員留任的重要槓桿。此案例為各醫療機構在 AI 策略規劃中納入「護理人力穩定」指標提供了具體數據支撐。",
+      "tags": [
+        "台灣醫療AI",
+        "護理人力",
+        "AI減工",
+        "智慧醫院"
+      ],
+      "author": "未標示（UDN｜2026-08-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZLVhsQkVIUEJaa0hLamJjakh0TWlaWDNHczM1am84LWJLaHp1N2JBWllERXVzVzRIUTVyaDJpdnFQWFdyRjVLeVk0dGVndy11eDVOSEhB0gFWQVVfeXFMTVktWGxCRUhQQlprSEtqYmNqSHRNaVpYM0dzMzVqbzgtYktoenU3YkFaWURFdXNXNEhRNXJoMml2cVBYV3JGNUt5WTR0ZWd3LXV4NU5ISEE"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "醫療 AI 通過測試卻仍可能傷害病患：評測框架與真實世界落差的深度警示",
+      "summary": "Eurasiareviw 刊載深度評論，指出當前醫療 AI 評測體系存在根本性盲點：許多工具在標準化測試數據集上表現優異，卻在真實臨床環境中因資料分布偏移、病患族群差異、臨床情境複雜性等因素導致效能大幅下降，甚至對特定族群（如少數族裔、老年患者）造成系統性偏差傷害。文章主張現行 FDA 等監管機構的核准標準過度依賴靜態數據集表現，未能充分要求廠商提交上市後持續監測（post-market surveillance）的真實世界數據。此評論對醫院採購委員會具警示意義，提醒在評估 AI 工具時應設立上線後定期稽核機制，而非僅依賴採購前的廠商驗證報告。",
+      "tags": [
+        "醫療AI安全",
+        "演算法偏差",
+        "AI評測",
+        "病患安全"
+      ],
+      "author": "未標示（eurasiareview.com｜2026-08-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLUpwaEhXRjNjdUdkal9nWGR2bm5aR2laRzA5VGlLMXZDMENoUjRXVXd1MUdqcDdrTkdESjRSUVNnaHp4MEV5elg3Z09JN3g1cE9JVmNRVzdCUlpmcE1RZURUZld0T1BUSzVTQnhJLXFCRmdKcDZEaGozMmlraGxocTBhbjFTZjV3WlRtdTVFVUlMbDFxVG1TanRMcmQtUQ"
+    }
+  ]
+}
