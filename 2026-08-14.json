@@ -1,0 +1,117 @@
+{
+  "date": "2026年08月14日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Medicare AI 醫材給付新規深度解析：激勵過度使用疑慮浮現，醫院與科技業的利益拉鋸",
+      "summary": "STAT News 深度報導 Medicare 針對新授權 AI 醫療器材所推行的給付激勵機制（NTAP），分析其對醫院採購決策與科技公司商業模式的雙重影響。研究人員指出，當醫院使用特定 AI 裝置即可獲得額外給付時，可能促使臨床端在尚未充分評估臨床效益的情況下優先採用新技術，進而引發過度使用疑慮。報導同時點出，此機制雖有助於加速 AI 醫材進入醫療實務、縮短「給付煉獄」困境，但如何在鼓勵創新與防範不當誘因之間取得平衡，仍是政策設計的核心挑戰。對於正在評估引進 AI 醫材的醫院領導層而言，理解給付結構背後的誘因邏輯，有助於制定更審慎的採購與臨床導入標準，避免因給付誘因而扭曲臨床判斷。",
+      "tags": [
+        "醫療AI給付政策",
+        "Medicare",
+        "AI醫材監管",
+        "產業影響"
+      ],
+      "author": "未標示（STAT News｜2026-08-13）",
+      "source_url": "https://www.statnews.com/2026/08/13/how-medicare-cms-pays-ntap-for-new-ai-medical-devices/"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "美國放射科學會對 AI 採保守立場：審慎把關認證標準，避免技術超前治理",
+      "summary": "美國放射科學會（American Board of Radiology，ABR）明確表態對放射科 AI 工具採取審慎保守的監管與認證態度，強調在 AI 應用快速擴張的背景下，應優先確保放射科醫師具備評估與監督 AI 系統的能力，而非一味跟進技術浪潮。ABR 指出，目前市面上眾多 AI 影像分析工具的臨床驗證資料仍不足，若貿然將其納入例行診療流程，可能對病患安全造成潛在風險。此立場與近期多項研究發現呼應，顯示放射科 AI 實際臨床表現與廠商宣稱的效益存在落差。對於正在評估影像 AI 導入計畫的醫院放射科，ABR 的官方態度提供重要的政策參考依據，提醒應建立嚴謹的內部評估與持續監測機制。",
+      "tags": [
+        "放射科AI",
+        "AI治理",
+        "臨床認證",
+        "影像診斷"
+      ],
+      "author": "未標示（Radiology Business｜2026-08-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS0FvY3pqLW1paFRFeVoybkt2Z3h1UDhCX1drMDM4bjA5NzUzbmVsQTZna2VzMWdmT2xYUXBHZ0w1aTkyYURlMV9QaWtHRmFEOWUyaS1VSkplOV9aZk5kWnBQaDlIY3pIamFpOGFNU0JoOWtlSkktSmxWUk9MYkNsem9UWVZibGxseGZJOTIwQ2RQTllFSVVyaW5RU2FfVDFoVlRvek1NY2dZdVFncVFSdlRzYw"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "Hippocratic AI 發布次世代醫療 AI 架構：從任務導向轉型為以成果為核心的協作代理人",
+      "summary": "Hippocratic AI 宣布推出新一代醫療 AI 平台，核心設計理念從傳統「完成單一任務」的模式，轉向以「病患照護成果」為驅動目標的協作型代理人架構（Orchestrators）。新系統能夠跨越多個工作流程節點進行協調，整合預約管理、衛教溝通、慢性病追蹤等臨床場景，形成端對端的照護支援鏈。此架構代表醫療 AI 從點狀輔助工具演進為系統性照護協作平台的重要里程碑，呼應近期代理型 AI（Agentic AI）在醫療領域快速擴張的產業趨勢。對醫院資訊部及數位轉型團隊而言，此模式提示未來 AI 部署策略應跳脫單一功能評估框架，轉而關注跨流程整合能力與成果指標設計，以支撐長期價值實現。",
+      "tags": [
+        "代理型AI",
+        "醫療AI平台",
+        "照護協作",
+        "數位轉型"
+      ],
+      "author": "未標示（PR Newswire｜2026-08-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWkdUaFpmOU9sS0s4YTVkaU12M0N0cmdmclpuSW9KQzhNT3puTG5YSUNWRlFoNWFDamFMVXowRktfeGdSNEJpRnZSMWZEN0F3c1l4VnB6WkM4TmFfYnd0Y3ZqaVZLdzAzU3hWNXZhTTh6YWpaNGJhaXJUOU14ZlR1MDEwdEQ1YmItWmF6dDZPVUttdGRuTnBaZm01N2JPQkhxdm9DOGN1NVlxQlY3dnI3TFpFUGFpWmk4dW9ia1NjczltakNfYmk3TVcwR2EweElhOS1rVksxMnRWT2laUkQxWmZpS3hXVFd3LVFtdGV3"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "醫療 AI 治理新里程：跨機構委員會強調「上線後持續監控」才是真正挑戰",
+      "summary": "Healthcare IT News 報導一個新成立的醫療 AI 治理委員會，其核心主張是：當前醫院 AI 治理工作的最大缺口並非導入前的審查，而是系統上線後的持續監測與問責機制。委員會成員指出，許多醫院在 AI 工具通過評估後便缺乏定期重新驗證的制度，導致模型飄移（model drift）、偏差累積等問題難以被及時發現。報告建議醫院應建立跨部門的「後上線治理框架」，涵蓋臨床效能追蹤、異常事件回報、定期再評估以及責任歸屬明確化等要素。此議題與醫療 AI 導入後的問責架構高度相關，對正在推進 AI 系統化部署的醫療體系具有直接的制度建設參考價值。",
+      "tags": [
+        "AI治理",
+        "醫療AI問責",
+        "持續監測",
+        "醫院資訊"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-08-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYTVqT3ZYOVNRbTNUZEFPaTNLUlQyaG1zc1I1aENMRVY5ODVCRU82aHJvOWxFT1l0OF9JV1RjRnpTN1UtVmJVTU9uOU45dElGWXk4MXJ0OUhZYzUweW02S2tuNUNyLVMtUDBONnd5MUhkWldOMFd3RUNPSTVOZWJsT1J1U1RRTGdGY1ZPV1Q5R0FMZGM1clBObmxXOWtILTlXb3RN"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "醫院 AI 出錯誰來負責？Healthcare IT News Podcast 深入探討責任歸屬困境",
+      "summary": "Healthcare IT News 的 HIMSSCast 節目聚焦一項在醫療 AI 快速普及下日益迫切的核心問題：當醫院導入的 AI 工具產生錯誤決策並影響病患安全時，責任應由誰承擔？節目探討臨床醫師、醫院管理層、AI 開發商與監管機構之間的責任分配模糊地帶，指出目前法律框架與機構內部政策均尚未明確界定各方的問責邊界。專家建議醫院應在合約層面明確規範 AI 廠商的責任範疇，同時在內部建立 AI 事故通報與處理的標準作業程序，以在技術創新與病患安全之間維持必要的制度保障。此議題對醫院法務、資訊及臨床部門均具有高度實務參考意義。",
+      "tags": [
+        "AI問責",
+        "病患安全",
+        "醫療法規",
+        "AI治理"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-08-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLUpwaEhXRjNjdUdkal9nWGR2bm5aR2laRzA5VGlLMXZDMENoUjRXVXd1MUdqcDdrTkdESjRSUVNnaHp4MEV5elg3Z09JN3g1cE9JVmNRV2RCUlpmcE1RZURUZld0T1BUSzVTQnhJLXFCRmdKcDZEaGozMmlraGxocTBhbjFTZjV3WlRtdTVFVUlMbDFxVG1TanRMcmQtUQ"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "Merlin AI 基礎模型能讀懂 CT 影像並預測診斷結果，CT 判讀進入基礎模型時代",
+      "summary": "一款名為 Merlin 的 AI 基礎模型（Foundation Model）在業界引發關注，其設計目標是直接讀取 CT 掃描影像並生成診斷預測，跳脫傳統針對單一病灶或特定疾病訓練的窄域 AI 模式。Merlin 採用大規模預訓練架構，能跨疾病類別進行影像理解，被視為將 LLM 技術思路引入醫學影像領域的代表性嘗試。報導指出，此類通用型影像 AI 模型若能在臨床環境中展現穩定表現，將對現有的放射科工作流程與 AI 部署模式帶來根本性改變，同時也對模型驗證方法學提出新挑戰。目前 Merlin 尚處於研究展示階段，但其技術路線已引起醫療影像 AI 領域的高度討論，值得放射科與資訊部門持續追蹤。",
+      "tags": [
+        "影像AI",
+        "CT診斷",
+        "基礎模型",
+        "放射科"
+      ],
+      "author": "未標示（Denkstrom｜2026-08-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUmVoRzVJc05JN1JLbkxFaTdpVHpjN1FlMXZtZmlKZ3NvVGltYlpzV29fQ3VWS0RZdE9ERWZjSkhaRFdxVThyQl83di1rX2xrU0w0R0gxZFM3Q3R3OUlMa3A1MklfNldLYndMQ3lRWGZzcjczRnppS2xmaEJ2T0F5dVhB"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "台灣德適生技：158 個 AI 模型落地，打通端對端醫療 AI 生產線的實戰經驗",
+      "summary": "台灣醫療 AI 新創德適生技（Digihealth）報導顯示，該公司已成功在多家醫療機構部署共 158 個 AI 模型，涵蓋影像辨識、臨床決策支援、病歷分析等多元應用場景，並正積極建構一條從資料治理、模型開發、臨床驗證到上線維運的端對端醫療 AI 生產線。報導指出，德適的核心競爭力在於將 AI 開發流程標準化與工業化，大幅縮短從需求確認到模型上線的週期。此案例是台灣本土醫療 AI 規模化落地的重要參考案例，展示了在醫院資訊環境中系統性建構 AI 能力的可行路徑，對正在規劃 AI 規模化部署的醫療體系資訊部門具有高度參考價值。",
+      "tags": [
+        "台灣醫療AI",
+        "AI規模化",
+        "模型部署",
+        "數位轉型"
+      ],
+      "author": "未標示（Yahoo 財經｜2026-08-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPamdVQTNCNXRFY05LdE9mdnpuUFdjR1dldEpoQ3AxNWNtaVByVDlBV0J4cjZ6TXJtSUtKdW5GTGdwVGdMeXJmYlAtclVENkQtRnpGR2IzbFJQZEhkbHR5TkRhM2ZiRVJKZFd5X0x0dU9KQWdRckFfTm9NOUlKeHdpY1BISmI3cEM3MGNwWndkb19VOWhGdHVEWW5QSDNselNOOHlZRFFQemZrOFplMGgzMkFfdFlHS2pNX0Z0S0NRWVJ5Tm5GZUtHbzB2dDdQbkZ5ZjRKc05sRVQtVGpzdVBHV3A0d0VoZkR5MXJJYURYMjVYYjZ0RVFMbm5XQ2s4Y2dVdXE0em9zZW05U0p3NllkQ0w3RXBNcW4wZXBjTEkxdDFEQUU4ZHZBOXUxMHg2NXNtSS00"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "中研院基因體流行病學研習營啟動：AI 結合多體學分析，培育台灣精準醫療跨域人才",
+      "summary": "中央研究院舉辦基因體流行病學研習營，課程核心聚焦於以 AI 技術整合基因組、蛋白質組、代謝組等多體學（multi-omics）資料，探索複雜疾病的發病機制與精準醫療應用。本次研習營目標在培育能跨越生命科學、資料科學與臨床醫學領域的複合型人才，填補台灣精準醫療發展所面臨的專業人力缺口。課程內容涵蓋 AI 模型在大規模生物資料分析中的實務應用，以及如何將研究成果轉化為臨床決策支援工具。此人才培育方向與台灣近年積極推動的精準健康國家戰略高度契合，也反映出學研機構在 AI 醫療化進程中扮演的基礎能力建設角色。",
+      "tags": [
+        "台灣精準醫療",
+        "AI人才培育",
+        "多體學",
+        "基因體研究"
+      ],
+      "author": "未標示（sinica.edu.tw｜2026-08-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XUEJiek5WNXVUUU0xbUMwV1owN2pPOW4tQUtwV1JFTEhmNG9hUmJRZmlXV3ZEQUNZRTlMM3BnR0hPZmlIalR4cnRaUUludHcwT0EtQXdiRVQ5Zw"
+    }
+  ]
+}
