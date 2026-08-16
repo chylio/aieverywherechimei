@@ -1,0 +1,89 @@
+{
+  "date": "2026年08月16日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "Medicare 正式核准住院放射科 AI 解決方案新技術附加給付",
+      "summary": "Medicare 宣布核准針對住院放射科 AI 解決方案的新技術附加給付（New Technology Add-on Payment, NTAP），標誌著醫療 AI 在美國聯邦醫療保險給付體系中再度取得重要突破。此一給付決定意味著醫院若採用符合資格的住院放射科 AI 工具，將可獲得額外的 Medicare 補貼，有助於降低醫療機構導入 AI 影像輔助診斷的財務門檻。對於醫院資訊部與放射科而言，此政策直接影響採購決策與成本效益評估。隨著 CMS 持續擴大 AI 醫療器材的給付範圍，如何確保院內所採購之放射科 AI 工具符合 NTAP 申請條件，將成為醫院領導層與數位轉型團隊近期必須關注的政策重點。",
+      "tags": [
+        "Medicare給付",
+        "放射科AI",
+        "醫療政策",
+        "AI醫材"
+      ],
+      "author": "未標示（Health Imaging｜2026-08-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOanMxUHZJYXJTOUdFamUxUmNXTXFNN2gydC00YjFudmlNWkpRV2NGR0pXTS01clFXOV93a0cyeUdjaWhWd21MenBLWlBGenBuS2pDV1dBVUpTd3I3b0xvN1BsZEQ5em9wWXVlcjlRYVVYaWltLW12cEI5d1VEaFRzZVA5SDB4VjNkdWw1Vm9oV0xxZkRra1JnNllldnhwRnVONW5lclpKR1BpbUdSQ3NXTGZzS0ZCbWZyZ2pVVV9HY3FuX20zU0JHcUQ5RGVQTHQ1OE8w?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "耶魯大學病理科導入 AI 平台輔助前列腺癌診斷，強化數位病理判讀精準度",
+      "summary": "耶魯大學醫學院病理科正式採用 AI 輔助診斷平台，應用於前列腺癌的病理切片判讀工作。此一部署代表頂尖學術醫學中心在數位病理領域的實際落地案例，透過 AI 協助病理科醫師提升判讀效率與一致性，有助於降低因主觀差異造成的診斷誤差。前列腺癌為全球男性最常見癌症之一，其病理分級（如 Gleason score）的準確性直接影響治療策略選擇。AI 輔助工具的引入不僅可作為第二意見確認機制，亦可減輕病理科醫師工作負荷。此案例對有意推進數位病理 AI 應用的醫院病理科與腫瘤科具有重要參考價值，也呼應全球數位病理 AI 商業化加速的趨勢。",
+      "tags": [
+        "數位病理",
+        "前列腺癌",
+        "AI輔助診斷",
+        "學術醫院"
+      ],
+      "author": "未標示（Yale School of Medicine｜2026-08-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZnItNm96NU9ERy0zRndSenJ0UWxjajBlMEE2VkZuVmx6MkpfYWtUbG5GbjZCbDQyd1YyeDhndTQ1QUhxWmwzbE5YRGZvMGZ0MHJDRVdMVUlTZmNSRGZXSXN0dWZaODhaU3J6anVQVzRSS1lUN0N5YnB4eFQ2M01sWDZnbzJYWnJDZjBHZFZLaFdWTWZSS1lfZ0VMa3BHYWFOcVpyMFFMMi1NQVVLTVE?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "AI 臨床決策支援系統發展速度已超越其實證基礎，試驗設計者面臨嚴峻挑戰",
+      "summary": "《The Clinical Trial Vanguard》發表分析指出，AI 臨床決策支援（CDS）工具的商業化與部署速度已明顯超前於其臨床實證積累速度，形成嚴峻的治理與安全風險。文章強調，許多 AI CDS 工具在缺乏嚴謹隨機對照試驗支撐的情況下即進入臨床環境，導致試驗設計者與醫院管理者難以評估其真實效益與潛在危害。此現象與近期醫療 AI 監管討論高度呼應，點出「通過測試不等於臨床安全」的核心矛盾。對於正在評估或已採購 AI CDS 工具的醫療機構而言，建立系統性的上線後監控機制與內部證據審查流程，已成為確保患者安全的必要配套措施。",
+      "tags": [
+        "臨床決策支援",
+        "AI實證",
+        "患者安全",
+        "AI治理"
+      ],
+      "author": "未標示（The Clinical Trial Vanguard｜2026-08-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPd0JJejI2cjZQalpNNzBibmItbHNJVjNEbngzUVlLZl9TZnkxRkhWOW1VTndFbTRvZW1IZ3lnRmRCTjdVTGloNkdGWVRnNHNpSkY4eUpyYXg1bkVMbzdDR0hGMDdtQjQ4R1BCbmpwb2VrOExXLWlIN0FsX2lrWU0zQ0xHR1FuRXV6Uk5jYkp1Q0I2RVlGSm8tMGFSLUJlRVJEb1BNZWlJX19IMUE2MlZuQzJHc3ozYWVKVWtTdHRnZ2VzVmR0aDR0ZVBFTWF5LTM1dWpneDF3VHNmWHJWYVBiejhOXy16QmFQeXZaUnp4NC1rSjA?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "Innovaccer 與 Mastek 攜手推進代理型醫療 AI，擴展美國及全球市場布局",
+      "summary": "醫療數據與 AI 平台公司 Innovaccer 宣布與科技服務商 Mastek 建立策略合作夥伴關係，共同推進「代理型醫療 AI」（Agentic Healthcare AI）在美國及國際市場的部署應用。代理型 AI 是目前醫療 AI 領域最具前瞻性的技術方向之一，其核心特徵在於 AI 代理人能自主執行多步驟任務、跨系統協調工作流程，而不僅止於提供單次推薦。此次合作整合了 Innovaccer 在醫療數據整合與分析的優勢，以及 Mastek 在企業級系統整合的能力，預期將加速 AI 在醫院運營、照護協調及患者參與等場景的落地。對醫療體系資訊部門而言，此類代理型 AI 合作模式值得持續追蹤，以評估其對現有 EHR 及流程的整合可行性。",
+      "tags": [
+        "代理型AI",
+        "醫療數據平台",
+        "AI策略合作",
+        "數位轉型"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-08-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0NvcnVFbGIyQmduN2lFN3o4WXBlaERkQVdMT19iOGtCamxCLXdBcEpKU0xDUVdlYUtTNjJmMkZNRC1XRHRNMmxIZEVybUMzX09KTDJiTk4tRTJPRmJNMGRNclFKa2NNalBSQ2RRSXFfY0FHN09sSnJUaGUyd2xTbG00UlJaQzJWdVpaTnI3TUR5TEEzcXQzcGZVRUtkZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "AI 機器人醫療應用進軍台東：181 名癌症醫療人員齊聚論壇共探在地化實踐",
+      "summary": "台東地區舉辦醫療 AI 機器人應用論壇，吸引逾 181 名癌症醫療相關人員出席，聚焦探討 AI 機器人技術在偏遠地區醫療照護的落地可行性。論壇內容涵蓋 AI 輔助腫瘤診斷、手術機器人應用及遠距醫療整合等議題，反映台灣東部地區醫療機構積極尋求透過 AI 縮短城鄉醫療資源落差的戰略方向。台東地處偏遠、醫療人力資源相對不足，AI 機器人技術若能有效輔助腫瘤科診療，將對改善當地癌症患者的就醫可近性具有重要意義。此次大規模論壇亦顯示台灣各地醫療機構對 AI 應用的高度關注，以及政策推動「AI 醫療走入社區」的具體成效。",
+      "tags": [
+        "台灣醫療AI",
+        "偏鄉醫療",
+        "癌症照護",
+        "AI機器人"
+      ],
+      "author": "未標示（UDN｜2026-08-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uX1N4Y2I1ZVJvNTV3T0J5dEVGVmJPSU1nLVRSNHBUY2hDOFVYTTZocF9wTG5Iam1LQVJIWmFkNmY3UWk2ODBnR1dONG5fNmdz0gFWQVVfeXFMTk55R1Z1NjN2elgxUFJMWl8yQWU4a09QY3NyT1dIVkx3Ykl5dVFYU2JXblA0cU5CWUc1NVJHcWVXUHgyM3daX0RDN3dRSVFOWDMwcXFEWFE?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "陽明交大 AI 醫療社區化：學術力量協助基層診所導入智慧醫療工具",
+      "summary": "陽明交通大學醫療團隊推動「AI 醫療走入社區」計畫，協助基層醫療診所及社區衛生單位引進智慧醫療工具，縮短學術研究與臨床基層應用之間的落差。計畫聚焦於將大學研發的 AI 輔助診斷與健康管理工具，轉化為適合基層醫師使用的實用系統，涵蓋慢性病追蹤、早期篩查提示及用藥安全輔助等場景。此舉代表台灣高等醫療學術機構正積極扮演 AI 醫療推廣橋接角色，有別於以往僅聚焦醫學中心層級的 AI 部署。對台灣各地醫療體系而言，此模式提供了以學術合作驅動基層 AI 普及的可行路徑，亦呼應健康台灣政策推動智慧醫療下沉基層的整體方向。",
+      "tags": [
+        "台灣醫療AI",
+        "社區醫療",
+        "學術合作",
+        "基層醫療"
+      ],
+      "author": "未標示（中華日報｜2026-08-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZR3VQUXRUNTJ5Q1ZQTVJrd1dONUpaSmtlenU1TUJoMkhzbXloYWNWZmlBcTg5RF9PZkgteFlDX2hXTG9COElVZDlrczNrSmlDVVE?oc=5"
+    }
+  ]
+}
