@@ -1,0 +1,75 @@
+{
+  "date": "2026年08月17日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "韓國 KT 電信與首爾大學醫院攜手打造聯合醫療 AI 平台",
+      "summary": "韓國電信龍頭 KT 與首爾國立大學醫院宣布合作，共同建構聯合醫療 AI 平台。此一合作結合電信業在大規模資料傳輸與運算基礎設施的優勢，以及頂尖學術醫療中心的臨床數據與研究能量，目標是加速醫療 AI 解決方案的開發與部署。此類產學研跨界合作模式在東亞地區日益盛行，顯示醫療機構與科技企業深度整合已成為推動醫療數位轉型的主流路徑。對於亞洲醫療體系而言，此案例具有重要參考價值，說明醫療 AI 平台的建立需要穩健的基礎設施合作夥伴，以及高品質的臨床數據供應方。此合作模式亦可望促進 AI 工具在臨床實務中的規模化落地，為未來跨機構 AI 平台整合提供示範。",
+      "tags": [
+        "醫療AI平台",
+        "跨機構合作",
+        "數位轉型",
+        "韓國醫療"
+      ],
+      "author": "未標示（Seoul Economic Daily｜2026-08-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVkRSSVhMamxkeGhyV09iRFlXd1Y2Y1A1SkZycE5keXNyZ3hjUkpWYjdoNVI3Yi1CakE0dXR0Q1I1RWhFc0J2TDctWmY4aUxnbVF3YmxIRkE2OHFqM1hCRFpDQkZZeTJOTjJrSE9wQzJTVV96WTBJczVrMUtRUDRseXpwc0xYV1piV0d0SXhXRUt4REZORjNfNkdmaTFwZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 7.5,
+      "title": "生成式 AI 應用於胸部 X 光判讀：大型放射科實務導入案例分析",
+      "summary": "美國 Radiology Business 報導了 Robert Harris 針對大型放射科實務環境導入生成式 AI 模型進行胸部 X 光判讀的應用案例。這是繼近期多項放射 AI 研究之後，又一則聚焦於實際臨床場域規模化部署的實務報告。生成式 AI 在影像判讀領域的應用已從研究階段逐步推進至日常診斷輔助，其能力涵蓋自動生成放射科報告草稿、標記異常區域並提供文字說明。大型放射科的導入經驗尤為關鍵，因其需面對高工作量、多類型影像及嚴格報告時效要求等挑戰。本案例提供醫院放射科評估生成式 AI 工具可行性的第一手參考，對於正在規劃 AI 輔助報告系統的醫療機構具有直接參考意義。",
+      "tags": [
+        "放射科AI",
+        "生成式AI",
+        "胸部X光",
+        "臨床落地"
+      ],
+      "author": "未標示（Radiology Business｜2026-08-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNTNlUjJkeV9nNDllMm9DYy1VbmNUT3NGXzg2cEswOXJYSVJGTm5TNVZEQXVPWFhlc19UZF82NlBJZzdETm9SbnBkdkZCVDBmaEc5cVNRRGhuTmI1ZXdGTFp5MUE5SV9KMmliMnI2bjFlbTZKdjFMTWtiZ2lkSTJ4N29yS2JyVXdqWWNVMTFucGlQT1lua3V1Q1VOYzlNSWpMNkNjSlpLVG9vM2dvZXpYd2dhUWlHRTdfQjJUZnlHTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 6.5,
+      "title": "AI 設計病毒的雙面刃：醫療曙光還是生物安全新威脅？",
+      "summary": "隨著 AI 技術能力持續提升，已有研究顯示 AI 模型具備從頭設計新型病毒蛋白結構的潛力。台灣報新聞的這篇報導深入探討此一技術發展所帶來的正反兩面效應：一方面，AI 加速藥物與疫苗設計，有助於快速應對新興傳染病威脅；另一方面，同樣的技術若遭到惡意使用，可能成為生物安全的潛在漏洞。這議題已引起全球生物倫理學界、公共衛生組織及政策制定者的高度關注，並呼籲建立相應的 AI 生物安全治理框架。對於醫療機構與研究單位而言，理解 AI 在生物技術領域的雙重性，有助於在推進創新應用的同時，建立必要的風險意識與防護機制。此議題在台灣生醫政策討論中的重要性亦日益提升。",
+      "tags": [
+        "AI生物安全",
+        "生物倫理",
+        "AI治理",
+        "台灣醫療"
+      ],
+      "author": "未標示（報新聞｜2026-08-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOWDdLSnBLejJDMHlaSHVpcnc3OUVsWnRDU2ZkbnRsMzJWTlZPVUNuMHJaUzhLR3kwLWdzZ2xzd3VfeVZEQXFvMHVQRUNEcHBJTmhocVEybVpIWnNaOFhiTEgzd0lnVnJJTllzLUNoYkxZNFl2N1FMWU1ELUpLSU1Jb2FEZVMxdlB3dEFKWlV3NFpxRXlucC1rYnBVTlg4T2h2M0lzVFZWSGhVVlZqcTZkWDdNRU1hYkE0enc5bDVpM002R3ZqZmZBYUZ0VFp0TEctN1JscG9sZkpqMUFEYlhPUFZIU05MYTREY3dQZmJFel9xc0dMYWlkaE1DZDlyVjRqY3lBNkdwRzM2eTl6LTlKeVlXM1c5cVlva0lBR0d2UkVTOEN5N005c1BZNjU2RVM4LV9RYWlEcVFVUWVfUERIRlJHdE11RTA?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 6.0,
+      "title": "醫藥 AI 瓶頸不在模型而在語義：精準臨床術語才是關鍵",
+      "summary": "MedCity News 刊登一篇深度分析文章，指出製藥業在應用 AI 進行真實世界數據（RWD）分析時，最大的瓶頸並非計算能力、模型架構或訓練數據規模，而是 AI 所需推理的「語義層」——即臨床意義的精確表達。作者強調，若臨床術語標準化程度不足，即便使用最先進的大型語言模型，也無法從電子病歷、理賠資料等非結構化數據中提取可靠的臨床洞察。這一論點對醫療機構的數據治理策略具有重要啟示：在推進 AI 應用之前，確保臨床數據的語義一致性與標準化（如 SNOMED CT、ICD 等）是不可忽視的基礎工程。對於正在建構醫療數據平台或規劃 AI 研發管線的醫院資訊部門而言，此觀點提供了重要的方法論參考。",
+      "tags": [
+        "醫藥AI",
+        "臨床數據治理",
+        "真實世界數據",
+        "語義標準化"
+      ],
+      "author": "未標示（MedCity News｜2026-08-16）",
+      "source_url": "https://medcitynews.com/2026/08/better-models-wont-fix-pharmas-ai-problem-better-terminology-will/"
+    },
+    {
+      "rank": 5,
+      "score": 4.5,
+      "title": "台灣政壇推動 AI 智慧醫療治理：邀藥師參與城市醫療政策決策",
+      "summary": "台灣政治人物江啟臣的藥界後援會正式成立，江啟臣在會中提出推動 AI 智慧醫療治理的政見主張，並強調將邀請藥師族群參與市政醫療決策。此一動態顯示 AI 智慧醫療議題已從技術討論擴展至地方政治議程，藥師在 AI 醫療治理中的角色亦受到關注。隨著 AI 輔助處方審核、藥物交互作用警示等應用逐漸成熟，藥師專業知識在 AI 醫療系統設計與監督中的重要性日益凸顯。這一政治表態反映出台灣社會對 AI 醫療治理廣泛化、多元利害關係人參與的期待，亦可能為未來地方醫療 AI 政策的制定方向提供觀察指標。",
+      "tags": [
+        "台灣醫療政策",
+        "AI治理",
+        "智慧醫療",
+        "藥師角色"
+      ],
+      "author": "未標示（自由時報｜2026-08-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CNnEzdEdPTW1CYmRNWmExTlpSdWNuUVNDOEluTElJTEZLR3ZQWGg1RHNueVVVVkxQZzlQaEEyMU85dU9ndjZ3UU9ETWF0M0dXTkpvN2szSktTZk1VQ1hSZXozREdSOFB6RlE?oc=5"
+    }
+  ]
+}
