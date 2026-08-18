@@ -1,0 +1,117 @@
+{
+  "date": "2026年08月18日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "奇美醫院攜手資策會舉辦醫療 AI 高峰論壇：從「會用 AI」邁向「慧用 AI」",
+      "summary": "奇美醫院與資策會共同主辦醫療 AI 高峰論壇，聚焦人機協作實務，主題從基礎 AI 應用工具導入，進一步升級至智慧化、情境感知的「慧用 AI」層次。論壇探討臨床工作流程中 AI 與醫療人員的協作模式，涵蓋診斷輔助、行政效率提升及跨科整合等議題。此次活動標誌奇美醫療體系在數位轉型路徑上的重要里程碑，從技術採購導入走向深度應用與制度化落地，對台灣醫療體系發展 AI 治理與人才培育具有示範意義。論壇召集醫院領導層、臨床主管及資訊技術團隊共同討論，凝聚院內共識，提供可複製的智慧醫療轉型框架，值得其他醫療機構參考借鑒。",
+      "tags": [
+        "醫療AI論壇",
+        "人機協作",
+        "數位轉型",
+        "台灣醫療"
+      ],
+      "author": "未標示（PChome Online 新聞｜2026-08-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZm1fUHNYWWd2Mjd6OGQ1cTNUQlRtRkNBWFZ6eDRRMnlxMjc1Z1VLbFhWZW9FXzJoUmhYWGpUNWRSLWh5WEc4STJZa2Y1RkMzdkZGamkycU0tSlF1eFB0SG9Nam1PcU5qN193Z3ZwYkdlLXhGS3phSFB1eXJkaHVWZmdGNmphb0FFeXU0cw"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "Nature 研究揭示：泛用 AI 在臨床任務上意外勝過專科專用工具",
+      "summary": "一項刊登於 Nature 的最新研究發現，泛用大型語言模型在多項臨床診斷與決策任務中的表現，竟優於針對特定疾病或科別訓練的專科 AI 工具。研究分析指出，泛用模型憑藉更廣泛的語境理解與跨領域推理能力，在面對複雜、跨科或罕見案例時展現更高的彈性與準確率。此結果對醫院 AI 採購策略具有重大影響：現行許多機構傾向針對個別臨床場景採購垂直解決方案，但此研究提示「通用平台優先」策略或許更具成本效益與整體效能。臨床資訊團隊在評估 AI 工具時，應重新審視「專用工具必然較優」的預設假設，並納入泛用模型的比較測試，以確保採購決策有充分實證依據。",
+      "tags": [
+        "泛用AI",
+        "臨床決策",
+        "AI採購策略",
+        "Nature研究"
+      ],
+      "author": "未標示（鏈新聞 ABMedia｜2026-08-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xOEZ4cjdPNmRPSzY5MnN4d09zbGtNSW9IMERQeVBqN2c0RVRpZWZoTVIwblFkSG1aYk5SWk5kUDNEb2Q1RHlEeE5tQU5GSEx2YXB5OTJrVk5NVUhDREZNZktkRHpLZGdCejVqR2dsZlo5VXljbHVDOA"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "放射科 AI 整合實務：整合式 AI 如何全面改造放射科工作流程",
+      "summary": "Imaging Technology News 刊載深度報導，探討整合式 AI 解決方案如何系統性地改造放射科日常運作。文章指出，單點式 AI 工具雖能解決特定問題，但真正的效能提升有賴於將 AI 深度嵌入 RIS、PACS 及閱片工作站的整合架構，使報告生成、異常優先排序、品質管控等流程一體化運作。整合式 AI 可縮短報告周轉時間、降低漏診率，並協助人力緊缺科室維持服務量能。文章同時討論導入挑戰，包括系統相容性、放射師培訓及持續品質監控機制的建立。此報導對正在規劃或已導入放射科 AI 的醫院資訊與影像醫學團隊具有直接參考價值，可作為評估整合深度與廠商選擇的重要指引。",
+      "tags": [
+        "放射科AI",
+        "工作流程整合",
+        "PACS",
+        "影像醫學"
+      ],
+      "author": "未標示（Imaging Technology News｜2026-08-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS3JkMS1lT2gwS2JwM0xGS2IydE9XdklMN1pXWHgzUmp1ZUNHQWRFZWdpSHh3dG9YZkNTUVAzS29SdXpuTWRRWkJZS0hxUy1iMjJzY284UXJ4M2VLWnhXRTRybVRMVlJPeS1XYU5CcWxtdzRaWUJoSDdSaXBwWXk5UmE4TkJuM2tvQVdxOUNNZTB4SXM"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "兒科影像 AI 的特殊挑戰：放射科醫師必須了解的關鍵差異",
+      "summary": "AuntMinnieEurope 發布專題報導，聚焦兒科影像 AI 與成人影像 AI 之間的本質差異。兒童生理解剖特徵、生長發育變異性及輻射劑量敏感性，使得多數以成人數據訓練的影像 AI 模型在應用於兒科時面臨嚴重的準確率下降問題。報導指出，兒科影像 AI 模型須以專屬兒科資料集訓練，並需額外考量不同年齡層的正常變異範圍。目前市場上針對兒科的 AI 解決方案數量遠少於成人影像工具，放射科醫師在評估廠商提案時，應主動要求提供兒科族群的驗證數據與效能指標，避免直接將成人模型套用於兒童患者。此議題對設有兒科部門或小兒影像業務的醫院具有重要的採購與臨床安全意涵。",
+      "tags": [
+        "兒科影像",
+        "放射科AI",
+        "臨床安全",
+        "AI驗證"
+      ],
+      "author": "未標示（AuntMinnieEurope｜2026-08-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOXlQWktZYXM4VzctWUs2MVJnRk9XcHdxSnppcWsxZFc3NFFVUzN5UGlLRzVNVnRwOFlOVTB6TmpfN2JocTZjNFFQUDB6Szh5dDE0U2pPSlAxYmVIamx2TThZT2RmeGU5SXBDTGFtQS1wbGpvS3pwS040UmZBVXVScmZEQUlkeDZhOWE3WFU2Q2xhMDJRN0hGM09fMm9vS2NETUFQOG11MmZneFlFd3pHVXdsMHRXYzhFckVKcGlVM0ZmN1BkN3ItWGFVcXVoZHNVdGFpVVRZS0lBQQ"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "醫療體系已在部署 AI 工具，卻尚未準備好迎接 AI 代理人同事",
+      "summary": "MedCity News 評析文章指出，多數醫療機構目前停留在「工具型 AI」的部署階段，例如文件自動化、影像輔助判讀等，但對於能夠自主執行多步驟任務、融入日常工作流程的「代理型 AI」，醫療體系在治理、法規遵循與人員準備度上仍存在明顯缺口。文章強調，AI 代理人一旦成為臨床工作的實際參與者，責任歸屬、錯誤處理機制及人機交接協議等問題將隨之浮現，現有醫院管理架構普遍尚未建立相對應的監控與問責框架。醫院領導層應提前規劃代理型 AI 的導入策略，包括制定 AI 角色定義、工作邊界及異常回報流程，以避免技術能力超前於組織治理能力所帶來的風險。",
+      "tags": [
+        "代理型AI",
+        "AI治理",
+        "醫療工作流程",
+        "組織準備度"
+      ],
+      "author": "未標示（MedCity News｜2026-08-17）",
+      "source_url": "https://medcitynews.com/2026/08/healthcare-is-deploying-ai-tools-its-not-ready-for-ai-colleagues/"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "台灣銘旺科技 AI 無人機完成東台灣首秀：血袋冷鏈與 AED 偏鄉空中配送",
+      "summary": "台灣新創公司銘旺科技在東台灣地區完成 AI 醫療無人機首次實地驗證，成功演示透過無人機跨越山海地形，將血袋（維持冷鏈）與 AED 等急救物資配送至偏鄉地區。此次展示針對台東地區道路因颱風或地震中斷時的醫療物資斷鏈問題提出解決方案，整合 AI 航線規劃與自動避障技術，實現全程自主飛行配送。此一智慧醫療物流新模式，對台灣偏鄉急救時效具有潛在重大影響，亦驗證 AI 無人機在醫療韌性建設中的實用性。未來若能通過法規認證並大規模部署，將可有效填補山區及離島醫療資源最後一哩配送缺口。",
+      "tags": [
+        "AI無人機",
+        "偏鄉醫療",
+        "醫療物流",
+        "台灣醫療科技"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-08-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQeGtBVGN5SXJrU2FTVXdqRGZMUk40d21YTzNZV2dFWWhTRF9IVHh0NXh4ckpVRHJKaEd6NUZQWkd1N3VOODJHdUowbWtDeFhFQkIyYUg2OElQWXBSRDZlOUJWSDZvQ1U0bDFkbTk4RG5rU0Y2Y3JWY2dmcHFiVTJkbXVKTnpwRHBhN2VOTDVvQmVrR2Z6UnJaWHRiTGg1ODBkUF9hVVE5WnFZeUxYSHRCeFlpUUJiOGhvTUlva1dkRUNNZ1ctM3RySXBXejhjaHBuTDVxNnlTN3NCMmZTRVh5eVQ5b2xRa0JwUjY3TW9hb0k3dUJJX3JWTVhpdzhJeEVWZVpDVjNGVmowM1pJZHBBUGlkWE5qUTBDdDFtVDNQSGFHZ1Y4Y0ZFNzQ2akRpekRQcDJtYURqTmhkWUYwUXZrRDNHU3hQLW1jODNBeGkxM2FzQk14SnNsRUVQeE1ITzVDblB1NFBwUTdIdGMwdV9LcGxrQ3FfdDVyZll1OWM0d3VmV0J3WlB3THdCa292bU1XNVNtN2V1andNT0xsMi1jOXc1QURqYmRVT1F2SnplU0RmOWhhOGxpaDRwMFpjTWlMN21uWXFDN0VCRklsUlR2bHppUzh1X2ZjMjZXT2JoNDlDOVh6X3JYbHFpN2dRa3ZucWNyQjZfSzFJQzY5VGc"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "醫院 CIO 面臨 2026 年動盪局面：健康 IT 支出壓力、AI 能力缺口與 Epic 高昂授權費齊壓",
+      "summary": "MarketScale 報導指出，2026 年醫院資訊長（CIO）正面臨三重壓力交疊的嚴峻環境：健康 IT 整體預算成長趨緩、AI 能力建設的人才與技術缺口持續擴大，以及 Epic 系統授權與升級費用持續攀升，導致資源分配決策高度困難。報導訪談多位醫療體系 CIO，指出許多機構在 AI 投資上缺乏明確的 ROI 評估框架，導致預算核准困難；同時 Epic 平台的高度依賴也壓縮了引進新興 AI 廠商的空間。文章建議 CIO 應建立 AI 投資優先序矩陣，聚焦能直接降低人力成本或提升收入的應用場景，並積極與主要廠商重新談判合約條款，以在預算限制下維持數位轉型動能。",
+      "tags": [
+        "醫療IT預算",
+        "CIO策略",
+        "AI導入",
+        "Epic"
+      ],
+      "author": "未標示（MarketScale｜2026-08-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN01Ua0NqekJPODhzRm5rVWRMdnZXTW51eXNyQlNyTWZpR2ZweWVGTGtJbUE0ZXhnUUNfVVFORlc2UTNLWWVuSS1FRzlUc2R1Sy02Zmo3VHhsb2RYUTF1S24tUlhuRW5wNUIwSXAwMkRPd2tlU0VvMEdJYkxKcWE0QThUUGVaajhsRWhiUnRIZFRYbmtBNU9BRGFWZzM3QTFPTHdYckZXY19ZQWUtNjFpN3lUNXlLRDMzbi1ia3NRTUJVVHhHTzJoYmN6WjNBRGJ2V18w"
+    },
+    {
+      "rank": 8,
+      "score": 5.5,
+      "title": "AI 為何最適合扮演科學工具設計者：Nature 觀點探討 AI 在研究中的核心貢獻",
+      "summary": "Nature 刊載評論文章，提出一個反直覺的論點：AI 對科學研究最重要的貢獻，並非直接做出發現，而是協助設計出更優秀的研究工具與實驗儀器。文章回顧科學史，指出許多重大突破源自測量工具或分析方法的創新（如顯微鏡、基因定序儀），而非純理論推演。作者認為 AI 在優化研究儀器設計、模擬實驗條件及加速工具研發迭代方面具有獨特優勢，這種「工具使能者」定位比直接擔任「科學發現者」更具可靠性與可重現性。此觀點對醫療研究機構評估 AI 研究應用策略具有參考價值，提示 AI 輔助研究工具開發可能比直接將 AI 用於診斷或預測更能帶來長遠突破。",
+      "tags": [
+        "AI研究工具",
+        "科學方法論",
+        "醫療研究",
+        "Nature觀點"
+      ],
+      "author": "未標示（Nature｜2026-08-17）",
+      "source_url": "https://www.nature.com/articles/d41586-026-02529-x"
+    }
+  ]
+}
