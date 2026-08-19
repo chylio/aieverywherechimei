@@ -1,0 +1,131 @@
+{
+  "date": "2026年08月19日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.5,
+      "title": "FDA 就生成式 AI 醫療器材監管方向公開徵求各界意見",
+      "summary": "美國食品藥物管理局（FDA）於 2026 年 8 月 18 日發布討論文件，正式就生成式 AI（GenAI）醫療器材之監管框架向公眾徵集意見。文件聚焦於四大核心議題：風險評估方法、上市前評估標準、上市後監測機制，以及其他監管考量。此舉標誌著 FDA 正式將生成式 AI 醫療器材納入獨立監管體系的規劃進程，與既有的傳統 AI 醫療器材審查路徑有所區隔。目前全球醫療體系正大量導入 GenAI 工具於臨床診斷、病歷摘要及決策支援等場景，而相應的監管準則仍屬空白。本次公開徵詢結果將直接影響未來 GenAI 醫材的核准流程與上市門檻，對醫療器材開發商、醫院採購決策與臨床實施風險管控均具有重大政策意涵，各醫療機構宜密切關注後續正式規則之走向。",
+      "tags": [
+        "FDA監管",
+        "生成式AI",
+        "醫療器材",
+        "法規政策"
+      ],
+      "author": "未標示（FDA Press Releases｜2026-08-18）",
+      "source_url": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
+    },
+    {
+      "rank": 2,
+      "score": 9.0,
+      "title": "Sheba 醫學中心成為 OpenAI 首個國際醫院合作夥伴：AI 整合醫院的實踐路徑",
+      "summary": "以色列 Sheba 醫學中心宣布成為 OpenAI 全球首個國際醫院合作夥伴，雙方將共同探索大型語言模型（LLM）在臨床工作流程中的深度整合應用。Sheba 長期被視為全球數位醫療轉型的標竿機構，此次合作涵蓋臨床文件生成、患者溝通輔助、醫療決策支援等多個場景。OpenAI 選擇 Sheba 作為首家國際醫院夥伴，顯示 AI 大廠已從技術輸出轉向與頂級醫療機構建立深度共創關係。此案例對全球醫院領導層具有高度參考價值，尤其在醫院如何與 AI 平台廠商洽談合作架構、確立數據安全邊界、推動臨床場景驗證等方面，提供具體的實踐模型。對於正在評估或推進 AI 導入的醫療體系而言，此案例值得深入研究。",
+      "tags": [
+        "OpenAI",
+        "醫院合作",
+        "臨床AI整合",
+        "數位轉型"
+      ],
+      "author": "未標示（drugdiscoverytrends.com｜2026-08-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaEJIMnY3dllNd01BM195TS1JRnFBNFNkVkVqS0kwY2p0Nm5tV043dmxsVTJ0dTR6Q1o1RHdRdENVa0kzSU9ZRW1iLThKMXptNmtTUTZzMXlPWkktMjZOT2w4Tk4tWWZDTlNJWGpqd1N3SGlZc2VsWTdzTzNDZEVtSWxBTmRCSjVDajNpcmlZWTIza2lOcjUyM2JHTWUwMUFCYjlWY0JhUlBIWmc5cS1OeHdwTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "工作流程問責制：定義醫療 AI 下一發展階段的關鍵要素",
+      "summary": "Healthcare IT News 最新分析指出，醫療 AI 的發展正從「技術可行性」轉向「工作流程問責制」的新階段。文章探討隨著 AI 工具在醫院臨床環境中大規模部署，如何建立清晰的責任歸屬機制成為最迫切的治理挑戰。現有 AI 系統在診斷建議、用藥輔助或行政自動化出現錯誤時，責任鏈往往不清晰，涉及醫師、技術廠商與醫院管理層三方。文章呼籲醫療機構在引入 AI 工具前，應制定完善的工作流程問責框架，明確 AI 建議的採納流程、錯誤回報機制及人工覆核標準。此議題對正在規劃或已部署 AI 系統的醫院資訊部與臨床管理層具有直接的政策制訂參考價值，預期將成為醫療 AI 治理討論的核心焦點。",
+      "tags": [
+        "AI治理",
+        "工作流程問責",
+        "臨床AI",
+        "醫院管理"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-08-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXhKTF81MkdjRTJGei1XTFpJVW42WVJNZHlpODFRNndoMDlqUzJmOHJpeXMtTThkX1VJdkUtZ1p3UTVMNDN4NmNYaFpjcXVETEY5R2pmXy1YS3BGTU5OWVdleVlyd2dsRXF0SlBoOGc0UDZ0T09XR3ZiZWtpZGU1eEw2LTBLVnVvcmtYeE5FTEsxZTBEMUFmUmgyV2NjSWxLMzliRw?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.0,
+      "title": "FDA 已核准逾 1,500 項 AI 醫療器材，但多數產品實證基礎仍待補強",
+      "summary": "《The Clinical Trial Vanguard》報導指出，FDA 迄今已授權超過 1,500 項 AI 醫療器材，但對其中大多數產品而言，臨床實證基礎仍遠落後於核准速度。分析顯示，許多 AI 醫材是依據有限的臨床數據或模擬測試獲得批准，真實世界的有效性與安全性驗證尚未完成。這一現象在放射科影像 AI、臨床決策支援系統等高部署量領域尤為突出。文章呼籲監管機構強化上市後監測要求，並建議醫療機構在採購 AI 器材時主動要求廠商提供真實世界證據。此議題與 FDA 近期就生成式 AI 監管徵詢意見的時間點高度契合，反映出醫療 AI 監管與實證之間的結構性落差，對醫院採購委員會及臨床風險管理具有直接警示意義。",
+      "tags": [
+        "FDA監管",
+        "AI醫療器材",
+        "臨床實證",
+        "醫療安全"
+      ],
+      "author": "未標示（The Clinical Trial Vanguard｜2026-08-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc05peVRmU0plUzM0Y0tXTkdJS1ZrU1hjZHh6eFlZbmFDdHFMczhoLWJNSXBkbTJLSm5OVjVYTjI5X0MxVHVJbDRKY2tXb3FnZWxablNZaXZMV1h4bWliMW1xS2lIMEptMlVpbXotVjRWWXFIenVhazlzcUU2eEhCekhHRWYxZlNNR1F5anRzNlVOS0M2aUQ5by1McFRwM1ZBX1NZckVtZjE2Rkh2V3dvak5ybUVTdWpFSGNzczZ1NEMtQnpSRV9uXzUxakg1VWxVSEd3MVNndw?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "Microsoft Research 與 Paige 聯合發表 PRISM 2 病理 AI 模型，推進數位病理精準診斷",
+      "summary": "Microsoft Research 與數位病理 AI 專業公司 Paige 共同發表新一代病理基礎模型 PRISM 2，旨在大幅提升數位病理切片的自動化分析能力。PRISM 2 採用多模態架構，整合組織影像與分子資料，可支援多種癌症類型的病理判讀輔助，包括腫瘤分級、生物標誌物預測及預後評估等臨床任務。相較於第一代模型，PRISM 2 在多個基準測試上展現顯著性能提升，並設計為可整合至現有數位病理工作站平台。此模型的發布代表科技巨頭與專業醫療 AI 公司深度協作的新趨勢，對正在評估或規劃導入數位病理解決方案的醫院病理科具有重要參考價值，尤其在提升病理判讀效率與跨院區標準化方面具備實際應用潛力。",
+      "tags": [
+        "數位病理",
+        "基礎模型",
+        "Microsoft",
+        "癌症診斷"
+      ],
+      "author": "未標示（Cloud Wars｜2026-08-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkpJcEptYUVBMjlxMjRnRnlsdklNcEFQY043ejlGZzltT0lFQ19SZFdpMHM2Q3dEZWxKR0FGT2RIR25SakZyU2tSb0NGa2Z2SE15S3lsM1pVdmV2UmdYbUpUMFpvdXNXOHJWTFp3T25uMFp4MlgyWDRVRW02T1RsX294M1l3eFNjamNuYXdnNS1LLWx6VVFLNUl0YUIzMVB5SjlPZ29B?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "韓國 AI 消化道診斷系統正式進駐國立大學醫院，強化內視鏡判讀效率",
+      "summary": "Healthcare IT News 報導，韓國一家醫療 AI 公司開發的消化道疾病輔助診斷系統已正式導入國立大學醫院，提供內視鏡影像的即時 AI 分析支援。該系統可辨識大腸息肉、早期胃癌及其他消化道異常，並在內視鏡操作過程中即時標示可疑病灶，輔助醫師判讀。導入後的初步數據顯示，AI 輔助可有效降低息肉漏診率，並縮短平均報告時間。此案例呈現亞洲醫療 AI 商業化的最新進展，亦反映出胃腸科 AI 輔助診斷工具在國立醫學中心的實際部署模式。對於消化科或內視鏡中心正在評估 AI 輔助工具的醫療機構，此案例在臨床成效驗證與系統整合策略上具備參考意義。",
+      "tags": [
+        "消化道AI",
+        "內視鏡診斷",
+        "韓國醫療",
+        "臨床部署"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-08-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOTR1U3JDUmZFcmNKUTc5QkpiNDRSYnRRQnRkUzlmcTBNWXFfN1ZNWTRrOW9oYWNrN1owbnBoRFZTbUExOFhaa3RMckFRNjR3M0ZsZ2cydEdsSXMzY3JzaUlDUWxualZjaHA2VFlOVHU1Rkh1WTVVSG81RlIwV3hReE1ScmxuTWpuNGlpOV9kVWhfamFZM3hXYWo5Ulh6WktFdFNkbEJlV1JqOFFmZEE?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "Abridge 擴大 AI 臨床決策支援服務，合作醫療體系全體臨床人員皆可使用",
+      "summary": "醫療 AI 公司 Abridge 宣布將其 AI 臨床決策支援功能擴展至所有合作醫療體系的全體臨床人員，不再限於特定科別或試點單位。Abridge 以 AI 輔助醫療對話摘要與病歷自動生成起家，此次擴展將其服務範疇延伸至臨床決策輔助層面，涵蓋診斷建議、治療選項摘要及病患資訊整合等功能。全面開放策略意味著 Abridge 正從「試點工具」轉型為醫療機構的基礎臨床 AI 平台。此舉將對合作醫療體系的工作流程設計、AI 使用訓練需求及問責機制帶來系統性影響。對於正在評估 AI 臨床決策支援工具大規模部署可行性的醫院資訊部與臨床領導層，此案例提供了重要的規模化導入參考。",
+      "tags": [
+        "臨床決策支援",
+        "AI擴展部署",
+        "醫療AI平台",
+        "工作流程"
+      ],
+      "author": "未標示（Digital Health News｜2026-08-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWZ4SDBka25KM2RhZjBLQmRlaGFRWkF2MXNjb1QybFlDRmdKV1ptOVNGbVpmeWcxRWN1ZWNOcTZSejdxVnFlcEFSUGdIaGtSd2ctVktidi1lVUM4T3R6VGVZQ1NfM0NuSERhTnBKLXhrUWZGWXBYUG92MUFoZmhUR3pXTXBfWnkzUWkzdndxZ3Z5MmYySERZeWg0NkdnT3U3NzRsWnFIbTVId0x0dl85SVFYcVlLRUVjRmJsbk1jQQ?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "台灣長佳智能闌尾炎 AI 軟體攻台美市場，累計取得 57 張海內外醫材證",
+      "summary": "台灣醫療 AI 公司長佳智能旗下闌尾炎輔助診斷 AI 醫療器材軟體正式進軍台灣與美國市場，截至目前已累計取得 57 張海內外醫材認證，顯示其產品在法規審查上具備相當的國際市場競爭力。該 AI 軟體可分析腹部電腦斷層影像，輔助急診醫師快速判斷闌尾炎可能性，有助於縮短診斷時間並降低不必要的手術風險。長佳智能的多國醫材認證策略，展示了台灣醫療 AI 廠商在國際市場的監管布局能力。此案例對台灣醫療機構具有雙重意義：一方面呈現本土 AI 醫材的實際臨床應用場景，另一方面也說明台灣廠商在取得美國 FDA 與台灣 TFDA 雙重認證上的可行路徑，具有產業政策與採購決策的參考價值。",
+      "tags": [
+        "台灣醫療AI",
+        "AI醫材認證",
+        "急診診斷",
+        "闌尾炎"
+      ],
+      "author": "未標示（經濟日報｜2026-08-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYXA4UkVnYnIzRUhUVFJyaWw4eFV4ZkRVandidm51Wlh1VkNIR2hNNWg1VVV5X2NLeWxITEgwcHBnU1FMMEJEd1JYSEFZcE9NdTE5VzJsd1JnWlZUZjMyTkFJazZkLXppSGFTYnFraXNQWGRiVlhCMU1ZaHQ5a25wQWNfSkJnWnBVM2NPSWJMTDPSAV9BVV95cUxOdU1KdUp6MUNURU5Ldml3LW80alNhczRTTl9DNUhXWG5JVUt6elliZlRzMHNZQTEtUVJwSllmMWF3V2JIb05ic3BqelVKaGxrOVUtVi12NUZSNFk3RXNuVQ?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "放射科 AI 生產力革命：2030 年前影像 AI 將帶來深度效率躍升",
+      "summary": "Healthcare Asia Magazine 最新分析預測，至 2030 年放射科將因 AI 工具的全面滲透而迎來顯著的生產力躍升。報告指出，影像辨識 AI、自動報告生成及優先排序工作流程等技術的成熟，預計將使放射科醫師的每日判讀量大幅提升，同時縮短報告回報時間。然而文章也提醒，AI 生產力增益的實現有賴於系統整合品質、放射科人員的 AI 使用訓練，以及醫院工作流程的配套重設計。亞太地區醫療體系在放射科人力緊缺的背景下，AI 輔助被視為緩解人力壓力的關鍵策略之一。此趨勢分析對正在規劃影像 AI 路線圖的醫院放射科及資訊部具有中長期戰略參考意義。",
+      "tags": [
+        "放射科AI",
+        "生產力提升",
+        "影像診斷",
+        "亞太醫療"
+      ],
+      "author": "未標示（healthcareasiamagazine.com｜2026-08-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWUs5T19lbWN5T1FnN1B4Si00TnVaMkhkOEhfcms2dHBBNFFjLUNiTUJTbmloQUFtUzNNRW5XNGgwb1RMaUV1RWhWSmtSZjBTNXZOM0dmbDR6OW5GTWxhVmpSWXZfZ0Z5Qk1HZmNqVmk3dFlydVJmeE5vb2NPM09BcEhhR0t3XzlneEY4TDRQa2hlbXlLVXJOZDBVX25xUjFVcl9QLURB?oc=5"
+    }
+  ]
+}
