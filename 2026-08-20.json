@@ -1,0 +1,131 @@
+{
+  "date": "2026年08月20日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "Nature 發表大型語言模型醫療安全性全面審查：從開發到部署的風險防護框架",
+      "summary": "Nature 於 2026 年 8 月 19 日刊載一篇系統性綜述，全面檢視大型語言模型（LLM）在臨床醫療場域中的安全與資安風險。研究涵蓋 LLM 從訓練、部署到臨床應用各階段所潛在的威脅，包括模型幻覺、提示注入攻擊、資料洩漏、對抗性操控及輸出偏誤等。論文提出一套整合性防護框架，明確區分開發端、部署端與臨床使用端各層級的責任歸屬，並針對臨床情境中最常見的威脅類型提出緩解策略。此審查適時回應當前全球醫院快速導入 LLM 輔助診斷、病歷生成及臨床決策支援的趨勢，為醫療機構評估 AI 安全治理政策提供系統性依據，對醫院資訊長、臨床科主任及數位轉型團隊具有高度參考價值。",
+      "tags": [
+        "大型語言模型",
+        "醫療AI安全",
+        "臨床風險治理",
+        "資訊安全"
+      ],
+      "author": "未標示（Nature｜2026-08-19）",
+      "source_url": "https://www.nature.com/articles/s41586-026-10687-1"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "Radiology Partners 旗下 Mosaic 正式向 FDA 請願，要求明確影像 AI 監管規範",
+      "summary": "美國大型放射科集團 Radiology Partners 旗下子公司 Mosaic 於 2026 年 8 月 19 日向 FDA 提交正式請願書，要求監管機構針對醫學影像 AI 產品制定更清晰、一致的法規框架。請願內容涵蓋 AI 器材核准標準、上市後臨床效能監測義務、以及演算法版本更新時的重新申請門檻等核心議題。此舉反映業界對現行 510(k) 與 De Novo 審查路徑應用於影像 AI 的疑慮，以及對監管不確定性可能阻礙創新落地的憂慮。隨著 FDA 核准 AI 醫材數量已逾 1,500 項，但實證基礎參差不齊的問題持續受到關注，本次請願有望推動 FDA 加速釐清影像 AI 監管政策，對採購或開發放射科 AI 工具的醫療機構具有直接政策參考意義。",
+      "tags": [
+        "影像AI監管",
+        "FDA政策",
+        "放射科AI",
+        "醫材法規"
+      ],
+      "author": "未標示（AuntMinnie｜2026-08-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbTc2YlZmeEVKWVBhWlZUXzNiX0xlbGhxOVVuYV9lS25mYjVsUk54VDJ1UHVrRG82VlJGLXNyWFhiWmd6R3JkWGZuX0MyV3Nid0RpVmN1U1Q4QVBmQ3ZoUjBiLUdrVndsRHlZUGkzbUFBV29CZm96MFRZbWd6aTR2TUZOT1hCS0ZHU19GYVZrWEdNN0cyWVJIR29JVVFucUVvODk4WF82ckp5LWJCcXgwNnlnOXhuNmZfZFBTVmhXdTNtbkVwR1ZWVWgtcnpKQkU2QlVMc0tnOXIwQ09BdjV1Ri0wbDAzeEN5ekE?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "Epic 年會揭示 AI 新藍圖：代理人平台、Cosmos 預測模型與工作流程自動化全面擴張",
+      "summary": "Epic 於 2026 年度用戶大會上發布多項 AI 戰略進展，包括推出 AI 代理人（Agent）平台、基於 Cosmos 大型資料庫的臨床預測模型，以及深度嵌入 EHR 工作流程的自動化功能。Cosmos 平台整合來自數千家醫療機構的去識別化患者資料，用於訓練預測住院風險、再入院率及敗血症預警等模型。AI 代理人功能則可自動完成病歷摘要、預授權申請及轉介協調等任務，大幅降低行政負擔。然而據 STAT 報導，Epic 年會閉門討論中亦存在對 AI 部署進度與整合複雜度的疑慮，顯示醫院端對 Epic AI 路線圖的期待與落地現實之間仍有落差。此動態對使用 Epic 系統的醫療機構資訊部門及數位轉型團隊具有高度戰略參考價值。",
+      "tags": [
+        "Epic",
+        "臨床AI代理人",
+        "EHR自動化",
+        "醫院數位轉型"
+      ],
+      "author": "未標示（Fierce Healthcare｜2026-08-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ0x3MzF1enVIdE50cm1xb3Nsa0lxRk1VWWxQc2JGaHU3OHBmQVdEYldHY043NFVUeFlqUTFrTUp6VFUxTDhkbjV5WkIzQ2dacF9zVV8wekZhMm1UMGI5cTdhdnNQNUctUkdwTUZYSVNxb0FlbVBJNWl4S2tMTmFhLU5EVWxZc0VyNWE0MWZJY0N6Z1d1SVJEV0RseGR5Z2RsMjBaVDFLQzNNSHBJblJTVC1SQTZTdGhlaEY5elI1Y3RzdTUxbXJKOHh4ZWU?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.2,
+      "title": "雲林醫療 AI 登上國際：單張 X 光影像提前識別骨折高風險族群",
+      "summary": "台灣雲林地區醫療院所發展的 AI 骨折風險預測系統已登上國際舞台。該系統透過單張 X 光影像，運用深度學習演算法分析骨質密度、骨骼微結構等特徵，提前識別具骨折高風險的患者族群，無需額外的骨密度掃描（DXA）即可完成初步篩查。此一技術突破對偏鄉或資源有限的醫療環境具有特別意義，可望降低骨折篩檢門檻並擴大高風險族群的早期介入機會。系統已通過國際學術驗證，展現台灣在醫療 AI 影像應用領域的研發實力。對骨科、老年醫學科及放射科而言，此類工具有潛力整合至常規健康檢查流程，提升骨折預防效率。",
+      "tags": [
+        "台灣醫療AI",
+        "骨折風險預測",
+        "X光影像AI",
+        "偏鄉醫療"
+      ],
+      "author": "未標示（元丰傳媒｜2026-08-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03ZUphV0llOVEyRnczMm5lWVdXT0I5QzY4ckRrbDNvV2V0bnpnQnVKLWN1ZndCTzBoVFVTMjViYUNDZ2dKX09Mc04tdUYyQS1HTXgwbVJMUlpnS2g3d1JPNDdHc3o3M3pBSkp2WUlzd3RMY3k4TDloaA?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "FDA 核准 AI 醫材逾 1,500 項，但多數未以患者結局作為測試基準",
+      "summary": "AuntMinnie 最新報導指出，儘管 FDA 已核准超過 1,500 項 AI 醫療器材，但大多數產品在上市前並未以真實患者結局（patient outcomes）作為效能驗證的核心指標，部分僅依靠影像辨識準確率或技術性能指標取得核准。此現象引發臨床研究者與監管專家的廣泛質疑，認為現行核准機制可能無法充分保障 AI 工具在實際臨床場域中的安全性與有效性。報導呼籲 FDA 強化上市後追蹤要求，並建立以患者為中心的 AI 器材評估框架。此議題與 Radiology Partners 向 FDA 請願強化影像 AI 監管的行動相互呼應，顯示業界與學界對醫療 AI 實證基礎的關切正持續升溫。",
+      "tags": [
+        "FDA醫材審查",
+        "醫療AI實證",
+        "患者結局",
+        "AI監管政策"
+      ],
+      "author": "未標示（AuntMinnie｜2026-08-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONDJyTzBzeXUzeWFzU05JaFZaQWVyaHlnZHhnTk9sby1PRjRGNENMUG5vUDRDV1NGaXI1b0sxbDBIQnFrZDUyVHhOQ3JWdkdRUUpNZG5RYmRFV2xCN1p4ZThLdmVsUGs3dTRBMkdrSHZKVGgyUzlOMUc3V01JbTRWZ0FEMFFQNU1IR0twX1NOZ2tuaElmUmtuZ0NIZ2VPMUhsQlg4dnVfY3BQX2plUEtaeGFubVRTVm82T2pnaUwzNlZSUlEzM2JVWVZEbVRDSXZCdk1seGpXNU1oX3pZQ291MGVsZ09yUEF4?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "AI 在空間病理學的突破：深度學習解析組織切片空間資訊",
+      "summary": "Drug Discovery News 報導，AI 深度學習技術正被應用於空間病理學（spatial pathology），透過分析組織切片中細胞的空間排列與微環境互動，提取傳統病理判讀難以量化的特徵。相較於標準數位病理，空間病理 AI 可同步分析細胞位置、鄰近關係及基因表現空間分佈，對腫瘤異質性評估、免疫細胞浸潤分析及治療反應預測具有重要潛力。目前多個學術中心已將此技術與多模態 AI 模型結合，探索其在乳癌、肺癌及大腸癌診斷分期中的應用。此趨勢對醫院病理科、腫瘤科及精準醫療發展方向具有高度前瞻參考價值，亦呼應數位病理整合 AI 的全球發展趨勢。",
+      "tags": [
+        "空間病理學",
+        "數位病理AI",
+        "深度學習",
+        "腫瘤診斷"
+      ],
+      "author": "未標示（Drug Discovery News｜2026-08-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1RsOEgyamxKdFJtREw1SlRUamoyOGVaTnpQVERVSjUzYmF0UlJBNGk2TTdjQUZlLTh3bjFqVXpsMmdJaVJmT0VJN2d5V2NqZ0NRQ08zS29veEw0Sk5obERlWVdtSmJEODRYRE5sSUhhUm9mX2QtcTUyUXNNSXp5TldRcmhyYVZBaGpad25DWWg0Q2NfS3RZ?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.3,
+      "title": "FDA 核准首款全自主機器人抽血裝置 Aletta，無需操作人員手動介入",
+      "summary": "FDA 於 2026 年 8 月 20 日正式核准 Aletta，這是全球首款獲准獨立運作的機器人靜脈抽血裝置，可在無需操作人員手動介入的情況下，完成從患者手臂抽取血液檢體的全程操作。Aletta 整合影像辨識、機械臂定位與自動穿刺技術，能夠識別靜脈位置並精準執行抽血流程。此核准標誌著醫療機器人技術從輔助型邁向全自主型的重要里程碑，對護理人力短缺的醫院而言具有實質減輕工作負擔的潛力。潛在應用場景包括門急診抽血站、長期照護機構及偏遠地區醫療站點。醫院管理層與護理部門可關注此類自動化醫療裝置對人力配置與工作流程的影響。",
+      "tags": [
+        "醫療機器人",
+        "FDA核准",
+        "自動化醫療裝置",
+        "護理工作流程"
+      ],
+      "author": "未標示（FDA Press Releases｜2026-08-20）",
+      "source_url": "http://www.fda.gov/news-events/press-announcements/fda-authorizes-first-its-kind-robotic-blood-draw-device"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "醫療 AI 自動化成效落差大：部分醫療體系報酬顯著，另一些卻停滯不前",
+      "summary": "The AI Journal 分析報告指出，不同醫療體系在導入 AI 自動化工具後呈現截然不同的結果：成效顯著者多具備清晰的資料治理架構、跨部門整合機制及 AI 導入專責團隊；而停滯不前者則普遍面臨資料品質不一、工作流程整合困難及臨床人員接受度不足等挑戰。報告強調，AI 技術本身並非決定性因素，組織變革管理能力與 AI 策略的成熟度才是關鍵差異所在。具體成功案例集中於行政自動化（如預授權、帳單處理）與臨床排程最佳化兩大領域，而直接涉及臨床決策的 AI 應用落地速度則相對較慢。此分析對正在評估或擴大 AI 投資的醫院領導層與資訊部門具有重要的策略借鑑意義。",
+      "tags": [
+        "醫療AI導入",
+        "自動化效益",
+        "組織變革管理",
+        "數位轉型"
+      ],
+      "author": "未標示（The AI Journal｜2026-08-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRFRZbEQwUzl2S1ktaEI4M1RqVXhlT3pnYjNoTjdZYm01SFN5VExqQ1JBVjF3RWtpM2VCckNid3ZFZlM1WUlKLTdmX2VvYjB6TmJwejJydjlvTzlXbDhpUEZFRnRGckVjaThwcDRuTXBMM3BuYzEwV2pMVFZpZTZQS0plS3g3dDY0dk5JODl4NVhSZ2pxcGxRcXBCdm9fUlFuY0pvOW53?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.8,
+      "title": "訊飛醫療營收年增 49.4%，醫療大模型加速規模化落地中國市場",
+      "summary": "中國科大訊飛旗下訊飛醫療公布最新財務數據，營收年增幅達 49.4%，顯示其醫療大型語言模型（大模型）在臨床場域的商業化部署正加速推進。訊飛醫療的核心產品包括 AI 輔助診斷、智慧門診、病歷結構化及慢病管理等應用，已在中國數百家醫院完成落地。此次高速成長反映中國醫療 AI 市場在政策支持與醫院數位化需求雙重驅動下的爆發性擴張。訊飛醫療的規模化路徑與商業模式，包括與政府採購體系的深度合作及基於大模型的 SaaS 服務，對台灣醫療 AI 業者的市場策略與技術定位具有比較參考價值，亦反映亞太地區醫療 AI 競爭格局的快速演變。",
+      "tags": [
+        "醫療大模型",
+        "中國醫療AI",
+        "商業化落地",
+        "智慧醫院"
+      ],
+      "author": "未標示（香港商報｜2026-08-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEQ3BpR2xRc29Xd0tXMDMyYVhrUGtxVkN4VFNzbXYyWkp3aVdUWUpqOHBFdDhCdGRybkhyMFNZTXV3bWVEbDIxUC1NVmNJWlZiem5Ralg1XzhybnJMbjB4bFNpZ2dNV1JiaWFYckYyek5zd21aTXZVNHFtUQ?oc=5"
+    }
+  ]
+}
