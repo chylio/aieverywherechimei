@@ -1,0 +1,103 @@
+{
+  "date": "2026年08月21日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "生物醫學論文九成出現 AI 輔助跡象：學術誠信與同儕審查面臨空前挑戰",
+      "summary": "Nature 最新報告揭示，2026 年 12 月在 PubMed 存檔的生物醫學論文中，高達 90% 顯示有大型語言模型（LLM）協助撰寫的特徵，遠超過先前各項估計值。這一數字引發學術界對研究品質、數據可信度及同儕審查效能的強烈憂慮。隨著 AI 寫作工具普及化，醫學期刊面臨如何辨別 AI 生成內容、維護學術誠信的迫切挑戰。對醫院研究部門與臨床科主任而言，此趨勢意味著引用文獻時須更謹慎評估論文的真實性與方法論嚴謹度，並思考如何制定機構層級的 AI 使用規範。學術機構和期刊編輯委員會亦正積極研議偵測工具與揭露政策，以確保醫學知識體系的可靠性不受動搖。",
+      "tags": [
+        "學術誠信",
+        "大型語言模型",
+        "生物醫學研究",
+        "同儕審查"
+      ],
+      "author": "未標示（Nature｜2026-08-20）",
+      "source_url": "https://www.nature.com/articles/d41586-026-02551-z"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "大型醫療體系紛紛導入 AI 聊天機器人查詢與摘要病歷，節省時間並提升診斷準確率",
+      "summary": "多家大型醫療體系正積極部署 AI 聊天機器人，用以查詢電子病歷（EHR）並自動生成摘要，協助臨床人員快速掌握患者資訊。根據 STAT News 報導，此類工具已在實際應用中展現縮短查詢時間、提高診斷正確率的成效。醫師無需手動翻閱大量紀錄，即可透過自然語言指令即時取得關鍵臨床資訊。然而，各機構在導入過程中仍需面對資料隱私、模型幻覺、工作流程整合及臨床責任歸屬等多項議題。隨著越來越多醫院將此類應用從試點擴展至全機構，如何建立有效的監管機制與品質驗證流程，成為醫療資訊部門與臨床領導層的核心課題。此趨勢對奇美等大型醫療體系具有直接的參考與借鏡價值。",
+      "tags": [
+        "電子病歷",
+        "AI聊天機器人",
+        "臨床決策支援",
+        "工作流程自動化"
+      ],
+      "author": "未標示（STAT News｜2026-08-20）",
+      "source_url": "https://www.statnews.com/2026/08/20/health-systems-embrace-ai-chatbots-query-patient-records-ehr/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "醫療 AI 供應商風險管理亟需強化監管機制",
+      "summary": "BankInfoSecurity 報導指出，隨著醫療機構對第三方 AI 供應商的依賴程度日益加深，相關的資安風險、資料隱私漏洞及合規挑戰也同步升高。文章強調，醫院在採購與部署 AI 解決方案時，往往缺乏對供應商技術架構、資料處理方式及事故應變能力的足夠透明度，導致機構暴露於不可預期的風險之中。專家呼籲醫療體系應建立嚴格的供應商盡職調查（due diligence）流程，涵蓋資安評估、合約責任條款及持續監控機制。此議題對醫院資訊部門與法規遵循團隊而言具有高度迫切性，尤其是在 AI 醫材監管框架尚未完備的現階段，強化內部治理機制是降低供應鏈風險的關鍵第一步。",
+      "tags": [
+        "供應商風險",
+        "資安治理",
+        "醫療AI採購",
+        "法規遵循"
+      ],
+      "author": "未標示（BankInfoSecurity｜2026-08-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWjQta3o3MzFGbU9MXzIxekp2ajZ3VnpHRGNYWWhFMFVYTTNWc2pGcUdDeVpmNFBuQ2lueDZsT3JLb3VtTUJick42bnRZSlFfcU5XaWhzZ05ZZzNNU3J0Rm5uOEp2YnVIX2J3NzVBaFMtcThYM2ZqMm5nVEY0ajlXZzgyVk9wNzdnUnlGbXlWUFRKMUNuVVozdg?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "新 AI 框架大幅提升癌症病理診斷可靠性，有效降低誤診率",
+      "summary": "News-Medical 報導，研究人員開發出一套新型 AI 框架，專門針對癌症病理診斷的可靠性問題進行優化。傳統深度學習病理模型在面對不同醫院染色差異、切片品質不一及罕見病例時，容易出現預測不穩定的情形。該框架透過不確定性量化（uncertainty quantification）技術，使模型在預測信心不足時主動標記供病理科醫師複核，而非直接輸出結果，從而在臨床應用中建立更安全的人機協作模式。初步驗證結果顯示，此方法能有效減少假陽性與假陰性，對於腫瘤科及病理科的 AI 輔助診斷具有重要的實務意涵，也為後續多中心臨床試驗奠定方法論基礎。",
+      "tags": [
+        "病理診斷",
+        "癌症AI",
+        "不確定性量化",
+        "數位病理"
+      ],
+      "author": "未標示（News-Medical｜2026-08-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzNhaER6LW9uMjhTcGtISlBVZm9HVUE0ck9LS0ktaUZpcXNvMjRxY1VYUzhMN0xRejNBSUV0aE9vb21nbTJ0TGFScHl5dVZvVmRCSVA5YkN3SFRzQnE4Y3ZUbTVjbXZ2Tk5vbGlpOUlMcWJDRHQ4dzBBU20tSzNMcVpVR2tLdzJ1SFVqSzQ0MHE5MkpfaHFmeVFrdHVLUzk1TmwzSXpYZFFqQU9od3hPVzA2emstdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "藥物警戒引入 AI 加速採用，治理機制成決定成敗關鍵",
+      "summary": "MedCity News 發表分析文章，探討 AI 在藥物警戒（pharmacovigilance）領域的快速滲透趨勢。隨著製藥企業與醫療機構越來越仰賴 AI 自動化處理不良事件報告、信號偵測與病例報告整合，如何確保演算法決策具備可解釋性、可稽核性與問責機制，已成為核心挑戰。文章指出，若缺乏完善的 AI 治理架構，組織反而可能因過度依賴自動化而削弱對患者安全的真實掌握能力。專家建議機構應將人類監督嵌入 AI 工作流程的每個關鍵節點，並定期驗證模型輸出的準確性。此議題對醫院藥劑部、品質管理及法規事務團隊具有直接的政策參考價值。",
+      "tags": [
+        "藥物警戒",
+        "AI治理",
+        "患者安全",
+        "法規合規"
+      ],
+      "author": "未標示（MedCity News｜2026-08-20）",
+      "source_url": "https://medcitynews.com/2026/08/ai-in-pharmacovigilance-why-governance-will-define-success/"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "WHO 將以色列醫療 AI 模式列為全球領先典範之一",
+      "summary": "Jewish News 報導，世界衛生組織（WHO）已將以色列的醫療 AI 整合模式列入全球頂尖實踐案例。以色列因其高度數位化的全國性健康資料庫、跨機構的資料共享機制，以及結合臨床需求的 AI 開發生態，獲得 WHO 高度肯定。此認可突顯出，成功的醫療 AI 落地不僅依賴技術能力，更需要政策環境、資料基礎建設與臨床協作的系統性整合。以色列的經驗提供了醫療體系在國家層級推動 AI 轉型的可行路徑，包括數據治理框架的建立、AI 臨床驗證標準的制定，以及跨部門協作機制的形成，對亞太地區醫療系統具有重要的政策參考意義。",
+      "tags": [
+        "WHO",
+        "醫療AI政策",
+        "國際典範",
+        "健康資料治理"
+      ],
+      "author": "未標示（Jewish News｜2026-08-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHhDWjdNOVFkS0g0d0xmS2FVYmlwSW9iSXY3aUxtVXF0TWNSTjF3aEVlTmlYZjNxM2RBei1JS0twNkcxSGhGTk1BZi1paHRNdVJoWk5YeHA1N0dVTnNpbVFVS1BTRVNuc1lOVUQ3bmlqN2kyLWlaSEVCOTNqQ1l2cklPNzNFeTk1NDh0bkthbEFJZkl2ZTRueUpnZHEwTG50OFhKcnVn0gGrAUFVX3lxTFBEb0Q5U0FZTmNjSmRoSHFRUFV3czB4cFNNWDRmbmw3SjRFY0xSdV9HbmtVdVlBYUZRT2x3OENtd0JGNEFzNmlJdEF2Z1lpZC0zQXJpQXBLNHZCWDhKQ0pWRC1YUms2a2dveFBnN1VaekQ0SXFscFZPRXcxYnFQQUljZkVUeWNsbHlNUXdMOUdTQzVBdHotQndQcS1lQ3JqQk1kbTl2T0dxYXRkaw?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "嘉義縣 AI 行動醫療篩檢深入偏鄉，縮短城鄉醫療資源落差",
+      "summary": "新唐人亞太電視台報導，嘉義縣推動結合 AI 技術的行動醫療篩檢計畫，將醫療資源帶入偏遠地區，協助當地居民進行健康篩查。此次計畫運用 AI 輔助診斷工具，提升現場篩檢效率與準確性，同時減少需轉介至大型醫院的等待時間。台灣偏鄉地區長期面臨醫師人力不足與就醫距離遙遠的雙重困境，行動醫療結合 AI 的模式提供了一種兼顧可近性與診斷品質的創新解方。此類實踐對於探索 AI 在基層醫療與預防保健的應用場景具有重要意涵，也呼應了台灣推動智慧醫療與縮短城鄉健康不平等的政策目標。",
+      "tags": [
+        "偏鄉醫療",
+        "行動醫療",
+        "AI篩檢",
+        "台灣智慧醫療"
+      ],
+      "author": "未標示（新唐人亞太電視台｜2026-08-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOXzdJZ1NWSGRxNGc2U01vRk5BVEltR0tZVzlydUp0TGkxSUNMQTJhcjM3ZW9mdUdHenNrM0V4SmRHRWJEUGd5dnQ4WmdsOXhuU1h0TUNxQlZFUHlmWTJmbnQtTHQweHVSWUtLbUExZEhuZ1pGQ0dfajUxYnNQSUs2c1dZaGRtdjhOT2ZvQVBsNVRXbUJ5VzFlRXRncG9nM0t3QVpTQklleGdTejFjYlJydXlaVTkxSHhVcElCTnk1blVuSldsM24zV1NkcGN2ei1DeVQ5bHpVcU5iWmZFemJQVjBqRVdrcmlHc0dGSkxpWXh0TV9oWWlweEV0MlI1VHJoak5fWXhlOVhmMnNRNlhNaXZ3NnF1bXpxVE1BcEVMVkJiZlVoVUNJcVJVYm9jb2VTamtPemZiODVldEdrZ0dwZE9YZ2gzSEJyWDdXdUcycVE?oc=5"
+    }
+  ]
+}
