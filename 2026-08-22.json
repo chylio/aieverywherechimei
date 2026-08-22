@@ -1,0 +1,131 @@
+{
+  "date": "2026年08月22日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "台灣衛福部攜手羅氏醫療診斷簽署 MOU，AI 預警慢性腎臟病惡化風險",
+      "summary": "台灣衛生福利部與羅氏醫療診斷公司正式簽署合作備忘錄（MOU），雙方將以慢性腎臟病（CKD）照護作為首波合作重點，導入 AI 預警系統協助臨床醫師提早識別腎功能惡化風險，目標是延緩患者進入透析階段。衛福部次長石崇良指出，台灣擁有完整的全民健保資料庫，可補足全球 CKD AI 模型在本土族群數據上的關鍵缺口，使預測模型更貼近台灣患者實際情況。此次合作將結合羅氏在體外診斷與數位健康領域的技術，以及台灣醫療資料的廣度，共同開發 AI 臨床決策支援工具，並規劃未來擴展至其他慢性病領域。此案是台灣政府與國際醫療大廠首度在 AI 醫療正式框架下共同推進慢病管理的重要里程碑，對醫院腎臟科、家醫科及資訊部門均具高度參考價值。",
+      "tags": [
+        "慢性腎臟病",
+        "AI預警",
+        "台灣醫療政策",
+        "國際合作"
+      ],
+      "author": "未標示（cna.com.tw｜2026-08-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OamkyTl9jS05MbFFlQk90UUQ1Tm12X3N5X0NPRkZXVmFfbHcycW1RTmItY1hWTVdWeXI2Vi1zUWktdXU1aTI5OE51V1B5TTd2NjRaS3BUSC0zeE1yS1Nn?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "AI 在泌尿腫瘤科的角色：從影像辨識到治療決策的全面應用展望",
+      "summary": "CancerNetwork 發表深度分析，探討 AI 技術在泌尿生殖系統腫瘤學（Genitourinary Oncology）的多元應用潛力。文章指出，AI 在攝護腺癌、膀胱癌與腎臟癌的影像判讀、病理分級、治療反應預測及術前規劃等面向均展現顯著效益。其中，攝護腺癌的 MRI 自動分析與 PI-RADS 評分輔助工具已進入臨床驗證階段，部分研究顯示可提升病灶偵測敏感度並降低不必要的切片率。AI 亦被應用於預測免疫治療反應，協助腫瘤科醫師篩選最可能受益的患者族群。文章同時指出，現階段主要挑戰包括模型可解釋性不足、跨機構資料異質性，以及缺乏大規模前瞻性臨床試驗支持。對於腫瘤科、泌尿科及影像醫學部門而言，此文提供了評估現有 AI 工具成熟度的重要框架。",
+      "tags": [
+        "泌尿腫瘤",
+        "AI影像判讀",
+        "臨床決策支援",
+        "精準醫療"
+      ],
+      "author": "未標示（CancerNetwork｜2026-08-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWk50aDBEeWh6YVNlTUZRSGdMTDJKUGdTeDBtWExDRGJ1M00ySDVGdGctNHFZM08wQVJYSy1mUzQ4Snl6MVVSQ3M3UVlFQ2RhVktjWHhUeDJ4NU1Gb0pHRnlfZGh6VEVaTmpqTFRNZWU0TVE5NGZLTTdjaTA0X2ZGVWpaOUFhVkZPenJhNW5LSkE1UDVoWTdSUzZ0a19SWVNpOVJrdjI1TGY?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "AI 整合心臟影像工作流程的實務指引：從採購到臨床部署的關鍵步驟",
+      "summary": "Cardiovascular Business 發布心臟影像 AI 整合的實務操作指南，針對醫院心臟科與影像部門提供系統性建議。文章涵蓋 AI 工具評估標準、與現有 PACS 及電子病歷系統的整合策略、放射師與心臟科醫師的工作流程重設計，以及 AI 輔助判讀結果的品質管控機制。指南特別強調，心臟 AI 工具的部署不應僅考量演算法準確率，更須評估在真實臨床場景下的操作可行性與使用者接受度。文中亦討論左心室功能自動分析、心電圖 AI 判讀等具體應用案例，以及如何建立內部驗證流程以確保模型在本機構資料上的表現符合預期。對於正評估或已開始部署心臟影像 AI 的醫療機構，本文提供了具體可行的參考架構。",
+      "tags": [
+        "心臟影像",
+        "AI工作流程",
+        "臨床部署",
+        "影像醫學"
+      ],
+      "author": "未標示（Cardiovascular Business｜2026-08-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1EzWkhCZ1RSYnZxcUxJM2VuVndpaW05V2hLVkdsUmszaXJSelBTRERmN3BtS1R5QTRMbWdtcVlmUzBsTkdtR1VHcVFWN0RZanlzWTgzYTVFVU1WYTZjWEZTbUppNXBNY0ZzT1k3UkZ0Y21oQUdjempMNEtBZEd6d00tQjk2amMxalk2N05wOWdGRENBNnR2ZWRCUDRENF9aZU03UW5VbnZsdjNx?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "Michigan 醫院以 AI 重塑癌症放射治療流程，精準化輪廓勾勒大幅提升效率",
+      "summary": "美國 Michigan 州一家醫院公開分享其導入 AI 輔助癌症放射治療的實際成效，重點應用於自動輪廓勾勒（auto-segmentation）。傳統上，放射腫瘤師需耗費數小時手動標記腫瘤與周邊危重器官的邊界，AI 工具的引入將此流程縮短至數分鐘，使治療計劃的制定時間顯著加快，讓患者可更快開始接受治療。院方表示，AI 模型在頭頸癌、攝護腺癌等常見癌症類型的輪廓準確性達到臨床可接受標準，但仍需放射腫瘤師進行最終審核與修正。此案例展示了 AI 在放射腫瘤工作流程中的實際落地路徑，包括系統整合方式、醫師信任建立過程及品質保證措施，對有意推進放射治療 AI 化的醫療機構具有重要參考意義。",
+      "tags": [
+        "放射治療",
+        "AI自動勾勒",
+        "腫瘤科",
+        "工作流程優化"
+      ],
+      "author": "未標示（WILX｜2026-08-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFBscGZQSW16MzZDNFBJb1NIaFpjb2FlckpqQktEZW5mbnpvYVlpTGNReW53OXY3dXo5TFk1SGxsUVRYUUdlQjdlbUJvM0hTTGYtUWFyU3hqdDJ5NWNPRnpvR25mTzc1WXBSMXY5cjN5R0RORW5OX1NYN2Z3aFl0SHBwMWx2NmQ3NHhNc2JGYXNyRXdmV25BT3BNQlZ1MDV4OVJ30gG3AUFVX3lxTFBIQ0EyeF9yOVpvaVUwRE5OZWhBSE5qQ3ZBZGIzSE5FTFhNZ1prdVZja21yVy1FRmM0NERJNUdzUlNzUEhrbURzYnFGUG1ZM1g0ai12RjNDWG5SUEtkdWRFR0RNX3h3dkxGYkpiZmN4Q3hvZjdYZDBDQTlVaEVuZ1V6Um9qbmhLWVRqdXlPcGp6YTlrX3FpZXRPV0wzd25VVTlMNmU0dTZoay1JUWxXNExDMkhaaUlpQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "IQVIA AI 臨床決策支援工具榮獲 2026 年 AI Breakthrough Award 預測模型年度大獎",
+      "summary": "全球醫療數據與科技公司 IQVIA 宣布，其 AI 賦能臨床決策支援工具榮獲 2026 年 AI Breakthrough Award「年度預測模型解決方案」獎項。該工具整合大規模真實世界數據（Real-World Data），運用機器學習模型協助臨床醫師進行疾病風險分層、治療路徑優化及患者預後預測，目前已部署於多個大型醫療體系。IQVIA 表示，此工具的核心優勢在於能夠跨越電子病歷、保險理賠及藥局資料等異質數據來源進行整合分析，提供更全面的患者健康輪廓。此獎項的肯定反映出業界對 AI 預測模型在臨床決策輔助應用上日趨成熟的認可，也顯示醫療 AI 工具評鑑逐漸從技術指標轉向實際臨床效益的驗證方向。",
+      "tags": [
+        "臨床決策支援",
+        "AI預測模型",
+        "真實世界數據",
+        "醫療AI獎項"
+      ],
+      "author": "未標示（BioSpace｜2026-08-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTFZxblo3b3ZfQU9tSVNPS2U1NkV4MlEwSENhWlM1ODl6TmxMQXc0UUJaV2RoTkhlazVxRHdyaEFBd3ZXN2p1VDNBVzBfMVV6VEwzU3NrTjg2WDNXS0VpczB4OTBMSHhEalF5WlU1a25yY1Y4UzFpQ01yZ2FLRnNoTGNldjc0cXZJcXotalprVUNkaVV6YWtIcmtudnRsRFBRUGY5blNkZWFyZWtMNjVUaUdxaV9HaFh6WkFWeUh5MklrVUFRQkFzdWxNbFpaNmphUkN0UzZPLVNQT1FENWVTTFc0cl92SnFkeGRBeVJ1QVpZemJhQ2dmVg?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "德國萊因完成台灣「愛寶」醫療 AI 衛教測試，正確性與忠實度達 99.9%",
+      "summary": "德國萊因（TÜV Rheinland）針對台灣長聯科技開發的醫療 AI 機器人「愛寶」完成獨立第三方測試，結果顯示其衛教回答的正確性與忠實度達 99.9%。此測試重點評估 AI 系統在回應病患健康諮詢時是否出現「幻覺」（hallucination）現象，即無中生有的錯誤資訊，並驗證其能否嚴格依據醫療文獻與指引作答。「愛寶」目前定位為醫療機構的衛教輔助工具，可協助護理人員減輕重複性衛教工作負擔。此次取得國際認證機構的測試背書，是台灣醫療 AI 產品邁向法規驗證與市場信任的重要一步，對醫院評估導入 AI 衛教工具的安全性基準具有參考意義。愛寶亦於 2026 年台灣機器人展中展出，獲經濟部選入產業應用主題館。",
+      "tags": [
+        "醫療AI驗證",
+        "衛教機器人",
+        "台灣醫療AI",
+        "第三方認證"
+      ],
+      "author": "未標示（三嘻行動哇 Yipee!｜2026-08-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQZC1xNmxvR0V4QkJLeW5XWXpFN1dPVjFrS1VlSEtKVUlxVWpvZVQ4aUdiWE9mWW9YT3ZsTVNyUVZNSG9nYjRPRXlCN3VTRl95NmF4amxOR0xxRTFBZThkZEgzZlhOQU94UkpYakk1SzZNWF9hUzlweUtrdjhLa2ZRd2VuVnpDWjVKVHVIS1Q4SEl0clNZN0F1QlZQVG5Wd2ZfY2x6RkNSaW1abmxaRVVLYkJDOXRqRWkza0ZsQkxHUVp4MFdoU0dPWjFyR185NjRhaFlXYS1zalB4MlBXQV9BZ0NXVjFPZVY0LUJVYkR5WGo2dU5xY2lsTHdwWXQ1UGFpUjJ3R0NSbEVra1V6OHBMaUNkbFREMDZoM2MzTzVLbzFRNnppWjZSNDVBN0Q0R2xTMGQya0JUN0dxQlNqWlo0VjdyeXhVZ2tDV3FmeQ?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "AI 驅動健康新產業：從藥物研發到精準營養的全鏈條創新",
+      "summary": "中央社報導 AI 技術在健康產業的廣泛應用趨勢，涵蓋新藥研發加速、精準營養個人化推薦及預防醫學等面向。文章指出，AI 在藥物研發領域可大幅壓縮化合物篩選時間，部分案例顯示研發週期從數年縮短至數月。精準營養方面，結合基因組學、腸道菌相與生活習慣數據的 AI 分析模型，可為個人提供客製化飲食建議，相關新創公司在台灣與全球市場均呈現快速成長態勢。此外，AI 在慢性病風險預測、健康管理應用程式及穿戴裝置數據分析等領域的整合應用，正推動健康照護從「治療導向」轉型為「預防導向」。文章認為，台灣具備半導體、生醫數據與臨床研究等優勢，有條件在 AI 健康產業中取得利基地位。",
+      "tags": [
+        "AI藥物研發",
+        "精準營養",
+        "預防醫學",
+        "健康產業"
+      ],
+      "author": "未標示（cna.com.tw｜2026-08-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YVXRKbU5wVUJDNF9TQTdfakdyanRxcGlNLWRJTl9ZQUN0UFJwaUJkQldtMnRKXzRrMGtrWWExOVhOdXdGa2ZUV2RjX0JMUllGMjNUNTBxN2o3aHpMRHp3UjlzQkI?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 5.5,
+      "title": "醫院 AI 團隊在隱私保護上問錯了問題：Fierce Healthcare 的深度警示",
+      "summary": "Fierce Healthcare 刊出業界評論，指出許多醫院 AI 部署團隊在討論隱私保護時，焦點過度集中於「資料是否加密」與「是否符合 HIPAA」等合規層面，卻忽略了更根本的問題：AI 模型訓練與推論過程中的數據最小化原則、模型記憶（model memorization）風險，以及第三方 AI 供應商的資料使用條款是否真正保護患者隱私。文章引述多個案例，說明醫療機構在與外部 AI 廠商合作時，常未充分審查推論數據是否被用於模型再訓練，或患者個資是否在不知情下流向第三方。作者呼籲醫院資訊長與法務團隊重新建立 AI 隱私評估框架，將問題從「我們有無合規」轉向「我們的患者數據在整個 AI 生命週期中是否真正受保護」。",
+      "tags": [
+        "醫療AI隱私",
+        "資料治理",
+        "HIPAA",
+        "AI採購風險"
+      ],
+      "author": "未標示（Fierce Healthcare｜2026-08-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSFBXWElmLWItaXRSS2x4NmVCdklyVnJRMTE0dXIxOVlPdUxkWkpWNjRPWmprLWRjVE1VSVh6cWJwdHRoZ2NsWWFobm82WUNnbkRLcHJmLTROZS1veTQ3MzlTTWtxR1FMMkh5UWJXbzMyaGREU3VNbUh5M0hVcTRSS1NIZWE5ZHBib3NySE1tbmhqamJDdUFUSGUxbW9EdHZpVW1lV3V4amZzZzhtaUp1b3RWdDROQzBsOFFGVVFjdHA0Wm5wUndCeg?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 5.5,
+      "title": "南投縣推動智慧醫療：AI 骨密度暨整合健檢守護民眾骨骼健康",
+      "summary": "南投縣政府推出「AI 骨密暨整合健檢」智慧醫療計畫，結合 AI 分析技術與傳統骨密度檢測，為縣民提供更精準的骨質疏鬆風險評估服務。此計畫透過 AI 輔助判讀骨密度影像，自動計算 T 值並產出風險分級報告，協助基層醫療人員快速識別高風險族群，進而及早介入預防骨折。計畫亦整合血壓、血糖、體組成等多項健檢數據，形成個人化健康管理建議。南投縣作為農業縣，醫療資源相對不足，此類 AI 輔助社區健檢模式有助縮短城鄉醫療資源落差，並可作為其他縣市推廣類似計畫的參考範本。此舉呼應台灣政府積極推動 AI 落地基層醫療與預防保健的政策方向。",
+      "tags": [
+        "AI骨密度",
+        "社區健檢",
+        "智慧醫療",
+        "預防醫學"
+      ],
+      "author": "未標示（Yahoo｜2026-08-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPc0RKVnpTR0tQZE9HZFlQLWpGT09aaUdXTkw4TGVoV0hpZl9xaGtqdldmNzlyWUdXY3FFLXRRdU1Ja2pRM3hFejZsdGVTVDJ6Ykwwc2E3YzRBcVVzRzB2dk5EOTFEcFR0RjNJMC01d0NaRlNaRU9Lc0c1cmJBLU1iRVRWai1RWkZRc3FLUm5FSG95OGdZNGE4TGpmZThVdWkwbWkyQkcxYUhKR21tRm1aNG1EblRHNk5HT2Ytd0ZYVnd2aTh0eUdMWWx2SVhTZm43RG8xTGx6eHlsdWJJbDlMcl90dzFYWTJnckU3bS1FZWtkOHVlcnB6NXdCMTlxZHd5RGg4d3dxVkctVTdQSXBtODVnbGJXejROQXRGQUZJcDdmOWJQcTZBZ2V3?oc=5"
+    }
+  ]
+}
