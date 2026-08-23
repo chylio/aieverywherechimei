@@ -1,0 +1,75 @@
+{
+  "date": "2026年08月23日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 7.5,
+      "title": "深度學習加速淋巴結轉移偵測，影像 AI 診斷效能再獲實證",
+      "summary": "根據 EMJ 報導，深度學習技術在淋巴結轉移偵測領域取得新進展，相關研究顯示 AI 輔助影像分析能大幅縮短放射科判讀時間，並提升淋巴結轉移的偵測準確率。淋巴結狀態是多種癌症（包括乳癌、大腸癌、肺癌等）分期與治療決策的關鍵指標，傳統人工判讀耗時且受限於判讀者經驗差異。深度學習模型透過大量影像訓練，可自動標記可疑淋巴結區域，減少漏診風險，有望整合至現有 PACS 工作流程中，協助放射科及腫瘤科醫師更快做出臨床決策。此一技術進展對影像科室的 AI 採購評估與臨床驗證規劃具參考價值，亦呼應近年醫療體系積極導入影像 AI 以應對判讀量能不足問題的趨勢。",
+      "tags": [
+        "影像AI",
+        "深度學習",
+        "淋巴結偵測",
+        "腫瘤診斷"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-08-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDBuS1VSc1lycnBHdGFVb2xSWHZWM3ZCYW5pSEhzMnZGV0VyTllHeFVqRUpxb0wxbzhsdnhwbEVzWHVlZGstS1k0UG13Y0NIblJPQkg5SFIxd2FIS194SFFMYUxrOHNBVVhhdUZocEdfbkN5cHJfZWVKNXpjM2NyeklwWUszTnFnS25mV2I2MHVDREQ2WllsSg?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 7.0,
+      "title": "醫療 AI 供應商風險監管呼聲再起，業界專家示警治理缺口",
+      "summary": "BankInfoSecurity 報導指出，隨著醫療機構加速導入 AI 供應商解決方案，外界對 AI 廠商風險管理的監管要求日趨迫切。文章強調，現行醫療機構在採購 AI 工具時，普遍缺乏對供應商資料安全、模型可解釋性、服務中斷應變及合約責任歸屬等面向的系統性稽核機制。專家指出，一旦 AI 供應商發生資安事件或模型失效，醫院往往處於法律與臨床責任的模糊地帶。此議題呼應去年多國監管機構陸續要求強化 AI 醫材上市後監控的趨勢，對醫院資訊部門建立 AI 供應商管理框架、制定合約標準及風險評估流程具有直接參考意義。此則報導為今日（2026-08-23）最新發布。",
+      "tags": [
+        "AI供應商風險",
+        "醫療監管",
+        "資安治理",
+        "數位轉型"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-08-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWjQta3o3MzFGbU9MXzIxekp2ajZ3VnpHRGNYWWhFMFVYTTNWc2pGcUdDeVpmNFBuQ2lueDZsT3JLb3VtTUJick42bnRZSlFfcU5XaWhzZ05ZZzNNU3J0Rm5uOEp2YnVIX2J3NzVBaFMtcThYM2ZqMm5nVEY4ajlXZzgyVk9wNzdnUnlGbXlWUFRKMUNuVVozdg?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 6.5,
+      "title": "Epic FTC 反壟斷調查與 AI 代理人工具發布並行，牽動 EHR 生態系走向",
+      "summary": "MedCity News 報導，Epic 本週同時面臨美國聯邦貿易委員會（FTC）反壟斷調查，以及在年度用戶大會上大規模發布新一代 AI 工具的雙重壓力。Epic 推出的 AI Agents（代理人平台）旨在自動化繁瑣的臨床與行政工作流程，涵蓋病歷摘要、訊息回覆、排程優化等功能，被視為 EHR 系統邁向「自主化」的重要里程碑。然而，FTC 的反壟斷調查聚焦於 Epic 在健康資料互通及合作夥伴生態系中的市場支配地位，可能影響其未來 AI 工具的定價策略與開放性。對於大量採用 Epic 系統的醫療機構而言，此發展值得密切關注，以評估 AI 功能採購的長期策略風險。",
+      "tags": [
+        "Epic",
+        "AI代理人",
+        "EHR",
+        "反壟斷"
+      ],
+      "author": "未標示（MedCity News｜2026-08-22）",
+      "source_url": "https://medcitynews.com/2026/08/epic-ftc-agentic-ai/"
+    },
+    {
+      "rank": 4,
+      "score": 5.5,
+      "title": "台灣新創安圖斯進軍新加坡智慧醫療市場，加速 AI 落地應用",
+      "summary": "據富聯網報導，台灣興櫃上市公司安圖斯宣布切入新加坡智慧醫療市場，積極推動旗下醫療 AI 解決方案的國際化布局。新加坡作為東南亞醫療科技重要樞紐，其高度數位化的醫療環境與政府對智慧醫療的政策支持，成為台灣醫療 AI 廠商拓展海外市場的優先選擇。安圖斯此舉顯示台灣本土醫療 AI 產業正持續尋求跨境商業化路徑，亦反映出東南亞地區對 AI 輔助診斷與醫院管理工具的需求持續升溫。此一發展對關注台灣醫療 AI 產業生態及國際合作機會的醫療機構與數位轉型團隊具備背景參考價值。",
+      "tags": [
+        "台灣醫療AI",
+        "智慧醫療",
+        "國際化",
+        "新加坡"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-08-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTWx0Nlo2Sk9vOHRCN0pxQzY5Z3VWbTZ5T3dtMjVDVy1BQUk5WXI1TmVYeDFzbGJBVlVHLU9VMS1HWEw1MndRa2N2cC1la3lkU3hKZmdNaE05QlhaNFFzeXVIRG45MGpjRGF1Zzc5ZU9fdkhEMFN1OVBpQVUySzIxdlRYaDU4SWx0?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 4.5,
+      "title": "醫療 AI 企業擬在 Marshall 大學 IDEA 創新園區設立據點，推動產學合作",
+      "summary": "美國西維吉尼亞州 WOWK 13 新聞報導，一家醫療 AI 公司計劃在馬歇爾大學（Marshall University）IDEA 創新區設立營運據點，藉此深化產學研合作並拓展在地醫療科技生態系。IDEA 區作為馬歇爾大學推動創新創業的核心平台，吸引多家生技與數位健康新創進駐。此次醫療 AI 公司的加入，預計將帶動當地醫療機構在 AI 工具研發與臨床驗證方面的合作機會，並為大學醫院體系提供更直接的技術轉移管道。雖然此則新聞規模較小，但反映出醫療 AI 企業持續尋求與學術醫療中心建立緊密夥伴關係的產業趨勢。",
+      "tags": [
+        "醫療AI",
+        "產學合作",
+        "創新生態系",
+        "數位健康"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-08-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORVBhQy10M0Z1a29xRkliaDJZOUx3czNiSzM4bmhfTFd4WW95eU9GcUwzcm1JYWJ6NVYteU16d3BIUEZOTjlIcndmRFMtTl9ZSms5NVhEYlNpU0EzZXBlbWJTYTRaUDlfSHBxTUJRYzJUdVhMR3dGcktJa2E3RXpUQTNwcHFJWllMeEkxTDc4Mi1qZlhwLUpkbnNjeXB5c1Z4Rmg2YWJ1YXh1OGF0V1Byb0dNdTRCRHRValc3TEg3bjNvZ9IBxwFBVV95cUxQVG4wRXZ6bjZxck1HZDByV3JGWDgyYktDaGU4TmNUdHVTYkE5QThVVjdNQ1VnQlpvd0RicWZjZ092X3hEQmtGQ1VsQlQtdFhnNlA1VTRCMzRTNUpwSG1EWlQ2MXpFUnpZdnJzV2dFcGt1Z1VqUHZ5cEpfLW9PR01YNlBHSk11TURFZW5nX2Nvb3hSeE5JdzBlal9ZUlItTHRWczZJcll4OTZ5UFk3dzA3ZXA4akVkTEFjLUNzQlNjeWZKeWY1ZE00?oc=5"
+    }
+  ]
+}
