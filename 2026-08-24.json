@@ -1,0 +1,61 @@
+{
+  "date": "2026年08月24日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "醫療 AI 沙盒計畫指向下一個監管挑戰：自主醫療時代來臨",
+      "summary": "隨著各國政府與監管機構相繼建立醫療 AI 沙盒實驗環境，業界焦點正逐漸轉向更深層的監管考驗——自主醫療（Autonomous Medicine）的規範框架。沙盒機制原意在允許創新產品於受控環境中測試安全性與效能，但當 AI 系統開始具備在無需人類介入的情況下進行診斷或治療決策的能力，現行監管體系的適用性即面臨嚴峻質疑。文章探討現行沙盒機制能否有效承接自主醫療帶來的責任歸屬、臨床安全性及倫理問題，並指出各國監管機構若未提前制定明確的自主 AI 分級標準與問責機制，恐難以應對技術加速落地所帶來的監管真空。此議題對醫院在採購、部署高自主性 AI 系統時的合規策略具有重要參考意義。",
+      "tags": [
+        "監管政策",
+        "自主醫療",
+        "AI沙盒",
+        "法規框架"
+      ],
+      "author": "未標示（Digital Journal｜2026-08-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeTZZeVB4VHp1dFpYQjMtTVdXYXQ3V1lXdkdPaEU2N0dETUV2ejRJbnV0dGdvMC1JX2VFbWRIXy1vVlZVenVvSm03ZXZ6R0JwREJqelBNYkoxYlJ1TkF6RkYzeHJNV1BLQ3FSUnYzUlhyTjRlRGFrMFJiNHR0Z1ZvdF9lajc1M01uZW05U1VtYVc1cHZBejZUdWRCeHVqLS1ySVpmVHBLMUZ0Wkp6SFJ4RlVkdjJReHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "Cleveland Clinic 研究實證：AI 環境語音記錄系統顯著提升臨床人員留任率",
+      "summary": "Cleveland Clinic 最新發表的研究論文顯示，院內大規模導入 AI 環境語音記錄系統（Ambient Scribe）後，臨床人員的工作滿意度與留任率均出現可量化的正向改善。研究追蹤系統上線前後的醫師與護理師留任數據，發現 AI 自動轉錄與結構化病歷記錄功能有效降低文書負擔，釋放更多時間用於直接照護。在全球各大醫療體系普遍面臨人力短缺、招募成本居高不下的背景下，此研究結果為環境 AI 技術的投資合理性提供了具說服力的臨床與管理層證據。論文同時指出，醫院在評估 AI 導入效益時，應將人力資源指標（如留任率、倦怠分數）納入關鍵績效指標，而非僅聚焦於效率或成本節省，為醫院 AI 採購決策提供新的評估維度。",
+      "tags": [
+        "環境語音記錄",
+        "人力留任",
+        "臨床工作流程",
+        "AI效益評估"
+      ],
+      "author": "未標示（MedCity News｜2026-08-24）",
+      "source_url": "https://medcitynews.com/2026/08/cleveland-clinic-ai-healthcare-ambient-scribes/"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "Microsoft 醫療 AI 版圖擴張路線圖曝光：跨北美、歐洲與英聯邦的潛在併購目標分析",
+      "summary": "healthcare.digital 發布深度分析報告，全面梳理 Microsoft 在醫療 AI 與健康科技領域的潛在併購策略，涵蓋北美、歐洲及英聯邦國家的市場布局。報告指出，Microsoft 以 Azure 雲端平台、Nuance DAX 語音 AI 及 Copilot for Healthcare 為核心，正積極尋求在臨床決策支援、健康數據分析、語音轉錄及藥物研發 AI 等細分領域補強技術能力。潛在併購目標橫跨電子病歷整合、遠距醫療、影像 AI 等多個次產業。Microsoft 的市場整合動向將直接影響全球醫療 AI 供應商生態系，並可能改變醫療機構在平台選擇與議價上的籌碼。此分析對評估長期 IT 合作夥伴策略的醫院資訊部門具參考價值。",
+      "tags": [
+        "Microsoft",
+        "醫療AI併購",
+        "產業生態系",
+        "數位轉型"
+      ],
+      "author": "未標示（healthcare.digital｜2026-08-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN1dnTDFGcVoxakRkVFJWUVQwTGhFdU9xM2FxZXY3c2VyWF9mbnFvZmdVVDE3M2dSeUk2emgtLTZNS3ZxTVU3YS1kMVZ1MURkNFJKR1N0U21OUk1xWERzTVJCYjk2TnZvOVRzU2tWQU9hb3EtbHhIekROdUxLSTlTRm9rSkcwZ2c0UlppY0ZNeU5xZWU5VXFPM0drQzFkQUZjbDJ5UnVRTnNHb1F6MjNINWF2alJPZlFtcnpZZ3ViOWdKYS1uYVZzaG43OTlfU3hQb3VCdTNZVy1rWUk?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "Parkland 醫院導入 AI 預測患者暴力行為，提升院內工作人員安全",
+      "summary": "美國德州 Parkland Health 醫院正式啟用 AI 系統，用於預測住院患者可能出現的暴力或攻擊行為，以提前部署應對措施保護醫護人員安全。該系統透過分析患者的歷史紀錄、入院時的行為評估資料及即時監測指標，生成風險評分供臨床團隊參考。Parkland 為達拉斯地區重要的安全網醫院，收治大量急診及精神科高風險患者，院內暴力事件一直是管理挑戰。此應用案例代表 AI 在醫院安全管理的新延伸，也引發關於演算法偏見、患者隱私及預測性干預倫理的討論。如何在提升安全的同時兼顧公平性，將是此類系統推廣的核心議題。",
+      "tags": [
+        "院內安全",
+        "患者暴力預測",
+        "AI風險評估",
+        "醫護安全"
+      ],
+      "author": "未標示（Dallas News｜2026-08-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakJVanV5cG0wSzNDOE5JVEdsZm9jdzJZcTJkcmIwSXZpTVpMV1prUll2UV9aQ1FYdy1iSHVjWWd6NWxFY3ZySXFON08zMEhtXzVRYldsMUlxV0k1Nlk2WC1GVmVhbVU3TXpMSlR1MG5oUEo4TjRockcxRDZKM2d5NTJpb0xseGVBRVlGV2JRM2xEcERqNER2Z2x6aUZ0S2MtTF9TNnF2bHhmMF9zcE5uWmtR?oc=5"
+    }
+  ]
+}
