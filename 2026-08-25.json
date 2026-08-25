@@ -1,0 +1,117 @@
+{
+  "date": "2026年08月25日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "FDA 宣布將正式監管生成式 AI 醫療裝置，數位健康政策主管確認指引即將出爐",
+      "summary": "美國 FDA 數位健康政策負責人 Rick Abramson 公開表示，FDA 正積極研擬針對生成式 AI 醫療裝置的監管指引，預計近期發布。此訊號意味著 FDA 將把生成式 AI（如大型語言模型驅動的臨床決策支援工具）納入正式法規框架，結束過去缺乏明確規範的灰色地帶。對醫療機構而言，此舉將影響現有或計畫導入的 AI 輔助診斷、病歷摘要、臨床建議等工具的合規要求與採購評估標準。業界預期相關指引將涵蓋安全性驗證、透明度揭露及上市後監控等面向。醫院領導層與資訊團隊應提前盤點院內使用中的生成式 AI 應用，評估其是否符合即將到來的 FDA 監管要求，並追蹤後續正式指引的發布動態，以確保臨床 AI 工具的合規部署與風險管理。",
+      "tags": [
+        "FDA監管",
+        "生成式AI",
+        "法規政策",
+        "數位健康"
+      ],
+      "author": "未標示（STAT News｜2026-08-24）",
+      "source_url": "https://www.statnews.com/2026/08/24/fda-rick-abramson-generative-ai-guidances-are-coming/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "台灣推動醫療 AI 全國基建：FHIR Box 串聯跨院資料，長佳智能、遠傳電信受惠",
+      "summary": "台灣正積極推動醫療 AI 全國性基礎建設，其中 FHIR Box 跨院資料交換平台成為核心架構，旨在打通各醫療機構間的健康資料流通壁壘。此一建設方向受惠於政策推力，長佳智能與遠傳電信被點名為主要受益廠商。FHIR（Fast Healthcare Interoperability Resources）標準的全面導入，將使不同醫院系統間的患者資料能夠標準化串聯，為 AI 模型的訓練與臨床部署提供更完整的資料基礎。對醫療體系而言，此舉不僅攸關資料互通性的技術升級，也將影響未來 AI 應用的跨院協作模式與資料治理策略。此波全國性基建投資也反映台灣政府將醫療 AI 列為數位轉型重點政策的決心，對醫院資訊部門的系統升級規劃具有重要參考意義。",
+      "tags": [
+        "醫療資料互通",
+        "FHIR",
+        "台灣醫療AI",
+        "跨院整合"
+      ],
+      "author": "未標示（理財周刊｜2026-08-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZY3lEMWU3LXdoUjVlYzNwc2MwWFVDMWNTZGZoWTNPdmZUUGdycDQ0VElhQWxQeXBoT3NqNE9ELXB1QTNXVW40dXBBT19uaFdaZ2N4aXBUSlUtVHJtLUZMc043TEc5YXFBY1BDMTd5NA"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "美國初級醫療缺口擴大，AI 能否扮演「數位版私人醫生」角色？",
+      "summary": "美國初級醫療人力持續短缺，促使各界探討 AI 能否填補這一結構性缺口，扮演「數位版私人醫生」的角色。隨著大型語言模型與臨床 AI 工具的快速演進，部分新創公司已開始提供 AI 驅動的初級保健諮詢服務，涵蓋症狀評估、慢性病管理及用藥指導等功能。支持者認為 AI 可大幅降低就醫門檻，讓資源匱乏地區的民眾獲得更及時的醫療建議；然而批評者指出，AI 仍無法完全替代醫師的臨床判斷與人際關懷，且在資料隱私、責任歸屬與醫療品質把關方面存在重大挑戰。此議題對台灣亦具參考價值，面對偏鄉醫療資源不足與人口老化壓力，如何善用 AI 擴大醫療服務覆蓋率，同時維護照護品質，將是醫院領導層與政策制定者須共同面對的課題。",
+      "tags": [
+        "初級醫療",
+        "AI醫師",
+        "醫療可近性",
+        "數位轉型"
+      ],
+      "author": "未標示（TechNews 科技新報｜2026-08-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RaHZaRk1NdVE5bVVBVUFZWUFleGF1bDIxUG9HekE1TlQtaW5KQkJTZjNZUkEtSVFRdExaTGZFRFF2YU9zREh2RnV3alIzWEQ1WUc4S3hLZUVFRDVNUmdUdFFIaEp0VWZqaDlnR0l5d3FTR25QdE5fblpUSVl5dw"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "英國基層醫師示警：AI 生成的醫院出院信函出現不準確內容，引發病患投訴",
+      "summary": "英國全科醫師（GP）領導團體發出警告，指出醫院採用 AI 自動生成的出院摘要信函中出現不準確資訊，已引發病患投訴。這些信函由 AI 系統依據住院紀錄自動撰寫後發送給患者或轉介的基層醫師，但部分內容存在事實錯誤或遺漏關鍵臨床資訊，恐影響後續照護決策。此案例凸顯生成式 AI 應用於臨床文件生成時，人工審核機制的不可或缺性。對正在或計畫導入 AI 環境語音記錄或自動病歷摘要功能的醫院而言，此事件是重要的風險警示——AI 輸出必須建立完善的醫師複核流程與品質管控機制，才能確保患者安全與醫療責任的清晰歸屬。",
+      "tags": [
+        "生成式AI",
+        "臨床文件",
+        "病患安全",
+        "AI品質管控"
+      ],
+      "author": "未標示（Pulse Today｜2026-08-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYWJ5ZmZ4TlpGMFNZOWRUemhCcV91RF8wTWdTWmM5UXVVSkk0dHhRem5OTEh4b1JfbFZLbTZvQmpHQm4yektXOV9tcFBlTmd5czB4Z09hT2FnWkFZUDB6LVo1dno2RndGTTc0U1RmSDZ3UkxuOWp1Yk02WWh0SW1Wc3lXMWVYN0FkMlhYU0xJV3RSb3d3MWM1MktDeHpJLWl5YUF6MG5LTGZLcDFzT3FZNVJFQWdJMlpSOEJNdDIzUm1iY3ZjREZN"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "醫療 AI 信任重建的關鍵：從技術落差轉向信心建立",
+      "summary": "兩篇來自 HealthLeaders Media 與 Healthcare Today 的評論文章，從不同角度探討醫療 AI 推廣的核心障礙。前者聚焦於如何在 AI 應用大規模推進後重建臨床人員與患者對 AI 工具的信任，指出透明度、可解釋性與問責機制是關鍵；後者則指出醫療界的 AI 落差並非源於技術不足，而是臨床人員對 AI 工具缺乏使用信心。兩篇文章共同揭示：技術本身已不是最大瓶頸，組織文化、教育培訓與溝通策略才是決定 AI 能否真正融入臨床實務的核心變數。對醫院領導層而言，在推動 AI 導入的同時，應同步規劃人員培訓、建立 AI 使用回饋機制，並強化與臨床一線的溝通，方能有效縮短 AI 工具從採購到真正落地使用之間的落差。",
+      "tags": [
+        "AI信任",
+        "臨床導入",
+        "組織文化",
+        "數位轉型"
+      ],
+      "author": "未標示（HealthLeaders Media｜2026-08-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ05zbWxHaUF5d2xmeFlvUkxZV1hyRzRWUzZaWjNNR1ZwZE11VlFMSU14b0FrZXlsNnNQM1d0SFlsX1FrUFlxamNDNFlvR25mYmNjRnNkbmM0R3lSTlhhaElLWWpna0NGTS1UY0NLT0E4dUlGZGwwYUttRHNObXZVRHZXVDZFT2dhZmp4TmctSHo2UXp2ZGNsdUloQUhnTmdLQkFGZHMtNnJudjBiVm1zX1B6UnZWblE?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "2026 風傳媒 AI 醫療領航大獎揭曉：AI 從預防、治療走向全台整合新里程",
+      "summary": "2026 年風傳媒 AI 醫療領航大獎正式揭曉，本屆得獎作品展現台灣醫療 AI 應用已從單一疾病預防或治療工具，進一步邁向跨機構、跨系統的全台整合應用新階段。得獎案例涵蓋智慧影像判讀、慢性病管理、急診預警及遠距醫療等多元領域，反映台灣醫療 AI 生態系的多元發展與落地深度。此獎項每年匯聚台灣醫療 AI 領域的代表性創新案例，具有產業風向標意義。對醫院領導層與數位轉型團隊而言，得獎案例的應用模式與成效數據，可作為規劃自身 AI 導入策略的重要參考依據，亦有助於掌握台灣醫療 AI 整體發展脈絡與未來趨勢方向。",
+      "tags": [
+        "台灣醫療AI",
+        "智慧醫療",
+        "創新應用",
+        "產業趨勢"
+      ],
+      "author": "未標示（風傳媒｜2026-08-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aNjVrLWNfOTNRN3ExcGZYZWVFbUg5Q2ZqMVZHeDhQR3NhUGNqRVdOZk9CckF1SExlV3N2Ym1LOV9YN1I5UmhWem9pVXN1Zw?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "放射影像 AI 八月最新進展：2026 年診斷影像 AI 技術突破回顧",
+      "summary": "diagnosticimaging.com 發布 2026 年 8 月份放射影像 AI 最新進展彙整，涵蓋本月影像辨識演算法升級、臨床驗證研究成果及新型 AI 輔助診斷工具的應用動態。放射科 AI 持續在胸部 X 光、腦部 MRI 及乳房攝影等領域取得進展，部分研究顯示 AI 在特定任務上已達到或超越放射科醫師的診斷準確率。此外，AI 工作流程整合工具的成熟度持續提升，有助縮短影像判讀等待時間並降低漏診率。對醫院放射科及影像醫學部門而言，定期追蹤此類技術進展彙整，有助掌握影像 AI 市場動態、評估現有採購方案的競爭力，以及規劃下一階段的設備與軟體升級時程。",
+      "tags": [
+        "放射影像AI",
+        "診斷影像",
+        "影像辨識",
+        "臨床驗證"
+      ],
+      "author": "未標示（diagnosticimaging.com｜2026-08-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CSGdFampGZGdRN2VLZnp2ZnpYS0NRLWljTUhuR1EydXZLVjRZWUs0bWI0OWpQOTZwSDVkMkZvMGlLb0tGQ08wckRmLXNYVGM1SXJRbHZOYlFMYjI3WS1WekZiOXk3a3U5amlwUURsLVFOOVE?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "台灣行政院長宣示：加速 AI 驅動藥物研發、數位醫療與生技產業國際布局",
+      "summary": "台灣行政院長卓榮泰於 2026 年生技展覽相關活動（BTC）上宣示，政府將持續推動 AI 驅動藥物研發、數位醫療及藥物韌性整備，並強化台灣生技產業的國際競爭力。政府明年整體科技預算預計成長 12.7%，顯示對醫療 AI 與生技領域的高度重視與財政承諾。此政策方向不僅為醫療 AI 新創與廠商提供明確的發展信號，也意味著公立醫療機構未來可能獲得更多資源支持數位轉型與 AI 導入計畫。對醫院體系而言，掌握政府資源分配重點與產業政策走向，有助於在申請補助、遴選合作夥伴及規劃長期 AI 策略時，做出更符合政策方向的決策。",
+      "tags": [
+        "台灣政策",
+        "數位醫療",
+        "AI藥物研發",
+        "生技產業"
+      ],
+      "author": "未標示（經濟日報｜2026-08-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CWGZSNzdCazd5TGlhR2xLaHlvS3BjeHhqM28zYzVRR0RXbUlNX1l6eElLWFZNa2pmVU9scmJGY2ZJTS1NVFBVRndSRDE3MkUwcEIxeXBmYzdxOU1aN1gwSG96bURjb2RhSHR4YThLdTI1OFBkX2Qw?oc=5"
+    }
+  ]
+}
