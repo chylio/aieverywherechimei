@@ -1,0 +1,117 @@
+{
+  "date": "2026年08月26日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "醫院 AI 藥品竊盜偵測：技術有效但人機協作缺一不可",
+      "summary": "STAT News 深度報導指出，AI 藥品流向監控軟體（如 ControlCheck、Sentri7）在協助醫院偵測管制藥品遭竊或員工濫用方面表現出色，但其有效性高度依賴人員的主動介入與後續行動。報導指出，若醫院未建立完善的追蹤流程與問責機制，AI 標記的異常事件往往被擱置而未獲調查。部分機構導入工具後，因人力配置不足、警示疲勞或內部文化阻力，導致偵測成效大打折扣。專家強調，AI 工具應視為輔助而非取代藥事稽核人員，醫院需同步投資人員訓練與流程改造，才能真正發揮藥品安全防護效益。此議題對台灣各醫院藥事管理與 AI 工具導入策略具高度參考價值。",
+      "tags": [
+        "藥品安全",
+        "AI監控",
+        "人機協作",
+        "醫院管理"
+      ],
+      "author": "未標示（STAT News｜2026-08-25）",
+      "source_url": "https://www.statnews.com/2026/08/25/ai-drug-diversion-software-human-oversight-controlcheck-sentri7/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "新加坡樟宜醫院攜手 IBM 打造全球首個 AI 驅動兒科大量傷患應變系統",
+      "summary": "新加坡樟宜綜合醫院（Changi General Hospital）宣布與 IBM 合作，共同建置全球首個以 AI 為核心的兒科大量傷患事件（Paediatric Mass Casualty Incident, MCI）應變平台。該系統將整合 AI 預測模型與即時資料分析，協助急診與兒科團隊在災難或大規模緊急事件發生時，快速進行傷患分類、資源調度與治療優先排序，提升兒科緊急醫療的應變速度與精準度。此合作案為亞太地區智慧急診管理樹立新標竿，也顯示 AI 在高壓、高風險臨床情境下的實際應用潛力。對台灣各醫學中心急診部門及災難醫學規劃者而言，此案例具重要的跨院與跨國學習參考意義。",
+      "tags": [
+        "急診醫療",
+        "兒科",
+        "大量傷患應變",
+        "AI臨床應用"
+      ],
+      "author": "未標示（FutureCIO｜2026-08-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVjIwUG9NWU9XUGM1TF9vWGFPdkVoT0xSdGQ5ckRRa1o1OUJBUjB2dldXSEVIQXpobzBiSVFialc4a1hzWGE3RmdyZGxtRnoxekhId1dUdkFKZTVIaVRaYzZqRXUzOWV6LWVxRUNZNjNQeGdoYmM5WkZDb05vN01PZEg3M2ZHcXhULW8ySFJTVXEwUmtxdG1JRm5EYkVzZDg2NlZXRGNCVnVXdXJqd2FWMGg3dGtkWVMzSFdB?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "亞東醫院數位醫療全球排名躍升第7，AI 深化智慧照護應用",
+      "summary": "台灣亞東紀念醫院在最新全球數位醫療評比中躍升至第 7 名，成為亞太地區表現最突出的醫療機構之一。報導指出，亞東醫院近年積極推動 AI 融入智慧照護流程，涵蓋臨床決策支援、護理照護智能化及數位轉型基礎建設等多個面向，並持續深化與科技產業的合作夥伴關係。此一排名不僅彰顯台灣智慧醫療發展成果獲國際認可，也為國內其他醫療機構提供標竿學習案例，顯示以資料整合與 AI 應用為核心的數位轉型策略，可在短期內大幅提升醫院整體競爭力與照護品質。",
+      "tags": [
+        "智慧醫院",
+        "數位轉型",
+        "台灣醫療AI",
+        "國際排名"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-08-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNdEZ4cDZRd2ZGYnVZTkxYR2lxNmkyU212Z196VG9OWjY2MkdSNGk2bmxBQ3VpZ205RUItQVdQS1VlWW83TXF4V2NWSkgtRlVEY09zTXhVVDgtbExiU2RsRFl6RktmQlMwVEF1dVZpcEcxU1Z5M0g2NmFNY1dMdEpKcV96YldnV2JUR2paWVlGRU5INmFHYTUzaWRrSWFSbXhWZmY1Z25XcmUyMklVUDNSRnJkSTZ4NlVEU2NMLU1jcHpTeC1CSzZSallUNkpUd0cyYlc5aUFLRFV5Vm1aRHpQZnNNeFBTUW9WWEJiVmRBTG9LRkpfV21yYVhKSEdIOURnRVRhbkdPZ2NMN0xUTzNURXZVdzBkZS1pTkMtSEJxV09FWkhDYVRYTlRxVUt0SDkxekpRV1lCOEkzanJRazV3enRHMlRxQ0g1RXBUTmNobVE5UklL?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "醫療 AI 導入前必讀：CFO 應向供應商追問的 7 大核心問題",
+      "summary": "MedCity News 刊載一篇針對醫療機構財務長（CFO）的 AI 合約評估指南，聚焦於收益循環管理（Revenue Cycle Management）領域的 AI 投資決策。文章列出 7 大關鍵問題，涵蓋績效指標定義、資料所有權歸屬、合約終止條款、供應商財務穩健性、整合技術成本、合規責任分配及 ROI 驗證機制等面向，並特別警示多數供應商的銷售簡報刻意迴避潛在風險與隱性成本。文章強調，醫療機構在承諾預算前應進行獨立盡職調查，避免陷入長期鎖定效應。此指南對台灣醫院在評估 AI 系統採購及合約談判時，具有實務操作層面的直接參考價值。",
+      "tags": [
+        "AI採購",
+        "醫療財務",
+        "風險管理",
+        "收益循環管理"
+      ],
+      "author": "未標示（MedCity News｜2026-08-25）",
+      "source_url": "https://medcitynews.com/2026/08/before-you-sign-that-ai-contract-7-questions-every-healthcare-cfo-should-ask/"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "泰國新創 Perceptra 進軍國際，AI 醫療影像篩檢拓展區域市場",
+      "summary": "泰國醫療 AI 新創公司 Perceptra 宣布將其 AI 醫療影像分析解決方案推向國際市場，主要目標為強化亞太區域的患者早期篩檢能力。該公司聚焦於胸部 X 光與眼底影像的 AI 輔助判讀，已在泰國累積臨床實績，此次國際化策略旨在填補資源有限地區的放射科醫師缺口，並透過低成本部署模式協助開發中國家提升診斷覆蓋率。此案例呈現亞太區醫療 AI 新創走向跨境商業化的趨勢，也反映區域內對可負擔、可規模化 AI 診斷工具的強勁需求，對台灣醫療 AI 業者評估東南亞市場布局具有參考意義。",
+      "tags": [
+        "醫療影像AI",
+        "亞太市場",
+        "新創國際化",
+        "早期篩檢"
+      ],
+      "author": "未標示（Business Insider Markets｜2026-08-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNb1VsZTNEclU2Z1ROX0thUTZnUm0yYW9VWHdjSVM2QkNUZ0IyMHlHNVlDZ1RQbjJaVWZoU29fMlB0TnVtaDgydVpqcG5yRGozWWt4dkpjNW4yb09QUVNPQUF1WE5qUjhMR0VsUEJobVFtLXRySGxnTW4yV2h6M0c1X1pSUjJpUGcySU5vbFdfLXlaSEFSRFlqaURNQjVBY1lUWkRFRHE2MmpiUGpYVWlQeWljR2tDcHNMdVRMMFFVRGF4TnhVWW9BNW1nenFzS3FHcEZCSnJBbjJfUlk2azRtVEtlSWR6ZlFmb0g3UHFnRFM5NEcyOUl3?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "Oura 智慧戒指睡眠追蹤精準度遭集體訴訟，AI 估算與臨床標準的鴻溝引發信任危機",
+      "summary": "美國一起針對 Oura 智慧戒指的集體訴訟案正在引發業界廣泛關注。原告指控 Oura 誇大其睡眠追蹤功能的準確性，主張該裝置實際上依賴 AI 演算法生成的估算數值，而非符合臨床標準的多導睡眠生理檢查（PSG）測量，導致消費者對睡眠分期的判讀產生誤解。此案重新引燃外界對 AI 健康穿戴裝置「宣稱效能」與「實際臨床效度」之間落差的辯論，並凸顯目前監管框架對消費級 AI 醫療裝置準確度聲明的規範模糊地帶。此案對評估採購 AI 穿戴健康裝置的醫療機構及政策制定者均具警示意義。",
+      "tags": [
+        "穿戴裝置",
+        "AI準確性",
+        "法規監管",
+        "消費者信任"
+      ],
+      "author": "未標示（MedCity News｜2026-08-26）",
+      "source_url": "https://medcitynews.com/2026/08/oura-wearable-ring-lawsuit/"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "中醫大附醫「愛寶」生成式 AI 機器人奪下 HIMSS APAC 首屆 AI in Action 競賽冠軍",
+      "summary": "台灣中國醫藥大學附設醫院自行研發的生成式 AI 衛教機器人「愛寶」，在 HIMSS APAC 首屆 AI in Action 國際競賽中榮獲冠軍，為台灣智慧醫療再添國際認可。愛寶系統結合大型語言模型與醫療知識庫，能以自然語言回應患者衛教問題，並在先前測試中達到 99.9% 的正確性與忠實度。此次獲獎不僅彰顯台灣本土醫療 AI 研發實力，也代表生成式 AI 在臨床患者溝通與衛教場域的落地應用已獲國際評審認可，對台灣各醫院發展自主 AI 醫療服務工具具有重要激勵作用。",
+      "tags": [
+        "生成式AI",
+        "台灣醫療AI",
+        "患者衛教",
+        "HIMSS"
+      ],
+      "author": "未標示（蕃新聞｜2026-08-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTYTJOc0VqTFFsMEZKU2gxaU1LeEFMRFM4X0VmdlNHQUdKdDJRWEpIaG9qaHdiS05RVlI4bnNIclVleU41dHhHaTBaSWV6UHV4T3c?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.0,
+      "title": "醫療 AI 導入的三大風險：阻礙醫療機構加速採用的核心障礙剖析",
+      "summary": "Chief Healthcare Executive 刊載觀點文章，系統性分析當前阻礙醫療 AI 廣泛落地的三大核心風險：其一為資料品質與互通性不足，導致 AI 模型訓練偏差或無法跨系統部署；其二為臨床人員對 AI 輸出的信任缺口，尤其在高風險決策情境下顯著影響採用意願；其三為監管與責任歸屬的不確定性，使醫院法務與合規部門對 AI 工具的採購與使用保持觀望態度。文章主張，唯有同步解決技術、文化與法規三個層面的障礙，醫療 AI 的潛在價值才能真正轉化為臨床效益，對各醫院制定 AI 導入策略具直接參考價值。",
+      "tags": [
+        "AI風險",
+        "醫療AI治理",
+        "臨床採用",
+        "法規合規"
+      ],
+      "author": "未標示（Chief Healthcare Executive｜2026-08-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTmdoYm1YNGIyYUJKY0lhSEY4OHBoamxUUksyZm11a0ZFcEZyMjZUa1l6MUY3UDhUQzZfWGRUZFR0Q3FVT0pqaGVrSFRzTjNYWENYaEZiQkZyLUx2bGpsUEFDM3R2Z0pkMlBQTi1lQUJITXlneUV4d2pJLThXQ0JUQXZtY3l6dW1rVDJMYmdWX0I3NWZCR0VOa2FxbU5Salk?oc=5"
+    }
+  ]
+}
