@@ -1,0 +1,145 @@
+{
+  "date": "2026年08月27日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "AI 臨床決策支援軟體新監管現實：數位健康與生命科學法規解析（上）",
+      "summary": "隨著 AI 驅動的臨床決策支援（CDS）工具在醫療機構快速普及，美國監管機構對此類軟體的法規定義與分類標準正在發生根本性變化。本文為系列報導第一部分，深入剖析 FDA 對 AI CDS 軟體的最新監管框架，包括哪些工具屬於醫療器材管制範疇、哪些可豁免，以及數位健康業者與醫院採購部門應如何因應新監管現實。文章指出，生成式 AI 工具的崛起使傳統「非器材性 CDS」豁免條款面臨挑戰，監管邊界日趨模糊。對於正積極評估或已導入 AI CDS 的醫療機構而言，理解合規義務、供應商資質審查及風險分配機制已成為當務之急。本報導為醫院法務、資訊與臨床治理團隊提供重要的政策背景參考。",
+      "tags": [
+        "臨床決策支援",
+        "法規監管",
+        "數位健康",
+        "AI治理"
+      ],
+      "author": "未標示（JD Supra｜2026-08-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeVAyM3huYzBXXzNES19faGdQcEFKNXVNaF82LVo4eGJ0VTFaR1BsY2J0UEZNOHdZLWt3NXhLYVl4cW0wTTRYT3VMUnkzUVcwcjBCeWlkb3AySUpMNHVhRFduMzB3cHdIUkR2WUpCQXRCQnZXUEJyd2QtZHEwXzZNdkppc0ZMbUU"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "打造台灣自主多模態醫療 AI 國家能力：政策藍圖與戰略布局",
+      "summary": "工商時報報導，台灣正積極推動建立本土多模態醫療 AI 國家能力，從政策層面整合影像、語言、基因組等多元資料模態，目標打造具自主性的醫療 AI 基礎建設。相關倡議涵蓋醫療資料標準化、跨院資料共享平台建置、以及大型語言模型與影像 AI 的本地化訓練。報導強調，在全球 AI 醫療競爭激烈的背景下，台灣若能整合半導體優勢、臨床資料豐富度及生技研發能量，有望在特定垂直應用領域建立差異化競爭力。此一國家層級戰略對本土醫療機構、AI 新創及國際合作夥伴均具有深遠影響，也為醫院數位轉型團隊評估未來技術路徑提供政策座標。",
+      "tags": [
+        "台灣醫療AI",
+        "多模態AI",
+        "國家政策",
+        "數位轉型"
+      ],
+      "author": "未標示（工商時報｜2026-08-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tZkxVejFnTW9QcHFzTS02bDJUelM2Y3JUMzVOSDJXQllOT05iOUZZQkN0dFAyTTZzSWd1QnRxTFBJTEdGTmV4dVZlVFhCVkt6eVo3cUpjeFBiYTZBREhn"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "醫療 AI 跨院應用的關鍵突破：資料標準化帶來三大照護效益",
+      "summary": "健康醫療網報導，隨著醫療 AI 工具在台灣各院所逐步落地，如何實現跨院應用已成為提升效益的核心課題。報導指出，資料標準化是打通院際 AI 應用壁壘的關鍵，唯有建立一致的資料格式、語意標準與交換協定，AI 模型才能在不同機構間具備泛化能力。文章歸納三大核心效益：一、提升診斷一致性，減少跨院判讀落差；二、加速模型訓練與驗證，縮短新功能上線週期；三、強化照護連續性，尤其在轉診與出院後追蹤場景中效果顯著。對於正推動院際 AI 協作或評估資料治理架構的醫療機構，本文提供具體的政策思考方向，與台灣 FHIR Box 基礎建設發展方向高度契合。",
+      "tags": [
+        "跨院AI",
+        "資料標準化",
+        "照護連續性",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（健康醫療網｜2026-08-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pSTk2WE05dXY5NDltOENxTWs3enNIbngxX1puWldiYlpmOEFUU3R4eHIxaWNVWThQMGVxQzljOHpSYnFCdTVxeFpqM1V4T2pMS090V053"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "Waystar 發布自主代理 AI，全面接管保險申報、拒付處理與文件作業",
+      "summary": "醫療收入循環管理平台 Waystar 宣布推出代理式 AI（Agentic AI）解決方案，將自主執行保險理賠申報、拒付案件處理及臨床文件整理等高度重複性行政任務。相較於傳統 AI 輔助工具，代理式 AI 可在無需人工逐步確認的情況下完成多步驟工作流程，大幅壓縮行政人力成本並縮短給付周期。Waystar 表示，此系統可整合現有 EHR 與帳務系統，並內建稽核軌跡以維持合規透明度。此一發展標誌著醫院行政 AI 從「輔助建議」演進至「自主執行」的關鍵轉折，預期將對醫療機構的人力配置、供應商採購策略及收入管理流程產生深遠影響，也引發業界對 AI 自主決策邊界與監管責任的討論。",
+      "tags": [
+        "代理式AI",
+        "醫療行政",
+        "收入循環管理",
+        "自動化"
+      ],
+      "author": "未標示（The Next Web｜2026-08-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTklSNGhlZWtPV2prSElQajFhR3FpdUU3ZnVpM19iTkJBbGF4NWFHMUFseFNaSk9ldGZHbldwNjlBSTE3T1hGeEZnSkNQdTBheEhqenlrSVNwZVZnUS02Y0lZWExaQ2V2NDFLWkJaRHZ3cnJwdEprU24yblZORVpYM1VfcHhkeW0ya2J3Q0loWjUzeGM"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "國科會盤點台灣智慧生技政策進展：醫療資料、AI 新藥研發與場域驗證三軌並行",
+      "summary": "iThome 報導，國家科學及技術委員會近期公開盤點台灣智慧生技政策執行進度，涵蓋醫療資料基礎建設、AI 新藥研發加速及臨床場域驗證三大主軸。在資料面，國科會強調醫療資料的去識別化、聯合學習及跨院串接進展；在新藥研發面，AI 輔助分子設計與臨床試驗優化已有具體合作案例；在場域驗證面，多所醫學中心正與新創業者共同推進 AI 工具的真實世界評估。整體政策架構顯示，台灣正從資料累積階段邁向應用落地與國際競合階段。此一政策進展對有意參與國家級 AI 醫療計畫的醫院體系及數位轉型團隊具有直接參考價值。",
+      "tags": [
+        "台灣AI政策",
+        "AI新藥研發",
+        "國科會",
+        "場域驗證"
+      ],
+      "author": "未標示（iThome｜2026-08-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BYkNBRkJBQjlWZm5jVDB6Znh2MmpxdFFNbEFPaEZfU1ZRcmN6aWh3aU05S2FzZ09ueU1wVk9QdW9GN3diUlRtN0o3QnJxZw"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "高醫 AI 治理與數位轉型成果獲 EMRAM S7 最高殊榮，台灣醫院再度登上國際舞台",
+      "summary": "高雄醫學大學附設中和紀念醫院（高醫）近期獲得醫療資訊與管理系統學會（HIMSS）電子病歷採用模型（EMRAM）Stage 7 最高等級認證，成為台灣醫療數位轉型在國際舞台的最新標竿。EMRAM S7 代表醫院在電子病歷整合、臨床決策支援、資料分析與 AI 應用治理等面向均達到全球頂尖水準。高醫此次獲獎，被視為其長期投入 AI 臨床應用、資料安全與智慧醫療基礎建設成果的具體肯定。對於同樣推動數位轉型的醫療機構而言，此案例提供了 AI 治理成熟度評估與國際認證策略的重要參照，也凸顯台灣智慧醫療整體競爭力在國際同業中持續提升。",
+      "tags": [
+        "EMRAM",
+        "數位轉型",
+        "AI治理",
+        "台灣智慧醫療"
+      ],
+      "author": "未標示（PChome Online 新聞｜2026-08-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2I4dWhuQlZQQjJVYU90enlpeGg5ODVFOGJRWVJNQkExcENfMW44NllDLWJ1WEFPcFV0eXoxZWJxeG5hQXd4cmJZWEktNDNsNnktaVVLU0tfcklibVhBUG5qU0pwb3p4RTZGSjdkazNCWnItV2w1SGF4dTBwZzRXWFA4bmZMZ0pDZFQyOUpIWkF1Mjc4TVJCMA"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "Gartner 預言：AI 將使醫院傳統庫存盤點作業走入歷史",
+      "summary": "市場研究機構 Gartner 發布最新預測，指出 AI 技術在未來數年內將從根本上顛覆醫院物資庫存管理模式，使耗時且易出錯的人工盤點作業逐步淘汰。透過電腦視覺、物聯網感測器與預測分析的整合，AI 系統可實現耗材、藥品與手術器械的即時動態追蹤，並自動觸發補貨流程。Gartner 強調，此一轉變不僅可大幅降低庫存短缺與過剩成本，更能釋放護理與後勤人員的時間用於更高價值的照護任務。對醫院供應鏈與資訊部門而言，此預測提示了智慧庫存系統採購與整合的迫切性，也為評估 AI 投資報酬率提供了量化思考框架。",
+      "tags": [
+        "醫院供應鏈",
+        "AI自動化",
+        "庫存管理",
+        "Gartner"
+      ],
+      "author": "未標示（Gartner｜2026-08-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU2xuVHZVZVdfV1Z4bXFvdFFFT28xNjZyZl9hTExUZ3YtN3lRYjl2SHZWN1NuZWlvWU5tc2VMVjF2WXhzRmRUX0dVTGdGcWpOMVlGd2xSNjlQWjlFelVDUGpqRXNSQUlLLXplaWlBa3cxQzJFemwtdElEYU1VaTExd3FyZExoQm55YTFCaGpkbVVIYzlFdlhWNDllMk1NdlcyRktJc0JJbWNEUkNmXzhDZkVtZVhQd2JMc0l5TGxlUTJDWVZmWWhtbQ"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "Radiology Partners 以 10 億美元收購 Everlight Radiology，AI 遠距放射影像全球整合加速",
+      "summary": "美國最大私人放射科醫師集團 Radiology Partners 宣布以 10 億美元收購澳洲領先的遠距放射影像服務商 Everlight Radiology，此交易被視為 AI 輔助遠距放射影像領域全球整合的里程碑事件。Everlight 在亞太地區擁有廣泛的放射科網絡與 AI 影像判讀工作流程，此併購將使 Radiology Partners 大幅擴張國際覆蓋範圍，並加速 AI 輔助報告工具在跨時區、跨區域的規模化部署。分析指出，此類大型整合交易反映出放射影像市場對 AI 驅動效率提升的高度期待，也預示遠距放射服務將進入寡頭競爭格局。對醫院放射科規劃遠距判讀或 AI 導入策略的決策者，此交易提供了重要的市場走向參考。",
+      "tags": [
+        "放射影像AI",
+        "遠距放射",
+        "產業整合",
+        "併購"
+      ],
+      "author": "未標示（AuntMinnie｜2026-08-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSTR3a1NIbldvTDhoME1ZZklRdldKOG1nX0Q5VEZmb3VKanFEZ1JVeW81LTdoczdoTmxDLUxnam96ZkI5MmlPSElxMHJmTWJET1g5RFRkQmFuanJhd3RWemhfb09fOHRlVlJLNllhcUROQ05oM1c4MnJianF1enljWmVXRmRNc3pIVEtFOWlzcGJuT1hxM1Zab25hN0dwUGYweTl0RzZoSm9OTFVwdi1vZE95NA"
+    },
+    {
+      "rank": 9,
+      "score": 6.0,
+      "title": "英國 QVH 醫院導入 AI 工具支援胸部 X 光報告判讀，數位健康應用再擴版圖",
+      "summary": "英國 Queen Victoria Hospital（QVH）宣布正式導入 AI 輔助工具，用於支援胸部 X 光影像的報告判讀流程。此系統可自動標記異常區域、優先排序高風險案例，並輔助放射科醫師加速出具報告，有助於縮短患者等待時間。QVH 表示，此工具將作為輔助判讀系統使用，最終診斷仍由合格放射科醫師確認，確保臨床安全。此案例呈現 AI 影像輔助工具在英國 NHS 體系落地的最新進展，也反映出 AI 胸部 X 光判讀已從研究概念進入常規臨床流程整合階段。對評估導入類似影像 AI 工具的醫院放射科及資訊部門，此案例提供了實際部署情境與治理框架的具體參照。",
+      "tags": [
+        "放射影像AI",
+        "胸部X光",
+        "NHS",
+        "臨床落地"
+      ],
+      "author": "未標示（Digital Health｜2026-08-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPajhiZWE3aE1IclhqREhlM1lXWml2RmJqOXlfT3l4UzFPYmp0NkxMYVhOdDBhN0pkZTF2RWRuWTJkTEpLWnQxOUptcHVRODVlX08tVThGdklXa2w2Y1QxUFlibW9GOEVUU0NXM1dvNGN2Qkl4X29VR0s4VG1mbEU1dzJrcEJlNjlXZlBMcGd5WWtvckNLVDM2MnRn"
+    },
+    {
+      "rank": 10,
+      "score": 5.5,
+      "title": "Insitro CEO Daphne Koller：AI 如何加速臨床試驗、重塑藥物研發未來",
+      "summary": "STAT News 刊載 AI 生物科技公司 Insitro 執行長 Daphne Koller 的深度專訪，探討人工智慧在藥物研發與臨床試驗加速中的實際應用與挑戰。Koller 指出，傳統臨床試驗設計效率低落、失敗率高，而 AI 可透過更精準的患者分層、生物標記識別及模擬實驗設計，顯著提升試驗成功率並縮短開發周期。她強調，AI 藥物研發的核心競爭力在於高品質的訓練資料與嚴謹的生物學假設，而非單純的算法規模。專訪同時涵蓋 Insitro 在機器學習結合高通量實驗平台方面的最新進展。對醫院研究部門及有意參與 AI 藥物研發合作的機構，此訪談提供了產業前沿思維的重要視角。",
+      "tags": [
+        "AI新藥研發",
+        "臨床試驗",
+        "生物科技",
+        "機器學習"
+      ],
+      "author": "未標示（STAT News｜2026-08-26）",
+      "source_url": "https://www.statnews.com/2026/08/26/biotech-insitro-ceo-daphne-koller-speeding-up-clinical-trials-ai-prognosis/?utm_campaign=rss"
+    }
+  ]
+}
