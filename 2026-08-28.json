@@ -1,0 +1,145 @@
+{
+  "date": "2026年08月28日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "倫敦醫院完成全球首例 AI 輔助腦腫瘤切除手術，神經外科進入新里程",
+      "summary": "英國倫敦一家醫院的神經外科團隊成功完成全球首例 AI 輔助腦腫瘤切除手術，此消息由《衛報》等多家國際媒體報導。術中 AI 系統即時提供影像引導與腫瘤邊界辨識，協助外科醫師更精準地切除腫瘤組織，同時降低對周邊正常腦組織的傷害風險。此次手術被視為 AI 從輔助診斷跨越至實際介入手術操作的重要里程碑，代表 AI 在神經外科的應用從術前規劃進一步延伸至術中即時決策支援。這項突破對醫院手術室 AI 整合策略具有高度參考價值，也預示著 AI 輔助外科技術的臨床驗證門檻將受到更廣泛關注，相關監管機構的審查標準與醫師培訓模式亦可能隨之調整。",
+      "tags": [
+        "神經外科",
+        "AI 手術輔助",
+        "臨床突破",
+        "影像引導手術"
+      ],
+      "author": "未標示（The Guardian｜2026-08-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSldrM0lCSVVfODk2T091ekNBdGZ6Y2RJbWg0WW5aLW5hQ21pdWtzdnZRVlcwUVJua3FVdmVJMzliSUpQcHk0eXJ4S3RnRnhnZFRGWmxGdEJaajU1WjRmV0s1ajVIcWlPazBNY2gtSm8ya0NaNUV5WG82MHJNTENqbUhvb2c2bnUtTzNmNF9NNkVZY0NCSzJVUkdnTTBDb1YyNkpxLWdpM0pHZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "AI 於乳房攝影中偵測血管鈣化以外的心血管風險，影像科擴大預防性應用",
+      "summary": "根據 Radiology Business 報導，最新研究顯示 AI 模型在分析乳房攝影（mammogram）影像時，不僅能偵測傳統標記物乳房動脈鈣化（BAC），更能辨識出其他潛在心血管風險訊號。這項突破意味著女性接受常規乳房篩檢時，AI 可同步提供心血管健康的初步評估，實現「一次檢查、多重效益」的預防醫學模式。此研究對放射科與心臟科跨科整合具有重要啟示，也為 AI 影像分析從單一疾病偵測走向全身健康風險評估提供了實證依據。醫院在規劃乳房攝影 AI 工具採購或升級時，可將心血管風險評估能力納入功能評估指標之一。",
+      "tags": [
+        "放射影像 AI",
+        "心血管預防",
+        "乳房攝影",
+        "多疾病偵測"
+      ],
+      "author": "未標示（Radiology Business｜2026-08-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcndNZ2s0Z2VabDlIM2ZtRzZUVFhvTTFENnVOQnpkMnhqOThISHV5d1I3LTNFVGpxQ3NvYks0MWxQbEljdDlYNXVyUjNDMGlkSVRkcU5QUkhtSmRjVWVnSlkyVEEyX1llSmJDdHNJemx3UWZzUUZuUGdjeXZzMEtad0pzTVlZaFJLNmNMTHRkeUJCUjVnZ2V4aXQ1emJ4MHVhbXBqTEhzekpzbjFpOG54N1I3S0xJQWE4MEtnYms2WEI?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "AI 加速英國醫院深靜脈血栓診斷，DVT 偵測效率大幅提升",
+      "summary": "英國 Chelsea and Westminster 醫院導入 AI 工具，顯著加速深靜脈血栓（DVT）的臨床診斷流程。據 The Engineer 報導，該系統透過整合影像與臨床資料，輔助醫師快速鎖定高風險患者，縮短從懷疑症狀到確診所需時間。DVT 若未能及時診斷，可能引發肺栓塞等致命併發症，因此縮短診斷延遲對改善患者預後具有直接臨床意義。此案例展示了 AI 在急症輔助診斷領域的實用價值，並說明臨床 AI 工具在提升緊急照護效率上的潛力。對於有意引入 AI 支援急診或血栓科業務的醫療機構，此案例提供了具體的臨床實證參考。",
+      "tags": [
+        "臨床決策支援",
+        "深靜脈血栓",
+        "急症診斷",
+        "AI 輔助診斷"
+      ],
+      "author": "未標示（The Engineer｜2026-08-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjlZcTF3ZzdKb3h0eklVOGZ1bHg0czM1dVA1QWM2QldQZU9IT3V0OHZFTmNsc3c2NlZ6T1dLSVFRcC1ZMllNLVZadnV2amQ2RERjdUhQc0JMZU5wcW5yaVpKemwxcU5xakRZa1hOVmd6Y0toQjlCV3Budmpaa0Z1X1Y5TF92X053aHh3MFNrckp6RXdEdUZsQXBVLUJOTzl5eDZGRA?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.2,
+      "title": "Imagenet 收購加州資料公司 Analytica，深化醫療 AI 資料布局",
+      "summary": "影像網路公司 Imagenet 宣布收購加州資料分析公司 Analytica，以強化其在醫療 AI 領域的資料能量。據 Dealroom 報導，此次併購旨在整合 Analytica 的醫療資料處理與分析能力，加速 Imagenet 在醫療 AI 應用場景的落地與擴張。隨著醫療 AI 模型的性能日益依賴高品質、大規模的訓練資料，資料公司的戰略價值持續攀升，市場整合趨勢明顯。這項交易反映出醫療 AI 產業正從單純的演算法競爭，轉向資料資產的掌控與整合競賽。對醫療機構而言，了解資料供應鏈的產業重組動向，有助於評估未來 AI 合作夥伴的資料取用能力與資安風險。",
+      "tags": [
+        "醫療 AI 併購",
+        "資料策略",
+        "產業整合",
+        "健康資料"
+      ],
+      "author": "未標示（Dealroom｜2026-08-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeXBtMFJPOEFRa09DZDBOTVZPTDJPTEZIVHNWUVRZYUtWV3BnWGlwckVFVFk0VTFqbHRkajdkU0ZyVDBLMVd1ZHZQdUhvaDVUeDBDQVN4OUJCZEpmbTBsczNsYkhlNDNUOXc1dmp3ZXZ6OXhFdjVhck1jTElROGlGRHFNSnFDRld6Z0J0RGdobjRYVEJuck5jWlR6RXRiUEVILU9xLU9UQ1dRM1k?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 8.0,
+      "title": "台灣醫療 AI 領袖：AI 應使醫療更人性化而非取代醫病關係",
+      "summary": "Healthcare IT News 報導一位台灣醫療健康領袖在國際場合的發言，強調 AI 在醫療體系的導入應以「使醫療更人性化」為核心目標，而非單純追求效率提升或成本壓縮。該領袖指出，AI 工具若能解放醫護人員的行政負擔，將有更多時間與病患建立真正的溝通與信任關係，這才是醫療 AI 的正確應用方向。此觀點在當前各界急於評估 AI 落地成效的氛圍中，提供了以病患為中心的價值框架，對醫院領導層在制定 AI 策略與溝通內外部利害關係人時具有重要參考意義，也呼應了國際間對醫療 AI 倫理與人文面向的持續關注。",
+      "tags": [
+        "醫療 AI 倫理",
+        "台灣醫療",
+        "以人為本",
+        "數位轉型"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-08-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWxwdDN0WmxBQnE1bHJQTWR1M1BsLXdzaHJsZ3VMNWxMUnZUT194cjRuZjktZlFRRVk1OGJUVHlBbGtkR2FvdkVfM2pxS3BLcWlvUnpnUkNCNGxoT0ZnMk9NOEpmRnAtY2lvdGJ2SWRMYkdEbGxuejl4QkhZZlN3WF95bmRRNHZyMk01MUN1eFBZNjlXSFgxV0EySkpyc1FUNmRQYl9ZazhpeUhVaUE?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.8,
+      "title": "Elsevier ClinicalKey「Ask AI」功能上線逾 1,500 家美國醫院，臨床知識查詢跨入生成式 AI 時代",
+      "summary": "知識出版巨頭 Elsevier 宣布將其臨床知識平台 ClinicalKey 的「Ask AI」功能向美國超過 1,500 家醫院網站開放。該功能允許臨床人員以自然語言提問，即時獲取由 AI 整合的醫學文獻答案，大幅降低查閱臨床指引與研究證據所需的時間成本。此舉標誌著生成式 AI 在臨床資訊支援的大規模落地，也對現有臨床決策支援工具市場形成新的競爭格局。對醫院資訊部與臨床部門而言，評估此類 AI 知識查詢工具的準確性、資料時效與法規合規性，將成為近期採購決策的重要課題。",
+      "tags": [
+        "臨床知識庫",
+        "生成式 AI",
+        "臨床決策支援",
+        "醫院資訊化"
+      ],
+      "author": "未標示（PA Media｜2026-08-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSzN3MjVKR0Y4WExUWVMwYzlxanFlMlJ5NGd6c0Vud0VFdDhPZVlmSzJBYUtCWXRpMWpFSHdidC1la09fWmRST2xzSUpfVmJzN0JuNWNTZGp3Vmt6QjE0U1FJRzBCUlVhYlctcXpUTDFqNXpqTmxTdjFsaGZfQXhsaC1BVHhWNW1JdDBpV1NkZlZWajJLSl9YZTZ3Q0kzS2RMRGxJNFFqbEVhU2pSbTdBVG1sOUhkYWZDZGVvcjRZQ2EybWMxU1hIR05NME5sRnBwZUhGTk51cFdTYXFianhUTlIwOWNFclZf?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.6,
+      "title": "Intermountain Medical Center 部署 GE HealthCare AI 強化 MRI SIGNA Sprint Elite，診斷影像再升級",
+      "summary": "美國猶他州 Intermountain Medical Center 宣布部署 GE HealthCare 最新 AI 驅動磁振造影設備 SIGNA Sprint Elite。據 HIT Consultant 報導，該系統整合深度學習影像重建技術，可在縮短掃描時間的同時維持甚至提升影像品質，有助於提升放射科工作效率與患者舒適度。GE HealthCare 的 SIGNA 系列持續在 AI 輔助影像領域深化布局，此次部署案例代表大型醫療體系對 AI MRI 技術的實際採購決策，對有意評估放射影像設備 AI 升級的醫院具有直接參考價值。此案也顯示 AI 影像設備市場競爭持續加溫。",
+      "tags": [
+        "MRI 影像 AI",
+        "放射影像設備",
+        "GE HealthCare",
+        "醫療設備採購"
+      ],
+      "author": "未標示（HIT Consultant｜2026-08-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWFFOEtkOWlJWHdORXNuNzhwc2FnbDQ4UUVKb1hOZWJpeE41Tlk2QXBDU0cxWVpzdDJ0SXNCRmY4dXRuTm0wZl9qeHB4clp2Vmxhd050dUlBVU9Hd1Zfb01qVmZkQ2hsODNINHcyc0o5NldISml4RWxtX05WUnNQSlYxa0dtYng4b1NvS0dYYnhwVlFrbUY3QlVmTktURDJKMk4xRngyWGhfX0p1UkwwTnlNLWE0YUp0NTBSOFNtUmU?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.4,
+      "title": "RSNA 研究警示：認知偏誤可能誤導放射科 LLM，AI 判讀可信度面臨挑戰",
+      "summary": "北美放射學會（RSNA）發布研究警示，指出大型語言模型（LLM）在放射科應用中，可能受到認知偏誤（cognitive bias）的影響而產生錯誤判讀或誤導性建議。研究顯示，當輸入提示帶有特定框架或誤導性背景資訊時，LLM 的輸出結果可能偏離臨床正確答案，引發對 AI 輔助影像診斷可靠性的疑慮。這項發現對正在評估或已導入 AI 報告輔助工具的放射科具有直接的風險警示意義，強調在 AI 工具的臨床應用設計上，需建立針對偏誤來源的系統性審查機制，並持續強化人類醫師的最終複核責任。",
+      "tags": [
+        "放射影像 AI",
+        "LLM 偏誤",
+        "AI 安全性",
+        "臨床風險"
+      ],
+      "author": "未標示（RSNA｜2026-08-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaTktUGtuc0o5TXZaS044X2c3Zl9KZ1RMbVlWWHJEX29iOUg1eUZ3Q3VLV0FFYkZsZ2x6akVSYVVLNnJwcHAxRFBDYm56eVFRRG5kSFZNc205dHlkREpWWWdfY0FYTGdLUkM1U2RMTllRSF9aVDhmRlNIbW56c21tWXhROA?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 7.2,
+      "title": "馬偕 AI 新秀計畫結訓：跨域醫療創新人才培育成果亮眼",
+      "summary": "馬偕醫院「AI 新秀計畫」完成結訓，學員展示多項跨域醫療 AI 創新成果。據蕃新聞及 Yahoo 新聞報導，此計畫旨在培養具備 AI 應用能力的醫療人才，學員橫跨不同臨床科別與行政領域，透過實作訓練開發出涵蓋臨床輔助、行政優化等多元應用場景的 AI 解決方案。此計畫展示台灣醫療機構在內部 AI 人才培育上的積極布局，也反映出醫療院所從採購 AI 工具轉向自主培養 AI 應用人才的策略轉變。對於有意建立院內 AI 創新能量的醫療機構，此案例提供了人才培育計畫設計的具體參考模式。",
+      "tags": [
+        "醫療 AI 人才培育",
+        "台灣醫療",
+        "院內創新",
+        "馬偕醫院"
+      ],
+      "author": "未標示（蕃新聞｜2026-08-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03WEJVSzZwLV9rTVRxcldMS3N1aDYtLWg1c1ZWNGRsUFhpMEJ4aW1MRGc5cjdiVk5zTnZvdk1tUUVVZ2hBUFdZY3hLeUhwTGNLc0E?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 7.0,
+      "title": "Moderna 與 Merck 個人化癌症疫苗的秘密核心：一套改寫腫瘤免疫學的演算法",
+      "summary": "STAT News 深度報導揭露，Moderna 與 Merck 合作開發的個人化癌症疫苗 mRNA-4157 背後，關鍵驅動力不僅來自免疫學突破，更在於一套精密的 AI 演算法。該演算法負責分析每位患者腫瘤的基因突變資料，預測最可能引發免疫反應的新生抗原（neoantigen），從而客製化生成每位患者專屬的疫苗序列。此案例具體呈現了 AI 演算法在精準腫瘤學臨床應用中的核心角色，代表 AI 驅動個人化醫療從概念走向大規模臨床驗證的重要進展，也為醫療機構評估 AI 在腫瘤科的應用潛力提供了最新實證參考。",
+      "tags": [
+        "癌症疫苗",
+        "個人化醫療",
+        "AI 演算法",
+        "精準腫瘤學"
+      ],
+      "author": "未標示（STAT News｜2026-08-27）",
+      "source_url": "https://www.statnews.com/2026/08/27/moderna-merck-cancer-vaccine-secret-ingredient-an-algorithm/?utm_campaign=rss"
+    }
+  ]
+}
