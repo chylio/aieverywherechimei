@@ -1,0 +1,131 @@
+{
+  "date": "2026年08月29日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "護理師工會抗議 HCA Healthcare 採用 Palantir AI 系統，醫院 AI 治理引發勞資爭議",
+      "summary": "美國 HCA Healthcare 旗下北卡羅來納州 Mission Hospital 的護理師工會公開抗議醫院導入 Palantir AI 系統，示威行動引發全國關注。護理師指控院方在未充分說明的情況下部署 AI 臨床決策工具，擔憂系統可能影響護理判斷自主權、加重工作負擔，並對病患照護安全構成潛在風險。此事件凸顯醫療 AI 快速落地過程中，院方與一線臨床人員之間溝通不足與信任赤字的深層問題。HCA Healthcare 為美國最大連鎖醫院集團之一，此案引發業界對 AI 導入程序、勞資共識機制及員工教育訓練的廣泛討論，被視為醫療機構推動 AI 轉型時不可忽視的治理警示案例。",
+      "tags": [
+        "AI治理",
+        "臨床AI",
+        "醫療勞資",
+        "Palantir"
+      ],
+      "author": "未標示（WLOS｜2026-08-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYS1rc0VZRzQxRVpJa1pXUFNKVkFFbEVCRFZCWEJVOFN5Tkp2RndKZFJCNExubXJ1dGJBVmJJVDhEWUR6MjBuMk4tTWJjLTNvQmlhMWZjWm5oS2NBMHlJcnRSUmJ0SHJMS1h1Y2k0MXJ4VzV2WS1ONWs5V3dJNFhNbUJFRFNpeTF2c2ljY1RvYXdTel91N1dIa0trdVljb0R0SkN1aUVubjNjTnpBYVdvazVoOA"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "北卡護理師走上街頭抗議 Mission Hospital AI 軟體部署，臨床自主權爭議持續延燒",
+      "summary": "繼護理師工會抗議事件持續發酵，北卡羅來納州 Asheville 的 Mission Hospital 護理人員再度公開示威，反對院方強制推行 AI 臨床輔助軟體。護理師表示，AI 系統被用於排班決策、臨床優先順序判斷等核心工作，卻未給予足夠的培訓與意見表達管道。此波抗議與同日 HCA Healthcare 的 Palantir 事件高度相關，反映出大型醫療集團在集中部署 AI 系統時，面臨來自基層臨床人員的系統性反彈。分析師指出，醫院若未建立透明的 AI 導入說明機制與利害關係人參與流程，將面臨更高的組織阻力，影響數位轉型成效及員工留任率。此案值得醫院領導層深入評估現行 AI 推進策略。",
+      "tags": [
+        "AI治理",
+        "臨床AI",
+        "數位轉型",
+        "護理人力"
+      ],
+      "author": "未標示（Cardinal & Pine｜2026-08-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaE9EQVRwWUc1TDZVTk1YNXQ1Nl9EaS1FamxCM0RWUW1IdF9DNkdwRkJxS2ZIaHNQVm1OemFGOTNDWWJSREhEVDhuc21rX0tIeTJ6N3J3SkxUQWZ0a1dFM205UDJpZ0dnc2hCOEVNNmoyemVhNXJQRXJvZzhORk9MMQ"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "AI 在病理實驗室的實際應用價值：從數位切片辨識到品質管控全面解析",
+      "summary": "Lab Manager 專題報導深入分析 AI 技術在現代病理實驗室的具體落地場景，涵蓋數位切片全自動掃描分析、腫瘤細胞辨識、罕見病理特徵標記，以及 QC 流程自動化等多個面向。報告指出，AI 輔助病理判讀可顯著縮短報告周轉時間，並降低因人工疲勞導致的漏診率，在人力短缺的中小型病理科尤具實用價值。文章同時提醒，AI 系統的效能高度依賴訓練資料品質與標注一致性，醫院在採購前應要求廠商提供本地驗證數據。隨著數位病理成為常規流程，AI 工具的監管合規與臨床驗證將成為評估供應商的關鍵門檻，對醫院資訊與採購決策具有直接參考意義。",
+      "tags": [
+        "數位病理",
+        "AI影像分析",
+        "實驗室自動化",
+        "臨床AI"
+      ],
+      "author": "未標示（Lab Manager｜2026-08-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1BCVXJSazhTWXRpTzMxaEZnWl81RUNKUUZybzFIUFNCUFUtRUJncVZDdng5NlJBdFdhQTdpWEYwa2oyZ0dWcm1iVmtaQWpkZkdvOWZvdFJ6TzRUcjJPcVpBWFZkS3dOUTNhOS1jazZFanNVV2xzbGJjcHVsT3c1UFZCMFZESk1EelM1LQ"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "保險公司 AI 比你的帳務團隊更早看到申報資料：醫院如何應對支付方 AI 審查",
+      "summary": "Becker's Hospital Review 深度分析當前美國保險公司大規模部署 AI 審查系統的現況，指出支付方 AI 在醫院帳務團隊完成編碼送審之前，即可預測申報案件的核准或拒付機率，並自動觸發審查流程。文章揭示，保險公司 AI 針對高費用項目、特定診斷碼組合及住院天數異常者進行即時攔截，導致醫院拒付率攀升且申訴成本大增。分析師建議醫院同步引入 AI 工具進行申報前模擬審查，並加強臨床文件完整性訓練，以縮短支付方 AI 的資訊不對稱優勢。此議題對醫院財務長、健保申報與資訊部門具有高度實務參考價值。",
+      "tags": [
+        "醫療費用審查",
+        "AI申報",
+        "健保AI",
+        "醫院財務"
+      ],
+      "author": "未標示（Becker's Hospital Review｜2026-08-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVG5UbC0zbUhXdWJha19ObE1zeUZWb2xZZFROOGpGekJOT0VVOVFYalp1UW1YVEkwZ0twWDdiejdWcHRkWEhSdEtZaTNwQ1pvVGUyWnFHSDlRcHlnbEwtU2g1MlZlVGphTTZmM1FMaWFEaGR0UF9BQUhxWXZlaHhDXzFwMXFLMDBaMTA3bUp4N1lKTjE5TnYwMnZHNUFFR2Ytek5OUExNTl9PdVJfUFdvUVJ6SWJteVFyNzR3"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "印度私立醫院率先採「平台優先」策略導入環境式 AI，亞洲醫療 AI 落地新模式浮現",
+      "summary": "Healthcare IT News 報導印度一家大型私立醫院以「平台優先」（platform-first）策略部署環境式 AI（ambient AI），打破傳統單點工具採購模式。該醫院選擇先建構統一的 AI 整合平台，再逐步接入語音辨識、臨床文件自動生成、病房環境感測等多個功能模組，避免系統碎片化與資料孤島問題。此模式可大幅降低後續整合成本，並提升跨科室的 AI 可用性與資料互通性。報導指出，亞洲新興市場醫院在 AI 導入策略上逐漸走出獨特路徑，不再複製歐美醫療體系的逐步試點模式，而是以系統性架構思維加速規模化部署，對台灣醫院的數位轉型策略規劃具有重要參考價值。",
+      "tags": [
+        "環境式AI",
+        "醫院數位轉型",
+        "亞洲醫療AI",
+        "平台整合"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-08-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUdLa1RnY1gzaDBmY0xpdWpWOVNRQzNjYTQxLXd2V3FybGF1SFVRYm1yLXdUcUZfeTVPQklrZTNjM1RCSVhnZHBhOTAyaFMxbmI3dnNEYzNkdkNZZUFUeU1INXg3a1RZbllrN1c1NENIaU9JWFlTSUZOMEtTRmpySHZuQlN3UWY1UTI4SHZObjRVd0VERGEzYXF0ZERwWDE5SjhrM3h5LTI5ZTQ"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "馬光中醫攜手友達耘康開發 AI 舌診系統，中醫診斷智慧化邁出實質一步",
+      "summary": "台灣馬光醫療網與友達耘康合作，共同研發以 AI 影像辨識技術為核心的舌診輔助系統，讓電腦學會分析舌象顏色、形態與苔質等中醫診斷關鍵指標。此系統透過大量標注舌診圖像訓練深度學習模型，目標是將傳統中醫師的主觀判斷轉化為可量化、可重現的客觀數據，提升診斷一致性並輔助年輕醫師學習。目前系統已進入臨床試用階段，初步反映良好。此合作案代表台灣中醫院所積極導入 AI 影像技術的新趨勢，也顯示工業顯示面板大廠跨足醫療 AI 的產業融合動向，對有意發展中醫 AI 輔助工具或多元影像 AI 應用的醫療機構具有參考意義。",
+      "tags": [
+        "中醫AI",
+        "舌診辨識",
+        "台灣醫療AI",
+        "影像AI"
+      ],
+      "author": "未標示（NOWnews今日新聞｜2026-08-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jeXpLUXJ4My13S1czcV9MVDliWUR6WFd5ZDJ4M01mV1RFVFJQazNfczd3cUNvUXh5UDRwVzREQnl4Q1BqczZHSS1xWmfSAVJBVV95cUxOZWNZQXk2dFE3aG9RM0EzaTMxY0NzeDBVTWpUbjZrOXFxNmFrQm8tR1p3QnNpT19sYWNzLWxEX2ZCaXhHaC1DSEtzWndWU1ZMTTJ3"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "加拿大 North Bay 醫院手術病患廣泛採用 AI 問答功能，術前術後衛教溝通效果獲肯定",
+      "summary": "加拿大安大略省 North Bay Regional Health Centre 報告指出，該院針對手術病患推出的 AI 問答服務獲得廣泛好評，病患可透過手機或病房設備隨時提問，AI 系統即時回覆術前準備、術後注意事項、用藥指示等常見問題。院方表示，此功能顯著減少護理站重複性電話諮詢量，讓臨床人員得以專注於更高複雜度的照護工作。病患滿意度調查顯示，大多數使用者認為 AI 回覆準確且易於理解。此案例為醫院評估生成式 AI 應用於病患衛教與術前溝通提供實證參考，亦展示 AI 在提升照護連續性與減輕臨床工作負擔方面的實際效益。",
+      "tags": [
+        "病患衛教AI",
+        "生成式AI",
+        "手術照護",
+        "臨床AI"
+      ],
+      "author": "未標示（CTV News｜2026-08-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYVpnV0VKdU0yQVlTTkprMkFRT3J3SDRTeWl2NWpIcFVUN0ZSUmJvc3hZeFozb0hGUWdOUHRMUmZ5bS1pdXMtNEVHcmFIb29kcXUwZUlMcUNORDBxUFZGV1MteHItUDVhRkg2ckF5dGtBQWlvUlQxWXdYbXY5ZWhDYmRBaTNUandrWGdhU25KNVB3dm5NVG9WN2N3Y1czRUhpaXFtTm92Rmc3dmI3UFN3SmJvQXNzazNoY0t1SXpORmtPeG9JZUhUVlpUX2dyLUlTUFE"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "HIMSS26 APAC 新加坡登場：Winning Health 展示 WiNEX 與醫療 AI 創新應用",
+      "summary": "中國醫療資訊化龍頭企業 Winning Health 於 2026 年 HIMSS APAC 新加坡峰會上展示旗艦平台 WiNEX 及一系列醫療 AI 解決方案，涵蓋智慧診斷、臨床決策支援、醫院營運管理與數據互通等核心模組。此次展示聚焦亞太地區醫院數位化升級需求，強調跨院資料整合與 AI 模型在地化部署能力。HIMSS26 APAC 為亞太最具代表性的醫療資訊科技年會，吸引各國醫院領導層、資訊長與政策制定者出席，是觀察亞太醫療 AI 產業趨勢的重要指標場合。對台灣醫院資訊主管而言，本次展會呈現的亞太市場 AI 整合方向與採購趨勢值得持續追蹤。",
+      "tags": [
+        "HIMSS",
+        "醫療資訊系統",
+        "亞太醫療AI",
+        "數位轉型"
+      ],
+      "author": "未標示（The National Law Review｜2026-08-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTVwNWVTcHBLSXNlTjZnQk9pdlVYQ2ZNS05CcUhPZWdHQVlkV1VwMzRUaEFFLTR0LWhaNGRoR0poU0w2UG9vcVhhVUxIMU9OZHZTcTI5elExQUlQMzR1SU9tZ3hfdDBnYW9fWmpHb2JsU2w4X2x6cVE5T1lROENQZDZxel9MWmR1dUVmWVVYOFluZnJ5bUQwdkdXYmFvd0YxR2RHS2JuUWdYVkgyTFQ4OVBqTQ"
+    },
+    {
+      "rank": 9,
+      "score": 6.0,
+      "title": "Epic MyChart 釣魚詐騙席捲美國多家醫療體系，專家呼籲醫院強化患者信任溝通",
+      "summary": "美國逾十家醫療體系相繼警告患者，有不明人士假冒 Epic MyChart 患者入口網站發送釣魚郵件，以虛假 Medicare 獎勵誘導患者點擊偽造登入頁面，進而竊取個人及帳戶資訊。資安專家指出，此類詐騙手法日益精緻，仿冒頁面幾乎難以辨別，單靠要求患者自行識別風險已不切實際。建議醫療機構主動建立清晰的官方溝通管道識別標準，並透過多重驗證機制降低憑證外洩風險。此事件雖非 AI 技術本身的應用案例，但凸顯醫院數位入口安全治理的緊迫性，以及 AI 生成詐騙內容對醫療資安生態的深遠威脅，對醫院資訊安全政策制定具有直接參考價值。",
+      "tags": [
+        "醫療資安",
+        "網路釣魚",
+        "Epic MyChart",
+        "患者資料保護"
+      ],
+      "author": "未標示（MedCity News｜2026-08-29）",
+      "source_url": "https://medcitynews.com/2026/08/epic-mychart-phishing-cybersecurity-hackers-hospitals/"
+    }
+  ]
+}
