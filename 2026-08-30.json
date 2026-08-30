@@ -1,0 +1,47 @@
+{
+  "date": "2026年08月30日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "全新 AI 框架 SHIC-XE 突破非語言疼痛偵測，從馬匹研究延伸至加護病房應用",
+      "summary": "一項源自動物行為學的人工智慧框架 SHIC-XE，原本用於偵測馬匹的疼痛表情，現已被研究團隊改良並應用於無法言語表達疼痛的加護病房患者。該系統透過多模態感測器整合面部微表情、生理訊號與肢體動作，自動捕捉「無聲的痛」，旨在協助 ICU 護理人員更準確評估鎮靜或插管患者的疼痛程度，減少主觀判斷偏差。此研究突顯跨物種 AI 訓練資料的創新應用潛力，也凸顯出醫療 AI 在最脆弱病患族群中的臨床價值。對於醫院重症醫學科與護理部門而言，此類客觀疼痛評估工具若能通過臨床驗證，將有助於改善 ICU 疼痛管理品質、降低鎮靜藥物使用風險，並為護理人力資源配置提供參考依據。",
+      "tags": [
+        "加護病房",
+        "疼痛評估",
+        "AI框架",
+        "重症照護"
+      ],
+      "author": "未標示（TechNews 科技新報｜2026-08-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xUDVkX2F6R2xkZlNLVTZEajVib05uNzQ0ODhRMDFXVlRZdGVmdFllUWJWd2ZySXRpYnl2c0p5ZnRKUHZxdTEyaE05SkpfSVJycGFWb2FycHBWNFFHNmJNUEd2MHpoMHRlOFdxS0Z3?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 7.5,
+      "title": "台灣生技醫療 AI 浪潮：32 億資金湧入，智慧醫療科技新趨勢全面解析",
+      "summary": "根據最新市場報告，台灣生技與醫療科技產業正迎來顯著資本注入，逾 32 億元熱錢湧入醫療 AI 相關領域，涵蓋新藥研發平台、影像辨識、智慧病理及精準醫療等多個次領域。分析指出，國際大型基金與本土創投同步加碼，顯示市場對台灣醫療 AI 生態系統的長期信心持續升溫。此波資金流入不僅推升相關上市公司估值，也加速新創公司與醫院體系的合作開發進程。對醫院領導層與數位轉型團隊而言，了解此資本趨勢有助於研判未來 AI 解決方案的供應商格局、合作機會及採購策略，並可評估是否藉此吸引創新合作夥伴共同推動院內智慧化升級。",
+      "tags": [
+        "台灣醫療AI",
+        "醫療科技投資",
+        "數位轉型",
+        "生技產業"
+      ],
+      "author": "未標示（CMoney投資網誌｜2026-08-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeUpMUllOSzZZc2xZR0JOVjZwU2FPVDgwNWJhc2tBdlRyc29WRkpzMjFLRWdMeV9rYnByWmdnQjRTLTdkVWdrTXFlendNcFdIMC1RT3lKVlg2RGhuNHZ5RFNFUjE0Y2NiVVhqeXRYMHo2T3Q1c181SFRZYzJXN0xQNTBQOA?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.0,
+      "title": "AI 於病理實驗室的實際應用價值：從數位切片辨識到品質管控全面解析",
+      "summary": "Lab Manager 刊載深度報導，系統性梳理人工智慧在病理實驗室的現實落地場景，涵蓋數位切片自動辨識、異常組織標記、工作流程優先排序及品質管控等核心應用。文章指出，AI 工具已從概念驗證進入臨床輔助階段，部分系統能顯著縮短病理科醫師閱片時間，並降低人為疏漏率。報導也探討導入門檻，包括資料標準化、病理科醫師培訓與工作流程整合等挑戰。對醫院病理科主任與資訊部門而言，此報導提供具體的評估框架，有助於判斷現階段哪些 AI 病理工具最具投資效益，以及如何規劃分階段導入路徑以降低轉型風險。",
+      "tags": [
+        "病理AI",
+        "數位切片",
+        "品質管控",
+        "臨床決策支援"
+      ],
+      "author": "未標示（Lab Manager｜2026-08-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1BCVXJSazhTWXRpTzMxaEZnWl81RUNKUUZybzFIUFNCUFUtRUJncVZDdng5NlJBdFdhQTdpWEYwa2oyZ0dWcm1iVmtaQWpkZkdvOWZvdFJ6TzRUcjJPcVpBWFZkS3dOUTNhOS1jazZFanNVV2xzbGJjcHVsT3c1UFZCMFZESk1EelM1LQ?oc=5"
+    }
+  ]
+}
