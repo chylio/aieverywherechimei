@@ -1,0 +1,75 @@
+{
+  "date": "2026年08月31日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "Medicare 正式為 CT 分流 AI 每案設定最高 137.53 美元附加給付上限",
+      "summary": "美國聯邦醫療保險 Medicare 宣布，針對符合資格的住院病患使用 CT 分流人工智慧工具，每案最高可獲 137.53 美元的附加給付（add-on payment）。此舉標誌著 AI 輔助影像診斷進入正式醫療給付框架，對全美醫院導入放射科 AI 工具具有重大政策信號意義。明確的給付上限一方面確立 AI 工具的合法收費機制，另一方面也可能影響廠商訂價策略與醫院採購決策。對於正在評估或已部署 CT 急診分流 AI 的醫療體系而言，此項規定直接關係到 AI 應用的財務可行性與回收模型，預期將帶動更多醫院在成本效益評估後加速導入相關工具，並促使政策制定者進一步研議其他影像 AI 類別的給付標準。",
+      "tags": [
+        "醫療給付政策",
+        "放射科AI",
+        "CT分流",
+        "Medicare"
+      ],
+      "author": "未標示（MarketScale｜2026-08-31）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeG1xWGdUZy1vRzhEOEFwS2oyYlVGZXppS1hnajFhMGh1TlZMbGlfblRGbk1EZ1REcklQNnRmREpLNE51NDlObF9MODFJRFVYenVOYzhYZUF2N2d2ZUVQVHBnU01LdDhSTzlpNmZ0OUhCZ0xYakJnSUQ1MlZ3enI3dHRXUi1ldjdPeEhOUVZuVDBWbkJ4T19zTjZrTFdTZXJxclA4bDZXTVhIS3NCSWJPODhTVXBfT0p6M21EZ2RaOVNEVGdlUnBwSEM1Y25PTlo3Q2NJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "逾九成醫院已部署第三方 AI 工具，但測試與監管機制嚴重落後",
+      "summary": "MedCity News 引述一份最新報告指出，超過 90% 的醫療體系已導入第三方 AI 工具，然而不足半數具備在工具嵌入臨床照護流程前進行適當測試與驗證的基礎設施。報告以 UPMC 等大型醫院為案例，揭示 AI 採購速度遠超治理能力的普遍現象。這項落差意味著許多機構在缺乏有效評估機制的情況下，即讓 AI 工具影響實際患者照護決策，潛藏安全性與責任歸屬風險。報告強調，醫院需要建立系統性的 AI 測試框架、持續監控機制及跨部門治理委員會，以確保 AI 工具的有效性與安全性符合臨床標準，這對醫院資訊部門與數位轉型團隊在 AI 採購與部署流程設計上具有直接的參考價值。",
+      "tags": [
+        "AI治理",
+        "醫院AI部署",
+        "臨床安全",
+        "數位轉型"
+      ],
+      "author": "未標示（MedCity News｜2026-08-30）",
+      "source_url": "https://medcitynews.com/2026/08/upmc-ai-testing-hospital-tech/"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "AI 模型用於追蹤人畜共通傳染病，能否阻止下一場大流行？",
+      "summary": "Nature 發表專題報導，探討 AI 模型在監測人畜共通傳染病（zoonotic diseases）方面的應用現況與潛力。隨著氣候變遷與人類活動範圍擴張，人畜共通病原體跨物種傳播的頻率持續升高，傳統流行病學監測方法難以即時掌握疫情動態。多個國際研究團隊正利用機器學習與大數據分析，整合野生動物族群監測、環境感測及人類病例資料，建構早期預警模型。文章指出，AI 模型在偵測異常傳播模式、預測高風險區域方面展現出優於傳統方法的能力，但資料品質不均、跨國資料共享障礙及模型可解釋性仍是主要挑戰。對公共衛生政策制定者與感染管制團隊而言，此類 AI 工具的成熟將對大流行病防範策略產生深遠影響。",
+      "tags": [
+        "人畜共通傳染病",
+        "公共衛生AI",
+        "疫情預警",
+        "流行病學"
+      ],
+      "author": "未標示（Nature｜2026-08-30）",
+      "source_url": "https://www.nature.com/articles/d41586-026-02684-1"
+    },
+    {
+      "rank": 4,
+      "score": 6.5,
+      "title": "數位病理是否已準備好革新血液病診斷？",
+      "summary": "CancerNetwork 刊載文章，深入探討數位病理技術結合 AI 影像分析在血液腫瘤（hematologic）診斷領域的應用成熟度。文章評估全切片數位掃描（whole slide imaging, WSI）搭配深度學習演算法在淋巴瘤、骨髓瘤及白血病等血液惡性疾病的分類與分期輔助應用，並分析目前臨床導入的技術障礙，包括資料標準化、病理科工作流程整合以及 FDA 監管認證進度。作者指出，儘管多項研究顯示 AI 輔助數位病理在特定血液腫瘤的診斷一致性已達病理科醫師水準，但要全面取代傳統顯微鏡判讀，仍需克服醫院基礎設施投資、病理醫師培訓及法規核准等多重門檻，為有意布局病理 AI 的醫療機構提供重要參考框架。",
+      "tags": [
+        "數位病理",
+        "血液腫瘤",
+        "AI影像診斷",
+        "病理科"
+      ],
+      "author": "未標示（CancerNetwork｜2026-08-31）",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNkcwR1I4bzVkSVZPYjA2SnI5bnMtbzV1bWtrendJX3JLZ21TOW5IbHpmd1RIenRNaHhlV0p3SVFJYWxaUmQwa1lGTmZCbUNYQjdtNnpNY2ItalJ4VHpwbENHcEItME53STlQVGt4Ukp0SW1xUEs2NGNRNnRjalFoNXg3RHdfN3VqMzU0U051dnJhWmcyd3R4VF9UbThqUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 5.5,
+      "title": "台灣 AI 結合機器人技術提升脊椎微創手術精準度與穩定性",
+      "summary": "Yahoo 新聞報導台灣醫療機構導入 AI 結合機器人手術系統，應用於脊椎微創手術領域，標誌著台灣在精準手術輔助技術上的新里程碑。相關系統透過術前影像 AI 分析規劃手術路徑，並於術中由機械臂提供精確定位與穩定操作支援，有助降低人為誤差、減少輻射暴露時間，並縮短患者術後恢復期。報導指出，此技術的臨床應用已在特定醫院完成初步驗證，顯示手術精準度與安全性均有顯著提升。對於國內有意引進手術機器人 AI 整合系統的醫院而言，此案例提供本土臨床應用的實證參考，也呼應台灣智慧醫療政策推動的整體方向。",
+      "tags": [
+        "手術機器人",
+        "脊椎手術",
+        "台灣醫療AI",
+        "微創手術"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-08-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNQjZqNjhJY1kzU0djZ1YySWYyejJhZjA5VENlMFExc1VDOS1uNnBPaHpLd0dtT0lOTHI5bV83OHRBQTlZdGJkdFhSZ3VIRVZxbWVmTVYzdFkzQ2JJRmdNWFpqa2V0MG1IQlQzaUViQ2VkME5vV3cwZWlqNll6bFFPUjZXeEJWVTZkb2JHOW92ZU9tb1VxX3ZUaENCLVJQVk0xM0JHYzh0RXQwdnpPUDgyQjBjekFGRjdMenlwUGdjclhZY1pXRVg1eG5iQTBZVjE1NVhReFdIU0hxNzRfczNvckFUZVZrRjZOZGFQbVdBcHhZTHZRQkhYUldTS0FNU0dBQ25NdHI1bU5MNFZGOWRWczczMDFucXNJdkRtUzJ6Qk9tejhMTURCMXNwaXh1S1pwN0J5T1VPTGxqN1VvTktSeDFDRFZzc0NidnVBXzdXMWhDc3pBWHZaUnJ6MEZXUjg?oc=5"
+    }
+  ]
+}
