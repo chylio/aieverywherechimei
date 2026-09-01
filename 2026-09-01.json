@@ -1,0 +1,117 @@
+{
+  "date": "2026年09月01日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "AI 引導出院規劃革新：HonorHealth 的實戰經驗全面解析",
+      "summary": "美國 HonorHealth 醫療體系正式導入 AI 輔助出院規劃系統，透過即時分析患者臨床數據、社會決定因素及床位使用狀況，協助臨床團隊在住院期間即提前啟動出院安排。此舉旨在縮短平均住院天數、降低非計畫再入院率，並改善後急性照護的銜接效率。HonorHealth 的案例顯示，AI 工具能協助護理師及個案管理師更早識別出院阻礙因素，如交通、居家照護資源不足等社會問題，使多專科團隊得以提前介入。此模式對醫院床位周轉管理與營運效益具有直接影響，亦為 AI 應用從純診斷支援擴展至流程管理的具體實證。對於正在評估 AI 整合策略的醫院領導層與資訊部門，此案例提供了可參考的實際落地路徑與效益評估架構。",
+      "tags": [
+        "出院規劃",
+        "AI臨床應用",
+        "病床管理",
+        "醫院營運"
+      ],
+      "author": "未標示（Becker's Hospital Review｜2026-09-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUV9BNmpOajhJMFNMOUhoNW5HYWhlMVg3S203Wm5HQkh6azZNUWlYVFVNMWM4SjVOQ20wRlZVTGl4aTdlVzV5OHlTcGJmSmVsSkEtZ0thbllYMGhEYUM4WHdNSHEyQW9WRFlEZXVTVWFfOHhnNF80UzBVQjlKd0w5VTIxNEJJaHNaRlZXVHA3REhFbVloSW1IMW5fWDZhWkpzckVyTlVaSnJTcl9rZEIxZjBOU2pmWEJjR0VNSFhHMHZHaHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "醫療 AI 轉型非工具問題而是領導問題：驅動醫療體系 AI 落地的六大核心原則",
+      "summary": "MedCity News 刊載一篇針對醫院領導層的深度觀點文章，主張醫療 AI 轉型的成敗關鍵不在技術本身，而在於執行長（CEO）能否將 AI 列為機構最優先的前三大策略目標。文章提出六項核心原則：包括建立明確的 AI 治理架構、將 AI 效益納入財務問責機制、跨部門整合數位轉型文化、確保臨床與資訊部門協同領導、持續追蹤 AI 部署後的實際成效，以及建立快速學習與迭代的組織能力。作者警告，若 CEO 缺乏直接推動力，機構將停留在概念驗證（PoC）與簡報階段，而競爭對手則持續拉大差距，最終侵蝕機構服務使命的能力。此框架對正在規劃 AI 路徑圖的醫療管理層具有直接參考價值。",
+      "tags": [
+        "AI治理",
+        "醫院領導力",
+        "數位轉型",
+        "策略管理"
+      ],
+      "author": "未標示（MedCity News｜2026-08-31）",
+      "source_url": "https://medcitynews.com/2026/08/ai-wont-transform-health-systems-ceos-will-six-principles-to-drive-the-transformation/"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "AI 放射科分流系統實戰：如何協助值班醫師應對週末龐大影像工作量",
+      "summary": "Diagnostic Imaging 報導 AI 輔助影像分流技術在放射科值班情境的實際應用。週末與假日期間，放射科人力精簡，但急診影像量不減，AI 分流系統能自動依據病灶嚴重程度對影像進行優先排序，確保顱內出血、大血管阻塞等時間敏感案例優先被判讀，有效降低因工作量堆積造成的判讀延誤風險。文章指出，AI 分流不僅改善影像判讀的時效性，亦減輕值班醫師的認知負擔，使其能將有限注意力集中於最緊急案例。此類工具已逐漸成為多家醫院放射科的標準配備，對於正在評估影像 AI 導入的機構，此文提供了具體的工作流程整合視角與效益說明。",
+      "tags": [
+        "放射科AI",
+        "影像分流",
+        "值班管理",
+        "急診影像"
+      ],
+      "author": "未標示（Diagnostic Imaging｜2026-09-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ3dKeG9XWkJLNFpKbW5UTG9tcGpqRVRlVUhlQUl6Y1Atcy1mWXJoakN1M28tSkNvTTg2YnBTSWEyS0g1NXdkYWxmc2dseHc5bmtnZ3JmX3AyUExsel92VzhlZjlwTm9zSlozRUZEeUlBZ2JIQjVMWGpjOHdrNDE2X2x6RkZMNFhVaWtOTlhWclh6dw?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "AI 病理診斷自動化投資激增：從實驗室工作台邁向臨床標準化新階段",
+      "summary": "GlobeNewswire 報導全球 AI 病理診斷市場正經歷快速資本湧入，投資者與醫療機構對將 AI 自動化診斷從研究工具升級為臨床常規標準抱有高度期待。報告顯示，AI 在數位病理切片分析、腫瘤分級、生物標記定量等領域的精準度已達到可支援臨床決策的水準，多家大型學術醫學中心正加速進行正式驗證與監管申請。市場分析預測未來三至五年內，AI 病理平台將從概念驗證進入規模化採購階段，促使醫院實驗室需重新評估數位病理基礎建設投資計畫。此趨勢與全球監管機構逐步建立 AI 醫療器材審查框架的時程高度吻合，對病理科及實驗室醫學部門的採購決策具有重要參考意義。",
+      "tags": [
+        "AI病理",
+        "數位病理",
+        "診斷自動化",
+        "醫療投資"
+      ],
+      "author": "未標示（GlobeNewswire｜2026-08-31）",
+      "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPTHFGcnN4MnBHTk9VSWFUVTl6bE5TOUVCN3F1SEZKRGZrRlU1ZkpqeTFtZEJ5TGpSeHpMZzlDb2JXRUFJSkYtUkw0a2JIX1VIUTU4VnREYV84S0lxQU5TYjViNHdSeE13UHFac1VhVERVQXBBNXI1U3RlQ1Myclh2WDl4dS1mQlB2U0dmcG9hYzUwQjhYQ3VoMDI2OVN2SFA0SXFhMkZIaDBmSHdKMDlmaG9aQTBYcTlMaUpIRXgwVG9SbE5uX05TZENuYnVKbzluSm9uQk02VmhCNUpXbWRGY0duR1N6eWcyNDJnWE9QX2hZTmF5TnFrcVN3enBaZFB2Y2JLSklROE0yX1pRdXJv?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "WHO 於阿迪斯阿貝巴呼籲非洲重掌醫療 AI 自主權，全球 AI 醫療公平性議題再受關注",
+      "summary": "世界衛生組織（WHO）在衣索比亞首都阿迪斯阿貝巴舉行的區域會議上，正式呼籲非洲各國政府及衛生主管機關積極掌握醫療 AI 的本地開發能力與資料主權，避免淪為已開發國家 AI 工具的被動消費者。WHO 強調，若非洲醫療 AI 系統仍主要由外部機構主導研發，當地特有疾病負擔、人口結構及醫療基礎設施差異將持續被模型訓練數據所忽略，可能加劇診斷偏差與健康不平等。此聲明被視為全球醫療 AI 治理框架討論的重要里程碑，亦引發各界對 AI 模型跨族群、跨地域泛化能力的再度審視。對於致力於建立在地化 AI 驗證機制的醫療機構，此議題具有政策參考價值。",
+      "tags": [
+        "WHO",
+        "醫療AI公平性",
+        "全球AI治理",
+        "資料主權"
+      ],
+      "author": "未標示（Capmad｜2026-08-31）",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3JCQldsR3IwVm5TNUk4eS14WXQ0TVl1bk1WVXVDUFdiSVcyZmZLVEZmUHhuSDdnZVR5eGFEOFRFZEFRT3h2NFd2XzNzTlVLRlY1cFhMT2o2dWZlS3llNEhZRVRNT1RpTklYRVBFdGdlMDZ1TFo5SmpvaUszbTd3MFpPRmxBOG01OEJDNXpUcEd4c3E1UkgtZEZvZw?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "GigaPath-Flash 病理 AI 模型運算效能提升 50 倍，大型病理影像分析進入新里程",
+      "summary": "StartupHub.ai 報導新一代病理基礎模型 GigaPath-Flash 的技術突破。此模型在原始 GigaPath 架構基礎上大幅優化推論效率，使處理全切片影像（WSI）所需的運算資源降低約 50 倍，同時維持與原模型相當的診斷準確性。此進展對於醫療機構在有限 GPU 資源條件下部署大型病理 AI 模型具有重大意義，有望降低數位病理 AI 的硬體門檻，加速小型醫院及發展中地區的技術採用。研究團隊指出，運算效率的大幅提升亦使即時病理輔助診斷更具可行性，未來可整合至術中冰凍切片判讀流程。此技術突破預計將引發業界對病理 AI 基礎設施配置策略的重新評估。",
+      "tags": [
+        "病理AI",
+        "GigaPath",
+        "運算效率",
+        "大型語言模型"
+      ],
+      "author": "未標示（StartupHub.ai｜2026-09-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQczE0MUM5aGZOT0NoanQ0QWg5ZDhBS1Y5ZURFMFVXVXZzb0ItVTlzVE5zQXhrQ1E4RjZjS2NsN3Q3bUNicmoyanNyVUF4Y1oyNGNQOVl0R1B3RHBBY3RmSzA5U2RYYUJLTG94R21EZHZIVTFSQ0F2a1l5Y2NwZTB6cnJIaElZTmVtdVJrQnlSbnVfZVNHeFZwUjMwVkZlZw?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "TriHealth 醫院導入病房 AI：環境感測與患者監測技術實際改變照護流程",
+      "summary": "美國 TriHealth 醫療體系正式將 AI 技術引入住院病房，透過環境感測器、攝影機輔助監測及語音 AI 等多元工具，即時追蹤患者活動狀態、跌倒風險及呼叫護理需求。報導指出，病房 AI 系統能在護理師無法即時到場時提供早期預警，並協助記錄患者日常活動數據以輔助臨床決策。TriHealth 強調，導入前已與護理團隊充分溝通，確保工具設計以輔助而非監視為核心原則。此案例呈現 AI 從後台分析工具延伸至第一線照護現場的新趨勢，亦涉及患者隱私、勞資溝通及倫理框架等重要議題，對正在評估智慧病房建置的醫院具有參考價值。",
+      "tags": [
+        "智慧病房",
+        "環境AI",
+        "患者安全",
+        "護理科技"
+      ],
+      "author": "未標示（WKRC｜2026-09-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVFVBdi1pM3RNQ2FlUE5QdVR2bC1KU3RFZExYeW9pSjJQcnhmNm9qekkzbmNsQkVKYmtGWlZrT2hDRTVLV2o5MElrOTVaalB0VFFob09MYnZuOVpqTzZfZHVmQjcyRVA2aXllYkJ4Q2hmLXBBYklXUFE3MjVGY1pkODdqc2RLUlhkeU55RWFJVlhzTENqT1dlX3NkLUViVm1xYnRBQmdSb2p4dGxEUDIzZEFoNTdSMzZ5aXRUcFBUTUtrU2wtRjlXamNmU2VxVmJsWVZfOEtDX2pTTFRPeHFPV2hraG9MRGhvNk5HLWVNVlRvNGFEVjQ4RGN0SzlYVFVEV1E?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 5.5,
+      "title": "高麗大學九老醫院推動員工主導 AI 服務開發，建立內部創新驅動模式",
+      "summary": "韓國高麗大學九老醫院啟動以員工為核心的 AI 服務開發計畫，鼓勵臨床及行政人員直接參與 AI 工具的需求定義、原型設計與測試流程，打破傳統由資訊部門或外部廠商主導的 AI 導入模式。此舉旨在確保 AI 工具能貼近實際臨床工作情境，提升使用者接受度並縮短從構想到落地的週期。醫院表示，員工主導模式亦有助於建立內部 AI 素養文化，使工作人員從被動接受者轉型為主動創新貢獻者。此案例對亞太地區醫院推動 AI 轉型時的組織文化建設策略具有參考意義，特別是在如何平衡頂層規劃與基層創新動能的議題上提供了新視角。",
+      "tags": [
+        "醫院AI文化",
+        "員工創新",
+        "韓國醫療",
+        "組織變革"
+      ],
+      "author": "未標示（아시아경제｜2026-09-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PNGFPb3dFeWljaDd2UnczWm5mM2YyMWJQbHlRd1dSMkduZ0k3Sk9rVzM5anV3aWdGSWxkOTJDWGdGS1BSeHA5RjUxanVDTHpGVlV0TkplSkxYTVpNREM4RTBWcUt5bEI2NXZKU3RnaTc1MUE?oc=5"
+    }
+  ]
+}
