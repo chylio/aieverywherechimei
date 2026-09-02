@@ -1,0 +1,117 @@
+{
+  "date": "2026年09月02日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "醫院 AI 採用速度超越資安防護能力，Black Book 報告示警醫療機構潛在風險",
+      "summary": "根據 Black Book Research 最新報告，醫院導入 AI 系統的速度已明顯超越其資安防護機制的建立速度，形成結構性安全漏洞。報告指出，多數醫療機構在部署 AI 工具時未同步強化相應的網路安全控制措施，包括存取權限管理、模型輸出監控及供應鏈風險評估等環節均存在不足。隨著 AI 系統深入臨床工作流程、病患資料處理及行政作業，一旦遭受攻擊或資料外洩，潛在損害將遠超過傳統 IT 事故。報告呼籲醫院領導層將資安治理與 AI 採購決策同步整合，並建立持續性監控框架，以確保在加速數位轉型的同時，不犧牲患者資料保護與系統穩定性。此一警示對正積極擴展 AI 應用的醫療體系而言，具有高度實務參考價值。",
+      "tags": [
+        "醫療AI資安",
+        "AI治理",
+        "醫院數位轉型",
+        "風險管理"
+      ],
+      "author": "未標示（FinancialContent｜2026-09-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYzU1T1RISFo3SE9ocXR6S1dETzRJS3NFNWxHVGRCWHpVSFE0YWRTWjZpWmdmazZfZTNfbWRlTVJhTlBNV0VEOVhwbkw1YWdQalZfaHljQ0xzQTNYVExiOEl0cmZ3b19sSkR5anI1WmlRVmFMVlVKRFhaaUhUdnpzekpJZDhFeXQ5azczQ0hNclg2UWcwa0JaUDViQWdZcExxUjEzYU9YX2NDa2RvU1F4WmlWN2ZTcmtXVlVockM5LXVyRF9qdlZ1ZmlIdExvZTVLWlRpS05zbw"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "新加坡公立醫院與診所全面開放自建 AI 代理人，亞洲醫療 AI 民主化新里程",
+      "summary": "新加坡衛生部旗下醫療體系正推動一項創新政策，讓公立醫院及基層診所均能自主開發並部署 AI 代理人（AI Agent），而非僅依賴中央統一採購的商業解決方案。此舉標誌著醫療 AI 治理模式的重大轉變，透過提供標準化開發平台與安全沙箱環境，賦權各臨床單位根據自身需求設計自動化工作流程，涵蓋病患溝通、排程管理、臨床決策輔助等場景。此模式有助於加速基層醫療的 AI 落地，同時保留機構層級的彈性與創新動能。對亞洲其他醫療體系而言，新加坡的「去中心化 AI 代理人」策略提供了兼顧效率與自主性的參考藍圖，尤其適合資源分布不均的多院區醫療組織借鑒。",
+      "tags": [
+        "AI代理人",
+        "新加坡醫療",
+        "醫院數位轉型",
+        "基層醫療AI"
+      ],
+      "author": "未標示（iThome｜2026-09-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ueEJabE1SUjVhWnJlbHBvOGVDUk1LeVVxaEdhLTFnR3p3ZFAydmlaWF91anJkZVBmTWFXVW9vWHlOVFFqN3I0YUJzS1hFZw"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "長庚大學首創「AIMD 雙學位」制度，醫學生六年同時取得 AI 碩士學位",
+      "summary": "長庚大學宣布推出全台首創「AIMD（Artificial Intelligence in Medicine and Design）雙學位」計畫，讓醫學系學生在六年學制內同時取得 AI 碩士學位，成為兼具臨床訓練與 AI 技術能力的複合型人才。校長在受訪時明確表示，AI 不會取代醫師，但能使用 AI 的醫師將取代不會使用 AI 的醫師，強調主動培育跨域人才的必要性。此計畫課程涵蓋機器學習、醫療影像分析、自然語言處理等核心技術，並結合臨床實習場域進行實作訓練。此一制度設計對台灣醫療教育體系具有示範意義，預示未來醫學教育將朝向「AI 素養」納入標準訓練的方向演進，亦為醫院在招募與培育新世代醫師時提供重要參考。",
+      "tags": [
+        "醫學教育",
+        "AI人才培育",
+        "台灣醫療AI",
+        "雙學位制度"
+      ],
+      "author": "未標示（三立新聞網SETN.com｜2026-09-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PUWFIc1R0WXV1dXEtQXpaSndHNnc4aDl3aVY5c3AtQlYwZXJLbEkwNFhCcUlRWFpCWVh6UzVNcks3d3dZU2Q4MtIBTEFVX3lxTE12TmlsUXQ1a2dteURsNS1ES2hKOE9kdkZXUC1ESm9pZDVmNDF0OUJNZEFkOERRRDJrSlR4RWo2ZDJoaEFGczJodFN4cmE"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "醫療 AI 正從治療走向預防：Frontiers 科學前沿深度解析預防醫學新典範",
+      "summary": "Frontiers 學術平台發布最新科學前沿報告，指出醫療 AI 的應用重心正逐步從疾病治療轉向預防醫學。報告指出，結合可穿戴裝置、基因體學資料及電子病歷的大規模 AI 模型，已能在症狀出現前數月甚至數年預測個人罹病風險，涵蓋心血管疾病、第二型糖尿病及特定癌症等慢性病類別。此一典範轉移不僅有望顯著降低長期醫療成本，亦對醫院的服務模式產生根本性衝擊，促使醫療體系從「被動診治」轉向「主動健康管理」。報告同時指出，預防導向 AI 的普及尚需克服資料隱私、跨機構整合及健康不平等等挑戰，建議政策制定者與醫療機構同步建立相應的倫理與監管框架。",
+      "tags": [
+        "預防醫學",
+        "醫療AI趨勢",
+        "慢性病管理",
+        "健康促進"
+      ],
+      "author": "未標示（Frontiers｜2026-09-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNODhqcC1Ob2w5MEdySnVPUUFlNGlySTI0YkJYQUtJTGtlWnZKNDluNEUwZHRULTVhWklKMEdtWnVCSWEwMm53U1ZycDd3cmQtM2ZXVy1vZ2hSc0ZkSms3YVRjMU1LUTUtcU9Hc2dwWGZYd3lfWmhUbDZlWUdGQi05LW1KTGY3U2ctZllLcWNiTTlPS2xUSXZxRy1yWjlXRVM4dzg5ekpvY2NaN0pYRlE"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "AI 改變民眾就醫行為，台灣專家提出兩大原則協助查驗健康資訊可信度",
+      "summary": "隨著生成式 AI 工具普及，越來越多台灣民眾在就醫前先向 AI 諮詢健康問題，此一趨勢正在改變傳統就醫行為模式。台灣醫療專家對此提出警示，指出 AI 提供的健康資訊品質參差不齊，民眾若缺乏正確判斷能力，可能導致延誤就醫或自行服藥等風險。專家建議民眾遵循兩大原則查驗 AI 資訊可信度：一是確認資訊是否有醫學實證或可信來源佐證；二是評估資訊是否符合個人實際病況與體質差異，而非通用性建議。此議題亦提醒醫療機構，應主動加強對患者的 AI 健康資訊素養教育，並思考如何在臨床場域中有效整合 AI 諮詢工具，以提升整體醫療品質而非造成混淆。",
+      "tags": [
+        "AI健康資訊",
+        "患者AI素養",
+        "台灣醫療AI",
+        "就醫行為"
+      ],
+      "author": "未標示（元氣網｜2026-09-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zTWttSE1MVGFVNlR0VzJUWkZodktZYmJxaGxaVnFmbnluUFI2TzVuYzI1bjVuMlZRSktlSHlsVU9LVmlVNkdta2YwSTFURVAtSDVoSGg2UUY5Y2Vz0gFiQVVfeXFMUEJSRmlVcGRZc01oTHdOdEN0WVF4SGxUTXJtdHVCSG5jeGxWTDRPMFJkRnVoTG1ZV3NOeXVFeS0zQnlVMTR3WGpGX3VIUWpfNUE4NHR0R0VLazhJRHJDX1BpWkE"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "Agentic AI 突破臨床試驗設計瓶頸，有望大幅縮短方案修訂週期",
+      "summary": "MedCity News 刊登深度分析指出，臨床試驗中頻繁的方案修訂（Protocol Amendment）是造成試驗延遲的主要原因之一，平均每項三期試驗需歷經 2.3 次重大修訂，嚴重拖累新藥上市時程。新興的 Agentic AI（自主代理型 AI）技術透過整合歷史試驗資料、法規要求及患者招募模式，能在試驗設計階段提前識別潛在方案缺陷並提出優化建議，從而減少事後修訂的需求。此外，Agentic AI 亦可協助即時監控試驗執行進度、自動偵測異常資料模式，進一步提升試驗品質與效率。文章強調，加速臨床試驗不僅是商業利益考量，更直接關係到患者能否更早獲得安全有效的治療選項，具有明確的公衛意義。",
+      "tags": [
+        "臨床試驗AI",
+        "Agentic AI",
+        "藥物開發",
+        "試驗設計"
+      ],
+      "author": "未標示（MedCity News｜2026-09-01）",
+      "source_url": "https://medcitynews.com/2026/09/breaking-the-amendment-cycle-how-agentic-ai-enables-smarter-clinical-trial-design-and-operations/"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "AI 正在改寫醫療專業：從知識解離到建構生命趨勢線的典範轉移",
+      "summary": "工商時報刊載深度分析，探討 AI 如何從根本上重塑醫療專業的知識架構與實踐模式。文章指出，傳統醫療知識建立在醫師個人學習與臨床經驗積累上，而 AI 的介入使得「知識」與「判斷」開始解離——AI 能透過大規模資料分析建構個別患者的生命趨勢線，提供超越單一醫師認知範疇的縱向預測能力。此一轉變正促使醫療專業重新定義醫師的核心角色：從資訊提供者轉向決策詮釋者與患者關係管理者。文章同時指出，台灣醫療體系在 AI 導入過程中，需正視醫師角色轉型帶來的心理適應與培訓需求，以及如何在技術賦能與醫師自主性之間取得平衡，對醫院領導層的組織文化管理具有重要參考價值。",
+      "tags": [
+        "醫療AI趨勢",
+        "醫師角色轉型",
+        "台灣醫療",
+        "AI倫理"
+      ],
+      "author": "未標示（工商時報｜2026-09-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xSlRYdktfRXUweG9ZZDdiZ2VwRVJ6aEZtaENJbVI0UGhFckJjbGpEWFUwZUJXd3pfb2NVZ3duMDJWdkcxNnI2UzJQYk0yVERmaFROQUtvOGx3VUVIWDNV"
+    },
+    {
+      "rank": 8,
+      "score": 6.0,
+      "title": "AI 模型突變全基因組實驗揭示預測極限：頂尖 AI 無法準確預測病毒 DNA 全面改寫的生物效應",
+      "summary": "Nature 最新報告指出，研究人員對一種病毒的整個 DNA 序列進行系統性單點突變實驗，並以此測試多個頂尖 AI 模型的生物功能預測能力。結果顯示，即使是當前最先進的基因體 AI 模型，在面對全基因組規模的突變組合時，預測準確率仍顯著低於預期，暴露出現行 AI 在理解複雜生物系統交互作用方面的根本性限制。此發現對於依賴 AI 進行基因體功能預測的精準醫療研究具有重要警示意義，提醒研究者不應過度仰賴模型輸出而忽略實驗驗證。對醫院資訊與研究部門而言，此研究提供了評估 AI 在基因體醫學應用場景中可靠性邊界的重要參考依據。",
+      "tags": [
+        "基因體AI",
+        "AI極限",
+        "精準醫療",
+        "AI可靠性"
+      ],
+      "author": "未標示（Nature｜2026-09-01）",
+      "source_url": "https://www.nature.com/articles/d41586-026-02609-y"
+    }
+  ]
+}
