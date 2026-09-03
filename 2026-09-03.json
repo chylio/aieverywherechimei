@@ -1,0 +1,103 @@
+{
+  "date": "2026年09月03日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "醫療 AI 代理人安全警訊：三分之一已部署系統發生私密資料外洩",
+      "summary": "一份最新調查報告指出，醫療機構所採用的 AI 代理人（AI agents）正面臨嚴峻資安挑戰，在受評估的系統中，高達三分之一曾發生患者私密資料外洩事件。報告顯示，隨著 AI 代理人在臨床工作流程中的應用範圍持續擴大，其自主性與資料存取權限也隨之提升，卻未能配套相應的資安防護機制。這一現象不僅對患者隱私構成直接威脅，也引發外界對醫療機構 AI 治理成熟度的質疑。專家警告，若醫院在快速導入 AI 代理人的同時未能建立完整的稽核與存取控管框架，將使整體資安風險呈指數型攀升。此議題對負責醫療資訊系統建置與數位轉型的主管而言，具有高度迫切的政策與管理意涵，亦凸顯資安與 AI 治理必須同步推進的重要性。",
+      "tags": [
+        "AI代理人",
+        "資料安全",
+        "醫療資安",
+        "AI治理"
+      ],
+      "author": "未標示（News Channel 3-12｜2026-09-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYzBucE1JY1NpQWxibGFhOWpLRlZpZW1HaU0zN1VfZzYwRUtNY3Q1Q2k0UDM1Y2g4bV9lbUJXbWNUa2tyQktldmZOT090WUgtZEcxX2t3UWdrRkZORUdzQzRqQTJ6eGh5eHQ0X085aDB0dWFOYWN4YkhtX3hIWDBaSGZOeW1EODUwS3JEMWxQLWR6NGRtVEkyUWtJY3ZRVnc0dVdUaUMyS2pCd3R3MHFOUVFCVllfSkFfbHQtcS1vZzYtdENEMHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "醫療 AI 人口統計資訊揭露嚴重不足，研究示警偏差風險",
+      "summary": "最新研究指出，現行醫療 AI 模型在開發與驗證報告中，針對年齡、性別、種族、社經地位等人口統計資訊的揭露仍嚴重不足。研究團隊分析多個已上市或已發表的醫療 AI 系統後發現，絕大多數模型未完整說明訓練資料的人口組成，使外界難以評估其在特定族群中可能存在的效能落差或偏差問題。此一缺口不僅影響模型的可信度與公平性，更對監管機構的審查構成挑戰，因為缺乏透明的人口統計報告，將難以識別模型是否對特定弱勢族群存在系統性誤差。研究者呼籲學術期刊、產業界及主管機關共同建立標準化的人口統計揭露規範，以推動更具公平性的醫療 AI 發展。",
+      "tags": [
+        "AI公平性",
+        "人口統計揭露",
+        "模型偏差",
+        "醫療AI監管"
+      ],
+      "author": "未標示（News-Medical｜2026-09-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVBkYi0xMWlvb19FdVlISkpYV19yTXRSU0VVUkJybjNMMGMyMFhuZHBzRFNNYW5vQmFHNFZvRndKbVBrQWVrYnYzbVNJWlMwNFNsYlM1LVFzQ3A4MFBDTmV6ZTczd282aWlRc2R4R09BanNQdVRvbzNMZTY3UXBJZE1ZeVRQOE9RcVhyeHNRSk5DbjMwSEJJNTR5bGJfWWlpTTdRUUFxZDJYZVcwRkg1THAtSmloUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "AI 將多發性骨髓瘤臨床試驗篩選時間從兩週縮短至數秒",
+      "summary": "韓國一項臨床研究成果顯示，運用 AI 系統輔助多發性骨髓瘤（multiple myeloma）臨床試驗的患者篩選流程，可將原本需要約兩週的人工審查時間壓縮至數秒完成。該 AI 工具透過自動解析電子病歷中的診斷紀錄、用藥史與實驗室數據，即時比對試驗入排標準，大幅降低研究協調員的行政負擔，並顯著提升患者招募效率。此應用案例凸顯 AI 在加速臨床試驗流程、縮短新療法問世時程方面的實際潛力，對腫瘤科及臨床研究團隊具有直接的參考價值。研究者也指出，此模型的設計架構具有較高的可移植性，未來有望擴展至其他血液腫瘤或複雜癌種的試驗篩選情境，加速多中心試驗的患者招募工作。",
+      "tags": [
+        "臨床試驗AI",
+        "血液腫瘤",
+        "患者篩選",
+        "自動化"
+      ],
+      "author": "未標示（Korea Biomedical Review｜2026-09-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjY2Zvb18yYVNFOTdCMUlwclJqT0xETzN6eWNwLW02Z0FSU3l1TjB1YmhONGpoUHdOTXZmN0pxdWNsc0pTOTQ5ZGRLNDdnNGNXM0RrTUpTclRZeTJqNmF1R0ZpZkdmcnMtMFYwTUtn0gFyQVVfeXFMTW5jZnpjR01HMDIzbGhuNWo3eW9hWnlzUWRxSHdQSmNSX3pyWk9tMjZiY1JFOElxMk1NVzZDblBHNXNqZWs5Qlg1S0xVTTRHcXRhQ0NUMnhUSE1VbUZ5UG9GUE1KX0E2eVNROUgwUjVBQmF3?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "AI 代理人有望大幅減輕臨床人員事前授權行政負擔",
+      "summary": "事前授權（prior authorization）長期是美國醫療體系中導致臨床人員倦怠的主要來源之一。最新分析指出，AI 代理人技術的成熟為這一痛點帶來突破性解法。透過自然語言處理與自動化工作流程，AI 代理人可自動蒐集患者臨床資料、比對保險公司授權標準，並代為填寫提交相關申請文件，將原本耗費護理師與行政人員數小時的重複性作業壓縮至數分鐘內完成。分析者強調，此類應用不僅有助於緩解臨床人力短缺壓力，更能讓醫護人員將更多精力投入直接照護工作。然而，文章也提醒，AI 代理人的導入必須配套完善的錯誤偵測機制與人工監督流程，以避免自動化決策誤判對患者醫療資源取得造成負面影響。",
+      "tags": [
+        "AI代理人",
+        "事前授權",
+        "臨床工作流程",
+        "人員倦怠"
+      ],
+      "author": "未標示（DesignRush｜2026-09-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WVmM0NTNOTHZHaG9qc0RraExPOUp0NU01UldfRUtpamxZWTM4bEhqbloxdkFXYTB5cFpfLXBJZlhDbHpuY0V1emthTXF4N3JMcXR4R0l2ODBISnhUNnlR?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "醫療 AI 轉型關鍵：舊有基礎架構才是瓶頸，而非 AI 本身",
+      "summary": "一篇來自 MedCity News 的深度評析指出，許多醫療機構寄望 AI 工具直接改善照護效率，卻忽略了底層系統架構老舊才是根本障礙。文章強調，當 AI 解決方案被疊加在 1990 年代設計的工作流程與資訊系統之上時，局部改善往往難以轉化為全機構的系統性變革。醫院若未能同步重新設計照護流程與資料基礎設施，AI 的導入將只是在既有低效系統上增添複雜度，而非真正提升效能。作者呼籲醫院領導層在推動數位轉型時，應將基礎設施現代化列為與 AI 採購同等重要的優先事項，唯有從架構根本出發重構，AI 才能真正發揮轉型槓桿效應，實現跨部門的整合性效益。",
+      "tags": [
+        "數位轉型",
+        "醫療資訊架構",
+        "AI導入策略",
+        "醫院管理"
+      ],
+      "author": "未標示（MedCity News｜2026-09-03）",
+      "source_url": "https://medcitynews.com/2026/09/the-healthcare-inflection-point-ai-cant-fix-1990s-technology/"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "華碩攜手高通正式啟動「藥事 AI Agent」計畫，台灣智慧醫療新布局",
+      "summary": "台灣科技大廠華碩（2357）宣布與高通（Qualcomm）合作，正式啟動「藥事 AI Agent」計畫，目標將 AI 代理人技術應用於藥事服務領域。此合作案代表台灣在地科技業者開始將邊緣運算晶片與 AI 軟體能力結合，切入醫療場域的實際服務流程，涵蓋藥物諮詢、用藥提醒與藥事行政自動化等潛在應用方向。此舉不僅顯示台灣本土智慧醫療產業鏈的整合深度持續提升，也呼應全球醫療機構對 AI 代理人應用於臨床支援工作的高度關注趨勢。對台灣醫院資訊與藥事管理部門而言，此一產業動態值得持續追蹤，未來或將出現可評估導入的本土化藥事 AI 解決方案。",
+      "tags": [
+        "藥事AI",
+        "台灣醫療AI",
+        "AI代理人",
+        "智慧醫療"
+      ],
+      "author": "未標示（富聯網｜2026-09-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeEtTY3VUd1oyaTBZUGVEakJmRV9kY1BabVViRnRGODBIRUFwbzlnaWNGRDFvdkdKOFQ3T290YjJfV2pBMW1DRXFqOHUtWlpBT3pfOS1VaEFBYnFRMThmVmFuck1zdlNiSEp0aGdQci11NzNMR0JOYkpSMzd0cnJpQi1GUU8yY2Z0?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 5.5,
+      "title": "台灣代表出席 APEC 衛生工作小組，倡議亞太醫療 AI 智慧共享",
+      "summary": "台灣 ABAC（亞太經合組織工商諮詢理事會）代表張嘉淵出席於中國大連召開的 APEC 衛生工作小組會議，積極推動亞太地區醫療 AI 資源與知識的跨境共享機制。會議聚焦於如何透過多邊合作架構，協助成員經濟體建立醫療 AI 標準規範、資料互通協定及跨國驗證框架，以避免各國重複建設並縮小數位醫療能力落差。台灣代表的參與展現台灣在醫療 AI 領域的國際能見度，並強調透過區域平台輸出台灣醫療 AI 實踐經驗的戰略意義。此一外交與政策動態對台灣醫療機構在國際合作研究及標準接軌方面具有潛在影響，值得醫院國際事務與研究發展部門關注。",
+      "tags": [
+        "APEC",
+        "醫療AI國際合作",
+        "台灣醫療",
+        "政策"
+      ],
+      "author": "未標示（環球生技月刊｜2026-09-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qa2U4ajVXSXhra2RyNXJwUTgzVWQwZ2s2VjVWVF91d0NtSi1HdkFNZm9ZZ1lidDQyc3NPVVVhUktHZVZ5ZmI3bnBQcFVTbkctOVlMM3NFLUVXQkdXaDNoTnpza0p3aVpO?oc=5"
+    }
+  ]
+}
