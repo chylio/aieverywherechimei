@@ -1,0 +1,145 @@
+{
+  "date": "2026年09月04日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "FDA TEMPO 試驗計畫為生成式 AI 醫療器材開闢正式上市前臨床通路",
+      "summary": "FDA 推出名為 TEMPO 的試驗性監管計畫，允許符合資格的生成式 AI 數位健康產品在取得正式上市授權之前，即可提前向患者提供服務。Cadence 與 Limbic 的 AI 產品已成為首批獲接受的四款裝置之一。此舉代表 FDA 正式承認生成式 AI 醫療器材的特殊監管需求，並試圖在安全把關與促進創新之間取得新平衡。對醫療機構而言，這意味著未來可能更早接觸到尚未完成完整審查的 AI 臨床工具，但也須同步強化內部的採購評估與風險管理機制。TEMPO 計畫的推進方向，將深刻影響醫療 AI 產品的全球市場准入策略，值得各院資訊與數位轉型團隊密切追蹤其後續規範細節。",
+      "tags": [
+        "FDA監管",
+        "生成式AI",
+        "數位健康",
+        "醫療器材"
+      ],
+      "author": "未標示（STAT News｜2026-09-03）",
+      "source_url": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "全球首例乳癌 AI 分流工具獲批：可繞過放射科醫師直接判讀",
+      "summary": "一家 AI 公司的乳癌篩檢分流工具取得全球首項監管核准，在特定條件下可完全跳過放射科醫師的人工審閱，由 AI 直接完成判讀與分流決策。此里程碑式核准打破了長期以來「AI 輔助、醫師終審」的既有框架，意味著 AI 在影像醫學中的角色正式從「輔助工具」晉升為「自主判讀者」。這一轉變對醫院放射科人力配置、醫療責任歸屬及品質保證流程均帶來深遠影響。對於積極布局影像 AI 的醫療機構，需同步評估此類自主決策系統的臨床驗證標準、錯誤率容忍度及法律責任框架，以確保在提升效率的同時，維護患者安全。",
+      "tags": [
+        "乳癌篩檢",
+        "影像AI",
+        "放射科",
+        "自主判讀"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-09-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM3dmcWNRTHVucDFTZm5YbDhHQ0I1SWRNLThtbTF0bnJBNVcwODZHcXZMQk96UmplcE1sU0FRejFXV0JfTTVORjd1SXV4SUNqSXBxUzRoNTJtX0NRd3o5bmZEeVllamZiSXY5NENiTkV6eGJaZ2hUOFN4R1liUUhvYWpJVzh0V1BIN2JvaWotUE1UXzZBZTdnZXlMSnFyVFA0TDNHWExVNDFWcjMxY0JCeWFKdUp2UXNINmdRXzNyUE50cklTaUF3MkdkRk1oNDxHMDVoMHZyYzUyZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "FDA 正式核准 Cercare Medical AI 腦腫瘤自動分割系統",
+      "summary": "FDA 正式核准 Cercare Medical 開發的 AI 腦腫瘤自動分割工具，該系統能從影像中精確勾勒腫瘤邊界，大幅減少神經放射科醫師手動標注所需時間。腦腫瘤分割是放射治療計畫制定、療效評估與手術導航的關鍵前置步驟，傳統人工作業耗時且具一定主觀性。此次 FDA 核准為臨床部署提供了明確的法規依據，有助於加速相關技術進入神經外科與放射腫瘤科的標準工作流程。對已建置或規劃引進神經影像 AI 平台的醫院而言，此核准案例提供了重要的臨床可行性與監管合規參考基礎，亦凸顯腦腫瘤 AI 細分市場的成熟度正快速提升。",
+      "tags": [
+        "FDA核准",
+        "腦腫瘤",
+        "影像分割",
+        "放射腫瘤科"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-09-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMzhoYTkzdUJ0b3VnODAyVjREUndwblFrcl91cmsxY3FGcVRTaHRuV0VlcjlIbW10czFQYmdlRXFralgzSnd4YTczbVoyekMtcWxEWDZ0SUkzTHMzVE5hZEk1Tm44TnRSSzBuR2JxLVQ5WW04emhTc0oxOVhNeVB5S3dQODBvMFp5UDRCS0hlZjBWVVV6SXFLbDhmX201ZjRlYi05ag?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.2,
+      "title": "OpenEvidence 發布 Darwin 醫療 AI 模型家族，瞄準臨床決策支援市場",
+      "summary": "醫療 AI 公司 OpenEvidence 正式推出以 Darwin 為名的新一代醫療 AI 模型家族，專為臨床人員設計，涵蓋診斷輔助、醫學文獻搜尋與臨床決策支援等應用場景。相較於通用大型語言模型，Darwin 系列針對醫療知識庫與臨床語境進行深度優化，旨在提升答案的精準性與醫療可信度。此發布時機與 FDA TEMPO 計畫同步，顯示生成式醫療 AI 市場正加速從概念驗證轉向臨床實際部署。對醫院資訊與數位轉型團隊而言，此類專科化醫療 AI 模型的持續推陳出新，將推動醫療機構重新評估現有臨床決策輔助系統的技術路線與廠商選擇策略。",
+      "tags": [
+        "醫療AI模型",
+        "臨床決策支援",
+        "生成式AI",
+        "OpenEvidence"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-09-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMkY1Y19BMzB4ZTVNWmNpQ0xrbk1MWjBZd3V5MWlrRVNyRmVTRzJoMjZoSkR6NzFUX1cwcy0zMjd2YzVuVnBjSXVMNnpPQmNZb0RXRjc2VVdXOFpvR3JJRDhfWlR2LUlnQXdTelNuaXJHcXBHZlRqYjNaYlN1N3BmUXJVWmdFWmZPNW5aREhzd24?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "AI 精準辨識放射科住院醫師學習落差，個人化訓練新模式浮現",
+      "summary": "最新研究顯示，AI 系統能夠分析放射科住院醫師的判讀記錄與學習表現，精準識別各別學員的知識盲點與技能落差，並據此推薦個人化的學習路徑與強化訓練內容。傳統住院醫師培訓多依賴固定課程與上級醫師的主觀評核，難以即時掌握個別學習需求。AI 輔助的個人化訓練模式不僅有助於縮短培訓周期，亦能提升整體診斷品質。此應用方向對規劃住院醫師培訓數位化的醫學中心及教學醫院具有重要參考價值，同時也為醫療教育 AI 的新興應用場景提供了具體的實證基礎。",
+      "tags": [
+        "醫學教育",
+        "放射科",
+        "個人化訓練",
+        "AI輔助學習"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-09-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOXU1OUtUVnlvWWFKaWV1ZGdncWtiSVRreWVXN2ZJQmYtRmJIdFA2aDU0Um9uT2JaQTNERTNINlVFc0pFYzdtU1pqalhiRENoeTNtUjYwWllfbUVfZEh4Z1VjTXUwcFN5ekJQUEt5X05PbFQtUUktbnZMT3dUdDRsSnRrVGNDb0kyV3c3ck5fUVE4WmpncXhHY2hOTkxva2lJR3N4X0JsOUdOUVg2S2dubEw2bjNyNEpCaXB1UVJmNFJhdzRaTTlSLVdFOUkyVWl1R2tKdWxxdGc1MzZ3XzVpdg?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "AI 工作清單優先排序工具使影像報告及週轉時間縮短逾七成",
+      "summary": "一項針對放射科工作流程的實證研究顯示，導入 AI 驅動的工作清單優先排序工具後，影像報告出具時間與整體週轉時間均削減超過 70%。該工具透過即時分析影像緊急程度、患者臨床背景及科室工作量，自動調整醫師閱片優先順序，確保高風險個案獲得優先處理。此類工具已在多家醫院的急診及住院影像部門展現顯著成效，不僅提升患者安全，亦有效緩解放射科醫師的工作壓力。對醫院管理層而言，此結果提供了具體的效益量化數據，可作為評估影像 AI 投資報酬率的重要參考依據，尤其適用於高工作量的大型教學醫院。",
+      "tags": [
+        "放射科效率",
+        "工作流程AI",
+        "影像判讀",
+        "醫院營運"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-09-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUkIzZU9HcDVKbk5xY1g5OEVhZ0hOMTltMkhvelcyM01qOUc1anh2eTFUVEs0aVdScGJkTGVETHRld1JLSWw5SGV6NFRrOG1KNV9wZWFxMHdESkhfOVZMVy1wcFNSeXZoQU40LUN1QVpNcE1SM3FlRHgzaXNKY3BvWUtydUZuampkS3RHZVp2WkVtaUVqZFEzelVtQWpuSS1RT2pSeFVYSDN1WW9ZeXl4Y29VbDFOOUZ6UkxFYzFQazROWmFFejdydnk1MUoxWUk?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.2,
+      "title": "澳洲肺癌篩檢計畫全面啟動，為醫療 AI 開啟新興市場商機",
+      "summary": "澳洲正式推行全國性肺癌篩檢計畫，此舉被視為醫療影像 AI 的重大市場機遇。韓國 Coreline Soft 等 AI 影像分析業者已率先布局，積極爭取在澳洲篩檢體系中的技術導入機會。肺癌 AI 篩檢工具能自動分析低劑量 CT 影像中的肺結節，提升早期偵測效率並減輕放射科閱片負擔。澳洲案例顯示，國家級癌症篩檢政策的推動往往是驅動醫療 AI 規模化採用的關鍵催化劑。對台灣醫療機構及政策制定者而言，此案例提供了政策引導 AI 落地的實務參考，亦有助於預判肺癌 AI 篩檢在亞太區的市場發展趨勢。",
+      "tags": [
+        "肺癌篩檢",
+        "影像AI",
+        "亞太市場",
+        "癌症早期偵測"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-09-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PNFRuU3A2d2kxTkNfZ3dkUVh5WnRyT2pBSWtOVVRpNmRGZDAyZUhDRU9RMVFuRUZEaHZnRHcwZ01MUFU2NHhMcDVleXFXQVN5anpldVBMNi1RU3Z6amlDMzZxZXNhVXRhVHZxTHVqdGY?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "新加坡 AI 心臟掃描工具進入更大規模醫院測試階段",
+      "summary": "新加坡自主研發的 AI 心臟超音波分析工具，已通過初步臨床驗證，正式進入多院跨機構的大規模醫院測試階段。該工具能自動解析心臟超音波影像，快速評估心臟功能指標，包括射血分數與心室容積等關鍵參數，有望協助心臟科醫師更迅速地篩查心功能異常患者。新加坡政府積極推動公立醫療體系中的 AI 技術試驗，此案為亞洲地區心臟影像 AI 臨床驗證提供了重要示範。對奇美醫療體系的心臟內科及超音波室而言，此類 AI 輔助工具的發展動態具有直接的臨床參考意義，亦反映亞太區心血管 AI 應用的加速成熟趨勢。",
+      "tags": [
+        "心臟影像AI",
+        "新加坡",
+        "超音波",
+        "心血管醫學"
+      ],
+      "author": "未標示（GNews-AI clinical｜2026-09-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb0lFRUMtdk8tVlpwaFpfdVMwd3BNd3hPS2FWcnFkb3VfUDdSV05YbEVjYlU5NTF5WExfMFV1dVdoWDctUUtTNWUxZVhfWUgzSFo4STFlT0FwdGppVzEwQ1FsLUo4ZzZsTHNvdnVyXzBGV21fbGQxZWNpVHdaWGpGek5SWHlqM1Z1cTB1d1J2Q3oxUVgyd2pTQTEzcVNLYzFHdjIzR3ppbklYcWU5Mnh2dFlVdw?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.8,
+      "title": "西雅圖科學家啟動 9,500 萬美元 AI 生物學研究計畫，加速藥物探索",
+      "summary": "美國西雅圖一群科學家正式啟動規模達 9,500 萬美元的大型 AI 生物學研究計畫，目標是運用人工智慧加速生命科學基礎研究與新藥探索流程。該計畫整合機器學習、蛋白質結構預測與基因體分析等前沿技術，預期將顯著縮短從基礎研究到候選藥物確認的時間周期。此類大規模 AI 生物學投資浪潮持續湧現，反映學術界與產業界對 AI 驅動藥物開發的高度信心。雖然此計畫以基礎科學為主，但其所開發的 AI 工具與方法論，中長期將對臨床試驗設計、精準醫療及新藥進入臨床的速度產生深遠影響，值得醫療機構研究發展部門持續關注。",
+      "tags": [
+        "AI生物學",
+        "新藥開發",
+        "精準醫療",
+        "生命科學投資"
+      ],
+      "author": "未標示（STAT News｜2026-09-03）",
+      "source_url": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss"
+    },
+    {
+      "rank": 10,
+      "score": 6.5,
+      "title": "萬芳醫院舉辦三十週年國際研討會，強調 AI 進入醫療但不取代醫師",
+      "summary": "萬芳醫院於三十週年院慶首次舉辦國際醫療 AI 研討會，廣邀國內外專家探討人工智慧在臨床照護中的角色定位。院方明確表態：AI 是輔助工具，核心醫療判斷仍須由醫師主導，強調人機協作而非機器取代人力的發展方向。研討會涵蓋 AI 影像診斷、智慧病歷、臨床決策支援等多元議題，並分享萬芳醫院內部的 AI 落地實務經驗。此次活動反映台灣醫療機構在 AI 導入過程中，日益重視倫理框架與人機界面的設計原則，對國內醫院在制定 AI 治理政策與醫師在職教育規劃方面具有直接參考價值。",
+      "tags": [
+        "台灣醫療AI",
+        "人機協作",
+        "醫療倫理",
+        "智慧醫院"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-09-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JWkVoVUJZRDRrbWdpSmlTNERScUtHMnl3cFl1SjZIR3ctbmRNZmVfbjA2QW9McnV4eW1VTXJDZU5oRFVrT3ZVa1pjYnN3QktS0gFWQVVfeXFMTkZaQUFLUHNDYXdaTVRQS0drV3JiUFRqZVlDYTFKWlF5am9IbWx2ZERvQUFQREtBdTg0NjRVcEhtcXgyYzYxX2NZeURSd0piNWF0ZWx4MWc?oc=5"
+    }
+  ]
+}
