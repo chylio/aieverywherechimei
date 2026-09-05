@@ -1,0 +1,131 @@
+{
+  "date": "2026年09月05日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "醫療 AI 訓練資料學到的是醫院帳單邏輯而非患者生物學，研究警示系統性偏差風險",
+      "summary": "Tech Times 報導，多篇新研究揭示醫療 AI 模型訓練資料存在根本性缺陷：模型學習到的模式高度反映醫院帳單編碼與行政流程，而非真實的患者生理狀況或疾病生物學。研究指出，現行電子病歷資料集充斥保險申報偏誤、診斷編碼不一致與文件記錄差異，導致訓練出的 AI 模型在不同醫療機構或付費模式下泛化能力嚴重受限。此問題不僅影響臨床決策支援工具的準確性，更可能在弱勢族群中加劇醫療不平等。研究團隊呼籲業界在導入 AI 前，必須對訓練資料進行系統性稽核，並建立去帳單化的標準化資料前處理流程，方能確保模型真正反映患者健康狀態而非行政產物。此研究對正在規劃或已部署臨床 AI 系統的醫療機構具有高度參考價值。",
+      "tags": [
+        "AI偏差",
+        "訓練資料",
+        "臨床決策支援",
+        "資料治理"
+      ],
+      "author": "未標示（Tech Times｜2026-09-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM0xsT0JMdThYZlhSR1E2c1c5b1dJbmtmX0dwdG5TSDE0RTZwb0c3NWdpTkZPbXVZeG4wVnhEVzc3d3RrelhmTUZXMnB4V19Nc2FWcTZOeHA0OUU4VXc0NW55UzZNZjNQUUdRME53Q0ZVLWQ5anFRT013SlRhdUtEOVBsQUlaQTJCR1VTLUY3SWFfNjBrOU0tR0thcjctcVQwYUUza19Jc2FNU3BEeFdyd1Y4UVE0MHhWNVhIV3BuZTlrSFlGQVpfdHpOdmVEcUU"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "FDA 為 AI 自動起草放射科報告技術授予突破性器械認定",
+      "summary": "Medical Product Outsourcing 報導，FDA 正式授予一項 AI 技術「突破性器械認定（Breakthrough Device Designation）」，該技術能夠自動起草放射科影像報告初稿，大幅縮短放射科醫師報告撰寫時間並降低行政負擔。突破性器械認定將使開發商在審查流程中獲得 FDA 更密集的互動指導，有望加速正式上市核准。此消息對影像醫療 AI 市場具有重要政策信號意義，顯示 FDA 持續將自動化報告生成工具視為優先支持的臨床技術領域。對醫療機構而言，此類工具若獲正式核准，將直接影響放射科工作流程、人力配置及報告品質管理策略，是各醫院資訊部與放射科主任值得密切追蹤的監管動態。",
+      "tags": [
+        "FDA突破性器械",
+        "放射科AI",
+        "自動報告生成",
+        "監管政策"
+      ],
+      "author": "未標示（Medical Product Outsourcing｜2026-09-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmVYWUFUY0VJYzZEX0VOR0RqUEU1c0g2WnNQZnI4YTFGaEtjVEx3LUd2Tm5GdmI1cDlOMFRlNVFaNW9Cb2dxRlV0MFdxLXh5VnZVZUlCZFZlM3E3X1FEQkxmZ1A5Um90UHZQZVc5cWUxTUdyNmZtaTU5Y2FNdjNCek1MbkptNjFOVVR0X2xtOXJOU1FfOUQ4cFZlRFBlc3prTHhoWndUWjZHU1pScWt4S20zWWowNF9uRmNyOXBlWHU"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "The Lancet 深度透視：時序 AI 基礎模型如何將患者就醫歷程轉化為可計算表徵",
+      "summary": "The Lancet 刊出一篇觀點文章，系統性介紹新一代「時序 AI 基礎模型（temporal AI foundation model）」的核心概念與臨床潛力。有別於傳統臨床預測模型僅針對單一變數或端點進行建模，此類新型模型將患者完整的就醫歷程進行「代幣化（tokenisation）」，產生可供下游任務使用的連續向量表徵，涵蓋跨機構、跨時間的分散式病歷片段。文章指出，電子病歷並非患者本身，而是患者與醫療體系互動的不完整紀錄；新一代模型的目標在於從這些碎片中建構更接近患者真實健康軌跡的計算模型。此典範轉移對預後預測、慢病管理與個人化治療決策具有深遠影響，但作者同時提醒資料完整性、隱私保護與模型可解釋性仍是未解挑戰。",
+      "tags": [
+        "AI基礎模型",
+        "患者歷程",
+        "臨床預測",
+        "電子病歷"
+      ],
+      "author": "未標示（The Lancet｜2026-09-05）",
+      "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01773-3/fulltext?rss=yes"
+    },
+    {
+      "rank": 4,
+      "score": 8.2,
+      "title": "OpenAI 對決 Epic：全球 AI 醫院工作流程的制高點之爭",
+      "summary": "Health Services Daily 報導，OpenAI 正積極切入醫院工作流程 AI 市場，與長期主導電子病歷生態系的 Epic 形成直接競爭態勢。OpenAI 透過整合大型語言模型能力，瞄準臨床文件記錄、醫囑輸入、出院摘要生成等傳統 Epic 強項場景；而 Epic 則持續深化其原生 AI 功能並擴大合作夥伴網絡以鞏固陣地。此競爭格局將對全球醫療機構的資訊系統採購策略產生重大影響，尤其是正在評估或更換 EHR 平台的醫院，須在廠商生態整合度與 AI 功能彈性之間尋求平衡。分析師指出，這場競爭最終受益者將是醫院端，因競爭可望帶動功能快速迭代與成本下降。",
+      "tags": [
+        "AI工作流程",
+        "OpenAI",
+        "Epic",
+        "醫院資訊系統"
+      ],
+      "author": "未標示（Health Services Daily｜2026-09-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWRWampud2dIbUszZ0pPZGFGN05UalVkN0hFbkV4QzBucWRUUjN3Mnc2MjdsNDBPM2c4X3BIVWo5S3FJMEtYa29uY2FLT213M2JIeVFqRnY1TnJHSW0xano0bnJYeGFweGZ4SG56MXZzQzZCcklaaU0yUjE2dmhwakp0eXBiZDNoS1VqUkR3M19RMEJtNkxsUWJkdzNyZ2M"
+    },
+    {
+      "rank": 5,
+      "score": 8.0,
+      "title": "醫療 AI 從炒作走向基礎建設：產業進入系統性落地新階段",
+      "summary": "Novobrief 報導指出，全球醫療 AI 正從概念驗證與媒體炒作階段，加速轉型為醫療院所日常運作基礎建設的核心組成。報告歸納出數個關鍵趨勢：一、AI 工具開始整合進電子病歷、護理流程與院內通訊系統，成為不可分割的工作流程元件；二、醫療機構從「試點導向」轉向「全院規模部署」；三、採購決策重心從技術新穎性轉向互操作性、資安合規與長期維護成本。報導同時警示，基礎架構成熟度（包含資料品質、網路安全與人才儲備）仍是制約 AI 效益實現的主要瓶頸。此分析為正在評估 AI 規模化路徑的醫療機構領導層提供了重要的市場定位參考。",
+      "tags": [
+        "醫療AI產業",
+        "數位轉型",
+        "基礎建設",
+        "規模化部署"
+      ],
+      "author": "未標示（Novobrief｜2026-09-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVDBpOVNIWG8tMFp4ZUFoNU1zaUM0M29kbVVWNDFEbFp6dTNPbmQzdThScnNuTTdZWTlZMnJnUmJhejVzbnhacE92c1hkdGhIMVRMRjNGamtjOTRnNXdVTU5VMFFqdmhiR1ZTQVZDX0xWVEhtM19YRUtncW9vN1VZWUd5NkhGWjdmSDNPTF96Sm5xaXRnQlpwUTNqcmlHRDlGSkdxbDlsZw"
+    },
+    {
+      "rank": 6,
+      "score": 7.8,
+      "title": "韓國與印度分別公布國家級醫療 AI 戰略，亞洲政策競爭格局成形",
+      "summary": "Healthcare IT News 報導，韓國與印度相繼發布具體的國家醫療 AI 發展策略，標誌著亞洲主要經濟體正式進入政策驅動的醫療 AI 競爭階段。韓國策略著重於整合國家健保資料庫以建構大規模 AI 訓練資料集，並設立專屬監管沙盒加速 AI 醫療器材審查；印度則聚焦於偏遠地區醫療可近性，計畫透過 AI 輔助診斷工具擴大基層醫療覆蓋率。兩國均強調資料主權保護與本土 AI 產業培育。此政策動向對台灣醫療 AI 生態系具有比較參考意義，亦顯示亞太地區監管環境將持續快速演變，相關醫療機構及廠商應密切追蹤各國規範差異，以利跨境合作與市場布局。",
+      "tags": [
+        "醫療AI政策",
+        "韓國",
+        "印度",
+        "亞太監管"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-09-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdE1iOHUycTQ4N3B5QUhZOUwzU0RXS19vTS1BLWxfakpTb253aG1ROUt1S1IzTjQxRExJdm90eGF0aDFQbUpXNU85ckhvZk8yclVsMk1zbUVaMHR6QjRwVTVWTW5TSDdQNDRIRmlxU1VfZnJkUUktOFBXRjZiaVBJWjNreUFXOTN2WW0ybTNpVmo"
+    },
+    {
+      "rank": 7,
+      "score": 7.5,
+      "title": "放射科教育典範轉移：AI 已能判讀影像，住院醫師該學什麼？",
+      "summary": "AuntMinnie Europe 刊出深度分析，探討在 AI 演算法已能高精度判讀多種醫學影像的時代，放射科住院醫師訓練課程應如何系統性重構。文章指出，傳統以「視覺辨識訓練」為核心的住院醫師教學模式面臨根本性挑戰：若 AI 工具在常規判讀上的表現已超越初學者，教學重心應轉向 AI 監督能力、錯誤識別、複雜病例整合判斷及與臨床團隊的溝通技能。作者並提出「人機協作」框架作為新一代放射科醫師的核心職能模型，強調批判性評估 AI 輸出、處理演算法邊緣案例的能力將成為未來放射科醫師的核心競爭力。此議題對設有放射科住院醫師訓練計畫的醫學中心具有直接的課程改革參考價值。",
+      "tags": [
+        "放射科教育",
+        "AI輔助診斷",
+        "住院醫師訓練",
+        "人機協作"
+      ],
+      "author": "未標示（AuntMinnieEurope｜2026-09-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUmladDl5aEJpWVU1SHZSSVBGVjVVZERfR0d6S1N2VmZNQ3lVMFJnVFI0TFR3WVRVOVJjSHYyT0ROWTFPQmx0UTJ6YVNPSXhwVE1PNnd4WVVPQ1ZQdmpTU1NoRmVqODIteXBjTTdYMDBlLWMzN3NWTDhMc2xmeGFTTlZkSElYeUU4U09Kb1M4YmhyVGxLaDJhRFNQaktnZllIYTF0SWxPeGVUTlRqNjVSbWpld1BQMlAyMmpaVWlubFpJaXNIV3N3Mm9VTW5pU0d3ZGNhNnRJb0VrbVYtOUhhc2NhblZISlk"
+    },
+    {
+      "rank": 8,
+      "score": 7.3,
+      "title": "Oracle Health 高層遭國會傳喚：退伍軍人醫療 EHR 合約從百億暴增至二百七十億美元",
+      "summary": "MedCity News 報導，美國眾議院退伍軍人事務委員會以 19 票對 0 票通過，正式傳喚 Oracle Health 執行長 Larry Ellison 及高階主管 Mike Sicilia 出席聽證，原因是美國退伍軍人事務部（VA）的電子病歷導入合約費用從最初的 100 億美元急劇膨脹至 270 億美元，遠超 Oracle 原先對國會的承諾上限。此案揭示大型醫療資訊系統導入計畫在預算控制、合約管理與廠商責任機制方面的嚴重風險。對各醫療機構而言，此案例提供了重要的採購治理警示：EHR 系統更換涉及的隱性成本遠高於初始報價，合約條款設計、里程碑驗收機制與成本上限保障條款至關重要。",
+      "tags": [
+        "EHR導入",
+        "Oracle Health",
+        "合約治理",
+        "醫療資訊系統"
+      ],
+      "author": "未標示（MedCity News｜2026-09-05）",
+      "source_url": "https://medcitynews.com/2026/09/oracle-healthcare-ehr-va/"
+    },
+    {
+      "rank": 9,
+      "score": 7.0,
+      "title": "北醫大體系攜國際專家布局 AI 醫療病安新典範，並公布五大智慧科技成果",
+      "summary": "台灣北醫大體系近日舉辦系列活動，宣示以 AI 強化病人安全為核心戰略方向，邀集國際專家共同研討 AI 進入臨床場域後的病安管理新框架。同期，北醫亦公開五大智慧科技應用成果，涵蓋智慧病房、遠端監測、無牆醫院概念落地等面向，展現 AI 從單點工具走向整合式醫療服務架構的實踐路徑。相關報導指出，北醫強調 AI 應作為醫療團隊的輔助工具而非替代者，並在系統導入過程中同步建立倫理審查與病安稽核機制。此系列動態反映台灣指標醫療機構在 AI 規模化部署上的實戰經驗，對國內其他醫院評估 AI 整合策略具有直接參考意義。",
+      "tags": [
+        "台灣醫療AI",
+        "病人安全",
+        "智慧醫院",
+        "北醫大"
+      ],
+      "author": "未標示（優活健康網｜2026-09-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0SURDRGpiVC1uRmR3M2ZuSWkzS2JGUGJ6bUpmQk1fX3J0ODhOT21RelpoclBheUY1aGk3SHlVQlhaMnZxRWdBV3ZKZXNjbGdZWE1Z"
+    }
+  ]
+}
