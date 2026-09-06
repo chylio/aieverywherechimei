@@ -1,0 +1,89 @@
+{
+  "date": "2026年09月06日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "台灣精準醫療戰線全面擴大：六大生技廠加速布局 WGS、AI 與外泌體三大技術",
+      "summary": "根據工商時報報導，台灣六家主要生技廠商正積極深化精準醫療佈局，涵蓋全基因組定序（WGS）、人工智慧輔助診斷及外泌體液態切片等三大前沿技術。各廠商依據自身核心優勢形成差異化策略：部分廠商側重 AI 模型與臨床數據整合，另有廠商聚焦外泌體生物標記的早期癌症偵測。此波擴張反映台灣生技產業在精準醫療領域已從單點技術突破，轉型為多技術協同的完整生態系。對醫院體系而言，與具有 AI 能力的生技廠商建立合作，將有助於加速基因組數據分析管線的建置，並為個人化治療決策提供數據基礎。此一趨勢亦顯示台灣在精準醫療資料主權與 AI 模型本地化方面的競爭正持續升溫，值得醫療機構持續關注後續合作與採購動向。",
+      "tags": [
+        "精準醫療",
+        "台灣生技",
+        "基因組學",
+        "醫療AI"
+      ],
+      "author": "未標示（工商時報｜2026-09-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pZkh6bDZRQzhYOVpRd0pjYWxTZ1NYdWdrNzhkenZaREFXNTBXUTNyQWNoSDVjbzMtZVFsZ283MTZBeERWUUx1TmhpQl9aY2VKQ3g1OU9TUFdJMHBTRDNJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "高通與華碩聯手推出「藥事 AI 助理」，南台灣逾 50 家藥局率先導入升級",
+      "summary": "高通與華碩於 2026 年 9 月 6 日正式宣布合作推出藥事 AI 助理解決方案，南台灣已有超過 50 家藥局搶先完成部署升級。此一 AI 助理整合高通邊緣運算晶片平台與華碩設備端優化，可於藥局端即時執行用藥諮詢、藥物交互作用查詢及處方輔助審核等功能，無需將敏感資料上傳雲端。值得注意的是，此計畫延續日前華碩攜手高通啟動「藥事 AI Agent」的政策方向，並已進入大規模實地落地階段。對台灣醫療體系而言，藥事 AI 工具的社區藥局端部署，有助於強化院前用藥安全網，並可能成為未來醫院藥事系統與社區藥局數位整合的橋接節點，其推廣速度與覆蓋範圍值得密切追蹤。",
+      "tags": [
+        "藥事AI",
+        "台灣醫療AI",
+        "邊緣運算",
+        "社區藥局"
+      ],
+      "author": "未標示（三立新聞｜2026-09-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vME9rSG93UFlGVG1TWklOdEY2aWRsb0xfTDhJWmhHRFdNZFdSODRpNlk0SE9oU2hHeXk3WXFFVVZ3ZnpaRk5iYjB5QzI?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "SSM Health 放射科醫師積極參與制定 AI 醫療應用標準，引領業界治理框架建構",
+      "summary": "SSM Health 旗下一位放射科醫師正積極投身 AI 醫療應用的標準制定工作，參與多個跨機構工作組，協助形塑 AI 輔助影像判讀的倫理框架、品質管控機制及臨床整合規範。該醫師強調，放射科醫師不應僅作為 AI 工具的使用者，更應扮演主動監督者與標準共同建構者的角色，以確保演算法在真實臨床環境中的準確性與安全性。此案例代表一種新興的「臨床醫師—技術治理者」雙重角色模式，對醫療機構推動 AI 治理具有示範意義。隨著 FDA 對 AI 醫療器材的監管日趨嚴格，醫院端若能培養具備政策參與能力的臨床 AI 代言人，將在標準制定、採購評估及風險管理上取得先發優勢。",
+      "tags": [
+        "放射科AI",
+        "AI治理",
+        "臨床標準",
+        "影像判讀"
+      ],
+      "author": "未標示（SSM Health｜2026-09-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeFZCM0pTYTFvRUpPNmRjaERxTUlYZlB4bVVaeThfRWRQb1dUNlVkOVdINlo3SnQ5WUctZ3dTaUpjaHRvRmxEcUFKaGJZUTRCQ3F6NGNNaGhHU2hpMFNzZDZjQlpXdzNzamQyQXRMWG5neHlKUi1ncG8tNFBMMXdWQ0o0b0VkeTd6T3oybDg4SFAzam5tbGFhd0I2TjR2My1pNUpfNklsN1NWN24tNHBveGZDRDVQN3lMa01aTUNJRmVsbnJQT2pLajBnQXhLQVJRY2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "香港理工大學與德適科技成立聯合實驗室，攜手推動 AI 醫療創新研究",
+      "summary": "香港理工大學與德適科技（Dexa Technology）正式宣布成立聯合實驗室，聚焦人工智慧在醫療診斷、影像分析及臨床決策支援等領域的創新應用研究。此一產學合作模式旨在縮短 AI 技術從實驗室到臨床應用的轉化週期，透過共享醫療數據資源與算法開發能力，加速醫療 AI 解決方案的驗證與落地。聯合實驗室的成立也反映出大中華地區高校與科技企業在醫療 AI 領域的合作正持續深化，形成有別於歐美模式的亞洲 AI 醫療創新生態。對台灣醫療機構而言，此類產學合作典範可作為建立本地 AI 醫療研發聯盟的參考，有助於提升臨床 AI 工具的在地適應性與法規合規性。",
+      "tags": [
+        "產學合作",
+        "醫療AI研發",
+        "香港",
+        "臨床決策支援"
+      ],
+      "author": "未標示（香港文匯報｜2026-09-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HZmc0RG5vUERSaFI5UzFTWGNmRVV4RlVLelpJSDRpbFZJeFJkbWxhZ0tQbUVHUTAweENBakM0RXdJMEZvU2lBQTlrcjl2OXg3VVpvWVFUT25WemdHUkRzU2V5MTN3NzB3Y2RNZjlEbGRLNDZKcktF?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "AI 時代記憶體與儲存架構的重新設計：即時醫療數據分析的基礎設施革新",
+      "summary": "MIT Technology Review 一篇深度分析指出，隨著 AI 推論（inference）時代正式到來，記憶體與儲存架構需進行根本性的重新設計，以支撐大規模即時數據處理需求。文章以醫療系統為核心案例，說明如何透過分析數百萬個即時數據點，加速生命科學研究及臨床決策。傳統儲存架構在面對 AI 工作負載的高頻隨機存取、低延遲要求時面臨瓶頸，新一代分層記憶體架構（包含 HBM、CXL 擴充記憶體等技術）正成為解決方案。對醫院資訊部與數位轉型團隊而言，評估現有基礎設施是否能支援 AI 推論工作負載，將是決定 AI 應用能否在臨床環境中真正落地的關鍵先決條件，建議在採購新一代 AI 應用平台前優先進行基礎架構評估。",
+      "tags": [
+        "AI基礎設施",
+        "醫療數據",
+        "即時運算",
+        "資訊架構"
+      ],
+      "author": "未標示（MIT Technology Review｜2026-09-05）",
+      "source_url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "醫師責任歸屬爭議升溫：讀者投書呼籲 AI 開發商不得藉「醫師簽核」免責",
+      "summary": "STAT News 讀者投書專欄匯集多位醫療專業人士對醫療 AI 責任歸屬問題的強烈關切。其中最具代表性的觀點指出：「一個點擊、簽名或簡短審閱，不應神奇地將責任從 AI 開發商或平台移轉至醫師身上。」投書者認為，目前醫療 AI 產品的法律框架設計，往往將最終責任不成比例地壓在臨床醫師端，而開發商則藉「醫師監督」條款規避實質責任。此一責任歸屬模糊地帶，在 AI 自動起草報告、輔助診斷建議等高風險應用場景中尤為突出。此議題的討論反映出醫界對 AI 工具導入後法律風險分配機制缺乏共識，呼籲監管機構儘速建立明確的責任框架，以保護臨床醫師並促進 AI 工具的負責任部署。",
+      "tags": [
+        "醫療AI責任",
+        "法規政策",
+        "臨床倫理",
+        "AI監管"
+      ],
+      "author": "未標示（STAT News｜2026-09-05）",
+      "source_url": "https://www.statnews.com/2026/09/05/md-vs-do-surrogacy-ai-medicine-stat-letters-to-editor/?utm_campaign=rss"
+    }
+  ]
+}
