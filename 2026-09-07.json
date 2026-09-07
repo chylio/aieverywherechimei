@@ -1,0 +1,47 @@
+{
+  "date": "2026年09月07日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 7.5,
+      "title": "醫療 AI 基準測試分數如何轉化為可信的臨床就緒聲明",
+      "summary": "隨著醫療 AI 產品日益增多，各家廠商普遍以基準測試分數作為臨床可靠性的背書依據，然而學術界與臨床端對此做法的信效度存有高度疑慮。本文由 bioengineer.org 發表，深入探討如何將 AI 模型在標準化資料集上的表現，系統性地轉換為具公信力的「臨床就緒聲明」。文章指出，現行基準測試往往無法反映真實臨床情境的複雜性，包括資料分布差異、族群代表性不足及任務定義模糊等問題，可能導致過度樂觀的上市前宣稱。作者呼籲建立更嚴謹的評估框架，納入外部驗證、情境特定指標及透明度要求，以確保 AI 工具在實際部署時的安全性與有效性，對醫院採購決策與監管政策均具重要參考意義。",
+      "tags": [
+        "AI評估框架",
+        "臨床驗證",
+        "醫療AI治理",
+        "基準測試"
+      ],
+      "author": "未標示（bioengineer.org via GNews-Medical AI｜2026-09-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUzBaRnNYSHloZXRhZHhhWXNiNGM3dTRDaVNUNTcwY19hY2lWLWd2Mmg4Q1hhMUF5OGRWMVdmSzFWWXNSU05RUkxKRm1taE5jSlNrU3ZwTEs0SG55SEUyeFBmaXhPZVNhbEFFWXcxM3lma1FLV2IwSDVnd1ZWVDlyeXpicU56MFpuNk04OXlBMjF1cUdpWnR2SDE2U2k1dW10N1RhTi1R?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 6.0,
+      "title": "醫療 AI 倫理規範框架論文發表於《宗教與健康期刊》，聖多瑪斯大學主導研究",
+      "summary": "菲律賓聖多瑪斯大學研究團隊於《宗教與健康期刊》（Journal of Religion and Health）發表論文，倡議為醫療 AI 建立規範性倫理框架。該研究從宗教與人文倫理視角切入，主張當前醫療 AI 的發展缺乏足夠的道德規範基礎，呼籲整合宗教價值觀、人性尊嚴原則及社會責任，構建一套可供政策制定者與醫療機構參考的規範體系。此一視角補充了現行以技術為中心的 AI 治理討論，強調在 AI 輔助診療、病患資料使用及臨床決策等情境中，倫理框架的建立不應僅限於法律合規層面，更應涵蓋價值觀與社會契約的考量，對醫療機構的 AI 倫理委員會設置與內部治理制度具有啟發意義。",
+      "tags": [
+        "醫療AI倫理",
+        "規範框架",
+        "AI治理",
+        "醫療人文"
+      ],
+      "author": "未標示（University of Santo Tomas via GNews-Medical AI｜2026-09-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ0tJWTRWaVZvZy1pQjBDUWh2b2FqbmNDMzNMYUg3LTUtSFdERVlFNE9LSjdqZ2RtX3d2b2pPYm0tWXgxTjY1Vks0UjNMX0h2TE9ZS1YtUHV5ak1fRXhvU25wNjE1cTZ1WHhaZzc2QndqbW9CZjdZSFNGS3JGSHIySFpYdENqUzhRNnh1LUxVNVZJT2VwMHJTWk4tY29yRDlzWXQ0VXlPcDRuV0Y3R3VCUnJzUy1GeFc2OG9GbnhmS1ByVGwtLUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 5.0,
+      "title": "醫療界與患者集會反對 AI 取代醫護人員，香港現場關注人力衝擊",
+      "summary": "據星島美洲版報導，香港醫療界及患者團體近期發起集會，表達對 AI 技術大規模導入醫療體系後可能取代醫護人力的強烈憂慮。與會者包括醫師、護理師及病患代表，訴求聚焦於 AI 應扮演輔助而非替代角色，並要求政府與醫院管理層在推動數位轉型時充分保障醫護就業權益與患者安全。此一社會動態反映出 AI 醫療化進程中，專業人員與公眾對人機協作邊界的高度敏感性，也顯示醫療機構在推動 AI 採購與部署時，溝通策略與利害關係人管理的重要性不容忽視，對亞洲各地醫院領導層在 AI 治理與內部變革管理上具有參考價值。",
+      "tags": [
+        "醫護勞動權益",
+        "AI取代爭議",
+        "醫療AI社會衝擊",
+        "香港醫療"
+      ],
+      "author": "未標示（Singtaousa via GNews-台灣醫療AI｜2026-09-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeHZoZkg2OHZxNS1DRFdKUGM4WGNmTkUwWWNUVTVBNGt6MjVlLVZqV1cyNU1NQk5yaU1EQndhcXpRMTdZbV9kMk5RY1plUjlPckN3ZHRQVFl2VlVZY0ZLOU52OWVUcnNyaTVRQ3l4WmRvTFRjWmV4b3F0Z05fU2xOSXZyQU4yb2c2V0E?oc=5"
+    }
+  ]
+}
