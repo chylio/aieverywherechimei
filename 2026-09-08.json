@@ -1,0 +1,75 @@
+{
+  "date": "2026年09月08日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "萬芳醫院導入 AI 抗凝血警示系統，重大出血率從 2.07% 驟降至 0.01%",
+      "summary": "萬芳醫院建置 AI 抗凝血藥物警示系統，針對使用抗凝血劑的住院病患進行即時風險監測，成功將重大出血事件發生率自 2.07% 大幅壓低至 0.01%，降幅逾 99%。此一成果展示臨床決策支援 AI 在用藥安全管理上的實質效益，尤其對高齡、多重用藥患者族群具有重要保護意義。該系統整合病患用藥史、檢驗數值與臨床參數，自動觸發警示通知醫護人員，縮短介入反應時間。此案例不僅為台灣醫院智慧醫療落地提供具體量化依據，亦顯示 AI 輔助藥物安全監控已從試驗階段進入可複製推廣的實務應用，對國內醫療品質提升具有重要參考價值。",
+      "tags": [
+        "用藥安全",
+        "臨床決策支援",
+        "台灣醫療AI",
+        "智慧醫院"
+      ],
+      "author": "未標示（n.yam.com｜2026-09-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tWHVtZlZmVUpLbmRSdGJ6NFBualJtMDk3b2dMQWdFQTluajR5TmhmZFFYRzE0UTRpdUFHVW1zaDNwMVlkRnJGNFdsMVVYNHliRUE"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI 心肌梗塞偵測模型獲 FDA 核准，Powerful Medical 取得上市資格",
+      "summary": "Powerful Medical 開發的 AI 心電圖心肌梗塞偵測模型正式獲得 FDA 核准，成為心臟緊急照護領域最新獲批的 AI 醫療器材。該模型可即時分析心電圖波形，自動標記疑似急性心肌梗塞事件，協助急診及基層醫療人員更快速做出診斷判斷，縮短患者從症狀出現至接受治療的關鍵時間窗口。此次核准意義在於 AI 心臟診斷工具正式進入臨床主流，對資源有限的醫療機構（如缺乏心臟科專科醫師的偏遠院所）具有特別高的部署潛力。對醫院心臟科與急診科而言，此類工具的監管核准標誌著 AI 輔助診斷在心血管急症照護的應用正式走向成熟。",
+      "tags": [
+        "FDA核准",
+        "心臟AI",
+        "急診醫療",
+        "心電圖分析"
+      ],
+      "author": "未標示（medicaldevice-network.com｜2026-09-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3VwWTJyUjZYUEt0d2dkbmhwem82cW9ZYmYwSVhhb2szeTlHYi1wT2VzUktQUUhwdWRya04xZUdfdzZEVENEelF1VjI3UUUyNXJOdzVHSHVWdF9heThyWXlrZkJ4b2NraFZxZUtPS29yOERFazJkNlZWLVppa3ZHbU40dDJxNGY3RTFXeTg5a0pXSnMxTzFFbEg3TjI4Wk44MEM3WVNjSElENE5nWjBXNDRiTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "臺中榮總成為台灣首家通過 HIMSS AMAM Stage 6 認證醫院，並加入 HIMSS AI Outcomes Framework 創始成員",
+      "summary": "臺中榮總宣布成為台灣首家通過新版 HIMSS Adoption Model for Analytics Maturity（AMAM）Stage 6 認證的醫院，代表其在健康資料分析與 AI 應用成熟度達到國際頂尖水準。同時，臺中榮總也獲邀成為 HIMSS AI Outcomes Framework 的創始成員，該框架旨在建立以實證為基礎的 AI 導入成效評量標準，協助全球醫院量化 AI 介入對照護品質的影響。此認證不僅代表臺中榮總在 AI 醫療落地成效上獲得國際肯定，也標誌台灣醫療體系在智慧醫院評鑑體系中躍升至全球舞台。對於有意推動 AI 治理與成效評估的醫院管理層而言，此案例提供了具體的國際對標參考路徑。",
+      "tags": [
+        "HIMSS認證",
+        "台灣醫療AI",
+        "智慧醫院",
+        "AI治理"
+      ],
+      "author": "未標示（PChome Online 新聞｜2026-09-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUszYmY3dVhFODgtQVZvWnpKOEF5cUkxT2cwYXFHVFdFZElPTi0tWldFX1lsWW9pU09NWTJOMjVfRnQyb19QVVplWmdrdTA2Sl9paENvREJuZ0FlZU94NnJmRmFIVVVzUmdUXzh3NWpWT1VVZ012cDNac0V4d3kzZDBCamotaHJ5?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "Anthropic AI Claude 在 11 天內完成費馬大定理形式化證明，數學 AI 能力達重要里程碑",
+      "summary": "Anthropic 旗下 AI 系統 Claude 在短短 11 天內完成費馬大定理（Fermat's Last Theorem）的形式化證明，產出逾 1,300 萬行可供電腦驗算的數學程式碼，獲《Nature》報導為數學 AI 發展的重大里程碑。費馬大定理自 1637 年提出、1995 年由數學家 Andrew Wiles 完成人工證明，其形式化電腦驗算一直被視為極高難度挑戰。此成果展現大型語言模型在複雜推理與長鏈邏輯任務上的能力已大幅躍升，雖屬純數學領域，但對醫療 AI 在複雜臨床推理、診斷邏輯建構與醫學知識形式化方面的未來發展具有重要啟示意義，顯示 AI 系統處理高度結構化知識體系的潛力正在快速擴張。",
+      "tags": [
+        "生成式AI",
+        "AI推理能力",
+        "Anthropic",
+        "技術突破"
+      ],
+      "author": "未標示（Nature｜2026-09-07）",
+      "source_url": "https://www.nature.com/articles/d41586-026-02822-9"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "東海大學攜手日本弘前大學，共推 AI 賦能智慧醫療與跨域合作",
+      "summary": "東海大學宣布與日本弘前大學簽署合作協議，聚焦 AI 賦能應用，涵蓋智慧醫療、農業科技與半導體三大領域。在醫療方面，雙方將共同探索 AI 技術在疾病早期偵測、遠距醫療與健康管理的應用模式，並藉助弘前大學長期深耕老年醫學與地域醫療的研究能量，推動台日跨國醫療 AI 研究合作。此一學術聯盟模式反映台灣高等教育機構積極整合 AI 能量向智慧醫療延伸的趨勢，也為台日醫療科技交流開啟新的合作框架。對醫療機構而言，學研合作模式有助於加速 AI 工具從研究走向臨床應用的轉化歷程。",
+      "tags": [
+        "台日合作",
+        "智慧醫療",
+        "學研合作",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（LINE TODAY｜2026-09-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOemhpYUhlclFvTnBrZkFteVNtU1JwOGVLUlhpTXB5UE5aZHBNeUQybEpacFNmXzNNdFZGWXcwcUFDa25DQkp2VjVvaHV2a2JxTC0wMmpB?oc=5"
+    }
+  ]
+}
