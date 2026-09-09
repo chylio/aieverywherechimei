@@ -1,0 +1,131 @@
+{
+  "date": "2026年09月09日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "DeepMind 發布基因組「圖譜」：AI 模型 AlphaGenome 預測 90 億個人類基因突變效應",
+      "summary": "DeepMind 最新發表的 AI 模型 AlphaGenome 建立了一份前所未有的人類基因組「圖譜」，能夠預測人類基因組中每一個 DNA 鹼基發生改變後的生物學後果，涵蓋約 90 億種可能的基因突變。此項突破發表於《Nature》，標誌著計算基因組學的里程碑：研究人員無需逐一進行實驗驗證，即可系統性評估罕見突變對基因表現、調控元素及疾病風險的影響。對於精準醫療、罕見疾病診斷以及藥物靶點開發具有深遠意義。臨床機構未來或可利用此類工具，在基因檢測報告解讀、遺傳諮詢及新藥開發管線中大幅提升效率，加速從基因型到表現型的推斷過程，為個人化治療策略提供更完整的科學依據。",
+      "tags": [
+        "基因組學",
+        "精準醫療",
+        "DeepMind",
+        "AlphaGenome"
+      ],
+      "author": "未標示（Nature｜2026-09-08）",
+      "source_url": "https://www.nature.com/articles/d41586-026-02835-4"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "Nature 社論：醫療 AI 治理應以病患為核心，呼籲重塑現行框架",
+      "summary": "《Nature》發表社論，主張現行醫療 AI 治理框架過度聚焦於技術準確性與法規合規，卻忽略病患作為直接利害關係人的核心地位。文章指出，AI 醫療器材的開發、審查與部署流程中，病患的聲音普遍缺席，導致偏見、可及性不平等及知情同意等議題未能獲得充分重視。社論呼籲各國監管機構、醫院體系與 AI 開發商共同建立以病患為中心的治理機制，包括納入病患代表於 AI 審查委員會、強制揭露 AI 決策邏輯，以及建立系統性的不良事件回報機制。此觀點對正在制定院內 AI 使用政策的醫療機構具有重要參考價值，凸顯治理架構設計不應僅止於技術審查層面。",
+      "tags": [
+        "醫療AI治理",
+        "病患安全",
+        "AI倫理",
+        "政策法規"
+      ],
+      "author": "未標示（Nature｜2026-09-08）",
+      "source_url": "https://www.nature.com/articles/d41586-026-02796-8"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "醫療 AI 導入加速但治理嚴重滯後：2026 年醫療 AI 準備度指數報告揭示落差",
+      "summary": "由 Cotiviti 與 MedCity News 聯合發布的《2026 年醫療 AI 準備度指數》，彙整逾 70 位醫療領導人問卷，揭示醫療機構在 AI 應用上「導入速度遠超治理與資安準備」的結構性矛盾。報告顯示，多數機構已積極部署 AI 於臨床決策、行政流程與收益管理，但在網路安全防護、AI 倫理審查機制、資料治理政策及人員培訓等面向明顯落後。受訪領導層坦言，AI 帶來的法規不確定性與資安風險是最大的運營挑戰。此報告為醫療機構提供一份現實診斷，強調在持續擴大 AI 應用的同時，必須同步強化制度性保障，以確保 AI 投資的長期效益與安全性。",
+      "tags": [
+        "醫療AI治理",
+        "資安準備",
+        "AI導入",
+        "產業報告"
+      ],
+      "author": "未標示（MedCity News｜2026-09-08）",
+      "source_url": "https://medcitynews.com/2026/09/survey-reveals-ai-adoption-is-accelerating-in-healthcare-but-readiness-is-not/"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "AI 輔助腦動脈瘤偵測：真實世界研究顯示放射科醫師檢出率提升 39%",
+      "summary": "一項真實世界研究發現，將 AI 輔助工具整合至放射科工作流程後，放射科醫師對腦動脈瘤的偵測率提升達 39%。研究在常規臨床環境（而非受控實驗室）中進行，評估 AI 於日常影像判讀中的實際效益，結果顯示 AI 能有效降低漏診率，尤其對小型或位置隱蔽的動脈瘤改善最為顯著。此項證據對神經放射科及急診影像科室具有直接參考價值，也進一步支持 AI 影像輔助診斷從試驗導入走向常規化部署的趨勢。研究結果同時凸顯，AI 工具在真實臨床情境中的表現是評估採購效益的重要依據，優於單純基準測試數據。",
+      "tags": [
+        "放射科AI",
+        "腦動脈瘤",
+        "臨床驗證",
+        "影像診斷"
+      ],
+      "author": "未標示（Newswise｜2026-09-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX01nemY0RGNOb3NKVVM1TUhQNlFCRnFXLWQ0VElEY1FuU1NDU1htdHJqNVVzMHgtZWlWTFlVT0VhWWRJdl91ZmlFWjI3Sk1XVm1jRTlmV3Q2MFpnNlB4SER2c3RjRkZUcHBERVkzNy1FU21UUTh5ekhIeTJXTUI1Z0hMaTRaQWVFUURpMmxjQkxBUENZNW4tQk5yc21sdkdvSkdrSkZkSUR1SkRWM1pYOdIBsAFBVV95cUxPX01nemY0RGNOb3NKVVM1TUhQNlFCRnFXLWQ0VElEY1FuU1NDU1htdHJqNVVzMHgtZWlWTFlVT0VhWWRJdl91ZmlFWjI3Sk1XVm1jRTlmV3Q2MFpnNlB4SER2c3RjRkZUcHBERVkzNy1FU21UUTh5ekhIeTJXTUI1Z0hMaTRaQWVFUURpMmxjQkxBUENZNW4tQk5yc21sdkdvSkdrSkZkSUR1SkRWM1pYOQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "台灣健保署偕 APEC 九大經濟體齊聚台南，共商 AI 醫療安全、健康平權與高齡挑戰",
+      "summary": "台灣健保署主辦 APEC 健康照護研討會，邀集九個 APEC 經濟體專家於台南共同探討如何運用 AI 強化健康照護韌性，議題涵蓋 AI 醫療安全機制、健康平權、高齡化社會應對策略及跨境數位健康合作框架。與會各國分享各自的 AI 醫療導入經驗與治理挑戰，台灣則以健保大數據平台與 AI 智慧治理成果為核心，展示在亞太區域的實踐範例。此次會議強調，AI 醫療應用必須同步考量資料安全、演算法公平性與弱勢族群可及性，避免數位醫療加劇既有健康不平等。對於台灣醫療機構而言，此一政策對話為後續跨境資料合作與 AI 法規接軌提供重要參照。",
+      "tags": [
+        "台灣健保",
+        "APEC",
+        "AI醫療政策",
+        "健康平權"
+      ],
+      "author": "未標示（ETtoday新聞雲｜2026-09-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55UEFoaEp1SVgwazJTb1BvVENvNi01Ny1aZHZtWWNqMTZDcFlfT2FRdU1KcTBQSjlEWHI2em9WaGVoREVNLWUzbFRnc0F0TGFKNWdMRlNQczB5WmZJaWfSAUtBVV95cUxOMzlDeG8xN0pWQkhwZy11SXlqZ21xakx3dnMzb0hGaDdtMlhVTmFUTl9NUlBiQVA3MG5Bc1BoOWZHb3BZY0tKaDBmZ3M?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "OpenEvidence 發布四款臨床專用醫療 AI 模型，鎖定第一線醫師工作流程",
+      "summary": "醫療 AI 新創公司 OpenEvidence 宣布推出四款專為臨床醫師設計的醫療 AI 模型，聚焦協助第一線醫師在診療過程中快速查閱醫學文獻、輔助鑑別診斷及整理治療建議。有別於通用型大型語言模型，這批模型針對臨床情境進行特化訓練，強調答案可溯源至同儕審查文獻，以提升醫師信任度與使用意願。此舉代表醫療 AI 市場正從大型醫院資訊系統整合轉向直接賦能個別臨床決策者，競爭格局更趨多元。對於希望評估 AI 輔助臨床決策工具的醫療機構，此類專科化模型的崛起值得持續追蹤，尤其需關注其與現有 EHR 系統的整合方式及實證驗證程度。",
+      "tags": [
+        "臨床決策支援",
+        "醫療AI模型",
+        "大型語言模型",
+        "醫師工具"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-09-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzUzQmF1OHpGMDBiRUpEbmZwdDRBNnc2ODdjTDgxbUhwMU9UTEJOb0h2YTZ6V3JDXzZIcDI2bVNINEw5ai1nMHNpTVNCUl9TbWlDbHVHZXpyY1d4WW4xekhoQ2VVQVVSc0kyNHd4UnlzN2NnQi12SC1DeTdlY0g3cW5EWkRobGJKZzE1TkRYdFBHZw?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "中醫大附醫導入 AI 智慧監控系統，協助居家血液透析病患即時掌握洗腎狀況",
+      "summary": "中國醫藥大學附設醫院（中醫大附醫）推出 AI 智慧監控平台，應用於居家血液透析（Home HD）病患照護。系統透過即時感測數據收集與 AI 分析，遠端監測病患透析過程中的生理參數，當數值出現異常時自動發出警示，協助醫護人員及時介入。此舉不僅提升居家透析的安全性，也為慢性腎病患者提供更大的生活彈性，減少頻繁往返醫院的負擔。台灣推動居家醫療的政策背景下，此模式具有高度複製潛力，亦呼應健保署推動智慧照護轉型的方向。對於腎臟科及醫療資訊團隊而言，此案例提供了遠距監控結合 AI 預警的具體落地參考。",
+      "tags": [
+        "居家透析",
+        "遠距醫療",
+        "AI監控",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（健康醫療網｜2026-09-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4OEZzQV9LbkpmS2xTYzV3b0JHcGhGdnY2U0NZYzZpVW9KOVJaNzZqX0VjdHZvRnBJMEw5d3JnTXNldm9DLUpEQ3ZlamFKVmo3MDR6WUE?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "AI 分析 H&E 染色切片，揭示肺癌基因組與免疫微環境特徵新發現",
+      "summary": "最新研究顯示，AI 模型能夠直接分析標準 H&E（蘇木精-伊紅）染色病理切片，從中識別出與肺癌基因組突變及腫瘤免疫微環境相關的視覺特徵，無需額外進行昂貴的基因定序或免疫組化染色。此技術突破意味著病理科或可透過現有常規切片，以更低成本快速初篩腫瘤的分子特性，為後續精準治療提供導引資訊。此一進展對於資源有限的醫療機構尤具意義，有望縮短從病理診斷到治療決策的時間差。然而，研究者也指出，此類模型仍需更大規模多中心驗證，方可進入常規臨床應用，現階段最適合作為輔助篩查工具。",
+      "tags": [
+        "數位病理",
+        "肺癌",
+        "AI影像分析",
+        "基因組學"
+      ],
+      "author": "未標示（Clinical Lab Products｜2026-09-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlBrcm5maWhvd08tWlVvZDJKUVlqWV82Y2Y0WGFhZVAtS3ZuUGI4VWdLclA5bkJ5cmdibC14dW50MExkZVlPSGhLV29GRHNXZXJZTXpJU1JWUm0teTNSdXFLN05zTHJULU5VWXJGTnBSWWdneUVXWVNFTnBkNEdyZnh4OUFQb0xNaE5xdnlIUWVVM0l5a1RHaUtROTlaYkNKeFdNcnMtZFlHODBFX25MTUh1QQ?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "放射科正走向兩種速度的分歧：AI、研究資源與訓練機會的不平等問題浮現",
+      "summary": "Elsevier 發表分析文章，指出全球放射科正呈現「雙速發展」的結構性分歧：資源充足的大型醫學中心快速整合 AI 影像工具、承接研究計畫並培養 AI 素養人才，而中小型機構及低收入地區放射科卻面臨 AI 工具採購能力不足、訓練資源匱乏及人才外流等多重挑戰。此不均衡現象恐加深放射科服務的可及性落差，並影響住院醫師培訓的一致性。文章呼籲學術機構、專業學會及政策制定者共同研擬縮小差距的策略，包括開放共享 AI 訓練資料集、補助中小型機構導入費用，以及在住院醫師課程中統一納入 AI 能力培訓。",
+      "tags": [
+        "放射科AI",
+        "醫療不平等",
+        "住院醫師訓練",
+        "產業分析"
+      ],
+      "author": "未標示（Elsevier｜2026-09-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOenN3ZTZuNWlqSkxJNkM3ZlJPT0hrdXhoajd2cWE0dHFEbEVsMG5Xa2c0VEVQdmdZSkVjUnc5N0lxa01iLVFsUl9ZRzNGbmVjOUttZHhQSmZZMVdQX3RfQ3Z4RzVWN2ZxQ0FpQlZIdVhka3RPREdhUUFxXzZYaFRpZy0wMVFQSTRIaVVleUJkWnFhYWc5Mzg1NndLVDRJT3JSQUo4c1BvSjI2TEVicURNbmx0MnBFdTZIUkdVd0VvZjdSUDQ0VTAtN0JSNnlHNlZvTU92ejJB?oc=5"
+    }
+  ]
+}
