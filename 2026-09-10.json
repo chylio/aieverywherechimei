@@ -1,0 +1,131 @@
+{
+  "date": "2026年09月10日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "英國公布醫療 AI 監管建議框架，全面指引藥品與器械 AI 治理方向",
+      "summary": "英國政府委員會正式公布針對醫療 AI 的監管建議，涵蓋藥品開發、診斷工具、臨床決策支援等多個應用場景，為英國如何在促進創新的同時保障病患安全提供政策藍圖。此一框架備受業界關注，因其可能成為歐洲乃至全球其他監管機構的參考範本。報告強調 AI 系統的透明度、可驗證性與上市後監測機制，並要求開發商提供真實世界效能數據。此時機點恰逢多國政府加緊制定 AI 醫療監管規範，包括歐盟 AI 法案逐步落地、美國 FDA 持續更新預先上市審查指引。對醫院資訊部與數位轉型團隊而言，英國框架提供具體的治理原則，有助於提前規劃院內 AI 導入的合規路徑與風險控管機制。",
+      "tags": [
+        "監管政策",
+        "AI治理",
+        "醫療AI法規",
+        "英國"
+      ],
+      "author": "未標示（STAT News｜2026-09-10）",
+      "source_url": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 9.0,
+      "title": "ARPA-H 斥資 6,270 萬美元開發心臟衰竭自主 AI 治療決策機器人，目標取得 FDA 授權",
+      "summary": "美國先進研究計畫局健康部門（ARPA-H）宣布將投入 6,270 萬美元，開發可自主引導心臟衰竭治療流程的 AI 機器人系統，並以取得 FDA 正式授權為目標。此計畫稱為 ADVOCATE，旨在建立能依據即時患者數據動態調整用藥與處置建議的自主 AI 代理人，而非單純的決策支援工具。心臟衰竭是全球住院率最高的慢性病之一，現行治療高度依賴臨床醫師的個人判斷，AI 自主化有望縮短治療反應時間並提升照護一致性。計畫同時設計人機協作機制，確保臨床醫師仍可介入與覆核。此案標誌著政府對「自主醫療 AI」的投入進入實質階段，對心臟科與加護病房管理層具有高度前瞻參考價值，也預示未來 FDA 對自主 AI 的審查標準將更趨明確。",
+      "tags": [
+        "自主AI",
+        "心臟衰竭",
+        "ARPA-H",
+        "FDA"
+      ],
+      "author": "未標示（STAT News｜2026-09-10）",
+      "source_url": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "NVIDIA 跟投 Verily，醫療 AI 頂級平台融資規模持續擴大",
+      "summary": "NVIDIA 宣布參與 Verily（Alphabet 旗下生命科學公司）的延伸融資輪，跟進其 2026 年 3 月完成的募資案，顯示半導體與 AI 運算龍頭正加速布局醫療 AI 基礎設施。Verily 長期深耕精準健康、患者數據整合與多模態 AI 模型開發，此次 NVIDIA 入股被視為為其提供 GPU 算力與 AI 技術生態的戰略背書。對醫療機構而言，NVIDIA 與 Verily 的結盟意味著醫療 AI 訓練與推論的算力門檻可能進一步降低，但同時也加速頭部平台的競爭優勢集中化。醫院數位轉型團隊在評估未來 AI 合作夥伴或採購平台時，應關注此類大型科技公司垂直整合醫療數據與算力的動向，這將深刻影響中長期的廠商選擇與數據主權布局。",
+      "tags": [
+        "醫療AI投資",
+        "NVIDIA",
+        "Verily",
+        "精準健康"
+      ],
+      "author": "未標示（Dealroom｜2026-09-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOalpVUmdDUF82Wk5lcDFEOGVYVzB5TU52RWVMZDlra1JNUUpTVUp2RXhZdUY4dWJzemFmN0hEcFI1Y0JqZ0MwbnRKNEhSejRLcXk5NmZia1ZOQ3cySWU4bXNxdnlZekYwWGN6QWE5WUJsVGZYRXVpU2l0V2E2X1ZCVGVCeEF0WGpWRnk4aER2SnpMd21PZkhld0Jidw?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.3,
+      "title": "AI 模型偵測髖部骨折表現超越放射科醫師，成功應對難以辨識案例",
+      "summary": "最新研究顯示，針對髖部骨折設計的 AI 模型在偵測「隱匿性」或難以辨識的骨折類型上，表現已優於一般放射科醫師。髖部骨折尤其在老年患者中若未能及時診斷，將大幅提高術後死亡率與長期失能風險。研究中 AI 模型對細微骨折線的敏感度與特異度均達到或超越人類判讀水準，且一致性更高、判讀時間更短。這對急診及骨科臨床流程具有直接影響，特別是在夜間或人力吃緊時段，AI 輔助可作為重要的安全網。此研究也再次引發關於 AI 是否應納入放射科標準工作流程的討論，並對分級轉診制度的設計提供新依據。對骨科、急診科及放射科主任而言，此類真實世界效能數據具有直接的臨床決策參考價值。",
+      "tags": [
+        "AI影像判讀",
+        "骨折偵測",
+        "放射科",
+        "急診醫療"
+      ],
+      "author": "未標示（Radiology Business｜2026-09-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTjBmM3BYUnBsUlJCUzZtVVVSUXBfSzdaZUsxU2dvNExRRHlZamkxS1J3bDMtTDJDLU5IZmdSM284R3lid3kwckhmZHNkczBfd3dxODYyR3R6bkRiNTgzeVVPQ19INlR4TE9hdnh6QzNla1JCZWE3Tml1SFQ0bHhwNmlHbXZJZEEyZTI3d0phLXE2eDdnMzJtR1VPQzJTcHdwYVJoUW9tTHlYdVNYTDNCRjhOd1JJQWU3aVJZVHV0eXlsZ3dZQnFF?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 8.0,
+      "title": "Lifepoint Health 導入環境聆聽與 AI 病患優先排序，協助護理師回歸核心臨床工作",
+      "summary": "美國 Lifepoint Health 護理長 Michelle Watson 分享該系統導入 AI 環境聆聽（ambient listening）與病患優先排序工具的實際成效。環境聆聽技術可自動記錄醫病對話並即時轉化為結構化病歷，減少護理師手動輸入文件的時間；AI 病患優先排序則依病情嚴重度動態調整護理人員的巡視順序，確保高風險患者獲得即時關注。Watson 表示，這兩項工具的核心目標是讓護理師從不需要臨床判斷的行政工作中解放，將精力集中於真正需要專業護理的互動。在全球護理人力短缺日益嚴峻的背景下，此類 AI 應用被視為緩解人力壓力、提升護理品質的可行路徑。對護理部與資訊部而言，此案例提供具體的導入策略與使用者接受度參考。",
+      "tags": [
+        "護理AI",
+        "環境聆聽",
+        "病患優先排序",
+        "護理人力"
+      ],
+      "author": "未標示（MedCity News｜2026-09-10）",
+      "source_url": "https://medcitynews.com/2026/09/lifepoint-health-ai-nurses/"
+    },
+    {
+      "rank": 6,
+      "score": 7.8,
+      "title": "Cloudphysician 發布 Nightingale 影像模型，以 AI 視覺監控強化住院病患管理",
+      "summary": "醫療 AI 新創公司 Cloudphysician 正式宣布推出 Nightingale 影像模型，專為醫院病房及加護病房的視覺監控設計。Nightingale 能透過病床旁攝影機即時分析病患姿態、行動與生理徵象變化，在患者出現異常行為或潛在跌倒風險時主動發出警報，並整合至護理站的監控系統。相較於傳統的數值型生理監測，影像 AI 提供更直觀、連續的病況觀察維度，尤其適用於夜間或護理師無法密集巡視的時段。此模型的推出標誌著醫院監控從「數據警報」向「視覺理解」的轉型，對病安管理、跌倒預防與遠端監護流程具有潛在效益。醫院管理層與護理資訊化推動者可將此案例納入智慧病房規劃的評估範疇。",
+      "tags": [
+        "醫院監控",
+        "影像AI",
+        "智慧病房",
+        "病患安全"
+      ],
+      "author": "未標示（Unite.AI｜2026-09-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVh1cS03U2FSWk9PV0UwRTI4VnlscHp5M2M5a1JfOXVZY0ZPblVzRTNZLXJOOWRsU294Vmc0WGlLSFhIXzBzQ3VtdnB5bWtNYlNoOGRKY2xHWVo1eEF2azdNTEt6LVZyVkNHc0xzSklUYmx0UG00b2g0NWRRbzZjVWVIWkt3RGZ0aHZ3Q0lWc0JSbXMwUlEtUmZR?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.5,
+      "title": "韓國電信龍頭 KT 攜手首爾峨山醫療中心，共同打造 AI 醫院基礎建設",
+      "summary": "韓國最大電信商之一 KT 宣布與首爾峨山醫療中心（Asan Medical Center）簽署合作協議，聯手推動 AI 醫院整體建設計畫。合作範疇涵蓋 AI 診斷輔助、智慧病房管理、醫療數據整合平台及院內 5G 通訊基礎設施升級。峨山醫療中心為韓國規模最大的單體醫院之一，此次與電信業者的深度結盟被視為韓國推動「AI 醫院」國家戰略的重要示範案例。此模式—由電信商提供算力與網路基礎設施、醫院提供臨床場景與數據—正在亞洲多國複製，對台灣醫療體系在思考智慧醫院整體架構時具有直接的參考意義，尤其是在電信業者角色定位與數據治理分工方面。",
+      "tags": [
+        "AI醫院",
+        "韓國醫療",
+        "智慧醫院",
+        "電信醫療合作"
+      ],
+      "author": "未標示（디지털투데이｜2026-09-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUYwRmFWNGhpWjBqSlYzNWh3NFNXU3luS1dqckpkLVF5Z25Kd0U4Y3hXbmRkSUt0dU1XY2Y1aVJKX2xoWXdoOU8yTEtkWkJWSzItcHJxZ2FtYnlsQzhkRHlxSmdBU29NX19zNWM1QXlZUUdIeWVrN3lDZ2I4Uk92RHRuSjR5ZzJ5LWZwbjBMU2NDeTg0Yi01SGlnNW5ZYzlYYWo0enVKbGk?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.2,
+      "title": "興澤發人工智慧打破醫療「三大孤島」，將 AI 真正導入急診與病房實戰場景",
+      "summary": "台灣新創公司興澤發人工智慧針對醫療資訊系統長期存在的三大孤島問題—急診資訊、病房資訊與行政系統相互割裂—提出整合性 AI 解決方案。該公司開發的平台能跨系統擷取並整合異質醫療數據，在急診分流、病房照護警示與臨床決策輔助等場景提供即時 AI 支援，使醫護人員無須在多套系統間切換即可取得完整病患資訊。急診場景的 AI 輔助尤其受到關注，因急診醫療資訊分散、決策時間壓力大，是 AI 應用落地難度最高的環境之一。此案例代表台灣本土醫療 AI 新創正從單點功能轉向全院流程整合，對正在評估智慧醫院整合架構的醫院資訊部與急診管理層具有參考價值。",
+      "tags": [
+        "台灣醫療AI",
+        "急診AI",
+        "系統整合",
+        "智慧病房"
+      ],
+      "author": "未標示（風傳媒｜2026-09-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYZDdGNUVoNW5uZjEzMVVuNWVCdGktRHVfbElGT2lXYzBSNmZ3eHhJWVQxS290aUdlUnVyMGhQcDByTnNreWJ2MDBRQXdIQQ?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 7.0,
+      "title": "耶魯醫學院研究：如何讓醫療 AI 同時更聰明、更安全",
+      "summary": "耶魯醫學院發表最新研究成果，探討如何在提升醫療 AI 模型臨床效能的同時，強化其安全性與可靠性。研究聚焦於 AI 模型在醫療場景中常見的失效模式，包括分布外數據（out-of-distribution data）導致的預測崩潰、模型對罕見族群的偏差表現，以及臨床醫師對 AI 輸出的過度信賴風險。研究團隊提出多項技術與流程改進建議，包括強化模型的不確定性量化（uncertainty quantification）、建立動態校準機制，以及在部署前進行更嚴格的對抗性測試。此研究對正在或計畫導入 AI 決策輔助工具的醫療機構具有直接意義，特別是資訊部與臨床科主任在制定 AI 上線審查標準時，可借鑑耶魯提出的安全框架進行本地化驗證設計。",
+      "tags": [
+        "AI安全",
+        "模型可靠性",
+        "臨床AI",
+        "耶魯醫學院"
+      ],
+      "author": "未標示（Yale School of Medicine｜2026-09-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kUms5bjBDdEgwNHVkU255bWVhZEw1clNjRjNZdVViZXpJVlNLZzlaWmxxbW1kU3F1UkVhRU1RVG5rU1FZVGJQbUoyTkQyQzhsRnB1cU8zRGxFRUdSLXVzaVNjTk9rOWItb2tQQnNfM1NmX1dlbm5zdkNUWQ?oc=5"
+    }
+  ]
+}
