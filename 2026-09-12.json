@@ -1,0 +1,117 @@
+{
+  "date": "2026年09月12日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "AI 心電圖工具獲 FDA 批准，可偵測更難辨識的心肌梗塞型態",
+      "summary": "一款名為「Queen of Hearts」的 AI 工具近日獲得 FDA 核准，可自動掃描心電圖（EKG）以偵測嚴重心臟病發作，並進一步識別較罕見的冠狀動脈阻塞模式。傳統心電圖判讀需依賴臨床醫師經驗，對部分非典型心肌梗塞型態（如 STEMI 等同型）容易漏判，而此 AI 工具可在第一線快速篩查，降低誤判風險。開發商表示，該工具設計目的在於輔助急診與心臟科醫師，尤其適用於人力較吃緊的夜間值班或偏鄉醫療場景。此次 FDA 批准代表 AI 輔助心臟診斷進入實際臨床部署階段，也為醫療院所在急性心血管事件處理流程中提供新的數位輔助手段。對於有大量急診心電圖判讀需求的醫院而言，此類工具的引入可望縮短診斷到治療的黃金時間。",
+      "tags": [
+        "心電圖AI",
+        "FDA核准",
+        "急性心肌梗塞",
+        "心臟診斷"
+      ],
+      "author": "未標示（STAT News｜2026-09-11）",
+      "source_url": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "GenHealth.ai 募資 1,650 萬美元，以 AI 自動化醫療行政作業",
+      "summary": "醫療 AI 新創公司 GenHealth.ai 宣布完成 1,650 萬美元 A 輪融資，由 Flare Capital Partners 領投，Craft、Obvious Ventures、Eniac Ventures、InHealth Ventures 等機構跟投。該公司主要聚焦於醫療行政流程的 AI 自動化，包括預授權申請、保險申報、病歷摘要生成等高度重複性行政任務。醫院行政作業耗時龐大，長期壓縮臨床人員的核心工作時間，GenHealth.ai 的解決方案旨在透過大型語言模型與結構化工作流程，大幅降低人工作業成本並提升流程效率。此輪融資顯示投資方對醫療行政自動化市場的高度信心，也反映出醫療機構對「減輕行政負擔、讓醫護回歸照護」的迫切需求。此類工具若能與電子病歷系統深度整合，將對醫院的數位轉型策略產生顯著影響。",
+      "tags": [
+        "醫療行政自動化",
+        "AI新創",
+        "大型語言模型",
+        "數位轉型"
+      ],
+      "author": "未標示（MedCity News｜2026-09-12）",
+      "source_url": "https://medcitynews.com/2026/09/genhealth-ai-raises-16-5m-to-automate-healthcare-administrative-tasks/"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "專家呼籲強化醫療 AI 監管，現行治理機制不足以因應快速部署風險",
+      "summary": "多位醫療 AI 領域專家公開呼籲，各國政府與醫療機構應加速建立更具強制力的 AI 監管架構，以應對 AI 工具在臨床環境中快速擴散所帶來的安全隱患。報告指出，目前醫療 AI 產品的上市速度遠超主管機關的審查能量，部分工具在缺乏嚴格臨床驗證的情況下即投入使用，恐對病患安全造成威脅。專家建議應建立跨機構的 AI 產品持續監測機制、強制要求透明度與可解釋性報告，並明確規範 AI 輔助決策在臨床上的責任歸屬。此議題與各大醫療體系的數位治理策略高度相關，特別是在醫院加速導入 AI 影像判讀、AI 病歷摘要等工具的當下，如何建立院內的 AI 審查委員會與上線前評估流程，已成為醫療機構不可迴避的課題。",
+      "tags": [
+        "醫療AI監管",
+        "AI治理",
+        "病患安全",
+        "法規政策"
+      ],
+      "author": "未標示（Specialty Pharmacy Continuum｜2026-09-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWmN1MVpMUXRpSkp6UktSc05zQ0FmN2hUdDNBUEtaVzJWeHJLZHRxRkNkWE44bm43U21VM3p6Q3hOSUUwWXN4MXRTMEM3cjc2NTktV2dXVlpQU01UU1BOcHdyOGhyWjNpeF9IM0kyZURJNDdreWxlSXB3NGpvdUxWdXJKNWdnRUljd0ZZNjZGcXVTUVdLWERFWlZheDFjZlNqZGVzRWFTSWVNSEpGSnJMcGk1MHg1UjIxQkJqUmhnUG9HcWNpcW91VVR5S1ZlQnc2Um9JWnJ3?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "Cognita CTO 專訪：放射科基礎模型如何重塑影像 AI 應用",
+      "summary": "Cognita 技術長 Zhihong Chen 接受專訪，深入介紹該公司針對放射科開發的基礎模型（Foundation Models）技術架構與應用前景。Cognita 的核心主張是：相較於針對單一任務訓練的窄域模型，以大規模醫學影像資料預訓練的放射科基礎模型可同時支援多種影像分析任務，包括病灶偵測、器官分割與報告生成，大幅降低各個子任務的開發門檻。Chen 指出，基礎模型的可遷移性使其在資料量較少的醫院場景中仍能維持良好表現，有望解決目前 AI 影像工具「訓練資料偏差」與「跨院泛化不足」的核心痛點。此訪談對於評估放射科 AI 採購策略、了解基礎模型與傳統窄域模型差異的醫院資訊與臨床團隊具有直接參考價值。",
+      "tags": [
+        "放射科AI",
+        "基礎模型",
+        "醫學影像",
+        "AI採購"
+      ],
+      "author": "未標示（Pulse 2.0｜2026-09-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYQUNITXBkdWxKNGdfY1BHbjdJcHkyZ2NVblN2bnY5Ykw0YWVFbTRRWHpuZUIzcmx0QUFWNzZrNjNMZXhBQVY1MmRKbkpFNmVXc3FSdUZjQXhtb3VxZm9SX1A4WTNoNXR0YkHSAW9BVV95cUxNV1paaVVTaUJzMHg5aXVkOC13NUNLM3NVWktQYTBPTjBLMlozY0FUMXUtTVpoVndzTWtSLUVuSXBfRThhLWZfLW5lTXAyQUl5cm5jM1JwWDFUVWNQLWU2SnRTVlV6blRZcGR5b3NZd1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "Cleveland Clinic 採用 Luminai 實現 AI 流程自動化，Quest 將檢驗整合進 Apple Health",
+      "summary": "本週醫療數位化動態顯示兩項重要整合進展：美國頂尖醫學中心 Cleveland Clinic 宣布引進 Luminai 平台，透過 AI 自動化醫院內部行政與臨床支援流程，目標是減少人工操作步驟、提升工作效率；另一方面，全球最大醫學檢驗機構 Quest Diagnostics 宣布將其實驗室檢測結果整合至蘋果公司的 Apple Health 平台，讓用戶可直接在 iPhone 健康 App 查閱個人檢驗報告。前者展示大型醫療機構對 AI 流程優化的積極態度，後者則代表醫療數據向消費者端開放的趨勢加速。這兩項進展均涉及醫療數位化生態系整合，對醫院資訊部門在評估院內 AI 工具選型及跨平台數據互通策略時具有參考意義。",
+      "tags": [
+        "AI流程自動化",
+        "醫療數位整合",
+        "檢驗數據",
+        "智慧醫院"
+      ],
+      "author": "未標示（fiercehealthcare.com｜2026-09-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTXlHSnBQS01DQVJSOE15UE9UaTFrUFhBX3lqNmtEVUxPb3c5LVctdWtfZFdJX2drZlJBM1ZnZ1lRZExuY25RdU5DTFpQRmJmTWFxa1lnZ1FvS04zWmdWTlFYUHFXbExEMFhuUng4YkxTOFhwU2J2Mk8tWl90VjFiVV93X01xUGx4bFN3MjIyNnEzVUZLRWZnRlRKMktGZXhYdDEtNnozc2xGeHZsTmpub2dNM3VWbExRWm85bzhTSWxPQm1IemVn?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "日本三井聯手新加坡 Oncoshot，跨 IHH 醫院網絡建置 AI 腫瘤資料平台",
+      "summary": "日本三井集團宣布與新加坡 AI 腫瘤資料公司 Oncoshot 合作，計畫在 IHH 醫療集團旗下橫跨亞洲多國的醫院網絡中部署 AI 腫瘤學資料分析平台。IHH 為亞洲最大私立醫療集團之一，業務涵蓋馬來西亞、新加坡、土耳其、印度等市場。此合作的核心在於整合各院區的癌症病患臨床資料，透過 AI 模型提供腫瘤治療決策支援、預後預測及臨床試驗患者匹配等功能。此案例展示了跨國醫療集團如何透過 AI 資料平台實現多院區資料協作，對台灣醫療體系評估建置區域性或體系內癌症 AI 資料共享平台具有參考價值，也反映出亞太地區腫瘤 AI 市場的快速擴張態勢。",
+      "tags": [
+        "腫瘤AI平台",
+        "跨院資料整合",
+        "亞太醫療",
+        "精準腫瘤學"
+      ],
+      "author": "未標示（TNGlobal｜2026-09-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSnVLU21VczBBZGlUQmp6dlRoZzQ1bHlTbGhteDFYLU0wRXhHMmtoa3ZaY3NMTHJvUFBtcnRJSVlGcDJHQmpSMW1sakNjckwxcXJHYmh2bmZ4Z1hlN21JTzFFUWtlT3I2X3l0TlZvOTlBT0dPZ2FZbFp6RGJNMExFck5qS2pGTm5MSVhUaDBqRlU2TGVoUGFkVGdPYXRGQUlLR1ZSWGphNmpBRGJwVFU4MmkwT2VXel9FVjAwMW5TRVpCOU96bDR6M21VZW4?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "AI 放射科量化分析崛起：從輔助偵測走向客觀量測的新時代",
+      "summary": "《Diagnostic Imaging》刊出深度報導，聚焦 AI 驅動的量化分析（Quantitative Analysis）技術如何改變放射科的臨床實踐模式。傳統影像判讀高度依賴放射師的主觀視覺評估，而 AI 量化工具可自動計算腫瘤體積、器官尺寸、病灶密度等客觀數值，有助於提升測量一致性、追蹤治療反應並減少閱片者間的差異。報導指出，此類工具正逐步從研究場域轉移至日常臨床流程，尤其在腫瘤科追蹤、神經退化性疾病監測及心臟影像評估中需求最為殷切。然而，AI 量化工具的落地仍面臨工作流程整合、報告格式標準化及臨床醫師信任度等挑戰。此報導對規劃放射科 AI 升級的醫院決策者具有完整的技術概覽參考價值。",
+      "tags": [
+        "放射科AI",
+        "量化分析",
+        "影像判讀",
+        "AI臨床落地"
+      ],
+      "author": "未標示（diagnosticimaging.com｜2026-09-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONW0zZDNBNW94eTIzeXFINUZQTnZ0UkhpTURJdHhpR3BMTWRhSzNicEZhMWZUanloM294ajA4RDFVQXV3VkIyMUpXcXNzTGlEbVZBQUdwVmhack9HWDRLdnpnWFBhR2pPbjRULXZObEZyZ1poYnFXRXcwTG5aZWhqWXJac2MtU1UxNVdzNzM3RVY5S0s3R2E3a2VQNmVZYjUy?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "台捷智慧醫療媒合會登場，聚焦 AI 輔助診斷與長照科技，台廠積極搶攻歐盟市場",
+      "summary": "台灣與捷克共同舉辦智慧醫療媒合會，吸引兩國醫療科技業者及研究機構參與。本次活動聚焦 AI 輔助診斷、遠距照護及長照科技三大主題，旨在促進台捷雙邊醫療 AI 產業合作，並協助台灣廠商進一步打入歐盟市場。捷克健康科技研究中心代表表示，捷克擁有完善的臨床資料基礎設施與歐盟法規接軌優勢，可成為台灣醫療 AI 產品進入歐洲市場的重要測試基地。對台灣醫療院所而言，此類國際媒合活動反映出本土醫療 AI 技術的外輸潛力正持續升溫，同時也凸顯在 EU AI Act 生效後，歐盟市場對醫療 AI 的法規合規要求將成為台廠出海的關鍵門檻，值得持續關注。",
+      "tags": [
+        "台灣醫療AI",
+        "國際合作",
+        "歐盟市場",
+        "AI輔助診斷"
+      ],
+      "author": "未標示（中央社 CNA｜2026-09-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MQ0JaXy1QclZoRmlfbDV2T2xYcFR2VDc4aXdVRmpDSV9LbGw1blEyNzlMTWVDUVhra29xODN3b1dKc0VvNHJsWWwxVVNIYVBvaHRwNFRSdWtzRjM2ZWc?oc=5"
+    }
+  ]
+}
