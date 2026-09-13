@@ -1,0 +1,75 @@
+{
+  "date": "2026年09月13日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "AI 病理助手可閱讀完整病理切片並跨 31 種癌症回答臨床問題",
+      "summary": "一項最新研究發布了能夠閱讀全張病理切片（Whole Slide Image）的 AI 助手，可針對 31 種癌症類型回應臨床醫師的自然語言提問。此系統整合了大型語言模型與視覺分析能力，能從高解析度組織切片中擷取關鍵特徵，並以對話形式輸出診斷相關資訊，大幅降低病理科醫師人工判讀負擔。此技術突破意義在於：過往 AI 病理工具多為單一任務設計，例如僅偵測腫瘤或分類亞型；而此系統支援開放式問答，具備更高臨床彈性。隨著數位病理基礎設施逐步普及，此類工具有望縮短跨院診斷報告時間，並輔助資源有限地區的腫瘤科決策。目前該工具仍處於研究階段，尚待大規模臨床驗證與監管審查，但其多癌種覆蓋能力展現了強大的擴展潛力。",
+      "tags": [
+        "AI 病理",
+        "數位病理",
+        "腫瘤診斷",
+        "臨床輔助"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-09-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbE1oVEhYTWx0SHNCUHdPYmgyODhyb1VlamdCQmozMUZxU3JGWVFRbWd6M0wyRFcza0lOVG00UzhvOEVlclRjSU5PYlBZTVhhdC1oYkt1cDVMbEF0MUl4WlJQbTBWaUpaaU8zcjh5b1VnUGpsR2p0VGJCcEZPWndQT2VVVkVpMHFTR2MwakdYakp2UVNVQ2Z4Y2dLZllvdUZOV2JuZUxrbzNkVEVNSXhHTnNOUE1XRUZMNWdJM1lHX1hUbms?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 7.5,
+      "title": "AI 學習解讀模糊骨骼掃描影像並自動生成放射科報告",
+      "summary": "最新研究顯示，AI 系統已能有效解讀過往因影像品質不佳而難以判讀的骨骼掃描影像，並自動產出結構化放射科報告。該模型透過大量訓練資料學習識別低解析度或噪點較多的骨掃描影像中的病灶特徵，在偵測骨轉移與骨質異常方面展現出接近專科醫師的表現。研究指出，此技術對基層或偏遠醫院尤具意義——這些機構常因設備較舊導致影像品質受限，卻同時缺乏足夠的放射科人力。自動報告生成功能可縮短報告回報時間，減輕放射師工作負荷，並提供更一致的判讀標準。目前研究團隊正推進多中心驗證，以確認模型在不同設備與患者族群間的泛化能力，未來有望整合進現有 PACS 系統作為臨床輔助工具。",
+      "tags": [
+        "放射科 AI",
+        "骨骼影像",
+        "自動報告生成",
+        "影像診斷"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-09-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMVowbmtZcERFWGRyZXVtajNKdU9hWDdYZzVHM1lfNkk0clpTT1F5RkVjYWNsQlZuMlJ4VzVGMUxEMU9CMVJPU2taQW9HYzktYlA3UWN1bWRkcFV6clVINUFQUktKbENTMS0tZms5bE5NZUxUUGVLRlhDTXVycXhIY1hhTWdvVjduSFVVLUdGOGI?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 6.5,
+      "title": "俄羅斯 Sberbank Medical AI 啟動亞洲臉部 AI 診斷部署計畫",
+      "summary": "俄羅斯金融巨頭 Sberbank 旗下醫療 AI 部門宣布將其臉部特徵診斷 AI 系統推展至亞洲市場。該系統透過分析面部影像特徵，輔助偵測特定疾病的潛在生理指標，屬於非接觸式、低成本的初步篩查工具。此舉被視為俄羅斯在西方制裁壓力下積極向亞洲市場轉軸戰略的一部分，目標鎖定醫療資源相對欠缺的新興市場。然而，臉部診斷 AI 在學術界仍存在較大爭議，其臨床有效性、種族多樣性偏差及隱私合規問題均受到廣泛關注。對亞洲醫療體系而言，在評估採用此類工具時，應審慎考量其監管認證狀態、訓練資料代表性及數據主權風險。目前尚無明確資訊說明該系統是否已取得任何市場的正式醫療器材認證。",
+      "tags": [
+        "臉部診斷 AI",
+        "醫療 AI 國際擴張",
+        "AI 監管",
+        "篩查工具"
+      ],
+      "author": "未標示（russia's pivot to asia｜2026-09-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUk1JRWNlZ2lUOWYzOW45ZHpxZHh0UEdJRnB1NXRYbFRpcGFYeDhUd3BFb25Ha0lPRlhqa19wWkdEeTkwZ015eGFrd2drNDdpNmNUUVhnQ2w5QzBiMTlQdWlXUkdMN1pFMEJza1FwMmRNYjI3cGdQZG9tTDlOTGRrYjBCcnRlTzlCdzVvam1fNkV0U2xha3c?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 6.0,
+      "title": "AI 化身教學助手：東區醫事種子教師計畫導入 AI 強化醫療韌性",
+      "summary": "台灣東區醫事種子教師培訓計畫引入 AI 教學助手工具，協助醫事人員提升應對突發公衛事件的能力與醫療韌性。此計畫透過 AI 輔助教學模組，讓種子教師得以更有效地進行知識傳遞與情境模擬演練，強化基層醫療體系在緊急情況下的應變能力。AI 工具的引入不僅提升了培訓效率，也讓教學內容更具互動性與個人化，有助於縮短不同地區醫事人員的知識落差。此計畫反映台灣在醫療人才培育中積極整合數位工具的趨勢，具體展示了 AI 在醫學教育場域的實際應用潛力。對醫院管理層而言，此類 AI 教學工具的導入模式可作為內部繼續教育與災害應變訓練的參考案例。",
+      "tags": [
+        "AI 醫學教育",
+        "台灣醫療",
+        "醫療韌性",
+        "種子教師"
+      ],
+      "author": "未標示（TCnews慈善新聞網｜2026-09-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sbVpLdFN0bGRQYVZnci1QZHpLWHFGY0RVNjd4eTBzWE5oUlRwa2FOaVR1akJBLWVMWFlWSGk2Y3dDdEdfSzdQZXdqZDFsNmpGVFd0Y0Mzb005SHUtZ1RV?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 5.5,
+      "title": "Nutromics 可穿戴抗生素監測貼片獲 FDA 突破性器械認定",
+      "summary": "澳洲醫療科技公司 Nutromics 宣布其可穿戴式抗生素監測貼片獲得 FDA 突破性器械認定（Breakthrough Device Designation）。該貼片能夠即時連續追蹤萬古黴素（Vancomycin）的血中濃度，取代目前臨床上需定期抽血的傳統監測方式。萬古黴素是治療嚴重革蘭氏陽性菌感染（包括 MRSA）的關鍵抗生素，但其治療窗口狹窄，濃度過低易導致治療失敗，過高則可能引發腎毒性。現行監測依賴間歇性靜脈採血，不僅增加護理工作量，也可能錯過濃度波動的關鍵時間點。此穿戴裝置若成功通過後續臨床驗證並獲得正式批准，將可顯著改善抗生素個人化給藥精準度，對加護病房及感染科有直接臨床應用價值，同時呼應全球抗生素管理（Antimicrobial Stewardship）的政策方向。",
+      "tags": [
+        "可穿戴裝置",
+        "抗生素監測",
+        "FDA 認定",
+        "感染管控"
+      ],
+      "author": "未標示（MedCity News｜2026-09-12）",
+      "source_url": "https://medcitynews.com/2026/09/nutromics-fda-antibiotic/"
+    }
+  ]
+}
