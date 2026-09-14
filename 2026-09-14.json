@@ -1,0 +1,75 @@
+{
+  "date": "2026年09月14日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "醫療 AI 偏見問題：臨床醫師必備的關鍵認知",
+      "summary": "InSight+ 發表深度分析，聚焦醫師在臨床實務中使用醫療 AI 工具時不可忽視的演算法偏見問題。文章指出，醫療 AI 模型若以偏差資料集訓練，可能在性別、種族、年齡及社經背景等面向產生系統性誤判，導致特定族群獲得劣質診斷建議或延誤治療。臨床醫師作為 AI 輸出結果的最後把關者，必須理解模型的訓練資料來源、驗證群體的多樣性，以及工具在本院患者族群中的實際表現差異。文章也呼籲醫院管理層建立 AI 工具導入前的偏見評估機制，並定期稽核部署後的臨床結果分布，以確保 AI 不加劇現有的醫療不平等。此議題對於正在評估或已導入 AI 輔助診斷系統的醫療機構具有高度政策與安全參考價值。",
+      "tags": [
+        "AI偏見",
+        "臨床安全",
+        "AI治理",
+        "醫療公平性"
+      ],
+      "author": "未標示（InSight+ via GNews-Medical AI｜2026-09-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeFJwaDVpeENXb1hXRTI3WWpvSUROTUpYMENuYUp5M2M5NmlkblRiUVlleEJEUk5RN3Q1WV9JbG4tbGdpQnFxcEtBemlZelZWdS0zWER2UW9ydkZlRU1MQTZHUjd5OUNiQXdaUFE2Vzh3ZDc0bVViS2syQk1EMHlDUHdjWVNQZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "AI 全面重塑醫療影像：FDA 核准浪潮、智慧掃描與放射科下一世代",
+      "summary": "Spherical Insights 發布市場深度報告，全面梳理 AI 在醫療影像領域的最新發展趨勢。報告指出，近年 FDA 核准的醫療影像 AI 產品數量持續攀升，涵蓋 CT、MRI、X 光及超音波等多種模態，應用場景從早期篩檢擴展至疾病進程追蹤與術前規劃。AI 演算法不僅提升影像判讀速度與準確率，更透過自動化報告生成降低放射師工作負荷。報告同時分析全球主要市場競爭格局，指出北美持續領跑，亞太地區成長動能最強。對醫院資訊與影像部門而言，此報告提供了選型參考框架，並凸顯 AI 放射科工具已從試驗性部署走向常規臨床整合的關鍵轉折點，醫療機構需評估現有 PACS 架構與 AI 工具的相容性與採購策略。",
+      "tags": [
+        "醫療影像AI",
+        "FDA核准",
+        "放射科",
+        "市場趨勢"
+      ],
+      "author": "未標示（Spherical Insights via GNews-AI radiology｜2026-09-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPckN0VUt2Z0RYblJrSThIS2U1UUlTYS1XVUM5X20tYldncGp5WGVWRmF4SGdTNjhwNkJ1T05rczhoY1JUbWVGdkF1ZDZIQk5NekMwMi02TXFNUXJZZzRWQmFKaFoxaWpwQkNIeHJwamNoT2xhSkR3YU9IanpwbWdrYmRscDk4N3NVTS04SFB0dGtIVGtvdGhlQU1ydW0xdUZOUGZCRnVPRTNIblNaR1RfQkFFZV9KUlMwcjVfOE1acTlpdDZVTUFnZ2dXSTc?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "「影子 AI」悄然入侵病歷系統，醫療機構面臨隱形資安危機",
+      "summary": "TechNews 科技新報報導，醫療機構內部員工未經授權私自使用未受管控的 AI 工具（即「影子 AI」）處理病歷資料的現象日趨普遍，已形成不容忽視的資安與隱私風險。此類工具往往未經醫院 IT 稽核，資料傳輸路徑不透明，可能導致病患個人健康資訊（PHI）外洩，甚至違反健保相關法規與個資保護規定。報導援引資安專家指出，醫療機構的資安防線往往聚焦於外部攻擊，卻忽略內部人員自行引入未授權工具的風險。建議醫院資訊部門建立完整的 AI 工具白名單制度、員工使用稽核機制，以及清晰的 AI 使用政策，方能有效降低因影子 AI 引發的合規與資安危機，保障機構與患者的數位安全。",
+      "tags": [
+        "資訊安全",
+        "影子AI",
+        "病歷隱私",
+        "AI治理"
+      ],
+      "author": "未標示（TechNews 科技新報 via GNews-台灣醫療AI｜2026-09-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JLTk5bFRRNW1qYmp2RjlCSXh2SC1hQjRraGlvSWY4VlpxU2tQZnRQSkdKOV90MWMzQV83dllrcVVyUHVlTmd1ZHRaV1loaUtDaDJ6UTBiU3NOdGZZTk9ybW9CYmlsLUR3cV91czJERTFidWxi?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "AI 助攻醫療前景：專家認為臨床人力需求將擴大而非被取代",
+      "summary": "商傳媒報導，多位醫療與 AI 領域專家在近期論壇中一致表示，AI 技術導入醫療體系的長遠效應並非取代臨床人員，而是有望擴大整體醫療服務量能，進而帶動人力需求的增加。專家指出，AI 在影像判讀、文書記錄、藥物警示等重複性任務上的自動化，能讓醫師、護理師及醫技人員將時間與精力投注於更需人文判斷的高複雜度臨床工作，提升服務品質與患者安全。同時，隨著 AI 輔助篩檢工具降低就醫門檻、促使更多民眾接受預防性健康管理，醫療需求總量也將隨之上升。專家呼籲醫療機構應及早規劃 AI 時代的人才培育策略，讓臨床人員具備與 AI 協作的能力，以因應未來醫療環境的結構性轉變。",
+      "tags": [
+        "醫療人力",
+        "AI協作",
+        "臨床轉型",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（商傳媒 via GNews-台灣醫療AI｜2026-09-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxORXVGbHdmMnowQXNkNS1mMHlTdVFzeWJkbzJnem5nUjBET0lIUVpMS25objZ6OTh6dVhUYjAtTWJEc1Q0bWZDeHpzMnJQdnhHdDZMSkdtcGp0OFVrUG8xcEg3Q3FrWTJ0VjJ0RktTYWxWMjdWNGh4RF9JMi1kS19jb3g1ZFNndjNOejJNeGc0WGphWVdvekJ6X2FpMWZjTDBDZVpqcWxLYkhMRUZVaEFxUG9ObnlGSVlNQVgtc2J0ZnI1cS1GY1Etd1hUVnIwMEo5VFRqOHRSYW1BWXp4UnpYRzF4TW9sYlhkN0hoY1hkNHB2NXh1ZXlEeVNxaTRQQ2hCdnRCeC1iUjdoeU1vYUJoUGpyN3Zub20yNmprU0xJSDVDLUU3Y1hEekNPTGQtX1JlN3RSU0RFX3ZhX0lYNkFsZjU1S2MtajZMN0NTQkhpejF1LWd4V19sVDh1U25OTHQtc2xzWXJ3cjJLWkF2?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "Inspiren 募資 7,000 萬美元，以 AI 環境感測擴大銀髮照護平台規模",
+      "summary": "MedCity News 報導，AI 銀髮照護平台新創公司 Inspiren 完成 7,000 萬美元 C 輪募資，由 NewView Capital 領投。Inspiren 的核心技術為結合環境感測器與電腦視覺的 AI 平台，能在不侵犯住民隱私的前提下持續監測生活狀態，並在跌倒事件發生前預測風險、提早發出警示。跌倒是銀髮族住院的主要原因之一，也是長照機構的重大安全課題，AI 預測性介入有望顯著降低相關傷害與醫療成本。本輪資金將用於擴大平台在銀髮住宅與長照機構的部署規模。此案例對台灣積極推動的長照 2.0 與智慧長照政策具有參考意義，顯示以非接觸式 AI 感測技術強化老人照護安全已成全球新興趨勢，值得醫療體系與長照機構關注。",
+      "tags": [
+        "銀髮照護",
+        "跌倒預防",
+        "電腦視覺",
+        "長照科技"
+      ],
+      "author": "未標示（MedCity News｜2026-09-13）",
+      "source_url": "https://medcitynews.com/2026/09/inspiren-senior-living-ai/"
+    }
+  ]
+}
