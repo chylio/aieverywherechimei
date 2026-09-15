@@ -1,0 +1,145 @@
+{
+  "date": "2026年09月15日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "英國委員會提出醫療 AI 分階段審批與持續監管新框架",
+      "summary": "英國一獨立委員會發布報告，呼籲對醫療 AI 採行全新監管方式，核心主張包括：以「分階段審批」取代一次性上市許可、要求廠商在產品全生命週期內提供持續安全有效性證據，並設立獨立監督機制定期重審已核准系統。委員會指出，現行法規框架設計之初並未考慮 AI 演算法可自我更新、持續演化的特性，導致核准後的臨床風險難以追蹤。報告亦強調，醫院部署 AI 時應建立透明的事故通報與問責機制，並要求廠商提供真實世界效能數據。此一監管思路與歐盟 AI Act 及美國 FDA 的演進方向一致，可能成為全球醫療 AI 監理改革的重要參考依據，對有意進行跨國市場布局的醫療機構與科技廠商具有直接政策意涵。",
+      "tags": [
+        "醫療AI監管",
+        "政策法規",
+        "英國",
+        "AI治理"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-09-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQblVZM1N5U3lzLUJMQjJ3M3VnUFVYT21RZGc0RmJPcHVVRVpNNkF0UjVlNmFtMEYzanUtZ01JM2I0OGlBTFR4QWRIZlpaWlFRdzJnUERWYzkzcUZXOS1fa25YcUNyakl4M090UFMtbUF4R0NHQk1ZYzFnMjFHdDdQTGFxZXEwNG9iWG9qZVNKVTNxUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "川普政府力推醫療 AI 整合，安全與成效疑慮同步升溫",
+      "summary": "《紐約時報》報導，川普政府正積極推動人工智慧融入美國醫療體系，包括加速 FDA 審批流程、鼓勵醫院採用 AI 診斷與行政工具，並考慮將 AI 應用列入聯邦醫療採購優先項目。然而，臨床醫師與研究人員對此提出警告，認為部分 AI 工具尚缺乏足夠的前瞻性臨床試驗驗證，存在偏見、誤診及資料隱私等潛在風險。批評者擔憂政策推進速度超前於安全評估機制的建立，可能在弱勢族群或複雜病症族群中產生系統性危害。此議題凸顯醫療 AI 快速部署與嚴謹監管之間的張力，對各國醫院領導層在採購決策與臨床導入策略上具有重要的參考價值。",
+      "tags": [
+        "醫療AI政策",
+        "FDA",
+        "臨床安全",
+        "美國"
+      ],
+      "author": "未標示（The New York Times｜2026-09-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtWHhOYkNKZXNHYlRzRThHNDVCc29vZXMyeG52blhXWXJnc3ZpU21SNk9CVVV5ZjN0RWpqa1RjV0lQM1FnWGFrczZfSk5yQ3NPRkRDN1ptbGZRMVNlUXV3RFFCRUJRYW5JWEZJbFhsd1p6bXhVSUhsVmt3?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "美國退伍軍人事務部成功試點後逐步擴大 AI 醫療抄錄員部署",
+      "summary": "美國退伍軍人事務部（VA）宣布，在多個試點機構完成醫療 AI 抄錄員（AI medical scribe）的評估後，將分階段向更多 VA 醫療中心推廣。該系統能夠即時將醫病對話轉錄並自動生成結構化病歷，大幅減少醫師的文書負擔，試點數據顯示臨床人員每診次可節省數分鐘至十餘分鐘不等的記錄時間。VA 表示，導入過程將同步建立品質稽核機制，確保 AI 生成病歷的準確性與合規性。此案例為大規模公立醫療體系導入 AI 抄錄工具提供了具參考性的實施路徑，亦顯示聯邦醫療機構對 AI 文書自動化的接受度正在提升，對正在評估類似工具的醫院資訊與臨床管理團隊具有直接借鑒意義。",
+      "tags": [
+        "AI抄錄員",
+        "病歷自動化",
+        "退伍軍人事務部",
+        "臨床效率"
+      ],
+      "author": "未標示（Nextgov/FCW｜2026-09-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeEdvVGp3ektNc1BlSF9SdlVDN01hdWtjS2p4V0puMnkyZjhXZGhkRjdiSV9YcmtWbEFCWUpYaWxCbHY5MXpkalJMMkpoaFRGR2lLMTE4cHV1akZudVIwdGNTSTVMc3BBSktZSFdZd0VVNUJ4cS1PeWNVd0pncnVvZzJDTVRYc0JRa2VLVFo4QzQyYXFIUlU1ZUZFemdaUHp3UXFFR1NfcW5SRXFsaXhQM1JwYVVIcmtOLXB4QzNtMWF6dkhoVkVtUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "對話式醫療 AI 須有前瞻性臨床證據，Nature 社論表態不可妥協",
+      "summary": "《Nature》發表評論，強調對話式醫療 AI（conversational medical AI）在正式臨床部署前，必須提供嚴謹的前瞻性研究證據，而非僅憑回顧性數據或小規模試驗即推廣應用。文章指出，目前大多數對話型醫療 AI（如 AI 問診助理、症狀評估機器人）的臨床驗證多依賴觀察性研究，缺乏隨機對照試驗支持，難以排除選擇偏差。作者呼籲監管機構、醫療機構與開發商共同建立前瞻性評估標準，並在導入後持續追蹤患者安全指標。此觀點為醫院在採購與試驗對話型 AI 工具時，提供了重要的實證要求框架，亦呼應全球對醫療 AI 監管標準提升的廣泛討論。",
+      "tags": [
+        "對話式AI",
+        "臨床驗證",
+        "實證醫學",
+        "醫療AI標準"
+      ],
+      "author": "未標示（Nature｜2026-09-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94U05YMG9MOU5GRGxHZUlyYmgzZUk1WUUyTE9HYVp6VGtrSG82TmlLakdDaHg0R3YzQmhKeFRpZGJrRExNa045aE5KSlg4NzhxLXJnbU80SVgzYy1UQlVz?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "彰化基督教醫院啟用 NVIDIA B200 醫療 AI 超級電腦，布局代理式 AI",
+      "summary": "彰化基督教醫院（彰基）宣布正式啟用搭載 NVIDIA B200 GPU 的醫療 AI 高效能運算中心，成為台灣醫療院所中首批採用最新世代 AI 算力基礎設施的機構之一。院方表示，此高效能運算平台將支援影像辨識、基因組學分析、臨床決策支援等多項智慧醫療應用，並計畫進一步導入「代理式 AI」（Agentic AI）架構，使 AI 系統能自主執行複雜的多步驟醫療流程任務。此舉象徵台灣醫療院所對 AI 基礎建設的投資進入新階段，也反映出醫院對自主性 AI 代理應用的積極布局意圖，對正在規劃 AI 算力升級的醫療機構具有重要的參考價值。",
+      "tags": [
+        "NVIDIA B200",
+        "醫療AI算力",
+        "代理式AI",
+        "台灣智慧醫院"
+      ],
+      "author": "未標示（台灣好新聞｜2026-09-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNYlBIYi03TDRyMGpjNWQ1eVhLWll1S19yc1FHOEJneUFDSTVvSWZHNWxjVkk0LWVfSWVpQUlSMlJMak5MOUZIa0JkMUVzTDdaY09FT1hjRHIyZ09iNkgtQXpYQmhTQUZDbFFLUDNrM1dhTmVfdkZ2ZUxLLWwyeTFCRHZoeEFwajhiQ3gwSmNnSFdmUWh4ZzZxcENROFpPbW5YOWllcXE0X08tNWpqLWZxZmlaVmNwTmp6T1FaWWVjMjduem5zS0VoWTNVcUM2X25oa0JoMk9uR0gtb0ZTem5EVFZndDdHMnViSTF0UEdmZExTQVZCWEV2OXRPZUFjYWtaOXlLaDRXV1ZhVVljdHZ3N0tLOEc3NmtfNFJITGI3dExDWlpNV2RZS2tvSFI4NGt5NGNmcjhRTVZDdEw3Vkh3REhQNjZJN2syT1N1aEQxNnNqUXdJTndqM0Q3WXJZUy1vbTVBTS15RURyVWtJSG50YUJR?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "醫療 AI 微調可提升診斷準確率，但同步引發患者隱私外洩風險",
+      "summary": "Medical Xpress 報導一項最新研究，指出對醫療 AI 模型進行微調（fine-tuning）雖能顯著提升特定疾病診斷的準確性，但此過程可能意外地將訓練資料中的患者個資「記憶」於模型參數內，形成隱私外洩風險。研究人員以影像辨識及電子病歷模型為例，示範攻擊者可透過成員推斷攻擊（membership inference attack）從微調後的模型中還原部分敏感資訊。報告建議醫療機構在導入或委外微調 AI 模型時，應採用差分隱私（differential privacy）、聯邦學習等隱私保護技術，並在合約中明定資料使用範圍與安全標準，以在效能提升與隱私保護之間取得平衡。",
+      "tags": [
+        "醫療AI隱私",
+        "模型微調",
+        "資料安全",
+        "聯邦學習"
+      ],
+      "author": "未標示（Medical Xpress｜2026-09-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS2V1VWZmX2FPRC1UMFNzQ09CYnlxUVlTeTZLeFFaREZXOERyRHNYa0JNTF85eF81Q2JiVWNFNHJDSXpITlhZODcxQlJlYTdoMW1Ic05oSm5Ma3Z4Zlh3T18ySC05ejNPYUNfdGxuSS1QbEJpNmVVMHJhUlYxWHJpS1Nn?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "三星醫療中心以成熟 AI 治理框架驅動智慧醫院轉型",
+      "summary": "《Healthcare IT News》報導，韓國三星醫療中心（Samsung Medical Center）以「成熟 AI 治理」為核心策略，系統性推動全院智慧醫院轉型。院方建立了包含倫理審查、臨床驗證、持續監控與績效評估的 AI 生命週期管理制度，確保每項 AI 工具在上線前後均受到嚴格稽核。院長表示，AI 治理框架不只是合規工具，更是推動醫護人員信任與採用率提升的關鍵因素。該院目前已在放射影像、急診分流、手術排程等多個場域部署 AI，並與院外學術夥伴合作建立跨機構數據標準。此案例為亞太區醫院推動 AI 治理制度化提供了具實務參考的典範，值得關注。",
+      "tags": [
+        "AI治理",
+        "智慧醫院",
+        "三星醫療中心",
+        "韓國"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-09-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSDRZS1kxZkRlLVNxTV9MWndZWVZyQU5BSk5UbEwzMnBPZHNIWENaQVJKa21VMDhZTFpkY2hfOEpQcXVIMEtTaUtaTzV6VkJwU1B4QVBsbUlVczBGNGhsVXdoYkZoc21XeFY3VjRlZXJMaUtWaEJRWkg0OF9oSXdyMndCblhtaFhPNi1sRXlWbUdOZjYzYU1zN0ZpY2ppWXZ3VkQ3Z0RxRXRJMjFielV5TFFvdF93OXVzMnVkWHh6TVlhUlYzZzRyeA?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "AI 空間分析病理切片可預測胰臟癌復發風險",
+      "summary": "《Clinical Lab Products》報導，研究人員開發出一套以 AI 空間分析技術處理標準病理切片的系統，可預測胰臟癌術後復發風險。該模型透過分析腫瘤微環境中細胞空間排列模式，識別與預後相關的組織特徵，無需額外昂貴的分子檢測即可生成個人化風險分層。初步驗證結果顯示，其預測準確度優於現行臨床分期指標。研究團隊指出，此方法可直接應用於醫院現有的數位病理平台，具備低門檻導入優勢。胰臟癌因早期症狀不明顯且預後差，若能在術後早期精準識別高復發風險患者，將有助於制定更積極的輔助治療策略，對腫瘤科與病理科具有重要臨床意義。",
+      "tags": [
+        "AI病理",
+        "胰臟癌",
+        "復發預測",
+        "數位病理"
+      ],
+      "author": "未標示（Clinical Lab Products｜2026-09-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1g0OUVzVWdGRmV4VWthQ3pQY1JuVnJWRUxJUkx5M3M3X2xvem1XNTJTNVBJSzZRcEI5bktqTXNyU0VBYXJVMGkwVy1sOWl5MXdCM0YzaFRfdk1meXd6RVQ0b3V0aUdmY1VBWXNBTUtoNkhid3NmY2k5Q3k2Mjk2dkpNZmlsM0NaSFI0Zy1ZaUZRa2NUaFFBRU1NTUcyQTExLXllcnZQNnZtMld4TF80?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "台灣衛福部長石崇良宣示積極建構 AI 醫療基礎建設，生技論壇 10 月登場",
+      "summary": "衛生福利部部長石崇良出席預告，將於 10 月 7 日生技論壇上宣示台灣政府積極建構 AI 醫療基礎建設的整體政策方向。石崇良表示，AI 醫療基建涵蓋資料標準化、跨院資料互通平台、AI 模型監理機制等層面，政府將透過政策引導與資源挹注，協助醫療機構加速智慧醫療轉型。此訊息顯示台灣醫療 AI 政策正從個別試點走向系統性基礎設施建置階段，對醫院資訊部門及數位轉型團隊在規劃中長期 AI 投資路徑時，具有重要的政策參考價值。論壇亦預計邀集產官學研各界代表共同探討台灣醫療 AI 生態系的下一步發展。",
+      "tags": [
+        "台灣醫療AI政策",
+        "衛福部",
+        "AI醫療基建",
+        "智慧醫療"
+      ],
+      "author": "未標示（UDN｜2026-09-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zbTRlTHhrY0JjX2p3TnVJTG43aWY5WHJ1TE90RTJZNEhXZWxIcDktV0lHOG8xVHYzaWM1aFNEb05tbWNIYVN6ak8zZGlGS0o40gFWQVVfeXFMTVktd3dIWEVuS3lRWklCaFFqSDJRLTJBNjlfUlBSWVlmcHJ2X0VMcWoteGpFNG9fVGM2cGs1VW5sQTI2UW10WUU5TEFfeURpYkVvTG5IbFE?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 6.0,
+      "title": "馬偕醫院赴捷克取經質子治療與 AI 臨床經驗，AI 輔助計畫時間從 3 小時縮至 5 分鐘",
+      "summary": "馬偕醫院與商業研究院共同赴捷克布拉格，參訪當地質子治療中心並深入交流 AI 輔助放射治療計畫的臨床實務。捷克方面分享了導入 AI 自動勾畫腫瘤輪廓與治療計畫系統後，將原本需要 3 小時的計畫流程縮短至約 5 分鐘的實績數據，大幅提升放射腫瘤科的工作效率。馬偕代表表示，此行目的在於借鑒歐洲先進臨床經驗，為台灣未來規劃質子治療中心導入 AI 技術奠定基礎，雙方亦簽署合作備忘錄，計畫在精準醫療與 AI 應用上持續交流。此案例對國內正籌備或已運營放射治療部門的醫院，在評估 AI 輔助計畫系統的效益時具有具體參考價值。",
+      "tags": [
+        "質子治療",
+        "AI放射治療",
+        "台捷醫療合作",
+        "馬偕醫院"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-09-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNdjRmYUxKTlFRM0x4bWVJTklVamtUU1JzSURMemdNT3BONjBBcGZrbTBrTzQyeS1Bc0NkWUlmYVBQUnZHNEpqMnYwbVNFa3VRdE5FYm9sWEtwX1RENGotaURRUlZqWFIxYTNnaFVHNWp5cVRUMWFYVVo1TVNHTUMydlA5TFhweVQtMk5IYVpwWXM5NG5ZcWZVczZUQWllUXlNR21zN2pEWnBpMUZ4ekhCQUVqN3ppR1lRS0JoaFVlQ1dEWkswanc0bnJIb2xhV1k3TVB0cDZaUmVhNEZlNWk4UXVObk1uX0l2bWpQNjE3cVlld2FuMXhYSzljVnZvQ1hrWlI1emltbjBzWjFBLWtRZzhERkN5Q0p5eFZHc1NfejJobTNndkFvTkhnQktUSkVnVE9rVjhPNU1rYnFnSXc4U241bDJTQ04wX1RhM0JIZmM4MjVvVFBHSlg0eEZEUzlEQVdCbQ?oc=5"
+    }
+  ]
+}
