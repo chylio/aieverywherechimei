@@ -1,0 +1,145 @@
+{
+  "date": "2026年09月16日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Medicare AI事前授權試點倉促上路問題叢生，新文件揭示延誤照護案例",
+      "summary": "美國聯邦醫療保險（Medicare）推行的 AI 事前授權（Prior Authorization）試點計畫，因倉促上路導致多項執行缺失，新取得的內部文件顯示，部分患者因此遭遇照護延誤。該試點採用 AI 工具審核醫療服務申請，旨在加速核准流程並降低行政負擔，但文件揭示系統設計不完善、人員培訓不足及監管機制欠缺等問題。此案例凸顯醫療 AI 快速部署時的治理風險，尤其在涉及給付決策的高風險場景中，充分的臨床驗證與監理框架不可或缺。對於同樣評估導入 AI 輔助行政審核的醫院體系而言，此案例提供了重要的前車之鑑，提示在政策驅動下快速部署 AI 可能引發的患者安全隱憂，以及建立完善人機協作機制的必要性。",
+      "tags": [
+        "AI事前授權",
+        "醫療政策",
+        "患者安全",
+        "醫療AI治理"
+      ],
+      "author": "未標示（STAT News｜2026-09-15）",
+      "source_url": "https://www.statnews.com/2026/09/15/medicare-wiser-ai-prior-authorization-pilot-rushed-launch-delayed-care/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "真實世界研究：AI 輔助放射師偵測更多腦動脈瘤",
+      "summary": "一項真實世界臨床研究顯示，AI 輔助工具可顯著提升放射師對腦動脈瘤的偵測率，降低漏診風險。研究在實際臨床環境中評估 AI 輔助閱片系統的表現，而非僅限於受控實驗室條件，結果發現放射師在 AI 協助下識別出更多傳統影像判讀中可能被忽略的動脈瘤病灶。腦動脈瘤若未及時診斷，破裂後將引發致命性蜘蛛膜下腔出血，早期偵測對預後至關重要。此研究為 AI 影像輔助診斷在神經放射科的臨床效益提供了真實世界證據，對正在評估或已部署放射 AI 工具的醫院體系而言，具有重要的臨床實踐參考價值，亦再次驗證 AI 作為放射師「第二雙眼睛」的輔助角色。",
+      "tags": [
+        "放射AI",
+        "腦動脈瘤",
+        "影像診斷",
+        "真實世界研究"
+      ],
+      "author": "未標示（Imaging Technology News｜2026-09-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcENsNzZtNGtJYlV1Tm84LWRUUTIyNHpXOGktTkdiS1pYT2RGSDlQZ1NVTWVoRmhBRHFkMW5fWW1GcFc5dUdQblZMNlVYUXhIcmJBa2tqRVlkdTVmcEtFckE3NkF3NTR0NXYwUHQxUDhLSXQ0WGN4VXp1bGl0NmtueHRTVURMMnloUXNkT21LdUY1dVJNSWtKUmh3dzN3bkxkdnc"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "GE HealthCare 推出 AI 工具預測醫院容量瓶頸，強化床位與流程管理",
+      "summary": "GE HealthCare 正式發布新款 AI 應用程式，可即時預測醫院床位容量瓶頸與病患流量壅塞點，協助管理層提前進行資源調配。該工具透過整合電子病歷、入出院數據及歷史流量模式，以預測性分析識別可能發生壅塞的科室與時段，並提供視覺化儀表板供行政與臨床管理人員決策。此解決方案直接呼應全球醫院普遍面臨的床位短缺與急診壅塞問題，可望減少不必要的病患等待時間、提升手術排程效率並優化護理人力配置。對正面臨高齡化社會帶來龐大照護需求的醫院體系而言，AI 驅動的醫院容量管理工具代表智慧醫院營運的重要方向，具有實質的效率提升潛力。",
+      "tags": [
+        "醫院營運AI",
+        "容量管理",
+        "GE HealthCare",
+        "智慧醫院"
+      ],
+      "author": "未標示（Healthcare Finance News｜2026-09-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSWQxblJUMkRmWUxqcFBCMGMxZm9WMkRjdHZ0cjd6ZlUwSERmc2d3YUZUdWhnak5wN1Z6ejJDMk9ZUnhPSzFzLWp1QTlrQUt2TDRjY2ZUeWxhVjhHaTd5VEpEWjZEUFd1Y1V1RlFWS1BoZDRVWDNIMGlzOThTUnpTMDJsQTQ3OUMzYUJORmRSN19JUXE1TEtydnVMclR5bFFnU0ROSFphcjg"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "Nature 研究：本地部署醫療 AI 代理人可提升臨床決策可靠性",
+      "summary": "《Nature》發表研究探討在院內本地端（On-Premise）部署醫療 AI 代理人（AI Agents）的架構設計與可靠性表現。有別於依賴雲端推論的模式，本地部署方案可確保患者資料不離院、降低網路延遲，並符合醫療資料保護法規要求。研究顯示，經過適當設計的本地 AI 代理人在臨床決策支援場景中，能提供穩定且可重複驗證的診斷建議，並透過回答一致性機制讓臨床醫師識別可信賴的 AI 輸出。此研究對醫院資訊部門在評估 AI 部署架構時提供重要依據，尤其在資安合規、資料主權與系統穩定性三者兼顧的前提下，本地部署模式的可行性值得醫療機構深入評估。",
+      "tags": [
+        "本地部署AI",
+        "臨床決策支援",
+        "AI代理人",
+        "資料隱私"
+      ],
+      "author": "未標示（Nature｜2026-09-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VanUybXZENTJjdXN1V1FRTFlfZU9Dblo2WWpuMXljeHIwaEdlTUgzc2F1V2YySWhYd2ZnSFFnRXV5TkdOanVvTFJ2NEdDQV9qWUpzODBHRXhXN2QxTzQ0"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "台灣天下雜誌：醫療 AI 從單點應用邁向全院智慧營運新局",
+      "summary": "《天下雜誌》刊載深度分析，探討台灣醫療體系如何將 AI 應用從單一科別或功能性工具，擴展至涵蓋全院層級的智慧營運整合模式。文章指出，早期醫療 AI 多聚焦於影像判讀、病理分析等單點突破，而新興趨勢則是跨科整合、涵蓋行政排程、病患流量管理、藥品庫存及臨床決策支援的全院級 AI 平台。台灣醫院在政府推動數位健康政策及健保資料庫的利基下，具備發展全院智慧營運的獨特條件。文章亦提及跨部門資料整合、變革管理及 AI 倫理治理為推動全院智慧化的三大關鍵挑戰，對正規劃或深化 AI 策略的醫院領導層具有重要的策略參考意義。",
+      "tags": [
+        "全院智慧營運",
+        "台灣醫療AI",
+        "數位轉型",
+        "AI策略"
+      ],
+      "author": "未標示（天下雜誌｜2026-09-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SdDJCMzI3dE05X3REc2xkeF9zbzdnOXdPd3dkUkJKd2drVS1Jc25OaWNwa25zUWVUR3BHSmdtTXpncVRkMkU0aE8xZTlQQVZPUFk5dWd6UUo"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "OpenAI 資助建立生醫訓練資料集，以強化醫療 AI 模型的生物學理解能力",
+      "summary": "MIT Technology Review 報導，OpenAI 正積極資助生物醫學訓練資料的生產計畫，以解決醫療 AI 模型在生物學知識深度上的根本瓶頸。報導引述政策分析師的提案，建議透過競標破產生技公司的方式，取得通常屬於商業機密的詳細法規申報資料、製造策略及安全性數據，作為模型訓練的高品質原料。此舉反映大型語言模型在醫療生物科學應用上，高品質、具結構性的領域數據仍是核心挑戰。對醫療 AI 產業而言，訓練資料的來源多元性與品質標準，將直接決定未來臨床 AI 工具的可信度與泛化能力，此議題同樣涉及資料倫理與智財法規的複雜面向。",
+      "tags": [
+        "醫療AI訓練資料",
+        "OpenAI",
+        "生醫AI",
+        "資料策略"
+      ],
+      "author": "未標示（MIT Technology Review｜2026-09-15）",
+      "source_url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "Merge 推出 MergeIQ AI 層，整合放射科工作流程自動化協調",
+      "summary": "醫療影像資訊系統大廠 Merge 正式發布 MergeIQ，這是一套專為放射科設計的 AI 工作流程協調層（Orchestration Layer），旨在統一管理多個 AI 應用程式的輸出結果並整合至現有放射資訊系統（RIS）與影像歸檔及通訊系統（PACS）中。MergeIQ 可自動分派急重症案例優先閱片、整合多個 AI 廠商的偵測結果，並提供統一的 AI 結果介面供放射師查閱，解決多 AI 工具並存時「介面破碎化」的痛點。此架構設計符合當前放射科 AI 生態系發展趨勢，醫院無需綁定單一廠商，可彈性引入最適合各亞專科的 AI 工具，同時透過統一平台維持工作流程一致性，對有意建構放射 AI 生態系的醫院資訊與影像部門具有實務參考價值。",
+      "tags": [
+        "放射科AI",
+        "工作流程自動化",
+        "PACS整合",
+        "AI協調平台"
+      ],
+      "author": "未標示（AuntMinnie｜2026-09-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMHRFMkNzRFNqWlp4YmxmTG9WZmM1R0g4OHBLb2U1VDRXWF9nRDQ4Q2tIODJ6TWNJQ05KaVUxUDkxcVpObkFRdEZaSzdYMzBmcnAzTURtUG9SVEluRk1jd3l0czlPVmdQemdkVkJUekVrTVVVaThraHhUNTNXbEdjNEoySmlzM04zaXZLSmRkVF9ncnBrNWVlMGFOZ3ZlUDRiNFBPZE5MV2pucV9zSFlrNzNPemlaVjBLMTAzcjNnYm9tQ0tzY1c1bG9lX1VWT0RZMndTUkpxaXdDT0U3QWYtelJ1dk5Nd2xP"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "美國全國聯盟測試心衰竭 AI 代理，iThome MedTech 雙周報第53期重點整理",
+      "summary": "iThome MedTech 醫療科技雙周報第53期聚焦美國正在推動的全國性聯盟計畫，測試以 AI 代理人（AI Agent）提供心衰竭患者全天候（24/7）遠端監測與照護支援服務。該聯盟整合多家醫院體系、科技廠商及支付方，透過 AI 代理持續追蹤患者生理數據、識別惡化早期徵兆，並在必要時觸發臨床干預流程，目標是降低心衰竭患者的再住院率。心衰竭為全球主要慢性病負擔之一，再住院率高且醫療成本龐大，AI 代理的全天候監測模式若驗證有效，將對慢性病照護管理模式產生深遠影響，亦可為台灣醫院發展智慧慢性病照護提供重要參考。",
+      "tags": [
+        "心衰竭AI",
+        "AI代理人",
+        "慢性病管理",
+        "遠端監測"
+      ],
+      "author": "未標示（iThome｜2026-09-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5RlE1X254QXVZMkhWQkVKYzRQNVpEVnJrdmVhRDdwOWNUVkVXRXF0NlpfRGNZdUZieTAzdXNGZTZoWUF4dDR3Sld2SGoxdw"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "中國試行 AI 眼科門診真實落地，揭示 AI 與患者實際互動的複雜挑戰",
+      "summary": "中國某醫院正式在真實臨床環境中試行 AI 眼科門診，以 AI 系統直接與患者互動並提供初步診斷建議，此為少數已進入臨床實地運作的 AI 全流程門診案例之一。試行過程揭示多項實務挑戰，包括患者對 AI 診斷的接受度差異、語言溝通的細緻需求、罕見或複雜病例的辨識限制，以及在 AI 判斷存疑時轉介人類醫師的流程設計。研究結果顯示，AI 在標準化眼科篩查項目（如糖尿病視網膜病變、青光眼初篩）上表現良好，但完全自主的患者互動仍存在顯著落差。此案例為全球探索 AI 門診落地的醫療機構提供了寶貴的真實世界數據，對評估 AI 輔助診療的醫院具有重要的參考意義。",
+      "tags": [
+        "AI門診",
+        "眼科AI",
+        "人機互動",
+        "臨床落地"
+      ],
+      "author": "未標示（Medical Daily｜2026-09-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkZrODNoR040MnRmc0ZhOWVIbTF2d2VHNHhMa09pVWZPY09FMnlzVDdwY3JBdVJZakVVbDk0X3NKSFY4cS1SaGRQTUFocllPbnhPS09yVjhKbHJnTDlRLTVreWhYVHNMTjZkWXQtZER0MkR6ZVRuT3NfVEUtalQzZ200VUE"
+    },
+    {
+      "rank": 10,
+      "score": 6.0,
+      "title": "醫療 AI 採用加速但落差擴大：資源不足的醫院恐遭數位鴻溝邊緣化",
+      "summary": "news-medical.net 報導，全球醫院採用 AI 的速度持續加快，但資源充足與資源不足醫院之間的 AI 近用落差（Access Gap）正在擴大而非縮小。大型學術醫療中心與資金雄厚的私立醫院已廣泛部署影像 AI、臨床決策支援及行政自動化工具；然而，社區醫院、偏鄉醫療機構及中低收入國家的醫療體系，因基礎建設、技術人才及採購預算限制，面臨被排除在 AI 紅利之外的風險。報告呼籲政府、學術機構及 AI 廠商共同制定策略，包括開放資料共享、補貼採購及建立跨院 AI 協作聯盟，以確保醫療 AI 的效益能更公平地惠及不同規模與地區的醫療機構，避免加劇既有的醫療不平等現象。",
+      "tags": [
+        "醫療AI近用落差",
+        "數位醫療平等",
+        "醫院資訊化",
+        "AI政策"
+      ],
+      "author": "未標示（news-medical.net｜2026-09-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbzFUaDViUGFMcUZHRHlTRGo0SERjZE1sLUR0WEMzam1kQUJNTmNnV3NKOXI4d21kT0o3RjNiX1VhdnB6TWVzQy1zNG9OTVR4Y2RzRUtpVE1SazRhM0FjelBOWW5YRTVONi1MdksxdjJwV1lvYk1SR3I1YVJtOW1IWVhJNE5PVC03UnpnTmhpcXVTa29UeUpXQ0VKNGU1NVV5aHprV2xvQVBfbXVsOWpHRHBKNEdCRnBXMkZIVXdjSQ"
+    }
+  ]
+}
