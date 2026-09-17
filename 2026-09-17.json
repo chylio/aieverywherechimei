@@ -1,0 +1,145 @@
+{
+  "date": "2026年09月17日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "FDA 拒絕 Harrison.ai 請求：放射 AI 不得豁免 510(k) 審查要求",
+      "summary": "FDA 正式拒絕澳洲放射 AI 公司 Harrison.ai 的請願，駁回其要求將部分放射科 AI 產品豁免於 510(k) 上市前審查的申請。此決定對全球放射 AI 廠商具有重大政策意涵，意味著 FDA 堅持對醫療 AI 產品維持嚴格的上市前審查機制，不輕易開放豁免路徑。醫院在採購放射 AI 系統時，應確認供應商是否已取得相應的 FDA 510(k) 核准，以降低法規合規風險。此案也預示 FDA 對 AI 醫療器材的監管立場趨向嚴謹，對國內各院正在評估或引進的放射 AI 工具而言，選擇具完整法規認證的產品將更為關鍵。此決定可能影響尚在等待 FDA 審查的眾多放射 AI 廠商的上市策略與時程規劃。",
+      "tags": [
+        "FDA法規",
+        "放射科AI",
+        "醫療器材審查",
+        "510(k)"
+      ],
+      "author": "未標示（insights.citeline.com｜2026-09-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPVEFSOEZxN3FDZk84aldTV3piemZndFFZaHBodU5DQlc3TmpGcWRkVzl6cnhPZHRFUmZ2TS1ERUVsV1hkNklsWXI5ZUdlMkRsblotajVCRGNyOUlYVkFtM2hnZTNBNm4tRDM3VEFmZUItWGJuc3FYc2V0b2hYYWZuamYzV2EtUXNHYXBQOGluWExTSDByWEdncS1lRlZabkVHSE1oSW9NdjJnSzg5UzhIQ1cxaTVPb1B3WVJ6MzRCWURoOVBCQ1cyQi1UYnk1ZnAyaGRDQnRmNzFNdndUbFVEX2dNSzNVaWtQUW1kSlRaMlRNUVp6TUJFdFlvdzdJZXhoZ3M5X3NERlFDVnF1ZXNEQkxOVjYtaVhzbkVQSFp1VkxYaTFx"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "Cognita 獲 FDA 129 萬美元合約，開發生成式 AI 放射科評估新方法",
+      "summary": "Cognita Imaging 獲得 FDA 授予的 129 萬美元合約，任務為建立一套評估放射科生成式 AI（Generative AI）的全新測試方法學。此合約凸顯 FDA 正積極投入資源，以確立針對生成式 AI 醫療應用的評估標準，而非僅被動等待廠商申請。放射科生成式 AI 的應用範疇包含影像重建、報告生成與異常偵測等，其評估難度遠高於傳統判讀輔助 AI，亟需專屬的測試框架。對醫院採購決策者而言，此合約代表未來將有更具公信力的第三方評估標準問世，有助於判斷生成式 AI 產品的真實臨床效能。醫院在導入此類新興工具前，可持續關注 FDA 後續公布的評估框架與指引。",
+      "tags": [
+        "FDA法規",
+        "生成式AI",
+        "放射科AI",
+        "醫療器材評估"
+      ],
+      "author": "未標示（Business Wire｜2026-09-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPem5HMkh4cHJpZjRXY0hOeDZ0dXpjdnhrN0JCSHZFbkF1ZUZ5bngzZGRGd09UaHZFek9JbDRWSWNaSmJMaFFOdHBCVmtSTl9mcl8ydnZfS0x4eWtGTTl1V1BJb1ZscEJzdVo4WWRvX3NaSUhFajVZdVhBLXoyUC1iaWZWSkdkLXZoenN6dHd6b1hVX0VWSGtGa2lDRUZnQVE4aWhmVTNidE5DREM3eW5GdnJibVB2Uk9BVUNtX2htUUxMeUg3dGlKOVNRcng0bXZyVGoxLTF4c2hMOEhKMmVUQzcweGl2cmczWWJ2MEZyNjlVVktmR0w5UURvYWxKRUxwRFE"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "Nature 新工具 Paper2Agent：將醫學論文轉化為可互動的 AI 代理人",
+      "summary": "Nature 發表 Paper2Agent 研究，這套系統能將研究論文（包含論文本文、程式碼與資料集）自動轉換為基於模型情境協議（Model Context Protocol, MCP）的 AI 代理人，使其不僅能重現原始研究結果，更能回答新的科學查詢、並與其他 AI 代理人協作產生新見解。此工具在醫學研究領域具有高度潛力，臨床研究人員未來或可直接與論文「對話」，快速獲取特定情境下的數據分析。對醫院研究部門與實證醫學團隊而言，此技術有望大幅壓縮文獻查詢與應用的時間成本。然而，AI 代理人在解讀醫學論文時的準確性與可靠性仍需嚴格驗證，相關倫理與著作權議題亦值得持續關注。",
+      "tags": [
+        "AI代理人",
+        "醫學研究",
+        "自然語言處理",
+        "實證醫學"
+      ],
+      "author": "未標示（Nature｜2026-09-16）",
+      "source_url": "https://www.nature.com/articles/s41586-026-11044-y"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "亞洲放射科擁抱 AI 提速，但診斷決策仍持謹慎態度",
+      "summary": "Healthcare Asia Magazine 最新報導指出，亞洲各地醫院放射科已廣泛導入 AI 工具以加速影像處理流程，包括自動排序、報告草擬及異常偵測，有效縮短報告出具時間並緩解放射師工作量壓力。然而，當涉及最終診斷決策時，臨床放射師普遍仍保持謹慎，不願完全依賴 AI 結論，部分原因在於 AI 模型的可解釋性不足，以及對訓練資料代表性的疑慮。此報導反映亞洲醫療機構在 AI 應用上普遍呈現「輔助工具」定位，而非「決策主體」。對奇美等台灣醫院的放射科主任而言，此趨勢與本地實務高度吻合，如何建立清晰的 AI 輔助決策標準作業程序，將是下一步重要課題。",
+      "tags": [
+        "放射科AI",
+        "臨床決策",
+        "亞洲醫療",
+        "AI採用趨勢"
+      ],
+      "author": "未標示（Healthcare Asia Magazine｜2026-09-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS1ZZYlpKNVRTaTFVNmJEOHlKRkhDRUdjVjVIZkU0Szc4bkR0TkVMcVlLUkZEYzJySFZNUkFKcmpvLW1SMjVDS0ZHdUFXX05zTlBsaEFXbkFPWGdDRXRqLV95ekxjelQtRFRVbEt3eXFzdmdSWWNVM2ctYU5FenJvZm9OamtVa3ZvbmUwZVlmTEFjSC1SYWl0TDJkQU5ORzVMTFZaYQ"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "WHO 推動醫療 AI 從原則走向實踐落地",
+      "summary": "世界衛生組織（WHO）近期發布新行動框架，致力將醫療 AI 的倫理原則轉化為各國可實際操作的政策與部署指引。此框架涵蓋 AI 工具的臨床驗證標準、公平性要求、資料治理規範及醫療人員培訓建議，目標是協助中低收入國家也能安全有效地採用 AI 醫療技術，縮小全球數位健康落差。WHO 強調，AI 工具的部署必須配合強健的基礎建設與人員培訓，方能真正改善健康結果而非加劇不平等。此行動框架對台灣醫療機構具有參考價值，特別是在建立 AI 臨床導入評估標準與機構治理架構方面，可作為國際對標基準，並有助於未來爭取國際合作或技術輸出機會。",
+      "tags": [
+        "WHO政策",
+        "全球醫療AI",
+        "AI治理",
+        "數位健康"
+      ],
+      "author": "未標示（RamaOnHealthcare｜2026-09-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa0FjbU1vbGNfX2FIWUhhQkJIT1l2UHNSSFJrdWRSbEpVbXY4WUp1SF9hYXAxTjh5WEV6YnFhWFp2MnBWdDFYdXVuMDdIR2M1TVNQOFRjUW1uZDUtQ1dFRWNULXItWVdFLU9GNnJ2NVgyei1iX2dOOGR0QUFGdlM0eUFVNUwweFB1"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "台灣立委推動醫療資訊治理與 AI 沙盒法制化",
+      "summary": "台灣立法委員王正旭攜手中華民國醫師公會全國聯合會，共同推動醫療資訊治理法制化及 AI 沙盒機制入法。此舉旨在為醫療機構導入 AI 技術提供明確法律框架，允許醫院在受監管環境下試驗創新 AI 應用，同時確保病患資料隱私與安全受到妥善保護。AI 沙盒機制若能落實，將有助於縮短台灣醫療 AI 從研發到臨床應用的周期，並降低法規不確定性對醫院投資的抑制效果。此政策動向對各醫療機構的法務與資訊部門具有直接影響，後續立法進程及衛福部配套措施值得持續追蹤，以便提前規劃合規架構與數位轉型路徑。",
+      "tags": [
+        "台灣政策",
+        "AI沙盒",
+        "醫療法規",
+        "資訊治理"
+      ],
+      "author": "未標示（蕃新聞｜2026-09-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VTV9wYzZJRjNsN1lVb1V0MHljMHNHM0RUdXJqSnlEbURscWx6Yy1ENlhvTXN2Q1FCMG5BUGVYQUZQd2RRMlNOa2hNcWE0RkxKc3c"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "北榮新竹分院導入 AI 醫療升級肺癌篩檢能力",
+      "summary": "台北榮民總醫院新竹分院宣布正式導入 AI 醫療系統，聚焦於肺癌早期篩檢的強化。透過 AI 輔助分析胸部低劑量電腦斷層（LDCT）影像，系統可自動偵測並標記肺結節，協助放射科醫師提升細小病灶的偵測率，減少漏診風險。此導入案例代表台灣北部醫學中心體系分院積極跟進智慧醫療趨勢，將 AI 放射科工具延伸至區域醫療院所，有助於縮小各地醫療品質落差。肺癌為台灣十大癌症死因之首，早期篩檢的準確率提升具有重大公衛意義。此案例亦可作為其他地區醫院評估 AI 肺癌篩檢工具導入效益的實際參考依據。",
+      "tags": [
+        "台灣醫療AI",
+        "肺癌篩檢",
+        "放射科AI",
+        "智慧醫院"
+      ],
+      "author": "未標示（中華新聞雲／中華日報｜2026-09-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FNmZETVVVdy0zaWlzZWdmaDZXUWtyTl91dE1uTjFkdS03NkZFalZfWnY1VEhiVFVLQ1JlM0pnZldYWl9XNTNiQnk2SnR0b3NYNHc"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "OpenEvidence 與 Penn Medicine 合作，將 AI 臨床決策支援延伸至波札那",
+      "summary": "OpenEvidence 與賓夕法尼亞大學醫學院（Penn Medicine）宣布合作，將 AI 驅動的臨床決策支援平台擴展至波札那，為當地醫療人員提供即時、實證為基礎的診療建議。此合作模式展示 AI 臨床決策工具突破地理與資源限制的潛力，使中低收入國家的醫師也能獲得類似頂尖醫學中心的知識支援。該平台整合大型醫學知識庫，可協助醫師在資源有限的環境下進行鑑別診斷、用藥建議及治療方案選擇。此案例對全球健康公平性具有重要意涵，同時也說明 AI 臨床決策工具的商業模式正從高收入市場向全球衛生領域延伸，未來或可作為台灣醫療 AI 國際合作的參考典範。",
+      "tags": [
+        "臨床決策支援",
+        "全球健康",
+        "醫療AI平台",
+        "國際合作"
+      ],
+      "author": "未標示（BioBuzz｜2026-09-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLXBOWUh2MUw5d3VaSkI0YjVwOWRPOXJIWU43S1VnWlVDUEh3cnJMN0pTYlRodFpFNEd0VjRGamNILVBjYThzamc3Z1Z3MW0tNTdwM1dfRXhrS1VWMmZ2SFBUYVRldXBaQ3dJUUdPcnEtZjZNdFBocEZ1ZjJ4UW1LeEVGRDBNNlhqekM3M1Q3dmFUYXdKVlNUdDFxaVBnUnVxb2dIQ09GT0xoNXdhRmowaVkyX0E"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "醫療 AI 研究面臨更嚴格的病患安全與錯誤審視",
+      "summary": "Telehealth.org 報導指出，隨著醫療 AI 在臨床場域部署規模持續擴大，學界與監管機構對於 AI 系統在病患安全及臨床錯誤方面的研究審查力度顯著加強。越來越多研究開始系統性記錄 AI 工具在真實臨床環境中的失誤模式，包含誤診、遺漏警報及演算法偏差等問題，並呼籲建立更嚴格的上市後監控機制。此趨勢反映醫療 AI 從「概念驗證」走向「規模部署」的過程中，安全性問題日益受到重視。對醫院管理層而言，建立完善的 AI 系統上線後監測流程、建立不良事件回報機制，以及定期稽核 AI 輔助決策品質，將成為不可迴避的治理責任。",
+      "tags": [
+        "病患安全",
+        "AI監管",
+        "醫療錯誤",
+        "上市後監控"
+      ],
+      "author": "未標示（Telehealth.org｜2026-09-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQnUyTUl0WEpaMXJ2YVBtSkg4ZGNTVFB1N3ZOUmlUN3NQM1VEOV9SVUFvZWcxUkdSSXBDRUJQTWJ0Q2xGeGVrT1ZOYUNqVkVLdHVHU0o3cnItSlVCRzZZQWtraWZxTUlpeEp1bTNlOTBWNVVoRXVxdHdwcW9IcWxDZlZVTHdNeUExVTFzOE1kbnhTbWpnUFBIdnkwWUxiclpOcEVVRg"
+    },
+    {
+      "rank": 10,
+      "score": 6.5,
+      "title": "X 光影像與三維體積對位的快速個人化神經網路 xvr 問世",
+      "summary": "Nature 發表 xvr 研究成果，這是一套快速患者特異性神經網路，專為 2D X 光影像與 3D 體積影像（如 CT）之間的剛性配準（2D/3D rigid registration）設計，可支援全身解剖部位的影像對位需求。xvr 的核心突破在於每位患者皆可快速生成個人化模型，大幅提升配準精度與速度，為放射治療計畫、術中導航及影像引導介入等臨床應用提供更可靠的技術基礎。研究團隊表示，此工具旨在讓 2D/3D 配準技術普及化，降低各醫院臨床與研究場域的使用門檻。對設有放射治療或介入放射科的醫院而言，此技術有望改善治療精準度並簡化工作流程，具有潛在的臨床導入價值。",
+      "tags": [
+        "醫療影像AI",
+        "放射治療",
+        "影像配準",
+        "技術突破"
+      ],
+      "author": "未標示（Nature｜2026-09-16）",
+      "source_url": "https://www.nature.com/articles/s41586-026-11045-x"
+    }
+  ]
+}
