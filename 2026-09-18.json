@@ -1,0 +1,131 @@
+{
+  "date": "2026年09月18日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "AI 多智能體系統發現肺癌候選新藥：「虛擬生技公司」模式問世",
+      "summary": "Nature 報導一項突破性研究：科學家建立一套由最多 37,000 個 AI 代理人組成的「虛擬生技公司」，設有扮演「首席科學家」角色的頂層模型統籌協調，透過多層次自動化分工完成藥物發現全流程，最終識別出一款具潛力的肺癌候選化合物。此研究展示大規模多智能體（multi-agent）協作在生醫研究中的可行性，突破了傳統單一模型或小型代理人系統的限制。研究團隊認為，此架構可大幅壓縮藥物發現所需時間與人力成本，並具備延伸至其他癌症與複雜疾病的潛力。對於有意布局 AI 輔助藥物研發或與學研單位合作的醫療體系而言，此模式提供了具體的技術參照，顯示 AI 代理人協作已從概念驗證邁向實際藥物研發應用階段。",
+      "tags": [
+        "多智能體AI",
+        "藥物研發",
+        "肺癌",
+        "生醫AI"
+      ],
+      "author": "未標示（Nature｜2026-09-17）",
+      "source_url": "https://www.nature.com/articles/d41586-026-02954-y"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI 問世幾歲了？Nature 介紹新型 LLM 平台助力生物年齡研究",
+      "summary": "Nature 報導一項新系統，專為協助科學家精煉大型語言模型（LLM）以應用於長壽與生物老化研究而設計，目標是更準確地估算個體「生物年齡」而非僅依賴曆法年齡。該系統提供標準化的評估框架，可比較不同 LLM 在老化相關生醫問題上的推理能力，有助於篩選最適合臨床或研究情境的模型。生物年齡評估涉及多組學數據整合與複雜推論，是目前 AI 在精準醫療中的重要應用場景。此平台的出現標誌著醫療 AI 基礎設施逐漸走向專科化，不再僅仰賴通用模型。對老年醫學、預防醫學及數位健康研究團隊具有直接參考價值，亦可做為評估院內 AI 工具適用性的方法論參考。",
+      "tags": [
+        "生物年齡",
+        "大型語言模型",
+        "精準醫療",
+        "老化研究"
+      ],
+      "author": "未標示（Nature｜2026-09-17）",
+      "source_url": "https://www.nature.com/articles/d41586-026-02913-7"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "FDA 維持放射 AI 須通過 510(k) 審查立場，強化上市管制框架",
+      "summary": "PYMNTS 報導，FDA 拒絕 Harrison.ai 提出豁免部分放射 AI 產品 510(k) 上市前審查的請求，重申所有具診斷決策影響力的放射 AI 工具均須完成正式審查流程。此決定意味著放射 AI 開發商短期內難以繞過監管程序快速推進商業化，同時也確立了 FDA 在 AI 醫療器材管理上的嚴格立場。對於正在評估或已引進放射 AI 的醫療機構而言，此舉強調採購時務必確認廠商已取得合規認證，避免法律與臨床風險。此案亦與前日 GNews 已收錄之 insights.citeline.com 報導重疊，本次以 PYMNTS 觀點補充市場與財務影響面向，屬不同角度之延伸報導。",
+      "tags": [
+        "FDA監管",
+        "放射AI",
+        "510(k)",
+        "醫療器材法規"
+      ],
+      "author": "未標示（PYMNTS.com｜2026-09-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaWE0ZHowMUlubUxFMEQ0bDhxdDBSYkIyM0pkdWtZT3NpYmQ1X250NU4xTXVUX2U0N2c4RTZ1V2RSbFdqbG4tTkZFNUxvZkV3ZXBMdXFMWXk0NFE1LWswa3Fha1EwYnNfbGRLVHoySW5WYXl2SkZqTFlCdjluUHlaemY1WFFOU3pTeWp1QktqdldBSWI5RElSYmtiR0h3T1VONzlrekNBaFNhbGR3cHdKLTZUSjdIMUU"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "醫療 AI 中的性別偏差警示：數十年男性主導研究恐影響模型公平性",
+      "summary": "The Conversation 刊文指出，過去數十年間醫學研究長期以男性作為主要受試族群，導致在疾病表現、藥物反應及生理數據上存在系統性性別偏差。當這些偏差數據被用於訓練醫療 AI 模型時，可能使女性患者的診斷準確率偏低、治療建議不適切。文章呼籲 AI 開發者與醫療機構在採購或部署 AI 工具時，主動要求廠商揭露訓練資料的性別組成比例，並要求提供分性別的模型效能數據。此議題對引進 AI 輔助診斷的各科別均具重要性，尤其心臟科、急診及腫瘤科在台灣已有多個 AI 工具上線，性別公平性應納入定期稽核指標，確保 AI 輔助決策不加劇既有醫療不平等。",
+      "tags": [
+        "AI偏差",
+        "性別公平",
+        "醫療AI倫理",
+        "資料品質"
+      ],
+      "author": "未標示（The Conversation｜2026-09-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVpRWHVYQ05GeDZCMWl0ZE9HQnNQY3k3eFpDS2NzN0lvOXB5bWRaTmFGMmktUGUteGpmM24zODV5RERkQ05RSU1YNVJucjlONHM5U2pmVkN3SGNTcVdkbUFDdDc5WllmLW1GM3dEUC1fRGd1UDR1UG5rWDVCSk04cFZBcUFBZTNteHQ2TzFIVHhhZ1NBcmxCNHFScjBXOEhFX3c"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "醫療 AI 超越環境抄錄員：從記錄走向全流程臨床輔助",
+      "summary": "MobiHealthNews 報導，醫療 AI 的應用重心正快速從環境語音抄錄（ambient scribing）擴展至更廣泛的臨床工作流程輔助，包括術後摘要自動生成、即時臨床決策提示、出院準備評估及藥物交互作用警示等功能。多家大型醫院系統已開始部署第二代 AI 助理，整合電子病歷讀寫、預約排程與病患溝通功能，形成「臨床 AI 平台」雛形。報導指出，此趨勢推動力來自醫師行政負擔過重與護理人力短缺，而非純粹技術驅動。對於已引進環境抄錄 AI 的醫療機構而言，下一步評估方向將是如何整合多功能平台，同時確保資安合規與臨床責任歸屬的清晰界定。",
+      "tags": [
+        "環境抄錄AI",
+        "臨床工作流程",
+        "電子病歷",
+        "醫療AI平台"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-09-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVNpOWxpcThlVDlmY1Y3WEFGN2pzd21xMDdHb3Bfa0UxUWx2NV8xaktGUXkyQTRmYlN0bUl0VW4xamZ1MUx0Z0hzRGdMUGItSm1YQlBnUGJPWUFpQTVvdmQ4cHRmVUlJbHU0dDJnbGVhU2Q1LTV3QURfYkE3ZXJpdE1vWFdPWms"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "費城兒童醫院以 AI 心臟模型輔助兒科手術規劃",
+      "summary": "6abc Philadelphia 報導，費城兒童醫院（Children's Hospital of Philadelphia）引進 AI 驅動的個人化心臟三維模型，用於先天性心臟病等複雜兒科手術的術前規劃。外科團隊可依據每位患者的影像數據生成精確的心臟數位模型，協助術前模擬路徑、評估手術風險並與家屬溝通病情。此技術結合醫學影像 AI 與 3D 建模，為術者提供傳統二維影像難以呈現的空間解剖資訊，有助於縮短手術時間並提升安全性。此案例展示 AI 在高複雜度、高風險兒科手術中的具體臨床價值，對心臟外科、小兒外科及影像部門均具參考意義，亦說明 AI 輔助工具正從診斷端延伸至手術規劃端的轉型趨勢。",
+      "tags": [
+        "兒科手術",
+        "心臟AI",
+        "醫學影像",
+        "手術規劃"
+      ],
+      "author": "未標示（6abc Philadelphia｜2026-09-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcVFNaDFINU5PTlhURGIyVkZWV01pNXpyT2RUY1NfQVlSUG9PTXNabVJpZklvS05qOG1ZLUUzN01ra2wtVHFWZmtjTl9aaF94YmYtZDhzMzAtM0czdTlKVkhpSUVoaU1kNlNPTVFyOE5SMUlfd3FvejZhN19lVUNCcTdHOWtlOGxGYU5TSlZuT3AxQUJhNFdMOHNoOEJNdzhJNldReGN1cndsMExJOC00YUV2Sk9ZR3F0ODc3ekJ5b1LSAcYBQVVfeXFMTkFaZ0V3UUVEV21YcXptaXJNazEyc2ZjczBCTldHeHROV0NOdU5uMjJ6aGhubmpYLVFnSlB6N29UeHdLc1ZER05VZlJqRE40eTJjNzVhVDNSY0hKVVdROEF1MXc3ZmZ6MDVyU01NUHB5ZU9BNjZzZ1hZUDRuREpDQjI0OE5jUi1aeG12SkotWUdmSUItazRtaktiZ2tqa1R6U1RQOWhSRDJweDBQalk1aThqNV9fTG9FRG0zRVNFNkdiblJmQy1B"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "Qure.ai 臨床決策支援系統 Aira 獲歐盟 Class IIb CE 認證，屬全球首批",
+      "summary": "Qure.ai 旗下臨床決策支援系統 Aira 獲得歐盟 Class IIb CE 認證，成為全球最早取得此高風險等級醫療 AI 認證的系統之一。Class IIb 屬歐盟醫療器材法規（MDR）中風險較高的類別，適用於能影響臨床決策的主動診斷工具，審查標準嚴格。此認證代表 Aira 在臨床有效性、安全性及可追溯性方面均通過歐盟主管機關的嚴格驗證，為其進入歐洲市場掃除主要法規障礙。對於亞洲醫療機構評估採購 AI 臨床決策工具時，歐盟 CE 認證等級可作為重要的第三方安全性參考指標，有助於縮短內部評估所需時間並降低風險。此案例亦反映全球醫療 AI 監管趨勢正朝向更嚴格的風險分級管理方向演進。",
+      "tags": [
+        "CE認證",
+        "臨床決策支援",
+        "醫療AI法規",
+        "Qure.ai"
+      ],
+      "author": "未標示（News-Press NOW｜2026-09-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNkFMRWhFQXBSU3oyeEc5OTJTUTY4VXJEdEh1dmIwSmRqRnNXMzB4SUJhN0tmcnVwQzhMYTVHc3E0b2J5enNXWGZjcXpCSG55UlhuSHdzUTl3cC0teU9fWFl0LUgzVFctMUxUc19FX3o0YmxSOHFpTXRPM0VwblR0enMwV1U0d1RKeGc1b2JqMlZ3Mmoxa0pvRmxZenUyTHdLcVpUM3RhX2FtcmZFZ1d3YWlibmNPck5pcmRFbC1SMnM1cDJYNjlGSWFWbW1LbDIxUVpYYXdXbkFYaVlEa1FBMXpXaW5Ka1BiZnV4Q2FkMlBpa2Q0c3c5OVBKNXYyRTFONTVta0g2VQ"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "醫療 AI 耗能警示：通用系統能耗恐為專用系統的 4,600 倍",
+      "summary": "EIN News 引述 Plainvue 白皮書研究指出，部分通用醫療 AI 系統在執行相同任務時，能源消耗可高達專為特定任務設計之目的化系統的 4,600 倍。此能耗差距源於大型通用模型需要更多計算資源進行推論，而目的化系統可透過模型蒸餾、硬體加速或邊緣運算等方式大幅降低功耗。報告認為，隨著醫療 AI 應用規模持續擴大，能耗與碳排放問題將成為醫院 IT 部門不可忽視的選型考量因素，並影響長期運營成本。對於正在評估 AI 基礎建設的醫療機構，此數據提示在採購決策時除準確性與功能外，應同步納入能耗效率與 TCO（總擁有成本）作為評估維度。",
+      "tags": [
+        "AI能耗",
+        "醫療AI基礎建設",
+        "永續醫療",
+        "IT採購"
+      ],
+      "author": "未標示（EIN News｜2026-09-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMmNUQ3NrN3UzOFAxcTh6b1dIZ1ZUaEtsWjh2V0RMSmJEMkhtTHNOUkt0SHp5SEJwOGJxb0YzUGxEbkphWWQ2T2MzZmxtdmEtUnFSLUEtYWRpaks1aW5NT0RiX3BRTjBOM0MtYTFsY2dvT3libnd6MXdiR3pMM1pJekpWMlpWMFBuUHpIb0RaS3QyZnRDUGtwR0NJemZWWXhXY3dfdFNGS1RiUGFSS1poeEJtYjZwSlVvWUFVUUlPakFTSWNJM2QzT1RtcmRXYXFvTXN1Q0JIZGk5cW42ZkQzWU11X1AzbU8z"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "Allina Health 醫師罷工：對 AI 取代醫療決策主導權表示憂慮",
+      "summary": "Star Tribune 報導，美國 Allina Health 系統醫師發起罷工，其中一項核心訴求是對醫院引進 AI 工具後醫師對臨床決策自主權喪失的憂慮。罷工醫師表示，管理層推動以 AI 輔助決策系統取代醫師判斷，並以 AI 建議結果作為績效評估依據，引發臨床人員對專業自主性與病患安全的強烈反彈。此事件凸顯醫療 AI 部署中的組織治理難題：技術能力的提升若缺乏適當的臨床參與機制，可能引發醫師抵制並損及院方與醫護間的信任關係。對於醫療機構 AI 推動策略而言，此案例提示建立臨床共同治理框架的重要性，確保 AI 工具定位為輔助而非取代醫師判斷。",
+      "tags": [
+        "醫師自主權",
+        "AI治理",
+        "醫療勞資關係",
+        "臨床AI倫理"
+      ],
+      "author": "未標示（Star Tribune｜2026-09-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc1JjRkNNdUxwYXF5cXp3amhJS2F6UkxiMGJzcWgzMk5zUVpSSE5XeUhVMHFtZFlWNDZjajA5OVZGYjczMEw1ODZPZUk4ZlN2T2psdjIxNC10bHNxVUpPM24xN0hEM0t3NVA2UktRSTgwdmtGNVB2Zk5vOXlGVHIzQVJ5TVEzSUNZNUVxcWhseVFRbzE3dUsxVjQ5TlhRX0NRak1fcWtDZTlYRzc3N1JOa2ptQW5YWUxGNENoSnZfT2VBZGc"
+    }
+  ]
+}
