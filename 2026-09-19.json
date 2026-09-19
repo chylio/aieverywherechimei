@@ -1,0 +1,131 @@
+{
+  "date": "2026年09月19日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "Alibaba 開源可偵測癌症及近150種疾病的醫療 AI 模型",
+      "summary": "阿里巴巴（Alibaba）宣布開源一款醫療 AI 模型，該模型能夠偵測癌症及近150種疾病，涵蓋範圍廣泛。此舉對全球醫療 AI 生態系統影響深遠：開源策略意味著醫療機構、研究單位與新創公司均可自由取用、調整與部署該模型，大幅降低技術門檻。就臨床意義而言，支援如此多元疾病類型的單一 AI 基礎模型，有助於推動多病症整合篩檢與輔助診斷。就產業競爭態勢而言，此舉與 Google、Microsoft 等西方科技巨頭在醫療 AI 基礎模型領域的佈局形成直接競爭，並可能加速亞洲市場採用速度。對於正在評估醫療 AI 基礎建設選型的醫療體系而言，此模型的開源性質提供了一個值得納入評估的新選項，但仍需審慎評估其訓練資料來源、法規合規性與臨床驗證狀況。",
+      "tags": [
+        "開源AI模型",
+        "癌症偵測",
+        "阿里巴巴",
+        "多疾病診斷"
+      ],
+      "author": "未標示（South China Morning Post｜2026-09-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONnFwRTMwNjhXMXJDNjRRckxPZE1mNFNrUzI2ZkdkcWk5WTlfLU9CWmpROGg0eDlvTkdaZGFYTWFOSzYzSDdXNGpXRExQVVQ3RVZMVGtuZlgxUVFBdUFpYjJZd2NwTl90Sy1BRkZFNkxMSkRmcVNJWHU0a1pQLXB0dWVBRFFrVXZONkFJX0RFSGZpdk5YTm5XQnNJbFhraHE0ZHVfZXo0X1JkQW1OYWt3dEVXY3dzUmpoUTZXQVR1S1dlMUpSRHJFZG1jX0jSAcwBQVVfeXFMTUhSMTJoTmplU2xXM3ZKeGFCMFJTRXVxbUFraUdqZkh0aWJhVlFTVnc0bmxhR3l0SklzeGhHbUZJWk81T3dNN0d0c1JLMDVKWnZ5U1lCeGxhNzhRTG9nWjA5MTlUSS1laFhsaVpvVmV0eEpRQ2xpZE9wZTFMcG81V2tpdy1GelExQXVaNm9rY3lTQ3lHOEtUMlVfWWdtU3JpMndLOHkweU9EYUhoMmF1NUxRNWIwenpjY1VOTlNQQ0RYUE5faEhnMEt6dzJS?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "自主心血管監測 AI 平台問世：持續監測與自律臨床決策支援",
+      "summary": "EurekAlert! 報導一款針對心血管疾病設計的主動式（Agentic）AI 平台，具備持續心血管監測與自律臨床決策支援功能。該平台可在無需人工逐步指令的情況下，主動分析患者生理數據、識別風險訊號並提供處置建議，代表 AI 在心臟照護領域從被動工具轉型為主動協作角色的重要里程碑。對心臟內科、加護病房及遠距醫療而言，此類平台若能整合至現有監測設備，有望顯著提升早期預警能力與院內急救反應效率。此外，「自律決策」特性也引發關於 AI 醫療責任歸屬與臨床監管框架的討論，適合醫院資訊部與臨床科主任共同評估導入的時機與條件。",
+      "tags": [
+        "主動式AI",
+        "心血管監測",
+        "臨床決策支援",
+        "自律AI"
+      ],
+      "author": "未標示（EurekAlert!｜2026-09-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPZWozTHB0bjFlM1RtVG9GajdXdlF6WVljSmxSQkVDUHhfVjhDbHgzakxWTzBPN3pjNTgyaFNHYnN3RGFhOHZ1Smc5UjQtSW5OZXc5aUp4MlhOS3E3?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "醫療 AI 的「驗證困境」：效果難以量化成為推廣最大阻力",
+      "summary": "《金融時報》（Financial Times）深度分析指出，醫療 AI 當前面臨的核心障礙並非技術能力不足，而是缺乏嚴謹、可信的臨床實證。多數醫療 AI 產品仰賴內部測試或有限的回顧性研究，難以說服臨床醫師、醫院採購委員會與監管機關。文章進一步指出，AI 廠商通常以準確率、AUC 等技術指標行銷，但這些數據未必能反映真實臨床環境的表現與病患預後改善。此「驗證困境」同時影響醫療機構的採購決策與保險給付政策的制定。對於正在評估或已導入醫療 AI 的醫院而言，建立系統性的院內驗證流程與真實世界績效追蹤機制，已成為確保 AI 投資效益的關鍵課題。",
+      "tags": [
+        "醫療AI驗證",
+        "臨床實證",
+        "AI採購",
+        "監管挑戰"
+      ],
+      "author": "未標示（Financial Times｜2026-09-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHh1OXRja21yY1BGU0pacGhEQTEtOV9yOWFJbGpkbHpzZlhrNlN3MTNBeVR3SG5EdEktVzVJVEw3WUx6WDF4SGJjZTJxV21XRzF1RUVjUE9ERUQ0QjRmOWhTdXZLMFRLSGFCeDVGTVFOQ3dYdkNFRW4zWGlyekRQSEdrd2M?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.2,
+      "title": "台灣醫院自建主動式 AI 系統：從採購走向自主研發新模式",
+      "summary": "MobiHealthNews 報導，台灣一家醫院自行研發主動式 AI（Agentic AI）系統，不依賴外部商業產品，走出一條醫院自主開發的技術路徑。此舉在亞洲醫療 AI 領域具有標竿意義：自建模式可讓醫院依據本地病患族群、電子病歷格式與臨床流程進行深度客製化，同時掌握資料主權與模型更新主導權。相較於採購現成商業 AI，自建路徑雖需投入更多資源，卻能避免廠商鎖定（vendor lock-in）與資料外流風險。這對台灣醫療體系尤具參考價值，反映出部分領導型醫院正從 AI 應用者轉型為 AI 共同開發者的趨勢，也對醫院資訊部門的人才培育與技術能量提出新要求。",
+      "tags": [
+        "台灣醫院",
+        "主動式AI",
+        "自主研發",
+        "資料主權"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-09-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmdoSzNwUWlhN3RQelFsUHZPWXdQVG80R00tVXBWUEJyQUtzemtrRDV4bGlvVHBKU1p2ZjBDOWpuT09UY3M2SFhvOHFOcDVGMHVxUG5qdWFmcmJaWWUwcFlYT3R2eUVfXzRJY3R6dDdfSHpTYnM0S1g1Slp4RkIybFhzdzdSOW1ON1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 8.0,
+      "title": "醫療 AI 的真正瓶頸不在智慧，而在整合",
+      "summary": "CIO.com 一篇深度分析文章指出，目前阻礙醫療 AI 廣泛落地的最大挑戰並非演算法能力，而是系統整合問題。多數醫院的電子病歷（EHR）、影像系統、實驗室資訊系統各自為政，AI 工具難以在異質環境中順暢運作與取得完整資料。文章強調，AI 廠商往往在理想化的資料環境中測試產品，但真實醫院的資料品質、格式標準與存取權限落差，使得整合成本遠超預期。對醫院 IT 部門而言，這意味著導入 AI 前必須先投資於資料治理與互通性基礎建設，否則再優秀的 AI 工具也難以發揮效益。此觀點對正在規劃醫療 AI 整體架構的數位轉型團隊具有重要參考價值。",
+      "tags": [
+        "醫療AI整合",
+        "電子病歷",
+        "資料治理",
+        "數位轉型"
+      ],
+      "author": "未標示（CIO.com｜2026-09-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWpocUVocFM1NXlqNzlzM29GU0pRdTNfbVY0ZHVpWW8ydnh0MW5EVlB2TkxwaDYwTXdhaG1kLTYwM3RXWGNIUVpXUTdxTGVQeXhpc0V6aU9GQmk2V19YSDJ5SS0zWGlkSENPbTJlS3JQT0tIc0dCcVkzUzVlaUtuWktNR3ctVjNTaDd4SjM0c1N1TURXcjBZdkR1em84NFR5U0thc2ZYcGk?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.8,
+      "title": "放射 AI 監管風險已然到來：法律分析揭示當前合規挑戰",
+      "summary": "Reed Smith 律師事務所發表分析文章，深入探討放射科 AI 當前面臨的監管風險。文章指出，隨著 FDA 對 AI 醫療器材審查標準持續收緊，醫療機構若使用未妥善取得上市許可的放射 AI 工具，可能面臨合規風險與法律責任。此外，AI 演算法持續學習（Continuous Learning）的特性，使得初次核准後的後市場監管成為灰色地帶。文章亦提及醫療機構在採購合約中應明確釐清 AI 工具的監管狀態與廠商責任歸屬。對於已導入或規劃採用 AI 放射診斷工具的醫院，法務與資訊部門應共同建立 AI 醫材合規審查流程，以降低潛在法律暴露風險。",
+      "tags": [
+        "放射AI",
+        "法規合規",
+        "FDA監管",
+        "醫療器材"
+      ],
+      "author": "未標示（Reed Smith LLP｜2026-09-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYW9oM3VwODQ1ZkljNFFyZEV5b2F6cXE3WGhob2p6MU9Wb3gtYXF4aWM4Y01GeW5ocVpVWVlsT1NBcXN6U2owb25VbzJmZHhDbmd0c3oyeTh6OE1BX3lPSExkQmpvN1VhRWJJVVNSdzBLaGFvRWFuMEdwNGdDMGRBNFd0YTU2N2hEVllpMkZJZS1jMjZwQlRJM28xT1Z1NWx2aXFuTGphSGgwTHVKN3RNakVtMWNHcnlVUXlMR0pGdi13M2ROMGpVUi0xM2UtbTJrUkxR?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.5,
+      "title": "醫療 AI 的決策情報使命：預測分析如何轉化為即時臨床與營運行動",
+      "summary": "HIT Consultant 發表深度報導，探討醫療 AI 從預測分析（Predictive Analytics）到「決策情報」（Decision Intelligence）的演進趨勢。文章指出，現有許多醫療 AI 系統能產出預測結果，但因缺乏與臨床工作流程的深度整合，預測洞察往往未能轉化為即時的臨床或營運行動。真正有價值的醫療 AI 應能在正確時機、以正確形式，將可行動的建議遞送給正確的決策者。報導中並舉例說明決策情報如何應用於病床管理、出院規劃及急診壅塞預測等場景。此框架對醫院資訊部門與臨床科主任評估 AI 投資效益、設計 AI 落地架構具有直接參考意義。",
+      "tags": [
+        "決策情報",
+        "預測分析",
+        "臨床工作流程",
+        "醫院營運"
+      ],
+      "author": "未標示（HIT Consultant｜2026-09-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUDZHQ09mMWJTWlBNdGFXZGxPWVB0UHZMdWhiRDBYNmEyZV8zOFkwVllBQXBZUUVmM3hoUzctSS1UY1R0TWFOSU9SZWQtRlA0Znl5R2dnQUxfUGNQc0c1dVJTS0FkVkNpQlppTjVNTVFJNk51emU1ZV9RZFlIb1VzTjlYbGozNG45eUtFZ1RoLV9wbDRnX3BUb0FuWTJ1N213THEwQ2ZSWEp5TVJYbUlQeTNCUTh1OC1YMm53YWgyTzRWZFE?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.2,
+      "title": "老人醫學專家示警：AI 應用於高齡照護需更謹慎的臨床檢視",
+      "summary": "UCSF 老人醫學科醫師 James Deardorff 接受 STAT News 專訪，深入探討將 AI 用於高齡病患照護決策的潛在效益與風險。他指出，高齡族群的生理複雜性、多重共病、認知功能差異及社會支持背景，使得訓練於一般成人資料的 AI 模型在應用於老人照護時，可能面臨嚴重的外推性（generalizability）問題。此外，AI 輔助的照護決策若未充分考量病患個別偏好與生命品質目標，可能導致過度醫療或不適切的積極治療。Deardorff 呼籲醫療機構在導入 AI 照護工具前，應針對高齡族群進行專項驗證，並建立跨專科的倫理審查機制，以確保 AI 輔助決策符合以病患為中心的照護原則。",
+      "tags": [
+        "高齡照護",
+        "AI倫理",
+        "臨床驗證",
+        "老人醫學"
+      ],
+      "author": "未標示（STAT News｜2026-09-18）",
+      "source_url": "https://www.statnews.com/2026/09/18/geriatrician-explains-why-ai-for-older-adults-deserves-careful-scrutiny/?utm_campaign=rss"
+    },
+    {
+      "rank": 9,
+      "score": 7.0,
+      "title": "Physical AI 鎖定醫院物流痛點：機器人智慧化解碎片化後勤挑戰",
+      "summary": "Healthcare IT News 報導，「Physical AI」（實體 AI，即結合人工智慧的機器人與自動化系統）正被積極應用於解決醫院內部物流的碎片化問題。當前許多醫院的藥品配送、醫材補給、廢棄物處理及檢體運送等後勤作業，仍高度依賴人力且流程分散，造成效率低落與錯誤風險。Physical AI 系統透過自律導航機器人結合智慧排程演算法，能夠整合這些分散流程，實現全天候、高精確度的院內物流自動化。報導指出，部分美國醫院已啟動試點，並在藥品配送時效與人力成本控制上取得初步成效。隨著醫院人力成本持續攀升，此類技術對醫院營運管理層具有直接的投資效益評估參考價值。",
+      "tags": [
+        "Physical AI",
+        "醫院物流",
+        "自動化機器人",
+        "醫院營運"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-09-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZFAzVGRiM3NrZmJHb3VDS3VVN0xDdTZnM21NQjJqeHpSTWcxdkdNQkFFWWFEM2Uybk95MjVmLS1iRDlQRG0zdTFFaDh5VWtpZk9oblJpUDJjSWQ3dlhmZ0RtanBxeFlldkI2YzlxQmF4T2txWWRkZGIwSm93Qlk0bXkyMTR1Znh1U19Kd1ZZY0M2MjR6?oc=5"
+    }
+  ]
+}
