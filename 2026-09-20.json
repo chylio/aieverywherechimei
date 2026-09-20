@@ -1,0 +1,75 @@
+{
+  "date": "2026年09月20日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "醫療AI應用面臨關鍵盲點：大型語言模型難以獨撐數據語義基礎",
+      "summary": "台灣商傳媒報導指出，醫療AI應用正面臨一項被低估的核心挑戰：大型語言模型（LLM）雖具備強大的自然語言處理能力，但在醫療場景中往往無法獨力支撐複雜的數據語義基礎。醫療數據涉及多模態資料（如影像、檢驗數值、電子病歷），各系統間的語義定義不一致，LLM難以在缺乏標準化本體論或醫療知識圖譜的情況下正確詮釋這些資料。這一盲點可能導致AI輔助診斷或決策出現結構性偏差，影響臨床安全。報導強調，醫療機構在部署LLM相關應用時，須同步建構語義基礎設施，包括醫療術語標準化、資料治理框架及跨系統互通機制，方能真正發揮AI的臨床效益，避免「AI能說卻說錯」的潛在風險。",
+      "tags": [
+        "大型語言模型",
+        "數據治理",
+        "臨床AI",
+        "台灣醫療"
+      ],
+      "author": "未標示（商傳媒｜2026-09-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNZVh4anlQZHNxTW5jcVhSWVVmTTV5bi1xWmFldTg1ZDJ1c1hJRkVrWnlrLXhDSzRDOEVpSDVFUjdHcE9wRldDMnlxZkpiMUgwYWJjTWFuUkFna0FUdGo1QVNlbFZzUGhTVGZoSjIteVpQZ2tUQ3d4RkJ5cXpYRERlX0gxNnREOGlnYlliTjhSaVVpMXgybFhQMEZ4TWROWXpqYXhrdHZJTUJUR1plaWNOeXZZWVRsNmRrNWEwT0hfVEgtckN3QWZfZDRGVnNUYVpjT3pweHpsa3V3UHgydXZBbGI4bmE4THdYZXhRYWJfZ1BlMzN4bG9QNjZ1d2RrbDJoeGNEeGd0T3hvSTJBQzRWdjJiV0h4Zi1zNkg2Mktzako4dGlnVTc1SXVodGF5RldhYzdRdG5adjZVTmU5ejdCS1NWT3JCTElGd01WQnFsZkU4LWs1azV6aVp4eHdzSWp6LXRyWFdkV240UTNxUloxcmE1czV3eTRKejk4Z3pYc2h1RVloc3lCS3N0MmE0XzN0M3pwRERkZUVFY0tD?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "醫療AI愈來愈快，病歷與影像的儲存與管理何去何從？",
+      "summary": "隨著醫療AI應用快速擴張，病歷與醫學影像的儲存架構問題日益迫切。本文探討在AI模型訓練與即時推論需求大幅提升的背景下，醫療機構面臨的資料儲存挑戰：一方面需保障病患隱私與合規，另一方面須確保資料可高效存取以支援AI運算。文章分析雲端、地端與混合架構各自的優劣，並指出影像資料（如CT、MRI、X光）因體積龐大且格式複雜，成為儲存規劃的核心難題。此外，電子病歷與影像的長期保存年限、跨院存取授權，以及AI模型再訓練所需的資料版本控管，均是當前醫療資訊部門亟需面對的治理議題。文章強調，儲存策略應與AI發展路線圖同步規劃，避免技術債累積。",
+      "tags": [
+        "醫療資料管理",
+        "醫學影像",
+        "資訊基礎建設",
+        "台灣醫療"
+      ],
+      "author": "未標示（蕃新聞｜2026-09-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rODdpdmd0TXQtUU93Q0FIQTlZanp5R3BPeTdKV2R6cFBvbTdXVFVXZ3BnRVVfcDVtZEpuUmxIVjVXcVpZR3F4cmRkMkNBUkZBb3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "AI如何重塑醫療健康產業版圖",
+      "summary": "蕃新聞報導深入分析AI技術對醫療健康產業的全面性衝擊與結構重塑。文章指出，AI正從單點應用（如影像辨識、藥物篩選）向系統性整合演進，涵蓋預防醫學、個人化治療、臨床決策支援及醫院營運優化等多個層面。在商業模式方面，AI帶動新型態服務提供者崛起，傳統醫療機構與科技業者的界線日趨模糊。文章亦點出當前挑戰，包括監管框架尚未跟上技術發展速度、醫療AI的責任歸屬不明，以及訓練資料的代表性與公平性問題。對於醫院領導層而言，如何在擁抱AI效益的同時，建立完善的風險管控機制，將是決定數位轉型成敗的關鍵因素。",
+      "tags": [
+        "數位轉型",
+        "醫療AI產業",
+        "臨床決策支援",
+        "台灣醫療"
+      ],
+      "author": "未標示（蕃新聞｜2026-09-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KNWg1VXl1TlUyLVRld1FELTA4NU5taXI3VFJPb244MFZ4RFdTY0VsdGpYcFlORlc2WlFjQ0lIdlNtZmNGTzNjeTQtd2htQlltT3c?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "高雄市立聯合醫院聯合學術研討會聚焦AI智慧醫療，打造品質、安全、永續新典範",
+      "summary": "2026年高雄市立聯合醫院醫事聯合學術研討會以「AI智慧醫療」為核心主題，匯集醫師、護理師、藥師、醫技等各醫事專業人員共同參與。研討會聚焦如何將AI工具應用於臨床品質提升、病人安全強化及醫院永續營運三大面向，並分享院內各科導入AI輔助系統的實際經驗與成效。與會者討論AI在臨床路徑優化、異常事件早期預警及跨科溝通協作方面的潛力，同時也正視AI落地過程中的挑戰，包括系統整合、人員培訓及倫理規範。此次研討會的規模與議題廣度，反映台灣公立醫院體系對AI智慧醫療的高度重視，並將其列為提升醫療品質與機構競爭力的重要策略方向。",
+      "tags": [
+        "智慧醫療",
+        "醫院管理",
+        "台灣醫療",
+        "臨床品質"
+      ],
+      "author": "未標示（蕃新聞｜2026-09-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VdHE4cFBMZ3htSDJ4MVp2Y2RRNFpEaWIyZ3BPbzBKY2pzZnNSMjVJSUFuRUhKb1R2SkJSeVozYnJUUlp3aXA5ZmxidnZWYXRhYlE?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "阿里達摩院通用醫療AI登《Science》：腹部CT辨146種病勝多數醫師（台灣媒體後續報導）",
+      "summary": "台灣財經媒體BigGo針對阿里巴巴達摩院醫療AI研究成果進行深度解析報導。該AI模型已刊登於《Science》期刊，能透過腹部CT影像辨識多達146種疾病，整體表現超越多數臨床醫師。此一進展被視為通用型醫療AI的重要里程碑，有別於過去僅針對單一疾病的專用模型，此系統具備跨疾病類別的廣泛辨識能力。報導分析此成果對台灣醫療AI發展的啟示，包括大型訓練資料集的重要性、模型泛化能力的突破方向，以及未來在實際臨床環境中部署通用型AI所面臨的監管與倫理挑戰。此則新聞與去重清單中2026-09-19「Alibaba開源可偵測癌症及近150種疾病的醫療AI模型」為同一事件之不同面向報導，但提供了本土媒體觀點與產業分析視角，具補充參考價值。",
+      "tags": [
+        "通用醫療AI",
+        "放射影像",
+        "阿里巴巴",
+        "科學期刊"
+      ],
+      "author": "未標示（BigGo財經｜2026-09-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzaE4tMElvb0k2VmhKYmxOV3lxeXMxblNVYlZGNzE1bkdFSjZEVVgzVlZpLUgtVFlVa21WcFB2dU01S0hKemhKZEU0Rjlfa2VOVVNVM2tUaElmRXdZWWFOT1pWOEdnczU3Z3N1c3VMc3lIcEc3UmNlaTVn?oc=5"
+    }
+  ]
+}
