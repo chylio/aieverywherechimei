@@ -1,0 +1,47 @@
+{
+  "date": "2026年09月21日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 7.5,
+      "title": "放射影像 AI 每週 FDA 動態彙整：9月13日至19日",
+      "summary": "diagnosticimaging.com 發布每週放射影像領域 FDA 法規動態彙整，涵蓋2026年9月13日至19日間與放射科 AI 相關的核准、清函及政策更新。此類定期彙整對放射科及醫療影像 AI 廠商具有高度參考價值，協助臨床與資訊決策團隊掌握最新監管進度。近期 FDA 在放射 AI 審查架構上持續完善，包括強化 510(k) 路徑要求及針對生成式 AI 輔助判讀系統的評估方法，各醫院在引進或更新影像 AI 系統時，須密切追蹤此類法規動態，確保所採購之工具符合最新上市許可標準，降低合規風險。",
+      "tags": [
+        "放射影像AI",
+        "FDA法規",
+        "510(k)",
+        "臨床AI監管"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-09-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLUtYbGJkVDA0Q0xXVGhQN3RZSjZzV0ZtQ0lVV2wyN1BPZy1keVk0RmtZMTJhejF5YlAtUGkyZjk1cTJwMFVkUno2NHRSMGhNUjlQdG9aZDJmeTUzaUpSdlJqNlF3QU5tX3RUMEdVX1BPYzlxUzF6X3ZUNjRpbmhVYUpUNUtIRlB1anpHRkQ2NzBjRzNTYUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 6.5,
+      "title": "GE HealthCare 推出 AI 醫院軟體：投資人如何解讀此一戰略佈局",
+      "summary": "GE HealthCare Technologies（GEHC）正式推出 AI 醫院管理軟體，引發投資界廣泛關注。simplywall.st 報導分析投資人對此次產品發布的市場反應，探討 GEHC 藉由整合 AI 於醫院工作流程所帶來的潛在商業價值。GE HealthCare 長期深耕醫療影像與監護設備領域，此次新型 AI 軟體產品擴展至更廣泛的醫院營運場景，顯示大型醫療科技廠商正加速將 AI 整合至醫院日常管理系統。此舉對醫院資訊部及數位轉型團隊具有參考意義，尤其在評估大型廠商解決方案與自建系統的取捨時，GE HealthCare 的市場動向值得追蹤。",
+      "tags": [
+        "GE HealthCare",
+        "AI醫院軟體",
+        "數位轉型",
+        "醫療科技"
+      ],
+      "author": "未標示（GNews-AI clinical｜2026-09-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeGtDT2xOcEt6RG90TTFyR2RhTFNhcW92UXN1SFM5aHlPZWJpN3VGUlpXaFNnUnZjZ1RhUlJNOGV5ZHM0dVFtT0haYUpzQ1R6REtWQWJBRGVJdTN0M1BhcDZBNlNHeUFrRzhHZFgxX1BueExfTHpBX1R6cXNLQXlfMGFvVExCamw5NU9wd3ptNVdYbklSU3FMRUo3eDMzZ0NBUnBJeTEwYjFmSXlLWkpqdXFsMS04T29lbTUtZWRlbDNoWXQ3ZHYwSlMzYmlQTmFvNHdsZ1BqU2ltUENQUkstb05GOGMtSGJX0gHoAUFVX3lxTE94a0NPbE5wS3pEb3RNMXJHZGFMU2Fxb3ZRc3VIUzloeU9lYmk3dUZSWldoU2dSdmNnVGFSUk04ZXlkczR1UW1PSFphSnNDVHpES1ZBYkFEZUl1M3QzUGFwNkE2U0d5QWtHOEdkWDFfUG54TF9MekFfVHpxc0tBeV8wYW9UTEJqbDk1T3B3em01V1huSVJTcUxFSjd4MzNnQ0FScEl5MTBiMWZJeUtaSmp1cWwxLThPb2VtNS1lZGVsM2hZdDdkdjBKUzNiaVBOYW80d2xnUGpTaW1QQ1BSSy1vTkY4Yy1IYlc?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 5.5,
+      "title": "Philips 高層暢談醫療 AI：從行銷話術到真實人道衝擊的轉型之路",
+      "summary": "Philips 設計與體驗部門副總裁 Peter Skillman 接受 Saudi Gazette 專訪，分享其對醫療 AI 從「炒作期」邁向「實質人道影響」的看法。Skillman 強調，醫療 AI 的真正價值不在於技術本身，而在於能否切實改善醫療人員工作負擔及病患照護結果。Philips 作為全球醫療科技巨頭，在影像診斷、患者監護及臨床資訊系統均有深度布局，其高層對 AI 落地挑戰的公開表態，反映出業界對過度期待的自我修正趨勢。此篇訪談對於評估醫療 AI 投資效益及導入策略具有一定參考意義。",
+      "tags": [
+        "Philips",
+        "醫療AI策略",
+        "臨床導入",
+        "產業趨勢"
+      ],
+      "author": "未標示（GNews-AI clinical｜2026-09-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ1ZBNEFlVmRjYnhLVDhwaV8yS3FzR2ZWRU40OGVIckVESzFsMzZfV2h6QWdYQkluZTZrb0JSbzQ5bkVrS09XRVJubUI5OGMxcTRmblV1YUw3Y2FoOEpOVExTcjFPdDZSSTRtRFBRSjI2LTNhaGxya1kxc0R2S3JNTmE3aVJzOENkNU53Z0ZvV2xSd2RzTzI3bVpZbXRfQ2gxaWZUcFhyME4yY20zUDhtU1hTeUtDUHlhNWxOZEQ1ZEh4T19WZmN4eU1GSQ?oc=5"
+    }
+  ]
+}
