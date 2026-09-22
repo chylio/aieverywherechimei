@@ -1,0 +1,117 @@
+{
+  "date": "2026年09月22日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "a2z Radiology AI 獲 FDA 許可並新增 10 項急性照護 CT 判讀功能",
+      "summary": "放射影像 AI 公司 a2z Radiology AI 宣布旗下腹部骨盆 CT 分診產品組合獲得 FDA 510(k) 許可，同步擴充急性照護套件，新增 10 項 FDA 已許可的影像發現偵測能力，涵蓋腹腔、泌尿系統及血管等多類急症。此次擴充使該平台在單一腹部骨盆 CT 掃描中可同步偵測更多臨床相關發現，有助於急診放射科醫師縮短判讀等候時間、提升分診效率。此一進展代表 AI 輔助放射診斷工具在法規合規層面持續成熟，對有意導入 AI 急診影像分析的醫療機構具有重要參考價值，亦顯示監管機構對放射 AI 多功能整合平台的接受度正在提升。",
+      "tags": [
+        "放射影像AI",
+        "FDA許可",
+        "急性照護",
+        "CT分診"
+      ],
+      "author": "未標示（Imaging Technology News｜2026-09-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXB5clZnSUFld2Q1b29QdS1famJRczVfbFZ5MDI4OGltX0RqUmVsWWRRMWFObWcwbEpVUjM4QUR1RVpiVXZvNWtHamNsSUxjc01CeTR4ZWhjWjJJMlJESXdHRW9SMWlPdDdNNDlyaDBSd3R6Vkw5Zjc2THd6a3RWM2hQTDVhSk54R1hLWEVjNzlWUWZnVGljRg?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI 臨床文件改善工具落地：Intermountain Health 住院病歷即時完成率提升 22 個百分點",
+      "summary": "美國 Intermountain Health 導入 AI 臨床文件改善（CDI）工具後，住院病歷在查房中或查房後立即完成的比例提升了 22 個百分點，顯示 AI 輔助文件工具對醫師工作流程具有顯著正向影響。該系統透過即時提示與結構化建議，協助醫師在臨床接觸當下完成病歷記錄，不僅減少事後補記的負擔，亦提升病歷準確性與完整性，有助於後續健保申報與品質指標追蹤。此案例以量化數據驗證 AI CDI 工具的實際效益，對正在評估或已導入類似系統的醫療機構具有直接參考意義，亦呼應業界對 AI 投資回報需以「完成工作量」而非「自動化任務數」來衡量的新思維。",
+      "tags": [
+        "臨床文件AI",
+        "工作流程優化",
+        "病歷管理",
+        "醫師負擔減輕"
+      ],
+      "author": "未標示（MedCity News｜2026-09-22）",
+      "source_url": "https://medcitynews.com/2026/09/how-ai-is-transforming-clinical-documentation-at-intermountain-health/"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "新加坡樟宜綜合醫院導入 AI 工具：CT 腦出血偵測縮短至數分鐘",
+      "summary": "新加坡樟宜綜合醫院（SGH）宣布部署 AI 腦出血偵測工具，能在數分鐘內從 CT 影像中自動識別顱內出血，大幅縮短傳統人工判讀所需時間。急診及神經科醫師可在取得掃描結果後迅速獲得 AI 初步提示，加速啟動搶救程序。此工具的臨床部署代表東南亞地區頂尖教學醫院在急性神經影像 AI 應用上的重要里程碑，其「分鐘級」偵測速度對改善腦中風及顱內出血患者的黃金治療時窗具有直接臨床意義。對台灣急診及放射部門而言，此案例提供了亞洲醫療環境下 AI 急診影像工具落地的重要參考。",
+      "tags": [
+        "腦出血偵測",
+        "急診AI",
+        "神經影像",
+        "CT分析"
+      ],
+      "author": "未標示（The Straits Times｜2026-09-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWnBpWGk0QmJVSmRTMGhRdkszdFA1YmwzSzJTMnRvTEtSWDctRkpucnJsT1RZT2FNMG5QYV9zeEJnWXlDbFR2Ml9lbkszekZVOGhMbHB3aHNBanFPT05hYlBWT3QwUXd3VjhBU253OEpmSVBBaVQ1dmZKTjdHU01ZN1B0aGhnS0VkSWdXWm9qckJkdkR2UlRrdmRDMm51TDkzRnYxSHpQdlB0VmdFbXpONmtsUzQ1eWNzcWZscw?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "AI 協同科學家正在革新研究流程：假設生成、實驗設計與資料分析全面滲透",
+      "summary": "《Nature》刊載分析文章指出，AI 協同科學家系統已能協助研究人員完成假設生成、實驗設計與數據分析等核心研究環節，在生醫、化學及材料科學等領域加速知識產出。文章強調，儘管 AI 在資料處理與模式識別上表現出色，但「什麼樣的假設真正有意義」仍需仰賴人類科學家的判斷與洞察力。這一趨勢對醫療 AI 研究具有深遠意涵：臨床研究人員未來或能借助 AI 工具更快速地從大型電子病歷資料庫中提取洞見、設計前瞻性試驗。文章同時提醒，AI 協作模式需建立清晰的人機責任邊界，以確保研究品質與倫理標準。",
+      "tags": [
+        "AI協同科學",
+        "生醫研究",
+        "大型語言模型",
+        "研究自動化"
+      ],
+      "author": "未標示（Nature｜2026-09-21）",
+      "source_url": "https://www.nature.com/articles/d41586-026-02931-5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "健保署擴大補助基層院所雲端轉型，為台灣 AI 醫療時代奠基",
+      "summary": "台灣健保署宣布擴大補助基層診所及醫療院所進行雲端基礎建設轉型，目標是為後續 AI 醫療應用部署建立必要的數位基礎。此政策涵蓋電子病歷雲端化、資料標準化及網路安全升級等面向，有助於縮短基層醫療與醫學中心在數位化程度上的落差。業界分析認為，此舉將加速 AI 臨床決策支援工具在基層醫療的普及，並為未來健保 AI 數據分析應用提供更完整的資料來源。對醫療體系而言，基層數位轉型的完成度將直接影響 AI 模型訓練資料的多元性與代表性，是推動全國性醫療 AI 策略不可或缺的政策基礎。",
+      "tags": [
+        "健保署政策",
+        "雲端轉型",
+        "基層醫療",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（tw.news.yahoo.com｜2026-09-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOemEzcVdqSFpyY190elJqQnBBVEk3ZDNoT29zWWFZUzY0bklwbFFaU2Vkb2VBcFY3aUVvMkdvWEhYaUJRX1ZNMWRoaEJvUWRPNTFGOUIyREp3c0tEcVQ0dkdZa1hWak9QOGtLTHpwV1FER1JtSkx3OEQ1MzBMNDRXdUNoNHZ4V2xweUtVdllQSWNqV2hNYlpPR1NYa3VaaUtjYTZUUV9kMktHLW9SWVRFZ2hjYkFWc0pZdzVHWDlyUUNubnc5RG1obkZQMEVzVGwtakNFdWRISUNReW5RajhUaE02QWlhUV9iNTVFME53RV9heGY0SThOcm0tSlRZLUhSZzdDM1NIWERSc3NzV0d6SU4zZGEyaWlVS2Z0UVhZUFNrb09vbV9NZ19ZMWhLY0E?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "台南醫院導入 AI 快速摘要急診病患資訊，提升急救效率",
+      "summary": "台灣台南一家醫院部署 AI 系統，能在急診接觸時快速整合並摘要病患病歷、過往就醫紀錄及檢驗結果，協助急診醫師在短時間內掌握關鍵臨床資訊。此舉旨在解決急診醫師面對大量非結構化資料時資訊過載的痛點，透過 AI 自動彙整重點，縮短病情評估所需時間。此案例呼應亞洲醫療 AI 落地趨勢，顯示本土醫院正積極將大型語言模型技術應用於急診臨床場景。對醫院資訊部門而言，此類系統的資料安全合規性、與現行 HIS 系統的整合方式，以及醫師接受度，均是後續推廣的關鍵評估指標。",
+      "tags": [
+        "急診AI",
+        "病歷摘要",
+        "台灣醫療AI",
+        "臨床決策支援"
+      ],
+      "author": "未標示（Taiwan News｜2026-09-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMWVZUbEJCa2MtMy1PUHVlNmpQVkNwajRvVWwtVElwb3k1RURqWEoteXNmYnFCajhpWTJUNHVTMFZnalZRcktqOVY2TW9jWHJwTDVJQWhpemg?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "Merge 推出跨企業影像平台的全新 AI 整合層，強化放射科智慧化能力",
+      "summary": "醫療影像資訊系統大廠 Merge 宣布推出新一代 AI 整合層，可在其企業級影像管理平台上統一調度多家 AI 廠商的演算法工具，實現跨系統的智慧化影像分析。此架構允許醫療機構靈活引入不同 AI 應用，無需個別系統整合，大幅降低導入複雜度。在放射 AI 工具碎片化的現況下，此類「AI 中介層」平台有助於醫院資訊部門統一管理 AI 工具的版本控制、效能監測與法規合規追蹤。此發展趨勢顯示，影像資訊系統廠商正從單純儲存管理角色，轉型為 AI 整合與治理平台的核心提供者。",
+      "tags": [
+        "醫療影像AI",
+        "企業影像平台",
+        "AI整合架構",
+        "放射資訊系統"
+      ],
+      "author": "未標示（Imaging Technology News｜2026-09-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTGdQZlhIaTFzSVhsang4QnlCbE1IWWg0cFRLRkFOUHQ2XzhiTEtVdVhPNXJGNzBycU8zQTctWmFPNFc0TmRkLTU0LVYxZlZTaUNTWEdsOEVFdnVLVUlwTUJnNGtheWlYRXY5cHFCaUtFVVZEa250bmtwR25RTXNCc09nblNwczdLTnlRYzl6Ujc5dzFEOGVPYWRZSWg0U1hzRmVfTFh2TE0xZzUtVjV6NGdiVUl3elZ2ZFE?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "力麗科技攜手 Dell 與數位無限，打造彰化基督教醫院醫療 AI 算力核心",
+      "summary": "力麗科技聯合 Dell Technologies 與數位無限，共同為彰化基督教醫院建置醫療 AI 專屬算力基礎設施，目標是提供穩定、安全的本地端 GPU 運算資源，支撐醫院內部 AI 模型訓練與推論需求。此合作模式體現台灣醫療體系「主權 AI」的建設方向，即以自主掌控的算力中心取代單純依賴公有雲，確保醫療資料不出境並符合個資法規要求。對醫院資訊部門而言，此案例提供了本土醫院自建 AI 基礎設施的具體參考，包括硬體選型、能耗管理及與現行醫院資訊系統的整合策略，具有重要的決策參考價值。",
+      "tags": [
+        "醫療AI算力",
+        "主權AI",
+        "台灣醫療AI",
+        "基礎建設"
+      ],
+      "author": "未標示（iThome｜2026-09-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VQ0NEb1d0WVk0dGpxZHc2eWxMQWFsYUptNG1NN3FwNWt6Vk1hbG9nNHNFV2Jfc1YzZTV4SGRud0NlVzYzMXdJLWdPQQ?oc=5"
+    }
+  ]
+}
