@@ -1,0 +1,145 @@
+{
+  "date": "2026年09月23日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "Anthropic 攜手 OpenEvidence 布局全球醫療 AI，精準腫瘤治療成首要切入點",
+      "summary": "Anthropic 與醫療臨床決策平台 OpenEvidence 宣布合作，目標是將醫療 AI 能力推廣至全球醫療場域。根據 Reuters 及台灣媒體報導，雙方合作將整合 Anthropic 的大型語言模型技術與 OpenEvidence 的臨床知識庫，並聯手紀念斯隆－凱特林癌症中心（Memorial Sloan Kettering Cancer Center），以精準腫瘤治療為首要應用場景。OpenEvidence 平台已獲多家頂尖學術醫療中心採用，可協助臨床醫師快速查詢最新實證醫學資訊。此次合作代表 AI 基礎模型廠商正積極從通用場景深入滲透臨床專科領域，並藉由與權威醫療機構共同背書來建立信任基礎。對醫院資訊與數位轉型團隊而言，此類合作模式預示未來臨床知識查詢與決策支援工具將進一步 AI 化，值得持續追蹤其在監管合規與臨床驗證方面的進展。",
+      "tags": [
+        "大型語言模型",
+        "臨床決策支援",
+        "精準腫瘤治療",
+        "國際合作"
+      ],
+      "author": "未標示（Reuters｜2026-09-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng1azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "醫療 AI 新創 Heidi 獲 3.4 億美元融資，矢志將 AI 從記錄工具升級為行動代理人",
+      "summary": "澳洲醫療 AI 公司 Heidi 完成 3.4 億美元（約新台幣 110 億元）融資，宣示下一步目標是將 AI 的角色從單純的臨床文件記錄（notetaking）提升至能主動採取行動的「AI 代理人」（AI agent）層次。Heidi 現有產品已廣泛部署於門診環境，協助醫師自動生成病歷摘要、轉介信及照護計畫。此輪鉅額融資顯示投資市場對於「超越文書自動化」的醫療 AI 應用前景高度看好。業界觀察人士指出，AI 代理人若能在預約排程、用藥提醒、照後追蹤等環節自主執行任務，將對臨床工作流程帶來根本性變革。然而，自主行動型 AI 在醫療場域的責任歸屬、錯誤容忍度及法規監管仍是各界關注焦點，醫院引入前需審慎評估臨床與法律風險。",
+      "tags": [
+        "AI代理人",
+        "臨床文件記錄",
+        "醫療新創",
+        "數位轉型"
+      ],
+      "author": "未標示（PYMNTS.com｜2026-09-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZFZFNk9YTnVDYzFiZlVZYmdaa1lJaHcxS2VNelpzRUl5VUI1Sm9JVTkzbHJyZXk1Nm0wMEdzNEZ0OHhPTmpCMmNNSFlaWXRERVJOdTlLWDh3alR3cWdmWVFWcUp4RjZZSWo1aTZzZUs4b0I0VWkzVGtKRWE0R3NvdzlRVGVkNWNrT2pEV2lWZEFOWVN6QVhSMWotQk1iek9hWlNuSjRpQzdCZFpfVmNtelFfVXN1QlRjaWIxVjJrMjQyQTU0RDlpWEtDYWE4dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "Oracle Health 護理 AI 代理人直嵌 EHR：護理師無需切換工具即可完成多項任務",
+      "summary": "MedCity News 深度報導 Oracle Health 推出的 Clinical AI Agent，其差異化關鍵在於直接嵌入 Oracle Health Foundation 電子健康記錄（EHR）系統，而非以外掛方式存在。護理師在執行交班記錄、醫囑確認、病患評估等多項任務時，全程無需在不同應用程式之間切換，可大幅降低認知負荷與操作摩擦。報導指出，市面上多數護理 AI 工具仍以獨立應用程式形式提供，要求臨床人員自行整合，而 Oracle 此舉代表「原生嵌入式 AI」（native embedded AI）的新設計哲學。對醫院資訊部而言，EHR 廠商主導的原生 AI 整合模式可能改變未來採購策略，並對現有第三方 AI 工具造成競合壓力，值得密切評估其臨床效益實證資料。",
+      "tags": [
+        "EHR整合",
+        "護理AI",
+        "臨床工作流程",
+        "Oracle Health"
+      ],
+      "author": "未標示（MedCity News｜2026-09-23）",
+      "source_url": "https://medcitynews.com/2026/09/how-is-oracle-healths-nurse-ai-agent-different/"
+    },
+    {
+      "rank": 4,
+      "score": 8.0,
+      "title": "Nature 社論：AI 公司不能自我監管，航空與金融業的獨立監管模式應成為參考",
+      "summary": "Nature 發表社論，明確指出 AI 公司不應被允許自我監管，並以航空、銀行等高風險產業為例，強調唯有獨立第三方監管機構與實質懲罰機制，才能確保 AI 系統的安全性與可信度。文章點名 AI 公司在揭露模型能力、安全測試及事故通報方面存在透明度不足的問題，並呼籲各國政府建立具約束力的法規框架。對醫療 AI 領域而言，此一論點尤具重量——醫療 AI 產品若缺乏嚴格的外部審查，可能在臨床部署後才暴露潛在危害。此篇社論反映學術界對 AI 監管的高度重視，預示未來醫療 AI 的監管環境將趨於嚴格，醫院在評估 AI 供應商時應將監管合規能力納入重要考量指標。",
+      "tags": [
+        "AI監管",
+        "政策法規",
+        "AI安全",
+        "醫療AI治理"
+      ],
+      "author": "未標示（Nature｜2026-09-22）",
+      "source_url": "https://www.nature.com/articles/d41586-026-03014-1"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "AI 病理引擎 CipherX 推出可稽核語義層，提升數位病理判讀透明度",
+      "summary": "Deciphex 發布新一代病理 AI 引擎 CipherX，其核心特色在於內建「可稽核語義層」（Auditable Semantic Layer），能將 AI 的判讀過程以結構化、可追溯的方式記錄，供病理科醫師及品管人員事後稽核。此設計直接回應醫療 AI「黑盒子」爭議，對於需符合醫療品質認證標準的醫院病理科而言具有重要意義。可稽核性不僅有助於建立臨床人員對 AI 輔助判讀的信任，也能在發生誤判時提供清楚的責任鏈記錄。隨著數位病理導入速度加快，具備透明度與可解釋性的 AI 工具將成為採購評估的關鍵條件，此產品的推出為業界樹立了新的設計標準。",
+      "tags": [
+        "數位病理",
+        "可解釋AI",
+        "AI透明度",
+        "品管稽核"
+      ],
+      "author": "未標示（Clinical Lab Products｜2026-09-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQVZyWUNKanBxc0VFWE81SWpaSVZUakNtN2xDQm9KYVhRT2w2aWxESnpCSmtsc0syaDNOa3JqNmg1dTZaMXZsOXhmV3RybEtZT3RXcVFBMzZBVWNsYlNkLUJHNF9vNG9IYkZVOExLM1E3X3VyM2IyMlV0SjB5cjV1NDVJNlRqZkhUejIxUWZQaHpLbE1GcXdwbnJRNXhwTmF1Rk1PSFM3aE91MlJkMlFDY2d4Z2l6MXNoQ2t4TWp2ZzlMUWh0UlNyYXpoMEJsSVVi?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "AI 從放射報告自主學習，強化腹部掃描異常偵測能力",
+      "summary": "Medical Xpress 報導一項研究成果：研究團隊開發出能從大量放射科報告中自主學習的 AI 助理，無需人工標註即可識別腹部掃描中的多種異常病灶。此一「弱監督學習」（weakly supervised learning）方法有效降低了訓練資料標註的人力成本，並展現出在臨床實際資料集上的泛化能力。對放射科而言，此技術路徑意義重大——現有放射 AI 模型訓練往往受限於標註資料不足，若能從既有報告文字中萃取訓練訊號，將大幅加速模型開發與更新速度。研究結果顯示 AI 在偵測腸道、肝臟及腎臟等區域病變方面表現良好，未來有潛力整合至影像工作站作為二次判讀輔助工具。",
+      "tags": [
+        "放射AI",
+        "腹部影像",
+        "弱監督學習",
+        "臨床應用"
+      ],
+      "author": "未標示（Medical Xpress｜2026-09-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWjJtcUROSkt4cGZwTkstR2xyLVJHVmtDN21sSi1VUUpLcTJrc1NQeEpyV0wtdE1VQ3h1NDVNT2dFQ3VOdkVmekVIaVgxRWp5c0swN1NNajBEUFJIdXhNTUkyOUMtbXRJNU9FOG1heWZKbllKMnZPZEpua1BFWERReHJOR0FfOEwz?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.3,
+      "title": "醫療 AI 導入需要「試用期」機制，而不只是概念驗證試點",
+      "summary": "MedCity News 刊出觀點文章，主張醫療機構在導入具端對端執行能力的 AI 代理人時，應建立正式的「試用期」（probation period）框架，而非沿用傳統軟體的概念驗證（pilot）模式。作者指出，傳統軟體試點著重功能測試，但 AI 代理人需要在真實臨床環境中展現判斷力、錯誤恢復能力及與人員的協作品質，這些面向無法在短期試點中充分評估。試用期框架應包含明確的績效指標、失敗安全機制、臨床人員反饋迴路及退場條件。文章強調，缺乏系統性評估框架是目前醫療 AI 落地失敗的主要原因之一，醫院領導層應將 AI 導入視為組織變革管理議題，而非單純的技術採購決策。",
+      "tags": [
+        "AI導入策略",
+        "AI代理人",
+        "醫院管理",
+        "風險管理"
+      ],
+      "author": "未標示（MedCity News｜2026-09-22）",
+      "source_url": "https://medcitynews.com/2026/09/ai-workers-need-a-probation-period-not-just-a-pilot/"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "AI 助攻癌症醫療三大關鍵：加速藥物研發、提早病灶偵測、優化治療決策",
+      "summary": "TechNews 科技新報深度梳理 AI 在癌症醫療領域的三大核心應用：其一為縮短新藥研發週期，AI 可在化合物篩選與臨床試驗設計階段大幅提升效率；其二為提前偵測病灶，透過影像 AI 及液態生物標記分析實現早期診斷；其三為優化個人化治療決策，結合基因體資料與多模態臨床數據輔助腫瘤科醫師選擇最適治療方案。文章引用多項國際研究案例，說明 AI 工具已從實驗室走向實際臨床部署，並點出台灣癌症醫療場域在導入 AI 工具時面臨的資料標準化與跨院資料共享挑戰。對腫瘤科與病理科主任而言，此文提供了當前醫療 AI 在癌症領域的全景概覽，具參考價值。",
+      "tags": [
+        "癌症AI",
+        "早期診斷",
+        "精準醫療",
+        "台灣醫療"
+      ],
+      "author": "未標示（TechNews 科技新報｜2026-09-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS3ZONkZMamhxZ2RTUXpUSVlFem1LMGRzNEVkNjNYQXNpUmtVenNEWFd6OHgtUUJSZGlZc2ppZlB3OFBoUHA1MmVUaW9GX3J1NGwzY2l6UTRNUEZITWpCSkdUNXMtSGY2OVdCTXh6dnNoSXN4bGRlWDFuYU1xTTBvTXBMQQ?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.8,
+      "title": "力麗科技攜手 Dell 與數位無限，為彰化基督教醫院打造醫療 AI 算力基礎設施",
+      "summary": "iThome 報導，力麗科技聯合 Dell Technologies 與數位無限公司，共同為彰化基督教醫院（彰基）建置醫療 AI 專用算力核心基礎設施。此次合作涵蓋高效能運算伺服器、儲存系統及網路架構的整合部署，旨在支撐彰基在影像辨識、臨床決策支援及智慧病歷等 AI 應用場景的運算需求。彰基作為中台灣規模最大的醫療體系之一，此次基礎建設升級被視為醫院自建 AI 算力、擺脫雲端依賴的本土化實踐案例。對其他有意推動醫療 AI 轉型的醫院而言，彰基的建置模式提供了「院內私有算力」路徑的具體參考，尤其在資料隱私與低延遲需求日益嚴格的背景下，自建算力基礎設施的策略意義更加突出。",
+      "tags": [
+        "醫療AI算力",
+        "基礎設施",
+        "台灣醫療",
+        "院內部署"
+      ],
+      "author": "未標示（iThome｜2026-09-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VQ0NEb1d0WVk0dGpxZHc2eWxMQWFsYUptNG1NN3FwNWt6Vm1hbG9nNHNFV2Jfc1YzZTV4SGRud0NlVzYzMXdJLWdPQQ?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 6.5,
+      "title": "Epic 死亡率預測模型深度解析：AI 在老年照護的潛力與倫理挑戰",
+      "summary": "STAT News 健康科技電子報深度剖析 Epic 系統內建的死亡率預測演算法，探討其在老年科（geriatrics）臨床場景中的應用潛力與倫理爭議。文章指出，Epic 的預測模型已整合至多家美國醫院的 EHR 工作流程，可協助臨床團隊識別高風險住院老年患者，進而提早啟動安寧緩和照護或家庭溝通。然而，批評者擔憂模型的種族偏誤及預測結果對醫療決策的不當影響，尤其在資源分配與治療積極度選擇方面。此案例揭示了 AI 預測工具從技術開發到臨床落地所需面對的演算法公平性、知情同意及醫療倫理等多層面挑戰，對醫院 AI 治理委員會具有直接的政策參考價值。",
+      "tags": [
+        "死亡率預測",
+        "老年照護",
+        "AI倫理",
+        "EHR"
+      ],
+      "author": "未標示（STAT News｜2026-09-22）",
+      "source_url": "https://www.statnews.com/2026/09/22/epics-mortality-model-omadas-future-products-health-tech/?utm_campaign=rss"
+    }
+  ]
+}
