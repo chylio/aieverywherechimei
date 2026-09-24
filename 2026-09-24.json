@@ -1,0 +1,47 @@
+{
+  "date": "2026年09月24日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 6.5,
+      "title": "FDA 顧問委員會背書 Grail Galleri 多癌種血液篩檢，認為效益大於風險",
+      "summary": "美國 FDA 顧問委員會於 2026 年 9 月 23 日正式背書 Grail 公司所研發的 Galleri 多癌種早期篩檢血液檢測，認定其臨床效益優於潛在風險。Galleri 採用次世代定序技術分析循環腫瘤 DNA，可一次篩檢逾 50 種癌症，是液態活檢領域的指標性產品。此次顧問委員會背書，是 Galleri 正式取得 FDA 批准前的關鍵里程碑，若後續獲准上市，將對現行癌症篩檢體系產生深遠影響，包括改變大腸癌、乳癌等單一癌種傳統篩檢的臨床決策路徑。對醫院院長及腫瘤科主任而言，此一發展值得持續關注，未來若健保或自費市場引進，需評估如何整合進現行篩檢流程，並研擬假陽性結果的後續處置標準作業程序。",
+      "tags": [
+        "癌症篩檢",
+        "液態活檢",
+        "FDA",
+        "精準醫療"
+      ],
+      "author": "未標示（STAT News｜2026-09-24）",
+      "source_url": "https://www.statnews.com/2026/09/23/fda-advisory-panel-recommends-approval-grail-galleri-multi-cancer-blood-test/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 5.5,
+      "title": "Abridge 執行長 Shiv Rao：從臨床醫師到醫療 AI 先驅的創業之路",
+      "summary": "醫療 AI 臨床文件記錄新創 Abridge 執行長 Shiv Rao，於近期在波士頓舉辦的南亞健康領袖論壇上，首度深度公開分享其個人背景與創業歷程。Abridge 以 AI 自動生成就診摘要與病歷紀錄聞名，已與多家大型美國醫療體系合作，被視為 AI 環境聆聽（Ambient AI）領域的領導者之一。Shiv Rao 本身為心臟科醫師出身，深刻理解臨床文件記錄對醫師身心耗竭的影響，此一背景促使他以減輕醫師行政負擔為核心使命打造 Abridge。此篇報導揭示一位兼具臨床視角與科技創業能力的領導者如何定義醫療 AI 的應用方向，對有意評估 AI 文件記錄工具的醫院管理層具有參考價值。",
+      "tags": [
+        "AI臨床文件",
+        "環境聆聽AI",
+        "醫師過勞",
+        "新創領導"
+      ],
+      "author": "未標示（MedCity News｜2026-09-24）",
+      "source_url": "https://medcitynews.com/2026/09/who-is-abridges-ceo-shiv-rao-no-really/"
+    },
+    {
+      "rank": 3,
+      "score": 5.0,
+      "title": "Pelago 推出整合行為健康平台，以 AI 分流串聯物質使用、心理健康與行為成癮照護",
+      "summary": "數位健康公司 Pelago 於 2026 年 9 月發布全新行為健康整合平台，將物質使用障礙、心理健康及行為成癮照護整合至單一數位環境，並採用 AI 驅動的智慧分流機制，依患者需求自動媒合適合的治療模式與照護資源。此平台以提升照護可近性與個人化為核心訴求，試圖解決行為健康資源分散、轉介延遲等長年痛點。對醫院精神科、身心科及社區照護團隊而言，AI 輔助分流的模式可望縮短評估等待時間並改善治療配對精準度。隨著台灣社區心理健康需求持續攀升，此類整合平台的設計理念與 AI 應用模式，值得數位轉型團隊在規劃心理健康照護數位化時參考。",
+      "tags": [
+        "行為健康",
+        "AI分流",
+        "心理健康",
+        "數位健康"
+      ],
+      "author": "未標示（MedCity News｜2026-09-23）",
+      "source_url": "https://medcitynews.com/2026/09/pelago-unveils-new-behavioral-health-platform-for-substance-use-mental-health-and-behavioral-addiction-care/"
+    }
+  ]
+}
