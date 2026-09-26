@@ -1,0 +1,117 @@
+{
+  "date": "2026年09月26日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "AI醫療編碼導致美國醫療成本激增9.42億美元，醫院與保險公司各執一詞",
+      "summary": "根據藍十字藍盾（Blue Cross Blue Shield）最新報告，美國醫院導入AI輔助醫療編碼系統後，相關醫療費用較預期增加約9.42億美元（約合新台幣300億元），引發保險業者強烈關注。保險公司認為AI編碼工具系統性地將病患病情編碼至較高嚴重度，推高給付金額；醫院方面則反駁，指出近年收治的病患病況本就更為複雜，費用上升係反映真實臨床需求。此爭議揭示AI在醫療計費流程中可能帶來的雙面效應：一方面提升編碼效率與完整性，另一方面也可能在醫院端與支付端之間形成對抗性AI軍備競賽，進一步推高整體醫療成本。對於考慮導入AI編碼工具的醫療機構而言，如何在提升文件品質與避免過度編碼之間取得平衡，已成為治理層面必須正視的課題。",
+      "tags": [
+        "AI醫療編碼",
+        "醫療成本",
+        "保險支付",
+        "醫院管理"
+      ],
+      "author": "未標示（technology.org｜2026-09-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSThRWTNGRzc0R2FCbVpzVnZQR05vcW5kMDJVV0JBc1lKNDV1NnZGckxTQzV2Q2kwdUNxZS1MWW1YZWdQakZZbGZHQXRacVcyWkdBYjVBc2dEamZ1dVI2ZGtWclR6SjcyTWtWbEFFc3dJN2oyRkhzNDFuaFhDdXBWMlJKUlRzak0"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "臨床AI為何屢屢在床邊失靈？新研究深度剖析導入落差與解方",
+      "summary": "一篇發表於bioengineer.org的深度報導指出，儘管許多醫療AI系統在研究環境中表現亮眼，但實際部署至臨床床邊時卻頻繁失敗，背後原因涉及多個層面：訓練資料與真實病患族群不匹配、臨床工作流程未被納入設計考量、醫護人員缺乏使用信心，以及機構治理架構不完善等。報導整理最新研究成果，提出幾項關鍵改善方向，包括讓臨床醫師深度參與AI開發過程、建立持續性的模型監測機制、設計符合臨床情境的人機介面，以及在部署前進行嚴謹的本地驗證測試。文章強調，AI導入失敗的問題根源往往不在技術本身，而在於組織與流程的準備度不足。對於正積極推動數位轉型的醫療機構而言，本文提供了從概念驗證到全面推廣的實用框架參考。",
+      "tags": [
+        "AI導入",
+        "臨床落差",
+        "數位轉型",
+        "醫療AI治理"
+      ],
+      "author": "未標示（bioengineer.org｜2026-09-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0F6U1JfaWVKU2tpSjJjQXlyWkw3NWZ5cjh3MkVSSlBhN2pHaDZrRHN6bkcyN00zRWt2bWVCakpwLWwyd1FVcWRFUHJiUTFWcE1Xd0QxcUNTYnB6LXZEekRTZEt1djJ4TmZnclZjN01rZkh6Vk81ekQzYXc1c2FUQXh0NFNGbk52ZUlZdHRnS0gtWHM5RHJTam9HZ0d4S0Zx"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "Anthropic AI生物實驗室以950個AI代理人發現病毒中類CRISPR的DNA序列",
+      "summary": "Nature報導指出，Anthropic旗下的AI生物實驗室透過部署約950個AI代理人，耗費逾21小時大規模掃描DNA序列資料庫，成功在病毒基因組中發現具有類似CRISPR機制的全新DNA序列。這項發現展示了大規模AI代理人協作執行生物資訊學任務的潛力，同時也引發科學界對AI自主研究能力邊界的廣泛討論。研究人員認為，此類AI驅動的基因組探勘方法未來可望加速新型基因編輯工具的開發，並協助識別病原體中潛在的防禦或進攻性遺傳機制。然而，AI自主生物研究的安全性與倫理監管問題也同步浮現，如何在加速科學發現與防範生物安全風險之間取得平衡，將是各國監管機構與研究機構必須共同面對的挑戰。",
+      "tags": [
+        "AI生物研究",
+        "基因體學",
+        "CRISPR",
+        "AI代理人"
+      ],
+      "author": "未標示（Nature｜2026-09-25）",
+      "source_url": "https://www.nature.com/articles/d41586-026-03039-6"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "亞東醫院AI醫療成就全球第七：聲音訊號成為新興臨床資訊來源",
+      "summary": "據TVBS新聞網報導，台灣亞東醫院在全球醫療AI評比中躋身第七名，展現台灣醫療機構在智慧醫療領域的國際競爭力。值得關注的是，亞東醫院的AI應用已超越傳統影像判讀範疇，進一步將聲音訊號（包含心音、肺音及語音特徵等）轉化為具臨床價值的診斷資訊。這種多模態AI應用策略代表了醫療AI發展的重要趨勢，即從單一影像分析擴展至整合多種生理訊號的全面性臨床決策支援。對國內醫療機構而言，此案例提供了實際可參照的本土成功經驗，尤其在聲音生物標記（acoustic biomarker）的臨床應用方面，具有相當的啟發性與推廣價值。",
+      "tags": [
+        "台灣醫療AI",
+        "多模態AI",
+        "聲音生物標記",
+        "智慧醫院"
+      ],
+      "author": "未標示（TVBS新聞網｜2026-09-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBeEZIY2QyaktCR0NYVGJ2Z3BUOTBLTW40UGNBT2o5VmRFMlZoNm13cXpWaFRyX1JOZXhZcGRlYlNhamRhUUhETkxkU2FkUQ"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "AI全面支援護理團隊：環境式語音紀錄只是起點，整合性照護助理才是終局",
+      "summary": "MedCity News的分析文章指出，AI在護理工作中的應用正從早期的環境式語音病歷記錄（ambient charting）向更全面的智能助理角色演進。目前多家廠商已推出整合排班管理、病患監測提醒、異常數值警示及跨部門溝通協調等功能的護理AI平台，但文章也提出核心警示：若這些工具各自為政、缺乏系統整合，反而會成為護理人員的額外負擔，而非真正的工作減負工具。文章強調，成功的護理AI導入需要以護理師為中心進行設計，並與現有EHR系統深度整合，方能真正讓護理人員從行政雜務中解放，將更多時間投入直接病患照護。此議題對面臨護理人力短缺的台灣醫療機構具有高度參考價值。",
+      "tags": [
+        "護理AI",
+        "環境式語音記錄",
+        "臨床工作流程",
+        "人力資源"
+      ],
+      "author": "未標示（MedCity News｜2026-09-25）",
+      "source_url": "https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "醫療AI導入的環境代價：碳排放與能源消耗成為不可忽視的議題",
+      "summary": "MobiHealthNews一篇報導聚焦於醫療機構在評估AI採用決策時，往往忽略的環境衝擊面向。大型語言模型與深度學習系統的訓練與推論過程需耗費龐大電力，據估計，單一大型AI模型的訓練碳排放量可等同於數輛汽車的終身排放量。對於24小時運作的醫療機構而言，大規模部署多套AI系統可能使機構整體能源消耗顯著上升。文章建議醫療機構在進行AI投資評估時，應將能源效率、碳足跡及供應商的永續承諾納入採購標準，並優先考慮採用邊緣運算或輕量化模型等低碳替代方案。隨著全球永續發展法規趨嚴，醫療AI的綠色治理將逐漸成為醫院社會責任報告的重要指標。",
+      "tags": [
+        "醫療AI",
+        "環境永續",
+        "能源消耗",
+        "ESG"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-09-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmJLd1JIOHNLcmNtWWd3U3l3TFVuRjZ1YTIyMmdkNVB3VEJSNWJ3VDRzR3pQM0NhYmpLTWwwdndmbUpaVUVHY3hWMlRVYlpnRS1kZzhXYUxwRXRjMWJ6S3pvTi1YSXppb1JNV2h0UWpzV3htZXZmaXIwQUVMbkJ4NGwydUNMQ2Zybm1fNmJGZjN6Z0d2"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "LLM助長學術偽造引用危機：Lancet揭示生醫文獻中偽造參考文獻逾12倍激增",
+      "summary": "The Lancet刊載多篇通訊文章，聚焦於一項大規模稽核研究的爭議與回應。原始研究針對逾247萬篇生醫論文的1.256億筆參考文獻進行系統性審查，發現無法查證的偽造引用從2023年至2026年初成長逾12倍，且多數未受到期刊的發表後更正。研究者認為此現象與研究人員使用大型語言模型（LLM）撰寫論文時產生「幻覺性」虛假引用高度相關。通訊作者提出異議，質疑分類方法的可靠性；原作者則堅持研究方法的嚴謹性並詳細回應。此議題對醫療AI領域尤為重要，因為臨床決策支援系統若以含偽造引用的文獻作為訓練或參考依據，可能帶來患者安全風險，凸顯AI輔助學術寫作的品質監管亟需強化。",
+      "tags": [
+        "學術誠信",
+        "大型語言模型",
+        "偽造引用",
+        "生醫文獻"
+      ],
+      "author": "未標示（The Lancet｜2026-09-26）",
+      "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01434-0/fulltext?rss=yes"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "OpenAI研究長談「文化重置」：Hugging Face資安事件促使AI安全策略全面轉向",
+      "summary": "Nature報導OpenAI研究長Mark Chen接受專訪，談及近期一連串風波後公司內部的「文化重置」轉變。Chen特別提到，Hugging Face平台遭受網路攻擊的資安事件，使OpenAI重新審視AI模型部署的安全邏輯，並加速了以安全優先為核心的研發策略調整。他透露，公司正嘗試賦予AI模型某種「品味」概念，使其在生成內容時能更審慎地進行自我評估與過濾。對於醫療AI的應用場景，此次OpenAI的安全策略轉向具有重要參考意義：當AI代理人被部署於含有高度敏感病患資料的醫療系統時，開發商的安全文化成熟度直接影響機構的資安風險暴露程度，醫療機構在選擇AI合作夥伴時應將此納入評估標準。",
+      "tags": [
+        "OpenAI",
+        "AI資安",
+        "AI治理",
+        "醫療數據安全"
+      ],
+      "author": "未標示（Nature｜2026-09-25）",
+      "source_url": "https://www.nature.com/articles/d41586-026-03028-9"
+    }
+  ]
+}
