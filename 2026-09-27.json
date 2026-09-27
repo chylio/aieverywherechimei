@@ -1,0 +1,75 @@
+{
+  "date": "2026年09月27日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "Leica Biosystems 擴充 Aperio AI Store 病理產品陣容，加速數位病理 AI 商業化",
+      "summary": "Leica Biosystems 宣布在其 Aperio AI Store 平台新增多項病理 AI 分析產品，進一步擴展數位病理的 AI 工具生態系。Aperio AI Store 作為病理 AI 應用的集中市集，讓醫院及病理科可透過統一介面選用、部署不同廠商開發的 AI 演算法，涵蓋腫瘤分級、組織分割與生物標記量化等功能。此次新增產品強化了平台的完整性，有助於病理科在現有數位掃描設備基礎上快速導入 AI 輔助判讀，降低整合門檻。對於正在評估數位病理轉型的醫院而言，此類開放式 AI 市集模式代表一種可分階段擴充的導入路徑，值得關注其產品組合的認證狀態與臨床驗證證據，以確保導入後的品質保證。",
+      "tags": [
+        "數位病理",
+        "AI影像分析",
+        "病理科",
+        "醫療AI商業化"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-09-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVzJfWUp5cnBoWEI5bkxWWFpGZGdZMzZnT2xFSWdvQkNwbUdlNldFZDZGTnZHMGZScmFQSXVFQmJKQUs2S2dPVG1kcmd2OWlxVFdwbE51ZHJscndXdVNSVzhiVWZ3M2wwdzVfcFJIYUhJRjRiT05WZlV3TmZSZm1wR3NXSjEzLUp2X0swc0hZaWJTcm8t?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 7.5,
+      "title": "AI 醫療平台 OpenEvidence 估值突破 150 億美元，跨足癌症新藥研發",
+      "summary": "AI 醫療資訊平台 OpenEvidence 最新估值已突破 150 億美元，並宣布將業務範疇從臨床決策支援延伸至癌症新藥研發領域。OpenEvidence 原以提供醫師即時循證醫學查詢為核心，憑藉大型語言模型整合最新醫學文獻，在臨床端累積大量用戶基礎。此番轉型進軍腫瘤新藥研發，顯示醫療 AI 平台正試圖打通從臨床知識到藥物開發的完整價值鏈。高估值也反映出投資市場對醫療 AI 商業化前景的高度期待，但同時也凸顯了監管審查與臨床驗證的重要性。此消息與近期 Anthropic 攜手 OpenEvidence 布局全球醫療 AI 的策略方向一致，預示該平台在精準腫瘤領域的競爭布局將持續加速。",
+      "tags": [
+        "醫療AI平台",
+        "腫瘤新藥研發",
+        "臨床決策支援",
+        "AI估值"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-09-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNYlRxNnVaZFZUbjlhQlhmXy1VNmVHanZrQy1hOS1BX3hkS0M3RHBPY2gyRDZZaGZqdUFVUDlTZzU3bDR6TVJTOVVROUMwRTd5Y29aQ1lUZXU2cnBlR25tbVhlRVpkam0zS0xEWkVFRW1yaVBsWjN2akpEcDA1YTcwM1ZfU1hzTEZ4cmpFSWJQeUVkMDdHVjlmZ2g2eDNHUnFBMURERXZCOGxMX2pzbFl5Y0pMaWdxYkVaU3ZNSDlkRTVKRnc1VlZlbGN6MUlLQ3A1U0lXcGpIcm5GaUpEbU9qOXVudlZLOUt1dDJFX1dZcFVtMm9zUlJpV1RFLUY1anhJa3p3MzlOSi1BY2NRM0lSMFlncG1OZm5UYXNQcTd3bVdpV3JFRm44Q05RaTdQUTBxRUlyMUVRWHpkaGJjcGNveGYtT0pIdlptVDZ6U0NsNWZ5bkNJR0RXcjhUVVFHSUhZWDJZbw?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.0,
+      "title": "BCBSA 報告：AI 輔助醫院申報帳單造成醫療成本暴增 9.42 億美元（最新跟進報導）",
+      "summary": "美國藍十字藍盾協會（BCBSA）發布報告，指出醫院使用 AI 輔助帳單申報系統後，導致醫療保險成本額外增加約 9.42 億美元。報告顯示，部分醫療機構透過 AI 工具優化診斷碼選擇與帳單編碼，系統性地提升申報層級，但所對應的實際臨床處置並未同步升級，引發保險端對過度申報的高度警惕。此議題在今日仍持續發酵，多家媒體跟進報導，顯示各界對 AI 輔助醫療編碼的道德與合規問題高度關注。對醫院管理層而言，此案例提醒在導入 AI 帳單工具時，需建立完善的內部稽核機制與倫理使用規範，以避免後續法律與聲譽風險。",
+      "tags": [
+        "醫療編碼AI",
+        "帳單合規",
+        "醫療成本",
+        "保險稽核"
+      ],
+      "author": "未標示（GNews-AI clinical｜2026-09-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BeVRkbTFNR2tibDY0ZElGYWZmMkdTWl9RdW5ZME5NTTlqR0pLeVhWSUhiZG5MRW5UNVhZOEUxYkFMUTlzXzVzQmFHcV9YYkRBUFRzbkl0WDMtRm1oWldBUUYyRVRVX2l3UFIxRw?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 6.0,
+      "title": "Chapman 大學深化醫療 AI 研究與人才培育，建構學術型 AI 醫療生態系",
+      "summary": "美國 Chapman 大學宣布推進醫療 AI 研究與培訓計畫，強化校內跨學科合作，涵蓋 AI 臨床應用研究、醫療數據分析及 AI 醫學人才養成等面向。此舉反映出學術機構在醫療 AI 人才缺口日益擴大的背景下，積極投入系統性培育的趨勢。高等教育機構透過整合醫學院、工程學院與資料科學部門，建立跨領域醫療 AI 研究中心，不僅有助於產出具臨床意義的研究成果，也為醫院提供了潛在的合作與人才來源。對於正在規劃 AI 人才培育策略的醫療體系而言，與學術機構建立合作夥伴關係，是縮短 AI 導入技術落差的可行路徑之一。",
+      "tags": [
+        "醫療AI教育",
+        "學術合作",
+        "AI人才培育",
+        "醫學研究"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-09-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObWxzVGlkLVJKcnVLQmY0azgyNVUwLVNXWTdaUWl5SUF5bHlGa3dDUHRVU3lVWHMtck03RXplOXI5SE54cklxalFFVlg1YTJPd3JEZmphWVRrQ2dqaktGbE9CX2VhSkJwU2FJd1ZMN3llSWNmcVZMTVN6SHRFcnBaZ3RnLVhRRnVDNENpLXlUS2xqRm8?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 5.5,
+      "title": "康乃爾大學代表團訪台灣義守大學，聚焦 AI 智慧醫療深化國際學術合作",
+      "summary": "美國康乃爾大學代表團近日赴台灣義守大學進行訪問交流，雙方聚焦人工智慧與智慧醫療領域，探討深化國際學術合作的具體方向。此次訪問顯示台灣醫療 AI 研究在國際學術社群的能見度持續提升，義守大學在智慧醫療領域的研究成果受到國際頂尖學府關注。台美醫療 AI 學術交流的深化，有助於引進最新研究方法論與臨床 AI 驗證標準，並為台灣醫療 AI 人才培育提供國際視野。對於國內醫療體系而言，此類國際學術連結可作為接軌全球醫療 AI 治理規範與技術趨勢的重要管道。",
+      "tags": [
+        "台灣醫療AI",
+        "國際學術合作",
+        "智慧醫療",
+        "醫學教育"
+      ],
+      "author": "徐炳文（GNews-台灣醫療AI｜2026-09-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BY1NrNm9TTHljUGtSa1VVYUNNZG1ObmpNNXNzeWlOSGJBM2p2Mk5ZU0dPSHluTTU0ZXptODhybGpkZlA3WUpTRkFWNl9DZw?oc=5"
+    }
+  ]
+}
