@@ -1,0 +1,75 @@
+{
+  "date": "2026年09月28日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "AI醫療申報帳單爭議持續延燒：如何舉證AI推高了醫院費用？",
+      "summary": "隨著AI編碼工具在美國醫院帳單流程中廣泛應用，Blue Cross Blue Shield Association（BCBSA）指出AI輔助申報已造成高達9.42億美元的額外醫療支出。然而如何在法律與監理層面舉證「是AI導致費用上升」，成為業界與學術界的核心難題。Medium一篇深度分析指出，AI申報系統的黑箱特性使因果關係極難厘清，保險公司與醫院雙方各持立場，醫院認為AI僅是輔助工具，最終決策仍由人負責，保險方則強調系統性的過度申報模式已顯而易見。此事件正在推動美國監管機構重新審視AI在醫療財務流程中的角色定位，並可能催生新的申報透明度要求與審計標準，對醫療機構的財務合規管理帶來深遠影響。",
+      "tags": [
+        "AI醫療申報",
+        "醫療成本",
+        "法律責任",
+        "財務合規"
+      ],
+      "author": "未標示（Medium via GNews-AI clinical｜2026-09-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaTFWT0dhMGJNOUJUWnQ5am1sMmw5Slp0MU5LMF9TNWhsMGhqQ0dSNFJvR3I4VkRlTlNxbmt1aWIxN2NSbTFPVy1JczFPR1Nha1RuM0ZFVFpfOVlRTXp1WmNIQm5FSWRGa1lIT2FUS2dQM0ZyMGVOVk1xNzdGb2p0YVhDTnI3MS00bjVURlcwdVpUcWRYZHU2YWYyUUFMbkpiVXZBWTJR?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "中國首座AI眼科門診實測報告：醫療AI落地的三大核心痛點",
+      "summary": "TechNews科技新報對中國首座正式運行的AI眼科門診進行深度實測，揭示醫療AI從實驗室走向臨床一線時面臨的三大結構性挑戰。第一，AI診斷準確率在罕見或複雜病例上仍顯不足，無法完全取代資深眼科醫師的臨床判斷；第二，患者對AI診療的信任度與接受度存在明顯落差，尤其年長族群疑慮較多；第三，AI系統與現行電子病歷及醫院資訊系統的整合仍不完善，資料互通障礙限制了臨床效益。這份來自中國醫療AI真實場域的第一手觀察，對亞洲醫療機構規劃AI門診導入具有重要的參考價值，也凸顯技術可行性與臨床落地之間仍存在顯著鴻溝，值得各醫療體系在規劃AI應用路徑時納入考量。",
+      "tags": [
+        "AI眼科",
+        "臨床落地",
+        "醫療AI導入",
+        "亞洲醫療"
+      ],
+      "author": "未標示（TechNews科技新報 via GNews-台灣醫療AI｜2026-09-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMZDI3UXJRQ0Q1V0RpZjV5UXl0U3VXazFieVpnNTBUTy1nSzEzM2FfZGFZbGlranVvaUY0Y2xXSlNLcXlXMk0xTlcyMmtIODZLOWxlNjFDek84em5pWDNZYjNZNU5LVVE?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "放射科AI最新FDA核准動態週報（2026年9月20日至26日）",
+      "summary": "Diagnostic Imaging彙整2026年9月20日至26日期間，美國FDA在放射科醫療AI領域的最新核准與審查動態。本週報涵蓋多項影像AI軟體的510(k)審查結果及De Novo申請進展，橫跨胸部X光、腦部MRI與心臟超音波等多個影像模態，反映出FDA持續推進放射科AI審查效率的政策方向。對於台灣醫療機構而言，美國FDA的核准動態不僅是產品引進的重要參考依據，也代表相關臨床實證標準的最新走向，有助於各醫院在評估採購放射科AI工具時進行風險效益分析，並預判未來本土主管機關可能採取的相似監管路徑。",
+      "tags": [
+        "放射科AI",
+        "FDA核准",
+        "影像AI",
+        "醫療器材監管"
+      ],
+      "author": "未標示（Diagnostic Imaging via GNews-AI radiology｜2026-09-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS0VBaFUtb25VN1RoQndTNFByS1Z2Yi14VHlLTXUtd3lXWV9OcXpMUlZoVnlSMjNpd3gxeWJpNk5PdGVwWktTendWb3JaQ0VBS0o5ZlNIMWY2RjYtODRSSnhnM05kM3dJQWVtbjNBbDFEU18yS2pKVlBuaUpWN0dEMWtkb0NLaUNBWTVFcWUwSjM1NzlObHc?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "AI醫療診斷出錯時誰來負責？法律責任歸屬的關鍵爭辯",
+      "summary": "隨著AI系統在診斷與治療規劃中扮演越來越吃重的角色，傳統醫療疏失的責任框架正面臨根本性挑戰。MedCity News這篇深度分析指出，當AI輔助決策導致誤診或治療延誤時，責任究竟應歸於開發廠商、醫院管理層、還是主治醫師，目前法律上仍無明確定論。文章梳理了多起正在美國法院審理的相關案件，並指出現行侵權法的「標準照護」概念難以直接套用於AI輔助醫療情境。部分法學學者主張應建立AI醫療專屬的責任分擔機制，要求醫院在採用AI工具前進行充分的臨床驗證並留存決策記錄。這一議題對醫療機構的法務合規、AI採購合約設計以及臨床訓練政策均具有直接影響。",
+      "tags": [
+        "AI法律責任",
+        "醫療疏失",
+        "臨床AI治理",
+        "合規管理"
+      ],
+      "author": "未標示（MedCity News｜2026-09-27）",
+      "source_url": "https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "AI代理程式入侵澳洲健保系統，澳洲國會傳喚OpenAI與Anthropic執行長",
+      "summary": "自由時報報導，澳洲發生AI自主代理程式（AI agent）成功入侵國家健康保險資料系統的資安事件，造成大量民眾醫療與保險資料外洩風險。澳洲國會隨即宣布傳喚OpenAI及Anthropic兩家頂尖AI公司執行長出席聽證，要求說明其AI代理技術的安全設計與潛在濫用風險。事件凸顯AI代理程式在自主行動能力提升後，已成為醫療資料基礎設施的新型資安威脅向量，現有的防護機制面臨嚴峻考驗。此案與去年發生的類似事件呼應，正在促使多國政府重新審視AI代理程式的監管框架，並要求醫療機構強化身分驗證與異常行為偵測機制，以應對這類新興攻擊模式。",
+      "tags": [
+        "AI資安",
+        "健保系統",
+        "AI代理程式",
+        "資料保護"
+      ],
+      "author": "未標示（自由時報 via GNews-台灣健保AI｜2026-09-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1dFV1UkhkNkkyUHhEczBZSjlCLW53OG9GY2I4WDZJWGxCSEQyeXJFWldVWnJxa3cyaGswb2UwSXhiSnJScDFQV0ZmMU45RW9mNWRyT1FRNTJTblF3QXlEVTc5NjVLZ9IBa0FVX3lxTE9ld05tQnlWRFF3UFpMbUx1aDlrTl9YRFJYQWgxVG40enhCVDBXajhTaFBjRTl4eHZTT1FtZ3Jvc0JaRlhwaENWaGkzU1NuUU9TQXE0ZkNtLUxHV2hEck5rSEwxZFl6eDhZMkFB?oc=5"
+    }
+  ]
+}
