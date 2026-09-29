@@ -1,0 +1,117 @@
+{
+  "date": "2026年09月29日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "OpenEvidence 攜手 Anthropic 與賓夕法尼亞大學醫學院，免費將 AI 臨床決策工具推向非洲與亞洲百餘國醫師",
+      "summary": "OpenEvidence 宣布與 Anthropic 及 Penn Medicine 達成合作，計畫將旗下 AI 臨床決策支援工具免費開放給非洲與亞洲超過百個國家的醫師使用。OpenEvidence 平台整合最新醫學文獻與臨床指引，能即時回應醫師的診斷與治療查詢。此次合作由 Anthropic 提供 Claude 模型作為底層推理引擎，Penn Medicine 則負責臨床驗證與學術背書。對於資源匱乏地區的醫療人員而言，這套工具有望彌補專科醫師短缺、文獻取得不易等痛點。此一模式若成功落地，將示範 AI 公司與頂尖醫學機構如何聯手拓展全球醫療可近性，並對新興市場醫療 AI 普及路徑產生重要參考價值。",
+      "tags": [
+        "臨床決策支援",
+        "AI普及化",
+        "全球醫療",
+        "Anthropic"
+      ],
+      "author": "未標示（Fierce Healthcare｜2026-09-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUZTemxMWjlhcWlCbFd5MC1NMktBcEtxRllhbHlSanVPZjMtVEVkZmxlaTJzcVJVWEthRnNac0JVTFItSnlCeEF0UXNwd2tpN3VIcE5NMjhLd1dTTVk4S2VwOTFRd2tsZUd2Q1dYbTVVQlhiYTlFTFZHSDJqLVR5b2lQQlRZMzBoRXk1WndnMmVTdlhuVzlHalJMY1Q0M09zSVZhNHZfaDhVTXdnTTQwcWs0aVhsTXVFekwzc29VQnhLZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI 臨床決策品質的下一步：Healthcare IT News 深度解析醫院實踐路徑",
+      "summary": "Healthcare IT News 刊出深度分析文章，探討 AI 工具要真正提升臨床決策品質所需具備的條件。文章指出，目前多數醫院導入的 AI 臨床輔助工具仍停留在「建議產生」層次，缺乏與電子病歷的深度整合、即時回饋機制以及臨床工作流程的無縫嵌入。報告強調，AI 模型的準確率固然重要，但「可解釋性」與「醫師信任度」才是決定工具實際被使用的關鍵因素。此外，文章也點出訓練資料的代表性不足可能導致特定族群產生預測偏差。對醫院資訊部門與各臨床科主任而言，此文提供了評估現有 AI 工具成熟度的實用框架，並指出在採購與導入決策時應重點審視的指標，具有直接的管理參考價值。",
+      "tags": [
+        "臨床決策",
+        "AI導入",
+        "醫院資訊",
+        "工作流程整合"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-09-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDVSWThHNEVGNnJ0cVQxRlF4TWlZSHlrc1VJS2tUSHA1V3lMekllSjBwbFJoZ0RRZFBmLWJwY0VJNzJralE1VGNleW82SHlFTGhrWlR4M0hiSGhvbV9KNHYtM1F0LVVDeFhENU14Y2RYWHdSWHFvVWIzbzJUN0hnQS04bWgybjV0TVhobTRWMk9WQlhobFRn?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "醫院與保險業 AI 治理同步面臨轉捩點：最新研究揭示採用率高但治理框架仍薄弱",
+      "summary": "MedCity News 與 Cotiviti 聯合發布研究報告指出，美國醫院與保險業者的 AI 採用率已大幅攀升，但與此同時，AI 治理框架的建立卻明顯滯後。報告顯示，多數醫療機構雖已部署 AI 工具於申報帳單、事前授權及臨床輔助決策等場景，卻缺乏系統性的演算法稽核機制、偏誤監測程序及資安防護規範。在 AI 武器化網路攻擊威脅升高的背景下，醫療組織若無法建立明確的 AI 使用政策與責任歸屬，將面臨重大法律與營運風險。報告呼籲醫療領導層應將 AI 治理列為優先議題，從資料存取控制、模型透明度到事件應變計畫，建立完整的治理生態系。",
+      "tags": [
+        "AI治理",
+        "醫療資安",
+        "保險業",
+        "法規遵循"
+      ],
+      "author": "未標示（MedCity News｜2026-09-28）",
+      "source_url": "https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "FDA 核准 DreaMed AI 胰島素劑量自動化 App，CGM 數據直驅第二型糖尿病給藥建議",
+      "summary": "DreaMed Diabetes 旗下行動應用程式 MODI 獲得 FDA 510(K) 上市許可，成為首款整合連續血糖監測（CGM）數據、同時涵蓋基礎胰島素與速效胰島素雙重注射方案的 AI 給藥建議工具，適用族群為需多次注射的第二型糖尿病患者。MODI 透過演算法分析 CGM 即時數據與患者歷史血糖趨勢，自動計算並推薦最適劑量，旨在降低低血糖風險並改善血糖控制。此次 FDA 核准意味著 AI 輔助給藥決策正式進入糖尿病門診管理領域，對內分泌科與家醫科醫師的日常處方流程具有潛在影響。對於擁有大量糖尿病患者族群的醫療機構，此工具的臨床效益與導入可行性值得關注。",
+      "tags": [
+        "FDA核准",
+        "糖尿病管理",
+        "CGM",
+        "AI給藥決策"
+      ],
+      "author": "未標示（MedCity News｜2026-09-29）",
+      "source_url": "https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "RSNA AI 認證課程完成重大改版，放射科 AI 教育體系迎來全面升級",
+      "summary": "北美放射學會（RSNA）宣布旗下 AI 認證課程完成「重大更新」，課程內容全面納入生成式 AI、大型語言模型在醫學影像報告撰寫中的應用，以及 AI 工具的臨床評估方法論。此次改版反映了放射科 AI 工具在過去兩年間快速演進的現實，舊有課程已無法涵蓋目前業界主流技術。更新後的課程預計將成為放射科醫師、技師及醫院 AI 導入決策者的重要學習資源。對於正在籌劃 AI 人才培育計畫的醫療機構而言，RSNA 認證課程的改版內容可作為規劃院內訓練課程的重要參考，也顯示國際放射學界正積極回應 AI 快速商業化的挑戰。",
+      "tags": [
+        "放射科AI",
+        "RSNA",
+        "醫療教育",
+        "AI認證"
+      ],
+      "author": "未標示（Radiology Business｜2026-09-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHFNVlh6dnFYeV9aMzNMNVBYT1R4MjFnX2NVLWEwSlRydk9xRDlxQmU4enBGZEVoa2hyNGFXU1h5SElJQkhacnExdWxzUll1WDVRaXJTR2tRaWhINlM5OHBHNWdYaHBacEFwYVkwS0dKejVCaG90TWIwVDUtWHhmNXpqSU1YcHZHMV9mX1JmOUszbVh2Q3c0c3RVdEE0aWVGTGdoY0VhdFpsYXNSVFBRX2Rkakw0TlpfZ3c?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "善用 AI 需先備「關機預算」：pharmaphorum 呼籲醫療機構為 AI 下線情境預先規劃",
+      "summary": "pharmaphorum 刊出評論指出，醫療機構在積極導入 AI 的同時，往往忽略了「AI 系統若需緊急停用」的應變成本與機制。文章援引多起 AI 代理人失控事件及系統性偏誤案例，強調醫療 AI 的部署應同步規劃「退出策略」，包括備援流程、人工接管方案及相應的人力與資金儲備。作者認為，缺乏「關機預算」的醫療 AI 導入本質上是將機構暴露於不可控風險之下。此觀點與近期國際間醫療 AI 治理討論高度呼應，提醒醫院領導層在評估 AI 投資報酬時，必須將系統中斷風險與復原成本納入完整的風險管理框架。",
+      "tags": [
+        "AI治理",
+        "風險管理",
+        "醫療AI部署",
+        "應變規劃"
+      ],
+      "author": "未標示（pharmaphorum｜2026-09-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wVHhtWEZ3U3AzVV9DanNoWkVMVHlzYW1qcE8tZDN4SzY3dGxRYS1SaThRQm9DOC1mLVoyWllCbHI3OFplV0hXRVNUM2N1S2FPc1hVeUJoZTR3MFFkLXg3Z25Xc3AxMWF3aEhoR25UZE1UWk83Q0E?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "AI 是否真正創造科學突破？MIT Technology Review 深度反思 Anthropic 生物實驗室的發現意義",
+      "summary": "MIT Technology Review 發表深度分析，探討「AI 何時算是真正完成科學發現」的核心問題，以 Anthropic 今年初啟動的分子生物學實驗室為主要案例。Anthropic 的 Claude 代理人在閱讀大量生物學文獻後提出假設，由人類科學家執行實驗加以驗證，最終發現了病毒中類 CRISPR 的 DNA 序列。文章指出，這種「AI 假設、人類驗證」的模式是否構成真正的「AI 科學發現」，學界存在根本性爭議。對醫學研究領域而言，此議題直接影響未來 AI 輔助藥物研發、基因組學及生醫研究的功勞歸屬、倫理規範與資金分配方式，具有深遠的政策與學術影響力。",
+      "tags": [
+        "AI科學發現",
+        "生物醫學研究",
+        "Anthropic",
+        "研究倫理"
+      ],
+      "author": "未標示（MIT Technology Review｜2026-09-29）",
+      "source_url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "韓國亞洲大學研究團隊以 AI 肺結核偵測系統奪下 MICCAI 挑戰賽冠軍",
+      "summary": "韓國亞洲大學（Ajou University）研究團隊在 2026 年 MICCAI（醫學影像運算與電腦輔助介入）國際挑戰賽中，以自主開發的 AI 肺結核（TB）偵測模型奪冠。該模型針對胸腔 X 光影像進行深度學習訓練，在敏感度與特異性指標上均超越其他參賽隊伍。肺結核仍是全球重大公衛威脅，尤其在低中收入國家放射科醫師資源嚴重不足，AI 自動偵測工具的臨床意義不容小覷。MICCAI 挑戰賽為全球醫學影像 AI 領域最具公信力的競技平台之一，此次得獎成果預計將推動相關技術加速進入臨床驗證與商業化階段，對放射科 AI 工具採購評估具有參考價值。",
+      "tags": [
+        "醫學影像AI",
+        "肺結核偵測",
+        "MICCAI",
+        "放射科"
+      ],
+      "author": "未標示（Korea Biomedical Review｜2026-09-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KcjFzSzFTdnpmdWh4bEdNMy13dC1fXzVOMW1mWGVuZzFTbVRtVDNsRnotdzBEaERUbnBRLTZzam9OcjBfRU9LQUFNcUU1Z1U0Q1NtRkF1NkpGb3B4MF8ySElfTlBPQk1FeTJHcmJn0gFyQVVfeXFMTU1xRUllUl9SYkNfMy13VE5XNWVtS0ZWQVR0cXJFRDlFZEdsWlA1Sm5uZEtaTjJEU0hnZnoySFJmT2JvMkRvRWtCSEYxNXZBUjNGTEVwc2pENHF1R3NWbkx0Z0FyeEJJRmY4RHFnUWo0aC1B?oc=5"
+    }
+  ]
+}
