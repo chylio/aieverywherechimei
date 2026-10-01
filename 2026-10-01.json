@@ -1,0 +1,145 @@
+{
+  "date": "2026年10月01日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "放射科 AI 授權數量年增 42%，監管環境持續演進",
+      "summary": "根據 Radiology Business 最新報導，放射科 AI 產品的監管授權數量在過去一年內大幅成長 42%，顯示 FDA 對影像診斷 AI 的審查流程逐漸成熟，市場擴張速度加快。隨著核准工具數量持續攀升，醫療機構在選購與導入放射科 AI 解決方案時面臨更複雜的評估壓力，包括如何區分不同授權等級的工具效能、確保上市後監控機制到位，以及與現有 PACS 工作流程的整合挑戰。監管環境的快速演進也意味著醫院需建立持續追蹤法規更新的能力，避免使用未及時更新合規狀態的 AI 工具。此一趨勢對放射科、資訊部門及採購決策者均具有直接參考價值，需系統性規劃 AI 產品生命週期管理。",
+      "tags": [
+        "放射科AI",
+        "FDA授權",
+        "法規監管",
+        "影像診斷"
+      ],
+      "author": "未標示（Radiology Business｜2026-09-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGFxV1hJbkI4WXRDOWdXTjdaT29FRnlWS3NjTTVoRzIzLWg1VnI4Q3M4bHlHTVpOVlg3TURJZDc2dzg0THNIYzFqeUV5b2d0a1hha3dKZGh3RnhYVFVxR29kZmNfUm5uOHdiT2hVMXk0dnRLLVRObS1ucjYwLU5qcExTWE1CeWZ3cUpYVmpPVl85bHdScTQ4NkI4blBpNGdqVGN2R21ack9MMnpPandmT213U2Q0WGZOQjR5VXllUnM5Zlk?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 9.0,
+      "title": "HHS 與 ARPA-H 宣布以 AI 加速擴大臨床試驗規模，正面迎戰中國競爭",
+      "summary": "美國衛生及公共服務部（HHS）聯合 ARPA-H 宣布啟動 SURPASS 計畫，目標透過人工智慧技術加速臨床研究流程、擴大試驗規模，以強化美國在全球生醫研究的競爭地位，特別是應對中國日益增強的臨床研究能力。該計畫將探索 AI 在試驗設計、患者招募、數據分析及監管申報等環節的應用，期望大幅縮短藥物與醫療器材進入臨床的時程。此舉不僅代表聯邦政府正式將醫療 AI 列為國家策略工具，也預示未來臨床試驗生態將加速數位轉型。對於國內醫院及學術醫學中心而言，此政策動向可能帶動 AI 輔助試驗工具的研發需求，並影響未來與政府或跨國研究機構的合作模式。",
+      "tags": [
+        "臨床試驗AI",
+        "ARPA-H",
+        "政策法規",
+        "數位轉型"
+      ],
+      "author": "未標示（STAT News｜2026-10-01）",
+      "source_url": "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "score": 8.8,
+      "title": "Ortet 攜 5 億美元資金入場，宣示醫療 AI 進入重量級資本競賽",
+      "summary": "醫療 AI 新創公司 Ortet 宣布以 5 億美元承諾資金正式啟動，成為近期最受矚目的醫療 AI 創投案例之一。此次融資規模顯示全球投資機構對醫療 AI 商業化潛力的高度信心，亦進一步加速既有醫療 AI 公司在技術研發、市場拓展與人才競爭上的壓力。Ortet 的具體應用方向雖尚未完整揭露，但其鎖定醫療場景的定位預示未來將與既有 EHR 廠商、臨床決策支援平台及放射科 AI 業者形成競合關係。資本大規模湧入意味著醫療 AI 市場正從早期驗證階段邁向規模化商業部署，醫療機構在評估合作廠商時需同步考量供應商財務穩定性與長期經營能力。",
+      "tags": [
+        "醫療AI投資",
+        "新創融資",
+        "產業動態",
+        "商業化"
+      ],
+      "author": "未標示（The Pharma Letter｜2026-10-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa21mVjl6eC1NYUxmWE85RE1wbURlaXVEdUlGTFdqaXVvNkxKMzNWZmxBb2dLc1QwWVZXejF4M3hrckhuOTBmejJHLUVoOGh1NEFMZkVIc2VCQzJLZzFCMEZfN0E0Z3QxTnd0eURsRDhuSTdDZFQxU05VT1MwSlVfbzFBSHVhODBocHZCSDg1enM3cXRSeTlJeXRLRFBnVEJINVVBczJjbw?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.5,
+      "title": "近半數醫療 AI 計畫止步於試驗階段，擴展至全院部署挑戰重重",
+      "summary": "Scientist Live 引述最新研究指出，近五成的醫療 AI 導入計畫未能突破概念驗證（PoC）或試驗（Pilot）階段，無法順利擴展至全院規模部署。主要障礙包括：資料品質與整合問題、臨床工作流程相容性不足、缺乏可量化的臨床價值指標，以及院內 AI 治理架構不完整。此一發現與近期多份產業報告的觀察吻合，即醫療機構雖積極投入 AI 探索，卻普遍面臨「試驗陷阱」——難以從小規模測試轉化為可持續、可擴展的系統性應用。報告建議醫院在啟動 AI 計畫前應先建立清晰的成效衡量框架、利益相關者共識機制，以及明確的退場與迭代計畫，以提升 AI 投資的實際轉化率。",
+      "tags": [
+        "AI導入挑戰",
+        "試驗擴展",
+        "醫院管理",
+        "AI治理"
+      ],
+      "author": "未標示（Scientist Live｜2026-09-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOblAwZTM3R1JpSEl4VjU5eXJtTkEtWnZmS3NVN0ZMWlpyZHlmWUU3SEEwU3dMMGlNTXZIRWlpX1ZJSXUyZEotMkZrdDJsc09mYnRZTGdGSFEwMHpSaUQ1ZEJ2YjFVdHQ3OS0tRllQNzczSnN6S002Uk9DWGdYMDliTFJ5NlNPOWxNeklaTjMxZE9XMktiRG5RT2o1ZzloNms?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 8.2,
+      "title": "OpenAI 基金會斥資 250 億美元投入生命科學，目標以 AI 攻克疾病",
+      "summary": "Nature 專訪報導，OpenAI 基金會生命科學負責人 Jacob Trefethen 透露，該組織已正式啟動、掌握高達 250 億美元研究資金，並將治療疾病列為核心使命之一。OpenAI 基金會的介入代表科技巨頭以非營利形式深度切入醫療研究領域，與 DeepMind、Google Health 等形成新一輪競合格局。其研究方向涵蓋藥物開發、疾病機制解析及 AI 模型在生物醫學的基礎應用，預計將與學術醫學中心、製藥廠及監管機構展開廣泛合作。此舉對全球醫療 AI 生態系的影響深遠，可能重塑醫學研究資金流向，並推動 AI 在基礎醫學研究中的應用深度遠超現有臨床輔助決策工具。",
+      "tags": [
+        "OpenAI",
+        "生命科學",
+        "AI研究投資",
+        "藥物開發"
+      ],
+      "author": "未標示（Nature｜2026-09-30）",
+      "source_url": "https://www.nature.com/articles/d41586-026-03015-0"
+    },
+    {
+      "rank": 6,
+      "score": 8.0,
+      "title": "AI 醫療的「末日」預言：核心危機或許不是自主化，而是信任崩解",
+      "summary": "MedCity News 刊登一篇由 ICU 醫師兼新創公司 CMO 撰寫的深度分析，作者指出醫療 AI 的最大風險並非外界常討論的「AI 取代人類決策」，而是醫療機構優先以 AI 追求效率最大化，卻讓醫護人員陷入更繁重的合規與行政負擔，進一步惡化人機信任關係。文章強調，若 AI 工具的設計邏輯僅服務於機構利益（如降低成本、加快周轉），而非真正減輕臨床端的認知負荷與決策壓力，則 AI 的大規模導入反而可能加劇醫師倦怠、降低照護品質。作者呼籲醫院領導層在推動 AI 轉型時，應將「醫護人員信任度」與「患者安全」列為優先評估指標，而非單純追求效率指標。",
+      "tags": [
+        "醫療AI倫理",
+        "臨床信任",
+        "AI導入策略",
+        "醫師倦怠"
+      ],
+      "author": "未標示（MedCity News｜2026-10-01）",
+      "source_url": "https://medcitynews.com/2026/09/ais-healthcare-doomsday-it-may-be-less-about-autonomy-than-trust/"
+    },
+    {
+      "rank": 7,
+      "score": 7.8,
+      "title": "AI 放射科訓練工具問世：自動辨識住院醫師學習缺口並提供補強方案",
+      "summary": "PR Newswire 報導，一款針對放射科住院醫師設計的 AI 訓練輔助工具正式上線，能夠自動分析學員的判讀紀錄，識別知識與技能缺口，並動態生成個人化補強課程。此工具結合大型影像資料庫與自適應學習演算法，可追蹤學員在不同影像類別（如胸部 X 光、CT、MRI）的表現趨勢，並對指導教師提供視覺化績效報告。對於面臨放射科人力短缺與訓練資源不均的醫療機構而言，此類工具有望縮短住院醫師培訓時程、提升判讀一致性，同時為教師提供更客觀的評核依據。此一應用方向亦呼應 RSNA 近期推動放射科 AI 教育體系升級的整體趨勢。",
+      "tags": [
+        "放射科教育",
+        "AI訓練工具",
+        "住院醫師培訓",
+        "自適應學習"
+      ],
+      "author": "未標示（PR Newswire｜2026-10-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdGFaT203aDBDZ3JyYUV4a1JsckF6c0pmTE5wQktEV0l0LTRyYUhZWDAxRGxwc3NvalMtb0NscTFSRXBFQnZkZWNLRmJaNVdfRU5TLXZvZWs1M0hxbUNQTThmWGxPaWl3UFhieFhadGcyN1pSdWFwSEgwSzN2UVkxd3lmamhlbVRWUVNRTGpLYjI1anZYNVdIRjdMZjJjMDNKMkZOekRGN3JCZ2QtSWdEbVh5Yng1MVRU?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.5,
+      "title": "台北市聯合醫院打造「逆轉腎」AI 門診，整合糖尿病、心臟病與腎病跨科照護",
+      "summary": "工商時報報導，台北市立聯合醫院榮獲臺灣 AI 卓越獎，其「逆轉腎」AI 門診以人工智慧整合糖尿病、心臟病與慢性腎病的跨科數據，建立以患者為中心的連續性照護迴路。該系統透過 AI 模型分析病患的多項生理指標與用藥紀錄，主動預警腎功能惡化風險，並協調內分泌科、心臟科與腎臟科的聯合介入時機。此一模式將原本分散於各科的照護流程整合為單一 AI 驅動的管理平台，有效降低患者因資訊碎片化而導致的照護落差。此案例對有意推動多科整合型慢性病 AI 管理的醫療機構具有重要的本土實踐參考價值。",
+      "tags": [
+        "台灣醫療AI",
+        "慢性病管理",
+        "跨科整合",
+        "腎臟照護"
+      ],
+      "author": "未標示（工商時報｜2026-09-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zWVYzLVFsZGd4UVV1TEdlSEdyMXVkWXJRaWl4ZUNlc0lycVQ0NURzQTVFQXNTbTlkM1NmcHhiWjB6UnNUd1lzVjZLYWNsYUh1ZHRCcTU3QTRQelNaMVFV?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 7.3,
+      "title": "GE 醫療新設首席 AI 官，強化全球醫療 AI 應用戰略佈局",
+      "summary": "商傳媒報導，GE 醫療（GE HealthCare）宣布設立首席 AI 官（Chief AI Officer）職位，由此正式將 AI 治理與應用策略提升至最高管理層級。此舉標誌著全球最具規模的醫療影像設備商之一，正式將 AI 能力內化為核心競爭要素，而非僅作為輔助功能。首席 AI 官的設立預計將統籌 GE 醫療旗下影像設備的 AI 模型開發、監管合規策略、與醫院客戶的 AI 共創計畫，以及跨部門的數據治理架構。對於採用 GE 醫療設備的醫院而言，此人事佈局可能加速其設備端 AI 功能更新頻率，並帶動更緊密的廠商合作關係，值得採購與資訊部門持續關注。",
+      "tags": [
+        "GE醫療",
+        "首席AI官",
+        "企業治理",
+        "醫療影像"
+      ],
+      "author": "未標示（商傳媒｜2026-09-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNTndmdS11VXRrcHJlUDczek1QU0F4dVBwOUV3Njd0X2xXS2xtTXVERzVTTExCTUFwZFkxSzJ6Tlk0bDF6cEZZZ1RQcjJHMmJCVnJMMUF4dUEzcUgydW5uYkhHVUdad25McVNnQ21PbVBEbGpKWUZmWU93c29Ud3hPMklVdGFUYk5xdlVhNVZIT3UzT2ZUWEtvZmFrQ095bDg1UG4yNWRJX21rTkk5bVNDdFFueVp1Yi1rXzdMUU91U09OTmwwclYxdG94a29DdXdremQwcTVoSzlXVUpLb0pLSFIwNnQxZE54YjJHNkx6ek9VVHNFNnNBazRGVWdiZUw5QlVBN3hGZUZKRy1PbTZXdzhiQlhkemNKbDFmaVFTNUppelhOV3BUbk80YjVmUXJiQVB3Sk9wWjQ2R0NVTVdraUtqbUpIT3JyWUhRNllkNUlLS3BxU0RhUFRiVQ?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 7.0,
+      "title": "鴻海攜手北榮布局醫療 AI，以「細胞底稿」讓 AI 提前偵測心臟風險",
+      "summary": "鏡報報導，2026 醫療健康論壇中，心臟外科醫師何啟功呼籲醫療體系從「等發病才搶救」轉向「提前預防」的照護典範。他與鴻海的合作方向聚焦於運用「細胞底稿」（細胞層級的基因與生理資料）建立個人化 AI 模型，目標讓 AI 在心臟疾病症狀出現前即能辨識潛在風險訊號，實現真正意義的精準預防醫學。鴻海北榮戰略合作（另據同論壇報導）已斥資 3 億元推進相關佈局，顯示台灣科技產業與頂級醫療機構的合作正加速從概念走向實作。此一發展對心臟科、基因體醫學及 AI 預防醫學領域均具有重要的產業觀察價值。",
+      "tags": [
+        "台灣醫療AI",
+        "心臟外科",
+        "預防醫學",
+        "鴻海"
+      ],
+      "author": "未標示（鏡報｜2026-10-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03anB4cHNRRUlFNXJWRlVRRF9IRlVKYVI3NHJ1ZmZnXzdGX0tXS01mWlJmZ2Y1STVUd2NZVU80TkJ3bG9OM2h6cEh5X1d5Sm1yS3c?oc=5"
+    }
+  ]
+}
