@@ -1,0 +1,117 @@
+{
+  "date": "2026年10月03日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "放射科 AI 部署後監控關鍵策略：確保臨床安全與效能持續優化",
+      "summary": "隨著放射科 AI 工具在醫療機構大量部署，上線後的持續監控已成為維護患者安全與工具可靠性的核心挑戰。本文探討放射科 AI 部署後監控的關鍵策略，涵蓋效能漂移偵測、資料分佈變化監控、演算法失敗模式識別，以及建立臨床回饋迴路等面向。專家指出，許多醫療機構在 AI 工具通過採購與初步驗證後，往往缺乏系統化的持續追蹤機制，導致演算法在真實臨床環境中表現下滑卻未能即時察覺。文章建議應建立自動化效能儀表板、定期與放射科醫師進行案例審查、設定臨界值警示機制，並將上市後監控納入 AI 治理框架，以符合 FDA 對軟體即醫療器材（SaMD）的持續監管要求。此議題對正積極擴展醫療 AI 應用的醫療體系而言具有高度參考價值。",
+      "tags": [
+        "放射科AI",
+        "部署後監控",
+        "AI治理",
+        "醫療器材法規"
+      ],
+      "author": "未標示（diagnosticimaging.com｜2026-10-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRW5OLUZKY3NUR2dKRFl1TnMtQTM1QnVKTmx2S1gtUUs0MmdSMTV4RFo3czlNVjdPd0hWbHVXeWVFNmNMQUFwRFBVeGRoX2dvY0hFUjFPUC1mYnU5QlRkNmw1enhxcHJUQUpvY3lxMXpCLXNqNHdLRDZJeUNTRWNWZlZqRE5NRGtNeGNfMUpB?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "台中榮總 AI 智慧醫療獲獎：30 秒篩骨質疏鬆、每年減少 6 萬次抽血",
+      "summary": "台中榮總因其 AI 智慧醫療創新應用榮獲大獎，展示出兩項具高度臨床應用價值的成果。第一項為骨質疏鬆 AI 篩查系統，僅需 30 秒即可完成初步篩檢，大幅縮短傳統評估流程；第二項為 AI 輔助血液檢查優化系統，透過演算法判斷哪些患者可以免除重複抽血，實現每年減少約 6 萬次不必要的抽血檢查，顯著降低患者負擔並釋放醫療資源。此案例展示台灣公立醫學中心在 AI 落地應用方面的具體成效，不僅驗證了 AI 在效率提升與患者體驗改善上的可量化效益，更提供其他醫療機構推動智慧醫療轉型的實證參考。對正規劃 AI 落地應用的醫療體系而言，此類具可重複性與可量化效益的案例具有極高借鑒意義。",
+      "tags": [
+        "台灣醫療AI",
+        "骨質疏鬆篩查",
+        "智慧醫療",
+        "臨床效益"
+      ],
+      "author": "未標示（自由健康網｜2026-10-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01ZDVJZV9GUDRORkhmZ1Z2TE5qNzZyYzliMWpiWnlqbHZCcC1XM3FuWnhNcVAwVXBRSm5pdl83MW5sNlRrMVhHcHhpNXpsR2RIcDhNR0JKcl9rNkx2RUstUUR5WFM?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "長庚醫院創立 50 周年醫學週：聚焦 AI、精準醫療與再生醫學三大創新方向",
+      "summary": "長庚醫院舉辦創立 50 周年醫學週，總統賴清德親臨出席，活動聚焦 AI 醫療、精準醫學及再生醫學三大核心主題，象徵台灣指標性醫學中心正式宣示邁向智慧醫療新時代。本屆醫學週匯聚國內外跨領域專家，探討 AI 技術在癌症診療、基因體醫學及細胞治療等前沿領域的整合應用，並展示長庚過去數年在數位轉型、大數據分析與 AI 輔助診斷方面的階段性成果。活動同時探討台灣醫療體系如何在全球 AI 競爭格局中取得戰略定位，以及公私協力推動醫療 AI 生態系建立的路徑。此次高規格醫學週顯示台灣頂尖醫療機構已將 AI 轉型列為核心戰略，對整體醫療產業的影響值得持續關注。",
+      "tags": [
+        "台灣醫療AI",
+        "長庚醫院",
+        "精準醫療",
+        "智慧醫療"
+      ],
+      "author": "未標示（ETtoday健康雲｜2026-10-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlc2M2SS14YzNsa2xoTFgwbDJtd01sQWk5TjdHRS1iN25Rc1hoSEJPMGp3U0g4eUNJRFJrNDRMN21tYnNjY2h1Vjg4WFNpX0VO0gFPQVVfeXFMT1ZsZk5DQVljYjh3c3BzMDFoWWZWQ2p2XzNGT0pJR1llRU9yaXNTczBEMGNCVlBXS0pNTWNqU2U5TmhmUmtLMmNxSzJsdDZPOA?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "The Lancet 評論：Anthropic 安全科學家警告 AI 十年內滅絕人類風險逾 10%，醫學界應如何回應？",
+      "summary": "《The Lancet》刊載評論文章，聚焦 Anthropic 安全科學家 Evan Hubinger 在社群媒體上發表的言論——他估計 AI 在未來十年內造成人類滅絕的機率超過 10%。文章以醫學視角切入，探討臨床醫師長期以來如何透過疾病自然史與隨機對照試驗預測預後，並對照這種「預測文化」討論 AI 風險評估的方法論困境。作者指出，醫學訓練本身提供了一種處理不確定性預言的框架，但 AI 風險的複雜性遠超傳統疾病模型。文章呼籲醫學界不應置身事外，而應積極參與 AI 安全討論，共同建立符合人類福祉的 AI 治理框架。此評論反映頂尖醫學期刊開始正視 AI 存在性風險議題，對醫療機構領導層思考 AI 戰略具有背景參考價值。",
+      "tags": [
+        "AI安全",
+        "AI治理",
+        "醫療AI倫理",
+        "The Lancet"
+      ],
+      "author": "未標示（The Lancet｜2026-10-03）",
+      "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01979-3/fulltext?rss=yes"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "NHS 活動人士發起「反 Palantir 日」行動，批評英國國民健保署與科技巨頭的數據合約",
+      "summary": "《The Lancet》世界報導指出，英國社會活動人士針對 NHS（英國國民健保署）與美國科技公司 Palantir 所簽訂的數據合約，發起大規模抗議「行動日」，引發廣泛關注。批評者擔憂，Palantir 的合約賦予其存取大量患者健康數據的權限，潛在的隱私風險與商業利益衝突尚未獲得充分說明與公眾監督。此事件凸顯醫療機構與科技公司合作時，數據主權、患者隱私保護及透明度等議題的社會高度敏感性。Palantir 已深度參與多個國家的醫療 AI 與數據整合項目，此次英國民間反彈對全球醫療數據治理辯論具有指標意義，也提醒各國醫療體系在推動 AI 數據合作時，應重視公眾信任建立與監督機制設計。",
+      "tags": [
+        "醫療數據治理",
+        "NHS",
+        "患者隱私",
+        "AI倫理"
+      ],
+      "author": "Talha Burki（The Lancet｜2026-10-03）",
+      "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01982-3/fulltext?rss=yes"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "鴻海 AI 智慧醫療進軍長照：三大場域啟動實證計畫",
+      "summary": "鴻海集團宣布將旗下 AI 智慧醫療解決方案正式延伸至長期照護領域，並在三大長照場域同步啟動實證計畫。此舉標誌台灣科技巨頭從急性醫療跨入長照服務市場，意圖以 AI 技術解決台灣高齡化社會的長照需求缺口。三大實證場域涵蓋居家照護、機構式長照及社區型服務，將導入 AI 監測、風險評估及照護排程等功能，測試 AI 在非急性照護環境中的可行性與效益。鴻海此前已與台北榮總等醫療機構合作心臟疾病 AI 監測項目，此次進軍長照是其醫療 AI 生態系建構策略的重要延伸。對台灣醫療體系而言，科技產業深度介入長照 AI 化值得密切追蹤，其商業模式與臨床整合模式將影響整體產業發展方向。",
+      "tags": [
+        "台灣醫療AI",
+        "長期照護",
+        "鴻海",
+        "高齡化照護"
+      ],
+      "author": "未標示（自由財經｜2026-10-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PMTFoc2tFRTBxQ0QtY0luTVQ0UUg4dVZvRU5TdUZnbFliODBwOUxUWDFXS3ZNbmlER1U3dzA3V2dMWDFGUDFrOVQ5UjgweVRkZW1pX2JnbDlIcU8zbjk40gFkQVVfeXFMTWhoVjdHbXNLbWxiQVM4QjctTDR2Vm0tYlNEVWVzb2o4eEVfTnE0TkY3T045V3pXZklYNGZyb2dNS2ZOZ3k1aDZ3SXlXRXgydTZfZlNvNm4wZzBxUEhMVERObWlMdw?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "RFK Jr. 的醫療 AI 言論引發醫師強烈反彈，醫療 AI 公共辯論持續升溫",
+      "summary": "美國前衛生部長 RFK Jr. 針對醫療 AI 的相關言論引發醫師社群強烈批評，進一步點燃醫療 AI 在公共政策層面的辯論熱度。批評者指出其論述缺乏科學依據，可能誤導大眾對 AI 輔助診療工具的認知，並干擾醫療 AI 監管政策的理性討論。此事件折射出醫療 AI 領域目前面臨的複雜公共溝通挑戰：一方面技術快速發展、臨床應用日益廣泛；另一方面公眾對 AI 診療的信任度、安全性疑慮與政治化論述相互交織，使得政策制定更加困難。醫師團體的集體反彈顯示，臨床社群對醫療 AI 的論述主導權高度敏感，也凸顯醫療機構在推動 AI 應用時，必須同步建立清晰的公共溝通策略與患者教育機制。",
+      "tags": [
+        "醫療AI政策",
+        "公共溝通",
+        "AI信任",
+        "醫師立場"
+      ],
+      "author": "未標示（Fierce Healthcare｜2026-10-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOHRnMWZ6VzFhNkZ3QzFkUFFOOE1lMXdhTmk0b3R5WTc0QWZVUUVkUXgtM0wtZFpJSG5TWDF1WGoySFljbXN4X0VNdWhTX1ZmY25qUVhZSzVkbGhBbzN5dHhNNnVlVUJKdnJwaWhBYVFvSXVDQTVnYlBnT05adEg3cVVNVkRSZzZsZWJ1WG9RVHd5VnBiTS1oMnNwYksxQW4zS3UtaGhZYzVqVnp4b0FlVGUteXJfcXJ2Y0o1a3I0RHQ0dWtpYVAw?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "亞東醫院 AI 轉型雙料獲獎，智慧醫療能量持續提升",
+      "summary": "亞東紀念醫院在 AI 智慧醫療轉型方面獲得雙項大獎肯定，展示台灣區域醫學中心推動數位轉型的具體成效。亞東醫院近年積極導入 AI 技術於臨床診療流程，涵蓋影像辨識、臨床決策支援及病患管理等面向，並建立系統性的 AI 治理與評估機制。此次雙料獲獎不僅肯定其在技術應用層面的成就，更反映其在組織變革與跨部門協作上的整合能力。對台灣醫療體系而言，中型醫院成功實踐 AI 轉型的案例尤具參考價值，顯示智慧醫療並非大型醫學中心的專利，而是不同規模機構均可透過策略性規劃實現的目標。此案例對正處於 AI 轉型規劃階段的醫療機構具有實務借鑒意義。",
+      "tags": [
+        "台灣醫療AI",
+        "亞東醫院",
+        "智慧醫療轉型",
+        "AI獲獎"
+      ],
+      "author": "未標示（引新聞｜2026-10-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSDF3RlZYTXpwaFZYUEtLeTExd1ctRllIWnFCaUUtTVVsZEJSVlRYWWN1WUlCNWVrTFFtRDZCU3VvZE51VkZYajBSUUlJZ0xudUZwSThHWjRmSkVQblRPVTJCUDZMeDFUQVF4VC1Qc3l0d0dkbjIyN0FCSUs2cmxzdjZzN2JkamV5a0d4Ynh4aEJueTA1X1BTbE1vMUgyZmtIenB2VUh5VzRWWTloQnRFa1Q3OFVBU0ZUOHRwaU9BY1BfQ0R5bHhQMWdIQUxqakRPcmpEN0tuWmtqYnEzRUxpd2VIeFBHbmtBOGVSZU1xLXVUWjZ2TERtMnU1TFYwTUVObXdvekJ1YVZOamk2Mjh2VHFRU2xSUQ?oc=5"
+    }
+  ]
+}
