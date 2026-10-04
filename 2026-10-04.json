@@ -1,0 +1,70 @@
+{
+  "date": "2026年10月04日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 7.5,
+      "title": "AI攻破澳洲政府醫療網路，資安專家示警醫療體系防護拉警報",
+      "summary": "澳洲政府醫療資訊網路遭到 AI 工具滲透，資安專家對此發出嚴重警告。此事件揭示醫療體系在數位化與 AI 導入加速的背景下，面臨的資安漏洞風險日益嚴峻。攻擊者利用 AI 技術大幅提升入侵效率與精準度，使傳統防火牆與身份驗證機制難以有效抵禦。醫療資料因含大量敏感個人健康資訊，歷來是駭客攻擊的高價值目標；一旦系統遭入侵，不僅涉及病患隱私洩漏，更可能影響臨床作業連續性與診療安全。專家呼籲各醫療機構應重新審視現有資安架構，特別針對 AI 驅動攻擊模式進行演練與防禦升級，並建立跨部門的資安應變機制。此案例對正積極推動智慧醫院與雲端化的亞太地區醫療體系而言，具有高度警示意義。",
+      "tags": [
+        "醫療資安",
+        "AI攻擊",
+        "數位風險"
+      ],
+      "author": "未標示（商傳媒｜2026-10-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNaFdxbVhZVmxVZ1hwUFBBc24tR2R6OS1KemFPZDU4TEM3bDdKZldPb1B1MmVlbFVZUGFqUHJLWU1TeFZObC1zajJubndxbW1XM0xlcUotR1NhWE9EMnZ6bVgxbmlDU2tHbWdXeWs5MHN6YmFWMXhBWm5qTmxQeHdDQ09oOENKdEJDcFdPZERqbm45a0lIWDZsdThuNzBCMmRMaTR5Q3dtcVh5c0J2bDltY3FVMmFDUTJheVlzMHR0VGVmZkNzMElfVFpPZWJ4UWJQaklqT0pZc1FHUmtwRnV2M216UEpJdFVVZ2ZCbjZNSHRXOEJvXzRqVjBqZ0hXSFdmcWRYMlBZTk1sRURPQkRxMTdiS2JfeU1XQkF6RTFQbjNRcktfb0VPb3kxS09JXzlJemdGYW40c1djY0dyeGpvUXhRbnZGSEJ4bXZwdlJjNWxBa2l6?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 7.0,
+      "title": "醫療 AI 為何「高分低能」？香港深度剖析 AI 醫生的落地困境",
+      "summary": "香港01 推出「AI 醫生」系列報導，第一篇聚焦探討醫療 AI 系統在學術評測中表現優異、臨床實際應用卻頻頻失靈的核心矛盾。文章分析 AI 在真實醫療場域中面臨的多重挑戰，包括訓練資料與實際病患族群的分布落差、模型在邊緣案例的泛化能力不足、臨床工作流程整合困難，以及醫師對 AI 建議的信任度與接受度問題。報導同時指出，許多醫療 AI 產品在受控研究環境中達到甚至超越人類專家水準，但在面對多樣化、複雜化的真實病人時，準確率往往大幅下降。此現象提醒醫療機構在評估採購 AI 工具時，不應僅以論文數據為依據，更需要在本地臨床環境中進行嚴格的驗證測試，方能確保病患安全與系統效益。",
+      "tags": [
+        "醫療AI落地",
+        "臨床驗證",
+        "AI可信度"
+      ],
+      "author": "未標示（香港01｜2026-10-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaDBsWlZUSkpzMDlsT2pjUlg0R2ZESzYtQ0VCbkh4QWw2Y01URnRFMGpab0xDTlJfdTZRS203bGRMTzFBWjFVQkFLNzh1VXFKb1dHdUo0OTI4S243MnJkc0RNalNKcWZCZV81SmhFT0REeXBMZGhZcFI5dnNOWWM0dUJIQmpIbnl2STZwTHBGNjhfMWMzZDFCbmVrclhjNGNqQUZidzl4XzJxNUFyVl9VdHVmZjVCckFxOVUzdUNvQXpsYUpqMk80MXRQN0JCalFYTENUNVdMSzVRNHpxSUdjbHVMdHJrTWloT0UzYWpoRjg1dXo3VUtyR0xOUHFiQmtCb1U?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 6.5,
+      "title": "AI 醫療應用是得力助手還是新增負擔？香港系列報導第二篇深度探討",
+      "summary": "香港01「AI 醫生」系列第二篇延續前篇議題，進一步探討醫療 AI 在臨床實務中究竟是提升效率的工具，還是反而增加醫護人員工作量與認知負擔。報導訪問前線醫護人員，呈現他們對 AI 輔助系統的真實感受：部分醫師認為 AI 能有效縮短診斷時間、提升報告品質；但也有醫護人員反映，需要額外時間核對 AI 建議、處理誤報，反而延長作業流程。文章同時探討 AI 導入後的責任歸屬問題，以及醫師培訓如何因應 AI 工具的普及。對於正在評估或已部分導入 AI 系統的醫療機構而言，本文提供了來自臨床第一線的寶貴反饋視角，有助於更全面地規劃 AI 整合策略與使用者體驗設計。",
+      "tags": [
+        "醫療AI應用",
+        "臨床工作流程",
+        "醫護負擔"
+      ],
+      "author": "未標示（香港01｜2026-10-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOdEpMWWV5Wmg1cW1fQ05zZEVHZ1RUOVZfajlhY09rTy1uVEZPb2hzd3RiM2hrR3dleFRuU2hnQ2ZBUnJEWTRBZldoc01mc0gxYzBfeUEyU3AzT2dxbUVkR29GR2JKMzNvTXVGZnJPSUl5VkQzOEVuTkg1cWtKZzRGZ3paeUhvV1llUTJjZ0MteWI0R3cwb0NyOG1iOXdNQ1RuN29BUHd4YThFb0JPaTVEc09VSmQ5TmZwcmprbVZJUzdXdEl0UjBuM1h4bjVVRVUwS1ZnRVRleHhjdDdON1NCT0Zlclk2MEtxTjBQMVMzZUxHLXgyT09qVXZJbzNMcFp0aVk5dEJVb0JvYTZxZ1N2LWVIOFg2ZUtVTnlmeTZZVlhDRmVLeV9PSVFpYnJGemZDQkllRUE2UlZRdm9TdjlpSUZlemlBbTZlbmIwUlhxRXh6dTFGWmxQNQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 6.0,
+      "title": "健康保險業者藉 AI 節省數百萬醫療費用，報告揭示成本控制新效益",
+      "summary": "根據最新報告，美國健康保險業者透過導入 AI 技術，在醫療費用管理上成功節省數百萬美元。AI 系統被應用於理賠審核、異常費用偵測、重複計費識別及治療方案適切性評估等環節，大幅提升稽核效率並降低不必要的醫療支出。報告指出，這類 AI 工具不僅能快速處理海量理賠資料，更能識別人工審核難以發現的模式性浪費與疑似詐欺行為。然而，業界同時注意到此類技術若應用不當，可能演變為不合理拒絕理賠的工具，引發醫病之間的糾紛與信任問題。對醫療院所而言，了解保險公司 AI 審查邏輯，有助於在申報醫療費用時提供更完整的臨床證據，避免不必要的理賠拒絕與行政往返成本。",
+      "tags": [
+        "健康保險",
+        "AI費用審核",
+        "醫療成本控制"
+      ],
+      "author": "未標示（Cleveland.com｜2026-10-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3dGN1NIZkRBNThaWHcweHJERmczcHZPcU03N09CMy12ZkJaU2hvdEVPZElLM1JlUGdlcE5Wa2hjSmZCaDhOVS1KQlNtWGRjTnJvRjRyS2tpLTd0MFlPZ0x6Y2NzbTNPeEVOclFURDZWQ1lfODBtRFJFRS1TMUVfb1Z5S3BNa005RXZrOEFSajFjaW1mbGxnbjZwTVFWRi1EUzdaZExLZmZJWkpYaWfSAcIBQVVfeXFMTkEyem81Vi0tVExhZzJlUVk1YWVxODJJRnpINmExd2ZsdTZaYVc2MXYtX1ZId0tDcnRsT3pJRk93U2FGZWg5VURnOXhPTS1lT2xKbTg0OGdUYkotalI4bEpqS2VBSmFQRTZuSnE0TF9aQ294UVlFVHZNNWp1T2RtRWlpOGF4NjFVNWwyaTNQRWZqaWIyUU9xTFRkTF80RGtyQ2piT2IwM196ZjZNbjRvQkVicDBPRlVpaDlId0tidUdfWUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 5.0,
+      "title": "Parakeet Health 完成 1,000 萬美元 A 輪融資，打造對話式醫療 AI 代理平台",
+      "summary": "醫療 AI 新創公司 Parakeet Health 宣布完成 1,000 萬美元 A 輪融資，本輪由 Canvas Ventures 領投，Blank Space Ventures、StoryHouse Ventures 及 HMC INQ 共同參與。該公司致力於開發「對話式 AI 代理平台」（Conversational Agentic Platform），目標是透過自主 AI 代理處理醫療行政溝通、病患互動排程及照護協調等高頻繁但低複雜度的業務流程，以減輕醫護人員的行政負擔。此類 Agentic AI 平台代表醫療 AI 從單純的輔助決策工具，進化為能夠自主執行多步驟任務的新世代應用型態。隨著 AI 代理技術在醫療領域的滲透加速，此次融資亦反映出投資市場對於醫療行政自動化解決方案的高度興趣與資本信心。",
+      "tags": [
+        "醫療AI新創",
+        "對話式AI",
+        "行政自動化"
+      ],
+      "author": "未標示（MedCity News｜2026-10-03）",
+      "source_url": "https://medcitynews.com/2026/10/parakeet-health-secures-10m-for-conversational-agentic-platform/"
+    }
+  ]
+}
