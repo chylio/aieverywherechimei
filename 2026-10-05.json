@@ -1,0 +1,33 @@
+{
+  "date": "2026年10月05日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 7.5,
+      "title": "醫院 AI 設備大量上線，卻多數未經嚴格測試——安全性隱患引發警示",
+      "summary": "根據 Earth.com 報導，目前醫療 AI 裝置已廣泛部署於醫院臨床環境，然而其中大多數設備在正式投入使用前並未通過完善的臨床驗證與安全性測試。報導指出，這些未受充分測試的 AI 工具涵蓋影像診斷、臨床決策輔助等多個高風險應用場景，若在未驗證的狀態下運作，可能對病患安全造成潛在威脅。專家呼籲醫院管理層與監管機構應建立更嚴格的上市前評估標準，並要求廠商提交真實世界臨床效能數據，以確保 AI 工具的安全性與有效性。這一問題也凸顯現行 AI 醫療器材監管框架的不足，在 FDA 授權數量持續攀升的背景下，如何確保每項工具均符合臨床安全要求，已成為醫療體系數位轉型過程中的核心課題。",
+      "tags": [
+        "醫療AI安全",
+        "監管驗證",
+        "臨床部署",
+        "AI醫療器材"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-10-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjNYVUhMUVEtQXRaNHJaWGxqT1VIWmljcHN4S091bmJsNWRYUFNvNzN1MDVPUFF5SHJjcS1CTjJ2OVZ3WnozQTNEaGNTSWxaTkNFRmNfa2UyMDFsdDFPQjBjSTBGMjBleno2NmxSdTZXZUlGVERJZ0htYm9VOW0xbmZmNEFwV2FYWi0xSW0xN1J2YXJER3BtUTdoN3prQUE2aTE5cGRqNnI?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 6.0,
+      "title": "醫療隱私主管借助 AI 強化資安監控與資料外洩調查效能",
+      "summary": "在近期一場以隱私為主題的研討會上，醫療資安與隱私領域專家深入探討 AI 在醫療數據安全中的應用潛力。與會者指出，AI 工具能顯著加快資料外洩事件的偵測與調查速度，並提供傳統方式難以達到的深度分析洞察，協助隱私主管更精準辨識高風險行為與異常存取模式。然而專家同時強調，醫療機構在引入 AI 強化資安能力的同時，也必須審慎評估 AI 本身帶來的新型隱私風險，包括模型訓練數據的合規性、演算法偏差可能導致的誤判，以及與第三方 AI 供應商共享敏感數據的法律責任等議題。整體而言，AI 被視為提升醫療資安防護的有力工具，但需配套完善的治理框架方能有效管控伴隨而來的新興風險。",
+      "tags": [
+        "醫療資安",
+        "隱私保護",
+        "數據外洩",
+        "AI治理"
+      ],
+      "author": "未標示（MedCity News｜2026-10-04）",
+      "source_url": "https://medcitynews.com/2026/10/healthcare-privacy-leaders-look-to-ai-to-improve-monitoring-and-data-breach-investigations/"
+    }
+  ]
+}
