@@ -1,0 +1,117 @@
+{
+  "date": "2026年10月06日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "FDA 核准 AIRS Medical AI MRI 體組成分析工具，精準影像診斷再添利器",
+      "summary": "FDA 於 2026 年 10 月 6 日正式核准韓國醫療 AI 公司 AIRS Medical 開發的 MRI 體組成分析 AI 工具，可自動從 MRI 影像中量化肌肉、脂肪等身體組成成分，為臨床提供客觀且可重複的量測數據。體組成分析在腫瘤學、代謝疾病、老年醫學及術前評估等領域具重要參考價值，過去需仰賴人工標註或專用 CT 掃描，耗時且輻射劑量較高。此工具整合至 MRI 流程後，可在不增加輻射暴露的前提下同步取得體組成資訊，有助於提升診斷效率並支援個人化治療決策。FDA 的核准代表該工具通過安全性與有效性審查，對醫院放射科及相關臨床科別導入 AI 影像分析具重要政策信號意義，亦顯示 MRI 輔助 AI 工具的監管路徑日趨明確。",
+      "tags": [
+        "FDA核准",
+        "MRI影像AI",
+        "體組成分析",
+        "放射科"
+      ],
+      "author": "未標示（Unite.AI｜2026-10-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaUR2Sm1fQWpYcmFmaU9NLVlURjVNRElZNi0xTHRXN0Z3dm13SE15Ql9GVG1XQlNrandEZ2FBZHRVOHY4S3VmblJMNzhlOVVzd2xtdVFDU1FJZm9FUEI3SDBxUUZWVGNBQ0FzNWFQVmhDcUtWVzhPd2l4SmVZZ3pfd1ZJcnZHU3Bmb05wMFFZUWM2dw?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "猶他州擴大醫療 AI 沙盒計畫：AI 可直接評估病患並開立處方，無需人工事前審核",
+      "summary": "美國猶他州宣布擴展其醫療 AI 監管沙盒計畫，新增處方開立與女性健康兩大應用領域。最受矚目的是，此次計畫允許特定 AI 產品在無需醫師事前審核的情況下，自主評估病患狀況並開立新藥處方，打破現行醫療 AI 輔助決策的常規框架。猶他州同時宣布引入第三方稽核機制，以確保 AI 工具的安全性與合規性。此舉是美國州級醫療 AI 監管實驗的重要里程碑，意味著部分臨床決策權正式向 AI 系統開放，在提升醫療可近性的同時，也引發醫療責任歸屬、患者安全與監管充分性的高度爭議。這一政策走向對各國醫療主管機關與醫院法遵團隊具有重要的參考與警示價值，值得持續追蹤後續影響。",
+      "tags": [
+        "醫療AI監管",
+        "AI處方開立",
+        "沙盒計畫",
+        "政策法規"
+      ],
+      "author": "未標示（STAT News｜2026-10-06）",
+      "source_url": "https://www.statnews.com/2026/10/05/utah-expands-health-ai-sandbox-picks-third-party-auditors/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "德州大學啟動 2,500 萬美元醫療 AI 治理計畫，建構負責任 AI 應用框架",
+      "summary": "德州大學宣布啟動一項規模達 2,500 萬美元的醫療 AI 治理倡議，旨在建立系統性的 AI 責任框架、評估標準與最佳實踐準則，以支持醫療機構負責任地部署人工智慧工具。此計畫將聚焦於 AI 系統的透明度、可解釋性、公平性及臨床安全性等核心議題，並計劃與醫院、政策制定者及技術開發商協作，共同制定適用於醫療場域的 AI 治理規範。在醫療 AI 快速擴張、監管框架尚未完備的當下，此類大型學術機構主導的治理研究計畫具重要意義，其研究成果有望成為醫院 AI 導入評估與風險管理的重要參考依據，對醫院領導層及數位轉型團隊的政策制訂具直接參考價值。",
+      "tags": [
+        "AI治理",
+        "醫療AI責任框架",
+        "學術研究",
+        "政策法規"
+      ],
+      "author": "未標示（distilledpost.com｜2026-10-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2FJQ2RoWU9RTXJ6eTZCbWR6U2lobDN2aGx4T0V0U3BnZ2JDMzNNc05qU3ZOTUFfb3dmcjNCTjY5VWMzUjlxWXBvZTJ3M2dMTTc5MFlpZjVPRXZyRzJMWVdSdzc4YU1fV1YzemlaTDdDZ1NvSHlLb3pWZWJVX3FiQXhyMWJiU3lQSjlQVG5BZlp3RS0tUG1IOE5RVzlUbUJmT2J6WmNB?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "AI 皮膚病灶分類工具整合至醫院臨床工作流程，從設計到落地的實踐經驗",
+      "summary": "最新研究報告描述一套專為醫院臨床環境設計的 AI 皮膚病灶分類工具，該工具從開發之初即與臨床工作流程深度整合，而非事後加裝。研究團隊針對皮膚科實際診療流程進行分析，確保 AI 輸出結果能無縫嵌入現有電子病歷與診療決策環節，降低臨床使用摩擦。此案例呈現了醫療 AI 工具「以使用者為中心」的設計理念，強調技術開發與臨床需求同步對齊的重要性。皮膚病灶分類為 AI 影像辨識的重要應用場域，此工具的整合策略與實際部署經驗，對計劃引入皮膚科或其他影像輔助診斷 AI 的醫院資訊與臨床團隊具備直接參考價值，亦提供了一個從需求分析到工作流程落地的可複製模型。",
+      "tags": [
+        "皮膚科AI",
+        "臨床工作流程整合",
+        "影像辨識",
+        "AI落地實踐"
+      ],
+      "author": "未標示（medicalxpress.com｜2026-10-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGlNZndhSElEUTF3bGJCeTBlWWdVVGd0MFdWMUJOV3k5azRHdmZIdWdReUozT2lsekNGVEFsa2NtSl8ySVRHeTg4clI5YnBvMXluLThEUzBzemdCQWJFQWVGNWZSemVtZ2tqNHpqSDNOT093NG9jZVExb29CWFZfNQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "海鞘仿生 AI 突破聯邦學習瓶頸：醫院模型訓練不再洩露患者資料",
+      "summary": "研究人員受海鞘（Tunicate）群體協作機制啟發，開發出一種新型聯邦學習演算法，可在多家醫院協同訓練 AI 模型時，有效防止患者個人健康資料外洩。傳統聯邦學習雖已能在不集中原始資料的前提下進行模型訓練，但仍存在梯度洩漏等隱私風險。此仿生演算法透過模擬海鞘的分散式訊號傳遞機制，強化了各節點間的隱私保護能力，同時維持模型的學習效能。在醫療 AI 跨機構合作日益普遍、各國資料隱私法規持續收緊的背景下，此技術突破對醫院資訊部門在規劃多中心 AI 研究合作及資料安全架構時具重要參考意義，亦為醫療 AI 的隱私合規問題提供了新的技術解法。",
+      "tags": [
+        "聯邦學習",
+        "患者隱私",
+        "醫療AI安全",
+        "跨院合作"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVNDdWFCa0liaXJGR0prS1hfTTh2alpwdnhJdmFVYTlHUUd2MlFEV2Z0Rm1HT3BxekswYzlYLW44NGd0d3RzX2Y0cU00RHBnTUFtcWM1aHhYaHVKSnRldHR2MU55c0RlbXVSMUFHWmhaMEFpWllEYWcwRnJPT284c0NpOVhHTUJiSnZQX3kxMVdvOW1MN3VsOFFjYk1rVjVRMExWOVdyMmJkUQ?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "台灣 AI 3D 醫療影像技術：從一週縮短至半小時，台大醫院拚 2028 年全院導入",
+      "summary": "台灣自主研發的 AI 3D 醫療影像重構技術近日獲得廣泛報導，核心突破在於將原本需耗時一週的 3D 影像重建流程大幅縮短至約半小時，顯著提升精準手術術前規劃效率。台大醫院宣示目標於 2028 年完成全院導入，配合「醫療元宇宙」概念，將 3D 影像與虛擬實境技術結合運用於臨床教學與手術模擬。國內廠商智捷同步宣布計劃於 2028 年前將此系統推廣至全台 29 家醫學中心，並積極備戰 2027 年興櫃。衛生福利部石崇良署長出席相關大會並表態以政策支持台灣智慧醫療國際化，此一產官學合力推進的態勢，顯示台灣在醫療 AI 影像領域的自主技術能量正持續提升，對國內醫學中心的影像科技採購策略具參考意義。",
+      "tags": [
+        "台灣智慧醫療",
+        "3D醫療影像",
+        "手術導航",
+        "醫療元宇宙"
+      ],
+      "author": "未標示（UDN｜2026-10-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SbDVhSjBXbzFaM2V1dWNLLUIwMjlPeWl5RjRUN1Y1eEdEM2VnYVJxZWtyeVp3d19PQWRoS0JvMlNad04wd2owNjVlUllTLXFkaWtjVnJ30gFWQVVfeXFMTlJsNWFKMFdvMVozZXV1Y0stQjAyOU95aXlGNFQ3VjV4R0QzZWdhUnFla3J5Wnd3X09BZGhLQm8yU1p3TjB3ajA2NWVSWVMtcWRpa2NWcnc?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "亞東醫院攜手板橋醫療園區，結合 AI 與遠距醫療打造「無藩籬醫院」",
+      "summary": "亞東醫院宣布與板橋醫療園區正式簽約，啟動以 AI 與遠距醫療為核心的「無藩籬醫院」建設計畫。此一模式旨在突破傳統醫療服務的空間限制，透過 AI 輔助診斷、遠端監測與數位化照護平台，將醫療服務延伸至院外社區，提升醫療可近性與持續照護能力。在台灣高齡化社會與長照需求持續增加的背景下，此類結合智慧醫療與場域延伸的創新模式具重要示範意義。亞東醫院此前已連續獲得智慧醫療相關獎項，此次計畫進一步展示其在 AI 應用落地與院外服務整合方面的持續佈局。對國內有意推動院際合作或社區醫療 AI 應用的醫療機構，此案例提供了可參考的整合架構與實踐路徑。",
+      "tags": [
+        "遠距醫療",
+        "無藩籬醫院",
+        "台灣智慧醫療",
+        "社區照護AI"
+      ],
+      "author": "未標示（蕃新聞｜2026-10-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGUWxSRW1YODhqZUFhMElyTE81Q2NJVkM3TS1Kdk50R2JLS3p1YjN3SkE1MHQxSV9aeVV4MVR3MzVvVndXNHI0QWo1elJIelpKUGc?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 5.5,
+      "title": "Nature 社論：AI 生化武器炒作不應分散對現實生物安全威脅的關注",
+      "summary": "《Nature》發表社論，適逢美國炭疽攻擊事件 25 周年，呼籲社會各界不應過度渲染 AI 在生物武器開發方面的潛在威脅，以免分散對現實生物安全風險的防範資源與注意力。文章指出，當前對 AI 生化危害的恐慌情緒在缺乏實證支撐的情況下快速蔓延，反而可能阻礙合理的生命科學研究監管框架建立。社論強調，確保生物安全的關鍵在於維持強健且受妥善監管的生命科學體系，而非對 AI 採取過度限制。此立場對醫療機構在評估 AI 倫理風險、制定 AI 使用政策時具參考價值，提醒決策者在回應社會輿論與制度性風險之間保持理性平衡，避免因誇大的 AI 風險敘事而影響正當的醫療 AI 應用推進。",
+      "tags": [
+        "AI生物安全",
+        "科技倫理",
+        "生命科學監管",
+        "Nature"
+      ],
+      "author": "未標示（Nature｜2026-10-05）",
+      "source_url": "https://www.nature.com/articles/d41586-026-03135-7"
+    }
+  ]
+}
