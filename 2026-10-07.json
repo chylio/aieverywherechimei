@@ -1,0 +1,145 @@
+{
+  "date": "2026年10月07日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "逾 1,300 項 AI 醫療器材已獲 FDA 許可，卻僅 3 項以病患結果為測試依據",
+      "summary": "一項最新研究揭示，美國 FDA 迄今已批准超過 1,300 項 AI 醫療器材，然而其中僅有 3 項在上市前完成以病患臨床結果為主要評估指標的嚴謹測試，其餘大多僅驗證技術準確性或影像辨識效能。研究人員指出，此一監管落差意味著大量 AI 工具已廣泛部署於臨床環境，卻缺乏足夠證據證明其能實際改善病患預後或降低醫療風險。此發現與近期多份報告所指「AI 設備上線缺乏嚴格測試」的警示相互呼應，引發醫療界對 AI 工具臨床驗證標準的廣泛討論。對醫院領導層而言，採購或導入 AI 醫療工具時，除關注監管許可狀態，更應主動要求廠商提供以病患結果為基礎的臨床證據，方能確保工具落地後真正有益於病患安全。",
+      "tags": [
+        "FDA監管",
+        "臨床驗證",
+        "AI醫療器材",
+        "病患安全"
+      ],
+      "author": "未標示（Yahoo｜2026-10-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaHkzYVh2WmRVTVNWNTRRRGNUb0NwVEFZMTFOa2ZuaW9MeS13bFNrOXpudnlqZ0ZxX28yQlozYTlXMi1haERWQ0dRb1VkVkw5YnZjaUJXVEJMZzA3TlpwTlEtUnBDQXYybU12ZHRTZHBXa2RiWVNzbGtwZjVwNFpzblJGb2FoLTg"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "英國推行新制：持續監測 AI 醫療設備，確保安全與創新並行",
+      "summary": "英國政府宣布採行新的 AI 醫療設備監管框架，核心理念從「一次性上市審查」轉向「持續上市後監測」機制。新制要求 AI 醫療器材製造商在產品獲批後，持續蒐集真實世界使用數據，定期向主管機關報告效能與安全狀況，一旦發現模型效能下滑或出現新風險，須即時進行調整或下架。此舉被視為全球 AI 醫療器材監管的重要參考標竿，尤其針對 AI 模型因數據分布漂移導致效能退化的問題，提供了制度性的應對機制。對照台灣目前醫療 AI 上市後管理規範仍在發展階段，英國此舉對台灣衛福部及醫療機構如何建立內部 AI 上線後風險控管流程，具有高度參考價值。",
+      "tags": [
+        "AI醫療監管",
+        "上市後監測",
+        "英國政策",
+        "法規治理"
+      ],
+      "author": "未標示（商傳媒｜2026-10-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNaVlsdHF5ei1POUVfUk8wb3l3RGE0S3M0bXZpOTRHVTRRZjdkZzUyTHNtbXV2dXlrVWNpRTZtNnBITU9DMk1fTWVlaW90dHVZeEFVMGtfSXJvQ1pVdkNfNWFOaVZYeE5mZUFDQTBXXzh5Q21qWHlPTWtZZnp1X2hZVGU1NTFHX2dVbGlPYzNhdFI5ZUplUy1VeXpTVnJuOVpXQWRyUF9NVGd4ajA1ZzdiVjJHZ3RfclllWjhpRWJnV0xyM3RVV0tpcEhQSGRjZlREV1VoOG1HRG5ETWFobDlmVUJVRWJiZUNRUEJPbU1UQUFnUGNEZjhkM0Z3cXBaUzUxWWhIVWF1al9aSDVTNDJZd2NLbXlTRHhFdmI4Z3JtWW4zXzIzelJMeVBTRQ"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "醫療 AI 導入速度超越價值驗證：ScienceSoft 報告揭示採購與成效脫節警訊",
+      "summary": "ScienceSoft 最新發布的醫療 AI 採用報告指出，全球醫療機構部署 AI 工具的速度已明顯超越其驗證實際價值的能力，形成「採購先行、驗證滯後」的結構性風險。報告顯示，許多醫院在缺乏完整 ROI 分析或臨床效益數據的情況下，即大規模引入 AI 輔助診斷、自動化行政或預測分析工具。這種現象雖短期內可展現數位轉型動能，但長期恐造成資源浪費、員工信任危機及病患安全隱患。報告建議醫療機構應建立標準化的 AI 價值評估框架，包含導入前的基準設定、導入後的持續績效追蹤，以及跨科室的使用者回饋機制，才能確保 AI 投資真正轉化為醫療品質提升。",
+      "tags": [
+        "AI採購治理",
+        "價值驗證",
+        "數位轉型",
+        "醫療機構管理"
+      ],
+      "author": "未標示（Rutland Herald｜2026-10-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQd1lwQjVZZkNLbTVOX2RWUDBGckVMaVp0QjJSZTQzaGdoWVpoeFBjcG1hbGRCVkQySnlkMEFNM2wzcEJNRlhpYUR6WE8xeTU4em9Oc1ZaNjd6T1FWS3I5anJkcDRkdXhadlZoUkoxTVQ5MnF0cUdLaEpGZVdCQWdIZWxscmFzS3FabjNaY3NWd1JiR2JEZWRhSjREWFJXcXdWNmV6YUtaMFhCUHRXSVU0SEdpZXQwSW1YVEpfZ2xOaGEzVWNidW8wT0NyT1Z5cEdwSVZIZVdaZkJtT0NCWGEzSmRnTTh1ZkFwRkNycVFVSjFYekJJWVVmSktFQ1E5bF9lWFE"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "醫療 AI 投資報酬比預期更快實現：最新調查帶來正向訊號",
+      "summary": "Endpoints News 引述一份針對醫療機構的最新調查顯示，AI 投資在醫療照護領域的回報速度正快於業界原先預期。受訪的醫院與醫療系統主管表示，AI 應用於行政流程自動化（如病歷摘要、帳務核對）、臨床決策支援及排班優化等面向，均出現比預期更早的效率提升與成本節省成果。調查指出，成功案例的共同特徵是：導入前有清楚的問題定義、設定可量測的 KPI，以及跨部門的協作推動機制。此報告為醫療機構的 AI 投資決策提供了正面佐證，但研究者也提醒，部分效益來自流程再造而非 AI 本身，需謹慎歸因，避免誇大 AI 的單獨貢獻。",
+      "tags": [
+        "AI投資報酬",
+        "醫療效益",
+        "數位轉型",
+        "醫院營運"
+      ],
+      "author": "未標示（Endpoints News｜2026-10-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObFVvejJPLVBKZ2Z0Q3FrcmY0eVBhZTFwODlnSkk3NU9JRDlQanp6OWduRW9kUUktZjhWbWN5S3pCRHA5dWpwSEdYWXcteFRJTGlOQ0RtSTVCVHBETWY3TzN2blZHQXhCcm55MmtvQ205M2xHN0pab1d2NmtmTUlPY1A1UDVfV0hFVy1FRW1ZWWNiMVlpMl9MMkRyNGswcnJQeW9F"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "三分之四 FDA 批准的 AI 醫療器材集中於放射科，研究揭示領域高度集中現象",
+      "summary": "由 GigHz 創辦人主導的最新研究分析 FDA 歷年 AI 醫療器材授權數據後發現，在所有獲批的 AI 醫療設備中，高達四分之三屬於放射科應用，包括 CT、MRI、X 光等影像辨識與分析工具。此一高度集中現象反映出 AI 在影像判讀領域具備較清晰的技術成熟度與可驗證性，相對容易達到監管標準。然而，研究同時指出，其他臨床科別如病理、心臟科、急診及初級照護等領域的 AI 工具核准數量仍相對稀少，顯示 AI 醫療應用的發展仍存在明顯科別落差。此研究對醫院規劃 AI 導入策略時具有重要參考意義，說明放射科是目前最成熟且監管驗證最完備的 AI 切入點。",
+      "tags": [
+        "放射科AI",
+        "FDA核准",
+        "AI醫療器材",
+        "影像診斷"
+      ],
+      "author": "未標示（PR Newswire｜2026-10-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdFZfT1NVcVR1MU41QlJxc1Vhd0hSOTVRNWdYeUcxZVlJbXpnWWhVQ1BTQjFzSjl3UDhmZGU3SlZvMDJva0JrZVUtazFRZ1lGeHJUQllUYzJ5alRRb1hxcXNkZ1YwMzNZTndsdkhuMHZNRk9SNjZORjIweF9hTXVPbGxmZ0szNVBpZG95YkdwYU4wZUxsUUtwU2JvMVpBeWtmWGMzMGxpVHBRTzRCbW4xZnptMUFta0xYTUktSWtoZlpOTl8zSWI0S0pWYktDS193bjdWQnRWcUhkdW94UHJnUFZjMTh4NUVWWlVjdm1Hem1nNjA"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "醫療 AI 為何會出事？從模型變更、PCCP 到上線後風險控管的完整解析",
+      "summary": "國家新創獎平台發布一篇深度解析文章，系統性探討醫療 AI 工具在臨床落地後可能引發安全事故的核心成因。文章指出，AI 模型的風險不只發生在研發階段，更常見於上線後的三大情境：一是未預告的模型版本更新導致效能改變；二是未依據 FDA 的預定變更控制計畫（PCCP）進行合規管理；三是缺乏系統性的上線後監測機制，無法及時偵測模型漂移或異常輸出。文章以具體案例說明各情境的風險型態，並提出醫院應建立的內部風控流程建議，包含版本控管、定期效能稽核與異常通報機制，對正在或計畫導入 AI 工具的醫療機構具有極高的實務參考價值。",
+      "tags": [
+        "AI風險控管",
+        "PCCP",
+        "模型監測",
+        "醫療AI安全"
+      ],
+      "author": "未標示（國家新創獎｜2026-10-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeS1ndFlTdnMwa1I5aVBNTnk0NGpXVFZNbzQzNmRRUXhxdXg5MS12ZFlvcDNCU1lyYnZ6WXAwS09CZ29TUHJsMzRlQ0pXYXhEdlMyN3ZJN09yQjAwdUJOODd2cndxYlRZTnZlNFNGT0c1bVFTT2xQUmtrWnpqOVFQVFZ3aktBMTNq"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "醫院面對 AI 驅動的網路攻擊威脅，資安專家呼籲超越傳統災難復原思維",
+      "summary": "在 Rubrik 醫療保健峰會上，多位網路資安領導人警示：AI 技術的普及已使針對醫院的網路攻擊手法大幅升級，傳統以備份與還原為核心的災難復原計畫已不足以應對新型威脅。專家指出，AI 驅動的攻擊可自動化偵測醫院系統漏洞、產生高度擬真的社交工程誘餌，並能在短時間內癱瘓包含 EHR、醫療影像系統在內的關鍵基礎設施。建議醫院將資安策略從「事後復原」升級至「事前韌性」，涵蓋零信任架構導入、AI 異常行為偵測部署，以及跨部門的資安演練，並特別強調在 AI 醫療工具快速擴張的背景下，每新增一個 AI 系統即代表一個潛在的新攻擊面，需納入整體資安治理框架。",
+      "tags": [
+        "醫療資安",
+        "AI攻擊威脅",
+        "災難復原",
+        "醫院資訊安全"
+      ],
+      "author": "未標示（MedCity News｜2026-10-07）",
+      "source_url": "https://medcitynews.com/2026/10/cybersecurity-experts-to-hospital-leaders-think-beyond-traditional-disaster-recovery-planning/"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "延世大學附設醫院開發 AI 模型，以 8 項術前指標預測急性腎損傷",
+      "summary": "韓國延世大學附設醫院（Severance Hospital）研究團隊發表最新成果，開發出一套能在手術前預測急性腎損傷（AKI）風險的 AI 模型。該模型僅需輸入 8 項術前常規指標，包含年齡、腎功能基準值、手術類型及用藥史等，即可於術前完成風險分層，協助臨床團隊提前規劃液體管理與麻醉策略，以降低術後腎損傷發生率。AKI 是外科手術後常見且嚴重的併發症，與住院延長、死亡率上升及長期腎功能惡化密切相關。此模型的術前預測特性使其具備高度臨床可行性，無需額外檢查即可整合至現有術前評估流程，對手術量大的醫學中心具有直接的臨床應用價值。",
+      "tags": [
+        "急性腎損傷",
+        "術前預測",
+        "AI臨床決策",
+        "外科安全"
+      ],
+      "author": "未標示（BigGo Finance｜2026-10-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uQmNhdWhXNTIzV2FaSkxycWtZakFXUXlXWDFQYnBXQjg1U19tbkYxMnVjNVRqWHh5Y2lEYlB1Vmk0TF85NUVJYmtmU0N0Y3dTbGQzbnhyOGVGVEF1SEp6Y2s1TVpFd01XX1lndktNclJ1NjI5UUE"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "馬偕醫院院長張文瀚揭露打造「病人數位分身」的三大關鍵策略",
+      "summary": "馬偕紀念醫院總院長張文瀚於近期媒體專訪中，深入說明醫院推動 AI 臨床落地的核心理念與實踐路徑。他提出建構「病人數位分身」的三大關鍵：第一是數據整合，需將病患長期的電子病歷、檢驗影像與生理監測數據統一整合為可分析的結構化資料；第二是臨床共同設計，AI 工具須由臨床醫師主導需求定義，避免資訊部門單方面開發；第三是信任建立，醫護人員對 AI 輸出的可解釋性要求必須被納入系統設計。張院長強調，AI 進入醫院不只是技術問題，更是組織文化與醫病信任的重建過程，數位分身的最終目標是實現個人化預測與預防醫療，而非取代醫師判斷。",
+      "tags": [
+        "數位分身",
+        "AI臨床落地",
+        "醫院數位轉型",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（三立新聞｜2026-10-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIdk5SQVpKMk9Jc3Z2ME1TU0NOV01JOUI5Q3I4OXQzSWFiZHpIaXltbl9USEVnVjdoVmtFSUg0eHNsa1EtZVRacUlvX0I"
+    },
+    {
+      "rank": 10,
+      "score": 6.0,
+      "title": "Vitalize 獲 3,100 萬美元融資，以 AI 驅動醫院人力排班作業系統規模化擴展",
+      "summary": "醫療人力管理新創公司 Vitalize 宣布完成 3,100 萬美元新一輪融資，將用於擴大其 AI 驅動的醫院人員排班與人力調度作業系統。該平台運用機器學習分析歷史排班數據、臨床需求預測與員工偏好，自動生成最優化排班方案，並能即時因應緊急人力缺口進行動態調整。醫護人員短缺已成為全球醫療體系的共同挑戰，自動化排班不僅能降低行政負擔，更有助於減少人力分配不均所導致的醫護過勞與照護品質下滑問題。Vitalize 表示，使用其系統的醫院平均可節省 15–20% 的排班管理時間，並顯著提升護理師的班表滿意度，此次融資將加速其在美國各大醫療系統的商業部署。",
+      "tags": [
+        "AI排班",
+        "醫護人力管理",
+        "醫院營運",
+        "新創融資"
+      ],
+      "author": "未標示（Fierce Healthcare｜2026-10-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTW9DNEs2TUNlUDhSREVNaDYyZjRtS2Vyc1RwMy1GejF2T2Q0QjRiUktFeHhWancxWTZ4elpFcW0xOTROY3U1WUFfVjdPaXZYd1dkcUk0VXFXbDd4WHIyLUtzOXdzTV9SRWFmWGRRTDlMdGdDNEwyci1teGtVYnZmQmZMWDdDTERUR1Nrckh0bGdTUTJCVFh0MDg4Y183NW5ZRlpMbE1BU044d1pFOFg2V0lKdk1MUGJ2VlVmbTMteWozM3N1YlBjMS0ycWU"
+    }
+  ]
+}
