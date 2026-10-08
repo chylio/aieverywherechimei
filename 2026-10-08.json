@@ -1,0 +1,131 @@
+{
+  "date": "2026年10月08日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "NHS英格蘭東南區大規模部署 Skin Analytics AI 皮膚癌篩檢，創 NHS 自主醫療 AI 最大規模上線紀錄",
+      "summary": "NHS英格蘭東南區正式大規模推行 Skin Analytics 公司的 AI 皮膚癌自主篩檢系統，此次部署規模為 NHS 史上最大宗自主醫療 AI 落地案例。該系統可在無需人工事前審核的情況下，對可疑皮膚病灶進行自動影像分析與分類，協助初步篩選高風險患者，大幅縮短轉診等候時間。此舉不僅代表英國公共醫療體系對自主 AI 臨床決策工具信任程度的重大提升，亦為其他國家公立醫院導入自主 AI 診斷系統提供重要參考先例。對於醫療資源有限、皮膚科專科醫師人力不足的醫療機構而言，此類大規模 AI 部署的成效數據將是未來政策制定與採購決策的重要依據。",
+      "tags": [
+        "皮膚癌篩檢",
+        "自主醫療AI",
+        "NHS",
+        "影像診斷"
+      ],
+      "author": "未標示（Google News-Medical AI｜2026-10-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPeDVLdWplYVVDQWM5Vm05S05kemVod3MzWUYxSGNLVjNZMElfSnJCSEhuWXhPQ2o5YmhIaDhJYzd1SFA0T00tcjM4ZnpMWUlhcHBkRVpFZFBadzhIclQ5MzVOSUJzR2c1OHdtUndVeEQwTU9felR6WU1ldWk5RWU1c2ZYVWVMRGo4a25FblZJNmFMT0t3NTQzVjJsaE82T1pPQzJ2NEV6b0IwaVhhNFJ2N1JtOTk1TVpJSEtOT3Y3dEM5S29XUDhDemJJUG5IZzlsaHhveFBDY05tZnNYR3B3WWs1NnVDZWMxOXpkeFotZUdCWlZMdEgtd2JBU2p5V1JlT0lDUDV5cmtBZzBmRk03S3hxM05sdw"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "猶他州 AI 醫療沙盒與 FDA 監管衝突浮現：August AI、Nolla Health 等新增試點引發法規爭議",
+      "summary": "美國猶他州持續擴大醫療 AI 沙盒計畫，新納入 August AI 與 Nolla Health 等業者，並引入第三方評估機構強化監督機制。然而據 STAT News 深度報導，由於沙盒允許 AI 直接評估病患並在特定情境下開立處方，其運作模式已與 FDA 現行醫療器材監管框架產生潛在衝突。部分試點應用在 FDA 尚未明確監管路徑的灰色地帶運作，引發聯邦與州層級法規管轄權的爭議。對於有意跟進類似模式的醫療機構與數位轉型團隊而言，此案凸顯了在採納創新 AI 臨床決策工具前，釐清法規定位的必要性，亦提示「沙盒試點」並不等同於取得 FDA 上市許可。",
+      "tags": [
+        "法規監管",
+        "醫療AI沙盒",
+        "FDA",
+        "臨床決策"
+      ],
+      "author": "未標示（STAT News｜2026-10-07）",
+      "source_url": "https://www.statnews.com/2026/10/07/utah-sandbox-health-ai-pilots-and-fda-regulations-ai-prognosis/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "score": 8.2,
+      "title": "Teladoc Health 於虛擬診療平台整合無接觸生命徵象偵測與 Ambient AI 病歷書寫功能",
+      "summary": "Teladoc Health 宣布在其醫院與醫療體系專用的 Solo 智慧照護平台中，新增兩項 AI 功能：一為無接觸式生命徵象即時偵測，可透過視訊影像分析估算病患心率、呼吸率等基本生理數值；二為 Ambient AI 自動病歷書寫工具，能於虛擬診療過程中即時轉錄並整理醫師與病患對話，自動生成結構化病歷草稿。這兩項功能旨在降低臨床人員的行政負擔，同時提升遠距就診的資料完整性。對於已部署或評估引入虛擬照護平台的醫療機構而言，此次更新代表 Ambient AI 技術正加速從住院病房向虛擬診療場域延伸，值得持續關注其臨床驗證數據與整合成效。",
+      "tags": [
+        "虛擬照護",
+        "Ambient AI",
+        "病歷書寫",
+        "遠距醫療"
+      ],
+      "author": "未標示（MedCity News｜2026-10-08）",
+      "source_url": "https://medcitynews.com/2026/10/teladoc-health-adds-contactless-vitals-and-ambient-ai-scribe-to-virtual-visit-platform/"
+    },
+    {
+      "rank": 4,
+      "score": 7.8,
+      "title": "Healthleap 完成 3,800 萬美元融資，以 AI 自動標記住院高風險病患擴大臨床部署",
+      "summary": "AI 患者監測新創公司 Healthleap 宣布完成逾 3,800 萬美元融資，計畫以此加速在醫院端的規模化部署。該平台透過持續分析電子病歷、生命徵象及護理記錄等多元數據流，自動識別病況可能惡化、需要加強關注的住院患者，並即時發出警示通知臨床團隊。此類「早期預警 AI」的核心價值在於協助護理人力有限的病房優先分配照護資源，有助降低非預期轉入加護病房或院內緊急事件的發生率。本輪融資金額顯示投資人對住院監測 AI 市場的高度期待，也反映醫療機構對此類工具的採購意願持續升溫。",
+      "tags": [
+        "住院監測",
+        "早期預警AI",
+        "融資",
+        "病患安全"
+      ],
+      "author": "未標示（TechCrunch｜2026-10-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaE1WZ0JoOGdUdTVRRVdtUVNSS3lmZWtOS3RoQy1POFVfMmtOV1l0WlJJUjZpQk0yUkcwUkY3UDV0eHZqb21VNXpQX3RPeWpDdDdzUnBCQV9wNnFpVjloS2NjX0hJbWh4QlRXcHRIYzkxYU9wVjZNWmh3SjhYVlZwQ2ltRlJKaE5lWXJ4Yl8yQUFGU0NyYnR4VWxWaWx3VHZkalZudXFnRnFwZExjLUJsX1dYR1IwNWdFU3hXQXFCeVM"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "NTT DATA 與 TwHealth Nexus 攜手合作，推動台灣醫療 AI 數位轉型國際化",
+      "summary": "NTT DATA 與台灣醫療 AI 機構 TwHealth Nexus 宣布正式合作，目標是將台灣在醫療 AI 領域的研發能量與 NTT DATA 的全球數位基礎設施整合，共同推進台灣醫療 AI 解決方案的國際化布局。合作範疇涵蓋醫療資料標準化、跨院 AI 模型協作訓練，以及將台灣本土 AI 醫療應用拓展至亞太乃至全球醫療市場。此合作案對台灣醫療 AI 生態系而言具有重要的外部信號意義，顯示國際大型科技企業正積極尋求與台灣醫療機構及 AI 業者建立策略聯盟，有助提升台灣醫療 AI 在國際標準與合規框架中的能見度。",
+      "tags": [
+        "台灣醫療AI",
+        "國際合作",
+        "數位轉型",
+        "NTT DATA"
+      ],
+      "author": "未標示（NTT, Inc.｜2026-10-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkMEU3VTNwTElPY2dXbFN4VWZGWmRyYXRYckVGYWNjQkItQ3hZa1V0RXhUd0pkbmJEYjk4R0F2Y3pET2FKaXdGdUZlano0R0pFR1pLYXlLNHZkQ2ZfTzM5Z3ZyNUpua2FWUzdHUnI2RjV1ODU1X0RS"
+    },
+    {
+      "rank": 6,
+      "score": 7.3,
+      "title": "HOPPR 與 CARPL.ai 結盟，開放放射科 AI 基礎模型供醫療機構自訂微調",
+      "summary": "放射科 AI 基礎模型開發商 HOPPR 與 AI 模型評估及部署平台 CARPL.ai 宣布策略合作，將整合雙方技術，讓醫院及醫療機構能夠存取放射科專用基礎模型，並依據自身臨床需求進行微調訓練與效能驗證。此合作模式旨在降低各機構自建放射科 AI 的技術門檻，同時透過 CARPL.ai 的標準化評估流程確保模型上線前的品質管控。對於有意強化自有放射科 AI 能力、但缺乏大量標注資料或 AI 工程人才的醫院而言，此類「基礎模型即服務」合作架構提供了一條更具彈性的導入路徑，值得影像醫學科與資訊部門共同評估。",
+      "tags": [
+        "放射科AI",
+        "基礎模型",
+        "模型微調",
+        "影像診斷"
+      ],
+      "author": "未標示（PR Newswire｜2026-10-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX2NzS1dJSVpUdE1VemxpSENPX1Y2OEtDWlQ1YnJIX3BacWlRQkNRLVR6QnBpSVZBQU1pMW91WDNPYjU2NnFmUjNESzZubFUtaV9LQk5obUhqanYwNVQ0VEpVa2gxUWpLMHVyZ3JyQUxXU21lQjhNOTlzWlFkTzcwemlTalZhdGtxNU5IWUoyV1hleDRFREhTTkhCRjdsSlVYZENLMnA0VnRDMktVYXpBc1laTDRpclJvUnNRNWVSMl9HTVdIU3BnWnU5bHFkbGhpWWZBd2xmR2R0RDhGdjNpWUhSdzZaTXJ3VFhUQlRUOFJVZzVaOHBkY0hoMmpDQQ"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "臺大醫學院攜手 AMD 推進醫療 AI 跨域研究，強化硬體與臨床應用協作",
+      "summary": "臺灣大學醫學院宣布與半導體大廠 AMD 展開合作，共同推進醫療 AI 跨域研究計畫。此合作聚焦於利用 AMD 的 GPU 及 AI 加速運算架構，支援醫療影像分析、基因組學運算及大型醫療語言模型等高運算需求應用。雙方將結合臺大醫學院的臨床資料資源與 AMD 的硬體研發能量，探索更高效能的 AI 醫療解決方案。此案是台灣頂尖醫學學術機構與國際晶片業者深化合作的具體案例，對於關注 AI 醫療算力基礎建設與本土產學合作生態的醫療機構及政策制定者，具有重要的參考意義，同時也反映出台灣在全球醫療 AI 供應鏈中積極布局的策略方向。",
+      "tags": [
+        "臺灣醫療AI",
+        "產學合作",
+        "AI運算",
+        "AMD"
+      ],
+      "author": "未標示（DIGITIMES｜2026-10-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaWZ2czBhaFpnNU1BZVlQZERmdE0wYlphQ1RKTlpUMzU2a21LY0U3ZV9vcjhLM2g4amJsVFZ3VU1LUTN2MUY3M1VYdjQ2Q19pLU55THZtVkpUOUZXbXV1RGN0X3BjVTRhQ2dFRVF0c2ItTFZkUHVBcWoxMjVhMkRJeE9idVRlelRXdVY1VF93"
+    },
+    {
+      "rank": 8,
+      "score": 6.8,
+      "title": "衛福部健保署副署長顏家瑞：AI 科技驅動健康台灣，健保大數據開啟精準照護新願景",
+      "summary": "衛福部中央健康保險署副署長顏家瑞於專題演講中，闡述 AI 科技與健保大數據整合的政策願景。健保署累積逾 30 年、涵蓋全國 2,300 萬人口的醫療記錄，被視為推動精準照護、疾病預測與醫療資源優化的重要數據資產。顏副署長指出，透過 AI 分析健保資料庫，可實現慢性病高風險族群的早期識別、不必要住院的預防，以及醫療費用的合理分配。此演講對醫院管理層及資訊部門具有直接政策參考價值，顯示台灣健保 AI 應用正從研究階段邁向實際政策工具，未來可能對醫院績效評核與給付機制產生影響。",
+      "tags": [
+        "健保大數據",
+        "精準照護",
+        "政策",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（中央社 CNA｜2026-10-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BdXh2Q2dnZnNJcF9xZ2JnTmFDLTNQZTlsTmY2cXdNZmNpdXMwXzdyV0dFam5CYW9JeE01R0tJRk11NlFpYmROWDlnVGFRN2NYaFJz"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "醫療 AI 治理需持續警覺：Cotiviti 報告揭示 AI 就緒指數與實務落差",
+      "summary": "由 Cotiviti 贊助的網路研討會及相關報告指出，醫療機構在 AI 治理層面普遍面臨「就緒度高估」的問題。根據「醫療 AI 就緒指數」調查，許多機構雖已部署 AI 工具，但在模型監控機制、資料品質管控及臨床決策透明度等治理關鍵環節仍存在明顯缺口。報告強調，AI 治理不應是一次性稽核，而需建立持續性的監測與問責機制，涵蓋模型漂移偵測、偏誤審查及臨床效益定期評估。對於已導入或規劃引進 AI 臨床輔助工具的醫療機構，此份報告提示建立完整治理框架的迫切性，與近期英國及美國監管趨勢一致。",
+      "tags": [
+        "AI治理",
+        "醫療AI就緒度",
+        "模型監控",
+        "臨床AI"
+      ],
+      "author": "未標示（MedCity News｜2026-10-07）",
+      "source_url": "https://medcitynews.com/2026/10/constant-vigilance-is-the-watchword-for-healthcare-ai-governance/"
+    }
+  ]
+}
