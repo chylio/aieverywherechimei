@@ -1,0 +1,145 @@
+{
+  "date": "2026年10月09日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "Google AMIE 醫療 AI 於《刺胳針》研究中展現臨床問診潛力",
+      "summary": "Google 開發的對話式醫療 AI 系統 AMIE（Articulate Medical Intelligence Explorer）最新研究成果發表於《刺胳針》期刊，展示其在模擬臨床問診情境中的表現。研究顯示 AMIE 在病史採集、鑑別診斷推理及溝通品質等面向達到接近或超越部分全科醫師的水準，引發醫學界對 AI 輔助診療應用的高度關注。《刺胳針》作為國際頂尖醫學期刊，其刊登代表此研究具備嚴格同儕審查背書，對於醫院評估 AI 輔助臨床決策工具的科學依據具重要參考價值。此研究亦引發關於 AI 問診系統在真實臨床場域部署的倫理、準確性及法規監管討論，為醫院資訊與臨床部門評估導入對話式 AI 提供重要學術基礎。",
+      "tags": [
+        "臨床決策支援",
+        "對話式AI",
+        "刺胳針研究",
+        "Google AMIE"
+      ],
+      "author": "未標示（The Tech Buzz｜2026-10-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1laNzU5SzJnQWdrRFp1NzNOUFZNS1FhQTQyX05uRjVISkRrcWRlcWdSZ1FXcnVwcmNWb0lHaDFiSGJzNGoxZGJzRVpINndZLTFqczdmSjFhTHpVNVFiTHdEal9aaXJ3bkNiQmYyQUlCNW91WWFqRVBmZHdmQnhxR0lDdDBXZ0J0TWR2aEYxQWY"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "FDA 研擬「醫師啟發」監管方案，強化醫療 AI 安全治理框架",
+      "summary": "美國食品藥物管理局（FDA）針對醫療 AI 安全疑慮，正積極研擬以「醫師臨床判斷模式」為參照基礎的新型監管方案。此方案旨在建立更貼近臨床實務的 AI 器材審查標準，要求 AI 系統在做出診療建議時須具備可解釋性與可問責性，類似醫師須對診斷結果負責的機制。此監管思路的提出，反映 FDA 對現行 AI 醫材審查框架不足以因應快速演進的臨床 AI 應用之體認。對於醫院採購或自行開發 AI 診療工具的決策者而言，此方向意味著未來送審標準將更嚴格要求臨床證據與透明度，相關資訊部門與法規遵循團隊應提前掌握此政策走向，調整產品開發與採購評估策略。",
+      "tags": [
+        "FDA監管",
+        "醫療AI治理",
+        "法規政策",
+        "臨床AI安全"
+      ],
+      "author": "未標示（蕃新聞｜2026-10-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtQ0JleDZLd2VsLWxycjdfeUcwRFM2VmJJUXBhTmczYkdhTzlnRjJMclpIb2x0RXlMVjFOSURhaUxkZ1paSVUxSE9BbDZwV0F6UQ"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "醫療 AI 治理存在可視性盲點：風險管理機制亟需補強",
+      "summary": "BankInfoSecurity 報導指出，醫療機構在導入 AI 系統後，普遍面臨「治理可視性不足」的核心問題——即醫院管理層往往無法即時掌握 AI 工具的實際運作狀況、決策邏輯及潛在風險。報告指出，許多醫院在未建立完整 AI 監控架構的情況下即完成部署，導致模型偏移、資料品質異常等問題難以被及早發現。此現象在臨床決策輔助、影像判讀及行政流程自動化等應用場景尤為突出。專家建議醫療機構建立跨部門 AI 稽核委員會，並要求供應商提供持續性效能報告，以確保 AI 治理不僅停留於採購階段，而能貫穿整個 AI 生命週期。此議題對正推動數位轉型的醫療體系具重要警示意義。",
+      "tags": [
+        "AI治理",
+        "醫療資安",
+        "風險管理",
+        "數位轉型"
+      ],
+      "author": "未標示（BankInfoSecurity｜2026-10-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSllid0dfRkxPR1MxcEk2WDEtYnRDRmJOTzlKN0pGSTItamxYVnd1UkcxeC1ONnAwUWhMeVA3OWlFMGNlWU92MXhFeFBMRXBQUFhJTGwwZV9KVllmd0wybnpEUmFkZ2JoSFN4a3o0SHI3eDlqOVVuLW8xeTJRSTFybkFPVGEyQTNCczAzSm9XT0lkUQ"
+    },
+    {
+      "rank": 4,
+      "score": 8.3,
+      "title": "Suki 整合 UpToDate AI API，將臨床決策支援直接嵌入診療工作流程",
+      "summary": "AI 醫療文件記錄平台 Suki 宣布推出全新「Ask」功能，透過整合 Wolters Kluwer UpToDate 的 AI API，讓醫師在使用 Suki Ambient AI 進行病歷書寫的同時，可即時查詢具循證依據的臨床建議，無需切換系統。此整合將原本分散的 Ambient 病歷書寫與臨床決策查詢兩大功能合而為一，大幅降低工作流程中斷的頻率。UpToDate 是全球醫師最廣泛使用的臨床參考資料庫之一，此次與 Suki 的 API 整合代表醫療 AI 正從單點工具走向系統性嵌入臨床場景的新階段。對於正在評估 Ambient AI 或臨床決策輔助工具的醫療機構，此案例提供了整合型解決方案的具體參考範本，亦顯示醫療 AI 生態系整合趨勢持續加速。",
+      "tags": [
+        "Ambient AI",
+        "臨床決策支援",
+        "UpToDate",
+        "工作流程整合"
+      ],
+      "author": "未標示（Fierce Healthcare｜2026-10-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUVTT1luY212Y2EyY2pTT0UwMFFMSkRqZWVVR1NxM05Xd1Q3cldmU083LWJjQUpDT3VRWGd1V0pZVmpTR0NwblViNFR3Q2N4a3ZMNnYycElrWmEydTA3a1lvQzJoXzlPeUdYaG0ydWt6TF92RVN3S0ZHWlZucm40SXo5T1FHMElqZGJ3NENfR2RkZWh4cDlkUVhLT3pTLTFlSFZLUXdDdVhPblJ6NXVENGJCOHlXN01wYjkta19uQkVQblhxNHpOeEhn"
+    },
+    {
+      "rank": 5,
+      "score": 8.0,
+      "title": "AI 可提早偵測認知衰退，但後續臨床責任仍須醫療體系承擔",
+      "summary": "MedCity News 發表分析文章，探討 AI 工具在早期偵測認知功能衰退方面的潛力與限制。文章指出，當 AI 系統在電子病歷中發出認知衰退風險警示後，若醫療機構未預先建立明確的臨床處置路徑，此警示訊號將形同虛設，甚至可能增加醫療人員的認知負擔。作者強調，AI 的早期偵測能力固然有價值，但關鍵在於醫療體系須事先設計好「風險訊號如何轉化為可執行臨床路徑」的完整機制，包括後續評估、轉介及照護追蹤流程。這一觀點對正在或計劃導入 AI 預警系統的醫院具有重要警示：技術工具的部署必須搭配組織流程再造，才能真正產生臨床價值，而非僅停留於系統警示層面。",
+      "tags": [
+        "認知衰退偵測",
+        "臨床責任",
+        "AI預警系統",
+        "電子病歷"
+      ],
+      "author": "未標示（MedCity News｜2026-10-08）",
+      "source_url": "https://medcitynews.com/2026/10/ai-can-flag-cognitive-decline-earlier-health-systems-still-own-what-happens-next/"
+    },
+    {
+      "rank": 6,
+      "score": 7.8,
+      "title": "FDA 核准 AI 工具，可從標準 MRI 自動生成 3D 骨骼視覺化影像",
+      "summary": "FDA 最新核准一款 AI 工具，能夠從常規 MRI 掃描影像自動建構高精度 3D 骨骼視覺化模型，無需額外進行 CT 掃描或特殊影像程序。此技術突破對骨科、脊椎外科及關節置換手術規劃具重要臨床意義——既可減少患者接受額外輻射暴露的風險，也能縮短術前評估時間，同時降低影像採集成本。此工具的核准延續了近期 FDA 在放射科 AI 醫材審查的積極態勢，也再次印證影像 AI 仍是目前獲批臨床 AI 工具的最主要應用領域。對醫院放射科及外科部門而言，此類從現有影像基礎上擴展診斷維度的工具，代表在不增加採購大型設備前提下提升影像診斷能力的可行路徑。",
+      "tags": [
+        "FDA核准",
+        "放射科AI",
+        "MRI影像",
+        "3D骨骼視覺化"
+      ],
+      "author": "未標示（Radiology Business｜2026-10-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlRrbjJwdXl6R2VBNjVGSXA3V2hRVWV4Q1p0SVA1dVRFVjNoMG5jOTJ5VG4wd1luT3BnNExPcUVNMlJVZWlOMjNhRjYwMGx5VktOWkJzVVNyTllHcTI2SHA1cVJXSlJrRnJGdjltSVoxajV2OEhGRm41dW9uRVJ4V3hwTUxsWXhPTTBJQTg0bVNDNldRNVBqUkp3OGM4UXpoTDhvcDZaUXYwSHhKMURleVAzaV9zeUxId3pPd3pHZ0JqUQ"
+    },
+    {
+      "rank": 7,
+      "score": 7.6,
+      "title": "台灣 700 億筆健保資料打通醫療孤島，建構 AI 醫療基礎建設",
+      "summary": "財訊報導深入分析台灣如何運用超過 700 億筆的健保資料，作為建構 AI 醫療基礎建設的核心資產。台灣因全民健保制度累積的大規模縱貫性醫療數據，涵蓋就醫紀錄、藥品使用、診斷編碼等多元資訊，被視為全球罕見的高品質醫療資料庫。政府與學研機構正積極推動資料標準化與跨院所互通機制，期望打破長期存在的醫療資料孤島問題。文章指出，此舉不僅為 AI 模型訓練提供豐富語料，更為台灣發展精準醫療、疾病預測及公共衛生決策奠定基礎。對於國內醫療機構而言，參與此一資料生態系的建構，有助於提升本院 AI 研發能量及與國際合作的競爭力。",
+      "tags": [
+        "健保大數據",
+        "台灣醫療AI",
+        "資料治理",
+        "精準醫療"
+      ],
+      "author": "未標示（財訊｜2026-10-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13OUdTV3ctdXltZFFCcmlKcnhOLURUS2VJMHNRcWJCcFRlaE55NmlTSkdocUh3Wk95M3JtSWs0WEVNZU5xUGlmQVFlNmFoRWkwcnhxbF9FSVdyT25QOWpxdjQ1OFFRbkIyYVZXYjlYZ0dpM3FndUhDeW5naw"
+    },
+    {
+      "rank": 8,
+      "score": 7.4,
+      "title": "首爾國際醫院領袖大會擬通過全球醫療 AI 宣言，確立負責任 AI 應用共識",
+      "summary": "韓國首爾舉行的國際醫院領袖大會預計通過一份具歷史意義的全球醫療 AI 宣言，凝聚來自多國醫院管理層對於負責任 AI 應用的共同立場。宣言內容預計涵蓋 AI 臨床應用的透明度要求、病患安全保障、跨國資料共享倫理框架，以及醫療 AI 人才培育等核心議題。此宣言的提出，反映全球醫院領袖正從個別機構的 AI 試點，走向跨國協作建立共同治理標準的新階段。對台灣醫療機構而言，此類國際宣言的走向將影響未來跨國醫療 AI 合作的規範基礎，醫院高層及數位轉型團隊宜持續追蹤此一動態，以與國際接軌並提前因應潛在的標準調整。",
+      "tags": [
+        "醫療AI宣言",
+        "國際醫院合作",
+        "AI治理",
+        "負責任AI"
+      ],
+      "author": "未標示（Korea Biomedical Review｜2026-10-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtOFlOOVNpSmZHUl9CS1JrT0VZRlhySVFPcU9uWkRDNVJIczlWRFd3ME5XNXBfdlQ1cG15aTBYUHRmZ1E5UVlJV1FnNWh2dHp2dzczN1o0cnY0Y0RXRldiUXI1RldXbGttVzJCQnJ30gFyQVVfeXFMTUtPRUUxUDBYNnkzSmdjYTliR0c5LW0zMG9uOEhSN0pXUzJkRDVSOEY1SzBiMlZYdjk3cTE5ejhpT3dYNWQxQ0VMR1lmd1FXdUlBbHNqc2IzS2toUGR2QzBTVXowaTlIMUIxbWxkRk94ZU93"
+    },
+    {
+      "rank": 9,
+      "score": 7.2,
+      "title": "內視鏡 AI 資料品質提升策略：為更精準的醫療決策奠基",
+      "summary": "Open Access Government 發表分析報導，聚焦 AI 技術在內視鏡領域的應用發展，特別強調資料品質對於 AI 輔助診斷效能的關鍵影響。報導指出，目前消化道內視鏡 AI 模型面臨的核心挑戰之一，在於訓練資料品質參差不齊——包括影像標記一致性不足、不同設備與操作者產生的影像差異，以及罕見病灶樣本數量有限等問題。文章探討透過標準化資料蒐集流程、多中心資料聯盟及主動學習策略，以系統性方式提升訓練資料品質，進而改善 AI 模型在偵測瘜肉、早期癌症及腸道異常等任務上的臨床表現。對醫院消化科及內視鏡中心而言，此文提供了在導入 AI 輔助診斷前，應如何評估與強化本院資料基礎的重要參考方向。",
+      "tags": [
+        "內視鏡AI",
+        "資料品質",
+        "消化科",
+        "臨床AI應用"
+      ],
+      "author": "未標示（Open Access Government｜2026-10-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONFNIVnFqQ21WcFFyNXBmdEtSRHBBaGhqMHFwRjU5TTNnS0dreU5PQ3R0TkxIZHJwajhnckVudnVOdThFcWRycGJBRGI1NkVfQ0tudzdzX3hYd0xoZkhubGpiQ1VxV3p3Y2RvTUktSzkzeXdNaUg1QjhncjNmS3laZzRsWnpLSUZjdzc3ck5yVHMwZTRRNWZwZHBHaE9XWEZSVXI3N1FpZzN0NGR2"
+    },
+    {
+      "rank": 10,
+      "score": 7.0,
+      "title": "RadNet 研究：AI 輔助攝護腺癌診斷可減少 18.9% 不必要切片，降低過度診療",
+      "summary": "放射影像集團 RadNet 引述最新模型研究，顯示其 AI 輔助攝護腺癌診斷工具若全面應用，可減少約 18.9% 的不必要攝護腺切片手術。此結果具重要臨床意義——攝護腺切片屬侵入性檢查，存在出血、感染等風險，且因 PSA 篩檢特異性有限，臨床上存在顯著過度診療問題。AI 模型透過整合 MRI 影像特徵與臨床風險因子，協助醫師更精準地判斷哪些患者真正需要切片確診，從而降低不必要的侵入性處置。此研究結果對泌尿科及放射科的臨床決策流程具參考價值，也再次印證 AI 在提升診斷精準度、減少過度醫療方面的潛在效益，有助於醫療機構評估相關工具導入的臨床與經濟效益。",
+      "tags": [
+        "攝護腺癌",
+        "AI輔助診斷",
+        "減少不必要切片",
+        "泌尿科"
+      ],
+      "author": "未標示（Mugglehead Investment Magazine｜2026-10-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NeGs3R0FqekZVZXJNQ2d5clZKZHNCUTN1MHVOUmZxeWFsdUVNd1NjUkRvSENIb0tQZGJDS2ROeXhKTmFQR1NlbDgwTzF2RmxETEY4VkwwaHVlSWVqSjZFd1NzeW1oUnFwcGNKZXpkUU41b29O"
+    }
+  ]
+}
