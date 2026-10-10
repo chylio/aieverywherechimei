@@ -1,0 +1,117 @@
+{
+  "date": "2026年10月10日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "《刺胳針》通訊：立即規範醫療 AI 前瞻性開發，呼籲翻轉「先開發、後監管」慣例",
+      "summary": "發表於《刺胳針》的通訊文章指出，AI 技術進入醫療領域的速度，已遠超法規、倫理與臨床反思所能跟上的節奏。現行模式普遍假設「技術只要能開發就應開發，臨床定位事後再議」。作者群認為此邏輯應予翻轉：在 AI 工具正式進入臨床前，監管與倫理框架就必須到位。文章強調，醫療 AI 的前瞻性規範不僅是技術管理問題，更攸關病患安全與專業責任。此一呼籲與全球多國政府及 FDA 正在研擬的 AI 治理方向高度呼應，對於正在評估或導入 AI 工具的醫療機構而言，具有重要的政策參考意義。醫院領導層與資訊團隊在推動 AI 採購與上線決策時，應將前置倫理審查與法規符合性評估納入標準流程。",
+      "tags": [
+        "醫療AI治理",
+        "法規監管",
+        "臨床倫理",
+        "政策框架"
+      ],
+      "author": "未標示（The Lancet｜2026-10-10）",
+      "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01941-0/fulltext?rss=yes"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "英國發布 44 點醫療 AI 監管藍圖，全面重塑臨床 AI 治理架構",
+      "summary": "英國政府正式公布一份涵蓋 44 項具體措施的醫療 AI 監管藍圖，範疇橫跨 AI 工具的上市前審查、上市後持續監測、透明度要求及問責機制，被形容為英國迄今最全面的醫療 AI 治理行動方案。此藍圖發布時機恰逢 NHS 大規模採購 AI 工具之際，顯示英國試圖在推動創新的同時建立可持續的安全護欄。對台灣醫療機構而言，英國的框架設計——尤其是「上線後持續監測」與「問責鏈」的建構方式——具有直接的參考價值，可作為國內醫療 AI 治理政策制定與院內 AI 委員會規章設計的重要借鑑。此一動向亦反映全球主要醫療體系正從「許可即放行」轉向「全生命週期監管」的趨勢。",
+      "tags": [
+        "醫療AI治理",
+        "英國監管",
+        "政策法規",
+        "全生命週期管理"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcFNvbG10VlNfRzRlLXE2eS02QlpxVWhUSUIyWERsZE1fd1ZicVlSazVGb1QxdFBLV1hacUREZEgzN0FlYWVIQk96cEZWN3drRzVhMFVoSFhHdDJaeUpRWm84blhmQ1VpNnBpYmotWGlUYmJNWmFENGJyQnRnTG9PUHVBN3BLVXdyWnFRWncyMVp0TzB4Vlcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "AI 分析現有放射科報告，脂肪性肝病患者辨識率提升 360%",
+      "summary": "最新研究顯示，透過 AI 工具系統性重新分析醫院既有的放射科報告，脂肪性肝臟疾病（steatotic liver disease）的患者辨識率提升高達 360%。傳統上，此類代謝疾病在常規影像判讀中常被忽略或低估，導致大量患者未能及時進入治療流程。該研究證明，AI 不需仰賴新硬體或額外影像採集，僅透過重新處理既有結構化或非結構化報告資料，即可大幅提升臨床偵測敏感度。此模式對資源有限的醫療機構尤具吸引力，因其邊際建置成本相對較低。對醫院資訊部門而言，此案例也說明醫療文字 AI 與 NLP 技術在既有資料庫中的潛在價值，值得評估作為篩檢或品質改善工具的可行性。",
+      "tags": [
+        "放射科AI",
+        "NLP",
+        "肝臟疾病",
+        "既有資料再利用"
+      ],
+      "author": "未標示（Medical Device Network｜2026-10-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT3F3VzZOUjFyZEh1UzBJRmxDQTJyRnpyeU9hSElGQnlZemVfZVNlM3FnVy0zcmkyV0tpRzJkdFJybFRtWWFXSVZpWHo1OVk0S3ZaS0xBNmZyZW9xWUJkc2pHd2MyRGkyZkQwYkdqTDVkOGtIY1Mxb1E3S0xJVmVUdVRXVUZhcWk0T0YyMm9fM21EeER2eVZia2ItTmYyNHpiOFhVZC1MdVcxT2UybU9UYlRZTlY0d3BfUDB4cTNyLUdCYk53dlRpUEV5OEIzenlKZnc?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "Aiforia 與 PathAI 合作，擴大數位病理 AI 工具的臨床可及性",
+      "summary": "數位病理 AI 領域兩大業者 Aiforia 與 PathAI 宣布合作，整合雙方平台以擴大數位病理分析工具的可及範圍。Aiforia 專注於組織影像的深度學習分析，PathAI 則以病理 AI 輔助診斷及藥物開發為核心業務。此次結盟意在讓更多醫療機構與研究單位能以更低門檻使用高精度病理 AI，加速切片判讀、腫瘤微環境分析等臨床應用的落地。數位病理在台灣仍屬發展初期，此類大型平台整合案例提供了明確的產業趨勢參考——未來數位病理 AI 的競爭將不僅止於演算法精度，更在於生態系整合能力與工作流程嵌入深度。對有意建置數位病理基礎建設的醫學中心而言，合作夥伴的平台相容性與資料治理機制將是關鍵評估面向。",
+      "tags": [
+        "數位病理",
+        "AI診斷",
+        "產業合作",
+        "腫瘤學"
+      ],
+      "author": "未標示（Clinical Lab Products｜2026-10-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmttaElYbWZWRmVfNWhtd1M5aGdVN20zQ2haXzJvaFo3ajhFMWFpd3JsRk1GSFdESHhKb2gwdmdXVVNlOE5tc1JPT3N4LVVyanBZTWlURmM4U19oYTQ0WkdVQi1uOE9fV3VUQkNSMHFOOUFrUmxoN3lMQzJvZHFWNEVpNVpKRXcyNXp6QTlrdGhoSHVDcmswYkZTZzNFd1ZrWWFqcFNuOUdSZXRHVlZfdDJDQjZHdHZH?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "醫療 AI 理賠困境難解，專家指出人機協作才是關鍵",
+      "summary": "台灣《理財周刊》報導指出，醫療 AI 在保險理賠審核領域的應用雖持續擴展，但實務上仍面臨諸多挑戰：包括理賠情境的高度複雜性、個案差異難以標準化，以及現行 AI 模型缺乏足夠的情境理解能力。受訪專家強調，AI 無法單獨解決理賠困境，必須與具備專業判斷力的人力審核機制緊密結合，形成「人機協作」模式才能有效發揮效益。此一觀點呼應國際上對於醫療 AI「輔助而非取代」的主流共識，也為目前正在評估以 AI 輔助臨床文件審核、保險審查或醫療管理決策的醫院提供了重要的實務警示：過度仰賴自動化判斷可能帶來服務品質或法律責任風險。",
+      "tags": [
+        "醫療AI",
+        "理賠審核",
+        "人機協作",
+        "台灣"
+      ],
+      "author": "未標示（理財周刊｜2026-10-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kbVdQdlppUUduaVhtUkJKZWNBQUgzVzB2MnJwTFhhMVpDRDg2QXdHbV96WVdXY2VPci1hZnFuZlc5OHQtd1BfM0RYa1JsRURIbS1MVUxyUXRWd3VaTWZlSVVEdUNkUTh4Z2NLNlZGRQ?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "LigoLab 推出 AI 語音介面，優化解剖病理工作流程",
+      "summary": "LigoLab 宣布在其解剖病理實驗室資訊系統中整合 AI 輔助語音介面，病理師可透過語音指令完成報告草擬、標本追蹤及工作排程等操作，大幅減少鍵盤輸入時間與工作中斷。此功能尤其針對解剖病理特有的繁複文件需求而設計，涵蓋組織切片描述、免疫組化結果記錄等高度結構化的文字生成任務。語音 AI 在臨床場域的應用正從放射科（如 Ambient AI 聽寫）快速擴展至病理科，顯示此一技術範疇的滲透速度加快。對於有意改善病理科工作效率、降低醫師行政負擔的醫院，此類工具提供了無需大幅改變現有硬體架構即可快速落地的解決方案路徑。",
+      "tags": [
+        "病理科AI",
+        "語音介面",
+        "工作流程優化",
+        "臨床效率"
+      ],
+      "author": "未標示（The Manila Times｜2026-10-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObzRROV85bzE0Yi1uMmlZcERLMFhRdjk5V3puRXBWbUNuT3o4RS1zeWg2ZS1BUWZPQVB5dmUxY3E3OHRBRUNzNkczbWpQQTVyNGdXekkzcjBnLWFEM201ZTJjOUJPYjJpYXdTQkJISFhBRjRyMF81Q2pacWZmTGsydG5TLVczSkxkOW1oTWZPcXBBTDJRQ0diQnZQYmFlTVAzVm1mazlwcDFsaEtnOTRfbU9mWHdOV0xoR0xYRzd2NmhQWTkxWUx0UHRFbW9HQTdDRHg5RWtKT3E3NTktdEhoRUNoeUtYM2NQ0gHuAUFVX3lxTE12MWhwenhBZzltajBlRWdSeU5OSFJsU0FMTjNqZllGeG54czRET3pwNHh3azNzbEJmTHhCOUZhXzlnNElzQWdqY1AtMTlMY1Y5UnU4SDYtLUdleXlvYUxvSnlwNTBSZGRBSmJOVkZTbkVEaFdhLVRlQ25PMU9pRWFMdmczOUJVV3liVEJiekJOUjJBTWVzWHpGSmctV3BUVDFLcUJqWmFnWUxlYk9mUXItS0hiMDc3NXNfblQ5MExzaV83bDBLbnhmeHZDX0NIN1lGNnU5Tkl5WFBhd0lWTkNUWElLS3BLREdGTDhxeGc?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "AI 醫療帳務系統是否推高醫療支出？CFO 視角的批判性分析",
+      "summary": "CFO.com 發表深度報導，探討醫院導入 AI 帳務系統後是否間接推高整體醫療支出。分析指出，部分醫院使用 AI 優化編碼（coding）與費用擷取（charge capture）後，雖提升了帳務準確性與收益，但也引發外界質疑：AI 是否系統性地放大了費用申報、加速了健保支出膨脹。報導援引多個實際案例，探討 AI 帳務工具的設計誘因與監管空白，並點出財務長在導入此類工具時需同步評估合規風險。對於同樣面臨健保點值壓力與帳務數位化需求的台灣醫療機構，此一議題兼具財務管理與法規合規雙重意義，值得資訊部與財務部門共同關注。",
+      "tags": [
+        "醫療AI",
+        "帳務系統",
+        "醫療費用",
+        "合規風險"
+      ],
+      "author": "未標示（CFO.com｜2026-10-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnRseklOam04QUl5WmJDdXdOdVQ2TWxPOUhreTBIc0h2THVQM0tQd1BYSEE4TGtaX005cXRBRl81UkdIbnpPcUFQd05YNk5rTHhMMENjQXI1cUNacXFDRzN1eWoteS1uM2pnaERfc0lBVHJWUlhxeEU3S3l4WEdjVVRwY3NPcWpmN0hkRk9uejJOamM0aTFFZFpSU1d5ellOX0praXFrM1BXYUlnb3NZazRodk5wSTA?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "PISA 2025 揭示健康素養危機：AI 時代下的醫療資訊理解能力警訊",
+      "summary": "《刺胳針》刊載通訊文章，借助 2025 年 PISA 評量結果，點出全球青少年在閱讀、數學與科學能力上的持續退步，並將此趨勢與醫療健康素養危機直接掛鉤。作者指出，PISA 雖未直接測量健康素養，但其評估的認知能力正是民眾在 AI 時代判讀健康資訊、辨識 AI 生成內容真偽的核心基礎。當 AI 醫療工具愈加普及，若使用者的基礎認知能力持續下滑，誤解 AI 生成健康建議的風險將顯著上升。此一警示對於推動 AI 衛教工具、病患自我管理 App 或 AI 問診平台的醫療機構而言，提醒在設計介面與溝通策略時必須將健康素養差異納入核心考量，避免加深醫療不平等。",
+      "tags": [
+        "健康素養",
+        "醫療AI",
+        "病患教育",
+        "公共衛生"
+      ],
+      "author": "未標示（The Lancet｜2026-10-10）",
+      "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01906-9/fulltext?rss=yes"
+    }
+  ]
+}
