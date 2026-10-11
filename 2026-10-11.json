@@ -1,0 +1,103 @@
+{
+  "date": "2026年10月11日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "醫療 AI 評估新指標：以實體辨識取代字詞比對，更精準衡量臨床資訊完整性",
+      "summary": "Bioengineer.org 報導，研究人員提出一套全新的醫療 AI 評估指標，核心概念是以「實體保留率」（entity retention）取代傳統的字詞匹配方式來評估模型輸出品質。傳統 BLEU、ROUGE 等指標僅比對字詞重疊程度，無法反映醫療摘要或報告是否保留關鍵臨床實體（如藥物名稱、診斷代碼、劑量數值）。新指標能更準確判斷 AI 在摘要、轉錄或報告生成任務中是否遺漏重要資訊，對臨床安全性具直接意義。研究者認為，當前許多醫療 AI 系統在基準測試中得分亮眼，卻在實際臨床場景中表現欠佳，根本原因正在於評估方式與臨床需求脫鉤。此一新框架若獲廣泛採用，將對醫療 AI 開發商的模型驗證標準與醫療機構的採購評估帶來實質影響。",
+      "tags": [
+        "AI評估指標",
+        "臨床資訊品質",
+        "模型驗證",
+        "自然語言處理"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOakQ3clZNbW10b0RJdTZ1eEd0eUw0ejRMUTloYUtCa1NjSm9Kb1d5OXFPNmUwNElLWlNVblFvUGdKdXdHUkYxa1Q0VFJDT3g0aGF6aXh6V29vWXVUUTc2TkFCSjZyV2tjWlM2LU1Dd2wwRE8zckNFRW9Cd1FaVWxpVUNRazladzlrNG04cG1ZNDZaSjJiSE03SktLMDVuay14eW1lWXp3"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "高分低效：醫療 AI 筆試優秀、臨床實戰不足的深層缺陷",
+      "summary": "Bioengineer.org 報導指出，部分醫療 AI 系統在標準化測試（如醫師執照考試題庫）中表現優異，卻在真實臨床環境下表現不如預期，此現象被研究者稱為「高分低效（High Test Scores, Poor Bedside Performance）」缺陷。文章分析其根源在於：訓練資料與實際診療情境之間存在分布差距、AI 缺乏動態臨床脈絡理解能力，以及評估基準未能充分模擬真實醫病互動複雜度。研究建議醫療機構在引入 AI 輔助決策工具前，應設計貼近本院工作流程的前瞻性評估，而非僅依賴供應商提供的基準測試成績。此議題對臨床 AI 採購決策與院內驗證流程具有直接參考價值。",
+      "tags": [
+        "臨床AI驗證",
+        "AI效能落差",
+        "決策支援",
+        "採購評估"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmU5VFYzT2pfQmI0QnI0UXVLMWItZ1cybXhJd3ZTbVk1RTN4VEhISUFpV1NfMDc3SDhKRGJlOW43X2duX2F6MnlzclFxdHhIT01fVzZFa2VTcE9oMDRCaTQ0VzFFQTBycml6a21FSDFSMllFX3NFS29NaXE4SEQ4blA3bGgzcHJiSXVyU0xiTEVBd2VfanN6Q0dxTGI"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "女性獲得較少積極醫療處置，醫療 AI 性別偏差問題引發關注",
+      "summary": "Digital Journal 報導，多項研究顯示女性在醫療體系中獲得的積極治療普遍少於男性，涵蓋心臟病介入治療、疼痛管理及癌症積極療法等領域。這一現象引發醫療 AI 研究者的高度警覺：若 AI 系統使用帶有性別偏差的歷史診療資料進行訓練，將可能系統性地將「對女性減少治療」的偏差模式學習固化，進而在臨床決策支援中持續複製不平等。專家呼籲醫療 AI 開發與部署單位應主動進行性別分層的模型偏差審查，並在演算法設計階段納入公平性指標。此議題對採用 AI 輔助分診、治療推薦或資源配置系統的醫療機構具有重要的倫理與法規遵循意義。",
+      "tags": [
+        "AI偏差",
+        "性別公平",
+        "演算法倫理",
+        "臨床決策支援"
+      ],
+      "author": "未標示（Digital Journal｜2026-10-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQamVjYmRSZ0ltV3IxQktoVVlDVVdUSmhLa1pMakVGTmdPS2tFRXE5VXpBWm0yajlkUjB5VkVlMi1XcFBxM2J6aTBwZHRmeURVMFVFMHdEVWZqVGZ4TVJ2V2wxeC14VXZBdHZ3cGRtTTR3VWNGeG5icjJBbDNPU1I0SUpHdUxVSXNfRjBSRmtWdEN2WFV5S1hKc0puTThUSjM1NDhSNV9ZMmhaU2x5blY2TkdKRjZhZVdrRzhJd09yblotTlI1UkE"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "透過資料與實證建立醫療 AI 信任：Regenstrief Institute 觀點",
+      "summary": "Regenstrief Institute 發表論述，主張建立醫療 AI 公信力的核心路徑在於嚴謹的資料治理與可重複驗證的實證基礎，而非單純依賴技術宣傳或廠商聲稱。文章指出，醫療機構在評估 AI 工具時，應要求供應商提供透明的訓練資料來源、資料品質指標及獨立機構驗證結果。Regenstrief 作為美國重要的醫療資訊學研究機構，強調多機構資料協作與標準化評估框架的重要性，並呼籲醫療 AI 的信任不應建立在單一機構的內部測試上，而應透過跨院所的前瞻性研究加以確立。此觀點對正在制定院內 AI 治理政策的醫療機構領導層具有參考價值，尤其是在建立 AI 採購標準與績效監測機制方面。",
+      "tags": [
+        "AI信任",
+        "資料治理",
+        "醫療資訊學",
+        "AI治理"
+      ],
+      "author": "未標示（Regenstrief Institute｜2026-10-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05UzFhSG9zeFlnSmJqMDM4YldhSUZGWWl5RTEwZWdVTXpua0pjSlBsYVQzZ0M2RkZpblpHQWFNOUY5WkZYTi1iQjRQWldWS3Z4ZXItek9sbmlickxPTjZnWXI4bGJEVThXdkU0ODZBX0RwcDg"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "醫療 AI 需要即時運營脈絡，而非僅仰賴更多歷史資料",
+      "summary": "Healthcare IT Today 發表分析文章，指出目前醫療 AI 系統的一個核心侷限：多數系統過度依賴龐大的歷史訓練資料，卻缺乏整合即時運營脈絡（operational context）的能力，例如當前病床占用率、值班醫護人員專長、設備可用性及即時排班狀況等動態資訊。作者認為，若 AI 決策支援工具無法感知醫院當下的實際運作狀態，其推薦結果往往與現實情境脫節，反而增加臨床人員的認知負擔。文章建議醫療 AI 開發應朝向即時資料整合架構演進，並與醫院資訊系統（HIS）及臨床工作流程平台深度對接，方能真正發揮輔助決策的價值。此觀點對醫院資訊部門規劃 AI 基礎架構具有實務參考意義。",
+      "tags": [
+        "AI工作流程",
+        "即時資料整合",
+        "醫院資訊系統",
+        "臨床運營"
+      ],
+      "author": "未標示（Healthcare IT Today｜2026-10-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOekd6YzhaUnNGcmliVm01TXlVd09lOUNlaGgtcWtaZ0htSFp0MEZjZnpvZHJub0NJUGVfMlFrZ3cwM1RvVV9xalItX3pIaVFVVElFYUdLalBfQS0xRUVnVW1wQjRMdkJmWVM1M1RFeTBsRU43MWdvZld5RldTVllJTlhKcEQyWnlWZnlKcjB6TkgxeDdDZmZEeWQxZ1h5SC02b2pzOEZ5NmZoT0UwUHduVVd3"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "台灣 2026 國產 AI 3D 醫療影像暨元宇宙應用大會舉行",
+      "summary": "中央社報導，2026 年台灣國產 AI 3D 醫療影像暨元宇宙應用大會正式登場，聚焦本土研發的三維醫療影像 AI 技術與元宇宙在醫療教育、手術模擬等場景的應用。大會匯聚台灣醫療 AI 新創、醫學中心及影像設備廠商，展示國產 AI 在放射科、病理科及外科輔助領域的最新成果。活動凸顯台灣在醫療影像 AI 自主研發能力上的持續投入，並探討 3D 影像重建技術與沉浸式醫療訓練環境的結合潛力。對有意採購或評估國內醫療影像 AI 解決方案的醫療機構而言，本次大會提供重要的市場與技術觀察視窗，亦反映台灣醫療 AI 產業在國際競爭中尋求差異化的策略方向。",
+      "tags": [
+        "醫療影像AI",
+        "台灣醫療AI",
+        "3D影像",
+        "元宇宙醫療"
+      ],
+      "author": "未標示（中央社 CNA｜2026-10-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGX0ZqTkRIa24zYVV3LWFJaE1xNlkyTkZsLWhZV2l2ZXpFSmZBX3lIVGIxQnZXeHA1UjJnWWFsRDczN0JyQmZGTDZyT0UxLXBXYmI0"
+    },
+    {
+      "rank": 7,
+      "score": 5.5,
+      "title": "報告揭醫療業 AI 資安缺口：近半機構技術防堵能力不足",
+      "summary": "商傳媒報導，一份最新研究報告指出，醫療業在導入 AI 系統的同時，資訊安全防護能力卻未能同步跟上，近半數受調查機構表示在技術層面難以有效防堵 AI 相關資安威脅。主要風險涵蓋訓練資料遭竊取或篡改、AI 推論介面被惡意利用、以及醫療 AI 系統與院內網路整合後擴大的攻擊面。報告強調，醫療機構在評估 AI 工具效能的同時，應同步進行資安風險評估，並建立針對 AI 系統的專屬資安管理框架，包含模型存取控制、異常行為監測及供應鏈安全審查。此議題對正在推動數位轉型的醫療機構資訊部門而言，具有重要的風險管理參考意義。",
+      "tags": [
+        "醫療AI資安",
+        "資訊安全",
+        "數位轉型",
+        "風險管理"
+      ],
+      "author": "未標示（商傳媒｜2026-10-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQ3YxOFR1THVyZnNfb2Z3T3VJTU1fdEF6VHdDLTF3Y0tCdXlwUkdqX2l2WjRXRm56T2ZDUGRzRC1Cd2pDRThVeWJzS1JvZUVpOGNwX0w1bm5pMmlOaFJsM3Y1ZEk5eHJheXZmVEJId0l2ZHREX2tpblhTcTMyMGs2STBLWTRZRjBkX0xON1VRZy1fRWFzOWhFaGI5czNtVzFTWV9OZ2R1T3JIdGdYXzY0NXpyMWJ0MGlWSEtMQ0FaUHcwcUV4RjZIcHJGVXd0VlRuV3pESVNTLWgxQVA5STVuTndrR1R1YTJRaE9OOUdPRHQxXzJaUVM3a3ZNNmZfVDVhbGZMMmdrMGhsZF93dmpxOWsxNjFvdnEyV1YwQTFTWDJodmRnaFlFMXhLNGdBQWcya3A0S1g1SEo0NmJqUllJNzVvVmhwTlRDcEhtS3F1SFE"
+    }
+  ]
+}
