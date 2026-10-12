@@ -1,0 +1,75 @@
+{
+  "date": "2026年10月12日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "全球醫療 AI 政策願景佳、執法落地差：跨國研究揭監管實施缺口",
+      "summary": "一項跨國研究針對全球主要國家的醫療 AI 政策框架進行系統性評估，結果顯示各國在政策願景與原則層面普遍表現良好，但在實際執法機制、問責制度與跨機構協調上嚴重不足。研究指出，多數政策文件缺乏具體的合規查核程序、明確的處罰條款與獨立監管機構的授權，導致 AI 工具進入臨床後缺乏持續監督。報告呼籲各國政府應將政策目標轉化為可執行的法規細則，並建立跨部會的醫療 AI 治理協調機制，才能真正保障患者安全與演算法問責。此研究對正在研擬或修訂醫療 AI 監管框架的國家（包括台灣）具有重要參考價值，也提醒醫療機構不應僅依賴外部監管，而應主動建立內部 AI 治理制度。",
+      "tags": [
+        "AI監管政策",
+        "全球治理",
+        "法規落地",
+        "醫療AI治理"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZkVKclJ1MXdCRDRWT3J0OEhGVG0zVER0MWlwaEtLWnZ5eHhlYUNQVDNvb2l5eHdjVnNnU2hBbnhObmFvRDZ0Q3JzcHJhZU5rcS12ZmExMXp5c0ZPZmNpM0t2NFo0MGFYcE9xeWFheVpGazloX2dfcFRINXVjM0tSSTdoX3kwTzZzYnBhRUo5QU1ydm1mcTQ2Ri1rVFJWaFB5SzU2dXFaSENUQXhHekNz?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "臺大醫院 AI 轉型實踐：以人為本的智慧醫療落地經驗",
+      "summary": "臺大醫院積極推動 AI 與醫療流程的深度整合，在保持人文溫度的前提下導入智慧科技，涵蓋臨床診斷輔助、病歷分析、住院管理與病患溝通等多個場域。院方強調「以人為本」的核心價值，確保 AI 工具的設計與部署以提升醫病互動品質為優先，而非單純追求效率指標。此案例展示了台灣頂尖醫學中心如何在技術導入與人文關懷之間取得平衡，並透過跨部門協作機制推進數位轉型。對台灣其他醫療機構而言，臺大的實踐模式提供了可參考的落地路徑，尤其在醫護人員接受度、倫理審查與患者體驗設計等面向具有示範意義，值得醫院領導層深入研究借鑑。",
+      "tags": [
+        "智慧醫院",
+        "台灣醫療AI",
+        "數位轉型",
+        "以人為本"
+      ],
+      "author": "未標示（風傳媒｜2026-10-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvVWNvVTA4bFdtR3gtM0JUVE9Lc1dFNG9lSUYxTnNTYXZGOGhxR3lVdXM2RW42WUZhU0dubE5ZWUxUdGlUc1JSUFVObExoLXdH?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "UAE 成為醫療 AI 試驗場，但真正的考驗在試點結束之後",
+      "summary": "阿聯酋（UAE）近年大力投資醫療 AI，吸引多家國際科技與醫療機構在當地進行試點部署，涵蓋影像診斷、電子病歷分析與遠距醫療等領域。然而，報導指出真正的挑戰在試點結束後才開始：如何將初期成果轉化為可持續運營的臨床工作流程、如何確保在地化數據治理合規、以及如何建立本地醫護人員的技術能力，均是待解難題。此案例揭示一個國際普遍現象：醫療 AI 試點成功率與規模化落地成功率之間存在巨大落差，根本原因在於機構文化變革、法規配套與長期資源承諾的不足。對正在評估 AI 擴大部署的醫療機構而言，UAE 的經驗提供了超越技術層面的重要警示。",
+      "tags": [
+        "醫療AI落地",
+        "國際案例",
+        "試點擴展",
+        "AI導入挑戰"
+      ],
+      "author": "未標示（Fast Company Middle East｜2026-10-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdkEwcExxZzQzVXkxWHRTY3JHdFZIcm9uaGFmVlR2ZGhwWEVPajhITndkVTRyYVppX3ZTLTRnZmplN0IzZGFRWHlScUoySWd0d2kzTXc0dVlCeVRaUkFQQmR6TUMzYm8zSzk5Y1diZHpSQm44Um5JbzFYSmk2RExxcFZRQVRfQ0pXN3JaWG5GMEZZVFdEVmpadnlWdXlGb2dTeXNFU202eVhsbDdUcjhVaWFjWDVRbzBPOWZrZl9EMmJ6Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "Epic AI 帳務系統錯誤引發患者追討 2.7 萬美元糾紛，AI 醫療帳務風險再受關注",
+      "summary": "美國一名患者已結清醫院帳單後，醫院使用的 Epic AI 帳務系統仍自動發出追討 2.7 萬美元的催款通知，引發嚴重的醫病信任危機。此事件凸顯醫療機構在導入 AI 帳務自動化系統後，若缺乏人工覆核機制與異常偵測流程，可能對患者造成實質財務損害與心理壓力。報導進一步指出，AI 帳務錯誤在美國醫療機構中並非個案，而是系統性問題，根源在於訓練資料不完整、與電子病歷系統整合不穩定，以及自動化流程中人工干預節點不足。對醫療機構的財務部門與資訊部門而言，此案例強調在 AI 帳務系統上線後仍需維持嚴格的例外處理流程與患者申訴機制，以避免法律與聲譽風險。",
+      "tags": [
+        "AI帳務風險",
+        "Epic",
+        "患者安全",
+        "醫療糾紛"
+      ],
+      "author": "未標示（Washington Examiner｜2026-10-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSkFnYzdOLWtHNzhGTWplQTB1bEpseHY2czhDSmhEdnpuQ0ptZ01lU3JaSUdxWnR3bU9PcmVlNmtURDk1aTRPU2NZYkV0UG1nZGl4Y0ZsRGc0WHJnYUwyZjQ1cHZHM1pveE5tRWEzNHpNMXJyQllnYi1mSW5tLTdfNTlYRTFDcVJXR3FjRkxWSnRfQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "台灣 DentAI 360 AI 牙科系統榮獲《哈佛商業評論》鼎革獎，成為牙科 AI 創新楷模",
+      "summary": "台灣當代牙科醫療體系開發的 DentAI 360 智慧牙科系統，獲得《哈佛商業評論》台灣版鼎革獎 AI 創新楷模獎，肯定其在牙科數位化與 AI 輔助診療上的創新成就。DentAI 360 整合口腔影像 AI 分析、病歷智慧管理與療程規劃輔助功能，協助牙醫師在診斷效率與治療精準度上取得顯著提升。此案例顯示台灣本土醫療機構已具備將 AI 落地於特定專科的實踐能力，並獲得國際知名媒體的認可。對醫療機構而言，此獎項亦反映出 AI 應用已從大型醫院的影像科、急診延伸至基層牙科診所，醫療 AI 的應用場景正在快速多元化，值得關注此波趨勢對各專科數位轉型的啟發意義。",
+      "tags": [
+        "台灣醫療AI",
+        "牙科AI",
+        "AI創新獎項",
+        "數位醫療"
+      ],
+      "author": "未標示（PChome Online 新聞｜2026-10-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM3NKWFRoOEI4WFBGNU1LXzFlejdFbFE2QWdwRGZtRVNmUng4TXpvbjhGYzcwaG5ULXc2ZHJOeHlYNk1pb0VxNU9UeV9FMVlZbnJUM2Z4bnd0ZXhfY2VkS2YyWFhDclRVeGJmdzdMZ0FwVGpKMlR4Ukg4YVdnOVFlVTFVdzBOdG8?oc=5"
+    }
+  ]
+}
