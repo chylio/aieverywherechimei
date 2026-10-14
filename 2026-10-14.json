@@ -1,0 +1,117 @@
+{
+  "date": "2026年10月14日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Google 診斷聊天機器人 AMIE 刊登《刺胳針》評估結果，STAT 深度解析",
+      "summary": "STAT Health Tech 針對近期發表於《刺胳針》的研究進行深度解析，評估 Google 開發的診斷對話 AI AMIE（Articulate Medical Intelligence Explorer）在臨床情境中的表現。研究探討 AMIE 在問診流程、診斷推理及與患者溝通方面的能力，並將其與真實臨床醫師進行比較。評估結果涉及 AI 在實際診斷場景的適用性、局限性及安全性考量。《刺胳針》作為全球頂尖醫學期刊，此篇研究對於醫院評估導入對話式診斷 AI 具有重要參考價值，同時也引發醫界對於 AI 輔助問診標準化流程、病患安全及監管框架的討論，是目前醫療 AI 臨床落地評估中最具代表性的案例之一。",
+      "tags": [
+        "診斷AI",
+        "臨床評估",
+        "Google AMIE",
+        "刺胳針"
+      ],
+      "author": "未標示（STAT News｜2026-10-13）",
+      "source_url": "https://www.statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "台灣衛福部揭 FHIR Box 共通平臺布局，有望突破智慧醫療資料互通困境",
+      "summary": "iThome 報導指出，台灣衛生福利部資訊處正積極推動以 FHIR Box 為核心的智慧醫療共通平臺，目標是解決長期困擾本土醫療機構的資料孤島與系統互通性問題。FHIR（Fast Healthcare Interoperability Resources）是國際通行的醫療資料交換標準，衛福部此次揭示的平臺布局包含跨院資料串接、AI 模型部署環境整合，以及與健保資料庫的對接機制。該平臺若能順利落地，將大幅降低醫院在導入 AI 臨床輔助工具時的整合成本，並為未來以資料驅動的精準醫療奠定基礎。此舉被視為台灣智慧醫療政策的重要里程碑，對各醫療機構的資訊部門規劃具有直接的政策指引意義。",
+      "tags": [
+        "FHIR",
+        "智慧醫療",
+        "資料互通",
+        "台灣政策"
+      ],
+      "author": "未標示（iThome｜2026-10-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WTUR5Ym9SWkJ2M2swdkhLdUhjMmg1aDRZM3pPVjVqXzdUVE9rdDRTUlBDbVRZUnVfZEFhOU5FeEw3MkNSVFF6VHdJRDJLdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "Agilent 以最高 2.7 億美元收購 Proscia，擴展 AI 數位病理業務版圖",
+      "summary": "分析儀器巨頭 Agilent Technologies 宣布收購數位病理 AI 軟體公司 Proscia，交易金額最高達 2.7 億美元。Proscia 的核心產品為 AI 驅動的數位病理平臺，可協助病理科醫師進行組織切片的自動化分析與判讀，提升診斷效率與一致性。此次收購將使 Agilent 在精準病理診斷領域取得更強的 AI 軟硬體整合能力，並與 Fujifilm Synapse Pathology v3.0 等競品形成正面競爭。數位病理 AI 市場近期持續整合，對於有意採購或升級病理 AI 系統的醫院而言，供應商生態的快速整合意味著選型時需更審慎評估平臺的長期維護支援與擴充彈性。此案例也反映國際大廠加速布局 AI 病理的產業趨勢。",
+      "tags": [
+        "數位病理",
+        "AI收購",
+        "Agilent",
+        "產業整合"
+      ],
+      "author": "未標示（Business Wire｜2026-10-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXVGRzlPTzNDNXpBMmZvSVd1Z3dZaEU2VTdBaGZzV0EyaXFkc1NRWHIyMy1hUnFzLVNhUl8yTHY4SXNuMkJCUzFWWnl0ZjIzNDlUcUlXekpwU1lTU29WMXd1OUJwS182ZTBVaUpuZHhfSWVmYWw4eUZYNUdVMGc0Ty0zVTdyQ0xTR0xIUzNYZlhjeE9hOEZEMldISHJvYWhKN09MWHZJM1VLVlQyNkhPbW9BMEprOFhxWmZrbXBVOXBvSGFMLXZFbVo5U3pQUTRhOXQ1ejQ1ZWRkZTI4VGZaNGV2WHc?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "猶他州推動政府驗證醫療 AI 工具機制，為 AI 採購建立公信力",
+      "summary": "Healthcare IT News 報導，美國猶他州正積極推進由政府主導的醫療 AI 工具驗證機制，目標是透過公部門背書，為醫院和醫療機構在採購 AI 產品時提供可信賴的評估依據。此機制將針對臨床 AI 工具的安全性、有效性及偏差風險進行系統性審查，並建立公開的驗證結果資料庫。這一舉措被視為填補現行 FDA 監管與臨床實際部署之間落差的重要嘗試。對醫療機構而言，政府驗證標誌可有效降低採購風險、簡化內部評審流程，並在面對患者或主管機關質疑時提供有力的合規依據。此模式若成功推廣，可能成為其他州乃至國際醫療 AI 治理的參考範本。",
+      "tags": [
+        "醫療AI監管",
+        "政府驗證",
+        "AI採購",
+        "美國政策"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-10-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWc1T2xmeTNXb25IWGcxOWNFTWR4Y2czem9LYlhYTjlyY3NxZlltbVE5R0dmSTFueFdzQkEyOGdsaW5fUlM5SjRiUWJ0S0dheTJMY2Y0Z3ZmYWVGVHphMmQyNE1ybUtSMDN4Smp2VWJGVGhsT2tEZjJ2UzczZS1MUGw4bUtuSVV4VGlsaE5ZQUluS3RKQ3Q1Qml3?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "NVIDIA 宣布投資法國醫療預約平臺 Doctolib，擬以 AI 全面升級醫療服務",
+      "summary": "NVIDIA（輝達）宣布投資法國知名醫療預約與數位健康平臺 Doctolib，計畫透過 AI 技術深化整合，提升平臺在預約管理、病患溝通、臨床文件處理等環節的智慧化程度。Doctolib 目前已在歐洲數國擁有數千萬活躍用戶及數十萬名醫療專業人員，是歐洲規模最大的醫療數位平臺之一。NVIDIA 此次入股不僅是財務投資，更代表其將 GPU 運算與生成式 AI 能力導入醫療服務流程的戰略布局。此投資案顯示科技巨頭持續深入醫療場域，對醫院資訊化策略及未來與科技平臺的合作模式具有重要的參考意義，也預示著 AI 輔助醫療預約與行政流程的商業模式將加速成熟。",
+      "tags": [
+        "NVIDIA",
+        "數位健康平臺",
+        "AI投資",
+        "歐洲醫療"
+      ],
+      "author": "未標示（自由財經｜2026-10-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtY0lhb2ZNeU1LRTZpSWZhbjF6R2NLTThZSHZuXzhnNHFHSUlnallCT0dBZEtMUWI0aWc2LTl3MTJOeGtFY2xQSEZfbnVocEctWWdPTFAtSWhnMzBleEhr0gFkQVVfeXFMUDczVHJ1YVRqRUFScGdJSE01T2wxYlRoeEZydVFJaEpCdXRIanYwSS1ud2FMMWJWT1NQM21oTVV0UXBXYl9Ob1Y3UjZoblR4bmZwTnRoQnM2YjFVcWplMmw4M0JVbw?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "NTT DATA 與 TwHealth Nexus 合作，推動台灣醫療 AI 轉型新里程",
+      "summary": "CIO Taiwan 報導，日本資通訊大廠 NTT DATA 與台灣醫療健康科技公司 TwHealth Nexus 正式宣布合作，共同推動台灣醫療 AI 轉型。雙方合作內容涵蓋醫療資料平臺建置、臨床 AI 應用開發及智慧醫院解決方案整合，目標是加速台灣醫療機構的數位轉型進程。NTT DATA 在日本及亞太地區擁有豐富的醫療資訊化經驗，TwHealth Nexus 則深耕本土醫療生態系，雙方優勢互補。此合作案對台灣醫療體系的資訊部門具有直接參考意義，尤其在跨國技術合作模式、醫療 AI 落地策略以及資料治理框架等面向，提供了可借鑑的實務案例，也進一步彰顯台灣在亞太醫療 AI 布局中的重要性。",
+      "tags": [
+        "台灣醫療AI",
+        "NTT DATA",
+        "數位轉型",
+        "產業合作"
+      ],
+      "author": "未標示（CIO Taiwan｜2026-10-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1odkgycUdfQW5FaGxqR2lDS1d2SUUxMmxHX2hSYUtyekY5czVUdWZrZVd0aVJlM1RwbENvRTRrcnVBSEdy?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "醫療 AI 倫理新視角：當 AI 真的有效時，我們還需要思考哪些問題？",
+      "summary": "Hastings Center for Bioethics 發表文章，從生命倫理學角度探討當醫療 AI 工具確實有效時所浮現的倫理議題，跳脫過去多聚焦於 AI 失效或偏差的討論框架。文章指出，即便 AI 在診斷或治療決策上表現優異，仍存在多項值得深思的問題，包括：醫師角色的轉變與責任歸屬、患者自主權在 AI 輔助決策下的保障、資料使用的知情同意，以及 AI 有效性是否在所有族群間均等等。這些議題對醫院領導層在制定 AI 部署政策、建立倫理審查機制以及與患者溝通 AI 輔助診療時，均具有重要的實務指引意義。文章提醒，成效良好的 AI 工具同樣需要嚴謹的倫理監督框架。",
+      "tags": [
+        "醫療AI倫理",
+        "生命倫理",
+        "臨床決策",
+        "患者自主"
+      ],
+      "author": "未標示（The Hastings Center for Bioethics｜2026-10-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHo1VXJJZzFGandYaktHSVJBQzBReExIRUlCcl81ZWROeHRuUnFZcU0tcnJlTkhxUXk0RWJhUl9ITW0tUWpNekV3QW9MajR4SnBHMVozdVBhaWpKbzlWZWUteFNIVDV0YVZoVHN5WUtIZG5IRExLcTBJWEN4OHQwRzdWanQzZE8yZkpWcw?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "兒科醫療 AI 新突破：隱私保護訓練技術讓資料留在本地端",
+      "summary": "Medical Xpress 報導，研究人員正積極開發隱私保護機器學習技術，以突破兒科醫療 AI 發展的重大瓶頸——兒童患者資料的高度敏感性與稀缺性。傳統醫療 AI 訓練需集中大量患者資料，但在兒科領域，法規保護、家長同意及資料量不足等因素使資料共享極為困難。新興的聯邦式學習（Federated Learning）及差分隱私（Differential Privacy）等技術，可在不將原始資料離開醫院的前提下完成模型訓練，有效兼顧 AI 效能與個資保護。此發展對兒童醫院及設有兒科部門的醫療機構極具參考價值，也為台灣在推動符合個資法規範的醫療 AI 時，提供了可行的技術路徑選擇。",
+      "tags": [
+        "隱私保護AI",
+        "聯邦學習",
+        "兒科醫療",
+        "資料安全"
+      ],
+      "author": "未標示（Medical Xpress｜2026-10-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUHBfeFk2M0JMS0dGTkR0NXdLNWxvQXdRamNvYVJHaUJ4TjF1TUlLamJOWllWclFZVGRIaEU1ZVVMMUFKV2lLUEtnS29nR1RpWHBEaTZPdklWV3V1d3JEbnM4XzZ4SDMwbEV0OXUwaG81WW0xc2lzVlY2dUxCSzhHWFRyTQ?oc=5"
+    }
+  ]
+}
