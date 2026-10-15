@@ -1,0 +1,117 @@
+{
+  "date": "2026年10月15日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "醫療 AI 法規戰場轉移：遊說團體與醫療業者搶先布局州層級監管規則",
+      "summary": "美國醫師公會（AMA）、醫院協會及科技業遊說團體正積極在各州立法機構幕後運作，試圖主導自主臨床 AI 工具的監管框架走向。各方立場分歧：醫師團體傾向強化醫師最終決策責任、要求 AI 輔助工具保持透明度；科技業者則擔憂過度管制阻礙創新；保險業者的 AI 核保工具亦在法規射程之內。由於聯邦層級 FDA 的 AI 監管方向尚不明朗，各州正成為第一線戰場，現已有超過十個州提出相關立法草案。此議題對醫院採購 AI 工具的法律責任歸屬、廠商合規要求及未來招標條件均可能產生直接影響，醫院領導層與法務部門需密切追蹤各州立法進展，提前評估院內既有 AI 工具的合規風險。",
+      "tags": [
+        "AI監管政策",
+        "醫療法規",
+        "自主臨床AI",
+        "美國州法"
+      ],
+      "author": "未標示（STAT News｜2026-10-14）",
+      "source_url": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "Healthleap 完成 3,800 萬美元融資，深化 AI 於住院病患被忽視疾病的早期篩查",
+      "summary": "臨床 AI 平台 Healthleap 宣布完成 3,800 萬美元 A 輪融資，其核心產品整合於電子健康紀錄（EHR）系統中，針對住院病患進行即時自動化篩查，重點鎖定容易被低估或漏診的共病狀況，例如營養不良、靜脈血栓栓塞風險及心理健康問題。平台透過分析結構化與非結構化臨床資料，主動識別高風險個案並發出警示，協助醫師在最佳治療時機介入。本輪融資將用於擴大與醫院系統的合作規模及提升模型準確度。此類嵌入式臨床決策支援工具代表醫療 AI 應用的新趨勢：從獨立系統轉型為深度整合 EHR 的「隱形助理」，對醫院資訊部評估 AI 導入策略具重要參考價值。",
+      "tags": [
+        "臨床AI",
+        "住院篩查",
+        "EHR整合",
+        "醫療新創融資"
+      ],
+      "author": "未標示（MedCity News｜2026-10-15）",
+      "source_url": "https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "AI 準確度媲美放射科醫師：MRI 前列腺癌偵測進入新里程碑",
+      "summary": "最新研究顯示，AI 系統在透過 MRI 影像偵測前列腺癌的表現已可媲美執業放射科醫師，尤其在 PI-RADS 分級判讀與臨床顯著癌症的辨識上達到相近敏感度與特異度。研究團隊強調，AI 並非取代醫師，而是可作為「第二讀片者」減少遺漏診斷，或在放射科人力不足時提供支援。前列腺癌為台灣男性十大癌症之一，MRI 引導活檢已是國際主流，此研究結果對評估院內 AI 輔助放射診斷工具的導入時機與場景設計具直接參考意義，亦再次驗證 AI 影像辨識技術在泌尿腫瘤科臨床應用的成熟度持續提升。",
+      "tags": [
+        "AI放射診斷",
+        "前列腺癌",
+        "MRI影像AI",
+        "腫瘤篩查"
+      ],
+      "author": "未標示（Radiology Business｜2026-10-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYTdjUHBHV3hWeE91dHZtMFNubGZSb3I1VlhpZC1HOXo3ODRQVEl6Vl9UYmJtc3lRMVFIN2RURVBoejJVMmFiTkIwUmhjdGEwSnZEcjdoSHRMcUhhQnNidThrd2xVbVFTMndaYzNvTmxNOUdIa2N0dkI0ZGdzbjcyYXZlWVNqWGtTX09uWTc2ZmFVTHR3ZlZCQy15T1didTYtTUhaSG1mbWI1OVZ2aGd5Q0V3dU0"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "醫療 AI 倫理框架新突破：診斷 AI 行為規範完整路線圖出爐",
+      "summary": "Bioengineer.org 報導一份新發布的醫療 AI 診斷倫理框架，系統性地闡述 AI 診斷工具應遵循的行為準則，涵蓋公平性、可解釋性、問責機制與病患安全四大核心支柱。框架特別指出，診斷 AI 必須能夠向臨床醫師提供清晰的決策依據說明，並在不同族群、性別與年齡層中維持一致的效能表現，避免系統性偏差危害特定患者群體。此框架可作為醫院評估、採購及部署 AI 診斷工具的標準化檢核清單，亦呼應近期各國監管機構對 AI 透明度與可問責性的要求趨勢，對負責 AI 治理的資訊部與法規遵循團隊具實務參考價值。",
+      "tags": [
+        "醫療AI倫理",
+        "診斷AI",
+        "AI治理",
+        "可解釋性"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWU5DbTNhSjhpTG5mVy10T0N4VkpTajhsWEVEb1BSdllBOWx4emlaYk96SGxVNXAyREdIWk9CSmVXOHBWRlZ3U096U1JaYXZJc1QxaEJ0MF8tQVBuODdOOGlaa2x3MS1rQVNHR0ZuVE5Ua0EyaTdvSTU3Y242Rk1PR1QxOENCWGg1aHFxeDg1Mi1DUUtj"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "代理式 AI 在醫院落地的關鍵：「減法哲學」勝過廣撒試點",
+      "summary": "MedCity News 深度分析指出，許多醫院在導入 Agentic AI（代理式人工智慧）時陷入「試點擴張困境」——同時啟動過多 AI 代理人任務，導致管理混亂、效益難以量化，甚至無法追蹤哪些代理人仍在運作。文章援引成功案例，建議醫院應先聚焦單一高價值流程（如病床調度、出院規劃或術前文書），建立可重複的成功模式後再橫向擴展。同時強調必須保留人類監督節點，避免代理人在自動化鏈中產生不可預期的錯誤累積效應。此分析對正在規劃或已啟動 AI 代理人試驗的醫院數位轉型團隊，提供了具體的策略收斂建議。",
+      "tags": [
+        "代理式AI",
+        "醫院數位轉型",
+        "AI落地策略",
+        "流程自動化"
+      ],
+      "author": "未標示（MedCity News｜2026-10-14）",
+      "source_url": "https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "成人放射 AI 模型跨足兒科：研究團隊突破資料稀少性瓶頸",
+      "summary": "Radiology Business 報導，研究人員開發出一套方法論，可將原本針對成人患者訓練的放射影像 AI 模型有效遷移適用於兒科族群，克服兒科影像資料量稀少、解剖結構差異顯著等長期挑戰。研究採用領域適應（domain adaptation）與遷移學習技術，在不需要大規模兒科標注資料集的情況下，顯著提升模型在兒童影像的診斷準確率。此突破對設有兒科部門的醫學中心尤具意義，有望加速兒科 AI 影像輔助診斷工具的臨床部署，亦回應了此前因兒科資料取得困難而導致 AI 工具落地受阻的困境。",
+      "tags": [
+        "兒科放射AI",
+        "遷移學習",
+        "AI影像診斷",
+        "資料稀少性"
+      ],
+      "author": "未標示（Radiology Business｜2026-10-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdDAwY0t4NzJpUW91OEt0UkctUmZIaWp4RzlOVnYwSDNKck80MnVtWFBKMmdzUmtXQWNxRmgwVmQ3cTJDU05lTENWLUVOM295d3V6MjlvRFV3b29aS0F6a3VLanNXazU4cE1YUU82cFRlMVpURFBhUFFtOVFXTFBhNFp2NkVJWmk3LVBQSUpmcVBTWXZPQ1JIVUhCTlk2bDhWSHdIajB2UTZaS25SV0I5UHdpQzRSQVJtWF9pZDlBYnU1R3JoZkdKM25JSzJsQlA5Z00xYklkdw"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "KPMG 解析台灣智慧醫療新賽局：從臨床落地到資本市場的關鍵連結",
+      "summary": "KPMG 最新報告聚焦台灣智慧醫療生態系的發展現況，分析醫院端 AI 工具落地的核心挑戰，包括資料治理不一致、醫院端實證場景缺乏、以及法規審查機制尚未成熟等面向。報告同時指出，台灣資本市場對醫療 AI 新創的關注度持續升溫，但投資人最重視的仍是「可複製的臨床落地案例」而非單純技術展示。KPMG 建議醫院與新創業者應建立更緊密的共同開發模式，並以真實世界資料驗證 AI 工具的臨床效益，方能在競爭激烈的市場中取得差異化優勢。此報告為台灣醫療 AI 產業的宏觀戰略視角，對醫院決策層評估 AI 合作模式具參考價值。",
+      "tags": [
+        "台灣醫療AI",
+        "智慧醫療",
+        "資本市場",
+        "AI落地"
+      ],
+      "author": "未標示（天下雜誌｜2026-10-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wMUFZQ3V4LVR2S2NldDBERVQxclRaNG03b25TWHZYS2pkVFBEWnRxWFQtVG1MTUUwNGs5M1kzOE5JaW5ReC1OSzNCaFc0Zw"
+    },
+    {
+      "rank": 8,
+      "score": 6.0,
+      "title": "嶺南大學團隊研發長者步態分析與三維影像 AI，應對高齡社會醫療需求",
+      "summary": "香港嶺南大學研究團隊發表兩項 AI 醫療發明：其一為長者步態分析系統，透過感測器與機器學習即時偵測跌倒風險，可應用於安養機構或居家照護場景；其二為三維醫療影像精準定位工具，輔助臨床醫師進行更精確的病灶定位與診斷。兩項技術均針對超高齡社會的核心痛點設計，前者有望整合至遠距照護平台，後者則可強化現有影像診斷流程。隨著台灣 2026 年正式進入超高齡社會，此類兼顧預防與診斷的 AI 工具對長期照護機構與醫院老年醫學部門的規劃具重要參考意義。",
+      "tags": [
+        "高齡醫療AI",
+        "跌倒預防",
+        "三維影像診斷",
+        "長照科技"
+      ],
+      "author": "未標示（香港經濟日報HKET｜2026-10-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMinARBVV95cUxNQ0JCckNIYzJBNmhtWFhQSkMtYW02M2JKWktZUlV3ZndEdklYUmczb0JTaHRkTTZuOGFRRGZySmRCbDY5YVoyMmt3V0x3SWJ3em4zYllZSWNVUEQxc2pTZzR2OFpTYXZFNmVRMjVLeWZPbFdVX0ZxUkNoOGN5T2tZaG5ZNERsdU1DYWp0SEl4OWtTUlVPOEd3SlQyTmZWVWpYUWwzbUFTYVJGMW5tMEN5SUJyMEJoQmNVOWU3QlE5SE5MUkREaEI4YTlOUFRxRXJFWXd1N2Y1bjNsSVVoMW5VbHN0SnhUU0xjU0xSSWVaOGd3X3ltc3lVVUFRRVJ5cDlsNDB3c3llSVl1VWMxUS1JWktWRmFMQzgyaEppN0xKNTlOMzdOdEhWbVZFWl93WWRuZXdlTEFfMElSRWhKNmItamU1S0VMRUNuX2xVN0ZzNURYRFNvWi1WdjBoemhLY3hvcHZLTmhEZ1pTYklMTWszRTFQNGFPbk4xS3Z5bWc2UzB1RTFET0pGOUtJVm1rYjBBMnhEU2xHSVhJeFNFX3ROVGdOY0dUVzJXMlZHcC1GemtfWE55STJNZWMzQ29lcTdwX1NFS1FEUEw0ZmhLSFpmbmNXTG5IalZsaW90SGJwbGlfRWRNUTRHeGp2ZXRsM1lHSnY5MzkxYXRIYy1rTE81WXpPTnVYb1d0Vk1PMzB4YklIWndFY3pCNzBET2Y"
+    }
+  ]
+}
