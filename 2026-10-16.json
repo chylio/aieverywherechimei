@@ -1,0 +1,145 @@
+{
+  "date": "2026年10月16日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "AI 自動將胸部 X 光片轉為放射科草稿報告：兩階段關鍵詞管線新突破",
+      "summary": "來自 Bioengineer.org 的最新研究報導指出，研究團隊開發出一套兩階段關鍵詞管線系統，能自動將胸部 X 光影像轉換為放射科草稿報告。第一階段由 AI 模型從影像中提取關鍵詞（如病灶類型、位置及嚴重程度），第二階段再將關鍵詞組合為結構化、符合臨床語境的文字報告草稿，大幅降低放射科醫師的報告撰寫負擔。此技術有別於端對端生成式模型，透過關鍵詞中介層提升可解釋性與錯誤可控性，適合嵌入現有放射科工作流程。對於面臨醫師人力不足的醫療機構而言，此類自動草稿系統可望縮短報告週轉時間、提升整體診斷效率，同時保留臨床醫師最終審核的主控權，具備較高的臨床落地可行性。",
+      "tags": [
+        "放射科AI",
+        "胸部X光",
+        "報告自動化",
+        "臨床工作流程"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS01fWXRfOXpWcGlIZV9aTVZRQU8wVUNZTy1MMXhMSTFrbHNiREZIZ09NUXl4Q3ExaEM1UGVNd0lzRWczOHY5Ykl2UjA2a0JGdnprdmRvcXhDZEp0SUFzbUsyeWo0bFMzSmNiYVZULTJwY0VBM1VLeUwwSjlqcWpfbEdCUTZHQlJkYUYtamtVcm9nblhYQjhQQ2RPMUhBR0Z1YUYweVMwYl93bEdSVlE"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "新加坡中央醫院導入 AI 加速腦出血偵測，急診效率顯著提升",
+      "summary": "據 Healthcare Asia Magazine 報導，新加坡中央醫院（Singapore General Hospital）已在急診部門正式採用 AI 輔助系統，以加速顱內出血（腦出血）的影像偵測流程。該系統能於 CT 掃描完成後數分鐘內自動標記疑似出血區域，並優先排序高風險案例，讓放射科醫師及神經科醫師得以快速介入。醫院表示，導入後報告週轉時間明顯縮短，有助降低腦出血患者因延遲診斷而造成的神經損傷風險。此案例展示了 AI 在時間敏感性急診情境中的實際臨床價值，對於區域性教學醫院或急診量大的醫療中心而言，具有重要的參考意義，也為 AI 融入急診神經影像工作流程提供了真實場域的落地驗證。",
+      "tags": [
+        "急診AI",
+        "腦出血偵測",
+        "醫療影像",
+        "智慧醫院"
+      ],
+      "author": "未標示（Healthcare Asia Magazine｜2026-10-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1ZJTVppUDBsZUZmTXNvZW90SVJkZU13Tnd5Q3RkbDhtR2hDRlZQWWdEUWRqLW5rMGg0SmpQOFR6c0hyYW9IWUlPd2tGVzVqRndGa0wtc2pqUDEtZmdvMEt2ZzZ3SjU3d0tQX09rd2JDLTZ1QmF3VjhmSUhDR1ZfMEc1UWxqckl4Qzd2RTNSdHFNRzVLNFEwNEE4Vjl3UllWbFlNdXRpT1VudzhPV01sNEluSzk2N1QzNlE"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "醫療 AI 人權測試框架出爐：監管機構劃定患者安全與臨床控制紅線",
+      "summary": "GeneOnline 報導指出，國際監管機構正針對醫療 AI 系統建立以人權為基礎的評估框架，核心要求涵蓋安全性、公平性與問責制三大支柱。框架強調醫療 AI 工具必須通過嚴格的偏見審查，確保不因種族、性別或社經背景造成診斷不平等；同時要求臨床醫師在 AI 輔助決策流程中保有最終控制權，防止過度自動化侵蝕醫病信任。此外，問責機制要求 AI 開發商與醫療機構對系統錯誤負連帶責任，並建立透明的申訴管道。此框架的推進標誌著醫療 AI 監管從技術合規邁向倫理合規的新階段，對於正在評估或部署 AI 診斷工具的醫療機構而言，預示未來採購與驗證標準將大幅提升。",
+      "tags": [
+        "醫療AI監管",
+        "人權框架",
+        "患者安全",
+        "AI倫理"
+      ],
+      "author": "未標示（GeneOnline｜2026-10-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWjJfeFVJSktuZzBMR0hYWjJXQnJ3VVc4ZTRQZmlHa1pIbU5xdTVucW52RW12QmthNDNuMXBleEFBT2l2RVBpS0ZDNllUT2JkcHQ3Z3FoUElfMC1wYW9FREYtMzczX2dUaFo2dVBvRVZtTVU2M0hxbVVKSWJLOF9scURncVljcmRXeTdLSUZ4Ylg3WER6QWNvWDFPZGl5NmFaUXQyZ2pVdzhnbEVoVzZBNnEwSlcxT3o3VFRuVlRFUkhCZnl4dDRNc0IzUTZJQmtFbW5jc04wRjRGYzJHb29zcHVleEJuTXV3"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "中國創下全球首座 AI 醫院世界紀錄，智慧醫療基礎設施競賽進入新階段",
+      "summary": "據 World Record Academy 報導，中國已正式創下「全球首座 AI 醫院」世界紀錄，該醫院在診斷、病歷管理、藥物調配及患者服務等核心流程中大規模整合 AI 系統，實現高度自動化運營。此一里程碑不僅展現中國在智慧醫療基礎設施建設上的快速推進，也預示 AI 將從輔助工具角色演進為醫院核心運營架構的組成部分。在全球醫療 AI 競賽背景下，此案例引發業界對 AI 醫院模式可複製性、醫療品質監管及醫療人員角色轉型的廣泛討論。對亞太地區醫療機構領導層而言，此進展具有重要的戰略參考價值，提示未來醫院數位轉型的競爭格局正在快速成形。",
+      "tags": [
+        "AI醫院",
+        "智慧醫療",
+        "數位轉型",
+        "中國醫療"
+      ],
+      "author": "未標示（worldrecordacademy.org｜2026-10-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcWZTOGs0X1dPTlNCYkpibW5UOGplU3Zjd3RzNXBKOXN5SnNzdzhVdVlpX2RhS3RTdFV3UGJDNkxKaXhUM0F3Rnlsc0JmZ1lFaTZBZVlSOGpPUERlZ3J2TncwODBsYW9qV2JXdlVDNDFncUtGTFFnVTlOVnBLXzlCUUtZTjNTNlhaallWLWJnclk0LWhjeHl0RmZYUzR6amRn"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "南台灣博田國際醫院導入 AI 輔測系統，強化胰臟癌早期偵測能力",
+      "summary": "據 Yahoo 新聞報導，南台灣博田國際醫院正式導入 AI 輔助偵測系統，專注於提升胰臟癌的早期篩查精準度。胰臟癌因早期症狀不明顯、傳統影像判讀困難，確診時往往已進入晚期，五年存活率極低。此 AI 系統透過深度學習分析腹部影像，協助醫師識別早期微小病灶，有望將診斷時間點前移。此次導入代表台灣南部醫療機構在 AI 臨床應用上的積極布局，也呼應健保署與衛福部近年推動智慧醫療落地的政策方向。對於同樣面臨胰臟癌早期偵測挑戰的醫療機構而言，此案例提供了具體的在地實踐參考，值得密切關注後續臨床成效數據。",
+      "tags": [
+        "胰臟癌",
+        "AI早期偵測",
+        "台灣醫療AI",
+        "臨床落地"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-10-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQeFRpamthUHBEQmRDNEtwdk9ld1R5S1ltVGUwbzN6cXVsQUM2RXBkMTVDblZhN1JlQ0VsZUkxZEJGZ3FoQ3E5RURnd3dKOGNHdHJRUHdlWjRQbUh1MHNxUlJrSGhRb25PQzNQc2lLWW9yZGQtZ0w5X3ZrMzByM1N3YkU2d2hLdk84VEx3QXdKSlJtaWlSMEpHbFE0ZzBnN1JiNmpNcWtEd3JfamZwb0M3VktDbFZpei1PNVZpeEZmZmN0dkI0OFpkdS1NMkxGX3FQTUllNkhETnZMcVo5bU1FRjVWbnZJUENKeHBnbnBadDlUel90U2YwLUZzWFJOcm55MC1JT1BqeFd6NVJXRHcyZHFWVGs5emxxYWFvZ2FjMWwzYmg1bU52NnhCRDdwM1IyakhXakVWOGRxVDRYY0lKb182bGp0VFoxZmdzT3pIMUZqSHNLdlNsR09qQ0c1RE5TdE9fSm56ZDNhMHdJeDFPZlltdENxSmZhSkZzaFZ3LXNSbllRWUd1Skt6RFFYUzJaSWdCbGFVLXhyYVZ2Y01ZV08tMlBLMEIweEIyaUppR2E1bVNk"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "NeoGenomics 擴大與 Indica Labs 合作，加速 AI 驅動數位病理學規模化",
+      "summary": "Business Wire 報導，腫瘤基因體檢測公司 NeoGenomics 宣布擴大與數位病理 AI 平台 Indica Labs 的合作夥伴關係，目標是將 AI 輔助數位病理分析能力大規模商業化部署。Indica Labs 的 HALO AI 平台能對組織切片進行自動化定量分析，涵蓋細胞分類、腫瘤微環境評估及生物標記定量等功能。透過此次擴大合作，NeoGenomics 將加速將 AI 病理分析整合至其臨床服務流程，提升癌症診斷的通量與一致性。此合作模式顯示數位病理 AI 正從研究工具向大規模臨床服務轉型，對於正在評估數位病理導入策略的醫療機構，提供了商業模式與技術整合的重要參考案例。",
+      "tags": [
+        "數位病理",
+        "腫瘤AI",
+        "NeoGenomics",
+        "臨床AI部署"
+      ],
+      "author": "未標示（Business Wire｜2026-10-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM3FSa0lVY2tBYzJfei1aVndMZk9ZZzdvZEo4aEZDZHhjUUJ2WjAwUUYza2hQZElLdUJpWHduUldpLTk2Y25rR3p0UGdQUXg4Z1NtbV9ObHJKQ0p4YTVSdzR5SHVIWEI1V285aWg3TkJXUW1oTWtMMFhCc2JLWDUza1VYTXpUWHgxcjNfUnczdXZBc1BLRlUxaGRLcEdPcWFFaV9KeVpCSXM2emRXTGp6dDZ6cURlZ2V5UjFXOFVLbHhGQ0U4X054b2hxRnl4am02c3ZpRw"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "AI 醫療 AI 法規沙盒成各方角力焦點：誰來主導州層級 AI 監管規則？",
+      "summary": "STAT News 報導指出，美國各州正興起以「AI 沙盒」（AI sandbox）機制試行醫療 AI 監管規則，允許特定 AI 工具在受控環境下運作並蒐集真實世界數據，再據以制定正式法規。然而此一開放空間正吸引醫療 AI 業者、患者權益團體、保險業者及學術機構爭相布局，試圖影響未來監管框架的走向。各方對沙盒的問責機制、資料共享規則及退出條件存在根本分歧。值得注意的是，州層級監管沙盒的多元化將造成 AI 工具跨州部署的合規複雜性大幅提升，對於計畫採購或開發醫療 AI 系統的機構而言，密切追蹤各州沙盒政策走向將成為重要的法務與策略工作。",
+      "tags": [
+        "AI監管",
+        "醫療AI法規",
+        "AI沙盒",
+        "美國政策"
+      ],
+      "author": "未標示（STAT News｜2026-10-15）",
+      "source_url": "https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/?utm_campaign=rss"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "AI 藥物研發生技公司 Iambic 籌得 1.5 億美元 IPO 資金，聚焦「分子超智能」癌症新藥",
+      "summary": "據 MedCity News 報導，AI 驅動藥物研發公司 Iambic Therapeutics 完成 1.5 億美元 IPO 募資，所得資金將全數投入其 AI 自主發現的癌症藥物管線臨床開發，目標適應症包括 HER2 陽性癌症、KIF18A 及 CDK2/CDK4 相關腫瘤。Iambic 以「分子超智能」（Molecular Superintelligence）為核心概念，運用 AI 模型加速候選藥物設計與優化，並已與 Bayer、AbbVie 等大型藥廠建立研發聯盟。此次 IPO 成功顯示資本市場對 AI 驅動藥物研發賽道維持高度信心，也標誌 AI 在新藥開發中的角色從工具輔助邁向全流程主導的重要里程碑，對醫療 AI 產業生態與未來臨床試驗合作模式具有指標意義。",
+      "tags": [
+        "AI新藥研發",
+        "腫瘤學",
+        "生技IPO",
+        "藥物設計AI"
+      ],
+      "author": "未標示（MedCity News｜2026-10-16）",
+      "source_url": "https://medcitynews.com/2026/10/iambic-ipo-techbio-ai-drug-discovery-cancer-her2-kif18a-cdk2-cdk4-iam/"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "香港 MediLLM 醫療大型語言模型啟動研發，整合多元數據實現早期疾病風險識別",
+      "summary": "據 Yahoo 財經與 Fortune Insight 報導，香港本地研究團隊正式啟動醫療專用大型語言模型 MediLLM 的研發計畫，目標是整合電子病歷、實驗室檢查結果、影像報告及穿戴裝置數據等多元醫療資料，建構能夠提早識別疾病風險的 AI 預測平台。MediLLM 的設計重點在於適應繁體及簡體中文醫療語境，以填補現有英語為主的醫療語言模型在華語地區的應用落差。此計畫的推進對台灣及大中華地區的智慧醫療布局具有重要參考意義，尤其在本土化醫療語言模型的資料隱私、訓練語料品質及跨機構合作等議題上，提供了可借鑑的區域實踐路徑。",
+      "tags": [
+        "醫療語言模型",
+        "MediLLM",
+        "華語醫療AI",
+        "疾病風險預測"
+      ],
+      "author": "未標示（Yahoo財經｜2026-10-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPQVg0S1lfQUN5OXNiWE1aV0JMeUtBT1ZHdjdtaFZfMFpvbHhYWGxUa2xZUlMtc3BRSkZZY29UTmV5aGhXMmp2RHd1MDY1WHJzVzNjMTlUcjgxTERCYUk0NTZsSU1ZYXVjSHo5c0VDVU5ZM1BZSGRjd3ZZSnM3SVlPNEg2UGxvQ3BVRXVWdHgxUzBZR1dEMkNiVzQ3c1p5VFNtZmVaUGloWFhZeHNYbGxZYTQ4UWtfUUxaTW82bzV0bXpyUHZ6YnVyLWFqaGlGWlF4c3VhRi04SDFHZWFLXzU5Z09IbnlEekkwUUlzd0wtdTZyajY2d0VqZnJyVGRRRUpvWmp2Nk5uTDBBY0w5SWhnSWQyR1g3Q1o0dTMtZmt0NmpCNG51OHpiZTJNVzJBckRxYWhlMmlYQ2FIQmZYdG1aYm1CaWs4UG9Tay1lWVZCRm5VNFRONHZIQUFRNDd4Y2UtX09TTXdqLTZNeHRGTjJnQTZPQzYtNGwwdHFkVTJMV05uRm9XZ255eUtzQ1A"
+    },
+    {
+      "rank": 10,
+      "score": 6.0,
+      "title": "放射 AI 解決方案採購三步驟指南：協助醫院避開選型陷阱",
+      "summary": "Radiology Business 刊出一份針對醫療機構設計的放射 AI 採購評估指南，提出三步驟系統化框架。第一步要求採購方釐清臨床需求與工作流程整合點，避免購入與現有 PACS 或 RIS 系統不相容的工具；第二步強調應要求廠商提供真實臨床環境的效能數據，而非僅依賴研究論文或廠商自述性能指標；第三步建議導入前進行小規模試點驗證，並制定明確的成效追蹤指標與退出條款。指南特別指出，市場上放射 AI 產品數量快速增長導致選型困難度大增，醫院若缺乏系統化評估流程，易面臨採購後整合失敗或臨床效益不如預期的風險，此指南對正在進行 AI 影像工具評估的醫療機構具有實用參考價值。",
+      "tags": [
+        "放射AI採購",
+        "AI評估框架",
+        "醫療影像",
+        "醫院數位轉型"
+      ],
+      "author": "未標示（Radiology Business｜2026-10-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHNjNldPUW44VlJ2bGVjMHIxWm1GdlMyMmdFcXcyZjVNZDNOYTNJckRuUEUtVTRLcngyNjEzbXAyT1lFcDNvUE0zeHBlaWxIeUhwMWRUdGFUbDZYZVRVS1ktQ3YtZVVGQjV2RUVrVnJQSXhOUUdOaDQ5WGYxRHd4emNpUUlaX2pKMUMzdHJ5VVZMUTFOZlJGdEpHN3dIQ0QtTHIxVWZFanF4NzZ4T1o1dWp1Vmg"
+    }
+  ]
+}
