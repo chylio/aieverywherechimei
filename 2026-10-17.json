@@ -1,0 +1,131 @@
+{
+  "date": "2026年10月17日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Suki 完成 9,000 萬美元 E 輪融資，加速擴展醫療 AI 應用版圖",
+      "summary": "醫療 AI 語音助理公司 Suki 宣布完成 9,000 萬美元 E 輪融資，為該公司迄今最大單輪募資。Suki 的核心產品以自然語言處理技術協助醫師完成臨床記錄、病歷摘要及醫令輸入，大幅降低行政負擔。此輪融資將用於擴大產品線、深化與醫院資訊系統（包含 Epic、Cerner 等主流 EHR 平臺）的整合深度，並加速在美國各大醫療體系的部署規模。Suki 目前已與數百家醫院及診所建立合作，其 AI 助理每月協助處理數百萬筆臨床互動記錄。此輪融資反映出市場對醫療環境中 AI 自動化臨床文書需求的強烈信心，也預示醫療 AI 語音助理賽道的競爭將持續升溫，對正在評估或導入 AI 輔助文書工具的醫院管理層具有重要參考價值。",
+      "tags": [
+        "醫療AI融資",
+        "語音助理",
+        "臨床文書自動化",
+        "EHR整合"
+      ],
+      "author": "未標示（The American Bazaar｜2026-10-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeFVXRXRuR0Zjdkk4ajJOR2xpTWYwMlBfWXBEVHc0STJzdG12WDEwNUxTR3VxcjBZR0sxMGdnRmxTSDQ2Qm4yVWRHSnQ4SFFmRnVlUHg2QUhsaEFhQUFPNURjTjBpNU9oSE5RYXdRdG1Cd2FtOUZYQ1lLVk1wRFBvRzNmTzFxOXF2bmdYaWw2S1d2MVpfTEJ1RUpEblNuXzJvOFhtSmJ5WGU3dXczMU1YVVV4SnBCWm9vU3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI 原生放射科崛起：從碎片化工具到整合式營運模式的典範轉移",
+      "summary": "Radiology Business 深度剖析「AI 原生放射科」趨勢，指出傳統放射科正面臨從多點式 AI 工具堆疊轉型為整合式智慧營運架構的關鍵壓力。文章指出，過去各廠商各自提供單一功能的 AI 解決方案（如影像辨識、報告草稿生成、排程優化），使放射科陷入系統碎片化困境，維運成本高且整合困難。AI 原生模式則主張從工作流程設計之初即納入 AI，將影像判讀、報告生成、品管稽核與資源調配統一在單一平臺上協調運作，大幅提升效率並降低誤判風險。報告亦指出，採用此模式的機構在報告周轉時間與醫師滿意度方面均有顯著改善。對正在規劃放射科數位轉型的醫院管理層與影像科主任而言，此文提供了重要的架構選型參考。",
+      "tags": [
+        "放射科AI",
+        "數位轉型",
+        "工作流程整合",
+        "影像判讀"
+      ],
+      "author": "未標示（Radiology Business｜2026-10-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZDRXcjVncGlEbGZUeERhNm9NMHRZUzZmd2c1M0REZUVoV1E5c28tR3JrMkZLWEtSaUtqem5JRHVtNUZGWi1vekxkR1NaZGJMM1JvZFJtVnZBY3VWVlo2QmxXYjZNMm4xU3Y0UzBmYWNqeGhXb2xGREtwZVI0WDIwbktxNFJxMGhqb2djNERuN1Q5amoya2NGcDBmcFc4MWlpS0RSLXVvMm9raXFKUjhqcmh1aXB0Tm5GVV94RFFlOURZSmxyUFE3N0lvUTM2RzI2Y2JtZEZ1clVuYkR1MjJyNFdIMXM?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "AI 新工具可預測組織樣本分子檢測失敗風險，助力精準醫療品管",
+      "summary": "Clinical Lab Products 報導一項新開發的 AI 工具，能在進行分子檢測前預先識別組織樣本品質不足、可能導致檢測失敗的高風險案例。分子檢測（如 NGS 基因定序、PCR 等）對樣本品質要求嚴苛，若樣本固定不良或 DNA 降解，檢測往往失敗，造成資源浪費並延誤治療決策。該 AI 模型透過分析數位病理影像中的組織形態特徵，自動評估樣本可用性，並標記高失敗風險樣本供病理師優先複查或重新取樣，可有效減少無效檢測次數、縮短患者等待時間。此技術對腫瘤科、病理科及精準醫療流程管理具有直接應用價值，亦與 Aignostics 同期推出的 HETA Clinical AI 病理產品系列形成相互呼應，顯示 AI 輔助病理品管正成為重要新興領域。",
+      "tags": [
+        "AI病理",
+        "分子檢測",
+        "精準醫療",
+        "組織品管"
+      ],
+      "author": "未標示（Clinical Lab Products｜2026-10-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcHh4Z1hfLWt1c0pVRzBhbEtrRGVxUkFQTTFEOTNxT1BjWWsyR1NWUThKWE15aFNTUE9IdVpwOEJFdkF0SW1pdFBJLUxZdnJHb1FGRGtTOXZfY05ZcmtvVEFpQmc0U0htaVB4WkExOVBOelB3U2dVQ1o5VkhYT0FuV0VoUEo2RmpPQjlkRTdMRGpjZ1RaNXpDX3N5WDRuTS1pVlo0dw?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "台灣天成醫療體系推動 AI 智慧醫院與醫養合一數位轉型新模式",
+      "summary": "天成醫療體系公開其以數位轉型重塑區域醫療照護的整體策略，核心方向涵蓋 AI 智慧醫院建置與醫養合一服務整合。該體系積極導入 AI 輔助臨床決策、智慧病房監控及遠距醫療等技術，並嘗試將急性醫療與長期照護資源串聯，形成連續性照護生態圈。此舉呼應台灣政府推動智慧醫療與高齡照護整合的政策方向，也反映出區域醫療體系在面對人口老化壓力下，透過數位轉型尋求服務差異化與營運效率提升的策略思維。對同樣面臨高齡化挑戰的醫療機構而言，此案例提供了 AI 技術與長照服務整合的在地參考範本，具有相當的借鑒意義。",
+      "tags": [
+        "台灣智慧醫療",
+        "醫養合一",
+        "數位轉型",
+        "AI智慧醫院"
+      ],
+      "author": "未標示（蕃新聞｜2026-10-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JZnhVY0FNTEtibnk4OFpkVS13M0p0NXlMVkNfUE9uLXRTbXBNR0ctaVBFLXlqNC1ySkpQc2drQVRvYjJubGtNb1AyTXFWV3RhQnc?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "醫療 AI 治理缺口警訊：數據進入 AI 系統前後均存在重大監管漏洞",
+      "summary": "DOTmed 報導指出，醫療機構在部署 AI 系統時普遍面臨「雙重治理缺口」：一是輸入 AI 的原始數據在品質管控、隱私合規與偏誤審查方面不足；二是 AI 系統產出結果後缺乏有效的監督與稽核機制。文章援引多項調查數據，顯示大多數醫院尚未建立完整的 AI 治理框架，即便已部署商業 AI 工具，也難以追蹤模型在真實臨床環境中的表現漂移（model drift）問題。報告強調，數據治理與 AI 輸出監控應被視為同等重要的兩個環節，缺一不可。此議題對醫院資訊部門、法規遵循團隊及臨床 AI 採購決策者具有高度參考價值，呼應近期各國監管機構對醫療 AI 上市後監控要求的趨勢。",
+      "tags": [
+        "醫療AI治理",
+        "數據合規",
+        "AI監管",
+        "患者安全"
+      ],
+      "author": "未標示（DOTmed｜2026-10-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tVWJtRUZCUjBhM3hUbmdmTkNFZV9RamZTeFdWbU8tRDFNZ0x3bkd3WEJVdVNjWGx5SWlud281SkkwTVducms3MTlkc1Z5b1Jq?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "自監督式 AI 以 Mamba 架構解讀心律，達到醫院級準確度",
+      "summary": "Bioengineer.org 報導一項以自監督學習（Self-Supervised Learning）結合新型序列模型 Mamba 架構開發的心律判讀 AI，在大規模醫院心電圖數據集上達到與臨床醫師相當的判讀準確度。有別於傳統深度學習模型需要大量人工標注數據，此研究採用自監督預訓練方式，讓模型從海量未標注 ECG 波形中自行學習心律特徵，大幅降低訓練資料門檻。Mamba 架構在處理長序列時序數據方面優於 Transformer，有助於捕捉心律不整的細微時序模式。此研究成果對心臟科及急診醫學具有直接臨床意義，也為資源有限的醫療機構提供了高效能 AI 輔助心電圖判讀的可行技術路徑。",
+      "tags": [
+        "心電圖AI",
+        "自監督學習",
+        "心律不整",
+        "臨床AI"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVHhlSUpXb0lNc3hfOHNvbjdaRHJYaGJUTmxRd1N4SVNyZnVlamtCWXdUSzBTdmVyclJ0ZFlrZjYwcXBQbHJ4MDdFcUZYZE81aUl4d190Qm1LM1pFVG9kS3NIdUpTc3FKWWVMbjB0M1JaWlplaGdKY2RsdkxNQ0dHNmdIcFJlc0dza3NEOU5vM1k1S1lhVnE1N2RaX25YLVNuTlZrUVJ5RQ?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "Sirona Medical 完成 4,000 萬美元 D 輪融資，擴展雲端原生放射科 AI 平臺",
+      "summary": "Sirona Medical 宣布完成 4,000 萬美元 D 輪融資，資金將用於擴大其雲端原生放射科平臺 Cortex AI 的規模化部署。Sirona 的平臺整合了放射科工作流程管理、AI 輔助影像判讀及報告生成功能，主打以單一雲端架構取代傳統放射科多套分散系統，降低 IT 維運複雜度並提升影像判讀效率。此輪融資反映出投資人對雲端放射科整合解決方案的持續看好，也顯示放射科 AI 市場正從單點工具走向平臺化整合的趨勢。對正在評估放射科資訊系統升級或雲端遷移的醫院資訊部門而言，Sirona 的商業模式與本輪融資規模均值得關注，可作為市場競局分析的重要參考。",
+      "tags": [
+        "放射科AI",
+        "雲端醫療平台",
+        "AI融資",
+        "影像工作流程"
+      ],
+      "author": "未標示（citybiz｜2026-10-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM1BHbXZLcEd3cUVXTlZhQU9lWnpkeWpoalJVUmVYT2RiSzE2bjM1bGJqbzR5SFh1UEdWR0pjNHE2NFlZcktsbERrOXhadWJab1FKcEhMWm1yTW5PaXJWXzU0cXRYU2c0X1AtM2VyRmNVN1BrSXJSQkhLUWNMeGszczFXWDk5Z2FzUFF1ZzQ5ZHNaVW5qU1ZjWTVITDZ4UU0wbEF0SlpnSmVrUjhjRWRIT1pB?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "AI 晶片結合智慧應用：台灣新技術可在 48 小時內比對 2.7 萬種病原追查感染源",
+      "summary": "聯合新聞網報導台灣醫療 AI 延伸至晶片與智慧應用的最新進展，其中一項技術能同步比對多達 2.7 萬種病原體，並在 48 小時內完成感染源追查，大幅縮短傳統病原鑑定所需的時間。此技術結合高通量定序晶片與 AI 演算法，可快速識別罕見或新興病原體，對感染管制、疫情應變及院內感染預防具有重要意義。傳統培養或 PCR 方法往往需要數日至數週才能確認病原，此 AI 加速平臺若能進入臨床常規應用，將顯著提升感染症的診斷效率與患者預後。此技術對醫院感染管制委員會、急性感染症臨床團隊及醫療資訊部門均具高度參考價值。",
+      "tags": [
+        "感染管制",
+        "病原體偵測",
+        "醫療AI晶片",
+        "台灣醫療科技"
+      ],
+      "author": "未標示（udn 女子漾｜2026-10-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MOVBNeFVkaUgzWEhJLWt5SWRNSDBYYjE2U21jWWUwUlNBd0xlYXJYZzdQWXh5OGZHM1R6R3ZmcTBnWUpxYVVkSFo3RmlBeFlVbGNmS1EzdHZVb3AwU1hNQzRCUU92Y0xoZWpDQXlTbDBFMWlDWWNsbzVEU1lkQdIBYkFVX3lxTE1GNW9UQWc5eHcyZEY5V2JRWC1yVFBfRnFFbFdicF9MUkNfTHA4U1JzRG1mUmJ3NEpkQkpIdXp4bm52RDhzZXlGWDJVbENiOTRnRm9kTGZwa0gtUmtSYmdoam9R?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "醫院 CIO 示警：醫療 AI 採購應超越單點解決方案思維",
+      "summary": "Healthcare IT News 專訪一位醫院資訊長（CIO），針對當前醫療機構 AI 採購策略提出警示。該 CIO 指出，許多醫院傾向採購針對單一問題的 AI 點解決方案（point solutions），例如僅處理放射影像判讀或病歷摘要的獨立工具，導致系統整合困難、數據孤島林立且維護成本攀升。他建議醫院領導層應以「平臺思維」取代「工具思維」，優先選擇能與現有 EHR、資料倉儲及臨床工作流程深度整合的 AI 架構，並在採購前明確定義 AI 的治理框架與績效衡量指標。此觀點呼應業界對醫療 AI 碎片化問題的廣泛討論，對正在規劃 AI 投資策略的醫院管理層與資訊部門提供了具體的決策方向。",
+      "tags": [
+        "醫院CIO",
+        "AI採購策略",
+        "醫療IT",
+        "數位治理"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-10-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVhIMEViTFlPTjhPcW93eDZEZ0JMZmdDSXAtZWhNM2lOa3NqNmJXdDdLb3F1a3dBZzlkdGZ4a3ZnZ0RfeFFCQzBzU3pzbklpU3NNSFhPX0RtaFc0Z2JCdWl5NnVGZU9JTU1HMDVyNzZ6cEpLekFhM1VVWFlKZkczd0tqOEFkWU9NNEJFY29zWFdIeHhz?oc=5"
+    }
+  ]
+}
