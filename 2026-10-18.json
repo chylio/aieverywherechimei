@@ -1,0 +1,103 @@
+{
+  "date": "2026年10月18日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "JAMA 專文：AI 如何改變醫學實證回顧與臨床決策模式",
+      "summary": "美國醫學會旗艦期刊 JAMA 發表重磅評析，系統性闡述人工智慧在醫學文獻回顧與臨床決策輔助兩大領域的應用現況與未來趨勢。文章指出，AI 工具已能大幅壓縮系統性文獻回顧所需時間，並透過即時整合最新研究證據協助臨床醫師擬定診療方針。然而，作者同時警示，AI 生成建議的可解釋性不足、訓練資料偏差以及模型更新滯後等問題，仍是影響臨床實際採納的關鍵障礙。文章進一步呼籲醫學機構建立標準化的 AI 輔助決策評估流程，確保工具在進入臨床前通過嚴格的效度驗證。此議題直接關係到醫院如何將 AI 工具整合進現有的實證醫學架構，對於各科主任評估引進 AI 臨床輔助系統具有重要參考價值。",
+      "tags": [
+        "臨床決策支援",
+        "實證醫學",
+        "AI治理",
+        "JAMA"
+      ],
+      "author": "未標示（GNews-AI clinical｜2026-10-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iRUR3Y0xJZ2dSWmQwZnJhcTFsa0RTYkdOcmt2MEN1Mzl3RVN4UXBIUlIzZHViak8zV2Fsc1J6YU5tZUlyN1U0RkI0N1M5MzN5eEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "台灣中榮擘劃十年 AI 醫療藍圖：健保破兆預算挹注智慧醫療發展",
+      "summary": "隨著台灣健保總額首度突破兆元大關，逾百億元資金將挹注第一線醫護人力與設備升級。臺中榮民總醫院趁此時機正式公布十年 AI 醫療發展藍圖，涵蓋智慧診斷、智慧病房管理及精準醫療三大主軸。院方計畫透過大規模臨床資料整合，建立本土化 AI 模型，並逐步推展至跨院資料共享機制。此規劃不僅體現公立醫學中心在 AI 轉型上的積極姿態，亦彰顯健保資源在數位醫療投入上的政策導向。對於同樣面臨資源分配與 AI 投資優先序決策的醫院領導層而言，中榮的十年路線圖提供了一份具規模參照的在地案例，值得密切追蹤其執行進程與成效指標設定。",
+      "tags": [
+        "智慧醫院",
+        "健保政策",
+        "台灣醫療AI",
+        "長期規劃"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-10-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1OTFLZU9kOFBYS29JQnRtcTc5NGRXbUxiNEZlX0VwRS1wSlNnVXJBd2ZLTzlHUFlYZFZJYzRNMkI2UjFFS3lwZ3N5RDFEVVJCTjN3RGVFYlJrQUowS3RVYnJXWWZ4S2Z3Ri1GZjBpNA?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "大健康新未來雙軸論壇：逾 200 位產官學研醫代表共探 AI 跨界健康新未來",
+      "summary": "「大健康新未來雙軸論壇」於台灣盛大舉行，匯聚醫療、AI、神經科技與建築設計等跨域領域，逾 200 位來自產業界、政府機關、學術機構及醫療體系的代表共同出席。論壇聚焦探討 AI 在整合式健康照護環境中的應用潛力，包括智慧空間設計對病人照護品質的影響、神經科技與 AI 的協同應用，以及跨機構數據共享的可行性框架。此類跨界對話代表台灣在醫療 AI 政策倡議與產業生態系建構上的新興趨勢，顯示醫療 AI 已超越單一科技導入層次，向更廣泛的健康體系整合方向演進，對於思考醫院數位轉型整體策略具有觸發性意義。",
+      "tags": [
+        "跨界論壇",
+        "台灣醫療AI",
+        "智慧健康",
+        "數位轉型"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-10-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50bXg0cU94WGVNem91Xy11ckttOG41dzBELUJfMUc2aXNkb2hLLWdCeEljdmIwS3JuZ3ZMdmxMMUhOM0tWZHFMTmtzanFtOUs0Z1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "AI 聊天機器人提升醫療可近性，醫師憂精準度與倫理問題",
+      "summary": "隨著 AI 聊天機器人在醫療諮詢領域的應用日趨普及，其潛力與風險並存的議題引發醫界廣泛討論。支持者指出，聊天機器人能突破地理與時間限制，為偏鄉居民或非辦公時段的患者提供初步健康諮詢，有效提升醫療可近性。然而，臨床醫師群體則對精準度疑慮表達高度關切，特別是 AI 在面對複雜症狀或多重共病情境時，錯誤建議可能延誤就醫時機。倫理層面亦有爭議：患者隱私保護、知情同意機制以及 AI 建議的法律責任歸屬，目前均缺乏完善規範。此報導呈現醫療 AI 在落地應用過程中技術效益與倫理監管之間的核心張力，對醫院研擬患者自助服務 AI 政策具有直接參考意義。",
+      "tags": [
+        "AI聊天機器人",
+        "醫療倫理",
+        "患者安全",
+        "醫療可近性"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-10-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQLS1RNXpDVHpkRWJZUERkdnhPVTdzNkJ3X0pPZk1IZzRFaUtGNGlhLU02MzlPc2JlRFVaaXJUaXFOQzRpMWYyaHNIaVlVaHF4eDVnajA1SWdXQVJGbExoTHZUWlpzOTBWdjFjUndVTkVNaTVGVjZscVBiRzRQa01rRGlPZmZNRlJiWTFvTkNpc3lUaWhDMEVhOEhjYmhkYU5JNmN6NXktX05sdVZkdmpIaG9vRG5VVkJMZmd5RG5sdDBNNU14c091cGNNc0c0SklKOXdISG14NnNLcEphbUlXMlZ5TGtUYmpkYjNsVXJzZ3JlUVFHdlhsdF9NMzVzMmhNd25nelBZTG9namM1MzR4Z012cHRUU3NkM3UyM3didEtaZmRHQndvUWlXY0QyUkUxRFhBbnJfN0JxY1p6M2ZRUEY4UFk0Zm1VVVNLRkg1dHI0RkFoUndMVV9VNmp6YkVLazEzTlFXLVp4bVBO?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "美參議員提出 AI 治理框架，醫療保險業面臨嚴格審查壓力",
+      "summary": "美國參議員提出新版 AI 治理框架草案，將醫療保險業納入重點規範對象，要求保險公司在使用 AI 進行理賠審核、資格認定及費用核可時，必須公開演算法決策邏輯並建立人工複查機制。草案特別關注 AI 拒賠決定的自動化比例及對弱勢族群的差別影響。對醫療院所而言，此框架的影響不止於保險公司端：若保險端的 AI 審核流程受到更嚴格監管，醫院的住院申請、術前授權及帳務處理流程均可能面臨連動調整壓力。此外，草案亦可能引發監管機構對醫院自身 AI 工具的類似要求，預示著醫療 AI 治理監管環境正在快速趨嚴，醫院需提前評估現行 AI 系統的透明度與可稽核性。",
+      "tags": [
+        "AI治理",
+        "醫療保險監管",
+        "美國政策",
+        "法規趨勢"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-10-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPb096U3dPWTNqLWFDRkRoenI4eGs0bEwwQzNBaVZSdUJSbnJ5Rkx2eWpua2RvTVBINUdhRGtQdGc5LUFCU3ZueEx5SXVCamNyQkNDYkVIUUJ6M2hVbHFGSmEtWkFrMHE0NkM0YVV3YW02eGNBVmhITkVrVXFLTEVkRUdPMTdUeEFoQ2kyWUt0MkZBbEVtWlBvMllkanp4MHhOSWg5MUxBXzFPNnhXMHZyNXVNMjlyYnlVZkpnLWttNWxCSTNJWllyaUVzQzFmblJSV3BDV0ExdnhnTlpBM25rak9sSG5xNHNWQkV1RUl5Zno1NnJqSmxobERwZko2Wk1sYm1EN1o3Sk1IVWZSREYwWjh5akVZT19qRndPWTVoeGtQNU5ab2VtYUQ1ZkRVMGVVS242WWFfR3Zkbm5KYW90VHd6WEp3QkpSUUZIOGxaQVJYb3ZwNHBPemFNY0ZGaTA?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "AI 深入醫療營運：臨床風險管理與決策效率的轉型新路徑",
+      "summary": "一份針對 AI 在醫療機構營運層面應用的深度分析指出，AI 工具正逐步從臨床輔助工具延伸至醫療營運管理核心，具體應用包括住院風險分層、出院規劃優化、醫療資源排班預測及術後不良事件預警等場景。報告強調，AI 導入的最大效益不在於單點自動化，而在於跨系統數據整合所帶來的整體決策品質提升。然而，作者亦點出實務挑戰：現有醫院資訊系統的碎片化架構往往限制 AI 工具的整合深度，而醫護人員對 AI 建議的信任度與採納意願，仍是決定落地成效的關鍵人因變數。此分析對於規劃醫院 AI 營運應用路徑圖的資訊長與數位轉型團隊具有直接參考價值。",
+      "tags": [
+        "醫療營運AI",
+        "臨床風險管理",
+        "數位轉型",
+        "決策支援"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-10-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNR0FFU2lGWklsNmoxNXk0ZDhQZXVmcjlrcUYwMDRzMDFpbXQwcDFFX09CR1Zla3BuakotWHhTU0g1RDQ0OEw5MFFsRW9rSGtYSUdYUnh3ZmhMZzNxQ0I3THhXZXl6ZUxfTEJQcERielBGRHZGeVlhWHZQalZ0dGF0czk4SmpnMWstOXFwcWF5LU9QTjUtMlpyc1NBSUNTT1ZyREViSng0cWllYVhFOEtMWXQ2NG9JYU9JLXhLZ3BNMmVzVWpiTHZTOU93RzBTcF9fX3Uyd3NOYUl6SDBBbG8yZHZibU5KcU1icW9sM2llOEF4bEhxdkxjLTh1V1Foa2VXazI4RllHV1dHbXVHSTFkTHNXSW9xMGw0VTZ0V2lqZ0t5cDFQUENWV0xuTWdMcmEtTkt1VllmLWhZbng4RkVORUc3amhSRTRMZW03YWdfYXlSNFY1UGVlTjhLZ3U?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "AI 病理工具如何成為伴隨式診斷？關鍵門檻與法規路徑解析",
+      "summary": "Drug Discovery News 刊載深度分析，探討 AI 病理分析工具從一般輔助軟體升格為伴隨式診斷（companion diagnostic）的技術與法規要求。文章指出，伴隨式診斷須通過 FDA 的上市前審查（PMA）或 510(k) 許可，且必須與特定治療藥物的臨床試驗資料共同驗證，這對 AI 病理工具開發商而言是顯著更高的門檻。作者分析了臨床驗證設計、分析效度與臨床效度的區分，以及真實世界資料（RWD）在補強 AI 模型審查時的角色。此議題對採用數位病理 AI 輔助腫瘤用藥決策的醫學中心尤為重要，涉及工具採購時的合規評估與未來精準用藥生態系布局，是放射科、病理科及腫瘤科主任的重要參考。",
+      "tags": [
+        "數位病理",
+        "伴隨式診斷",
+        "FDA監管",
+        "精準醫療"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-10-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnpJVktPVFl6cmhFOEpwY1RYb0tfSURvZXJhSDY1cTFPTUY1b1Y4TFNCQTdodEsxekVSNnRtcjZpMzVVWF9UUVR5SUdrZktmNmUtVVVHbE1TekQzY3IxWVBIYnBINnlmbjE2cDdYR2FrLVdrSjJwR0ZWUlR1MVlGR1dIZWVXX1lnMVhqWnNUc3IwSkdKMnhuMEQtZHRRT1JO?oc=5"
+    }
+  ]
+}
