@@ -1,0 +1,75 @@
+{
+  "date": "2026年10月19日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "以色列醫院推出 AI 工具，協助無語言能力兒童溝通表達",
+      "summary": "以色列一家醫院近日正式啟用一套 AI 溝通輔助工具，專為無法透過傳統方式表達意思的非語言兒童設計。該系統透過人工智慧分析兒童的臉部表情、肢體動作及生理訊號，將其轉換為可辨識的溝通意圖，協助醫護人員與家屬更有效地理解患者需求。此類技術對腦性麻痺、自閉症或重度神經發育障礙等族群具有高度臨床應用潛力。此次落地應用標誌著 AI 輔助溝通技術從研究階段跨入實際臨床場域，為兒科照護模式帶來突破性轉變，也引發醫療界對擴大此類工具應用範圍的高度關注。對於兒科、復健科及神經科臨床團隊而言，此類工具的導入值得密切追蹤。",
+      "tags": [
+        "兒科AI",
+        "輔助溝通",
+        "臨床創新",
+        "神經發育障礙"
+      ],
+      "author": "未標示（i24NEWS｜2026-10-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeHlHVmJIajdZOG10NEFUcmpZNkh5OUlmUkdiTzE1a1E3QzhxRUZDb016RXVPd214VnJuQ3NSRk85UzRQajZxeTVmX0VoQllUVElYbVUxTHU1dXNqQ3FmRXRnWkQ2MDIzWTk0ZHR0Y0xPMnlGS1V4OWF3TjRkUW5FenYtWnFHYkRzVkJKRy1fd1l5aXFSbGNXaFdPMlVzUUhGc21yRXRtTnpjVmtMb3UxWHNlVklGaFhDbi0wbTNKZ2Y?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 7.5,
+      "title": "UPMC Enterprises 投資 VeloSource，擴展 AI 驅動臨床人力調度平台",
+      "summary": "美國匹茲堡大學醫學中心旗下創投機構 UPMC Enterprises 宣布對醫療人力科技新創 VeloSource 進行策略性投資，旨在進一步開發其 AI 驅動的臨床人員排班與人力管理平台。該平台利用人工智慧分析臨床需求波動、人員技能配對與排班效率，協助醫院降低人力短缺風險並優化工作分配。隨著全球醫療系統面臨護理師及醫師人力嚴重短缺問題，AI 輔助人力調度工具的重要性日益凸顯。此次投資顯示大型學術醫療中心正積極將 AI 技術延伸至行政與營運層面，而非僅聚焦於臨床診斷。對於醫院人力資源部門及資訊長而言，此類解決方案的成熟發展值得關注。",
+      "tags": [
+        "醫療人力管理",
+        "AI營運",
+        "臨床排班",
+        "醫院投資"
+      ],
+      "author": "未標示（MedCity News｜2026-10-18）",
+      "source_url": "https://medcitynews.com/2026/10/upmc-enterprises-invests-in-velosource-to-expand-ai-enabled-clinician-staffing-platform/"
+    },
+    {
+      "rank": 3,
+      "score": 7.0,
+      "title": "男性聽從 AI 飲食建議後住院，案例揭示消費者 AI 醫療建議的潛在盲點",
+      "summary": "美國《Newsweek》報導一則真實案例：一名男性長期依賴 AI 聊天工具獲取飲食與健康建議，最終因相關健康問題而住院治療。此案例揭示 AI 提供個人化健康指引時，可能因缺乏完整病史、個體差異辨識不足及無法進行動態追蹤而產生重大盲點。醫師與醫療專家對此表示，消費者 AI 健康工具雖具備提升可近性的潛力，但在缺乏醫療專業監督的情況下，恐引發錯誤醫療行為甚至延誤就診。此案例對醫療機構制定 AI 健康工具使用指引、患者衛教策略及醫病溝通模式均具參考意義，也再度引發各界對 AI 醫療建議邊界與法規監管的討論。",
+      "tags": [
+        "消費者AI",
+        "患者安全",
+        "AI倫理",
+        "飲食健康"
+      ],
+      "author": "未標示（Newsweek｜2026-10-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjdxLW4yTklxM0J2Q2Nrd0JuaUgyelJHd3Y3a2pUUUdhWEExeERaTjRscElMOUFKTktrZy1WTTBQVEUxWkFQUEE4WXlwc3llaE1SYXZNalRqUnZCRk81aHRkYng4YXl4c1NScnBoVGwzOEN0LWczOU9DemhWSTBJRkFiOUdQTzNhdVhmbUI3MWY3a2lvck1CWjROTG9kVTktT0I4Y20wOE1kT1U?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 6.0,
+      "title": "AI「讀心術」技術突破：人工智慧已能解讀大腦視覺影像",
+      "summary": "台灣科技媒體 TechNews 報導最新研究顯示，AI 技術已能透過分析大腦神經訊號，重建受試者腦中所想像或觀看的視覺畫面，被稱為「AI 讀心術」。此技術結合功能性磁振造影（fMRI）與深度學習模型，可將大腦活動模式轉換為可視化圖像，準確度達到前所未有的水準。雖然目前仍處於研究階段，尚未直接應用於臨床，但此技術對神經科學、腦機介面、意識障礙患者診療及輔助溝通等領域具有深遠的潛在影響。研究同時引發隱私權與倫理爭議，學界呼籲在技術推進的同時，應及早建立相應的倫理與法規框架，以防範潛在濫用風險。",
+      "tags": [
+        "腦機介面",
+        "神經AI",
+        "醫療倫理",
+        "技術突破"
+      ],
+      "author": "未標示（TechNews 科技新報｜2026-10-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mMktSSERESm1lTWJmQ3EzLTljZ3RzV192c2ppVlZGRTJnZmpJdjFFMWJNR1BwSHp4b3pWYVNQNV85SUdkaDB2djFrTms4cG9jUmVXRjNzaW9tQTlGQS0zeFYyd3BFcDV6d21XUXk1NFNiXzVxc0wxV014LV9DQ3M?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 5.5,
+      "title": "以色列醫院 AI 系統賦予無語言能力兒童發聲管道",
+      "summary": "繼同日 i24NEWS 報導之後，加拿大媒體 THEJ.CA 亦就以色列醫院推出 AI 溝通輔助系統一事進行跟進報導，進一步說明該系統如何透過人工智慧技術，協助因神經發育障礙、腦性麻痺或其他先天性疾病而無法正常說話的兒童患者，以非語言方式與醫護人員及家屬進行溝通。報導指出，此系統的開發歷時多年，結合語音識別、動作感測與機器學習模型，可即時回應兒童的溝通需求。此一創新在兒科醫療照護中具重要意義，有助改善患者就醫體驗及治療配合度，並為未來 AI 輔助照護工具在特殊需求族群中的應用開拓新路徑。",
+      "tags": [
+        "兒科AI",
+        "輔助溝通",
+        "特殊需求照護",
+        "臨床創新"
+      ],
+      "author": "未標示（THEJ.CA｜2026-10-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc3JUUGdkU3FEaktSWnBfRWVxRFpQU01nUEZMaXR0SFBsRFRKOW9NYXVqOHBBZU1aT3NLZ1ZudGhGQzd2cThRWGk1VTlCQzdwdzlZa3J4SE92OXVkZjhiQktEMXc0bF9ZZ3g3SEFYSUhOcXUwN0otVS03ZEYtd25DcG9lQWltcVhSOVZhSnFlNEludDdIaEJZRkhhZEFuMEprSWs0RU1MZUdvdXM?oc=5"
+    }
+  ]
+}
