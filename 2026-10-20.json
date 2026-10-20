@@ -1,0 +1,117 @@
+{
+  "date": "2026年10月20日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Stanford HAI：如何真正衡量醫療 AI 的實際能力",
+      "summary": "Stanford HAI 發布最新評析，探討醫療 AI 系統在真實臨床環境中的效能衡量方式。文章指出，目前業界多數 AI 評測仍停留於標準化資料集上的準確率指標，未能反映 AI 在實際醫院工作流程、跨族群患者、多元資料品質等場景下的真實表現。Stanford HAI 研究人員呼籲建立更完善的評估框架，涵蓋臨床意義、公平性、可解釋性及患者預後等面向，並強調「能在排行榜上表現優異的模型，未必能在臨床現場帶來實質效益」。此一觀點對醫院領導層選購或評估 AI 工具具有重要參考價值，提醒決策者在採購時應要求廠商提供貼近真實臨床場景的驗證數據，而非僅依賴論文或競賽結果。",
+      "tags": [
+        "AI評估框架",
+        "臨床驗證",
+        "Stanford HAI",
+        "醫療AI採購"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-10-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QQ3ZxUjkybVI0Wko2S0R6WVJQM0FEUmhYb0dpNlY4dm4tRW0zLTdVeDMwMWRIRGg1TU1sdTlGV01aYzE3SFJ3U2M3ZE9EZ2ZqNGttdjN4MUFDOE9zZVNnWmk5cnRZVjVpSElGNmhiWXo3cndCV3NPbTY3NA?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "台灣 27 家醫學中心年底完成病歷互通，明年 3 月前推雙重同意機制加速 AI 醫療",
+      "summary": "據聯合新聞網報導，台灣 27 家醫學中心預計於 2026 年底前完成病歷互通建置，並將於 2027 年 3 月前推行「雙重同意機制」，讓患者能在知情同意下授權病歷用於 AI 醫療研究與應用。此政策代表台灣在醫療數據治理與 AI 加速應用上邁出關鍵一步，透過跨院病歷整合，有助於訓練更具代表性的本土 AI 模型，同時建立患者資料使用的倫理防護。對醫院體系而言，病歷互通基礎設施的完備，將直接影響 AI 輔助診斷、臨床決策支援系統及健保數據應用的發展速度，並在資安與隱私合規上帶來新的管理課題，值得資訊部門與臨床領導層密切關注。",
+      "tags": [
+        "病歷互通",
+        "醫療數據治理",
+        "雙重同意",
+        "台灣醫療AI政策"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-10-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TOHkyTFhwOWJpYUxkbEhjbF8ydlJ6TGxKVzRfLVZvck84YXFuRFZuUkljSHBpU0VYTHpHdm1hcng4VHNCRW5IcDhDSFlHX3F40gFWQVVfeXFMT1Bwdl9aRm13N3FmVzhTeElnWVJDclVHdnV1bFZIbnczTTZ6Tm0zeEQ4b05XN3c5MXlVblFFNDMtbW1OOFZidkdiYV9aZjVLT29hSkFaR3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "AI 給錯醫療建議卻無跡可尋：研究呼籲建立追蹤與通報機制",
+      "summary": "TechNews 科技新報報導，最新研究指出，當前 AI 系統提供錯誤醫療建議時，往往缺乏有效的錯誤追蹤與通報機制，導致潛在傷害難以被系統性記錄與改善。研究人員呼籲，醫療院所在部署 AI 工具時，應建立類似藥物不良反應通報的監測制度，要求廠商提供錯誤日誌與審計追蹤功能，並設置院內 AI 安全通報管道。此議題與各國監管機構對 AI 醫療器材上市後監測的要求方向高度一致，對醫院資訊部門、醫療品質管理單位及院長室在制訂 AI 治理政策時具有直接的參考意義，亦呼應近期國際間對醫療 AI 問責機制的高度關注。",
+      "tags": [
+        "AI安全通報",
+        "醫療AI治理",
+        "錯誤追蹤",
+        "AI問責"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-10-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50Y0gycGJsSHc2VTVPeUcxVkttaG1xWXN6QkpHTUhzTGVsUW5xS0VoVlhBNzR5UDd5MkFuTkJKSUlZVmR3Nm1feklMS09nUUhUaWRQMXdQWXFUaUxQQk0yNjRVQlJ1STk5Y0JwbmcwQm9FclloTWo3bzlHRzc?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "Healthleap 獲 3,800 萬美元融資：以 AI 解析病歷筆記、自動揪出隱藏病症",
+      "summary": "醫療 AI 新創 Healthleap 宣布完成 3,800 萬美元（約新台幣 12 億元）融資，其核心技術專注於分析非結構化臨床病歷文字，利用自然語言處理與機器學習，主動識別醫師可能疏漏的共病或高風險狀況，並發出即時警示。此技術直接切入臨床文件管理痛點，有別於以影像為主的 AI 診斷工具，更貼近護理師、病歷管理師及內科醫師的日常工作流程。對醫院而言，此類工具具有改善診斷完整性、提升健保申報準確度及降低醫療糾紛的潛力。本輪融資規模亦顯示投資市場對「非影像類臨床 AI」的信心持續升溫，值得有意發展智慧病歷管理的醫院關注。",
+      "tags": [
+        "臨床NLP",
+        "病歷AI",
+        "融資",
+        "隱藏病症偵測"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-10-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VLVlrNUdaNm9Qa01ha1lHT0RMYVB1azRqbGVaeUEzUkp1YmIyd0wxblluUEwwbWRZS1pYRzd5aS10SWRtVEVGalVVSkdIVEJTLWhWZmtFbFk1RkNMRWVOd0JvbzA3S0VrNjhiemlTTHBHQnczbEN1ZFE2Q18?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "FDA 核准乳癌復發風險 MRI AI 評估工具，助力個人化治療決策",
+      "summary": "FDA 近期核准一款透過 MRI 影像評估乳癌術後復發風險的 AI 工具，可輔助放射科醫師及腫瘤科醫師量化個別患者的復發概率，進而協助制訂更精準的後續治療計畫。此工具通過 510(k) 審查，代表其安全性與有效性已達 FDA 實質等同標準，可正式進入臨床採購流程。對醫院乳癌診療團隊而言，此類工具有助於縮短影像判讀至治療決策的時間，並為患者提供更具數據依據的溝通基礎。在影像 AI 法規核准數量持續增加的背景下，醫院放射科與腫瘤科應評估其與既有 PACS 系統及多學科會議流程的整合可行性。",
+      "tags": [
+        "FDA核准",
+        "乳癌AI",
+        "MRI影像分析",
+        "復發風險預測"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-10-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWTNxNDVUVFZxakhaMWJKT1lNeFEtSnp0R09Da2xhc0l0S29LZUt5bjF3OHdhZTdoX3U3S0kydlk3U2IxVGhvMmRTRVRHQlB2dUd3bEZuSTlkR0RRb0RobnAzOU5saFBhV2JNeElvN240OVRQTjhxZnZ1bW1KakV4aE1wbzhzZDBGTmVpQnczaGZWX1ZiM0tSTHhLZ3FDb3FRekpMRjdoZEh4dmczSW9aeDcteklhMGpRU1FaMA?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "醫療 AI 數據竊取疑雲落幕：OpenEvidence 與 Doximity 訴訟達成和解",
+      "summary": "商傳媒報導，醫療 AI 平台 OpenEvidence 與醫師社群平台 Doximity 之間的數據竊取訴訟案已達成庭外和解，結束一場備受業界矚目的醫療 AI 智慧財產爭議。此案核心爭議在於 OpenEvidence 是否在未經授權的情況下使用 Doximity 平台上的醫師貢獻內容訓練 AI 模型。和解雖未公開具體條款，但此案已為醫療 AI 領域的訓練數據使用合規議題敲響警鐘，凸顯醫療機構在授權第三方使用臨床數據或醫師生成內容時必須建立清晰的法律框架。此案發展對台灣醫院在規劃 AI 合作合約時具有重要的法律合規參考價值。",
+      "tags": [
+        "醫療AI訴訟",
+        "數據合規",
+        "訓練資料授權",
+        "智慧財產"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-10-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNalYtam9uMDR2NTI0RWdhalF5SEZtNkxiYjFray01OGRYbk5zUWx1ZWJIbXdXTHo2ZDlQYjF3UXV6ZFhoSXNoUXFMZDY5NkpwVTVpYUI1WU9XdzNNczhQN0sydFVTdEVabWQ5RGZaZmlxcnR3VTBSQzB2azBvOWFYanNQM0pWU24wSWNRektyZXowLVJ1VFRoZi02VWJDcUZCS1dZQ0RjV3UtWXFqMl9XZmhodTNla3kyRHp3alJqbGJoX3o1aUhMUUpGVUxUQjhyWlU4QjBjRnJERDV2UFdzT1FXRTYtNERyazBJWWh5ekxlazRyV1dXSzFzbFFoUHRSUzB3LUhLa2IzeFluOENpeC1vWk9VaGNIZWZkVEg5U3JZdS03a2RtWW1VYXNmNGZlMjVLeFRqS05pTXVL?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "AI 數位病理連結癌症切片與治療決策：臨床整合新進展",
+      "summary": "Innovation News Network 報導，AI 數位病理技術正逐步跨越單純影像分析的範疇，開始與腫瘤治療決策系統深度整合。新世代工具可直接從組織切片 AI 分析結果中提取生物標記資訊，並自動對應至臨床指引中的用藥建議或臨床試驗適用條件，大幅縮短病理報告至治療方案確定的等待時間。此趨勢與 NeoGenomics 擴展 AI 病理夥伴關係、Imagene AI 與 Mindpeak 合作整合 NSCLC 生物標記分析等產業動向高度吻合，顯示 AI 數位病理正快速從研究工具轉化為臨床標準流程的一部分，對有意建置或升級數位病理平台的醫院具有策略性參考意義。",
+      "tags": [
+        "AI數位病理",
+        "腫瘤治療決策",
+        "生物標記",
+        "臨床整合"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-10-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNclVvY2pfMWxhcWVENVFIeFYtSGJwdm90d0tMWnBncFp0RllneURhNnhTRmtScGYtLTgwbDl5bXhpYkxHcC14bFRvbWtpMzlEUGNvYVRQT3E3ZElmQmUtODZSandIc1VmOXRpdW1HQUlTYTRyTmNNdjYta2Qza3htRGROTXpqSzdJTmZjZ0lTSE4yYVE2V2hr?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.0,
+      "title": "AI 分診超越 AI 診斷：醫療 AI 最棘手的問題另有所在",
+      "summary": "MedCity News 刊出評論指出，醫療界長期聚焦於 AI 在診斷準確率上的突破，卻忽略了 AI 在「分診」這一更具挑戰性場景的應用潛力與風險。作者認為，分診決策涉及資源分配、緊急程度判斷與多元患者背景，遠比單一疾病診斷更為複雜，且錯誤的後果往往更為嚴重。文章呼籲開發者與醫院在設計 AI 系統時，應將分診場景納入核心測試情境，並確保 AI 建議可被第一線醫護人員有效監督與覆蓋。此觀點為急診科、內科加護及門診分流管理提供了新的思考框架，提醒醫院在評估 AI 工具時不應只看診斷性能，更應審視其在高壓、時間敏感場景下的可靠性。",
+      "tags": [
+        "AI分診",
+        "急診AI",
+        "臨床決策支援",
+        "患者安全"
+      ],
+      "author": "未標示（MedCity News｜2026-10-20）",
+      "source_url": "https://medcitynews.com/2026/10/diagnosis-is-beside-the-point/"
+    }
+  ]
+}
