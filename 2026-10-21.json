@@ -1,0 +1,131 @@
+{
+  "date": "2026年10月21日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "FDA 官員：生成式 AI 醫療工具應比照醫師進行評估，監管思維須全面翻新",
+      "summary": "FDA 數位健康卓越中心主任 Rick Abramson（放射科醫師出身）在公開場合表示，生成式 AI 工具的行為模式已愈來愈接近醫師的臨床判斷，而非傳統醫療器材（如心臟瓣膜或去顫器）。他認為現行以「器材」為框架的審查制度難以完整評估此類工具的風險與效益，FDA 正研擬將 GenAI 工具比照「醫師」模式來評估其能力、侷限與錯誤率。此觀點對醫療 AI 產業具深遠影響：若 GenAI 工具須通過類似執業能力的審查標準，將大幅提高上市門檻，同時也意味著臨床部署的合規義務將更加嚴格。對醫院引進 AI 輔助決策工具的採購與風險管理流程而言，此監管思維轉變值得高度關注。",
+      "tags": [
+        "FDA監管",
+        "生成式AI",
+        "醫療器材法規",
+        "臨床AI評估"
+      ],
+      "author": "未標示（MedCity News｜2026-10-21）",
+      "source_url": "https://medcitynews.com/2026/10/fda-official-believes-genai-enabled-tools-will-need-to-be-assessed-like-a-physician/"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "OpenAI 專家預言：AI 有望將醫療指引更新週期從 17 年壓縮至數小時",
+      "summary": "OpenAI 相關專家公開預言，目前醫療臨床指引從新證據產出到正式更新平均需耗時 17 年，是造成「知識落差」的重大問題。藉由 AI 自動化文獻回顧、證據分級與指引草稿生成，這一週期有望大幅壓縮至數小時。這不僅對臨床決策支援系統（CDSS）的即時性具有革命性意涵，也對醫學教育、繼續教育及醫院品質管理流程帶來衝擊。若 AI 能實現指引的近即時更新，各科主任及品管委員會的知識維護責任與流程將面臨重塑。目前此技術仍處於概念與早期驗證階段，量產部署尚需克服資料品質、語言本地化及法規審查等挑戰，但其所描繪的未來圖景已引發醫療界廣泛討論。",
+      "tags": [
+        "臨床指引",
+        "AI文獻回顧",
+        "知識更新",
+        "OpenAI"
+      ],
+      "author": "未標示（商傳媒 SUN MEDIA｜2026-10-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOc2pRQ1FIUWxCWVNQRzhzWlQzNVY2emIyYkdTYl9BUjlpR3Vod2dRdDhjdVVaQzZJYzdTdHNsSXhvMEk3V3k3VXdNYlVwR1haOFRiUk12TE1LOGMzSEI1TDBTeXdNV3BNMEdHNFhRN0dwVHowMVNZMkY4ZUxtTkdjSWpuTmJZQTI3YlZQbXVkVmVycHdqNWRkT1ZQTmUzSWNQVHh4UXpzTXVROWRoR1AtUS1FeXdpSFJFTndONWh4dmlZcC12dnlCZ25LQUQyWGR0dURwNTRsbkxsZmdZeEpYbEVoXzYyS2ktR2VzaGdlcUdtTHFCZUV3VHVGNE53ZXlMZGh5OEJUNFVtUS0walZVM1Z3TlRMc3dZN2YxS2FHbzJOWUhEQnJ1bktRclp2OUVnbHFpTWxyMFlxME1YbGdwTTY5TQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "Doximity 將 UpToDate 整合進 AI 臨床支援工具，醫師查詢品質大幅提升",
+      "summary": "Doximity 宣布將全球最廣泛使用的臨床決策資源 UpToDate 整合至其 AI 臨床支援工具中，使醫師在同一介面即可獲得 AI 生成回應並佐以 UpToDate 的循證醫學內容。此整合旨在解決純 AI 語言模型在臨床場景中可能產生的幻覺或證據品質不足問題，透過權威醫學資料庫的背書提升回應可信度。對醫院資訊部門而言，此模式代表「AI + 結構化知識庫」的混合架構正逐漸成為臨床輔助工具的新標準，既可提升使用者信任，也有助於符合醫療法規要求。Doximity 平台在美國擁有龐大醫師用戶群，此整合若推廣至台灣或亞太市場，將對本地電子病歷及臨床決策支援系統的整合策略提供重要參考。",
+      "tags": [
+        "臨床決策支援",
+        "Doximity",
+        "UpToDate",
+        "AI整合"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-10-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ1NSdi1ka2trb2gxeWVRMUJLZ3JUN3pzQlNhSmdZam1kRE1sT0tMWmkwY29yOEo0QVdzSS1XaHdfVTZVX0ozM0tDUmpvbUVhVURpNk5WOHV1b0NoeWVzVXNOczlNSWxIU2ZZaGp6M3J6bExQZVg5R2NnNDlCMmxqZ0ZLbWdXLXdqdFFMVFNDYmViVWM?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.2,
+      "title": "AI 分析照片預測癌症存活率：最新「看相」技術震撼醫界",
+      "summary": "最新研究顯示，AI 技術已能透過分析患者照片（包括臉部影像特徵）預測癌症存活率，此一「視覺生物標記」方法在部分癌症類型中展現出與傳統臨床指標相當甚至更優的預測能力。研究人員認為，患者外觀特徵反映了年齡、營養狀態、免疫功能等多重生理資訊，AI 能從中擷取人類醫師難以量化的細微訊號。此技術若成熟應用，將為癌症分期、治療規劃及臨床試驗入組提供低成本、非侵入性的輔助評估工具。然而，其潛在的演算法偏見（如膚色、族裔差異）及隱私倫理問題，仍是臨床導入前須審慎評估的重要課題。目前研究成果尚待更大規模多中心驗證。",
+      "tags": [
+        "癌症預後",
+        "視覺AI",
+        "生物標記",
+        "臨床AI應用"
+      ],
+      "author": "未標示（鉅亨網｜2026-10-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vV2VZMDg4LVM2MGkwTHM2cGwtMl9GSVZ6UktoUVpiWTY2SXRlVGNYZE9EbHFxVVhXTmxMQlN4c0RYQUtLMTBWU1JMd2lPOFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "醫療 AI 出版治理破碎化：系統性回顧揭示全球法規與發表標準嚴重分歧",
+      "summary": "一項最新系統性回顧研究發現，全球醫療 AI 相關研究的出版治理框架高度分散，各國學術期刊、監管機構對 AI 演算法透明度、資料集揭露、臨床驗證標準等要求差異甚大，導致研究成果難以比較、複製及跨機構應用。研究指出，缺乏統一的報告標準（如演算法架構、訓練資料偏見評估、外部驗證方法）是當前醫療 AI 研究最大隱患之一，可能造成臨床決策者對 AI 工具能力的高估或誤解。報告呼籲國際學術組織、監管機構及期刊編輯委員會共同建立強制性的醫療 AI 研究發表規範，以確保 AI 工具進入臨床前有充分、可信的證據基礎。此議題對台灣醫療 AI 研究發表及審查制度具有直接的政策參考意義。",
+      "tags": [
+        "AI治理",
+        "研究規範",
+        "出版標準",
+        "法規"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakdaWXJBNm5jTVFITXpfTVlMU1J2azZuWU53NVNMQjZVRU5EOFZmYm1pdm5ZRnRJT0NQdVloM1JjbkZZMVpKNHNqV09JUG5nOEVsejhIVlRuSTVncWhmeGlEdGFmbTBHcWRpQzhNTllEb2lVa1k4WWVYMDl5WjNidVdSalZkYTF6RTd1Z1ZETV9YR01KNnRwRmlZVDV4aE43YVo5bWJldw?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "愛荷華醫院以 AI 技術擴大大腸癌篩檢覆蓋率，AHA 報導實地應用成效",
+      "summary": "美國愛荷華州一家醫院透過部署 AI 輔助大腸鏡篩檢技術，成功擴大癌症早期偵測的覆蓋範圍，美國醫院協會（AHA）對此案例進行專題報導。該院導入 AI 影像分析系統後，大腸腺瘤及早期癌症的偵測率顯著提升，同時協助解決放射科與內視鏡醫師人力不足的問題，使偏遠或醫療資源較少的社區患者也能獲得高品質篩檢服務。此案例展示了 AI 在預防醫學與公衛篩檢領域的具體價值，特別是在醫師人力資源有限的地區，AI 輔助工具可有效填補服務缺口。對正在規劃或擴展消化科、腫瘤篩檢服務的醫院而言，此實際落地案例具有重要參考價值。",
+      "tags": [
+        "大腸癌篩檢",
+        "AI內視鏡",
+        "預防醫學",
+        "臨床AI應用"
+      ],
+      "author": "未標示（American Hospital Association｜2026-10-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0xweFRUQkdtZlhBTUZTSXhsMkpjX2xOcFFBeFh1MFFndjN6WWtheFM4bXFsZUJpYUtHeW9OeUZzbXhCUWpZcTd5a0JHYmJWTC1DZXR2b1IwUnZkdVlsbUVSTFNsMWdBMTVkQThxVXZqTjNEY3dNaFhmVTMzZ2dQbkdqbG9RRlY3YjJZdU80ZDhTX0xqNWdEUDJtQjUtUUs1dERRQndiOEZiU0ZUWVUw?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.3,
+      "title": "AI 預測工具進駐兒童國家醫院：以預測模型優化急重症資源調配",
+      "summary": "位於華盛頓特區的 Children's National Hospital 已實際導入 AI 預測工具，用於預測急診及住院患者的流量、病床需求及人力配置，協助醫院在資源有限的情況下更精準地調度急重症照護能量。該系統能整合歷史病患資料、季節性疾病趨勢及即時入院資訊，提前數小時至數天預警高峰時段，使行政管理團隊得以提前因應。此類 AI 預測工具的應用範疇已超越純臨床診斷，進入醫院營運管理層面，對降低超載風險、提升病患安全及優化人員排班具有實質效益。隨著類似系統在各大醫學中心逐步落地，醫院資訊部門與營運管理團隊的跨部門協作模式也將隨之調整。",
+      "tags": [
+        "醫院營運AI",
+        "急重症管理",
+        "預測模型",
+        "兒科"
+      ],
+      "author": "未標示（wandtv.com｜2026-10-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYUFrWERnWGFsNkRBNjZJVVlhRTlTcGFTQ1JYYWF1S0xSbVdROTVvSkF1TGszYVpjamxPTk1FWWxSSW5qWVkxMWd1YjlmbDhMdHBhWTZEaEhVSzJnMndkdDEteGR1UVNOVkdsTHdnY09EV1I5cDZBQTlpSGhLa0hLcnVOcFlYX0M2U2JkNjNwMnFoSlVENDMyd3FpVTJRUXZOdlAtczlGZy1aN2M?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "FDA 最終指引確立處方藥應用程式與軟體監管框架，醫療 AI App 合規路徑明朗化",
+      "summary": "美國 FDA 正式發布處方藥應用程式（App）與配套軟體的最終指引，為藥廠如何開發、配發及標示與處方藥搭配使用的數位工具建立清晰法規框架。此指引明確區分「功能性數位療法」與「行銷輔助工具」的監管差異，並對軟體安全性、資料隱私、臨床驗證及標示資訊提出具體要求。對醫療機構而言，此指引不僅影響院內自行開發或採購的藥物管理 App，也對未來整合處方藥數位伴隨工具的智慧醫療服務設計具有規範意義。此外，該框架亦可作為台灣衛福部食藥署研擬本土數位療法監管規範時的重要參考依據。",
+      "tags": [
+        "FDA法規",
+        "數位療法",
+        "處方藥App",
+        "醫療軟體"
+      ],
+      "author": "未標示（FDA Press Releases｜2026-10-20）",
+      "source_url": "http://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-prescription-drug-apps-and-software"
+    },
+    {
+      "rank": 9,
+      "score": 6.8,
+      "title": "Sophont 推出 Holon-S1：從常規病理切片直接解讀腫瘤生物特性",
+      "summary": "新創公司 Sophont 正式發布 Holon-S1 AI 平台，宣稱可直接從醫院常規製作的 H&E 病理切片中解析腫瘤微環境、免疫細胞浸潤程度及分子表型等深層生物資訊，無需額外進行昂貴的分子檢測或免疫組化染色。這對資源有限的醫院或缺乏先進分子病理設備的機構而言，具有降低腫瘤診斷成本、縮短檢測周期的潛在優勢。Holon-S1 的推出代表 AI 計算病理學（computational pathology）正從單純的形態辨識，進化至能提供治療指導意涵的「虛擬分子病理」階段。病理科及腫瘤科主任可關注此類工具在提升診斷深度、輔助用藥選擇及臨床試驗患者分層方面的應用潛力。",
+      "tags": [
+        "計算病理學",
+        "腫瘤AI",
+        "數位病理",
+        "生物標記"
+      ],
+      "author": "未標示（PR Newswire｜2026-10-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3RUNUZpVWxMZEtWWWszWHBWaDVHZnYyZzZkMjVGTTNLdDc4Ty14dHNRNGZZdmp1by1FQ0JWeVUtUTRxV2ZHaTJGQkNnekkxRGViNjdyU0JLb2tOWHNGZFdCMmhTZFJlVlVRWllDSV9tVVJCQjRFYTlHSDNGbWhnRVl0NWRlWjdrZlhSTGdNZ2tBMVlEUmk4enhXa29KLUROU1NMSGxoYm81XzlKbk9YUzFnbEpDb05xNTd1am1MNkNzUl9OVDdwLV9LMWNTVTRm?oc=5"
+    }
+  ]
+}
