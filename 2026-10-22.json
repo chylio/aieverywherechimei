@@ -1,0 +1,131 @@
+{
+  "date": "2026年10月22日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "AMA 呼籲 FDA 對生成式 AI 建立風險分級監管框架，明確責任歸屬",
+      "summary": "美國醫學會（AMA）正式向 FDA 提交政策立場，要求針對生成式 AI 執行日益關鍵的臨床功能建立風險分級監管機制。AMA 核心訴求在於解決一個根本問題：當 AI 工具進入實際臨床場域後，誰應負責確保其持續安全性？目前監管架構對上市後 AI 工具的問責機制仍不明確，尤其在模型更新、資料漂移或使用情境擴展後，風險評估往往出現空白。AMA 指出，應依據 AI 工具的臨床決策影響程度進行差異化監管，高風險工具須有更嚴格的上市後監控與不良事件通報要求。此立場呼應近期 FDA 對醫療 AI 監管框架的持續討論，也是繼 FDA 官員公開表示須重新評估 AI 工具監管思維後，醫療主流組織的正式回應，對各醫院採購與部署生成式 AI 臨床工具的合規策略具有直接參考意義。",
+      "tags": [
+        "生成式AI監管",
+        "政策法規",
+        "臨床AI安全",
+        "AMA"
+      ],
+      "author": "未標示（MedCity News｜2026-10-22）",
+      "source_url": "https://medcitynews.com/2026/10/ama-calls-for-risk-based-genai-oversight-to-protect-patients-and-support-responsible-innovation/"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "WHO 與韓國政府共同採納醫療 AI《首爾宣言》，推動全球負責任 AI 應用",
+      "summary": "世界衛生組織（WHO）與韓國政府聯合發布醫療 AI《首爾宣言》，正式確立全球醫療 AI 應負責任、公平使用的國際框架。WHO 總幹事譚德塞表示，AI 監管與應用必須如刀之兩面並行推進，片面強調技術應用而忽視治理將帶來系統性風險。《首爾宣言》涵蓋醫療 AI 資料治理、演算法透明度、跨國互通性及弱勢族群保護等核心議題，並要求各國政府與產業界共同承諾，確保 AI 工具在低收入及中收入國家同樣可及。此宣言為繼 G7 廣島 AI 進程後，首個專門針對醫療領域的多邊 AI 治理宣言，將對各國衛生主管機關的 AI 政策制定產生實質影響，亦為台灣衛生福利部推動醫療 AI 三大布局提供了重要的國際政策參照座標。",
+      "tags": [
+        "全球AI治理",
+        "WHO政策",
+        "醫療AI宣言",
+        "國際法規"
+      ],
+      "author": "未標示（BigGo 財經｜2026-10-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jVTg1T3J2TElyQm95M1VKUW1ndWpkZzN1dFNLMkFQWEhKeXljRXQyMUJCOG9tcW90UVZ1cTh4UnMxTmYwQ3BYdll2Q3ByYU9QTGhvQTZrZFJhcUVFVzdJT0pOZFJRMG8xb2J4SlVIR2JmQnBhbGlPd05n"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "SickKids 與 Microsoft 簽署五年 AI 夥伴協議，加速兒科精準醫療落地",
+      "summary": "加拿大多倫多病童醫院（SickKids）與 Microsoft Canada 宣布簽署為期五年的策略夥伴關係，共同推進 AI 驅動的兒科精準醫療。合作範疇涵蓋臨床決策支援、基因組資料分析、醫療影像 AI 判讀及院內工作流程自動化，並將整合 Microsoft Azure 雲端平台與 Copilot 系列工具。此合作的核心目標是縮短罕見病兒童的確診歷程，並透過 AI 協助個人化治療計畫制定。SickKids 為北美頂尖兒童研究型醫院，此次合作模式被視為大型學術醫院與科技巨頭深度整合的標誌性案例。值得注意的是，此協議明確設定五年期限與具體應用場景，相較過去雙方常見的概念性備忘錄，具有更高的落地約束力，對有意推動類似院企合作的醫療機構提供了可參考的合約架構與範疇設定。",
+      "tags": [
+        "兒科AI",
+        "院企合作",
+        "Microsoft",
+        "精準醫療"
+      ],
+      "author": "未標示（www.hospitalnews.com｜2026-10-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGM1VEV2WGJRQzRsVURQUllUcXg4ZGJ4Vzg4d2tRR2RkeUlUS2cyZWctbnNwZGIzMHd0cnlydDF5ellYbW5LVWNWYzlzWWxZNFI3S2VrczFwQzJLMkQ1VnlRb0dQYzRmY3JNM3NuXy12TkdsSVA1dHNOY2l0N3VWX3c0WE1DRlM4azBpeUNEXzR1aHBiNXVPdjd2MUV2cHhVZklOck5CSnBocjNjWEtQQXhVYWxKZE9rSXh4OQ"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "NVIDIA 攜手華盛頓大學與西門子醫療，推出開放蛋白質設計模型並擴展醫療 AI 生態",
+      "summary": "NVIDIA 在醫療 AI 領域宣布多項重大夥伴關係：與華盛頓大學合作推出開放原始碼蛋白質設計 AI 模型，目標加速藥物探索流程；同時與西門子醫療（Siemens Healthineers）合作開發放射治療規劃 AI 工具。蛋白質設計模型採開放授權，學術機構與生技公司均可免費取用，預期將顯著降低 AI 輔助新藥研發的門檻。西門子醫療合作方面，NVIDIA 的 GPU 加速運算將用於優化放射治療的劑量計算與靶區勾畫精度，有望縮短放療計畫制定時間並提升個人化治療品質。此次 NVIDIA 策略性擴張涵蓋基礎研究與臨床應用兩個層次，顯示科技平台廠商正從單純提供算力轉向深度整合醫療垂直場景，對醫院評估 AI 基礎設施採購策略具有重要參考價值。",
+      "tags": [
+        "NVIDIA",
+        "蛋白質設計",
+        "放射治療AI",
+        "藥物探索"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-10-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxOYmkyUks1cFVzUk84ZWN2Y1I3NExwZG1nNGp0S3hoajR1N09faTNCYkV4WGlsOWs2MU44UlEwWlZhbklKUkcyNU9fNURqeTRRVGtsTnJ6Q1ZCVWFTVXdibDZZM29pbDVsdU96eGFOOVczRlg3UDVQOWFWMDVLX2dWZ3d1NWVGQVJLZVpYZFVPYnpmZEhUWXZjemZLYjVxYzJDQUhzMWNvbnBMbnBuTkE3bVJ3U3V6R1J5YlFSX1ZvdF82c2pjM2oxcFFVdEtPM1V5TWRneUhXRU1sakZlU01mMnUyUWdRSWRSZ3JGbFNrcHRBbWMydllXOFNreFZIQ0toanQtYU51SDVuWExGbEJ2M3NtaHdXR1R0X2tQMEtWSXd2c3ZCYXVNVVFVVnE1VzJaeGxfSDFSWnhlTEpoVU1xaVBxN2xtTHhnNTlQbEVJaHZtRVRxbTUzdUVpaXJLbmU5UElBVFktRTdvRHk0VWhPRU5ZNkNRQzh3eU13VmFHWnhFcWhsOFdKRFRoaVNLT25uaHhvRUx3T2NORXNmYWVtYW51TXo1U2NIX0RjWDBRMHg3d3FCYkxPUVVvYjJTSDdHcHlZeDA4YjNEQnBiSUdVTHRkSnE2LUgtZ1RGaDdWcmZLZUJKN21XWkRCZjFScWo5RlZXX2hrdHppSDFCdUU2UGRoTTREbXNqb3ZfdzkwUFIwcE9rbGJwbkNxSGFCUXJ4Ql9iRmNMeVM"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "台灣衛福部揭示三大 AI 醫療布局，從醫療主權 AI 到臨床導入全面推進",
+      "summary": "台灣衛生福利部次長石崇良公開揭示衛福部推動醫療 AI 的三大策略布局：建立本土「醫療主權 AI」、完善臨床 AI 驗證機制，以及推動 AI 工具落地真實醫療場域。石崇良強調，台灣不應僅依賴國際大廠的通用模型，而須培育具備台灣人口健康特性的本土醫療大語言模型與影像 AI，以確保資料主權與臨床適用性。在驗證機制方面，衛福部計畫建立系統性的 AI 工具臨床試驗框架，要求 AI 工具在取得上市許可前須完成真實場域驗證。此政策方向呼應近期外界對 AI「護國神山」的期待討論，亦為各醫院在評估本土與國際 AI 工具時，提供了來自主管機關的明確政策信號，預期將影響未來醫療器材軟體（SaMD）的審查標準與採購優先順序。",
+      "tags": [
+        "台灣醫療AI政策",
+        "衛福部",
+        "醫療主權AI",
+        "臨床驗證"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-10-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQOF8taXFEZWtkWWl1Tk5iSFhnZHZiclZadXJwZWlDaHhNdW0wR2NOYnRQMXJyMTBEWFNBNUJoRTZuUy0yUHFXMWhacnhYZFZBazZTRHVHRGs2MFpOQ0gxRFFVZ081T3ZoRTBOekZUNGpveWhQWnIweHN0SHV1Q2dFM1hremhDd1kxRjdFVldlUEgzbFpMMUhuN1NhMExYamhJZkVjSmZYaGtGUDcyNm1ndmtGb3NRMFVvNFphNWZwUU1LbWhzRjI2bTV1MDBCMGFac0hSLV9rdHhMenJXdzZHdXRNNTExRDhjWkRPNmI5V21SUjRvSHJPRWZZcWxWeVZIWURpQnFrSFhsYzE2WkJlUlIwbWQ1azVkbktYUTBKWFg5UnpVR2tuMG1UQko4aUFHQTNET3ROSFVnS2g0Sm5jZlBQNkFZOVkyR0lUQ2FOT0JYZFBiU2toQXRBSlpVdTZ0d0drdnZ5RWZvWjdlRnFHSUtyaw"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "醫療 AI 真實場域測試平台 Protege 正式上線，獨立評估工具實際臨床表現",
+      "summary": "新創公司 Protege 宣布推出獨立醫療 AI 評估服務，專門測試 AI 工具在真實世界條件下的實際表現，而非僅依賴廠商自行提供的基準測試數據。Protege 指出，目前醫療 AI 市場存在嚴重的「基準數據與臨床現實落差」問題，許多工具在受控環境表現優異，卻在實際病人照護場景中出現準確率下降或偏誤擴大等情況，尤其在罕見疾病診斷路徑上暴露出明顯的診斷空白。該平台採用獨立第三方評估框架，模擬多種真實臨床情境，包括資料稀疏、族群分布不均及工作流程中斷等干擾因素，並公開評估報告供採購方參考。此服務的出現回應了醫療機構長期面臨的「AI 採購資訊不對稱」困境，有助於醫院在評估 AI 工具時取得更客觀、可比較的獨立依據。",
+      "tags": [
+        "AI評估框架",
+        "真實世界測試",
+        "臨床AI品質",
+        "採購決策"
+      ],
+      "author": "未標示（Business Wire｜2026-10-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTXlVa1c5aHBsdnBvWkhsR0ZpWW83b0V1SXhjZmRsUkYwOHFwaHZEcUNJYTFxa1hlRTRJZWlMR0hhV092eUUwZ0xmZGhPZ1BVRUMwaTdwQXBVejFBcUNMMlhNWlR6N2VVMzNrWGJPMzZEbzlXeGF3TU84VXFzNzhNQU1hUHZXYjRBX0RWQzdidWQ1dml6OUI2ZF9UbDNTZ0VJQllJb2tYOWpKNlAtU3d5dkRSUXFHcW5aYkhVQzk0ZUxMZERpSWYwU2hnbnJCQjFUNEVhRkU2ZnlYZ0NUcGY5eUo4d0tmcTVQRVdnQ3Bn"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "醫療 AI 雄心壯志撞上資料高牆：資料品質與互通性成最大瓶頸",
+      "summary": "BioSpectrum Asia 分析指出，儘管醫療 AI 投資熱度持續攀升，業界正面臨一道難以迴避的「資料高牆」：電子病歷格式分歧、跨機構資料共享法規障礙、資料標註品質參差不齊，以及影像資料缺乏標準化標註等問題，導致 AI 模型訓練品質受限，泛化能力不足。報告特別點出，即便技術架構已趨成熟，許多醫療 AI 專案在進入真實場域後仍因資料可用性不足而功虧一簣。這一現象在亞太地區尤為顯著，各國健保資料庫的開放程度與隱私法規差異，形成 AI 跨境應用的重大障礙。對醫院資訊部門而言，此分析強調資料治理基礎建設的優先投資，應先於 AI 模型本身的採購與部署，否則即便引入先進工具，也難以發揮預期效能。",
+      "tags": [
+        "資料治理",
+        "醫療AI瓶頸",
+        "互通性",
+        "亞太醫療AI"
+      ],
+      "author": "未標示（BioSpectrum Asia｜2026-10-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlZrOWRKSEpNZHlqQk9YbGR2cVcwWnVfVDVNbWtvTmJVZWZhM3c1RFNZaW4tOWhKOXZ1VkJ5RzVmOGc4VnFyYXYyNERUQU0yODloT2hHYVNwOFNDaG80OTJVcE5YdEx6M0ZrMG1rbDVoYmNjd2RtdDgtaUdLdmdQNjQ0aE8xU3lIUF9mZ3RuZ1p0N1BXSVF4ekpTTjYyRFlnTHc2RE50bDBTUQ"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "李綜合醫院導入 AI 語音技術，解鎖門診紀錄痛點",
+      "summary": "台灣李綜合醫院宣布導入 AI 語音輔助系統，針對門診醫師在病歷記錄上耗費大量時間的痛點提供解決方案。AI 語音技術可即時將醫師與病人的對話轉換為結構化病歷草稿，大幅減少醫師於看診後的文書作業時間，讓醫師得以將更多精力投注於臨床溝通與診療判斷。此導入案例顯示，AI 語音記錄工具正從大型醫學中心逐漸擴散至區域型醫院，門檻持續降低。李綜合醫院表示，初步試用反饋顯示醫師滿意度明顯提升，並計畫進一步整合至電子病歷系統。此案例為台灣區域醫院推動 AI 輔助門診的具體實例，提供了從需求確認、試行到整合的實務參考，對有意評估類似語音 AI 解決方案的醫院具有借鑑意義。",
+      "tags": [
+        "AI語音記錄",
+        "台灣醫院",
+        "門診數位化",
+        "電子病歷"
+      ],
+      "author": "未標示（工商時報｜2026-10-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pWlYxbVhnVWc2djBOOF9qX3RvOTF2d2REdmJjY2FnSWxRM0VXTjZLUFFPc3BXM2lVZUM2TDZBTGNQTVlYLUVoUi1TVGpCM1RTV1Jib1AtSEZUUmo1WFc4"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "Nature 深度評析：AI 個人化健康建議工具的前景與測試挑戰",
+      "summary": "《Nature》刊登深度評析文章，探討 AI 工具提供個人化健康建議的應用前景與測試方法論挑戰。文章指出，隨著大型語言模型在醫療諮詢場景的應用日趨普及，如何系統性地驗證這類工具的建議品質、安全邊界與個人化適用性，成為亟待解決的核心問題。目前多數評估方法仍停留在靜態基準測試，難以捕捉動態對話中的潛在風險，例如對高風險族群提供不適切建議或忽略藥物交互作用等情境。文章呼籲建立動態、情境化的 AI 健康建議評估標準，並主張監管機構、臨床專家與技術開發者應共同參與測試框架設計。此評析對正在評估或已部署患者自助 AI 諮詢工具的醫院，提供了來自頂尖學術期刊的方法論警示與改進方向。",
+      "tags": [
+        "個人化健康AI",
+        "AI評估方法",
+        "Nature",
+        "患者安全"
+      ],
+      "author": "未標示（Nature｜2026-10-21）",
+      "source_url": "https://www.nature.com/articles/d41586-026-03065-4"
+    }
+  ]
+}
