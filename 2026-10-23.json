@@ -1,0 +1,117 @@
+{
+  "date": "2026年10月23日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "台北榮總與威剛科技發表醫療 AI 消毒機器人，深化智慧病房應用",
+      "summary": "台灣國立台北榮民總醫院（NTUH）與威剛科技（Adata Tech）聯合發表一款搭載醫療 AI 的消毒清潔機器人，為台灣醫療院所推動智慧化環境感控提供新方案。此機器人整合 AI 影像辨識與自動導航技術，能自主執行病房消毒作業，減少人力負荷並降低院內感染風險。此合作案展示醫學中心與科技業者跨域協作的模式，也呼應台灣衛福部近期推動醫療 AI 落地的政策方向。對於醫院感控部門與護理管理層而言，此類 AI 機器人方案在人力短缺背景下具高度參考價值，未來或可延伸至手術室、加護病房等高風險區域。此案也顯示台灣本土醫療 AI 硬體整合能力逐步成熟，有助於建構自主智慧醫療生態系。",
+      "tags": [
+        "智慧醫院",
+        "AI機器人",
+        "感控",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（Taipei Times｜2026-10-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14RjNnR01tUWlaODZlWXBJOXRPcG5sMzFhMk5CWmszR1g1N2wxNHhiRHhRRUYxcWZxRXBrUElvcEs5WjBzd2ltTXBaWG0xVWsxODNMMGE4dXlCOVVPMEg1NjRQb1pOYmtnOWZGOFJJODZndWVJUkI3Z3V3"
+    },
+    {
+      "rank": 2,
+      "score": 8.2,
+      "title": "BioStack 獲 950 萬美元融資，整合全球醫院資料建構醫療 AI 多模態訓練資料集",
+      "summary": "醫療 AI 新創公司 BioStack 宣布完成 950 萬美元（約新台幣 3 億元）種子輪融資，計畫整合全球多家醫院的臨床資料，建立涵蓋影像、病歷文字、基因體等多模態訓練資料集，專供醫療 AI 模型開發使用。此舉直接回應業界長期面臨的 AI 訓練資料品質不足、資料孤島化等核心痛點。BioStack 的策略在於透過與醫院合作取得真實臨床資料授權，而非依賴公開資料集，有助於提升模型在真實場域的泛化能力。對於有意自行開發或評估 AI 工具的醫院資訊部門而言，此類資料基礎設施服務商的崛起，代表醫療 AI 供應鏈中「資料層」正逐步商業化與專業化，值得持續追蹤其資料治理與隱私保護機制。",
+      "tags": [
+        "醫療AI",
+        "訓練資料",
+        "多模態",
+        "新創融資"
+      ],
+      "author": "未標示（PR Newswire｜2026-10-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTzMwU1A5NFRZR2VQQnlYR0pZUF9Iam96bmcyS3dNSTRxeGpVeDJ0Z055cUdfbV9CS29MM3ctOXZjRk5nN0NyM3hESVh5WEFGb1hxbXBRV2hGMDVXOGZIZ1NZOTR1MmpzRGxzX2VaUGJyeWZoU2p0YnpwVUt4NGNZcmVzWVQ3RTRfcktEVExwdExUeDlJTE94NXRXaTN0eF93Y3VoUHdLX1AtNUd1Y1pjMTRSVXBxb1ptc1Q2NnNVVElNZm5NVVZWUXFOVjRUMzBIT054TEJ2YTN5NzBmNE14ZndyRU82dTBCb3c"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "波蘭加入全球醫療 AI 網絡，成為歐盟第二個成員國",
+      "summary": "據路透社報導，波蘭即將成為全球醫療 AI 國際網絡的第二個歐盟成員國，顯示歐洲各國政府積極推動跨國醫療 AI 合作的趨勢。此全球醫療 AI 網絡旨在促進成員國之間的 AI 工具評估標準、臨床驗證方法及資料共享框架互通，為各國醫院導入 AI 提供更具公信力的國際參照基準。波蘭的加入亦凸顯中東歐地區對醫療數位轉型的高度重視。對台灣醫院而言，觀察此類國際網絡的運作模式，包括如何在跨國環境下進行 AI 工具的真實場域評估與監管協作，具有重要的政策參考價值。此一發展也呼應近期 WHO 首爾宣言所揭示的全球負責任醫療 AI 應用趨勢。",
+      "tags": [
+        "醫療AI",
+        "國際合作",
+        "政策法規",
+        "歐盟"
+      ],
+      "author": "未標示（Reuters｜2026-10-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQm0wN2VGQnFGRURWQVB6dUlMTkxmdGZ5cW1ST0ZYY25hUzMwSkpWbkRndUtqc2hoRlR0bDFuUUhUdEk3bGNMU21hYS1ZUDFsZ0JZRHhfa3V6MVoxakZMRURzTTZrWXRubTRIaEpDNk50ZUc0NDZyWXZGcHowRnIxUFJpRms1SzFwTEdRRmE3UmduQVdVbk1rSnBrZU9PcVQ1WF9oOERmY3JLTzg0ek9Qdlc1cE0ySWNoMGlyTVM4eURJamh1NEdfaXpUNA"
+    },
+    {
+      "rank": 4,
+      "score": 7.8,
+      "title": "工研院「AI在宅醫療」計畫獲 APEC 基金支持，台灣唯一入選攜手四經濟體深化跨國合作",
+      "summary": "工業技術研究院（工研院）宣布其「AI在宅醫療」計畫獲得 APEC 基金補助，成為本屆唯一獲選的台灣團隊。此計畫將攜手四個 APEC 經濟體，推動 AI 輔助居家醫療服務的跨國場域驗證與產業合作，涵蓋遠距監測、智慧照護及 AI 診斷輔助等應用。台灣在高齡化社會背景下，居家醫療需求日益迫切，此計畫的國際認可不僅有助於提升台灣醫療 AI 的國際能見度，亦可為本土廠商開拓亞太市場創造機會。對醫院領導層而言，AI 在宅醫療的跨國驗證成果將提供重要的落地參考，尤其在資源配置與遠距照護服務設計上具有直接參考意義。",
+      "tags": [
+        "AI在宅醫療",
+        "台灣醫療AI",
+        "APEC",
+        "跨國合作"
+      ],
+      "author": "未標示（中華新聞雲｜2026-10-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OamM3UW9oZG5UZUwzaklUQkk2a3E2Q2FnTXQweHZNcThyZEZIdjRYcXpkdGctTjVwdjR3U0prVU9jVlRYVlZGT0thSWZoaDZsNkE"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "放射科 AI 下一步：以資料協調取代資料碎片化",
+      "summary": "《Diagnostic Imaging》刊出深度分析，探討放射科 AI 發展的下一個關鍵瓶頸——資料協調（data orchestration）。文章指出，目前醫院放射科導入 AI 工具的最大障礙並非演算法能力不足，而是影像資料分散於不同系統、格式不一，導致 AI 模型無法取得完整且高品質的輸入資料。作者呼籲業界應從「各自為政的資料孤島」轉向整合式資料協調平台，涵蓋 PACS、電子病歷及第三方 AI 工具之間的資料流通標準化。對醫院資訊部門與影像科主任而言，此議題直接關係到 AI 工具採購後的實際效能表現，亦是數位轉型路徑規劃中不可忽視的基礎建設挑戰。",
+      "tags": [
+        "放射科AI",
+        "資料治理",
+        "影像AI",
+        "數位轉型"
+      ],
+      "author": "未標示（Diagnostic Imaging｜2026-10-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbFBRSkZ6RVN6SlZfbElOczgtRTdXX00xVXl0UXlTTXgxczZiSF90ZUpjZ19jWGhqMld0OVV2Q29sc1M3TXJQd3cwLUZCcUVzdzVROUZ3aFp3RXpPMkRJSkVHZDcxNjhkRW13dndSRHB2NUd6QTFCRnYwaVRsMHZiMEl3V19vVDZMQU9famItaDUwMVRNLUJsano3MEVfNmRHcEVoOHJjZmNWNG5oRTBSUDU0WEhWSVE"
+    },
+    {
+      "rank": 6,
+      "score": 7.3,
+      "title": "亞洲醫療 AI 未來關鍵在資料治理：Healthcare IT News 深度分析",
+      "summary": "《Healthcare IT News》發表深度分析，指出亞洲各國醫療 AI 的發展潛力雖大，但實現大規模落地的核心前提是「把資料做對」。文章梳理亞太地區在資料標準化、電子病歷互通性及個資法規等面向的現況與挑戰，並指出各國因法規環境與醫療體系結構差異，AI 模型的跨國泛化能力普遍不足。作者建議醫院在導入 AI 前，應優先建立完善的資料治理框架，包括資料品質稽核、標記流程標準化及跨部門資料存取授權機制。此文對正處於 AI 導入規劃階段的台灣醫院資訊部門具有直接參考價值，尤其在跨醫院資料共享與 AI 驗證機制設計上提供了亞太視角的實務洞察。",
+      "tags": [
+        "資料治理",
+        "亞太醫療AI",
+        "電子病歷",
+        "互通性"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-10-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ3RrT2pwNi1FVHdBa3RWQ0xSQml5M2tMVHdPWElOWk5QbUdVTElmb2pBRmNsSnA3RHVkMVM5VV9STGRsMFM3MDdudXUxajNyaEFNZjBfSG04RWp3M25DbnJ6a1pyVmpqemM0UTU5Qi1KUmFRd1VzSnowTWZCSFZZenpvZElYMlBfeGZDZUNpWXFzUXhiTGg5dFNlbw"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "台灣李建璋呼籲：政府應主導建立跨醫院、跨族群醫療 AI 把關機制",
+      "summary": "台灣急診醫學專家李建璋於《環球生技》發表觀點，指出目前台灣醫療 AI 工具在臨床應用上的精準度仍有不足，主要原因在於訓練資料多來自單一醫院或特定族群，導致模型在不同族群、地區的表現出現落差。他呼籲政府應主動介入，建立跨醫院、跨族群的 AI 驗證與把關機制，確保 AI 工具在多元臨床情境下的安全性與有效性。此觀點與近期國際間對醫療 AI 公平性（AI fairness）議題的關注高度一致，也直接呼應台灣衛福部推動 AI 醫療監管框架的政策需求。對各臨床科主任而言，在評估或採購 AI 輔助工具時，族群代表性與模型外推能力應列為核心評估指標。",
+      "tags": [
+        "醫療AI公平性",
+        "AI監管",
+        "台灣政策",
+        "跨族群驗證"
+      ],
+      "author": "未標示（環球生技｜2026-10-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pWW5qMDFLbjVabEtfMFllcWc0LUR6MnNyV3U0SXEwTnJQVnVRS2o3R3NaMWxoQkFES0RpZVVKcVl0SU1hNUJCeHVoU2o2c1lOczFfSUh1c291dVRFSE55MEhWZlk1TmExOVVFU1BBZGlPSkdtb3V3"
+    },
+    {
+      "rank": 8,
+      "score": 6.8,
+      "title": "ESMO 2026：Lunit SCOPE 研究凸顯 AI 病理學在腫瘤免疫治療預測的臨床價值",
+      "summary": "韓國醫療 AI 公司 Lunit 在 ESMO 2026 年度腫瘤學大會發表多項 SCOPE 系列研究成果，展示其 AI 病理分析平台在腫瘤免疫微環境評估與免疫治療療效預測方面的臨床效益。研究顯示，Lunit SCOPE 能從常規 H&E 染色切片中自動辨識腫瘤浸潤淋巴球（TIL）分布，協助臨床醫師預測患者對免疫檢查點抑制劑的反應，為個人化癌症治療決策提供客觀的 AI 輔助依據。此研究結果對腫瘤科、病理科及精準醫療推動團隊具有重要參考意義，代表 AI 數位病理正從研究工具邁向實際臨床整合應用的關鍵階段。",
+      "tags": [
+        "AI病理",
+        "腫瘤學",
+        "免疫治療",
+        "數位病理"
+      ],
+      "author": "未標示（Medical Device Network｜2026-10-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjN1b194NHJXaHQxQmJQSnYwX1NBUVB5aHlDUTN1el9jY1d5elI4anhiNnBmNGRwV0tsQXVjY3N5NGhERzRaX2VuYXBKWHJEQUVOT0R5ckt4Y3BUX1htSkNEa1FnV2NEZkNJVEN0Qmp6eXliQ1N4RXdLSVNibE5Yb2tpZkoxNzZKay1oR3gyODJDSjRnTjZVSUhxdE5RRzYxNnl4R1J4VzZDMTg"
+    }
+  ]
+}
