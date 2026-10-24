@@ -1,0 +1,117 @@
+{
+  "date": "2026年10月24日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "微軟 AI 診斷系統登《Science》期刊：複雜病例準確率逾醫師兩倍、成本僅三分之一",
+      "summary": "微軟研發的醫療 AI 診斷工具最新研究成果正式發表於頂尖期刊《Science》，引發全球醫療界高度關注。研究顯示，該系統在疑難複雜病例的診斷準確率超越全科醫師兩倍以上，且每次診斷所需成本僅約傳統醫師診療費用的三分之一。該系統採用「分階段排查」策略，模擬醫師逐步縮小鑑別診斷範圍的思考流程，而非單純比對症狀。此突破性研究同時在台灣媒體引發廣泛討論，多家科技與財經媒體均以頭條報導。這一結果對醫療資源有限的地區尤具意義，亦再次引發關於 AI 輔助診斷系統是否應整合進常規臨床流程的政策討論。對醫院領導層而言，此研究提供了強力的實證依據，值得評估在門診或遠距醫療情境下的實際導入潛力。",
+      "tags": [
+        "AI診斷",
+        "臨床決策支援",
+        "微軟",
+        "Science期刊"
+      ],
+      "author": "未標示（TechNews 科技新報｜2026-10-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSno0Vk9qWkNyRW9HbnRkRFY5VVowdjhCNXliSXdDNW9rTGFIazdCM1RTQ1pxYnVLZ3BrYkFEdkd4OVVncDg2NG1PSlFoaV94LVVsMjF0UTUweXBnSjJNTzlGMjFseGVsekZpcXRkYkt5TVlkR1luSUl0MkxLRHNYMkNqXzZqTnNHZmNIalJmSEZBQjNWYXA4a3BrSUhoR21PSmFVREVHdHBnWjBxWElpd2NYR1dmeDRCd2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "數位粒子群技術讓醫療 AI 在不共享病患資料的前提下完成訓練",
+      "summary": "Bioengineer.org 報導一項新興聯邦式學習技術突破：研究團隊以「數位粒子群（swarm of digital particles）」方法，讓分散於各醫院的醫療 AI 模型得以協同訓練，全程無需將病患個人資料傳送至中央伺服器。此方法突破了傳統聯邦學習在通訊效率與模型收斂上的限制，顯著降低資料外洩風險，同時維持接近集中式訓練的模型效能。對於受到《個人資料保護法》及醫療隱私法規嚴格約束的醫療機構而言，此技術為建構跨院 AI 協作提供了合規路徑。該研究的發表時機恰逢全球各地醫療體系積極尋求資料治理解方，有望降低多中心 AI 研究的法律與技術門檻，加速高品質醫療 AI 模型的落地應用。",
+      "tags": [
+        "聯邦式學習",
+        "資料隱私",
+        "醫療AI訓練",
+        "資料治理"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTV8zNjB3VERxcENkYXZsN01PRDJqT1dKU09JbGtfQ25nSHM1QXlGUDVDMXdMcW1MSTB0TEV1TGNyN210U3JkbnVVMThEanRnQnFudUwzcE5KR2lmdG1Ic3N6RVl1T1hKTmRYVExyeHQzWDNLZHJwSkhwZ2kycU9remJQWkxfQTNSYkhBdUh2cUNleWhXY2NiVDU5SFhYWWs?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.4,
+      "title": "醫療 AI 更新權責之爭：誰有資格決定何時修改已部署的臨床 AI 模型？",
+      "summary": "Medical Xpress 深度探討一個在臨床 AI 治理中日益迫切的核心問題：當醫療 AI 系統完成部署並在真實臨床環境中運作後，誰有權決定對其進行更新或修改？文章分析了醫院端、AI 開發商、監管機構三方在此議題上的責任邊界模糊地帶。模型更新可能帶來效能改善，但也可能引入新的偏差或改變已驗證的臨床行為，對病患安全構成潛在風險。目前多數國家尚未建立明確的「上市後 AI 模型變更」監管框架，FDA 的 SaMD 指引雖提供部分依據，但仍存在大量灰色地帶。此議題對正在規劃或已導入 AI 輔助工具的醫療機構尤為關鍵，直接涉及臨床責任歸屬與風險管理機制的設計。",
+      "tags": [
+        "AI治理",
+        "模型更新",
+        "監管合規",
+        "臨床安全"
+      ],
+      "author": "未標示（Medical Xpress｜2026-10-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9neUZ3ckh2Z190SGNqQTcxcTduZ1VLa3NNVzVEM2E2THFlckplTndxRnBSb1FHa2FpbldJc0FvbC1oZXE4TE9ZZWdzM3gzREtQSEhVMjRtM2JyeHVndHdlU0Y3VTc?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.1,
+      "title": "Summit Therapeutics 與 Lunit 攜手合作，推進腫瘤 AI 病理研究",
+      "summary": "臨床階段腫瘤藥廠 Summit Therapeutics 宣布與韓國 AI 病理平台領導者 Lunit 建立研究合作夥伴關係，共同推進以 AI 驅動的腫瘤病理分析研究。此合作將整合 Lunit 的 SCOPE 系列 AI 病理工具，協助解析腫瘤微環境與免疫細胞空間分布，以支援 Summit 旗下藥物候選項目的生物標記篩選與伴隨診斷開發。Lunit 近期在 ESMO 2026 年會上發表多項研究成果，展示其 AI 病理工具在預測免疫治療療效方面的臨床應用潛力。此次合作代表製藥公司主動整合 AI 病理能力以加速新藥開發的趨勢持續深化，同時也顯示 AI 病理平台正從研究工具逐步演進為藥物開發生態系的核心組成。",
+      "tags": [
+        "AI病理",
+        "腫瘤學",
+        "Lunit",
+        "生物標記"
+      ],
+      "author": "未標示（Investing.com Australia｜2026-10-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcXRWRHZBckVndm4tRWlPc25kVjVJeTl4dDU2NXU5QS1nU1RrNkNqOFdleTBDb1UxRVhxamduTHRfRjZwbkxIc3ViREw3Rl9lbHJiX25waHIyTXlTTjNocTF5QkJKMVdHVnRZOWZ0OWxwX1hLanRIREZHNGJmTjNKZ0FSUGlVQ1BuNURHaUdEcFBYMk8tTXNXeUdhbFRVQkh2SjNhUEpYeFl0eUZmN2wyNEhmTUEybkFTNzBadnNDejlVN2M?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "醫療 AI 以光速前進：Fast Company 深度解析產業現況與挑戰",
+      "summary": "Fast Company 發表深度報導，全面剖析醫療 AI 目前以「超高速」推進的產業現況。文章涵蓋診斷影像、臨床決策支援、行政自動化與藥物研發等多個應用場域，並探討在技術快速迭代下，醫療機構面臨的採購決策壓力、臨床驗證不足以及監管滯後等隱憂。報導指出，雖然醫療 AI 市場規模持續擴張，但許多系統仍缺乏嚴格的真實世界臨床試驗支撐，醫院若在評估不充分的情況下倉促導入，可能面臨效益落差與法律風險。文章同時引述多位臨床與資訊主管的觀點，強調「採購速度」與「負責任的 AI 導入」之間的平衡至關重要，為醫院數位轉型決策者提供重要的策略參考視角。",
+      "tags": [
+        "醫療AI產業",
+        "數位轉型",
+        "臨床驗證",
+        "AI採購"
+      ],
+      "author": "未標示（Fast Company｜2026-10-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCNENYbXhfMVpHMUEzM1R6Z0QzeHdTWnpSbTBvZ092OFFLb1pIdlhOcVBUVXFUbXdqNjIybUY0YU94VjZTX252enoxTVFHelVCMUxfb0h4VHo2eXA1NkxrOHVOdHptZXpXamNJS2JEZFRNbXh0YWdIV2tMZGpiTWc?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "病理學數位革命：AI 如何從根本改變疾病診斷流程",
+      "summary": "Medscape 深度報導數位病理學的快速崛起，說明 AI 影像分析工具如何在組織切片判讀、罕見病診斷及腫瘤分型等領域顛覆傳統病理醫師的工作模式。文章指出，全玻片數位掃描（WSI）結合深度學習模型已在乳癌、肺癌等常見癌症的分期與預後預測上展現媲美或超越人類專家的表現。然而，數位病理導入仍面臨高昂的掃描設備成本、病理醫師再培訓需求，以及各院間資料格式不統一等挑戰。報導也觸及 AI 輔助病理報告在醫療法律責任歸屬上的模糊地帶，提醒醫療機構在規劃導入時須同步建立相應的治理框架與人員培訓計畫，以確保技術效益能真正轉化為臨床品質的提升。",
+      "tags": [
+        "數位病理",
+        "AI影像分析",
+        "腫瘤診斷",
+        "病理醫學"
+      ],
+      "author": "未標示（Medscape｜2026-10-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeG9Rc25GVXd0a0wtUVVweXV2N3RzOWJCNmpIUVdVYWF6aFh6Z05iSUwtUnlaVnBOWjYzRWN4Ynczalo4YlUyUmZidkVwTE5TRldCMTRnT0hjZHJwdU9NUnFxV2VTZ1lZY20yMEFTaXVDX2pHV0Z5dHo3X0s1cVYwZDk5aHBFUzlDZmszYjdyM2NXalpNdjZIWlVDXzhxU1JSazY0X0x3?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.3,
+      "title": "AI 藥物研發公司 Pathos 完成 2.37 億美元融資，整合 Tempus 資料集挑戰 BMS 合作模式",
+      "summary": "AI 驅動藥物研發公司 Pathos 宣布完成 2.37 億美元融資，估值達 30 億美元，此輪融資同步確立了 Pathos、Tempus 與百時美施貴寶（BMS）三方合作架構。Tempus 提供龐大的多模態腫瘤學真實世界資料集，Pathos 負責 AI 分析與靶點發現，BMS 則主導後續藥物開發與臨床試驗。此交易模式代表大型製藥公司正透過策略投資，深度整合 AI 平台與資料資產，以加速新藥研發管線並降低研發失敗風險。Pathos 的崛起亦顯示 AI 藥物研發領域的資本集中趨勢持續強化，投資人願意給予具備獨特資料壁壘的 AI 公司更高估值溢價。此發展對醫療體系在精準醫療與臨床試驗合作模式的評估上具有參考意義。",
+      "tags": [
+        "AI藥物研發",
+        "精準醫療",
+        "融資",
+        "腫瘤學"
+      ],
+      "author": "未標示（STAT News｜2026-10-23）",
+      "source_url": "https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/?utm_campaign=rss"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "精神健康 AI 需要超越「安慰性對話」的實證支持：創新媒體深度評析",
+      "summary": "Innovation News Network 發表評論指出，目前市場上大量精神健康 AI 聊天機器人與數位療法工具，普遍缺乏嚴格的臨床隨機對照試驗（RCT）支撐，多數產品僅依賴使用者滿意度或短期情緒自評作為有效性依據。文章呼籲監管機構、醫療保險給付單位及醫療提供者在評估採購精神健康 AI 工具時，應要求更高層級的實證標準，包括長期追蹤結果、自殺風險干預效果及對傳統心理治療的補充或替代效益。在全球精神健康資源嚴重不足的背景下，此議題的重要性與日俱增。文章同時提醒，AI 工具若在缺乏足夠實證的情況下被廣泛推廣，可能延誤病患接受有效治療，並引發數據隱私與倫理方面的額外風險。",
+      "tags": [
+        "精神健康AI",
+        "實證醫學",
+        "數位療法",
+        "監管"
+      ],
+      "author": "未標示（Innovation News Network｜2026-10-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0liSkhsU1FIWGxldUpYQlo1TmFLVFJLT1hkRW5jWlYyOU9DMVRZOGFtUlFMb196aGlrREFwZWo3V0YzR3VVOXY4UkVUdXFCNGJiQXRsWWtrdkZ4VEx0SzB1UGJKNG04WXNaMC1GZkZjaVZFTlpESFJ3RnhLMnN0dk92RklQSlNVTjZidUNGc3ZMT0dTb2hpSnRR?oc=5"
+    }
+  ]
+}
