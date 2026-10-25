@@ -1,0 +1,103 @@
+{
+  "date": "2026年10月25日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "Johns Hopkins 逾 3,000 名患者資料遭傳送至 AI 工具，院方緊急通報",
+      "summary": "美國約翰霍普金斯醫院日前發出通報，指超過 3,000 名患者的個人健康資料在未獲適當授權的情況下，被傳送至第三方 AI 工具，院方已啟動調查並主動聯繫受影響患者。此事件突顯醫療機構在導入 AI 工具時，資料治理與隱私保護機制的重要性。隨著臨床場域 AI 應用快速擴張，醫護人員或行政人員使用未經正式審核之 AI 工具的風險日益升高，如何建立完善的 AI 採購審查、資料存取管控與員工教育訓練制度，已成為醫院資訊安全的迫切課題。本案亦可能引發主管機關對醫療 AI 資料使用規範的進一步關注，對全球醫療體系的 AI 治理政策具有重要參考意義。",
+      "tags": [
+        "資料隱私",
+        "AI治理",
+        "醫療資安",
+        "臨床AI風險"
+      ],
+      "author": "未標示（GNews-AI clinical｜2026-10-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQW1JWDdHWTN4anFtVmI1cDFXOENBZ2luWXp4clpIRzR5TnhnUC1XcFFVcXFhc2lUcmVPRVdBRFgyYW1QdEs0TVpCWUNJeTNIaFlUSS1MVFZOMlFuaEs0ODVOOTNWR1QzWWFSblZ3SnR5Ymxwd3NndUhwVmZDeUpkZklhZE0tSFVjbFp1VTF2OE9pQ3VGaHF3NVZ1ODMyYVlmd2VyeEpadE5GTHVwbC04?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 7.5,
+      "title": "精準醫療結合 AI 重大突破：次世代基因定序 24 小時內揪出病原，感染症診斷效率大幅提升",
+      "summary": "AI 技術與次世代基因定序（NGS）的整合正為感染症診斷帶來革命性變化。最新進展顯示，結合 AI 演算法的 NGS 平台可在 24 小時內完成病原鑑定，大幅縮短傳統培養法所需的數天等待時間，對重症感染、敗血症及罕見病原的早期識別具有關鍵臨床價值。此技術突破不僅有助於即時調整抗生素治療策略、降低抗藥性風險，亦為精準醫療在感染症領域的應用開創新局。市場面而言，AI 驅動的感染症診斷商機龐大，吸引多家科技與生技公司積極布局，預期將對現有微生物檢驗流程與醫院感控體系產生深遠影響。",
+      "tags": [
+        "精準醫療",
+        "次世代基因定序",
+        "感染症診斷",
+        "AI臨床應用"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-10-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZzhPQkM0VGRRdTFmNVNwUmdIYTVBaTBhcWZNVnZaNVppc0N2c3d2eFlQTXpxTHBPVWEyM0hnZXlNUVRadmN3aEtLWFFvWEVUM3FUTF9PWHlvZ2dWSGFyUUZmMmw0VDNaazNHa241OHVKcTNUVEtfc095MGh2YnMxRVNB?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.0,
+      "title": "醫療 AI 的價值核心：採用率、臨床成效與成本三者缺一不可",
+      "summary": "MobiHealthNews 深度分析指出，醫療 AI 的真實價值不能僅以技術規格或準確率衡量，而必須同時評估三大維度：醫護人員的實際採用率、可量化的臨床成效，以及導入後的整體成本效益。文章強調，許多 AI 工具在概念驗證階段表現亮眼，卻因未能融入臨床工作流程而遭閒置，或因無法證明成本效益而難以規模化。業界專家呼籲醫院在採購 AI 解決方案時，應建立嚴謹的評估框架，涵蓋導入前後的量化指標追蹤，並重視使用者體驗設計。這篇分析對正規劃 AI 導入或評估現有工具效益的醫療機構決策者具有直接參考價值。",
+      "tags": [
+        "醫療AI評估",
+        "臨床採用率",
+        "成本效益",
+        "數位轉型"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-10-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN1A3YXJ4ZjBPVU03TWlPTjAzNlBsbFFzaGFhRU9HS0t6QmFVZ3kyRFFEcDN0U3drTGZTY1FWX2J5aFg2OUxKa3B6ZnE1WXlwNlU0R3NIZjc5SHQxSnpPdHRQWmRtbFpxOWFGUTlvUC02dldoa0U3VktIQTAzODlDRnJBd1ZMeUYtV3JfZGRSR0o4czlGelRN?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 6.5,
+      "title": "UAE 成為醫療 AI 全球試驗場：飛行員計畫結束後的真正挑戰才剛開始",
+      "summary": "Fast Company Middle East 深度報導指出，阿拉伯聯合大公國近年積極引進多項醫療 AI 技術，已成為國際廠商的重要試驗市場。然而，文章警示，許多計畫在短期概念驗證後便陷入停滯，原因在於缺乏明確的規模化路徑、在地化資料支持及長期維運機制。報導訪談多位業界專家，強調醫療 AI 真正的考驗在於飛行員計畫結束後能否持續運作、產生臨床影響，而非技術展示本身。此案例對亞洲及新興市場醫療體系規劃 AI 導入策略具有重要借鑒意義，提醒決策者應在初期即規劃完整的治理架構與成效追蹤機制。",
+      "tags": [
+        "醫療AI導入",
+        "規模化挑戰",
+        "新興市場",
+        "AI治理"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-10-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdkEwcExxZzQzVXkxWHRTY3JHdFZIcm9uaGFmVlR2ZGhwWEVPajhITndkVTRyYVppX3ZTLTRnZmplN0IzZGFRWHlScUoySWd0d2kzTXc0dVlCeVRaUkFQQmR6TUMzYm8zSzk5Q1diZHpSQm44Um5JbzFYSmk2RExxcFZRQVRfQ0pXN3JaWG5GMEZZVFdEVmpadnlWdXlGb2dTeXNFU202eVhsbDdUcjhVaWFjWDVRbzBPOWZrZl9EMmJ6Zw?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.0,
+      "title": "訊飛星火醫療大模型 V3.7 升級發布，AI 患者管理 3.0 啟動行業標準共建",
+      "summary": "中國科大訊飛旗下醫療 AI 平台「星火醫療大模型」正式發布 V3.7 版本，並同步推出 AI 患者管理 3.0 系統，涵蓋問診輔助、慢病追蹤、用藥提醒及出院後隨訪等全程照護功能。此次升級重點在於提升大型語言模型的臨床推理能力與多科室適應性，並宣布聯合多家醫療機構共同制定 AI 患者管理行業標準，旨在推動中國醫療 AI 應用走向規範化與標準化。隨著中國醫療 AI 市場持續擴張，訊飛此舉不僅強化自身競爭優勢，亦代表醫療 AI 供應商從單點工具走向全流程解決方案的產業趨勢，對關注亞太醫療 AI 生態系發展的機構具有參考價值。",
+      "tags": [
+        "醫療大模型",
+        "AI患者管理",
+        "中國醫療AI",
+        "行業標準"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-10-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmxGdzdzRGNBeURqRUJsZlp0cmE0UUFxUGI3RXFDUDFEanBUd2s4TDc4VktyZGhaOTl5NjZwU0xJYS14aS1NeWlWSkVDUFBEcTlDVVZrODRXeC1nR3pUSVgyRjJwU0NaOElWckpJOG9Xc192NU8wLVRmdjZBei1tTzlwTkhYRUdsekNBX0FDUDE?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 5.5,
+      "title": "微軟醫療 AI 診斷準確率躍升，帶動全球醫療科技商機熱潮",
+      "summary": "民視健康長照網報導，微軟醫療 AI 診斷系統的準確率大幅提升，引發全球醫療科技業界高度關注，並帶動相關投資與商業應用熱潮。報導指出，AI 輔助診斷技術的突破正吸引科技巨頭、新創企業與傳統醫療設備商加速布局，形成多元競合格局。此波趨勢不僅影響醫療影像、病理分析等傳統 AI 應用領域，亦延伸至慢性病管理、藥物研發等新興市場。對台灣醫療機構而言，此一全球競爭態勢提示各院所在評估 AI 採購與合作策略時，需密切追蹤國際大廠技術演進動態，以確保導入方案具備長期競爭力與技術可持續性。",
+      "tags": [
+        "微軟醫療AI",
+        "AI診斷",
+        "醫療科技投資",
+        "全球趨勢"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-10-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMakhuVGhueVY3Z3RKcHhGX1VJQmlkd0w2YzNpajdnTFh3dXBDOTNsaXdPdzB6dTY3MFJtNWVFOTZmMHNwd0hUTmJWdE9CTnFFSUg4REFiZHFqTGJQSkt4bHJUN2E?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 5.0,
+      "title": "HIMSS AI 論壇與會者分享醫療 AI 前線觀點（第二部）",
+      "summary": "MobiHealthNews 發布 HIMSS AI Forum 系列報導第二集，彙整多位醫療資訊與 AI 從業者的現場訪談觀點。受訪者涵蓋醫院資訊長、臨床醫師及 AI 解決方案供應商，討論焦點包括：醫療 AI 落地的實際挑戰、臨床工作流程整合的關鍵成功因素，以及 AI 責任歸屬與透明度問題。多位與會者強調，技術本身已非最大瓶頸，組織文化變革與跨部門協作才是決定 AI 應用成敗的核心要素。論壇亦探討了生成式 AI 在行政流程自動化的潛力，以及如何在效率提升與風險管控之間取得平衡，對醫院數位轉型團隊具有實務參考價值。",
+      "tags": [
+        "HIMSS",
+        "醫療AI論壇",
+        "數位轉型",
+        "臨床AI落地"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-10-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3dVY2JPbjVESGlnT0hITGRoUDdNUlR4bnFHbC1ESU5RSEVnWHlBZ3k3M25MbGZHT2s4RTV0RFQ0TmFtdTY2R0FzT1RESjhSbHNZRnphMmYzNWh4eDJueVRMRk5JczZqWGwyaDBmQi1mVllWNVMtR05DMVBWeDJwT0MwRWUzQS1ZQ3J2YVRtQU8?oc=5"
+    }
+  ]
+}
