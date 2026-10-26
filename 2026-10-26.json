@@ -1,0 +1,117 @@
+{
+  "date": "2026年10月26日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "逾千款 FDA 核准 AI 裝置現況大盤點：醫院實際應用場域全面解析",
+      "summary": "隨著 FDA 核准的醫療 AI 裝置數量突破 1,000 款里程碑，各界對於這些工具在醫院實際落地情形的關注持續升溫。本報導從臨床部署現實面切入，梳理 AI 裝置在放射影像、心臟病學、病理學及急重症等不同科別的應用密度與成效差異，並指出核准數量快速成長與臨床採用率之間仍存在明顯落差。文章強調，AI 裝置獲得監管許可僅是起點，醫院需進一步評估工作流程整合難度、臨床驗證品質及使用者訓練需求。對醫院領導層而言，此盤點提供了一份實用的參考座標，協助判斷哪些 AI 工具已在同類機構中取得真實臨床價值，而非停留於概念驗證階段，對數位轉型採購決策具有直接參考意義。",
+      "tags": [
+        "FDA核准",
+        "醫療AI部署",
+        "臨床採用",
+        "放射影像AI"
+      ],
+      "author": "未標示（Intelligent Living｜2026-10-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52SkNycjhwVHBEcmNRTERHbXZlV1lGUmp6a0dKMUxXWFAybFdvREVrYVNwRnYxcGt4cXZRRjQzRGR0bHc0YU56eDhHQl9nc19jbVlaWXZndHJ5a1dRSkJjaW1fcFhxaHQ1TWVKSERXVGNjQ05J?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "放射科 AI 每週 FDA 動態彙整（10 月 18 日至 24 日）",
+      "summary": "Diagnostic Imaging 每週例行匯整 FDA 在放射醫學領域的 AI 相關核准與監管動態，本期涵蓋 2026 年 10 月 18 日至 24 日期間的最新進展。報導系統性整理各項影像 AI 裝置的核准類別、適應症範圍及主要廠商，為放射科主任與資訊部門提供一手的法規追蹤資訊。近期核准案件反映出 FDA 在影像輔助診斷、自動測量與工作流程優化等子領域持續擴大審查量能。醫院在評估引進放射 AI 工具時，此類定期彙整有助於快速掌握市場上合規產品的最新清單，並對比自身採購規劃與監管現況的契合程度，降低導入非核准或灰色地帶產品的法規風險。",
+      "tags": [
+        "FDA監管",
+        "放射影像AI",
+        "法規動態",
+        "影像診斷"
+      ],
+      "author": "未標示（Diagnostic Imaging｜2026-10-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjVtdmhoZE5TdG1YUDVCaE0xVVo5cHBKYm9NUWpfVkQ4YlotaE9oLWJ1VWZWZGJtenhwdU0zT25lUXhHQTBKT1VDbngtZHZrek11QXhFRmpXNTFrTFlyWHlCNzdxelRNTzlPX04zSFo2N1RWcEdfUjIxNjF0THRFTElKb1hERTlSN1pLUERuMGg?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "中醫大附醫：不為 AI 而 AI，從臨床痛點出發讓科技成為真正醫療價值",
+      "summary": "《遠見雜誌》深度報導中國醫藥大學附設醫院如何在醫療 AI 導入策略上走出差異化路徑。該院強調以「臨床痛點優先」為核心原則，而非追逐技術潮流，系統性盤點臨床現場真實需求後，再針對性選擇 AI 工具。報導揭示，中醫大附醫目前已在多個科別部署 AI 輔助系統，並建立跨部門協作機制確保工具真正融入日常照護流程，而非停留於示範性應用。此案例對台灣醫療體系具有重要借鑑意義：它說明成功的醫療 AI 落地有賴於院內文化變革、臨床人員參與設計，以及明確的成效評估指標，而非單純的硬體投資或技術採購。",
+      "tags": [
+        "台灣醫療AI",
+        "臨床導入",
+        "數位轉型",
+        "醫院管理"
+      ],
+      "author": "未標示（遠見雜誌｜2026-10-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSbU56a1NXT21ZbDJxLVRQZDI5c1BLRjV4R2ZzOGZSX2o0OUdDSWVoaUlKVzVDMWpDT3hlX1J0REdZdjZVQW1JN2tZNjNfUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "Tairex 發布 AI 驅動的智慧醫院多學科決策生態系統",
+      "summary": "生技新創 Tairex 正式發布以 AI Agent 為核心的「智慧醫院生態系統」，旨在強化多學科臨床決策協作效能。該系統整合自然語言處理、電子病歷分析與跨科會診協調功能，讓不同專科的臨床人員能在統一平台上即時共享病患資訊並獲取 AI 輔助建議。Tairex 表示，此架構特別針對腫瘤科、重症及罕見疾病等需多科會診的複雜病例設計，可顯著縮短決策等待時間。目前系統已在部分合作醫院進行試點，並計畫擴展至亞太地區市場。此類「Agent Hospital」概念代表醫療 AI 從單點工具向整合平台演進的趨勢，醫院資訊部門應關注其架構設計與資安合規要求。",
+      "tags": [
+        "AI Agent",
+        "多學科決策",
+        "智慧醫院",
+        "臨床決策支援"
+      ],
+      "author": "未標示（BioPharma APAC｜2026-10-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbzhkbFpDMTVzQlJQWnRNU0hjbmw3MlBqSUx5cmZ1X041R1MySEVpeU5jUDVlbVpOU0JLMEh2aHYwZzh5WHNta05vMi1YYUZTcjRfajBtUnE4bV9Rd3pxRGllaklJSGp3OTZmU2l6amI1Y1R0QXZvdlRwU1JVWXU1YkFJYnFQTVZYM21nR0RJWW9zMFVsdjhKYlc4MjhxTTAwdnE0cUNMeGdtVDRkVmNUbTJVZXhTRHBxQ2RTTFZQbFExU3VZcm9MNml6dTZTX3dPU0pxc0p1Mm5pbUFkeHItbjNVcWE?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "Lunit AI 病理部門估值突破 5,000 億韓元，產業地位持續攀升",
+      "summary": "韓國醫療 AI 公司 Lunit 旗下 AI 病理業務部門最新估值已突破 5,000 億韓元（約 37 億新台幣），顯示國際投資市場對 AI 病理學商業潛力的高度信心。Lunit 的核心產品 SCOPE 系列可分析腫瘤微環境、預測免疫治療反應，並已在多項國際臨床研究中展現驗證成果。此次估值躍升反映 AI 病理工具從研究工具逐步轉型為具商業規模的臨床解決方案的趨勢。對台灣醫院而言，隨著 AI 病理產品在全球加速商業化，評估引進時機與選擇合適夥伴的決策視窗正在縮短，資訊部門與病理科應開始建立評估框架以因應此波採購浪潮。",
+      "tags": [
+        "AI病理學",
+        "Lunit",
+        "腫瘤AI",
+        "醫療AI產業"
+      ],
+      "author": "未標示（Seoul Economic Daily｜2026-10-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWG9TeEpiX1U1U0F1OTZxbHViZUNnWU1WX0dHT3BiUVlGSV9OMkx6NDIxSjBSSHZVMDNVcmRTUmxxM1RIUjdVcFFHMWtoelU5RVZZTkxTQzdzMWpmVC14VVdYUkNFSW1BaXVGSHR5Yk1vTUwxdEY0Zi1lWEktSlI2NVl6eVNHSU5WVHBhOE9VbnJKZUVHRFdNVXlQSFI?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "大雄製藥將 AI 病床監測系統導入亞洲大學醫院，智慧病房應用再添新案",
+      "summary": "韓國大雄製藥（Daewoong Pharmaceutical）宣布在亞洲大學醫院（Ajou University Hospital）正式安裝 AI 病床監測系統，可即時偵測病患的姿勢、跌倒風險及生理異常變化，並自動通報護理站。此舉標誌著製藥公司跨足數位醫療硬體整合的策略延伸，也反映智慧病房概念在亞洲醫療機構的持續普及。AI 床邊監測能有效減輕護理人力負擔、降低跌倒等不良事件發生率，是護理模式數位轉型的重要環節。此案例可作為台灣醫院評估 AI 病房監測工具時的參考，尤其在高齡患者比例持續上升的背景下，此類主動式安全監測的需求將持續增長。",
+      "tags": [
+        "AI病床監測",
+        "智慧病房",
+        "跌倒預防",
+        "護理AI"
+      ],
+      "author": "未標示（Seoul Economic Daily｜2026-10-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmR4WkI0Q2dXVUdqY0JoYkdfSkFQaFEtSndYVzd0Vi1US0N1TjB5eGRxZ2o2azV1VVRmWXNaZDV1SXY4dUh0VGZHaUpqV1YyR2xHTkp4cUN5TERhU1FVQVUzYllxWlRSSmVoeUJHR0J0dUxhSTJRcUNZTFR1WXpEdENlTzlxTm4xMmlhX1dFMlFQOVdRbUNuRnRPSmxCRVctYVE?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "醫療 AI 是否背離 Osler 臨床精神？核心人文價值在演算法時代的再詮釋",
+      "summary": "Bioengineer.org 發表深度評論，探討醫療 AI 快速滲透臨床實踐是否正在侵蝕威廉・奧斯勒（William Osler）所強調的「以病人為中心、全人觀察」之核心醫學精神。文章指出，AI 工具雖能提升診斷效率與數據分析能力，但過度依賴演算法輸出可能導致臨床醫師減少對病患的直接觀察與溝通，進而削弱醫病關係的本質。作者呼籲醫療機構在導入 AI 時，應同步建立人文醫學教育框架，確保技術工具服務於臨床判斷，而非取而代之。此觀點對醫院領導層在推動醫療 AI 文化變革時具有反思價值，提醒應在效率提升與人本照護之間維持審慎平衡。",
+      "tags": [
+        "醫療AI倫理",
+        "臨床文化",
+        "人本照護",
+        "醫師培訓"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa1ZPc1l0azZ6M2JKWExMRC1hR1ZhVGFlY3ZDWVZfNzhGdGM0UEVWaTZlZHQ0YjdLblpuaEZjalZMbVU5aXpxSzZEanZxTmZpdzBzS1k3dURvbV95YW9CaDhRS2g1VU5nMnN4VGdGdDRQcExkNWVRUmdaakU4clluOFBGTQ?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 5.5,
+      "title": "亞洲大學國際研討會聚焦 Physical AI：機器人與智慧醫療的下一個融合浪潮",
+      "summary": "亞洲大學舉辦國際研討會，深入探討 Physical AI（實體 AI）如何加速滲透機器人技術與智慧醫療應用。與會專家指出，Physical AI 代表 AI 從純數位演算走向與實體世界互動的重大轉型，涵蓋手術機器人、自主移動設備、AI 輔助復健裝置等多元場域。研討會特別關注台灣在此領域的發展潛力，包括本土醫療器材產業如何結合 AI 能力提升國際競爭力。此次討論也觸及 Physical AI 在醫療場域的安全驗證、監管挑戰及人機協作倫理等議題，為台灣醫院在評估未來智慧醫療硬體投資方向時提供了重要的趨勢參照框架。",
+      "tags": [
+        "Physical AI",
+        "醫療機器人",
+        "智慧醫療",
+        "台灣AI"
+      ],
+      "author": "未標示（遠見雜誌｜2026-10-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zSE1XdjZuN0dMelFRLWtWLWVJaXJVUTNtMF8zSDlrYlBnNXdFUVFiUkhDNGdNUVVoYUlmQ0ttdmJ1WWZkSWdlMWU0bUpQZw?oc=5"
+    }
+  ]
+}
