@@ -1,0 +1,145 @@
+{
+  "date": "2026年10月27日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "賓州眾議院通過法案，要求醫療機構於使用 AI 時主動揭露",
+      "summary": "美國賓夕法尼亞州眾議院通過一項法案，強制規定醫療保健機構在臨床決策或患者互動中使用人工智慧時，必須向患者進行明確揭露。此舉代表州層級醫療 AI 法規監理的重要里程碑，也呼應近年來各界對 AI 透明度與知情同意的高度關注。法案通過後將送交參議院審議。此一立法趨勢若擴散至其他州或聯邦層級，將直接影響醫院 AI 工具的部署流程、知情同意書設計及法律責任歸屬。對於正在導入 AI 臨床決策支援系統的醫療機構而言，提前建立完整的 AI 使用揭露機制與患者溝通規範，將成為合規管理的核心課題。此案為全美醫療 AI 治理框架的具體立法行動，具有重要政策指標意義。",
+      "tags": [
+        "AI法規",
+        "政策監理",
+        "患者知情同意",
+        "醫療透明度"
+      ],
+      "author": "未標示（Radiology Business｜2026-10-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNldOMU1fVnBUR2h1NENOUUtDUHFtQnVHaVRub0cwX3pxZnpUd0N5ZGI1ZkZROGJtUi1vNGNEUUdoRUt3WlJWZkNodHdqckw5c0ZiTmRyME1jYzdxZnFpNEFsdk1zSEluUkxjaWFsYlRaUlZRTE5JUmVNTjkyU0FCSk9sSTBhRzkzelhmUFZxQ0p0OWQ2OGZIc0N1MVdGdFJZM1dINFBvd1lMSWpCbnQtZzJ0OFRmRUlzT3hmWU5HRGpTU3RW"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "WHO 與韓國簽署全球首份醫療 AI 宣言，國際治理框架邁出關鍵一步",
+      "summary": "世界衛生組織（WHO）與韓國政府正式簽署全球首份醫療 AI 宣言，標誌著醫療人工智慧在國際治理層面取得歷史性突破。此宣言旨在建立跨國醫療 AI 應用的共同原則與標準框架，涵蓋安全性、倫理性、透明度及患者保護等核心面向。韓國近年來積極布局醫療 AI 產業，此次率先與 WHO 共同簽署宣言，除強化其國際醫療 AI 領導地位外，也為其他國家的相關政策制定提供重要參考依據。此舉將對各國醫療機構導入 AI 的監管環境產生深遠影響，亦可能牽動未來跨國臨床 AI 工具的認證與互認機制。對於台灣醫療體系而言，掌握此一國際規範走向，有助於提前對齊全球標準，強化自身在醫療 AI 領域的國際合作能量。",
+      "tags": [
+        "WHO",
+        "醫療AI治理",
+        "國際政策",
+        "AI倫理"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-10-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYWs2WFZNTFlKaGVyNEd5RkVhTFNkM3VHOGE2NGQySmlic2NZNUJNeHBpT1NyQmNiT1BhX3BwSldydGpWOFZVNmRtT3l2RkM1cTRYUkhGOUdseU56LUNiYkZzYlZxU2FBQU5fQmVwZVFIR090d1U4OXllZE54RmFPNVFyczQ3X05janMtS0lCWmh3cDg"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "醫療 AI 治理首要之務：患者安全必須優先於技術效益",
+      "summary": "HCI Innovation Group 發表專文，系統性探討醫療機構在建立 AI 治理框架時，如何確保患者安全始終置於優先位置。文章指出，隨著 AI 工具在臨床診斷、藥物管理及行政流程中的應用日趨普遍，現行治理機制往往滯後於技術部署速度，形成患者安全漏洞。作者建議醫院應建立跨部門的 AI 治理委員會，明確定義 AI 工具的風險分級標準、上線前評估流程及持續監控機制。此外，文章強調院方領導層必須深度參與 AI 政策制定，而非僅由資訊或技術部門主導。對於正在推動數位轉型的醫療機構而言，此篇分析提供了兼顧創新效率與患者安全的具體治理思路，具有直接的實務參考價值。",
+      "tags": [
+        "AI治理",
+        "患者安全",
+        "醫院管理",
+        "數位轉型"
+      ],
+      "author": "未標示（HCI Innovation Group｜2026-10-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd2J4TjBqOWJtZDgyYjRPc01rbG1iTGJhcW1MZEsyYXFCR1FHYURWWlNfY1d3aEh2Rl9kSU1aNHNMQi15TU5TRW9lNEJzb1JuUWREeXVncjcwSFJQLTE0aXQzMUhISlJObElWTDlEbmsxRFRrbzZUNThoRmtPUDQzLWNIaF9hVW8wZkRXOUNyVVJ0eWh4M2c0ei1mSmp3c3FITTdpZkpSbGN5U0ZnVF80TEQ1M3Q3cFd6VmdWWWFTemFEWG01U1lpRF9NR1BfRUpLNXc"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "Hugging Face 遭駭事件示警：醫療 AI 代理人亟需完善防護機制",
+      "summary": "Forbes 深度分析指出，Hugging Face 平台近期遭受駭客入侵事件，為快速普及的醫療 AI 代理人（AI Agents）應用敲響安全警鐘。醫療 AI 代理人能夠自主執行預約掛號、藥物查詢、臨床決策輔助等複雜任務，但其開放性架構也同時帶來資料外洩與惡意操控的高度風險。文章強調，醫療機構在採用基於開源模型或第三方平台的 AI 代理人時，必須建立嚴格的資安審查機制，包含存取控制、資料隔離、行為監控及異常警示等多層防護。此事件亦凸顯醫療 AI 供應鏈安全管理的重要性，院方不應僅依賴供應商的安全聲明，而需自主進行定期滲透測試與安全稽核，確保患者資料與臨床系統的整體安全。",
+      "tags": [
+        "AI資訊安全",
+        "醫療AI代理人",
+        "資料保護",
+        "網路安全"
+      ],
+      "author": "未標示（Forbes｜2026-10-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNGFXYTBuZF9DcWF5UHB6dXpNazROZVZIX2xlRE5Ba2Q3T1FJVFJTbkpCT3F2a2dieFpYNWN0YjE2V2RUQmdTSl9tcUdlTkIxNnRUVGJrSE4ySGM2NmV3UHpWNzV1MWltd25QbWFvV2dkbjI1NWhFczhMa0ZoS1E5S0UwUy03YVFPdlhnOEREVVdudW5Yb0l2Y19ETDJDVmVsLVFCMzlFZmJxS0dlZTE2Q2dpVFpnQzVIbXFSRGF4Sy1CbU9jTWdwQU0zVGhHaFE"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "AI 模型可從常規病理切片預測乳癌復發風險，免疫組化染色不再必需",
+      "summary": "最新研究顯示，AI 模型能夠直接分析常規蘇木精-伊紅（H&E）染色的病理切片，即可預測乳癌患者的復發風險，無需額外進行昂貴的免疫組化（IHC）或基因檢測。此一突破性進展意味著，即便在資源相對有限的醫療環境中，臨床醫師也能透過現有病理檢查流程獲得個體化的預後評估資訊。研究團隊透過大規模訓練資料集驗證模型效能，結果顯示其預測準確度與傳統分子生物標記檢測相當。對於病理科與腫瘤科而言，此技術若完成臨床驗證並取得監管核准，有望大幅縮短診斷周期、降低患者負擔，並優化乳癌術後輔助治療決策流程，是 AI 數位病理應用走向實際臨床落地的重要里程碑。",
+      "tags": [
+        "數位病理",
+        "乳癌AI",
+        "復發預測",
+        "臨床決策支援"
+      ],
+      "author": "未標示（Clinical Lab Products｜2026-10-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVh1MzIzMHkyT0dpRjl4TDlzMFJ2LXIzXzRJRkxQWlpDcWxnWDFOZ1ZQeW5ka3V4ZjQzR21COHJuSk05NS01WEZ3UnB2U1pGMHlYSzF5SHpoa2g3cktWRG5RSzJNUlZJSjR0T2xialk2MUQ4UDBwelI1VUFnV3RpdUFWTTAzaGZFU3NtTVhhemk1dUF6V2MwQnl2aTVPNURwcnl2Sm5xSWs3bHRO"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "醫院員工擅自上傳患者資料至未核准 AI 工具，逾 3,000 人資料安全受威脅",
+      "summary": "美國一家醫院爆發員工將患者個人與醫療資料上傳至未經機構核准的 AI 工具事件，受波及患者超過 3,000 人，院方已緊急向受影響患者發出通知並展開內部調查。此事件再次凸顯「影子 AI」（Shadow AI）——員工私自使用未獲授權 AI 服務——對醫療機構資料安全與隱私保護構成的系統性風險。事件發生後，院方尚無法確認上傳至第三方 AI 平台的患者資料是否已遭進一步存取或外洩，資料去向至今存疑。此案對醫療機構的啟示在於，僅靠技術防護不足以防範人為疏失，必須同步強化員工 AI 使用政策培訓、存取權限管控及可疑行為稽核機制，方能有效降低此類資料外洩風險。",
+      "tags": [
+        "患者資料安全",
+        "影子AI",
+        "資訊隱私",
+        "醫院資安"
+      ],
+      "author": "未標示（WBAL-TV｜2026-10-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRjlXNldJaWxEUEFXRy1YWGhmdE5LaklBT05JN1VFMVRxWUtfM05ZYzhKM3R3cWRzbF9PbkRHUVNnOGZ3UjVUUnMzQ1ltbUhwZXRrUnVJZ2VGTklKbmw5S284NWRocnh0eXNPVTVEemVidWoxeE1YejkzQ2piQk9zLUE4c0xRaEc1d0pTVVg5NndGMTVURHdicV9LejFMUQ"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "台灣天下雜誌深度報導：AI 數位分身技術將顛覆傳統健康檢查模式",
+      "summary": "《天下雜誌》刊載專題報導，探討人工智慧「數位分身」技術如何重新定義健康檢查的概念與流程。傳統健檢仰賴量體重、填問卷及抽血等標準化程序，而新世代 AI 數位分身技術則可整合個人生理數據、生活型態、基因資訊等多維度資料，透過模擬與預測模型精準識別個人健康風險，並提供個體化的抗老與疾病預防建議。此技術不僅可大幅提升健檢的個人化程度，更有望將健康管理從被動式疾病篩查轉型為主動式精準預防。報導也討論相關技術在台灣的研發現況及商業化進程，以及資料隱私保護、演算法偏差等潛在挑戰，對台灣醫療體系規劃下一代預防醫學服務具有參考價值。",
+      "tags": [
+        "數位分身",
+        "精準預防醫學",
+        "AI健康管理",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（天下雜誌｜2026-10-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xVEU2RnlWQzh5NXhoaGdyRV9xZVRNejlkVGVfNWdjMGRvOXhCWngwbXZBanpXLUpVTmxuWXFwX3NHb3E1RURTV1ZOaDRmUzlUcHh1X0N3"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "AI 藥物推薦傾向品牌藥，恐造成用藥成本最高暴增 11 倍",
+      "summary": "《朝鮮日報》報導一項最新研究發現，主流大型語言模型（LLM）在回覆藥物推薦相關問題時，存在系統性偏向品牌原廠藥而非學名藥的傾向，此一偏差若未加以修正，可能導致患者或醫療人員依據 AI 建議選用高價品牌藥，使藥物支出最高激增 11 倍。研究團隊指出，AI 模型的訓練資料中可能存在品牌藥資訊的過度代表性，或模型未充分學習學名藥等效替代概念，形成隱性偏見。此一發現對臨床藥師、醫師及醫療機構採購部門具有重要警示意義：在將 AI 輔助工具整合至處方決策流程前，必須針對藥物推薦偏差進行嚴格的偏見評估與校正，以維護用藥公平性及控管醫療成本。",
+      "tags": [
+        "AI用藥偏差",
+        "藥物推薦",
+        "演算法公平性",
+        "醫療成本"
+      ],
+      "author": "未標示（조선일보｜2026-10-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeHNjVS01VWVlc3NVR2xJTlc0eGxlbWE0UFVQOEp2UlFMcVZpTURlTERfTldZTmpRNElsWjBwaGdJajlqaEFXdEVLUnFrMkFlVFFyejVMbDZDMHBUcHpraWFTNDFxXy1sa3I4MTRTRlAtVHh5aTZfeDFJR3YtU3FlNktlak5mdlFl"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "亞洲 AI 遠端監測、大腸鏡 AI 輔助等醫療 AI 應用動態彙整",
+      "summary": "Healthcare IT News 彙整亞洲地區多則醫療 AI 最新應用動態，重點包含：韓國與馬來西亞醫療機構導入 AI 遠端患者監測系統，透過穿戴裝置與雲端平台即時追蹤慢性病患者生命徵象，提升院外照護品質；此外，AI 輔助大腸鏡檢查在亞洲多國持續推廣，有效提升大腸息肉偵測率並降低漏診風險。相關案例呈現亞洲醫療機構在資源有限環境下，靈活運用 AI 技術補強基層醫療能量的具體實踐。此類跨國案例對台灣醫院發展類似遠端照護及 AI 內視鏡應用策略具有重要參考意義，尤其在台灣高齡化人口持續增加、慢性病管理需求日益迫切的背景下，AI 遠端監測模式的本地化推動值得積極評估。",
+      "tags": [
+        "遠端監測",
+        "AI內視鏡",
+        "亞洲醫療AI",
+        "慢性病管理"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-10-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXVQaDRTUVlEOWVPX1hvaHpKT19pbEVmaFNYWEZIWjBYclFQbjdERl9vVzdQb2U2OTAtWWNtWWx4emhYNnZSeE5NYTlWYnNyUmptZm1wX2luZzRXeDl0dWxCNzFrSkhrRHcwdXpqWEtXRGQzMmpoN09TSVZLY0hlZWliUzdfWW1CeGxadC1jTUdsX1dfTzlIQVc5VDhKUFFBT3RjOTJPQ1lSQQ"
+    },
+    {
+      "rank": 10,
+      "score": 6.0,
+      "title": "SIIM-CAIMI 大會：Apollo LLM 框架展現 AI 患者監測新潛力",
+      "summary": "於 SIIM-CAIMI 醫學影像資訊學年會上，研究團隊發表 Apollo 大型語言模型（LLM）框架在患者監測領域的最新應用成果。Apollo 框架整合多模態臨床資料——包括影像報告、護理記錄及生理數值——透過自然語言處理技術持續分析患者狀態變化，即時識別潛在惡化徵象，並自動生成結構化警示供臨床團隊參考。初步測試結果顯示，Apollo 框架能有效縮短異常狀態的識別時間，並減少臨床人員的資訊負擔。此研究代表 LLM 技術從文字生成應用向主動臨床監測場景延伸的重要探索，也反映醫學影像資訊學領域對 AI 實際臨床整合的高度重視。對有意建構智慧病房或強化院內預警系統的醫院，此框架的設計思路具有一定的借鏡價值。",
+      "tags": [
+        "大型語言模型",
+        "患者監測",
+        "醫學影像AI",
+        "臨床預警系統"
+      ],
+      "author": "未標示（AuntMinnie｜2026-10-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaFo1SDdJT09XYm1VVkNMY2ExNnFwOWctTGJYamRtZi00RlZyVHZjazloTEdHRmFRQmdYbThxLUIxdmlaNUxiNDhjdDVBZUZyaThJazNDRGFnZG5rNUd1bjFxOEFYT0xwbklMOG1sWUtBRF9TZlBOcUpTQzlqdnJGTDYyZWQzQkYtem44eFJJZHZiY1hCN3VoYk4wNHJFaFRqRjNvaVYzTFBHcHVwX01ubDMzZ2lqTUpxMnFLNTFQVlpzTWo5dEN4WXlpaHNjd1lMYmxNVldUR01aSUpHN2tZN1Q4ODh1MFlPdmc"
+    }
+  ]
+}
