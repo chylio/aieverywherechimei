@@ -1,0 +1,117 @@
+{
+  "date": "2026年10月28日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "微軟醫療 AI 協調器 MAI-DxO 發布：複雜病例診斷準確率達人類醫師 2.3 倍",
+      "summary": "微軟正式公布醫療 AI 協調器 MAI-DxO（Medical AI Diagnostic Orchestrator），主打針對複雜、疑難病例的多步驟推理診斷。根據 iThome 報導，MAI-DxO 在複雜病例診斷準確率達人類醫師的 2.3 倍，整體準確率逾 80%。MAI-DxO 採用多模型協調架構，能整合不同專科 AI 模型的判讀結果，進行跨領域推理後輸出診斷建議，有別於傳統單一模型輸出。此一突破對醫院臨床決策支援系統具有高度參考價值，尤其在疑難雜症、罕見病鑑別診斷及多重共病場景中潛力可觀。目前微軟已在特定醫療機構進行試點驗證，下一步計畫與 EHR 系統整合。此消息引發台灣醫療科技界高度關注，各大醫療機構正評估導入可行性，亦引發關於 AI 輔助診斷責任歸屬與監管框架的討論。",
+      "tags": [
+        "診斷AI",
+        "臨床決策支援",
+        "微軟",
+        "多模型協調"
+      ],
+      "author": "未標示（iThome｜2026-10-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OS1ZENEEwTzZxcEhqUUw5R3QxMElfZFFjOGUzdGNhWWpFb3d1Q1c0R1ZPQ1JnRXJzS0F6bDNRTTlEQmg0c1ozdnl2LUdYZw"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "AdvaMed 呼籲 FDA 對生成式 AI 醫療器材採風險分級監管框架",
+      "summary": "美國先進醫療技術協會（AdvaMed）向 FDA 提交意見書，強烈建議監管機構針對生成式 AI 醫療器材採取風險分級（risk-based）監管方法，而非一刀切式的全面審查。AdvaMed 指出，生成式 AI 在醫療影像、臨床決策支援、藥物開發等場域的應用日趨多元，其風險特性與傳統軟體醫療器材（SaMD）存在本質差異，現行監管框架亟需因應調整。該協會建議 FDA 依據 AI 輸出對患者照護決策的直接影響程度，將生成式 AI 醫療應用分為高、中、低三級，並對低風險應用採備查制、高風險應用保留完整上市前審查。此舉被業界視為推動 FDA 生成式 AI 監管政策成形的重要遊說節點，對醫院採購及廠商研發策略均有深遠影響，各方正密切關注 FDA 後續回應。",
+      "tags": [
+        "FDA監管",
+        "生成式AI",
+        "醫療器材",
+        "風險分級"
+      ],
+      "author": "未標示（AdvaMed｜2026-10-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMUVuMDhNcDVueW1hLVRXMXkxQ0Z5a2h1UkpjOHI1bFgzd2dqcld4MlU3TEkwVExvMUE5UXVhRWJTdUloLTNZSER5SzBGemt6SjVhQjlrRFJDMlR0TFMxenNENlBfUktUWm5Qc2R3M2VvZTYzQ0NaT0JkZmktVTFKYzhDRjJyeVp3Nm1NcFdmS2FlZm9OYWdwM0FrcjAycEk0T21SVnZmdlRkVUtmUXNUR0FfREMtdTJ3YmhfY1NRRQ"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "模糊邏輯 AI 代理人可提前數小時預警醫院資源危機，優於傳統評分系統",
+      "summary": "一項發表於 Bioengineer.org 的最新研究顯示，採用模糊邏輯（fuzzy logic）架構的 AI 代理人系統，能在醫院資源危機（如 ICU 床位不足、人力短缺、設備壅塞）發生前數小時發出預警，準確率顯著優於現行標準早期預警評分（EWS）工具。該系統整合多維度即時資料流，包含病床佔用率、護病比、急診候診時數及設備使用率，透過模糊規則推理生成動態風險指數，並自動觸發對應應變建議。研究團隊在歐洲多所教學醫院進行回溯驗證，結果顯示平均可提前 4 至 6 小時發出有效預警，有助於行政與護理管理層提前調配資源。此研究對醫院營運管理層與護理資源規劃具有直接參考意義，亦呼應智慧醫院在即時病床管理與人力預測上的核心需求。",
+      "tags": [
+        "醫院資源管理",
+        "早期預警",
+        "AI代理人",
+        "病床管理"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaXlLNnN5Z3hJaGQxTkhFWExjNjNCeG9GaTVDcFRPYndWZnJwZVJhc1lmSEw4LXJ0cHNmdkNla0tpLTVzeU5ld3lOYmx3b1hXVU51eFctbUpvX1ZpaVQxNnVRQ1Y2REtTVEs1R003WVdLU0pjYm9tMV9lRHFUM1ZRbEFHVE9ZUENGWmNjNjRoSmZ5dnZzR2hSZzRDd1drUGVr"
+    },
+    {
+      "rank": 4,
+      "score": 8.2,
+      "title": "放射科 LLM 研究熱潮：265 篇論文全面盤點大型語言模型在影像報告生成的現況與挑戰",
+      "summary": "Bioengineer.org 刊載一項系統性文獻回顧，彙整近期 265 篇探討大型語言模型（LLM）應用於放射科影像報告生成的研究論文，全面呈現該領域的研究爆炸現象。回顧指出，LLM 在放射科影像報告摘要、印象（impression）生成及結構化報告撰寫等任務上展現高度潛力，但仍面臨幻覺（hallucination）率偏高、跨機構資料泛化能力不足、低資料量場景表現不穩定等挑戰。研究同時指出，LLM 經放射科領域適應微調（domain adaptation）後，在低資料量環境下的報告生成品質可獲顯著改善。這波研究浪潮反映全球放射科 AI 應用正從影像辨識擴展至自然語言生成，對放射科主任及醫療資訊部門在評估 AI 報告輔助工具時具有重要參考價值。",
+      "tags": [
+        "放射科AI",
+        "LLM",
+        "影像報告生成",
+        "臨床NLP"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVTYzV0taN2tsenVpTnhXVHNQZnhPMUg4dFI4V25OVGY4eGJRU3FKRUZ2RGt6cjQzWWVOTFFEV1lYZ0RmdWFyN1lTNHJ6emZMNEtZTG9SajF4aTdVclM2dGlZV2JGY3hZNGM2M3Y5SmpMdUM0dzVPZHRkX3FoWDlpdnBYYktBNUdoSFJOOUIxOGpXTTJM"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "醫療 AI 法律責任之戰：醫院、廠商與臨床醫師的責任歸屬爭議正式浮上檯面",
+      "summary": "Newsweek 深度分析指出，隨著 AI 輔助診斷與臨床決策工具在醫院的部署規模持續擴大，醫療 AI 的法律責任歸屬爭議正式進入訴訟實戰階段。核心問題集中於三方：AI 系統開發廠商、採購部署的醫療機構，以及最終做出臨床決策的醫師，究竟誰應對 AI 誤診或建議錯誤承擔法律責任。文章梳理美國各州現行判例，指出在尚無明確聯邦法規框架的情況下，法院傾向以「知情使用者責任」原則要求醫師負主要責任，但亦有案例追究醫院未妥善驗證 AI 工具的機構責任。此一趨勢提示醫院領導層在引進 AI 工具時，必須同步建立完整的臨床驗證紀錄、使用政策與人員培訓機制，以降低法律曝險。",
+      "tags": [
+        "醫療AI責任",
+        "法律風險",
+        "AI治理",
+        "臨床決策"
+      ],
+      "author": "未標示（Newsweek｜2026-10-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSWt2cVdkaEZ4WFVIaEgyMG0yZk5feUYyaTlJR2VGUjRFZTh3bWxoTnUweDYzUDhIR05zLTNyeEl0YWxoeVlMUk1EaDBiblpOMlpnWFNzM1FDT3h1a3J5bXVHVXlKS1BHUDlVRk1OcUYzemFvQW1tanV4US1PSWVjQnBOWE5tS0U"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "ClarityCare 獲 1,650 萬美元融資，以 AI 自動化加速保險事前授權審核流程",
+      "summary": "醫療 AI 新創公司 ClarityCare 宣布完成 1,650 萬美元 A 輪融資，資金將用於擴展其 AI 驅動的保險事前授權（prior authorization）自動化平台。該平台透過自然語言處理與臨床指引比對，自動擷取並整理患者病歷、保險資格及醫師醫囑資訊，將事前授權申請時間從平均數天壓縮至數小時，大幅減輕行政人員負擔。此次融資背景恰逢美國聯邦政府針對健保事前授權決策設定新法定期限，各大健保計畫面臨合規壓力，ClarityCare 的解決方案因此受到市場高度關注。對於台灣醫院而言，此案例呈現以 AI 自動化解決行政瓶頸的可行路徑，對健保審查與申報作業的數位轉型具有參考價值。",
+      "tags": [
+        "保險事前授權",
+        "行政AI自動化",
+        "醫療新創",
+        "健保審查"
+      ],
+      "author": "未標示（MedCity News｜2026-10-28）",
+      "source_url": "https://medcitynews.com/2026/10/claritycare-raises-16-5m-to-speed-up-prior-authorizations/"
+    },
+    {
+      "rank": 7,
+      "score": 7.3,
+      "title": "成大醫院連續 3 年榮獲全球最佳智慧醫院肯定，並獲 AI 創新領袖殊榮",
+      "summary": "國立成功大學附設醫院（成大醫院）再度於國際智慧醫院評比中脫穎而出，連續第 3 年榮獲全球最佳智慧醫院（World's Best Smart Hospitals）認可，並同步獲頒 AI 創新領袖（AI Innovation Leader）肯定。成大醫院近年積極推動智慧醫療轉型，涵蓋 AI 影像判讀、智慧病房監控、電子病歷自然語言分析及遠距醫療等多元應用。此次獲獎項目涵蓋 AI 輔助早期敗血症預警系統及智慧手術室資源排程優化，均已完成臨床驗證並常態化運作。成大醫院的成功經驗顯示，以臨床痛點為出發點、逐步擴展的 AI 導入策略，是台灣醫療機構在全球智慧醫院競賽中脫穎而出的關鍵，亦為國內各醫療體系提供具體的標竿參考。",
+      "tags": [
+        "智慧醫院",
+        "台灣醫療AI",
+        "成大醫院",
+        "國際認證"
+      ],
+      "author": "未標示（國立成功大學｜2026-10-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oTjYtaGtub0V4S2p4UTNuQlpBdzlKdC1pR05ZUDA3LUR2SzRMR2prUTk0QnpDeFR0NzNhUXZnODIteUFsWkZ2VUtyYzM5QUVMUTBuZWw1dGxSSTNVZ0dZa29YZDlPUllxX0laX1d1SQ"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "醫院員工揭露醫療 AI 倫理困境，研究呼籲建立多層次治理路徑",
+      "summary": "Bioengineer.org 報導一項針對多國醫院臨床與行政人員的質性研究，深入探討第一線員工在實際使用醫療 AI 工具過程中所面臨的倫理困境。受訪者反映的主要問題包括：AI 建議與臨床直覺相左時的決策壓力、患者資料隱私保護的模糊地帶、AI 工具輸出偏誤對弱勢族群的潛在不公平影響，以及缺乏透明可解釋性所帶來的信任危機。研究提出多層次治理框架建議，涵蓋機構層級的 AI 倫理委員會、科室層級的使用規範訂定，以及個人層級的 AI 素養培訓。此研究對醫院在制定 AI 工具導入政策與員工培訓計畫時具有直接的實務指引價值，尤其針對臨床 AI 落地後的人機協作文化建構。",
+      "tags": [
+        "醫療AI倫理",
+        "AI治理",
+        "臨床人機協作",
+        "員工培訓"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSUtUYWY5YjdzNGNNaFJwOS1seGNWTnBXTlctcmRyOHlLd2JtQzh3eGcteGhiSGh0aFZwdVdEMTNBY2hBbjZEUXZEdFNCcUVSY3oycXRkY0V4aFdsQzNjdTJqYTRWOVRVbFpud3dYRTRmMC1xTXptNXB2NUpxRHBHYVlnekZ6RjRIYXJXSmUtNU9FUkRNTUhGaUZzcWtac2M1ci1KT2VWLXp5amxrQVVR"
+    }
+  ]
+}
