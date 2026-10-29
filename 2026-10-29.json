@@ -1,0 +1,145 @@
+{
+  "date": "2026年10月29日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Epic 市場壟斷阻礙醫療 AI 創新：STAT 深度調查揭示健康科技生態危機",
+      "summary": "STAT News 深度調查發現，電子病歷龍頭 Epic Systems 透過選擇性限制患者資料存取，系統性地壓制競爭對手軟體開發商，對醫療 AI 創新生態造成嚴重衝擊。報導指出，Epic 的市場主導地位使醫院在採購科技工具時選擇空間大幅壓縮，新興 AI 廠商難以取得必要的臨床資料進行模型訓練與驗證，形成實質性進入壁壘。此調查同時呼籲讀者分享親身經歷，顯示議題已引發廣泛關注。對於正在評估或導入醫療 AI 解決方案的醫院領導層而言，此報導揭示了 EHR 廠商生態鎖定效應對數位轉型策略的潛在風險，以及 Epic 整合生態是否構成反競爭行為的法律爭議正逐步升溫。",
+      "tags": [
+        "電子病歷",
+        "醫療AI創新",
+        "市場壟斷",
+        "數位轉型"
+      ],
+      "author": "未標示（STAT News｜2026-10-28）",
+      "source_url": "https://www.statnews.com/2026/10/28/epic-systems-ehr-dominance-health-tech-antitrust-scrutiny/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI 病理評分可預測轉移性三陰性乳癌患者接受 pembrolizumab 治療後的存活優勢",
+      "summary": "最新研究顯示，AI 病理評分工具能夠識別轉移性三陰性乳癌（mTNBC）患者中，哪些人接受 pembrolizumab（抗 PD-1 免疫治療）後存活期顯著延長。研究利用數位病理切片進行自動化評分，不需額外分子檢測即可分層患者預後，為精準免疫腫瘤學提供新的生物標記策略。三陰性乳癌因缺乏特定受體靶點，治療選擇有限，此 AI 評分方法若能臨床驗證，將有助於腫瘤科醫師更精準篩選免疫治療適合族群，減少無效治療並降低醫療成本。此研究對病理科、腫瘤科及數位病理導入團隊均具重要參考價值，反映 AI 在腫瘤精準醫療落地應用上的持續進展。",
+      "tags": [
+        "AI病理",
+        "三陰性乳癌",
+        "免疫治療",
+        "精準醫療"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjdyUE5vdURHRVZMUHJFbUVwTUhiM0gtS3NNWHUxNlJPd3pXNTdFbU9nbndkLWt0dlJkQnV0dzhLVDg4ZVNDZll2bFlvRnpoY1ZrUEZxTWJkb0dTQXpkRFBCTEtkemlVeWxSLXlRanlLNDlWWEFVTm1HaW1KclYtdVMxbm9id3ZtSjZ6Zl9fR1ZQR0xhaWZ0azl3OWw3Ym16RVRXalBkMEhyWlhiS2VvMVlmTWhoTDhCQ3M0YTFXUGExcGtKQmlj?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "AI 從實驗室走進癲癇門診：系統性回顧揭示臨床落地現況與挑戰",
+      "summary": "一項最新系統性回顧研究全面盤點 AI 技術在癲癇臨床應用的進展，涵蓋腦電圖自動判讀、發作預測、影像分析及藥物反應預測等多個面向。研究發現，AI 工具已從純粹的學術研究階段逐步過渡至實際診間應用，部分工具已取得監管核准並在真實世界環境中部署。然而，報告同時指出跨機構資料異質性、模型可解釋性不足及臨床整合流程複雜等仍是主要障礙。癲癇診斷傳統上高度仰賴專科醫師判讀，AI 輔助工具若能提升基層或偏鄉醫院的癲癇偵測能力，將具重要公衛意義。此回顧為神經內科、癲癇中心及醫療 AI 導入團隊提供當前技術成熟度的重要參考基準。",
+      "tags": [
+        "癲癇AI",
+        "臨床落地",
+        "腦電圖",
+        "神經科"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTk4TDZmZEJ0b1VpbnZpSHRidHBOSzBUYmkydWVMX3hVNlI5blBQUzdzbEFZalZiZjVVM205LXJSU1JuV1otel9Jb2pPZGVJVnFCdzY4bmhIdGtfS2Z4c3hKdkJqam9XN0EwQUFkZGJ1RUtEMmZyd2FSd3c5bElvNnpYZjBWYTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "小型 AI 模型可從放射報告文本中自動辨識頸椎骨折，輔助影像判讀",
+      "summary": "最新研究顯示，經過特定訓練的小型 AI 語言模型能夠有效從放射科報告文本中自動識別頸椎骨折相關描述，準確率媲美大型模型，但所需運算資源大幅降低。研究團隊利用真實醫院放射報告資料集進行訓練與驗證，結果顯示模型在辨識骨折關鍵詞彙與臨床語境方面表現穩健。頸椎骨折屬時效性高的急重症，延遲診斷可能導致永久性神經損傷。此研究意義在於，輕量化 AI 模型可部署於資源有限的醫療機構，無需依賴大規模雲端基礎設施即可提供輔助決策支援。對放射科資訊化、急診醫學及 AI 資料分析團隊而言，此研究提供了一條務實可行的臨床 NLP 應用路徑。",
+      "tags": [
+        "放射科AI",
+        "自然語言處理",
+        "頸椎骨折",
+        "輔助診斷"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORDJ5bURCR1ZvSkZSN281R09QSVJkQ0JYUUlGZWlheWlKeDhpTHNjMFp0Qmt4ejhhNFJwNl93Q2hhcHR5ZDZMcU8wa1hnSmJpdnRzM2YwMlFCLWUwZ3FHeENnZXE4dU1xX0xrMUkzbUZQNG9pcDBTR2J1SU0tbC1LeTJLX0FzZUtFU2NIZkJPSVpIU0c3cXNXSEFUZDNNdi11MUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "醫療 AI 工作流程改造：如何真正彌合 ROI 落差",
+      "summary": "HIT Consultant 深度分析指出，多數醫療機構導入 AI 後未能實現預期投資回報，核心原因並非技術本身不足，而在於工作流程未能同步重新設計。文章強調，AI 工具若僅疊加於既有低效流程之上，不但難以創造價值，反而可能增加臨床人員負擔。真正的 ROI 提升需從患者旅程全局出發，識別 AI 介入最能產生效益的關鍵節點，並搭配組織變革管理與員工培訓。報導引用多個醫院實際案例，說明工作流程再造如何使 AI 輔助診斷、行政自動化及病床管理等應用發揮最大效益。對於正處於 AI 導入後評估或擴大部署階段的醫院資訊與數位轉型團隊，此分析提供了實用的方法論框架。",
+      "tags": [
+        "醫療AI導入",
+        "工作流程再造",
+        "投資回報",
+        "數位轉型"
+      ],
+      "author": "未標示（HIT Consultant｜2026-10-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUGZkUmVuQ0lMblZtY05yMk51UTh2bmh4REstZjd4LU13MUVwNWN1NEhfb2RrNkFpVzdiLUNzbElvakxkWmhyMGljZXRaOVhtcnJhZXl0eE9wU0hqSl9vcTNJNU1MSG1TdlNLT3UtNzQ4aGl5UHBYZWRmNTVaRVExemhNMnk4WVZCTHJmWmh1MFFZV3ZkRWpaXzAwUQ?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "全球健康論壇聚焦可信任數位照護與醫療 AI 落地：台灣跨界專家共探治理之道",
+      "summary": "一場匯聚跨界專家的全球健康論壇在台灣舉行，議題聚焦於可信任數位照護體系的建構，以及醫療 AI 如何從概念驗證走向真實臨床落地。與會專家來自醫療、科技、法規及學術等多個領域，討論涵蓋 AI 模型透明度、資料治理、跨機構協作及患者信任建立等核心挑戰。論壇強調，醫療 AI 的成功部署不僅取決於技術能力，更需要完善的倫理框架與監管配套，以確保系統安全性與公平性。此次論壇呼應國際間對醫療 AI 治理的高度關注，也顯示台灣醫療科技社群正積極參與全球對話。對於正在制定 AI 治理政策的醫院領導層及資訊主管，論壇討論成果具有直接參考價值。",
+      "tags": [
+        "醫療AI治理",
+        "數位照護",
+        "台灣醫療",
+        "跨界合作"
+      ],
+      "author": "未標示（經濟日報｜2026-10-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYnFRMVZxRENQenAwUWZ5NVZ0QWlwSVdOX21ub05VdHVmUXRkdHgyRjdCaTBWdzhDbWNsZXU3aVZ2dkg0eTIxNU5Bb1o0T0FVUFRpN1hDbkVmRFVvczN0ZzNIZjJJbk1QdVk2MnRGWFVQc2RxbVRGMVFiSUVVQ213OTFmWdIBYkFVX3lxTE9MWWpqZDhMN09FdVYyaUh2ZkNzaHRGZHFwVUNNWmMzeWZVMFRNa2dYV2tIWWZ2dWxGODlrRjgzbS1CWkprSHpTc1RpZUY1LTh0cWJoMzQxU3VTc2s4MV9qRk5B?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "北榮臺東分院自主開發洗腎照護 AI，守護偏鄉腎臟病患健康",
+      "summary": "臺北榮民總醫院臺東分院宣布自主研發 AI 智慧洗腎照護系統，針對臺東偏鄉腎臟病患的特殊需求進行本土化設計。系統整合透析監測數據，透過 AI 分析即時掌握患者生理狀況變化，協助醫護人員提早介入異常狀況，提升透析治療安全性與照護品質。此計畫由醫院內部團隊主導開發，展現了偏鄉醫院自主推動醫療 AI 創新的能量，也凸顯台灣各地醫療資源落差下，AI 技術在縮短城鄉醫療差距方面的潛力。洗腎照護為高頻率、高風險的長期醫療服務，AI 輔助監測可望減輕護理人力負擔並降低透析相關併發症風險，對腎臟科及護理管理團隊具重要參考意義。",
+      "tags": [
+        "洗腎照護",
+        "偏鄉醫療",
+        "台灣醫療AI",
+        "智慧醫院"
+      ],
+      "author": "未標示（蕃新聞｜2026-10-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwYkE4Y0RsSGJHWVZ0UVZtYWd3bmJtRHdSYWNEX05LdC1DSjg5cjNLbjNIbGdVYzN2Umg4OEJoLUJUSkJqekwxYmZzRVNqcFdNZGc?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "聯邦式 AI 在不存取患者資料的前提下學習偵測醫院設備駭客攻擊",
+      "summary": "最新研究展示一種基於聯邦學習（Federated Learning）架構的 AI 資安防護系統，能夠在完全不集中患者資料的情況下，學習識別醫院聯網醫療設備遭受駭客入侵的異常行為模式。各參與機構的模型訓練均在本地端執行，僅共享模型參數而非原始資料，有效解決醫療資料跨機構共享的隱私合規障礙。研究結果顯示，聯邦模型的偵測準確率與集中式訓練模型相當，同時大幅降低資料外洩風險。隨著醫院物聯網設備數量快速增加，醫療資安威脅日益嚴峻，此研究為醫療機構資訊安全團隊提供了兼顧隱私保護與威脅偵測的可行技術路徑，對資訊部及數位轉型團隊具重要參考價值。",
+      "tags": [
+        "聯邦學習",
+        "醫療資安",
+        "物聯網",
+        "隱私保護"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTml4eFp2TnNDa0NGWms0TUVUTElCLTA4MVctYTdMTmhRd1BHQXZtd1JJcmhwRnFGZzhmNEFid1FSN0JnQXpGZWdwU2thd1JTMDF0V21wYzNpZ3FhRHhodUlBbjRqbnRYVExCX1RRTWJSV3ZIWW41aVZfR19lc0VhOXpNS09CM2dacEhmTmR2ejBiVEhCOWZvbXRPcHBzMC16RzROai1IMUctVmc?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "AI 與數位病理攜手重塑成人腦腫瘤診斷模式",
+      "summary": "最新研究回顧顯示，AI 結合數位病理技術正在從根本上改變成人腦腫瘤的診斷流程。傳統腦腫瘤分類高度依賴病理科醫師的人工判讀，且需要複雜的分子檢測，耗時且成本高昂。新一代 AI 模型能夠從數位化病理切片中自動萃取形態特徵，精準辨別膠質瘤、腦膜瘤等不同腫瘤類型及其分子亞型，部分模型準確率已達專科醫師水準。此技術突破不僅能縮短診斷時間，也有潛力協助病理資源不足的地區醫院提升腦腫瘤診斷能力。對於神經外科、病理科及正在評估數位病理投資的醫院管理層，此研究清晰描繪了 AI 輔助腦腫瘤診斷的技術現況與臨床導入前景。",
+      "tags": [
+        "數位病理",
+        "腦腫瘤",
+        "AI診斷",
+        "神經外科"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbnFfS0FGdUw3RjAzS0x2M1g0Znd6S3dfdHJKcnhZbWZ6SkhkU2NvVVRPdl8yNXAwNTFNTDc1SUxkeGJLWE5yd3NnLWo3cWFpUGRBZkRYbGRvaDhqbnFrdkhOWVpXVVVNeVBKZ19tMnBENFVZUlA0cHRZcmtEdkEtbEpmUDhNaWwwSGt2RWJ6UUdyc1E?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 6.5,
+      "title": "Oracle 宣布 11 月起陸續推出醫療 AI 模組，Larry Ellison 稱醫療 AI 為科技巨擘的「關鍵門戶」",
+      "summary": "Oracle 創辦人 Larry Ellison 在近期聲明中明確表示，醫療 AI 是 Oracle 進軍企業級 AI 市場的核心策略入口，公司計畫自 2026 年 11 月起陸續推出一系列以醫療為主軸的 AI 功能模組。這些模組預計將深度整合 Oracle Health（前身為 Cerner）的電子病歷平台，涵蓋臨床決策支援、患者資料分析及醫院營運自動化等應用領域。此舉標誌著 Oracle 正式加速其醫療數位化布局，與 Microsoft、Google 等科技巨頭在醫療 AI 市場的競爭進一步白熱化。對於已使用 Cerner/Oracle Health 系統的醫療機構，相關 AI 模組的導入時程與功能規格值得密切關注，並評估其對現有工作流程的潛在影響。",
+      "tags": [
+        "Oracle醫療AI",
+        "電子病歷",
+        "醫療數位化",
+        "科技巨擘"
+      ],
+      "author": "未標示（BigGo 財經｜2026-10-28）",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jcmpaZFA3RlZoZTh1eHZEcFBoeXI5VENZUmJHeWlDZVE0ZnJCbG5JQlZiMjBVNEZHQkJLeWtaNkZfNlpVcG1yQm90TmlXZ294QkZKVThoOTluZkpVYTlJNmhUYmR2N3NvZHZidFRmTEg4WWRydGZZLTJR?oc=5"
+    }
+  ]
+}
