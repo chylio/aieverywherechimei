@@ -1,0 +1,131 @@
+{
+  "date": "2026年10月30日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "中國對醫療 AI 監管規則之研究：借鑒歐盟、美國、日本經驗",
+      "summary": "中國正積極研擬醫療 AI 監管框架，系統性參考歐盟《AI 法案》、美國 FDA 軟體即醫療器材（SaMD）指引及日本薬機法修訂等不同模式的優缺點。此一動向對全球醫療 AI 產業具有重要意義：中國龐大的醫療數據規模與市場體量，使其監管取向極可能影響全球產業標準的演變走向。報導指出，中國監管當局在兼顧創新促進與患者安全保護之間面臨複雜的政策抉擇，並著重分析分級分類監管、上市前審查嚴格程度及演算法更新透明度等核心議題。對於已在或計劃在亞太地區推動醫療 AI 落地的醫療機構及廠商而言，了解中國監管方向有助於研判未來跨境醫療 AI 技術協作與市場准入的潛在變化。",
+      "tags": [
+        "醫療AI監管",
+        "政策法規",
+        "國際比較",
+        "中國市場"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUs0QVZDMEEtOFhldTdvRGktdE1CN1YtQ1JRRmFBVFN3elNuNFZxclFsQmZzdl9Na252eW8ybGI5MVNibTdfZ2Z4OUxIY3RwUGpyNTM1RHNpWE5RbS1jMDRkNy13bEFVRmRxaW8tUWd1dGR4Q0F3Y3VnQVEtMjVTOG1TSGY2QQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "新框架探討：醫療 AI 模型更新後何時必須重新進行臨床驗證",
+      "summary": "一份新發表的研究框架系統性探討醫療 AI 模型在更新（如演算法迭代、訓練資料擴充或應用場域擴展）後，應於何種條件下要求重新提交臨床證據。研究提出依據「模型變動幅度」與「臨床風險等級」的雙維矩陣評估機制，將更新類型分為無需重新驗證、需內部評估及需完整臨床試驗三個層級，以應對目前監管機構對持續學習型 AI 模型缺乏明確規範的困境。此框架對醫院資訊部門、臨床科室及 AI 供應商採購與上線決策均具直接參考價值，亦回應了 FDA 及歐盟 MDR 在 AI 生命週期管理上的監管空白。對於正推動 AI 醫療器材上市或評估導入的機構，此框架提供了具可操作性的風險管理依據。",
+      "tags": [
+        "醫療AI監管",
+        "臨床驗證",
+        "模型更新",
+        "風險管理"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObFdxNEo0bkF3OVRzY2ZSYXZnRjZ3M0t4R1p6eThNZGJ0ckUyTVRadUM0SVdueEZ1YzRWRWpQbnZLeGFqX2E2UF9VZ1M4QkE2MGp6WkxpVXZlRzhnRHV3aXZVSjA4NjJSRGFfLXZyajhyYjRtQWhRbzgydTVxX3BmbVVMalJpVDBMRWRUSkhkcEVIODFuVWFkbno1NWhyRDVL?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "全球專家小組就醫療 AI 倫理準則達成共識",
+      "summary": "一個由多國臨床醫師、倫理學家與技術專家組成的國際專家小組，針對醫療 AI 應用倫理準則達成原則性共識，涵蓋透明度、公平性、問責機制、患者自主權及跨境數據使用等核心議題。此次共識聲明被視為繼 WHO 醫療 AI 指引後，學術社群自發推動的重要補充文件，目標在於提供可操作的倫理審查標準，填補現行法規未觸及的灰色地帶。專家小組特別強調，倫理框架須因地制宜，不同醫療體系文化背景應有彈性調整空間，同時主張在醫院層級建立常設倫理審查機制以監督 AI 應用。此共識對醫院推動 AI 治理委員會設立、AI 導入評估程序及臨床倫理教育具有直接指引意義。",
+      "tags": [
+        "醫療AI倫理",
+        "治理框架",
+        "國際共識",
+        "患者安全"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc1hzVGZBaXZPWDFiRU9pN3FYNnNPTERNQlIybHlzb3huQlJGTzZ3TDJxMzFpT2tOZmtOaklQd2JUWmZUOUgwcFBzUjFPN2Nsazd6NnpBaXMtbmlHS2tMYkYwUHM3VmpkQjRzeDJlMGNuXzJGWENfcnhMaE5ZeEJITkk2Sk1UaWhUVDQ4SG13dHI?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "新加坡醫院如何系統性評估 AI 工具導入：實務框架揭露",
+      "summary": "Healthcare Finance News 報導新加坡一家醫院公開其內部用於評估醫療 AI 工具的系統性框架，涵蓋臨床效益驗證、資安合規、整合複雜度、成本效益及員工培訓需求等多個維度的評分機制。該院強調，AI 工具評估不能僅依賴廠商宣稱的功能，而須透過本地數據的效能再現測試（local validation）確認適用性。此外，框架亦納入「退場機制」設計，確保 AI 工具若表現不符預期可安全停用而不影響臨床流程。此一實務框架對亞太地區醫療機構在 AI 採購決策、PoC 設計及治理架構建立上具有高度參考價值，尤其適合資訊部門與臨床科主任共同建立跨部門評估標準。",
+      "tags": [
+        "醫療AI導入",
+        "評估框架",
+        "醫院治理",
+        "亞太經驗"
+      ],
+      "author": "未標示（Healthcare Finance News｜2026-10-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY0hEUDREQnFadmFtYkV6ODNoU0JxNEU2WTJacERBUktzeGtTdldvM3loM0NBTENZWk13dEJFTXZ4Qzg1Mm52eTJVdUVranZqNnNreGI0NmNNOThjWTQyX1lfMkJFRTU5ellURU1OZ2htT0pxOTE4aG9TM2piTS1TaXRkbzhWWE0zQW5PS0JBNVhvVDU2WU9QMGF3?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "新加坡樟宜綜合醫院 90% 員工達 AI 識能，成全院推動標竿",
+      "summary": "MobiHealthNews 報導，新加坡樟宜綜合醫院（Changi General Hospital）已成功讓 90% 的員工通過 AI 識能（AI literacy）認證，成為亞太地區醫療機構全員 AI 培訓的重要里程碑。該院推行的培訓計畫涵蓋 AI 基礎概念、臨床場景應用辨識、資料隱私意識及 AI 工具使用風險評估等模組，並依職別設計差異化課程內容。院方表示，提升全員 AI 識能有助於減少臨床人員對 AI 工具的排斥感，加速工作流程整合，同時降低因誤用 AI 產生的醫療風險。此案例對醫院推動數位轉型、規劃員工教育訓練體系具有直接參考意義，亦呼應近年醫療 AI 治理文獻強調「人才培育」應與技術導入同步進行的核心主張。",
+      "tags": [
+        "AI識能培訓",
+        "醫院數位轉型",
+        "員工教育",
+        "亞太經驗"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-10-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDhTdklsTUo1TEhXNmY4cFQ0WDFVMjBYTDM3eWVKRkg3STRCalJxTURCaHFEUmNabThzQ2FlS2dQVHN1eU1XaEFvbWptRTVyVFdwWExaUUQwejl0RlRBSjdxczZaLWVvU3hDckc2RHV6M2o2VnFHejcxNTlMWFBfajg4UmxyVUJCdkU4S3dGeXFDcU1F?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "AI 病理模型橫跨 2,552 例神經膠質瘤完成患者風險分層",
+      "summary": "一項大規模研究顯示，AI 病理模型可針對神經膠質瘤（glioma）患者進行精準風險分層，研究涵蓋 2,552 個病例，透過數位病理切片自動分析腫瘤微環境特徵，預測患者預後並將其分為高、中、低風險組。模型表現優於傳統 WHO 分級指標，且在多個獨立數據集上具備良好的泛化能力。研究結果顯示，AI 輔助的病理風險分層有助於協助神經外科及腫瘤科醫師制定個人化治療計畫，並可篩選適合臨床試驗的患者族群。此研究延伸了先前腦腫瘤數位病理 AI 的研究脈絡，進一步驗證大規模多中心數據下的臨床實用性，對神經腫瘤科、病理科及精準醫療推動具有參考意義。",
+      "tags": [
+        "數位病理",
+        "神經膠質瘤",
+        "AI風險分層",
+        "腫瘤精準醫療"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWpfb1dRbGMwY2lzbWw4YzJfdVFhRlYxZEVPaHBGOU91UFdzZVZuOVBudkxEVzNWRlZjYmkwYURlTk5QS1BXT3dpaU94RmpBVTFVbUZDNVdhT3dZWndQOURMNDRkMjFsWHQteUZlbVBCRlplc2o0X0JrallwTzRSSzB4SnJpLWF1SEdUZVc1QVdJWHh4QkpN?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "AI 自動起草醫師回覆信函：準確率可期但專家仍偏好人工撰寫",
+      "summary": "一項研究測試以 AI 自動從醫院電子病歷摘取資訊、起草醫師致患者或轉介醫師的回覆信函，結果顯示 AI 生成內容在資訊完整性與格式規範上表現良好，但在語氣適切性、同理心表達及細節準確度上仍不及人工撰寫。獨立專家評審在盲評中仍傾向選擇人工撰寫版本，尤其在涉及壞消息傳達或複雜臨床情境時差距更為明顯。研究指出，AI 輔助起草可作為初稿工具以降低醫師行政負擔，但需保留醫師審閱與修改機制，不宜完全自動化發送。此研究對醫院導入 AI 行政輔助工具的定位設計、工作流程規劃及品質管控機制具有實務參考價值。",
+      "tags": [
+        "臨床AI應用",
+        "醫師行政減負",
+        "自然語言生成",
+        "患者溝通"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-10-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNanhpWFFCd1huTURHWHgtbUpKZVE5Ti1rOEg2R2ZhR2h0YVRkMW5hTUEyVjY2THcyZ3pSMXMwUVNGMHhvbXk1RVB1V1hNOW9UdjQ4djRPVEp2THl1Mlk1eGI3UklyODhnR3dySlBnTno5SEY1OVI1X3ZTZTBiVlVHeno0QWZ0T2UtemYxc1lCOWNzdlpINTAwU0RlcWdqUVB1bF9HN3ltdjJ6d1BZZU5HY29LSF9lNnc0N25sb0JR?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "Anterior 開源醫療 AI 一致性與可稽核框架，推動透明化臨床決策",
+      "summary": "醫療 AI 公司 Anterior 宣布推出開源框架，旨在解決臨床 AI 工具「黑箱決策」與各平台間輸出結果不一致的核心問題。此框架提供標準化的 AI 決策記錄格式、審計日誌（audit log）架構及一致性測試工具組，允許醫院、保險機構與監管機關對 AI 臨床建議進行事後稽核與重現驗證。Anterior 表示，此舉回應了美國 CMS 及多州法規對醫療 AI 透明度的強制要求，並期望透過開源策略加速業界採用共同標準。對於已導入或正評估臨床決策支援 AI 的醫療機構，此框架有助於建立合規的 AI 使用紀錄體系，並可降低法律責任風險。",
+      "tags": [
+        "醫療AI透明度",
+        "開源框架",
+        "臨床決策支援",
+        "AI稽核"
+      ],
+      "author": "未標示（PR Newswire｜2026-10-29）",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYVU5eE9URTR2YWl0UFlfZ1VfQ1NZb1NtQVdEcDJpdTU1Q0Y4ZTNFUEIyYUYzaFY0NWYzdEgzOHNMMDZmOVFub1daV2R6V3VIUWdOa0pJY0dncEJEdzh5MmJVb2E0MzBILTJjbDVSTVQwMVpqNjB5T2Q5T3AxekR3VnU3ZFZiX2FEOVhVS0dtMFVvNVVibE9BblhVRFZ3ODJzdEhzdUV1MUt3NXRQRVR2eC04UGsxcGFucGdWX3VkZUE4WFktanQwQi1fZHRqNW5rVS00dGtvZjZ0NjI4YUtlQg?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.0,
+      "title": "台灣 AI 醫療影片內容監管呼聲升溫：誰來把關網路醫療資訊？",
+      "summary": "聯合報（UDN）刊出評論指出，隨著 AI 生成醫療衛教影片在網路平台大量流傳，台灣社會對於此類內容的品質管控與監管責任歸屬問題日益迫切。文章指出，AI 生成影片可能包含錯誤醫療資訊、誇大療效或誤導性建議，卻因缺乏明確的主管機關管轄框架而難以有效下架。作者呼籲衛福部、NCC 與醫療公（協）會共同研擬 AI 醫療內容認證機制，並參考歐盟《數位服務法》對平台課以更明確的內容審查責任。此議題對醫院公共衛教部門、健康傳播策略及醫療資訊素養推廣均具有政策參考意義，亦涉及醫療機構品牌聲譽管理的潛在風險。",
+      "tags": [
+        "AI醫療資訊",
+        "內容監管",
+        "台灣政策",
+        "健康傳播"
+      ],
+      "author": "未標示（UDN｜2026-10-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PazhVZnhxSW5OM1pkaFp4RDdZNVZ1em9ycXM4aEZDcFZoZ0x4YWdRY0ItWFUyZkxyWXl3RDM0X054N0w3ZDUwYTM0VU0xSFBm0gFWQVVfeXFMTndHeEV6bk41T3dDWVF3RHgyM0owTVQ0V0xNd2sySHJwZXoxMjlzWTVmdTA4cFE2eUx4MXdTWTdvS3FQRm5RbXRoVmJJR2VITnRFcTFWeGc?oc=5"
+    }
+  ]
+}
