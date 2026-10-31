@@ -1,0 +1,117 @@
+{
+  "date": "2026年10月31日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "FDA 與 CMS 緊急協調：防止各州醫療 AI 試點與聯邦法規形成衝突",
+      "summary": "隨著美國越來越多州啟動醫療 AI 臨床試點計畫，FDA 與 CMS 正在幕後積極協調，力圖避免州政府監管框架與聯邦法規之間爆發衝突。根據 STAT News 報導，部分州已自行設立「監管沙盒」，允許醫療機構在受控條件下測試 AI 工具，但此舉與 FDA 現行對 AI 醫療器材的審查程序存在灰色地帶。CMS 則關注 AI 在 Medicare 與 Medicaid 給付流程中的合規性問題。官員表示，若聯邦與州層級監管脫節，可能造成法律責任模糊、患者安全風險上升，以及廠商進入市場的不確定性增加。此事件凸顯美國醫療 AI 治理體系亟需建立跨層級協調機制，對有意引進或採購境外 AI 工具的醫院而言，相關法規走向值得持續追蹤。",
+      "tags": [
+        "法規監管",
+        "FDA",
+        "醫療AI治理",
+        "政策"
+      ],
+      "author": "未標示（STAT News｜2026-10-30）",
+      "source_url": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "鴻海科技日發表跨專科 AI 代理「CoDoClaw 臨床智樞」，並首度跨入高階醫材製造",
+      "summary": "鴻海於 2026 年科技日正式展示「CoDoClaw 臨床智樞」，這是一套跨專科 AI 代理平台，可整合多科別臨床資料，協助醫師進行診斷輔助與決策支援。此次發表亦首度宣告鴻海將其亞微米精密加工製造能力延伸至高階醫材領域，涵蓋手術器械與診斷設備等。鴻海表示，CoDoClaw 採用多模態大型語言模型架構，能跨越放射科、病理科、內科等多個科別提供即時臨床建議。此舉標誌鴻海從消費電子與伺服器代工正式跨足智慧醫療垂直整合，形成從 AI 軟體到醫材硬體的完整供應鏈。對台灣醫院資訊部門而言，本土大型科技廠商切入臨床 AI 系統市場，未來在採購選型與本土化支援方面將帶來新的參考選項。",
+      "tags": [
+        "台灣醫療AI",
+        "AI代理",
+        "智慧醫院",
+        "醫材製造"
+      ],
+      "author": "未標示（Mashdigi｜2026-10-31）",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mY1pzVzhESV80REZObEp4N3FadDNQcVdBTFF4Y3NuYVY5X2g1TEt0UnhUMVpKWVVIZ3R6QUloM2F0ZmRrNGNDMlRwa0tKNVV1M1ljbnk0ZENQSG5FM1JzSEY4b2s1ZEt2TmxxdnpB"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "廣達成立「達穎智能」子公司，AI 醫療佈局從 B2B 跨向 B2C 市場",
+      "summary": "廣達電腦宣布成立智慧醫療新創子公司「達穎智能」，正式加速 AI 醫療落地商業化。根據多家台灣媒體報導，達穎智能的成立標誌廣達的醫療 AI 策略從過去單純提供企業端（B2B）解決方案，擴展至直接面向消費者（B2C）的健康管理服務市場。廣達董事長林百里亦表示，希望透過 APEC 平台推動 AI 醫療走出實驗室，造福亞太地區更多病患。廣達本次更與 MIT 聯合舉辦 2026 年科技論壇，聚焦 AI 驅動醫療創新。達穎智能預計涵蓋醫療影像分析、遠距健康監測等應用場景，並計劃在台灣及亞太市場快速擴張。此一動向顯示台灣電子大廠正加速將 AI 算力優勢轉化為醫療場景的實際應用，對醫療體系的採購生態與合作模式具有重要參考意義。",
+      "tags": [
+        "台灣醫療AI",
+        "智慧醫療",
+        "廣達",
+        "產業佈局"
+      ],
+      "author": "未標示（工商時報｜2026-10-31）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OWXlzYjJWT0JUTjN2ZmpRRjJibVFJV2lHTGdSYU9Hb3V6SzVPUUFPak1LZUo0UklpUXFralBIZkNMQXJWU1VfT1ppQ3djN2F1bFhoTlhZbkJfLWJJaHpV"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "FDA 生成式 AI 醫療器材監管新動向：對醫療提供者的實際影響解析",
+      "summary": "Modern Healthcare 報導深入分析 FDA 針對生成式 AI 醫療器材的監管框架演變，及其對醫院、診所等醫療提供者的具體影響。隨著生成式 AI 在臨床決策支援、報告自動生成、患者溝通等場域的應用日益廣泛，FDA 面臨如何將這類「持續學習」的動態模型納入既有器材審查體系的挑戰。報導指出，FDA 目前正研擬針對生成式 AI 的分級監管機制，區分高風險與低風險應用場景，並要求廠商建立模型變更管理計畫。對醫療機構而言，未來採購或部署生成式 AI 工具時，需評估供應商是否符合 FDA 新監管要求，並確認院內使用場景的法規合規性，以降低潛在的法律與患者安全風險。",
+      "tags": [
+        "FDA",
+        "生成式AI",
+        "法規監管",
+        "醫療器材"
+      ],
+      "author": "未標示（Modern Healthcare News｜2026-10-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkY2NkZYbkhYYmJQcTJYR1RXYXBxVk1kUFZJMHBnVjYyZ2RZYlRWUFlRdXJ4bWxmRGZFbEZwcWI5RWlyTERydnljTnlTTTYzalN4eUF4Tm9ZU2FPT2NSTGZPUzhkWXZFWnpzYzdrQWZWNjc1R0ZGN3lfZG5PdmtlX0hLMHVKMnhtVm1WT2RtNUk"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "SIIM-CAIMI 年會聚焦：技術只是推動放射科 AI 普及的驅動力之一",
+      "summary": "於 SIIM-CAIMI 年會中，多位放射科與醫療 AI 領域專家討論推動 AI 在放射科落地的關鍵因素。與會者強調，技術本身固然重要，但工作流程整合、臨床醫師接受度、組織文化變革以及清晰的投資回報論證，才是 AI 能否真正在醫院放射科規模化應用的核心挑戰。報告指出，許多醫院在導入放射 AI 工具後面臨「最後一哩路」問題：系統雖已上線，但臨床醫師實際使用率偏低。年會建議，醫療機構應在採購前期即納入臨床醫師共同設計，並建立明確的績效指標與定期審查機制，確保 AI 工具能真正融入日常診療流程而非流於形式，此觀點對正在規劃或已導入影像 AI 的醫院具有重要的實務參考價值。",
+      "tags": [
+        "放射科AI",
+        "臨床落地",
+        "工作流程整合",
+        "影像AI"
+      ],
+      "author": "未標示（AuntMinnie｜2026-10-31）",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNjR2S3B4RjNlZmpHR05fb3ZjNmpBbnpIM241b0xfVDFJWGRyMjlNTTdycXJ0elliLXJuLW53U1gtci1PTjFLeks5M2R4aTg3VHgwTGVYSjN1RmlsUW5iclkweE5HdDZaWEs3cS1kWHZrdzdfQ2ZPTFdaQkhLRjVaZS1KWW9aOUoyRXhzVU9jcTdCbzIzdWFfM2cxd0lKU1ktUXhJckR0UmtSeTdtUG50d0g2a25zMm9hR1JENTB1bnlacTdycTRNLXdMWHp4UQ"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "醫療 AI 的公平性缺口：障礙族群在設計、測試到治理全流程中被邊緣化",
+      "summary": "哈佛大學 Petrie-Flom Center 發表報告，深入探討醫療 AI 系統在身心障礙族群中的公平性缺口。報告指出，從資料蒐集、模型訓練、臨床測試到部署後的治理監督，障礙族群在每個環節中均嚴重代表性不足，導致相關 AI 工具在這一群體上的表現顯著劣化，甚至可能加劇既有的健康不平等。報告呼籲醫療機構與 AI 開發者採用「包容性共同設計」（inclusive co-design）方法，在產品開發初期即納入障礙者的實際需求與反饋，並建立針對弱勢族群的獨立測試基準與治理問責機制。此議題對醫院導入 AI 工具的採購評估與倫理審查流程具有直接的政策參考意義。",
+      "tags": [
+        "醫療AI公平性",
+        "弱勢族群",
+        "AI倫理",
+        "包容性設計"
+      ],
+      "author": "未標示（Petrie-Flom Center｜2026-10-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRnNFSk9nR244MEZXV1RuWmpWbnA0YnNsZlZ4OEFvMDlRdlUzMG9IZVFnald5RTZKaVV4Y05TbmV4a1R2c25ucUo1R3NiMno4VGxGZnZLX3JlYWQxZmcyc1U4VkVHZmhpUll0SWxiT3hYc29mUFptbGJLU1hLcHE4UlFQVW90VVllRU1oQXJIY0sydUhJTXNfVnpRSUpSTHlKYTFIYnN5dTRNOW0xRWRvdGpTdjFLYW9STmUyaGN0Tm54YnlGYXNWQnFpMkNwUFRTOGYwbmxpS0kxYjBNd0h2VTBkQQ"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "韓國醫療 AI 技術持續進步，但臨床實際採用率仍然偏低",
+      "summary": "《韓國時報》報導指出，儘管韓國在醫療 AI 研發方面持續取得技術突破，涵蓋影像辨識、藥物研發輔助及遠距診斷等多個領域，但 AI 工具在醫院臨床環境中的實際採用率仍明顯偏低。主要障礙包括：臨床醫師對 AI 輔助決策的信任度不足、現有醫院資訊系統整合難度高、健保給付制度尚未跟上 AI 工具的普及速度，以及缺乏明確的責任歸屬規範。報導引述多位韓國醫療機構負責人的觀察，認為技術成熟度與臨床落地之間存在顯著落差，亟需透過政策誘因、標準化採購評估框架及臨床醫師培訓計畫加以彌補。此現象與其他亞洲國家（包括台灣）面臨的挑戰高度相似，具有跨國比較參考價值。",
+      "tags": [
+        "醫療AI落地",
+        "亞洲醫療AI",
+        "臨床採用",
+        "韓國"
+      ],
+      "author": "未標示（The Korea Times｜2026-10-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ3pqYkRFQXI1MlY4eWhKbXVJQTFESG11bWxqWDdSZmtLYkszOTk0aEwwMk54YkNZbDRXN21YWHhJU3QyQUVvSC10RDVvbm1VbW9QemtDc2M0NWlKaGFLdXp0WUdPYmVySkRqX3FUZ3JqQVA4OXM1cE9scW1naVdjZkE4ZHdsUXN1WjdIZGVzOTMyTHB2UUgyVW5EUUxaOW5yS3drQ2I3RG5fYWtXc3dTTHNPUUx5eGhyWVRlcGxQWdIBvwFBVV95cUxNZ3pqYkRFQXI1MlY4eWhKbXVJQTFESG11bWxqWDdSZmtLYkszOTk0aEwwMk54YkNZbDRXN21YWHhJU3QyQUVvSC10RDVvbm1VbW9QemtDc2M0NWlKaGFLdXp0WUdPYmVySkRqX3FUZ3JqQVA4OXM1cE9scW1naVdjZkE4ZHdsUXN1WjdIZGVzOTMyTHB2UUgyVW5EUUxaOW5yS3drQ2I3RG5fYWtXc3dTTHNPUUx5eGhyWVRlcGxQWQ"
+    },
+    {
+      "rank": 8,
+      "score": 6.0,
+      "title": "「唯有開放評估，才能信任醫療 AI」：Fast Company 深度分析透明度困境",
+      "summary": "Fast Company 發表深度評論，主張當前醫療 AI 信任危機的根本解方在於推行「開放評估」（open evaluation）機制。文章指出，目前多數醫療 AI 工具的驗證研究由廠商自行主導，缺乏獨立第三方的公開再驗證，導致臨床醫師與醫院管理者難以客觀評估工具的真實效能與安全性。作者呼籲建立類似藥物臨床試驗的公開評估標準，要求 AI 開發者公開訓練資料集特徵、模型效能指標及失敗案例分析，並由學術機構或政府監管單位主導獨立測試。報導認為，若醫療 AI 生態系無法建立透明的評估文化，將持續阻礙醫院決策者做出有據可循的採購判斷，最終損害患者安全與整體醫療品質。",
+      "tags": [
+        "醫療AI透明度",
+        "AI評估",
+        "AI信任",
+        "開放科學"
+      ],
+      "author": "未標示（Fast Company｜2026-10-30）",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVRfUW82aUFBQjB0M0EtR0JxYnNMaFRhSlk5ekRlSFFNeTlxX0FPR3JKRWl5RHFRVHFUdThGampRc3RMOUNEalJUanNXQkFpbUpCM0IyM2h3WktsdTU5bUlWdnZXbGpHdGpOZkFicnZmTzdjVW1LZnpfbTdFTjNlcTFqZl9YU3g1bEkzNXdRY1dIQQ"
+    }
+  ]
+}
