@@ -1,0 +1,89 @@
+{
+  "date": "2026年11月01日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "FDA 發布 AI 政策提案：本週監管動態一次掌握",
+      "summary": "美國 FDA 本週發布多項重要監管動態，其中最受醫療科技界關注者為 AI 政策提案。根據 RAPS 報導，FDA 針對藥品查驗與 AI 應用提出新版概念文件（ConOps），為醫療 AI 產品從開發、審查到上市後監控建立更清晰的監管路徑。隨著生成式 AI 與臨床決策支援工具在醫院端加速部署，FDA 的政策走向直接影響廠商合規策略與醫院採購風險評估。此次提案若落實，將對申請 AI 醫療器材許可的廠商在資料透明度、演算法變更通報等方面提出更高要求，醫院資訊及法規遵循團隊應密切追蹤後續正式規則的發布時程與內容細節。",
+      "tags": [
+        "FDA監管",
+        "AI政策",
+        "醫療器材",
+        "法規遵循"
+      ],
+      "author": "未標示（RAPS｜2026-10-31）",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQTdVZnRTZ0RSS25VSVdhVW5iZTNxVTlWZEdGb1gzeXlFV3czYmNXQkhia0pRUEZWOEFkV2d3VlZ6SDJWclJPaGRNUk43WmExU2ZGYmVmY3FaTkpyU3VfaUViSHVCdkRDbzY3SzZ5Wk15TWxiU0ZLbWhoZlNnSER4d3JKeklZcHhaU290aWlxTUdXNWFvM3ZnVmxJek5jZzlITGpPZDYzN1pRNFpRVFI5Wg?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "七國專家齊聚高醫研討會，深探醫療 AI 生態系挑戰與機會",
+      "summary": "高雄醫學大學舉辦國際研討會，邀集來自七個國家的醫療 AI 專家共同探討 AI 醫療生態系的現況挑戰與未來機會。與會者涵蓋臨床、資訊、法規與產業各界，議題聚焦於 AI 工具的臨床驗證標準、跨國資料治理、多語言模型在亞洲醫療場域的適用性，以及如何在資源有限的醫療環境中實現可持續的 AI 導入。此次研討會不僅展示台灣醫療 AI 在國際舞台上的能見度，也為國內醫院與學研機構提供與國際同步的政策與技術交流平台，對於正在規劃跨院或跨國 AI 合作的機構具有重要參考價值。",
+      "tags": [
+        "國際研討會",
+        "醫療AI生態系",
+        "台灣醫療",
+        "跨國合作"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-11-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQdWVxSVNpYXBleFdLMUV0LW12aV93dHd6ei1PMFR1ZmRjRmpESjJXaDM2QVBRTXJwQ25zVzRBNlB5RWNBbE1LVnR1XzlkS2txdld3WmVqc3FWYnQ3dEwyd0tJMUhTMXdqRjNKVDVzUDFIdmNEZkRjYkxnanBXVDZKZTlFNERrYXFmNGxYYWR4ajVjLUlQU3VxUDZ6alZmVUxaN0pjRFlQTFE5SDk2QU5TWkc5Y0RLSTh5TFFGQVpmdHpteUNOYmZRTjlJWWxTOVgydEJUOWViOEtjSXJISHhUR2I0aGVFS0xDOEhTZUtNSzc4b0k3VW5LakhxcThOeHY4aTB4THVsOVBCS2F5WEdjMUY3X3Y0TUxZUmd1VkNuNVhCcnhSMVB4RnlEbVFRLXpfVDlsSlM2UHBGUjRnd2J2SVZuaGFHdndnd1RXODVGMml6UkY0?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "Google 推出醫療人員專屬 AI 課程：涵蓋病患溝通與行政整理技能",
+      "summary": "Google 正式推出針對醫療人員設計的 AI 應用課程，聚焦於兩大核心情境：一是輔助醫療人員與病患的溝通表達，二是協助行政文件整理與資訊彙整。課程目標在於降低醫療現場的 AI 應用門檻，讓臨床第一線人員能快速掌握生成式 AI 工具的實用技巧，而非停留在技術理論層次。此舉反映大型科技公司正積極以教育培訓切入醫療場域，搭配其既有雲端與 AI 產品生態系推動整合。對醫院人力資源與教育訓練部門而言，此類外部課程資源可作為內部 AI 識能培訓的補充素材，有助於縮短醫護人員接觸 AI 工具的學習曲線。",
+      "tags": [
+        "Google",
+        "AI教育培訓",
+        "醫療人員",
+        "臨床AI應用"
+      ],
+      "author": "未標示（蕃新聞｜2026-11-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51dzAwNzZ1MFZ2U0RJT0hFcVlhUEM0Q1hYLUx6Qk9MWEFHS0E1VFdFMUtBZmM4NkUtR3FoN2lOekJ2eTBkSVJEdVFNYWVfUDBBdFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "AI 如何削減醫院成本、提升營運效率：實務分析",
+      "summary": "《經濟時報》深度分析 AI 技術在醫院財務與營運管理層面的應用潛力，探討 AI 如何協助醫院在人力成本攀升、床位管理、排班優化及物資採購等多個環節實現效率提升。文章指出，AI 驅動的預測分析可協助醫院更精準預估門診量與住院需求，進而優化資源配置；在行政流程自動化方面，AI 可顯著縮短掛號、帳單處理與保險核驗等繁瑣作業時間。然而分析也提醒，AI 的投資回報往往需要跨部門協作與資料基礎設施的配套建設，單點導入難以產生全院性效益，醫院領導層在評估 AI 採購時應從整體流程改造角度出發進行規劃。",
+      "tags": [
+        "醫院營運",
+        "AI成本效益",
+        "流程自動化",
+        "資源管理"
+      ],
+      "author": "未標示（The Economic Times｜2026-10-31）",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT2RrTEEyQmJyaGVfNFJfN09scml3aFlOMWVoZGNsM25jR3FPTXFSNVRNZklWVTVDdF9RMDBFWmVfNXJqbDhuR1FFd0tZTHpGUk1XU0dzMHE4Z0lLbnFuODRXT09kdkhaaURSNG1McmhMckJDQkFja3FkLVh6cEtuUk9KSWV0aVR5UzUyQ3h5c3FYMjR3SlZreEw4UW1nOFR0N3BpTGhGWFFaV0l1ekVZbzNaMFZVSm41TmF5WTZaRksyZVBjT0FuellTUHJRcm0xMlp1djVDaXhTaGt4YmRFOHFreHlkcnEtc1hGaVNR0gHzAUFVX3lxTFBBWjFpTGFLX241QTZRYS1SNkJFSnc3VVhoS3dtVEUza0g2TzU5ZkZQM1dyeDdscGtaRk1uMGppSkc5N09DdWd4X2FkeWpNcHVBS2RfUVozSHZqMVlrOWtsREwza3FtRExfN3RaZ0VPNXEtNlVsRzRZLVNmeTRMeGZneU9KUVA0NmF2NHYwNzR2RHNnTXRJNFJrYWJoU29yV2NFbS1weVJtQlNqRWJXY3NwemtmSTg4Rk5jejdMc1dVZGowRUNIaFd2LVpMNG9HVnlLODA3aGwzUTg0QzFKS3pWTHo5cnVFZDZOVllrRHpxU2d0SQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "DxCheck 推出 DxPro 臨床智能平台，以 AI 強化醫療決策支援",
+      "summary": "醫療 AI 新創 DxCheck 正式發布 DxPro 臨床智能平台，定位為「AI 驅動的臨床情報系統」，目標在於整合多源臨床數據、輔助醫師在診斷與治療決策過程中取得即時情境化建議。DxPro 強調其可嵌入現有醫院電子病歷流程，無需大規模系統改造即可啟用。平台功能涵蓋差異診斷提示、用藥安全警示與臨床指引查詢等模組，有助於降低診斷遺漏風險並提升醫療品質。此類以臨床工作流程為核心設計的 AI 平台正成為市場新趨勢，醫院評估導入時需重點審視其與既有 EHR 系統的互通性、資料安全認證及臨床驗證證據的完整程度。",
+      "tags": [
+        "臨床決策支援",
+        "AI平台",
+        "診斷輔助",
+        "醫療新創"
+      ],
+      "author": "未標示（Trend Hunter｜2026-10-31）",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeWNnYWl4SUZFNFhsaE1BRFN1ME00dDZTYTlxdjRCVkNzNUFCaDlQRGtHeF9IVDFKRFo2TlpjLUZ3RFY3SnNPU05aRGUwcG80eWhUVkkyZzdTcUxZWk5ZU2VNQTR6a2hMeTVXN3dLYi1xYVBzaFRYemJpdWJqa0E1RkpTZw?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "陽明交大青埔醫院：從智慧醫療邁向 AI 原生醫院的期待與挑戰",
+      "summary": "一篇投書聚焦正在籌建中的陽明交大青埔醫院，呼籲院方不應僅停留於「智慧醫療」的框架，而應以「AI 原生」（AI-native）為核心設計理念，從建築規劃、資訊系統架構到臨床流程，全面以 AI 優先思維重新設計。文章指出，台灣現有醫院多屬後天導入 AI 工具，礙於舊有系統束縛難以深度整合；新設醫院若能從零開始以 AI 為基礎建構，將有機會成為亞洲標竿。文章亦提及 AI 原生醫院需具備開放式資料架構、跨科室資料互通機制及持續學習能力，並強調醫院治理文化的配套轉型同等重要。",
+      "tags": [
+        "AI原生醫院",
+        "智慧醫院",
+        "台灣醫療",
+        "數位轉型"
+      ],
+      "author": "未標示（桃園電子報｜2026-10-31）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pS1NrNGRHZjd5UjRTOGQySnVZR3dmaEtaNmZOU3BCRi1vNENPZDFvV2F5dFo3cnphdFE3cDlUQzlVUVhFNkVfX3kxRHI?oc=5"
+    }
+  ]
+}
