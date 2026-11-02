@@ -1,0 +1,103 @@
+{
+  "date": "2026年11月02日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "AI 診斷放射科影像：系統性回顧比較 AI 與人工判讀之準確度與效率",
+      "summary": "一篇發表於 Cureus 的系統性文獻回顧，全面比較人工智慧與放射科醫師在影像診斷上的準確度及作業效率。研究匯整多項臨床試驗與觀察性研究，評估 AI 在胸部 X 光、CT、MRI 等多種影像模態中的表現。結果顯示，AI 在特定疾病篩檢任務（如肺結節、骨折偵測）上可達到與專科醫師相當甚至更高的敏感度，同時大幅縮短報告出具時間。然而，研究亦指出 AI 在複雜病例、罕見疾病及跨院所資料集的泛化能力仍有侷限，強調人機協作模式為現階段最佳實踐方向。此回顧為醫院評估放射科 AI 導入提供了重要的實證基礎，並點出現行研究方法學的不均一性問題，呼籲業界建立統一評估標準以利未來比較分析。",
+      "tags": [
+        "放射科AI",
+        "影像診斷",
+        "系統性回顧",
+        "人機協作"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-11-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPXzRWdm1ncnFCckFlWUh2dUllbTFaeXJEYzUxcEl1VkJWSXo3Rk1kZ1daQU9xUWp5Y2dySzdqSDh2bGJEVzJfdTd4N0pzcFF3dHAySzJYTTh4MUtDNnRDRnhFaXZnMVFtYUxOenJUQzN3ejlMU19sTExQQk8wT2xsMUM2SzVCcHVCWG1ZZXM0MGJ5d3F3bFZGZmV5WTBQbWM3RUFzWHQ1UzNDcUtQRTZ6c1phbmNHRTA0WDV0cS0tMVVTb19SUXpLTmpCZWpzc0NLcW9qRnhoSldoYmV0YTZGYll0bUFUb2puX0VuQ2pobFowNzE5a0VSWktKTGhVVjhKSk02aG16UjlhTGw0c1kyM3dR"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "Microsoft AI 診斷模擬測試勝過醫師：準確率近乎 100%",
+      "summary": "Microsoft 發表最新醫療 AI 模型，在模擬診斷測試中展現出超越醫師的表現，準確率據稱接近 100%。該模型能分析複雜的多維度醫療問題，整合病史、影像、檢驗數據等多元資訊進行綜合研判，在多個專科領域的模擬案例中均優於臨床醫師對照組。Fox News 等國際媒體廣泛報導此一突破，引發醫界對 AI 輔助診斷可行性的高度關注。台灣媒體亦同步跟進，說明該模型在處理罕見疾病與複合症狀方面具備強大潛力。惟研究者提醒，模擬測試環境與真實臨床情境存在差距，此模型距離全面臨床部署仍需通過嚴格的真實世界驗證，但此結果已為醫療 AI 臨床應用提供重要里程碑參考。",
+      "tags": [
+        "Microsoft",
+        "診斷AI",
+        "臨床決策支援",
+        "模型評估"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-11-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWp2OF9UQnVEVEZvcm01N09RZXkxVzFsZ3NoZVdFRElaeHo4azE2dlF0LUtCejU1UnB0eE1VS1hVSHRsT1dDdktWSWNWdndKSU0xeUt0NGZuNy1nMUZRckk5UzREYmtJRUY1N09xUEk0aWJ3SXU3MFpLOXlSeGdDV284ZlNEYUnSAYwBQVVfeXFMTklsUk5LcXJHMGNLenQ0aDR2X0tJMXg5MG10UThHcGpXV1NuS2dNWDBBbWI1eEpRbGpRYjN6OTV0ZzBEN0VPY1M0LVhQTDZJY2F2MkVRUWVrSEpZaUY4OVo3VHFGQTJjMS1SZWVGVGNiLV9LeWRjazRXNFlTcXA4eHB3amUtR2ltR0VnMmo"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "TIME 評選以色列醫療 AI 公司 Aidoc 的 CARE 模型為 2026 年最佳發明",
+      "summary": "TIME 雜誌將以色列醫療 AI 公司 Aidoc 開發的 CARE（Clinical AI for Real-time Emergencies）模型列入 2026 年全球最佳發明名單。CARE 模型專為急診與重症場景設計，能即時分析醫療影像並自動觸發臨床警示流程，協助醫療團隊在黃金治療時間內完成分流決策。該模型已在多家美國大型醫療中心實際部署，並展示出縮短診斷延遲、降低漏診率的臨床成效。Aidoc 的獲獎彰顯醫療 AI 從單純影像辨識演進為完整臨床工作流程整合的趨勢，亦代表業界對「Care AI」新世代的高度肯定。此次入選具有指標意義，有助於推動全球醫院在急救場域採納 AI 輔助系統，並為後續監管與採購決策提供參考依據。",
+      "tags": [
+        "Aidoc",
+        "急診AI",
+        "臨床警示",
+        "最佳發明"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-11-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1adUlmZFowSEh6eVJrRlNWY2UydWx6RjBnUWhZeElIOE1ZNC12UFJaT2ZpV0xjVWN6MGtkUTdwTHdsRkI2d0ZqVEo5dEZPcTNRY1dpc1pXUWFKYU96eGdKRHpxUXZMQk4tbzNiWA"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "醫療 AI 跨越疾病偵測：Care AI 時代正式開啟",
+      "summary": "韓國媒體아시아경제報導，全球醫療 AI 發展正進入新階段，從早期聚焦疾病偵測與診斷，擴展至涵蓋整體病患照護的「Care AI」模式。此一轉型意味著 AI 系統不再只是輔助診斷工具，而是深入參與患者監測、治療計畫制定、術後追蹤及慢性病管理等全周期照護流程。報導指出，多家國際大廠與新創公司正積極布局此領域，結合穿戴裝置、電子病歷與大型語言模型，打造以病患為中心的智慧照護生態系。此趨勢對醫院資訊系統架構、臨床人員角色分工及醫療法規框架均將帶來深遠影響，預計未來三至五年內在亞洲主要醫療市場加速落地，促使各大醫院重新評估數位轉型策略與 AI 投資優先順序。",
+      "tags": [
+        "Care AI",
+        "智慧照護",
+        "數位轉型",
+        "病患管理"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-11-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LWmFza25tOFpUU0taRERIRnlNYWFqazBramFiQnFDWU1WSURLV01ndUN0ZXItcGtnZUloNUYzeE1NTWJIRUw1NDJFdnhRMnktLUJhNWpEVldqM3oxc25zMElvVm90QW00MENXZk14R1ZaWXM"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "泰國推動 AI 驅動癌症診斷：國家級計畫提升早期偵測能力",
+      "summary": "泰國公共廣播 Thai PBS World 報導，泰國政府正積極推動以 AI 技術強化全國癌症診斷能力的國家計畫。此計畫重點包括在地區醫院導入 AI 輔助影像判讀系統，針對乳癌、子宮頸癌及肺癌等高盛行率癌症進行早期篩檢。計畫旨在彌補偏遠地區放射科及病理科專科醫師不足的問題，透過 AI 技術延伸醫療服務觸角。泰國衛生部與多所大學及科技企業合作，逐步建立本土 AI 訓練資料集，以確保模型對泰國族群的適用性。此舉被視為東南亞國家善用 AI 縮減醫療資源落差的重要案例，對同樣面臨城鄉醫療不均問題的亞洲各國具有參考價值，也顯示政府主導的 AI 醫療推廣模式正在區域內快速擴散。",
+      "tags": [
+        "癌症診斷",
+        "AI篩檢",
+        "東南亞",
+        "醫療資源"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-11-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LQWkwOE1rcXhObzYwT1RYQm9VUWludC02Wkw5b2p2aHdxMGZWbFRodU9DUGVQRDZYUTJnd19QVU1vTU9UYU9TYzRKRWsySVJjWUczUA"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "高醫 AI 醫療國際研討會：聚焦臨床應用與安全標準",
+      "summary": "高雄醫學大學附設醫院舉辦 AI 醫療國際研討會，聚焦臨床實際應用與醫療安全兩大核心議題。本次研討會匯集來自多個國家的醫療 AI 專家，深入探討如何在確保病患安全的前提下，將 AI 工具有效整合進臨床診療流程。議程涵蓋 AI 輔助影像判讀、電子病歷智慧分析、臨床決策支援系統及 AI 倫理治理等主題。與會專家一致強調，AI 在醫療場域應扮演輔助而非替代的角色，並呼籲建立完善的 AI 工具臨床驗證機制與上市後監控制度。研討會亦就台灣醫療 AI 推動現況進行盤點，包括法規環境、健保給付配套及人才培育等面向，為本土醫療 AI 生態系的進一步發展提供政策討論基礎。",
+      "tags": [
+        "高雄醫學大學",
+        "醫療AI研討會",
+        "臨床安全",
+        "AI治理"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-11-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPdkxCN0FmeXZBNzBzY3dlWUlhZ2NXbWNQd3c4Q3BCNW04elZjalAyMUZqWGhsczh4MlBuR0ZILXhNZmdwa2xqcl9LdFZ5cTdvdWtfVHZKQW9RLWJDSURlNG15dnZKMXNGWExNdHdZdWxGNVlyeWVydUliYTRHZEtBZW9ueFduOUk3LWhGN0hRS1doV3Z0TS1yNG51NThsU000Mlp3WW5LTWZ0WDJJQlNCWkJVLVJfZFFpV3oyZ2dLWDMxbTVubjdURTRIQXNRdkdOZm1JSGpzanlJNkgxNzBqekcwT3M4WHFYWFBTUm10NFVySWJJZkpCSnRXa0Vvb3ZhSzJrVXFqODBmX1o3ZzlYZmw1VG1JMUE"
+    },
+    {
+      "rank": 7,
+      "score": 5.5,
+      "title": "AI 協助縮短手術等待時間：加拿大醫院應對積壓問題的新方案",
+      "summary": "加拿大 CTV News 報導，多家醫院正測試以 AI 系統協助排程優化，以應對長期手術等待積壓問題。這套 AI 解決方案能分析手術室使用率、病患優先順序、人員排班及設備狀況等多項變數，自動生成最佳化排程建議，目標是在不增加資源投入的情況下提升手術量能。初步試點結果顯示，部分醫院的手術等待時間平均縮短約 15 至 20%，尤其對骨科及眼科等非急診手術效果明顯。專家指出，此類 AI 應用的核心價值在於解決現有排程流程的資訊碎片化問題，但成功導入需要配合電子病歷系統整合及跨部門工作流程再造。此案例對面臨類似手術積壓挑戰的醫療體系具有直接參考價值。",
+      "tags": [
+        "手術排程",
+        "AI運營優化",
+        "醫院效率",
+        "等待時間"
+      ],
+      "author": "未標示（GNews-AI clinical｜2026-11-01）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZzZrNmFWblcyMUJveGliZDVyU1pHLWxEeW1OMWV6ZG9iZC0wYWdycDRqMzhrNUx5Y2JLQ3VtZzdGS2J1NnptVTB2SHM4ZzlOSjFBU1J1NTVISmVkZDl2dHNIR1NoY3FqOVFQY2tkZVA2WEFyYW1nSjRCd2lsNzNyMEZ2aS1GTDdDOE4ybGZ6ZWVPTXRmZ0RWLVU2MmtQYTZVcGZucWZJdjY"
+    }
+  ]
+}
