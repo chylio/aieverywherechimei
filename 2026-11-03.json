@@ -1,0 +1,117 @@
+{
+  "date": "2026年11月03日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Medicare AI事前授權實驗的七大潛在問題：訴訟文件揭露隱憂",
+      "summary": "美國聯邦政府正在測試是否能以人工智慧協助 Medicare 識別不必要的醫療行為、加速事前授權流程並降低醫療支出。然而，一份根據訴訟文件所取得之證據撰寫的新報告，揭示了這項 AI 實驗存在七大潛在問題，涵蓋演算法偏誤、對弱勢族群的不公平影響、拒絕授權決策的透明度不足，以及缺乏充分的臨床驗證等議題。事前授權機制長期被視為醫療延誤的主要原因之一，AI 的引入雖被視為提升效率的解方，但若系統設計存在缺陷，可能對患者就醫權益造成系統性損害。此報告對正在評估或推動 AI 輔助行政流程的醫院領導層與主管機關具有重要參考價值，提醒決策者在追求效率的同時，須同步建立完善的監理與申訴機制。",
+      "tags": [
+        "AI事前授權",
+        "Medicare",
+        "政策監管",
+        "醫療公平性"
+      ],
+      "author": "未標示（MedCity News｜2026-11-03）",
+      "source_url": "https://medcitynews.com/2026/11/7-potential-problems-with-medicares-ai-prior-authorization-experiment/"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI與數位病理在早期乳癌診斷的突破：SABCS年會重點預覽",
+      "summary": "根據 MedPage Today 的報導，即將召開的 SABCS（聖安東尼奧乳癌研討會）將聚焦 AI 及數位病理技術在早期乳癌診斷中的最新進展，被列為本屆年會的重點議題之一。AI 輔助病理判讀技術近年快速演進，能在大量組織切片中精準辨識腫瘤細胞形態與分子特徵，有助於縮短診斷時間並減少人為判讀誤差。數位病理結合 AI 分析不僅可提升早期乳癌的偵測率，更有潛力協助預測患者對特定療法的反應，進而支持精準治療決策。此趨勢對乳房外科、腫瘤科與病理科具有直接的臨床意義，也顯示 AI 在腫瘤診療整合中的應用已從研究走向實際臨床導入的關鍵節點。",
+      "tags": [
+        "數位病理",
+        "乳癌診斷",
+        "AI臨床應用",
+        "腫瘤科"
+      ],
+      "author": "未標示（MedPage Today｜2026-11-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rM0VEekM0N0hUNmVyQ0FVRlRNY1ViSGFSalpxMnF6b3NzRFRWck51RkxoYy11ekZneFBoWWlheHhKNVZBem0ySGlmYS1aS19EUVBqOEZMOU5STnNnSmQtREFBeHVPVjRmd1ZxVVBUMTV5QlpMMEc4?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "AI平台在兩項兒科影像流程中持續展現高效表現",
+      "summary": "AuntMinnie 報導，一套 AI 影像分析平台在兩條兒科影像處理流程中持續維持高成功率，顯示 AI 技術在小兒放射科的實際落地應用已進入穩定運作階段。兒科影像判讀因患者體型差異大、配合度低且解剖結構特殊，向來是影像 AI 發展的難點之一。此平台能有效應對上述挑戰，並在不同影像類型的流程中保持一致的準確性與效率，對於有兒科業務的醫學中心而言具有直接參考價值。此案例亦顯示，醫療影像 AI 已不再局限於成人或單一病種，跨科別、跨年齡層的整合應用正逐步成為現實，有助於放射科在人力資源有限的情況下維持服務量能。",
+      "tags": [
+        "兒科影像",
+        "放射科AI",
+        "醫療影像",
+        "臨床落地"
+      ],
+      "author": "未標示（AuntMinnie｜2026-11-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObWFvUkwxcmtfZG5lcDdkRkpjaHZDV3IxTVlnUDExNlBLdjZxZEFMUWg0RXhfdGN5bHBqb0dYMV9oT0pZM0dqbV9FdWlfTjZWa3d1djV0eXJjQTJqUnBTbU1XbU9CMVBvWjhpUzJlU3Z4eWF6V3psNmNZNS05Ny1jSlljY3NCVHQxcDdSZnRwRmJCN0V6b0VNd0JlZ2pmNDkwWGcwaHhKc25XbG1RN1NNZ0tZX2dCc0FUV0UwRlhaRURKb0NTaWN5NlhIV1hxT2duTDU4LVhDQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "醫療 AI 領袖示警：將醫療 AI 視為全新事物是「真正的危險」",
+      "summary": "Newsweek 報導，一位 AI 領域高層主管警告，若醫療界持續將 AI 工具視為全新且未知的技術加以過度謹慎對待，反而可能阻礙其帶來真正醫療價值的潛力。該主管指出，許多 AI 技術在臨床上的應用邏輯與既有的電腦輔助診斷（CAD）或決策支援系統並無根本差異，過度強調其「全新性」可能導致不必要的監管摩擦與採用延遲，最終損害患者獲益。這一觀點在醫療 AI 監管辯論中具有重要意涵：如何在確保安全的前提下，避免過度監管成為創新障礙，已成為各國衛生主管機關與醫院領導層須共同面對的核心課題。此報導對正在制定醫療 AI 導入策略的機構具有思考啟發。",
+      "tags": [
+        "醫療AI監管",
+        "產業觀點",
+        "AI採用障礙",
+        "政策辯論"
+      ],
+      "author": "未標示（Newsweek｜2026-11-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON1RRaHh2UFVwQmJ3MGVfandXS0JIM0NCNVRaTlF1TUotNmRiaW1wV0tibFBNbzVEMTV1ZGYyQ1dTR21NRl92bWY0LWNEUldnTmNfbTIzS2NkQ1psdlVPU2ZkdEp2WmxiVi1UQVlEUVhxRXlUck5wNUVVQ3RqSVFsREJOWTlMN1VCQUtGUVdFRQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "醫療 AI 公平性的關鍵在於：部署後誰真正受益",
+      "summary": "Innovation News Network 發表分析指出，醫療 AI 的公平性討論不應僅止於訓練資料的代表性，更應深入檢視 AI 工具實際部署後，哪些族群真正獲得改善的醫療結果。文章強調，許多 AI 系統在開發階段雖努力納入多元資料，但在實際臨床環境中，因基礎設施差距、語言障礙、醫病信任缺失等因素，弱勢族群往往仍無法從中獲益。真正的公平性評估必須延伸至部署後的持續監測，包括追蹤不同族群的診斷準確率、治療建議接受率及健康結果差異。此觀點為醫院在導入 AI 工具時的效益評估框架提供了重要的補充視角，呼應近年醫療 AI 倫理討論中對「落地公平性」的關注。",
+      "tags": [
+        "醫療AI公平性",
+        "健康不平等",
+        "AI倫理",
+        "部署後監測"
+      ],
+      "author": "未標示（Innovation News Network｜2026-11-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNempzckpDWVRoRnB5ODlhVGVQQ2RBRU51R18tYnh0dE5ZeEMxOE5lRHRXTFBockthMHA1cWlFNlczNkRXeXNKNzAzNWdtN2VXNDhib2NYNGtuWTl2ZlNrN1JuUGZmRklPWW5vZE5hQXpORk9KSlV6MVEwWVh1UExlZmYtT3M0TmE3UmJ1UFFDcW12R0d5c0tRUWc3X2paS2JveEVjMmhDQQ?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "鴻海將醫療 AI 擴展至臨床軟體以外：醫院合作夥伴關係與醫療機器人佈局",
+      "summary": "Digitimes 報導，鴻海（Foxconn）正積極將醫療 AI 應用範疇從臨床決策軟體延伸至醫院整體合作夥伴關係及醫療機器人領域。鴻海透過與醫療機構建立深度合作，提供涵蓋智慧化硬體、機器人輔助手術設備及數位基礎設施的整合解決方案，顯示台灣科技大廠在醫療 AI 生態系的佈局已從單一產品走向系統性整合。此舉不僅強化鴻海在醫療科技市場的競爭地位，也反映出醫院端對「AI 原生」基礎建設的需求正在上升。對於正在評估智慧醫院轉型路徑的醫療機構而言，了解台灣科技巨頭的醫療 AI 戰略布局，有助於掌握未來合作夥伴生態的可能走向。",
+      "tags": [
+        "鴻海醫療AI",
+        "醫療機器人",
+        "智慧醫院",
+        "台灣科技"
+      ],
+      "author": "未標示（Digitimes｜2026-11-02）",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUVNRNnFVSUZTNmJrbDk1cGtqcWVmQnlnclY3NlRDWmtsVEJVMVhDYzYwTUJuNEUzTXVlX1B1aG16UGp3ZU4wZUF4YVprR0dMczNaNUNrdkdQYy1qbUVNbkwtWGU3N3Uwd1hVNUlMbU5uNF8tM2ZlTHdPQUVrMnZIdG15SlY2OVMzUTZoOWcwMzlGdG9Hc3pnRVZVZw?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "Tempus AI 以醫療數據構築 AI 護城河：700 名工程師與 GPU 訂閱綁定藥廠客戶",
+      "summary": "台灣財經媒體優分析報導，美國醫療 AI 公司 Tempus AI 透過大規模積累臨床與基因組數據，結合龐大的工程團隊與 GPU 運算訂閱服務，逐步形成對藥廠客戶的高黏著度商業護城河。Tempus 的商業模式以數據平台為核心，向製藥公司提供患者數據分析、臨床試驗配對及藥物研發支援，並以訂閱制鎖定長期合作。其 700 名工程師的規模顯示公司在技術能力上的持續投入，而 GPU 資源的規模化部署則強化了其在生成式 AI 應用上的競爭優勢。此商業模式揭示了醫療 AI 產業中「數據飛輪」效應的實際運作邏輯，對理解醫療 AI 生態系競爭格局具有參考意義。",
+      "tags": [
+        "Tempus AI",
+        "醫療數據平台",
+        "藥廠合作",
+        "商業模式"
+      ],
+      "author": "未標示（優分析UAnalyze｜2026-11-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02OGFNTWk3ZnlpeUlzWjhCd1VYVmtOUE5MSGlaaURHMzVNNkE5NDR6ei1UZVlQMXhMSVl6ZUlJSWQ4cks5YksySzJCc3d3c0V6b3Rrc3NB?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 5.5,
+      "title": "心理健康照護從未為所有人設計——AI 也無法解決根本問題",
+      "summary": "MedCity News 刊出評論指出，心理健康照護體系長期存在系統性排除邊緣族群的問題，而當前業界在尚未充分評估 AI 是否準備就緒的情況下，便已競相將 AI 整合進心理健康服務。文章警告，若開發者未能正視現有體系中對特定族群的結構性偏見，AI 工具將可能將這些偏見以更高效率複製並固化。心理健康 AI 面臨的獨特挑戰包括：情緒評估的文化差異性、語言理解的細微性，以及過去被邊緣化族群對數位健康工具的信任缺失。此評論呼籲產業在部署心理健康 AI 前，必須進行嚴格的族群代表性測試與倫理審查，為醫療機構在選擇相關工具時提供重要的批判性視角。",
+      "tags": [
+        "心理健康AI",
+        "AI倫理",
+        "健康不平等",
+        "邊緣族群"
+      ],
+      "author": "未標示（MedCity News｜2026-11-02）",
+      "source_url": "https://medcitynews.com/2026/11/mental-health-care-was-never-built-for-everyone-ai-wont-fix-that/"
+    }
+  ]
+}
