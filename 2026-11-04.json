@@ -1,0 +1,131 @@
+{
+  "date": "2026年11月04日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "Mayo Clinic Platform 推出跨 35 個以上次專科的 EHR 整合臨床決策支援引擎",
+      "summary": "Mayo Clinic Platform 正式發布一套整合於電子病歷（EHR）的 AI 臨床決策支援引擎，涵蓋超過 35 個次專科，能在臨床工作流程中即時提供診斷建議與治療參考。該系統透過大規模真實世界數據訓練，並直接嵌入醫師日常使用的 EHR 介面，無需額外切換系統，大幅降低使用門檻。此舉代表頂尖醫療中心將 AI 臨床決策支援從單一科別擴展至跨院多科整合的重要里程碑，對醫院領導層及資訊團隊在評估類似解決方案時具有高度參考價值。Mayo Clinic 的規模化部署經驗，亦為 AI 工具如何跨越不同臨床專科需求、維持精準度與可信度提供了重要示範，預料將帶動更多大型醫療機構加速跟進 EHR 原生 AI 整合策略。",
+      "tags": [
+        "臨床決策支援",
+        "EHR整合",
+        "AI落地",
+        "次專科"
+      ],
+      "author": "未標示（HIT Consultant｜2026-11-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR29ZOTV4c0FHeG5vcDlNV1VNdjY1clFXUGFKSTVtXzlmbmxCVkRjeGw0Y2tLSlhTXzVsZHVjVmFzdC1hejBlZG51Y3ZQQXVicER1UTcwcWhGdjJZSzRtLUROaHh4NU5mazU0dXZnbTJNX2VxcGQ3YnpxR1Bka2x5bENKNDV4djdLdmZNQmtWclpCSXJlM3hKUy1BU3U2XzN1TGVkTTZIN0hJS2MtVXc"
+    },
+    {
+      "rank": 2,
+      "score": 9.0,
+      "title": "美國參議院草案徵集醫療 AI 監管意見：聯邦立法輪廓逐漸成形",
+      "summary": "美國參議院最新提出的草案正式向各界徵集對醫療 AI 監管框架的意見，顯示聯邦層級的醫療 AI 立法進程明顯加速。草案內容涵蓋 AI 工具的透明度要求、責任歸屬機制，以及醫療提供者在採購與使用 AI 系統時的合規義務。此一立法動向對醫院資訊長、採購主管及法遵團隊具有直接影響，因為一旦法案通過，醫療機構在引進 AI 解決方案時將面臨更嚴格的驗證與文件要求。同時，這也反映出國會對 FDA 現行 AI 器材審查框架能否有效規範快速演進的醫療 AI 應用日益存疑。各醫院應密切追蹤草案後續進展，以提前評估內部 AI 治理結構是否符合未來法規要求。",
+      "tags": [
+        "醫療AI監管",
+        "聯邦立法",
+        "合規治理",
+        "政策動向"
+      ],
+      "author": "未標示（ExecutiveGov｜2026-11-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1VCd3NyV01jODBTMS1ET3FIRFk0TVk5cFl0XzE5TmpQQnhRVUZ0dW9GY1c2cG9LZXVPMl92WVhySTlDYVdXZ3hIcm1RQ0stYkpzSjd6LVNvVE9EaUh6Wll0amNnVzBlVTN3YXJobk9Odnk0ZDUyZE9nS21CY3dnOHhodU45LUNwUG5TSVpqc3h3Mllz"
+    },
+    {
+      "rank": 3,
+      "score": 8.8,
+      "title": "FDA 生成式 AI 醫療器材監管：五大觀點剖析未來走向",
+      "summary": "MedTech Dive 彙整五位業界與監管專家對 FDA 應如何規範生成式 AI 醫療器材的不同立場與建議。核心爭議聚焦於：生成式 AI 產品應適用現有的 510(k) 審查路徑，還是需要全新的監管類別？以及如何定義「持續學習」模型的變更管理義務。部分專家認為 FDA 應採用以風險分級為基礎的彈性框架，另有觀點強調製造商必須提供更完整的訓練資料透明度。這些爭論對正評估引進生成式 AI 輔助診斷或臨床文件工具的醫院採購決策具有重要參考意義，因器材的法規地位將直接影響院內驗證流程與責任承擔方式，資訊及法遵團隊應提前掌握相關動向。",
+      "tags": [
+        "FDA監管",
+        "生成式AI",
+        "醫療器材法規",
+        "醫療科技"
+      ],
+      "author": "未標示（MedTech Dive｜2026-11-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUhfVG5sa3JCSGl2SHFNWlUxN3U1ZG04VHEzYTlndFkyY1NwbVc2Ql9qMlBpWXY5a1M4VHlQcW9fanFYdVRBdVFJX3kxY01aZXYxOUpENkEtd2xlMk15dmZHVVdwQjc0b2RGbDItOXBHQl9laG01ZzNmM3psbFZseGxXNURUcGtCQ0NRSGxrSzJPTmxpMVFxWXJub2lReDJLZUFFeUExcF95Skotb1lj"
+    },
+    {
+      "rank": 4,
+      "score": 8.5,
+      "title": "HHS 鬆綁健康 IT 認證要求：醫院須自行承擔 AI 工具評估責任",
+      "summary": "美國衛生及公共服務部（HHS）宣布放寬多項健康 IT 認證要求，預計可降低技術開發商的認證成本。然而，此舉的另一面是醫院與醫療系統必須自行承擔更多責任，對所採購 AI 工具的安全性與效能進行獨立評估。這一政策轉向意味著醫療機構不能再單純依賴政府認證作為 AI 工具品質保證的背書，院內需建立更完善的供應商評估流程、效能監測機制與臨床驗證標準。對於正積極導入或擴展 AI 解決方案的醫院而言，此政策將直接影響採購決策框架與 IT 治理架構，資訊部門與臨床品質團隊的協作角色將因此更加關鍵。",
+      "tags": [
+        "健康IT政策",
+        "HHS",
+        "AI採購評估",
+        "醫療合規"
+      ],
+      "author": "未標示（MedCity News｜2026-11-03）",
+      "source_url": "https://medcitynews.com/2026/11/looser-health-it-certification-requirements-shift-oversight-to-health-systems/"
+    },
+    {
+      "rank": 5,
+      "score": 8.3,
+      "title": "AI 大幅提升出院病摘準確度與完整性：Stony Brook 大學研究成果",
+      "summary": "Stony Brook University 最新研究顯示，導入 AI 輔助撰寫出院病歷摘要後，文件的準確度與完整性均獲顯著提升。研究團隊比較 AI 生成與人工撰寫的出院摘要，發現 AI 系統能更一致地納入關鍵臨床資訊，包括診斷、用藥變更及後續追蹤指示，同時減少遺漏與不一致情形。出院摘要品質直接關係到跨院照護銜接、減少再入院風險及醫療糾紛防範，因此此研究結果對臨床文件管理具有重要實務意涵。對於正評估或已試行 AI 病歷輔助的醫院而言，此研究提供了量化效益的參考依據，也凸顯 AI 在醫療行政文件減負方面的具體潛力。",
+      "tags": [
+        "AI病歷文件",
+        "出院摘要",
+        "臨床品質",
+        "醫療AI應用"
+      ],
+      "author": "未標示（Long Island Business News｜2026-11-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQnVXUGJobVZfWm5qUUF1QXd6cHVla2VuUHJhZzNld2hfb0ZDZGxRLTZRLVV3UnNTMVQ2RHFoZktSejBDTlh2dnplbzhWeTQzbFZoeVlsaGFVdmtwcVA2WUZtb1h0ZmxaUTdqTWJxdkxJVzdVUktWSWJyNkZuM3ZKaHA1RmQweHE1SzUxTlFfUXBCUVFFMVBOOWlxNzhSd1BBYk5hdjhjcw"
+    },
+    {
+      "rank": 6,
+      "score": 8.0,
+      "title": "雲林啟用 AI 在宅急症照護平台：長者跨院會診、家屬遠端即時參與",
+      "summary": "雲林縣正式啟用智慧在宅急症照護 AI 平台，讓行動不便的長者無需親赴醫院即可完成跨院多科會診。平台整合 AI 語音紀錄、多方視訊連線及即時生理數據傳輸功能，使基層醫師、專科醫師與家屬能同步參與診療決策。此系統不僅縮短急症處置時間，也大幅減輕家庭照護負擔與醫療交通成本。在台灣快速高齡化的背景下，此一模式提供了將急性醫療能量延伸至居家場景的具體實踐案例，對醫院規劃遠距醫療、在宅照護服務與跨院資訊整合架構具有直接參考價值，同時也展示了 AI 語音辨識與遠距會診技術在偏鄉及高齡照護場域的落地可行性。",
+      "tags": [
+        "在宅醫療",
+        "遠距照護",
+        "台灣醫療AI",
+        "高齡照護"
+      ],
+      "author": "未標示（元丰傳媒｜2026-11-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXWFhUR3ZrU2JIalJpeHVrQ2h3MVQ4bGotdlVsTE5nWDJ5bUhPR0c1RDFiRUVpOWdoalZ4NUpSdk83MVhXLTdJaW92SlZLYkg2YlBaNHAzUFVYTjB2SU1aamNRY2ExVENi"
+    },
+    {
+      "rank": 7,
+      "score": 7.8,
+      "title": "長佳智能 AI 腦中風檢測獲 FDA 許可：台灣醫療 AI 業務同步回升",
+      "summary": "台灣醫療 AI 公司長佳智能宣布旗下 AI 腦中風影像檢測產品獲得美國 FDA 許可，同時公司整體醫療 AI 業務亦呈現回升態勢。腦中風的快速準確辨識對於爭取黃金治療時間至關重要，AI 輔助影像判讀技術在此領域已逐步展現降低漏診率、加快診斷流程的臨床效益。此次 FDA 許可不僅代表長佳智能產品具備進入美國市場的資格，也為台灣醫療 AI 廠商在國際法規認證路徑上提供了重要先例。對於國內醫院評估採購腦中風輔助診斷工具，以及了解台灣廠商國際競爭力與市場布局，此消息具有產業觀察與臨床採購的雙重參考意義。",
+      "tags": [
+        "腦中風AI",
+        "FDA許可",
+        "台灣醫療AI",
+        "影像診斷"
+      ],
+      "author": "未標示（MoneyDJ｜2026-11-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZlZsTjlPazFEM25mby1TVmpldkYwbTZQY2lVNTdOY0RjSzRHZ1kzMU91RjN3aHVXSjlSdDhUbXl1RDlXVkJRcV80cjNEcmVHblhqLU52RkpmVzhPem4zTE5scTY3MG5hbjRMalJJclNnRWpfbjJ6X2VuUS1lOE53ZmFvMlhrMk1tQjBjN1lnek82dw"
+    },
+    {
+      "rank": 8,
+      "score": 7.5,
+      "title": "Palantir AI 技術在 29 個英國 NHS 信託機構幾乎閒置：採購與落地之間的落差警示",
+      "summary": "英國《衛報》調查報導指出，Palantir 為 NHS 提供的 AI 技術在 29 個信託機構中幾乎未被實際使用或僅有極低度使用，儘管這些機構對外宣稱正從中獲益。報導揭示了醫療 AI 採購與實際臨床落地之間普遍存在的結構性落差，包括訓練不足、工作流程整合困難、使用者接受度低以及系統與在地需求不匹配等問題。此案例是全球最具規模的公共衛生 AI 採購之一，其結果對各國醫院在規劃 AI 導入策略時具有強烈警示意義，凸顯技術採購決策必須伴隨明確的落地計畫、持續的變革管理以及效益追蹤機制，方能真正實現 AI 投資的預期價值。",
+      "tags": [
+        "AI落地失敗",
+        "NHS",
+        "醫療AI採購",
+        "變革管理"
+      ],
+      "author": "未標示（The Guardian｜2026-11-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPckxCaU9Jb3dhZzl2MllnOVg1UDdwOXl1Q3NKdEhvUkQzRm41UkppaEw3a0hOc2RFRU5xSWhmYXRDYU5mcTNPdUM3ZWluYzZRZjN1d0hvMjJ2WlJXTzdoTnVDRWRzc0s4dU5FcGNQaWxoWVVROUM4YUZvQ0Q5QXJfTmJGcVpBTnRjWWgzZWlXYw"
+    },
+    {
+      "rank": 9,
+      "score": 7.2,
+      "title": "醫揚攜手柏瑞醫推動高雄市立小港醫院醫療影像 AI 落地應用",
+      "summary": "醫揚科技與柏瑞醫（Parabellum）合作，共同為高雄市立小港醫院建置醫療 AI 影像辨識應用系統，協助推動醫療影像 AI 在地落地。此合作模式結合醫療級嵌入式運算硬體與臨床 AI 軟體解決方案，針對放射影像判讀流程進行優化，旨在提升診斷效率並輔助醫師減輕判讀負荷。此案例展現台灣本土廠商在公立醫院場域中推進影像 AI 實際部署的能力，對奇美等南台灣醫療機構在評估影像 AI 解決方案供應商與合作模式時，具有地區產業生態的參考意義，同時也反映台灣醫療影像 AI 市場從概念驗證邁向規模化落地的趨勢加速。",
+      "tags": [
+        "醫療影像AI",
+        "台灣醫療AI",
+        "公立醫院",
+        "AI落地"
+      ],
+      "author": "未標示（鉅亨網｜2026-11-03）",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yR2p5RGM3ZUpJZjZYdjEzcjZSLUJ2cnNGMHNnT2RvR0JINk5yR3JvZjVtQWI2MVZJLUsxOTVWOHh0MnM2eHRWMFRpV3R3S0k"
+    }
+  ]
+}
