@@ -1,0 +1,131 @@
+{
+  "date": "2026年11月05日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "Google 發布醫療 AI 開發安全框架：涵蓋設計、驗證與部署全流程",
+      "summary": "Google 正式公開一套專為醫療 AI 開發設計的安全框架，系統性地涵蓋模型設計、臨床驗證與部署監控等各階段要求。此框架旨在協助醫療機構與 AI 開發者在導入人工智慧工具時，能有所依據地管理偏誤風險、確保模型可解釋性，並建立持續監測機制。隨著生成式 AI 在臨床場域的應用日益普及，業界對統一安全標準的需求愈加迫切。Google 此舉被視為回應 FDA 監管壓力、強化產業自律的具體行動，對於正規劃引進 AI 輔助診斷或臨床決策工具的醫療機構而言，此框架可作為內部治理與採購評估的重要參考依據。預計將對全球醫院資訊部門及數位轉型團隊在制定 AI 採購標準與風險管理規範時產生直接影響。",
+      "tags": [
+        "AI安全框架",
+        "醫療AI治理",
+        "Google",
+        "臨床部署"
+      ],
+      "author": "未標示（The Tech Buzz｜2026-11-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZXQ4ZmFWanJuRzJ3N2pRMWZpc1U3QU1FaTJ0QmlIdm1TYXp1bjE3eXh1RVVrQTBWa2lxMXZoclE2LW8tZTRCMExjMjJ1TS10M2E1M2FnOW1NYzRFamhIZmlOX0Q4azgzOU9DeFlQbXgzZEdkYUdkT25Eb0FBM1dQTmUxLWR6US16R0tUMWVXdHViNTkwUWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 9.0,
+      "title": "AMA 提出醫療 AI 責任共擔框架：開發商、醫院與醫師三方分責",
+      "summary": "美國醫師協會（AMA）發布政策立場，主張醫療 AI 相關法律責任應由 AI 開發商、醫療機構與臨床醫師依角色共同承擔，而非由單一方全面負責。AMA 認為，開發商須確保產品設計安全、充分揭露模型局限；醫院有義務對所採購的 AI 工具進行適當評估與監督；醫師則在臨床應用時仍負最終診療判斷之責。此框架的提出背景，是當前各州法規對 AI 醫療責任認定標準不一、相關訴訟案例持續增加，業界急需清晰的責任歸屬準則。對醫院領導層與法務部門而言，此一框架直接涉及採購合約設計、醫師培訓規範與機構風險管理策略，具有高度實務參考價值。",
+      "tags": [
+        "醫療AI責任",
+        "AMA",
+        "法規政策",
+        "臨床治理"
+      ],
+      "author": "未標示（헬스조선｜2026-11-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSDZQYzVoWHlNN2xCbTBFTWdabjdVS0hHYXRieF9KeTZJaHRDQi1CSzFvQ2JFS011aGt6c3ZnRDhKRHBRelRzc1pFZ1lXempTaGJpVW9LSEs4TGFLSnJ1OUtwT0ZWXzNDM0F4TXEzSkdaUGI1VFRhRUtuYlBMd0VlM1hiclZXVWNlcGc?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.8,
+      "title": "台北醫院自建急性腎損傷風險 AI 預測模型：手術前個人化預防照護新里程",
+      "summary": "台灣台北某醫院宣布成功建立一套急性腎損傷（AKI）風險 AI 預測系統，可在外科手術前評估個別病患的腎損傷風險，進而提供個人化預防處置建議。急性腎損傷是常見且有時嚴重的手術併發症，傳統上缺乏有效的術前風險預測工具。該院團隊運用電子病歷與術前生理參數訓練模型，預測精準度達到臨床實用標準。此一在地開發成果，不僅呼應美國 Mount Sinai 健康體系同步進行的 NIH 資助研究，更展現台灣醫療機構具備自主研發 AI 臨床工具的能力。對於手術量大的醫學中心而言，此類 AI 工具有助於降低術後腎損傷發生率、縮短住院天數，具備直接落地應用的潛力。",
+      "tags": [
+        "急性腎損傷",
+        "手術AI",
+        "台灣醫療",
+        "預測模型"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-11-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWFNyaTYzU1I5SWV4TW9xWExqSV8xN3lXeDNXM3lnbnpwVGxMM1FvT0hlSXo1aFNKb1FGSHJQaENvOXUwaFhfX2UwM2M3UUJ1djdSUG0wNF9nbEhMWjExREEyenBkNE4zMGNxYjAzYU5naWtVdFlGbnVtMVZ4TkFkQlBuejR0dFJZd0dwbG1nTWdfdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.5,
+      "title": "NIH 撥款 400 萬美元：Mount Sinai 建構 AI 模型預防急性腎損傷",
+      "summary": "美國紐約 Mount Sinai 健康體系獲得美國國家衛生研究院（NIH）400 萬美元研究資助，用於開發以 AI 為核心的急性腎損傷（AKI）風險預測模型。急性腎損傷是外科手術後最常見的嚴重併發症之一，發生後不僅提高死亡風險，亦大幅延長住院時間與醫療費用。研究團隊計劃整合術前電子病歷、術中生理監測數據與術後追蹤指標，訓練具備個人化風險分層能力的預測模型，使臨床醫師能在手術前提前介入、降低 AKI 發生率。此項研究代表 AI 在外科照護預防醫學應用的重大推進，亦顯示 NIH 對臨床 AI 研究的持續投入意願。對於麻醉科、外科及腎臟科主任而言，本計畫提供具參考性的研究架構。",
+      "tags": [
+        "急性腎損傷",
+        "NIH",
+        "預測AI",
+        "外科照護"
+      ],
+      "author": "未標示（MedCity News｜2026-11-05）",
+      "source_url": "https://medcitynews.com/2026/11/researchers-receive-4m-nih-grant-to-build-ai-model-to-prevent-kidney-injury/"
+    },
+    {
+      "rank": 5,
+      "score": 8.3,
+      "title": "AI 代理人進駐濕式實驗室：中國自動化生物實驗室可全流程執行 DNA 實驗",
+      "summary": "《Nature》報導，中國一座由 AI 代理人驅動的全自動生物實驗室已能執行複雜的多步驟分子生物學實驗，包括 DNA 合成與定序，僅需人工輸入簡單文字指令即可啟動全流程。該系統整合多種實驗室儀器，由 AI 自主協調各步驟的操作順序與品質管控，大幅減少人力介入。研究人員指出，此「自驅動實驗室」（self-driving lab）模式不僅能加速基礎研究效率，更可降低人為操作誤差。從醫療 AI 發展角度來看，此類技術有潛力延伸應用至臨床基因檢測、病理分析自動化及新藥開發流程，代表實驗室自動化與 AI 整合的重要技術里程碑，值得醫院病理科及精準醫療部門密切關注。",
+      "tags": [
+        "AI實驗室自動化",
+        "DNA定序",
+        "生物技術",
+        "Nature"
+      ],
+      "author": "未標示（Nature｜2026-11-04）",
+      "source_url": "https://www.nature.com/articles/d41586-026-03552-8"
+    },
+    {
+      "rank": 6,
+      "score": 8.0,
+      "title": "LeanTaaS 收購 LookDeep Health：病房視覺 AI 與醫院營運管理整合新模式",
+      "summary": "醫院智慧排程與營運最佳化公司 LeanTaaS 宣布收購 LookDeep Health，後者專注於病房內視覺 AI 技術，能透過非識別性影像分析即時掌握病床使用狀況、病患活動與護理需求。兩家公司整合後，將形成一套從住院需求預測到病房即時監控的端對端醫院營運 AI 平台。LeanTaaS 原有產品已被多家美國大型醫療系統採用，此次整合 LookDeep 的視覺 AI 能力，代表醫院營運 AI 從「數據分析預測」延伸至「即時環境感知」的重要跨越。對於床位管理、護理人力配置及院感控制均有潛在應用價值，值得有意推動智慧病房建設的醫院資訊與護理管理團隊參考。",
+      "tags": [
+        "視覺AI",
+        "醫院營運",
+        "智慧病房",
+        "企業併購"
+      ],
+      "author": "未標示（HIT Consultant｜2026-11-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNjVvbXdRVThiRjRMOHJyTFdHVHZtV0E2RlotREhpUENNaTQybXVsV1J2dF9MYkRldVozN3JpVTBfYjF6TXZjVFJSMzFyZ2lPLUgzR0trM3h4cGNSbFl5Z0M0RGRXbHM5cmdNdDF1aVA3Z25JRTJMUlgzVjQ2cHZ4N3NiRWZMbG5lR29hZFdGMlpTWU1LaDYwZWsyRjF6dEVzb01DUkx4cjMxZFVmaEd6WVNreVRSSlowYmZJ?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.8,
+      "title": "放射科人力危機新解：從被動 AI 使用者轉型為主動 AI 創造者",
+      "summary": "《Diagnostic Imaging》發表分析文章，指出放射科正面臨嚴峻人力短缺危機，而現有的「被動使用 AI 工具」模式已不足以解決根本問題。文章提倡放射科醫師應積極轉型為 AI 開發的主動參與者，包括參與模型設計、訓練資料標注與臨床驗證流程，藉此確保 AI 工具更符合臨床實際需求，同時強化科室對 AI 技術的掌控能力。作者認為，放射科醫師若僅作為終端使用者，將喪失在 AI 時代定義自身專業價值的機會。此一觀點對於醫院放射科主任在規劃人才培育、科室轉型策略及與 AI 廠商合作模式時，提供了具有前瞻性的思維框架，值得臨床科主任層級參考討論。",
+      "tags": [
+        "放射科",
+        "AI人力",
+        "醫師角色轉型",
+        "影像AI"
+      ],
+      "author": "未標示（Diagnostic Imaging｜2026-11-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTEhMZGZleU9HQW0xamN4ZU5KNGt3MDFobFplZHhaTDZ3bjh6eXQzS29IdW9leVFDNGk0bEhjU2ZycGpuZDVBUjJiMEhCQ1FGOS1rWGRBZXhlM1luOGxNelpDZThveGNPRjhKWVZ0SmdoTkZfYlpockRBUjN2VlJnUTNKTklmS0p6VUxIaC1XajJjOGJCMTRkTjRhcEFaVVdOQXNMdW01Tlo5dldPYWY2MjhCb0tWLXVaNEtXenNfSEozSURxb1VSMFd3SVVVOTA?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.5,
+      "title": "五大醫學中心齊聚北商 AI 高峰論壇：邱泰源宣示台灣智慧醫療邁向國際",
+      "summary": "台灣北商大學舉辦醫療 AI 高峰論壇，吸引五大醫學中心代表共同出席，展示台灣智慧醫療的最新成果與未來發展藍圖。衛福部長邱泰源於論壇中公開表態，強調台灣在智慧醫療領域已累積相當實力，具備走向國際市場的條件，並呼籲醫界、學界與產業界持續協力推動 AI 臨床落地應用。論壇聚焦主題包括 AI 輔助診斷、智慧病房管理與跨院資料共享等議題。此次多家頂尖醫學中心聯合現身，顯示台灣醫療 AI 生態系正逐步由技術研發轉向跨機構整合與規模化部署，對奇美醫療體系掌握國內智慧醫療政策走向及潛在合作機會具有參考意義。",
+      "tags": [
+        "台灣智慧醫療",
+        "醫療AI論壇",
+        "醫療政策",
+        "AI落地"
+      ],
+      "author": "未標示（匯流新聞網｜2026-11-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQMk85Rm0tTVBIaTg1VlhSSWp5SzNZdlF0eWl4QlUzWlU4YThJN29CbFhhYklmYy0waFJjU2ZBZXBCSjBrc21ZeE1tN2VLSnNvV1RlWjdkUTFTYnppckRRQ0RhdGdVVWhPaF93a01NT19mY29VMTNBWjdZaklmb21nSXI2Tjd0RGhoSmlnRW1QNUNJU0IzTWhkWjF2QWdzNV9tQ2VUcEdZUU1qUlVwSlh0ci1seXlybUljbmFQUUhndTZFTEEwbzl4TF81T0hTLVZzVGVwb3dTWmJ0bmg0bjRVM1FLMDJZbFBPMHR3MElOTWJJRVgtLThEdS1qbXdKdi00MnJVX1M3VXBNT0VWVWtBdjRoSmRJbGpuQXdyZVJESWJidVNZelhVNEU4NzlPVWd4NVgtaXY4ekRTN3M1bk1acTdhWXE?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 7.3,
+      "title": "馬偕與三總聯手：台灣醫加速器雙冠揭曉，醫療 AI 落地進程加速",
+      "summary": "台灣醫療 AI 加速器最新梯次評選結果出爐，由馬偕紀念醫院與三軍總醫院共同合作的新創團隊獲得雙冠殊榮，展現兩家知名醫院攜手推動醫療 AI 新創生態系的具體成效。此次加速器計畫聚焦於 AI 臨床工具的場域驗證與商業化，提供入選團隊醫院資料使用、臨床場域試驗及醫療法規輔導等資源。馬偕與三總的加入，不僅提升計畫的臨床公信力，也代表大型醫院正主動扮演 AI 新創孵化器的角色，而非單純採購方。這一模式對台灣醫療 AI 生態系發展具有示範意義：醫院從被動採購者轉型為主動培育者，有助於在地化 AI 工具更快速符合臨床場域需求並完成法規認證。",
+      "tags": [
+        "台灣醫療AI",
+        "醫療加速器",
+        "新創生態",
+        "馬偕三總"
+      ],
+      "author": "未標示（風傳媒｜2026-11-04）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTankzRTNmbm8tTnQ5SWlsMm12Z0JRWVh6U3h4TUVVLWwtVmFBLTZaMm1PRTlYLTJybkN4aG1NQ2pQY1NlY01MVldjV1JKQQ?oc=5"
+    }
+  ]
+}
