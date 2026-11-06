@@ -1,0 +1,131 @@
+{
+  "date": "2026年11月06日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "美國民眾對醫療 AI 用於診斷與保險審核仍持審慎態度——最新民調揭示",
+      "summary": "根據 CBS News 報導的最新民調，美國民眾對於將 AI 應用於醫療診斷及保險理賠審核普遍抱持疑慮。調查顯示，受訪者擔憂 AI 在高風險醫療決策中的可靠性、透明度及潛在偏差，尤其對保險公司運用 AI 自動化拒絕理賠感到不安。這項民調結果與當前醫療 AI 快速擴張的趨勢形成對比，凸顯出技術落地與公眾信任之間仍存在明顯落差。對醫院領導層而言，了解患者與社會對 AI 的態度至關重要，有助於在推動智慧醫療轉型時制定適當的溝通策略與治理框架，避免因信任危機影響 AI 工具的接受度與實際效益。",
+      "tags": [
+        "公眾信任",
+        "醫療AI政策",
+        "保險審核",
+        "AI治理"
+      ],
+      "author": "未標示（CBS News｜2026-11-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CVWV0aXFiQnJWbVAtY3hwVnRrSXdocTdBaVZqdHVpcUVVYWVMaXVCa0c3QWRaM3B4VzJoWVRqY09DU2lZUzJYSjJXRzcwU01uSmE5bE9TeHkxd1JvVzhrRlZ6ejYyMnV4RHU5MFBVXzU4QQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.2,
+      "title": "期中選舉後醫療 AI 立法走向：負面民意將如何重塑 FDA 監管格局",
+      "summary": "STAT News 分析指出，2026 年美國期中選舉結果顯示民眾對 AI 的負面情緒已逐漸蔓延至醫療領域，民主黨重掌國會兩院後，預計將對醫療 AI 採取更嚴格的監管立場。報導探討選後政治生態將如何影響 FDA 對醫療 AI 產品的審查標準、國會是否加快推動醫療 AI 專項立法，以及醫療保險給付政策的調整方向。對於醫院資訊部門及數位轉型團隊而言，這波政治轉向意味著未來採購與部署 AI 工具時，合規審查的壓力將顯著上升，需提前評估手中 AI 解決方案的監管風險與證據要求，並密切關注 FDA 新規的動態發展。",
+      "tags": [
+        "醫療AI監管",
+        "FDA政策",
+        "美國立法",
+        "數位轉型"
+      ],
+      "author": "未標示（STAT News｜2026-11-05）",
+      "source_url": "https://www.statnews.com/2026/11/05/midterms-shape-future-ai-in-health-care-fda/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "Microsoft 醫療 AI 診斷準確率超越醫師兩倍以上——最新研究結果引發業界關注",
+      "summary": "SingularityHub 報導，Microsoft 最新發布的醫療 AI 研究顯示，其模型在疾病診斷準確率上達到受測醫師的兩倍以上，涵蓋多個臨床場景的測試。研究結果引發醫療界廣泛討論：AI 輔助診斷工具是否已達到足以改變臨床工作流程的成熟度？業界人士指出，此類研究雖具里程碑意義，但必須謹慎解讀——實驗室環境下的基準測試與真實臨床部署之間存在顯著差異，包括病患多樣性、資料品質及醫師與 AI 協作模式等因素均影響實際成效。此結果對臨床科主任及醫院領導層具有重要參考價值，同時也提示需進一步審視 AI 診斷工具的臨床驗證標準。",
+      "tags": [
+        "AI診斷",
+        "Microsoft",
+        "臨床準確率",
+        "AI輔助決策"
+      ],
+      "author": "未標示（SingularityHub｜2026-11-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1RneWZyTXdjVzBhN0owd3pqUGE0SFJIWlktVERseHo5SjhSVGF2cnNucEVJX1p6M0dScXkta3BUaWh1UzFsWTZqZWNESV9mUFBobWZyLS02X0NWSnJ5S2hYSWV4WFhmaWJsX25ocXhRaGZVd1RFMm9NSUxYUm9ucklUbXgwcUJmQkJ1TFJrbkdRSkZfeXNKdWMtY0JTVXhVbWpZdDVKNnB5TnBNU0duTEhKOA?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.8,
+      "title": "醫療 AI 治理盲點：醫院無法管控尚未被發現的 AI 工具",
+      "summary": "Help Net Security 報導指出，醫療機構面臨一項嚴峻的 AI 治理挑戰：臨床人員在未經官方批准的情況下自行採用各類 AI 工具（即「影子 AI」），使醫院資訊安全與隱私保護部門根本無從監管。報導強調，現有醫療機構的 AI 盤點與治理機制往往僅針對已知、已採購的系統，對於醫師、護理師私下使用的消費級 AI 聊天機器人或協作工具卻缺乏有效追蹤手段。這一現象不僅帶來 HIPAA 合規風險，更可能影響病患資料安全與醫療決策品質。醫院領導層及資訊部門應建立全面的 AI 工具盤點機制，並制定明確的員工使用政策以降低潛在風險。",
+      "tags": [
+        "AI治理",
+        "資訊安全",
+        "影子AI",
+        "HIPAA合規"
+      ],
+      "author": "未標示（Help Net Security｜2026-11-05）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVpVaTB4Ykc4bHFpbUkyTklYLVJmOVU1VFJoOWxVYXpiNWhaZTU1NmNUNTNJMEZuMUJLbGREYVlzaHFWVmhobVhycW9acFo5U3VlTm1xMzdqZUhtMk9QbUdUbFYxTGNmR29SM2R2UE85WVQzZU5kaWNPRXI2YThCNmNEYTBsZ0hs?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "AI 並未減輕臨床人員負擔——只是將負擔轉移到別處",
+      "summary": "MedCity News 刊登評論指出，目前醫療機構廣泛採用的 AI 文件記錄工具（如環境式聆聽、自動病歷摘要等）雖然解決了部分顯而易見的痛點，但並未從根本上降低臨床人員的整體工作負荷，而是將負擔從一個環節轉移至另一個環節。例如，AI 生成的病歷仍需醫師花時間審閱與修正，或者節省下的時間被額外的行政任務填滿。文章呼籲醫療機構在評估 AI 工具效益時，應超越單一流程的效率指標，從整體工作流程與臨床人員實際體驗的角度進行評估，才能確保 AI 投資真正帶來有意義的改變，而非只是將問題換個面貌重新呈現。",
+      "tags": [
+        "臨床工作流程",
+        "AI導入",
+        "醫師負擔",
+        "AI效益評估"
+      ],
+      "author": "未標示（MedCity News｜2026-11-05）",
+      "source_url": "https://medcitynews.com/2026/11/ai-didnt-reduce-clinician-burden-it-just-moved-it/"
+    },
+    {
+      "rank": 6,
+      "score": 7.3,
+      "title": "加州醫療 AI 監管方向建言：州政府如何有效監督醫療 AI",
+      "summary": "Capitol Weekly 刊登政策分析文章，針對加州應如何建立醫療 AI 監管機制提出具體建議。文章指出，隨著 AI 工具在臨床決策、保險審核及行政管理等領域快速滲透，加州州政府需要在聯邦監管框架之外建立更具針對性的地方法規，包括強制透明度要求、演算法審計機制、以及當 AI 決策導致患者傷害時的問責機制。該報導對美國各州醫療 AI 監管立法的走向具有指標意義，也提示台灣及各國衛生主管機關在制定相關政策時可供參考的思路。",
+      "tags": [
+        "醫療AI監管",
+        "加州政策",
+        "AI問責",
+        "地方立法"
+      ],
+      "author": "未標示（Capitol Weekly｜2026-11-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9STHFmU2UxdVFfTG8ybmR6aExQNF9xY3V5cEdjLTJ6TUQzY3Qyb0U4TklfTGwzTVVCZ2F5WTVzQWlSdzlEcFdxVGlfaWgya2ZhLUR3MEZjUDdUNXNwTnoxNnZkZHAwMTJ1MFlxMVU4c0dQMDA?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "「兩週 AI 專家」的危險幻象：醫學教育對 AI 素養的嚴重忽視",
+      "summary": "MedCity News 刊登評論警告，目前部分醫學院與醫院採用短期密集課程試圖培養「AI 能力」的臨床人員，卻未紮實建立統計學、演算法原理及批判性評估能力等基礎知識。作者指出，當一位僅受過兩週 AI 訓練的醫師在臨床上過度信任黑盒子模型的輸出結果，一旦演算法出現偏差導致診斷錯誤，責任不在於 AI 系統本身，而在於容許這種淺薄教育的醫療體制。文章呼籲醫學教育界正視問題，將 AI 素養納入正規課程並設立嚴格能力標準，以確保未來臨床醫師能夠真正有效且安全地運用 AI 工具。",
+      "tags": [
+        "醫學教育",
+        "AI素養",
+        "臨床訓練",
+        "AI安全"
+      ],
+      "author": "未標示（MedCity News｜2026-11-05）",
+      "source_url": "https://medcitynews.com/2026/11/the-dangerous-illusion-of-the-two-week-ai-expert-a-call-to-action-against-superficial-medical-education/"
+    },
+    {
+      "rank": 8,
+      "score": 6.8,
+      "title": "Nature 研究：消費者智慧手錶可機會性偵測高血壓徵兆",
+      "summary": "頂尖期刊 Nature 刊登最新研究，顯示消費級智慧手錶能夠透過持續穿戴期間所蒐集的被動感測數據（如光學心率、加速度計等），以機器學習模型辨識高血壓潛在徵兆，無需使用者主動量測血壓。研究團隊將此稱為「機會性偵測」，強調這種方式可在日常生活中大規模篩查潛在高血壓族群，有望補充現有定期門診量測的不足。此研究對預防醫學、慢性病管理及遠距照護具有重要意涵，也開啟穿戴式裝置結合 AI 用於心血管風險早期介入的新可能，對醫院慢病管理計畫具有參考價值。",
+      "tags": [
+        "穿戴式裝置",
+        "高血壓偵測",
+        "預防醫學",
+        "AI慢病管理"
+      ],
+      "author": "未標示（Nature｜2026-11-05）",
+      "source_url": "https://www.nature.com/articles/s41586-026-11336-3"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "Rhapsody 推進醫療 AI 治理與病患身分識別管理新方案",
+      "summary": "Healthcare IT Today 報導，醫療資料整合平台 Rhapsody 宣布推出針對醫療 AI 治理與病患身分識別管理的整合解決方案。該方案旨在協助醫療機構在導入多元 AI 工具的同時，確保跨系統資料的一致性與病患身分的準確比對，降低因資料錯誤導致 AI 決策偏差的風險。Rhapsody 強調，隨著醫療機構同時運行多個 AI 模型，建立統一的 AI 治理層與資料品質管控機制已成為當務之急。此報導對醫院資訊部門在規劃 AI 基礎架構、推動院內多系統整合時具有實際參考意義。",
+      "tags": [
+        "AI治理",
+        "病患身分識別",
+        "醫療資料整合",
+        "醫院資訊系統"
+      ],
+      "author": "未標示（Healthcare IT Today｜2026-11-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT2FSSEpvbk5vbHdycjZ6YVVXOXdzaGxnSGxMWlhMcUZqNG5QaVVmQTZkRmxVMUFFUGxleXpaSlQzcGFGQ2lpZ0F3TWVSWDg3STBYc2EzUE9Va1FUM1J0Y0lYSmdsemRXVnV4dEtoVVFqdDNjRnZPdEh4MkJtdk44QTNSUzhxMGxOV19mNFd0NXU1bEdhRG9qX3FjaFJ0SUFyMWV2MFpoSVMyRThlTnhROVBxOTJ3Y1hBLWMxYVNjTEVnNWRhcHZn?oc=5"
+    }
+  ]
+}
