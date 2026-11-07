@@ -1,0 +1,145 @@
+{
+  "date": "2026年11月07日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "醫療 AI 獲批後的最大挑戰：模型漂移與上市後持續監控",
+      "summary": "MedCity News 刊出深度分析指出，醫療 AI 軟體在通過主管機關核准後面臨一項被普遍低估的風險：即使開發商未主動更新模型，模型效能仍可能因臨床環境、病人族群結構或資料擷取流程改變而悄然劣化，形成「模型漂移」。文章強調，傳統軟體釋出後的更新邏輯並不適用於 AI 醫療器材，因為後者的行為可能在無人察覺的情況下持續演變。作者呼籲醫院與監管機構建立系統性的上市後監控機制，包括定期效能稽核、異常警示閾值設定，以及與開發商的資料回饋協議，以確保部署後的 AI 工具維持核准當時的安全性與準確度。此議題對於已部署或正評估導入臨床決策支援、影像判讀 AI 的醫療機構而言，具有直接的法規合規與病患安全意涵。",
+      "tags": [
+        "模型漂移",
+        "AI監管",
+        "上市後監控",
+        "醫療AI安全"
+      ],
+      "author": "未標示（MedCity News｜2026-11-06）",
+      "source_url": "https://medcitynews.com/2026/11/the-big-challenge-for-ai-in-healthcare-comes-after-approval/"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI 乳癌病理報告出現系統性錯誤：研究揭示模型偏誤問題",
+      "summary": "Bioengineer.org 報導一項最新研究發現，現行主流 AI 模型在生成乳癌病理報告時呈現系統性錯誤，而非隨機偏差，顯示模型在特定臨床場景下存在結構性偏誤。研究者分析多個 AI 病理報告工具後發現，錯誤類型具有可預測的模式，涉及腫瘤分級描述、邊緣狀態判讀以及受體表現詮釋等關鍵欄位，這些欄位直接影響後續治療決策。研究指出，若醫院在未充分驗證的情況下將此類 AI 工具整合進病理工作流程，可能導致治療計畫系統性偏差，對病患預後產生實質影響。研究建議在臨床採用前，應針對在地病人族群進行嚴格的性能評估，並持續追蹤報告一致性，以確保 AI 病理輔助工具的可靠性。",
+      "tags": [
+        "AI病理",
+        "乳癌",
+        "模型偏誤",
+        "臨床安全"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-11-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX3BTeHh0aTlaSV93dXFkcVpvZERRalo1cnRVaDJSTy1FLXBRMElHN3lmVWQ5cWwyUDBSdlBINFBZZGRKX2lZcnlYRkMyTkx5VnR3SS1vZzJrRjhjTjlLTU1kUnoyNGpmSEl0aEJNcGNaUzBsNW52WXEwWnY0MTJrLXRCQzZVLV9ONHVlWWg3MF9TU3cxZTczRUJB?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "FDA 授予 Cleo 皮膚 AI 病理工具「突破性器材」認定",
+      "summary": "FDA 正式授予 Cleo 皮膚 AI 病理分析工具「突破性器材認定」（Breakthrough Device Designation），標誌著 AI 輔助皮膚病理診斷進入監管快速通道。此認定適用於能協助病理科醫師加速皮膚切片判讀、提升診斷一致性的 AI 系統，FDA 預期其可縮短現行皮膚癌確診所需時間。突破性器材認定將使 Cleo 獲得與 FDA 更密集的審查前溝通機會，預計大幅壓縮正式核准時程。此案例反映 FDA 持續擴大 AI 病理工具於癌症診斷領域的監管優先度，對國內正評估引進 AI 病理輔助系統的醫療機構而言，可作為未來採購評估與技術選型的重要參考依據。",
+      "tags": [
+        "FDA突破性器材",
+        "AI病理",
+        "皮膚癌",
+        "醫療AI監管"
+      ],
+      "author": "未標示（Clinical Lab Products｜2026-11-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2IwQk5kTmlIdkdMbjEtV1RQTUN4aWpLeERiS0JBQ0lRUHFSc2tRU1dSRlZkZTdEaTlBakh1c2wzOTZ1M0pnZUxsNW5iRnZCallacDZPV0k2aHlxejhqd29pS2Zkd3hBTTBWYVBEeTVRdlE1WmdHbWhTWWgzeE1JWDRXODZIZlh5aEtZSFRPRlZXb0JuaVZFbzA3Nk9jbzUwTkhZUDIyZ09leUViSVE?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "醫療 AI 問責缺口：當系統失誤，誰該負責？",
+      "summary": "Medscape 深度報導探討醫療 AI 失誤的責任歸屬問題，指出現行法律框架與醫療機構內部治理架構均尚未建立清晰的問責機制。文章訪問多位醫療法律專家與臨床科主任，呈現出三方角力格局：AI 開發商傾向以「工具說明書」免責、醫院管理層視採購合約為護盾、臨床醫師則擔憂若採納 AI 建議將承擔個人法律風險。報導指出，在缺乏聯邦層級統一責任分配規範的情況下，醫療機構自行制定 AI 使用政策與問責流程的必要性日益迫切。此議題與近期 AMA 推動責任共擔框架的討論高度呼應，對正在建立院內 AI 治理機制的醫療機構具有直接參考價值。",
+      "tags": [
+        "AI問責",
+        "醫療責任",
+        "AI治理",
+        "法規"
+      ],
+      "author": "未標示（Medscape｜2026-11-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEVILThTZnNYeTg4YmNMRmxQUktXS2U3WHNOckpXS203dUtERlcwMzJWTWpTT1VSaUJXcnB6Z3VnSXBfTmdsVlJSRkZTSWd1dE9ZRF92NmVHYl9VckV5STRKdlF1dlg0RXR6alBfNXp2TnpCMkN4b0RNZkpfSC05MVVKQUN0VnJGeHlNMFUzUzdwZXRsLURoTmRwR2szeUw5OUJPaA?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "多模態 AI 框架整合證據可信度，提升癌症存活率預測精準度",
+      "summary": "Bioengineer.org 報導一項新發表的多模態 AI 研究，該框架創新地引入「證據可信度建模」機制，能在整合影像、基因體與臨床紀錄等異質資料來源時，動態評估各項輸入證據的可靠程度，並據此加權最終預測結果。研究團隊在多癌種存活率預測任務上測試此框架，結果顯示相較於傳統單一模態或等權重融合模型，準確度與校準度均有顯著提升。此方法特別適用於臨床資料品質不均的真實世界環境，能有效降低因資料缺失或雜訊導致的預測偏差。研究成果對於希望導入 AI 腫瘤預後評估工具、並強調模型可解釋性與可信度的腫瘤科及資訊團隊具有重要參考意義。",
+      "tags": [
+        "多模態AI",
+        "癌症預後",
+        "可解釋AI",
+        "腫瘤科"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-11-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbFlPRVBCSXNMWi1KZGJ5QVlKWUxkZldEVGNjQTU1ckk5YnRUaUVqYTRLVXoxZkVINEtrQnZwOTBJS015TE5sZ1FTc1FUYXY5NGQtTmJTcVloMFUyamxkeE1wLXUwVHBuTjF2MmtTemlyQlNXYUU1QW5xNktoVkpNT1ZENW02Y3hocjdtdWxLLWF2N3Y1SHprNkV5c09fbjE2aG9z?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "八成美國民眾要求醫療 AI 透明化，逾六成盼保有醫療決策主導權",
+      "summary": "TechNews 科技新報引述最新美國民調結果，顯示約八成受訪者認為醫療機構使用 AI 工具時應主動告知病患，並清楚說明 AI 在診療流程中所扮演的角色。逾六成受訪者表示，即便 AI 提供了建議，他們仍希望保有最終醫療決策的主導權，不願將決定權完全交由系統判斷。民調亦揭示，民眾對 AI 用於保險給付審核的接受度遠低於診斷輔助應用，顯示信任落差在不同使用情境間存在明顯差異。此調查結果對醫療機構在推動 AI 導入時的病患溝通策略、知情同意設計以及 AI 透明度政策制定，具有重要的實務參考價值，亦可作為院內 AI 治理框架中病患權益保障設計的依據。",
+      "tags": [
+        "醫療AI透明度",
+        "病患權益",
+        "民調",
+        "AI信任"
+      ],
+      "author": "未標示（TechNews 科技新報｜2026-11-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vMVBpS3BhNG8wSGhjUlRjT3dUUkJFbEowMmYwWndkdjV4ZFNwYnBTdEJkZVhRcDV4RFJmSUQyYWo0OHBBY09fQTdSNFpMQkNNVUxYTlU3Q0JQU0p4dUFmenJ2ZlBZYWFqVTNqZDJUQ2Q2QQ?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "醫療 AI 的 ROI 迷思：Bessemer 報告揭示真實投資回報現況",
+      "summary": "MedCity News Debunked 播客節目引述 Bessemer Venture Partners 最新發布的醫療 AI 投資回報評估報告，深入探討目前業界對 AI ROI 的普遍高估現象。報告指出，多數醫院在導入 AI 工具後，實際可量化的財務與效率回報遠低於採購前的預期，主因包括整合成本低估、工作流程改造阻力以及效益歸因困難等。節目同時討論 FTC 近期向醫療機構發出的警告函，針對誇大 AI 效益的行銷宣稱提出監管關切。對於正在評估 AI 投資決策或進行效益驗證的醫院資訊部與財務長而言，此報告提供了較為客觀的市場校準參考，有助於建立更實際的 AI 導入效益評估框架。",
+      "tags": [
+        "AI投資回報",
+        "醫療AI採購",
+        "FTC監管",
+        "數位轉型"
+      ],
+      "author": "未標示（MedCity News｜2026-11-06）",
+      "source_url": "https://medcitynews.com/2026/11/debunked-episode-31-cvs-health-restructure-ai-roi-report-findings-ftc-warning-letters/"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "女性病歷資料偏誤將削弱醫療 AI 診斷效能：專家呼籲改革",
+      "summary": "STAT News 刊出專家意見文章，指出女性在就醫過程中長期面臨疼痛被低估、心理健康症狀被忽視等現象，導致電子病歷中的女性健康資料系統性不完整。作者警告，當醫療 AI 以此類存在偏誤的歷史資料進行訓練時，模型將延續並可能放大既有的性別診斷落差，進一步損害女性在疼痛管理、心血管疾病及精神健康等領域的診斷準確度。文章呼籲醫療機構在導入 AI 診斷工具前，應針對訓練資料集的性別代表性進行審查，並在模型驗證階段加入性別分層分析，以確保 AI 工具在不同病患族群中維持公平的效能表現。此議題對正在建立 AI 資料治理標準的醫療機構具有政策制定參考價值。",
+      "tags": [
+        "AI偏誤",
+        "女性健康",
+        "資料品質",
+        "公平性"
+      ],
+      "author": "未標示（STAT News｜2026-11-06）",
+      "source_url": "https://www.statnews.com/2026/11/06/women-medical-records-artificial-intelligence-diagnosis-mental-health-pain/?utm_campaign=rss"
+    },
+    {
+      "rank": 9,
+      "score": 6.0,
+      "title": "台東基督教醫院導入 AI 輔助影像判讀，縮短癌症篩檢時間",
+      "summary": "台東基督教醫院積極推動智慧醫療轉型，已正式導入 AI 輔助影像判讀系統，應用於癌症篩檢相關的醫療影像分析作業。根據報導，系統上線後癌症影像判讀所需時間顯著縮短，篩檢敏感度亦有所提升，有助於減輕偏鄉地區放射科人力不足的壓力。東馬醫院（台東馬偕）同步導入語音導航系統，提升就醫友善度。此案例代表台灣東部偏鄉醫療機構在資源相對有限的條件下，透過 AI 工具縮短城鄉醫療落差的具體實踐。對於同樣面臨人力吃緊、服務偏遠族群的醫療機構而言，此案例在技術選型、導入模式及效益評估方面均具有在地參考價值。",
+      "tags": [
+        "台灣醫療AI",
+        "AI影像判讀",
+        "偏鄉醫療",
+        "癌症篩檢"
+      ],
+      "author": "未標示（UDN｜2026-11-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QeG0wR01fZmZYTFd6bUtzMkNxR3dKM3pVTXdpTmVLMmFTWnIzZ3h0VUNqOTZKcG5qWGMwOF92Y3U1WFR6bUJOR0xhV1M0eUFx0gFWQVVfeXFMT0lRVDBtQkpEX0dFLXdtWmQzR3NaOF9ubWthMnN2TXJrWHlQdFNyclVpSGpmUEFnUVZHYVFubDNoM092a0hsZU95RjRuZDhHNDJQZVhTeFE?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 5.5,
+      "title": "西門子醫療攜手阿里達摩院：單次 CT 掃描同步偵測癌症與心血管疾病",
+      "summary": "西門子醫療（Siemens Healthineers）宣布與阿里巴巴達摩院合作，共同推廣一項創新 AI 應用：透過單次 CT 掃描，同時分析並偵測癌症病灶與心血管疾病風險指標。此技術整合了影像重建 AI 與多病種並行分析模型，旨在降低病患重複受輻射曝露的風險，並提升放射科工作效率。合作方表示，此方案已在部分醫療機構進行初步臨床驗證，現階段以推廣至大型醫療機構為主要目標。對於放射科工作量持續增加且需兼顧多科別篩檢需求的醫療中心而言，此類多工 AI 影像分析方案在提升設備使用效益與降低單次檢查成本方面具有潛在優勢，值得後續追蹤其臨床驗證成果與監管進展。",
+      "tags": [
+        "AI影像",
+        "CT多病種偵測",
+        "西門子醫療",
+        "阿里達摩院"
+      ],
+      "author": "未標示（香港經濟日報HKET｜2026-11-06）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oSU12d3dWbEdETGVWNy13emNyYjB0a3J5M0dMb3U2TnVia1hWRnJFWHhNN3RsbTdwWXlPTm5fbk9BOUcwTC1DaThPNExSMkhE?oc=5"
+    }
+  ]
+}
