@@ -1,0 +1,75 @@
+{
+  "date": "2026年11月08日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Weill Cornell 放射科患者病歷遭未經授權輸入 AI 工具，引發醫療資料安全警示",
+      "summary": "美國知名學術醫院 Weill Cornell Medicine 傳出資料安全事件，其放射科部門的患者病歷與個人醫療資訊，被員工在未獲授權情況下輸入至外部 AI 工具。此事件揭示醫療機構內部「影子 AI」使用現象的潛在風險，即臨床人員私自使用未經院方審核的 AI 平台處理敏感病患資料，可能違反 HIPAA 等隱私法規。隨著生成式 AI 工具在臨床場域快速滲透，醫院資安政策與員工 AI 使用規範之落差日益凸顯。此案對醫療機構的 AI 治理架構提出急迫挑戰，包括如何建立有效的資料使用審計機制、員工教育訓練，以及採購合規的企業級 AI 解決方案，以防止患者隱私因員工便宜行事而遭洩露，同時確保 AI 應用符合醫院資安與法遵標準。",
+      "tags": [
+        "醫療資料安全",
+        "AI治理",
+        "隱私合規",
+        "影子AI"
+      ],
+      "author": "未標示（Medical Daily｜2026-11-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY1ZKOUZiQlFRdzV3WUktUWc5RngzY0YxVmpUTENUbWhRVm1CbDFqUkdUaDBPZTZnU1lCbDJ3RDJaemlpcDFvR3VxN3VRN2U3ZnB1R3o3UWx1U2gzM2c2c1J5TkkxOTVlUXBpOEtvZWR4TDljUUhONEN4MXhiUU9xSzRLdUdINFJUWGJMUw?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "Mayo Clinic Platform 推出 AI 驅動臨床決策支援工具，強化床邊診療輔助能力",
+      "summary": "Mayo Clinic Platform 正式發布一款以 AI 為核心的臨床決策支援工具，整合大型語言模型與 Mayo Clinic 豐富的臨床資料庫，旨在於診療現場即時提供循證建議，協助醫師在複雜病例評估、鑑別診斷與治療方案選擇等環節做出更精準的決策。此工具為 Mayo Clinic Platform 旗下數位健康服務生態系的重要一環，其設計強調與現有電子病歷系統的無縫整合，降低醫師工作流程中斷的風險。該工具的推出代表頂尖學術醫療中心將自身臨床知識資產轉化為可規模化 AI 產品的新典範，對於尋求引進臨床決策支援系統的醫院具有重要參考價值，同時也反映出醫療 AI 市場從單點功能工具向系統性診療輔助平台演進的趨勢。",
+      "tags": [
+        "臨床決策支援",
+        "Mayo Clinic",
+        "AI平台",
+        "電子病歷整合"
+      ],
+      "author": "未標示（Fierce Healthcare｜2026-11-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcVpvdFdnQWI4NW1vaFF0eXJjMlBHOEwwQU9MU0pYV09ycVA4ODZxRHdaYlZHTWtwVUdmeC1fckFpVHZSZlNvNWVBUzhrVHNZUlh4eTE1RkZ5Nk14aDNtZS0wNHhzcHVRM3pqX0U3ak9zQlE4SzhadTdTV2Z3Ym4yM204WkFIZXctVXBLeVB4Z0kwdV9oVXNqWjBiX2NiY3ZQWHV3RklrUU9idEFXeTlYc0ZUS1JuQTEtelE?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "台灣 AI 基本法施行後，產業如何落實 AI 治理？",
+      "summary": "台灣《人工智慧基本法》正式施行後，各界關注企業與醫療產業應如何具體落實 AI 治理要求。聯合新聞網報導指出，法規框架的建立僅是起點，產業界面臨的核心挑戰在於如何將法律條文轉化為可操作的內部管理機制，包括風險分類分級、演算法透明度要求、資料使用合規審查，以及建立 AI 系統問責制度。對醫療機構而言，AI 基本法的施行意味著院內 AI 採購、開發與部署流程須全面檢視是否符合新法精神，尤其在涉及患者診療決策的高風險 AI 應用場景，須優先建立完善的驗證、監控與申訴機制，以確保符合法規要求並維護患者權益。",
+      "tags": [
+        "AI基本法",
+        "台灣AI治理",
+        "法規合規",
+        "醫療AI監管"
+      ],
+      "author": "未標示（UDN｜2026-11-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1MzVRZUpad18ySnRkaWpZckZHQ0llTXFVQUhzZUtreUJkN2dIaldXTlEyNGllbnM1N1NhT1RENDF2cHplczZWYVkxTHFtXzhJ0gFWQVVfeXFMTzNCVE9Sd1VOd0RCcDAzSjJOdUFHQUFaWVFfQ3BXNW1aZERGMGRsNU9vdjY5ZHlaYTJZTFBWVFUzMEJxYkgtZHdsNmU3RmtBUE94cm44dFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 6.5,
+      "title": "AI 醫療應用日益普及：患者應掌握的益處與潛在風險全指南",
+      "summary": "隨著 AI 診斷工具、智慧影像判讀及個人化治療建議系統在醫療場域快速普及，台灣商傳媒整理了患者視角的 AI 醫療應用指南。報導涵蓋 AI 在早期篩檢、影像輔助診斷、慢性病管理等領域的實際效益，同時揭示患者應注意的潛在風險，包括演算法偏差可能導致的誤診、資料隱私保護疑慮，以及 AI 建議缺乏透明解釋性等問題。文章強調，患者在接受 AI 輔助醫療服務時，有權了解 AI 系統是否已獲主管機關認證、其訓練資料的代表性，以及最終診療決策仍應由具資格醫師主導確認，以確保就醫安全與品質。此報導對醫院推動患者 AI 衛教工作具有參考價值。",
+      "tags": [
+        "患者衛教",
+        "AI醫療風險",
+        "台灣醫療AI",
+        "演算法透明度"
+      ],
+      "author": "未標示（商傳媒 SUN MEDIA｜2026-11-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNb2IwVE1PQmo5TlRZdFVEQ2FNdTdxc3V2aFNYS3F0bURuT3EtbjdMU1NzNHMwMlJRUi16MXlMWF9VMlkwUldjWktPeEhmUlViMzlzLUxwdGNOWVJMRTlyd0JkV2c5bXdveWVNcWVuS0t0ZEpyY0ktMG42ZDNEc0Fzc25QMFVCbkdWZHZJLWtxdnFnd1JOOG5WT2RCeEU3Y0JSQjd5WG5uWDFtSnFJcDl3SkYtNEZLT3BfMEhMZFJGemNzMkxjc0JIQi1ld2c5Vk5ia1ZFdUFreHl0amdtcXdjdkU0Q3RrRGhmTkt0X0xLRzhOZ3pxaXZKY3VXUmtCaHdWaUhHbzZZMnYtZkpRdVB3UEpPaEtfcFI5MjM2TGJUWXk2SUtuU1RsZkZhczFla0NvUEhnNzZ6TzVYVDJQemI5RTJxSnZlRnJidnRFeTlNUDVOZTVPdFU4cktyV2lJYW5nTmxOZQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 5.5,
+      "title": "醫療 AI 在臨床場域的應用探討：Ganga Hospital 年度演講聚焦 AI 實務挑戰",
+      "summary": "印度 Ganga Hospital 舉辦年度學術演講，以「醫療 AI 的臨床應用」為核心議題，邀集醫療專業人士深入探討 AI 技術在實際臨床環境中的部署現況與挑戰。演講聚焦於 AI 輔助外科手術規劃、術後照護預測，以及 AI 工具如何融入骨科與運動醫學領域的日常診療流程。與會者亦討論了 AI 導入面臨的障礙，包括醫師信任度建立、訓練資料品質、在地化調適需求，以及偏鄉或資源有限醫療機構的部署可行性。此類實務導向的臨床 AI 論壇有助於彌合技術開發者與第一線醫師之間的認知落差，對於正在規劃 AI 導入路徑的醫療機構具有借鏡意義。",
+      "tags": [
+        "臨床AI應用",
+        "醫療AI實務",
+        "AI導入挑戰",
+        "醫師教育"
+      ],
+      "author": "未標示（The Hindu｜2026-11-07）",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1A0d3BPRnRaN2hmdXFnUGdBQ2lvZG9SZ1I2Y2hPX2dzTEZsYjFTUTdBX1pfamdMbHc2amgxX290dXB5T2otU0IycGFUSV9FcjJGaE1BRFFLdVNFZEhjbmdUc2NpaUhReURXaXU2aDFwVFlxejRzanJILUVxb1Y4SHo3QTdaZFBLc0lJNUV5MTZIT21TbEJ4ZkQyYU9zb2FweEVKTkNLU0JNSlQ1ZFFiSDZZSXhzUjQwa2xKd0pub1hOQ0l0TFHSAcwBQVVfeXFMTW96aGxzNmFsbExHc0lXVTNVVzN5UnIwSUhqbHpDRVJSZVNDemU3dl9vN0hxa3J1UXZ1RUFOUXhwTktBUGhISTA0UlowYmQwbFg5QWdYc0wtRXlqOENOdEd1TmE0VG1uZUFSUEdRenl6WlQwMWdUSFlIWDhjWGxzLW83Y1ZOMlN3QWdkcl9UZUtFN19LTVJ5dmw0RkxVdmwwb0dVOWowRF9Db09NdDdlQlJkcml6a3RPY2hIMXhaeUhRaUNhaGxWTjZXZmJk?oc=5"
+    }
+  ]
+}
