@@ -1,0 +1,75 @@
+{
+  "date": "2026年11月09日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 7.5,
+      "title": "醫療 AI 安全不能只靠隔離：過度限制將錯失臨床價值",
+      "summary": "MedCity News 刊出一篇評論，針對近期醫療機構以「隔離 AI 代理人、限制其存取關鍵病患資訊」作為主要安全手段提出批評。文章指出，將 AI 工具視同約聘護理人員、僅給予最低限度資料存取權限，固然可降低資料外洩風險，卻同時大幅削弱 AI 在臨床決策、跨科協作與即時警示等核心場景的效能。作者認為，真正的 AI 安全應建立在嚴謹的身份驗證、細緻的存取控制與可稽核的審計軌跡之上，而非一刀切的隔離策略。這一觀點對正在制定院內 AI 治理框架的醫療機構具有直接參考價值，提醒決策者在安全性與臨床可用性之間尋求平衡，避免因過度保守而喪失 AI 導入的實質效益。",
+      "tags": [
+        "AI安全",
+        "醫療AI治理",
+        "臨床資料存取",
+        "AI部署策略"
+      ],
+      "author": "未標示（MedCity News｜2026-11-08）",
+      "source_url": "https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/"
+    },
+    {
+      "rank": 2,
+      "score": 7.0,
+      "title": "放射科 AI 研究不當使用病患資料，學術機構正式發聲",
+      "summary": "Radiology Business 報導，一所學術醫療機構公開承認其放射科 AI 研究計畫中存在病患資訊遭不當使用的情形。事件涉及在未取得適當授權或未符合隱私保護規範的情況下，將病患影像或相關病歷資料用於 AI 模型訓練或研究分析。此案引發放射醫學界對研究倫理、知情同意及資料去識別化流程的高度關注。值得注意的是，本事件與去重清單中 2026-11-08 Weill Cornell 放射科相關報導屬不同機構、不同報導角度，顯示放射科 AI 研究資料合規問題已成系統性隱憂。對於正在推動 AI 輔助影像判讀的醫療機構，本案提醒應重新檢視研究資料使用協議、IRB 審查範疇及病患授權流程，以降低法律與聲譽風險。",
+      "tags": [
+        "放射科AI",
+        "資料隱私",
+        "研究倫理",
+        "法規合規"
+      ],
+      "author": "未標示（GNews-AI radiology｜2026-11-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdUhncklvd1BHMXgzRHRHVVZ1N2QyaFhJVF9CLW4tY0xSLXM3aUctM2JVcGhJYkk4WnhKX0o3QUdjT3hhREhOSS1HbUNKVTdpUkFiUkxrSTBFeWtKYm5wTEdEZnFKVXl2UEc2NlpISlBLSzMwbTdUY1ZZUEhTN2JLYXcxOHdxVkw5SC1SRlRhbkVvZnBCbVczUUVMcWxhY1VZNk44TWwxXzBZY0VNTTZIbG4tUVZmWnZTQ25vVFdqMGM3LTk4U0ExT2FYNDkwSWwxQXpr?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 6.0,
+      "title": "心臟新藥接連失利：AI 加速新藥研發的過度期待應重新檢視",
+      "summary": "STAT News 分析美國心臟學會（AHA）年會上多款心臟新藥臨床試驗失利的案例，並以此為鏡，呼籲業界對 AI 驅動藥物研發的期待保持理性。文章指出，過去數年間業界曾寄望於多種新興技術加速藥物開發流程，但實際商業化成果屢屢令人失望。AI 在分子設計、候選藥物篩選等環節雖有潛力，卻同樣面臨臨床轉化率偏低、模型預測與真實生物反應落差等挑戰。作者認為，當前 AI 藥物研發的炒作程度已超前於實證基礎，醫療機構與投資方在評估相關合作或採購決策時，應要求更嚴謹的臨床驗證數據，避免重蹈以往技術熱潮的覆轍。本文為醫院領導層提供了一個審視 AI 研發投資回報的重要視角。",
+      "tags": [
+        "AI新藥研發",
+        "臨床試驗",
+        "AI過度期待",
+        "產業分析"
+      ],
+      "author": "未標示（STAT News｜2026-11-08）",
+      "source_url": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "score": 4.5,
+      "title": "圓展科技旗下 AI 醫療產品榮獲 2027 台灣精品獎",
+      "summary": "DIGITIMES 報導，台灣影像設備廠商圓展科技（AVer Information）旗下兩項產品榮獲 2027 年台灣精品獎，其中包含應用於醫療場域的 AI 相關產品線。台灣精品獎為經濟部推動品牌形象的重要認證，得獎有助於企業拓展國際醫療市場能見度。此一訊息反映台灣醫療 AI 硬體與影像解決方案持續在國際舞台累積競爭力，同時也顯示國內廠商在 AI 醫療設備與專業影音整合領域的研發投入正逐步獲得肯定。對於評估採購國產 AI 醫療設備的醫療機構，此訊息可作為廠商產品品質認可的參考指標之一。",
+      "tags": [
+        "台灣醫療AI",
+        "AI醫療設備",
+        "台灣精品獎",
+        "產業動態"
+      ],
+      "author": "未標示（DIGITIMES｜2026-11-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXp3a3B0ZTJoZFhQMmdZV3ZCcEZKZDFRODdPVUR2a2ZPZl9zcjZJaTRidXdBT1NkM1F1c3huQWlfcDBVMmVSYjBObEJhWktUOWZBNjNxWG12STE0d3l0SkdQaTN5QzNzZlhkTDl5ZE1nc3VKM3Nuc0xFTTg4Y0pnaERpbV9JcUw0NHFjMHdzekR0bVp5b3M3enB3?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 3.5,
+      "title": "第九屆人工智慧與法律國際學術研討會聚焦 AI 法制議題",
+      "summary": "台灣民眾電子報報導，第九屆人工智慧與法律國際學術研討會於 11 月 7 日登場，匯聚法律學者、AI 研究者及政策制定者，共同探討 AI 技術在法律層面的規範挑戰。在台灣 AI 基本法施行後的政策環境下，此類學術論壇對於釐清醫療 AI 的責任歸屬、資料使用合法性、演算法透明度等核心議題具有重要參考意義。醫療機構在推動 AI 導入的同時，須同步關注相關法律框架的演變，以確保院內 AI 治理措施與現行及未來法規接軌。研討會討論成果預期將對後續 AI 相關子法規的制定方向產生一定影響。",
+      "tags": [
+        "AI法律",
+        "AI治理",
+        "台灣政策",
+        "法規動態"
+      ],
+      "author": "未標示（台灣民眾電子報｜2026-11-08）",
+      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZNXV3MDRQZUpyTWZ3ZlFSeGhpS3liR2hic3VIUG1jTkRvMXBGNGR4b2pBMXJYUEtMNFc1XzNObVFlbU1nQzZscA?oc=5"
+    }
+  ]
+}
