@@ -1,0 +1,145 @@
+{
+  "date": "2026年11月10日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "台灣醫護人力短缺危機：AI 如何成為醫療體系「神隊友」並開創科技新契機",
+      "summary": "面對台灣醫護人力嚴重短缺問題，AI 技術正逐步從輔助工具升級為醫療體系不可或缺的夥伴。CSRone 永續智庫報導指出，AI 可協助分擔醫護人員的重複性工作，包含影像判讀、病歷整理與行政流程自動化，有效釋放寶貴人力投入更高價值的臨床照護。報導同時點出，AI 醫療產業不僅能解決國內醫療量能不足的結構性問題，更具備發展成台灣下一座「科技護國神山」的潛力，在全球醫療 AI 市場中取得競爭優勢。此一論述呼應近期 DIGITIMES 報導所揭示的趨勢：醫療量能警報頻傳之際，AI 醫材與在宅醫療已成為台灣廠商積極布局的新焦點。對醫院管理層而言，如何有效引入 AI 以緩解人力壓力，同時兼顧品質與安全，將是未來數年的核心課題。",
+      "tags": [
+        "台灣醫療AI",
+        "醫護人力",
+        "數位轉型",
+        "AI醫材"
+      ],
+      "author": "未標示（CSRone 永續智庫｜2026-11-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zYTg0ZVFYbUN4Qy1mam9uTGpOZDV4bEcxNGVvUjQ2ZlNadWJIa01HM2lTcUtUd21aUVdXT21aT2tsSkVKTmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI 醫療隱私危機：美國醫療機構員工違規上傳病患資料至 AI 工具，台灣同步關注",
+      "summary": "蕃新聞轉載報導揭示，美國多家醫療機構出現員工未經授權，將含有病患個人健康資訊的資料上傳至第三方 AI 工具的違規事件，引發醫療資訊安全的高度警戒。此問題的核心在於，許多 AI 工具已廣泛滲透日常工作流程，但醫院內部的資料治理政策與員工教育訓練尚未同步跟上，形成嚴重的合規缺口。事件凸顯醫院領導層迫切需要建立明確的 AI 工具使用規範，並強化個資保護的稽核機制。台灣在《個人資料保護法》及即將正式落地的 AI 基本法框架下，相關主管機關與醫院資訊部門應參照此類國際案例，重新審視院內 AI 工具的採購、授權與使用管控流程，避免類似資料外洩事件發生。",
+      "tags": [
+        "醫療隱私",
+        "資料安全",
+        "AI治理",
+        "法規合規"
+      ],
+      "author": "未標示（蕃新聞｜2026-11-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAteXJlbURibmJLMXlUSU5PTVl6RUVZay0xWXhvcm9rRy1aRkcxblFmbVVYUWNwQlNGdVdDYzJoUTdnVnFaRG1ETGV1RXJBSDZZaWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "Mayo Clinic 將 AI 臨床決策輔助系統整合至常規醫療工作流程",
+      "summary": "Trend Hunter 報導指出，Mayo Clinic 正積極將 AI 臨床決策支援平台深度整合至日常臨床工作流程中，使醫師在診療過程中能即時獲取 AI 輔助的判斷建議與證據導向指引。此舉標誌著醫療 AI 應用從試驗性導入，邁向常態化、制度化的新階段。Mayo Clinic 的作法強調 AI 工具必須無縫嵌入既有電子病歷與診療流程，而非獨立運作的附加系統，以降低醫師的認知負擔並提升採納率。此一模式對有意推動數位轉型的醫院體系具有重要參考價值，尤其在工作流程設計、使用者介面整合及臨床驗證等面向，均提供了可供借鑑的實務框架。如何確保 AI 建議與臨床判斷的有效互動，仍是各醫院推進此類計畫時的關鍵挑戰。",
+      "tags": [
+        "臨床決策支援",
+        "工作流程整合",
+        "Mayo Clinic",
+        "數位轉型"
+      ],
+      "author": "未標示（Trend Hunter｜2026-11-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40bXEtVzZOWkxtMW9aeGJjRXpQN2cwYW8wMHJRS1N4MEd3cmQtOEZXcnlScWxHTTdyb2JZYy1mQ09XNjlzeU42ekpaOUIxYWlfTmk2TDNtSThfUnFKdFpfbS1sRTNxZ3M1RFFwZXpzSUZyWEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "AI 醫療判斷失誤的法律責任歸屬：病人生命誰來負責？",
+      "summary": "Yahoo 新聞報導聚焦一個醫療 AI 快速擴張下日益急迫的核心問題：當 AI 系統在臨床場域做出錯誤判斷並導致病患傷害時，責任應由誰承擔？是 AI 開發廠商、導入的醫療機構、還是採用 AI 建議的臨床醫師？報導梳理現行法律框架在面對 AI 醫療責任問題時的不足，指出台灣與國際間均尚未建立清晰的問責機制。隨著 AI 輔助診斷、影像判讀與治療建議工具在醫院中的普及，此一法律灰色地帶對醫院管理層及臨床科主任構成日益上升的風險。報導呼籲相關主管機關及醫療法律專家盡速建立 AI 醫療責任的明確歸責原則，並建議醫院在導入 AI 工具前完善合約責任條款與告知同意流程。",
+      "tags": [
+        "AI責任",
+        "醫療法律",
+        "病患安全",
+        "AI治理"
+      ],
+      "author": "未標示（Yahoo新聞｜2026-11-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObWdGMC0zcFptdVdTWDNtdXNqbzN4WmFYN3ZsWThwR0ZLU1BFT3hLQTNqb1YzYURBQVNnWGN4WHpNRnRranpNdDVOb1ZTWWVlc3g2VlFJY0xrZzJWYWFQRTRjMHE3RERCekxCZi0tREg5bXJ5QjVSbTlKTEFqb2dzWG5xQVFNdG9DWm1MY01wbDRVOHBXWmhRU29ZWDNRZmxyVlZwamxYY2RWT2VaaXlfNTlhS2VMNmc5elFVN2h3T0IxWFJ3RERhQmplTmVqaGlWMEpyM2ZxWkdWaVlFa3hYTi03UjhSQlNkOVlWcFVoSDZWdWs?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "為恭醫院擴大 AI 智慧醫療應用，搶救急重症黃金救援時間",
+      "summary": "中央社報導，台灣為恭醫院積極擴展 AI 智慧醫療應用範疇，重點聚焦於急重症照護場景中的黃金救援時間爭取。院方導入 AI 影像智慧偵測系統，能夠即時分析 CT、X 光等醫學影像，協助醫師在最短時間內識別腦中風、主動脈剝離等危急病況，大幅縮短從影像判讀到啟動治療的反應時間。此案例顯示，台灣地區醫院正從單一工具試驗走向系統性 AI 整合，尤其在急診與重症加護等時間敏感的臨床場域，AI 的導入效益最為顯著。為恭醫院的實踐經驗亦凸顯 AI 影像判讀與急診流程整合的可行性，對同樣面臨急重症資源壓力的醫療機構具有直接的參考意義。",
+      "tags": [
+        "急重症醫療",
+        "AI影像判讀",
+        "台灣醫院",
+        "智慧醫療"
+      ],
+      "author": "未標示（中央社 CNA｜2026-11-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yX0MwS1J6MFc4QUVVeWVqT3U4djNaNEZKZ1hQcURadWNVYUpFZk42VVAxNWlpN1JOWWtLRlo4M3UxTXdFOE53NWY3amF4bmU4dEowVVJWM0d2Yi1HTkVv?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "英國重新思考醫療 AI 監管架構：靈活與嚴謹之間如何取得平衡",
+      "summary": "Raconteur 報導指出，英國政府正針對現行醫療 AI 監管框架展開全面重新評估，核心議題在於如何在促進創新與保障病患安全之間取得適當平衡。現行監管體系被批評過於僵化，難以跟上 AI 技術快速迭代的步伐，特別是針對上市後持續學習型 AI 系統的監管機制仍有明顯缺口。英國政府傾向建立更具彈性、以風險分級為基礎的監管模式，同時強化上市後監控與不良事件通報制度。此一政策動向對台灣醫療主管機關及醫院資訊部門具有重要參考價值，尤其在 AI 基本法施行後，如何建立符合台灣情境的分級監管標準，英國的改革經驗可提供實務借鑑。",
+      "tags": [
+        "AI監管",
+        "政策法規",
+        "英國",
+        "醫療AI治理"
+      ],
+      "author": "未標示（Raconteur｜2026-11-09）",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQempvV2tPWHUzTzhEQXp1QkhSQV9xM2VoY01lOElvLXVIYVNKOHhzQVhVNUNMdFQzTjFuMjg4Z0VSVWZBM3VYdENaLVR0Rkl5YjFDWkF4NHRJcW9mWWZSOUpTY1pUd1MzbHlpRjlTM0daUlc3MGZ4VkNpcDBLOVdmWS1nRQ?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "放射科 AI 經濟效益系統性回顧：成本效益分析方法與現況全面盤點",
+      "summary": "Bioengineer.org 報導一項針對放射科 AI 經濟評估文獻的系統性回顧研究，全面梳理現有研究在成本效益分析方法論上的應用現況與不足。研究發現，目前已發表的放射科 AI 經濟評估研究數量雖持續增長，但在分析架構、成本項目界定及效益指標選取上存在高度異質性，導致跨研究比較困難，使醫院決策者難以從中獲得一致性的投資依據。報告同時指出，多數研究僅聚焦於診斷準確率的提升，對工作流程效率、人力成本節省及長期臨床結果的全面評估仍相當欠缺。此系統性回顧對醫院資訊部門及採購決策者評估放射科 AI 導入的投資回報具有方法論上的重要參考價值。",
+      "tags": [
+        "放射科AI",
+        "成本效益",
+        "系統性回顧",
+        "AI採購決策"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-11-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM2tOOTZ2WXpWa0c3T0lSV2NWZXdZN1ZmUmhPRV9lb2J0N1NPV2pEdnFEaTlIMXhmZEo4cW9ST1pVYlp4aGJEbjFwRXZYY1ZvVUh1b0V6QWM3NlJjZXlKdm90VUlPc2dGVFZVeW5IN0RjeEh4bEhrVHFBaF8xbVp5UHNyeGd6V3VNR241ZGU3V2c?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "加州醫院系統遭 AI 詐騙損失近 300 萬美元：醫療機構面臨新型態網路攻擊威脅",
+      "summary": "SFGATE 報導，美國加州一家醫院系統成為精密 AI 詐騙攻擊的受害者，損失金額高達近 300 萬美元。詐騙者利用 AI 技術偽造高層主管的聲音及通訊內容，誘導院內財務人員執行未經授權的匯款交易，整個詐騙手法高度複雜且難以即時識別。此案例揭示，隨著深偽（Deepfake）語音與 AI 生成內容技術的成熟，醫療機構不再僅面臨傳統資訊安全威脅，更需防範以 AI 為手段的社交工程攻擊。對醫院管理層及資訊安全部門而言，本案提供了強烈的警示訊號，建議重新審視財務授權流程、強化多重驗證機制，並對員工進行針對 AI 詐騙手法的專項教育訓練。",
+      "tags": [
+        "AI詐騙",
+        "資訊安全",
+        "醫院風險管理",
+        "深偽技術"
+      ],
+      "author": "未標示（SFGATE｜2026-11-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZld2RmZoMzZoSXFMaWRIaHZ4aC1BWVNOMzBqT1NNZHJ6VzB5N0RudjFkMXByYTZVTW5aZERad0tOaFJZRFpMYXJFOTNDOHVlUHhlclZpdXVCRzQtZE5McHZhRUlVSHBRekhwVzBtOWVFQ2hDV0JWUy1UQndadzdjNmpIUWpOSjc1?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "AI 聊天機器人能否突破男性心理健康就醫障礙？最新研究探索新可能",
+      "summary": "STAT News 報導一項探討 AI 聊天機器人在男性心理健康促進中潛在角色的研究。傳統上，男性因社會文化壓力普遍不願主動尋求心理健康協助，造成憂鬱症、焦慮及自殺風險的嚴重低估與低就醫率。研究發現，AI 聊天機器人因其匿名性、無評判感及隨時可用性，可能比傳統面對面諮商更容易讓男性願意開口談論情緒困擾。儘管目前 AI 聊天機器人在同理心深度、危機辨識及臨床準確性上仍有明顯限制，無法取代專業心理治療師，但作為初步篩檢與轉介的輔助工具，具有值得進一步驗證的應用潛力。此研究對精神科及心理健康服務規劃具有參考意義，但臨床採用前需謹慎評估安全性與倫理框架。",
+      "tags": [
+        "心理健康",
+        "AI聊天機器人",
+        "男性醫療",
+        "數位心理健康"
+      ],
+      "author": "未標示（STAT News｜2026-11-09）",
+      "source_url": "https://www.statnews.com/2026/11/09/ai-chatbots-can-overcome-mental-health-barriers-in-men/?utm_campaign=rss"
+    },
+    {
+      "rank": 10,
+      "score": 6.0,
+      "title": "AI 加速生物武器風險：美國政府推出新規範管控雙用途 AI 研究",
+      "summary": "STAT News 報導，美國川普政府針對 AI 技術可能加劇生物武器擴散風險，推出新的管制指引。報導指出，AI 在加速新藥研發的同時，也可能使不法行為者更容易設計具威脅性的生物製劑，形成雙用途技術困境。新規範旨在對具潛在生物安全風險的 AI 研究設置護欄，要求相關機構進行風險評估並限制特定資訊的公開分享。此一政策發展對從事 AI 藥物研發、生物醫學研究及與 AI 廠商合作的醫療機構具有法規遵循意涵，特別是在研究數據共享與 AI 模型訓練資料的管理上，需留意新興的合規要求與倫理邊界。",
+      "tags": [
+        "AI生物安全",
+        "政策法規",
+        "雙用途技術",
+        "AI研究倫理"
+      ],
+      "author": "未標示（STAT News｜2026-11-09）",
+      "source_url": "https://www.statnews.com/2026/11/09/health-news-new-rule-to-prevent-bioweapon-spread/?utm_campaign=rss"
+    }
+  ]
+}
