@@ -1,0 +1,145 @@
+{
+  "date": "2026年11月11日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "俄亥俄州立大學 Wexner 醫學中心與 Microsoft 簽署五年 2.5 億美元 AI 合作協議，打造「未來醫院」",
+      "summary": "俄亥俄州立大學 Wexner 醫學中心宣布與 Microsoft 簽訂為期五年、總額 2.5 億美元的 AI 與雲端合作協議，目標是共同建構「未來醫院」智慧資料系統。此合作將整合 Microsoft Azure 雲端平台與 AI 技術，應用於臨床決策支援、病患資料分析及醫院營運優化，涵蓋電子病歷串接、即時監測與自動化行政流程。這是近年來學術醫學中心與科技巨頭簽訂的規模最大醫療 AI 合作案之一，預計將重塑醫療工作流程並提升診療效率。此案對全球醫療體系具有重要的指標意義，顯示大型醫院系統正積極以長期戰略合約方式，系統性地引入 AI 基礎建設，而非零散部署單一工具。此舉也將加速業界對醫療機構 AI 轉型投資的預期。",
+      "tags": [
+        "智慧醫院",
+        "AI基礎建設",
+        "醫院數位轉型",
+        "產業合作"
+      ],
+      "author": "未標示（The Business Journals｜2026-11-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXZYRU9GTm1HczA1cmNfTXVvRFlmTFoxRW1RQWFhbnkwQ2hSbHk5WV9lTU5hWkYtRlN3cGV3MTA0U3lDSFBXcHdnTnVWT05wRnVBTkJVcV9iZVlDQzNNU1lQMWRKY09XR255NGpSVWkyMHVyNy0yRzhLWjJJZTBnTEU3YlRtVkV2VU1QRnRDUVZQajRQaXJFOThHbFQ2MEk"
+    },
+    {
+      "rank": 2,
+      "score": 8.8,
+      "title": "台灣衛福部下一階段醫療 AI 指引聚焦 Agent 自主行動治理，從內容生成邁向自主決策",
+      "summary": "台灣衛生福利部正積極研擬下一階段醫療 AI 治理指引，重點從過去的生成式 AI 內容管理，轉向對「AI Agent（自主行動 AI）」的規範。此類 Agent 能在無人直接監督下，自主執行複雜的臨床或行政任務，例如自動排程、藥物交互作用核查乃至初步診斷建議，帶來遠高於一般生成式 AI 的風險層級。衛福部的新指引方向顯示主管機關已意識到 AI 在醫療場域的應用正快速演進，現行規範框架需同步升級，以應對自主決策 AI 帶來的問責、安全與倫理挑戰。此一政策動向對台灣各醫療機構在評估、導入與治理新世代 AI 工具時，具有直接的法規遵循意義，醫院 AI 委員會與資訊部門應密切追蹤後續指引內容。",
+      "tags": [
+        "AI治理",
+        "衛福部政策",
+        "AI Agent",
+        "台灣醫療法規"
+      ],
+      "author": "未標示（iThome｜2026-11-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tcXZrdGdTWmtLU3pfUFZXdW5xNU8wc3pCdkI0aGtwNUczUHZDcUVuSmZVUTNyc2VPQVlPNnN1QjRBd3EtS2p2T2tTMEhR"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "台灣舉辦世界內科醫學會並發表 AI 醫療台北聲明：14 項原則強調醫師不能全盤接受 AI 判斷",
+      "summary": "台灣睽違 20 年再度舉辦世界內科醫學大會，台大醫院院長吳明賢指示制定「AI 醫療台北聲明」，提出 14 項核心原則，將於大會正式發表。聲明強調 AI 在臨床輔助角色中雖具重要價值，但醫師對於 AI 的診斷建議不能照單全收，必須保有獨立的臨床判斷與問責機制。此次聲明涵蓋病患權益保障、AI 透明度要求、資料隱私及倫理規範等面向，並邀集國際專家共同討論 AI 看診與機器人手術等新興應用的監管原則。台北聲明的發表，標誌著台灣在全球醫療 AI 治理論述中積極發聲，對於強化國內外對台灣醫療 AI 應用標準的認識具有重要的象徵與實質意義，各臨床科別應了解相關原則對日常 AI 輔助工具使用的影響。",
+      "tags": [
+        "AI醫療倫理",
+        "台北聲明",
+        "國際醫學會",
+        "臨床AI規範"
+      ],
+      "author": "未標示（ETtoday健康雲｜2026-11-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BaU5BcmZxWm9IVHZCaGFpYS1aUVo0cU12RFlneHItcElrcEZGcjNQV2ZfS3JNNUtWb0Q2Q09kcVZ5SVBsRURpSUVZYU1MY01J0gFPQVVfeXFMUGlLWVNIeGhCSkY2cjVBLUlUNDRiS09NWW9pcnkxVFB2TTRTeTh1c1otZ1VIR0JfUFlVNjJxVkRoTXM2bXF3WUZrTEJ0ODN2QQ"
+    },
+    {
+      "rank": 4,
+      "score": 8.2,
+      "title": "Oura 以 6.25 億美元收購臨床 AI 新創 Counsel Health，大力押注 AI 醫療照護市場",
+      "summary": "智慧戒指製造商 Oura 宣布以 6.25 億美元收購臨床 AI 新創公司 Counsel Health，計劃將其 AI 醫療聊天機器人與虛擬照護功能整合至 Oura 應用程式，使用者未來可透過 AI 取得醫療洞察並連線至有執照的醫師。然而業界分析指出，此併購案面臨兩大關鍵挑戰：一是保險公司與雇主是否願意將 Oura 戒指納入福利給付範疇；二是消費者是否接受比現行更高昂的月費訂閱。此案代表可穿戴裝置廠商正試圖從健康追蹤轉型為臨床服務提供者，模糊了醫療器材與消費電子的界線。對醫療體系而言，此趨勢意味著非傳統醫療機構正透過 AI 滲入臨床場域，值得關注其對醫病關係及資料整合的長期影響。",
+      "tags": [
+        "可穿戴裝置",
+        "AI虛擬照護",
+        "醫療新創",
+        "數位健康"
+      ],
+      "author": "未標示（MedCity News｜2026-11-11）",
+      "source_url": "https://medcitynews.com/2026/11/ouras-buys-counsel-for-625m-but-will-payers-and-consumers-get-on-board/"
+    },
+    {
+      "rank": 5,
+      "score": 7.8,
+      "title": "Allina Health 如何決定醫院 AI 的部署優先順序：從場景篩選到落地實踐",
+      "summary": "Healthcare IT News 報導了美國 Allina Health 醫療系統如何建立一套系統性框架，判斷哪些臨床或行政場景最適合導入 AI。Allina Health 的做法不是廣泛部署 AI，而是聚焦於評估具體問題的規模、AI 解決方案的成熟度、資料可用性及臨床工作流程的相容性，透過多維度篩選確保 AI 投資的實際效益。此案例提供了一個可複製的決策模型，對於正在規劃或評估 AI 部署策略的醫院領導層與資訊部門而言，具有直接的參考價值。在 AI 工具琳瑯滿目的當下，如何避免重複投資與效益不彰，建立嚴謹的場景評估機制至關重要，Allina Health 的經驗可作為國內醫院推動 AI 治理與優先排序的實務參照。",
+      "tags": [
+        "AI部署策略",
+        "醫院管理",
+        "臨床AI評估",
+        "數位轉型"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-11-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTGNkOFJOWEFLNENCak1XT1ZvUEtJY3ppMzZzamlNRVdfQTBwOHdvejBvUXJLeTY0QXJzNWlmaHBUeUMzdDFQMzh0b25sVUVVUGcyWktFOEJuX2kwT3pKS3p0d3FIemlTUm9hWDZKejhGdWZZeF9hNTBMLVEyMUtyQ2U1ZGpSTlFQN0x5YkJrV3dyaVRi"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "Google Cloud 推出 Gemini 醫療 AI 平台預覽版，同步與 GoodRx 及以色列 Clalit 醫療機構展開合作",
+      "summary": "Google Cloud 正式推出以 Gemini 大型語言模型為核心的醫療 AI 平台預覽版，同一時期傳出與美國藥價平台 GoodRx 及以色列最大醫療機構 Clalit Health Services 建立合作關係，標誌著 Google 在醫療 AI 領域的布局加速擴張。GoodRx 的合作預計將 AI 整合至藥品查詢與患者健康管理；Clalit 的合作則預計應用於大規模臨床資料分析與疾病風險預測。Gemini 醫療 AI 平台的發布，代表 Google Cloud 正積極搶占醫療機構的 AI 基礎建設市場，與 Microsoft Azure 展開直接競爭。對醫療機構資訊部門而言，此一多方布局的平台生態將影響未來的供應商選擇與 AI 工具整合策略。",
+      "tags": [
+        "Google Cloud",
+        "醫療AI平台",
+        "Gemini",
+        "產業合作"
+      ],
+      "author": "未標示（StreetInsider｜2026-11-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHR6bkZFRVBwTTIyNVk5cmx5cGZPYW9LaV9KaEE1VVNseEZUY0NXZGQwWl9maThKbHkwMHdCRlNXR1NtYjdSd0lZdlNWZ1dqZmM1eWtpU3dHUVQ3LUthejBtQTBuRUdCeGxUWFZFNk0zN3dtSlFrVDJiWW8yZXlDeDR0WGJUeVhTb2k0aGh2MVV2VW01c3I2QWl2c01YdmZHWEQ1MV9XakMxVXpUYXdBMUxDemZFcHVWVDdQZGtac0h2WEU"
+    },
+    {
+      "rank": 7,
+      "score": 7.3,
+      "title": "Alterra Labs 獲得 1,250 萬美元種子輪融資，專注建構醫療 AI 壓力測試與訓練環境",
+      "summary": "新創公司 Alterra Labs 宣布完成 1,250 萬美元種子輪融資，專門建構用於醫療 AI 模型的壓力測試與訓練環境。其核心理念是在醫療 AI 工具上市前，提供系統性的模擬臨床環境，測試模型在邊緣案例、資料分布偏移及高風險情境下的穩健性，以降低臨床應用失誤風險。此一賽道的崛起，呼應了業界對醫療 AI 安全驗證需求的迫切關注，特別是在 FDA 加強對 AI 醫療器材上市後監控要求的背景下，預先壓力測試將成為合規與品質保證的重要環節。對於正在評估或已部署 AI 工具的醫療機構，此類第三方驗證服務的出現，提供了強化 AI 安全管理的新工具選項。",
+      "tags": [
+        "醫療AI安全",
+        "AI驗證",
+        "新創投資",
+        "模型測試"
+      ],
+      "author": "未標示（Fortune｜2026-11-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVk5obDRfYUVMT2xmcm1HbXBsQTVhTURpU045N0ZpM1lQNFR0WTRzeXk2WmFNVk1QMFd4SXFLUW03eG1wLTFGTUlvVVkybXdvMGU0dHBzcUJTVXkySk90Rkktc3lhQjdCdlBYU0FBX2hyQkRDWnpMZ1VSRWJnc3Y1WnVJWkdGZHRWNW5VTThyZFBGMnFvM0JObVlnZlRSc2dqS0Jr"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "韓國醫院導入 AI 抗生素處方決策支援系統，漢陽大學江南聖心醫院率先建置抗生素管理輔助平台",
+      "summary": "韓國漢陽大學江南聖心醫院宣布與 HUVER 合作，建立以 AI 為核心的抗生素處方管理決策支援系統（Antibiotic Stewardship Decision Support System），旨在協助臨床醫師依據患者個別狀況、細菌培養結果及抗藥性資料，做出更精準的抗生素選擇與劑量決策。此系統的建置是全球抗生素管理運動（Antimicrobial Stewardship Program）的重要實踐案例，透過 AI 即時分析大量臨床變數，降低不必要的廣效抗生素使用，有助於遏制抗藥性細菌的擴散。對台灣醫療機構而言，抗生素管理是感染管制的核心議題，此案例展示了 AI 在感染科及藥事管理領域的具體應用場景，具有臨床參考價值。",
+      "tags": [
+        "抗生素管理",
+        "臨床決策支援",
+        "感染管制",
+        "AI臨床應用"
+      ],
+      "author": "未標示（스포츠조선｜2026-11-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQkZndU9pWkZxUmR1LUxJWjRlNjRFZjdyS0VraUNwWXV5X2t0QnhzT0Iya2tqLTJyWkRMTHlsMW1TdHNVcTd1aVA3NlQ4aFFGWnpPVWRWMmUtWWxFLWdlSHg5c3pkMXh0eG1pLTQ2cmRTZFBZdjZnWnQ4VVAtNXlNWA"
+    },
+    {
+      "rank": 9,
+      "score": 6.8,
+      "title": "AI 健康建議即使內容正確也可能讓民眾更不健康：研究揭示行為影響的隱憂",
+      "summary": "STAT News 刊登研究者投書，指出 AI 提供的健康建議即便在事實層面完全正確，仍可能透過行為改變機制使民眾健康狀況惡化。研究指出，AI 健康訊息的呈現方式、語氣與框架，可能導致使用者產生過度安心感、減少就醫行為，或誤解風險等級，進而做出有害健康的決策。此一發現對醫療機構推動 AI 病患衛教工具、AI 健康聊天機器人及症狀自評應用具有直接警示意義，提醒開發者與部署單位在設計 AI 健康溝通時，必須納入行為科學視角進行評估，不能僅以資訊準確率作為唯一品質指標。",
+      "tags": [
+        "AI健康溝通",
+        "病患衛教",
+        "AI風險",
+        "行為科學"
+      ],
+      "author": "未標示（STAT News｜2026-11-10）",
+      "source_url": "https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/?utm_campaign=rss"
+    },
+    {
+      "rank": 10,
+      "score": 6.5,
+      "title": "醫療 AI 是否真正觸及最需要的患者？健康不平等議題引發關注",
+      "summary": "Medscape 發表深度報導，探討醫療 AI 工具在實際臨床部署中是否能真正惠及最需要幫助的患者群體，包括弱勢族群、偏遠地區居民及低收入患者。報導指出，目前多數醫療 AI 工具在大型都市學術中心開發與驗證，訓練資料缺乏多元族裔與社經背景的代表性，導致在邊緣族群中的表現顯著較差。此外，AI 工具的導入往往需要穩定的網路連線與智慧裝置，進一步加劇數位落差。對醫療機構而言，在評估 AI 工具時，除了考量技術性能，健康公平性應納入採購與部署的核心評估標準，以避免 AI 擴大而非縮小既有的醫療不平等。",
+      "tags": [
+        "醫療公平性",
+        "健康不平等",
+        "AI偏誤",
+        "弱勢族群"
+      ],
+      "author": "未標示（Medscape｜2026-11-10）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWlHZlhtdGVJemI0WFBUSkZTR29fQTZnMk9RSVFFN29Qb1IybFM5Ty1FeGI5YnBqVWhyU1htcDBMWDlPMFhPakZuSTdmbGNCQ0hRdW9DeDZOWFZSaUctWUZncHVjdEdIQTByU25ldTBLNkZZVTZIcl9hcnA3SW5MNTNsTGJBSjRDYXg3WkNKUFpwUjFjNTRaekdSTzlyWnNtbDlfM2g5cXJ3ZmJfTkE"
+    }
+  ]
+}
