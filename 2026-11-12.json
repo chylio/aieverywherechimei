@@ -1,0 +1,145 @@
+{
+  "date": "2026年11月12日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.2,
+      "title": "DeepMind 發表 AlphaGenome 2：AI 解讀單細胞 DNA 變異，精準醫療再突破",
+      "summary": "DeepMind 於 2026 年 11 月 11 日在 Nature 發表 AlphaGenome 2，這款超強基因體定序 AI 模型能夠預測特定 DNA 變異在哪種細胞類型中發揮作用，可識別的關鍵變異數量達前一代模型的近兩倍。AlphaGenome 2 透過深度學習整合單細胞基因體資訊，大幅提升科學家理解遺傳變異與疾病機制關聯的能力，對罕見疾病基因診斷、藥物靶點發現及精準治療策略制定均具重要意義。此技術突破被 Nature 專文報導，科學界高度關注其潛在應用場景，包括腫瘤基因體學、神經退化性疾病及遺傳性心血管疾病的分子機制解析。對醫院基因醫學中心及相關研究部門而言，AlphaGenome 2 代表 AI 輔助基因診斷進入新世代，未來有望加速從基因定序數據到臨床決策的轉譯應用。",
+      "tags": [
+        "基因體AI",
+        "精準醫療",
+        "DeepMind",
+        "單細胞定序"
+      ],
+      "author": "未標示（Nature｜2026-11-11）",
+      "source_url": "https://www.nature.com/articles/d41586-026-03673-0"
+    },
+    {
+      "rank": 2,
+      "score": 9.0,
+      "title": "AMA 要求立法保障醫師使用 AI 的法律責任：無論遵從或推翻 AI 建議皆應獲免責保護",
+      "summary": "美國醫師學會（AMA）正式要求國會立法，為醫師在臨床使用 AI 決策輔助工具時提供責任保護，無論醫師最終選擇遵從或推翻 AI 建議，均應受到法律保障。AMA 指出，目前法律框架對「AI 建議與醫師判斷不一致時責任歸屬」尚無明確規範，導致臨床端對採納 AI 工具存在顧慮，阻礙醫療 AI 合法落地。此一倡議直接回應了前線醫師的執業風險疑慮，也為各國醫療 AI 監管框架的制定提供重要參考。若相關立法成形，將深刻影響醫院採購 AI 工具的決策邏輯、使用政策設計，以及醫師教育訓練方向，對正在推動臨床 AI 導入的醫療機構而言，此一政策動向值得密切追蹤。",
+      "tags": [
+        "AI法律責任",
+        "臨床AI政策",
+        "醫師保護",
+        "AMA"
+      ],
+      "author": "未標示（Crain's Chicago Business｜2026-11-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1A1X3JsclJ3TFpYbU1UTVRoMVBqY3B0c3M5RGV5Z20zS0YxTVNlaWwzV04xTWhMVndZRXBtclBkM1hpMV9VNElLZnF6WXpIMGxGck9aenQ2Wm9oVTFjTER2ZFRUWE1zTmFveGJNV0JuWUk1Yzk3NGQyOEo3YlNpRk9R"
+    },
+    {
+      "rank": 3,
+      "score": 8.8,
+      "title": "台南市立醫院設定 90% AI 使用率目標，成為台灣智慧醫院推進標竿",
+      "summary": "Healthcare IT News 報導，台南市立醫院正式設定院內 AI 工具使用率達 90% 的積極目標，涵蓋臨床輔助診斷、行政流程自動化及病患照護管理等多個應用場域。此一具體量化目標在台灣醫療機構中屬率先表態，顯示地方公立醫院在智慧醫療轉型上已從「試點導入」邁向「全面普及」的戰略思維轉變。報導指出，台南市立醫院的做法可為其他尚在規劃 AI 導入路徑的醫療機構提供參考，包括如何設定可衡量的 AI 採用指標、追蹤實際使用情形，以及建立配套的員工訓練與品質管控機制。對台灣整體醫療 AI 生態而言，此案例亦凸顯公立醫院在數位轉型政策推動中的示範角色。",
+      "tags": [
+        "智慧醫院",
+        "AI導入",
+        "台灣醫療",
+        "數位轉型"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-11-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTlgwbWt4NWNwWjJHVGZtMTlRSzZ4b0R2SXRnUUJtUGhpeVFfSVNieVk1XzM1YlZnYXNSN1VhczJScTlvOEtUNGtiU05QSzV6cXpFT2Z4cXc3VGlwTnJCMGJOdzZkUlFWLUczeHZ1NkxXU0Q5NFVoVkRXeV95TkJXX1QzZFZ2Y1prSXlZUjQwNA"
+    },
+    {
+      "rank": 4,
+      "score": 8.5,
+      "title": "AWS 宣布啟動 1 億美元醫療 AI 計畫，加速全球醫療機構雲端 AI 建設",
+      "summary": "Amazon Web Services（AWS）宣布推出規模達 1 億美元的醫療 AI 專項計畫，旨在協助全球醫療機構加速雲端 AI 基礎建設、臨床資料平台整合及 AI 模型開發部署。此計畫涵蓋技術資源提供、夥伴生態系擴展及醫療 AI 應用場景共同開發等面向，顯示雲端巨頭持續加碼競逐醫療 AI 市場，與 Google Cloud 推出 Gemini for Healthcare 的策略形成直接競爭態勢。對醫院資訊部門及數位轉型團隊而言，此一大型投資計畫意味著未來醫療 AI 基礎設施的採購選項將更加多元，同時也帶動雲端廠商在醫療資料安全、法規遵循及互操作性等標準上的競爭，有助於整體生態成熟。",
+      "tags": [
+        "AWS",
+        "醫療雲端AI",
+        "產業投資",
+        "基礎建設"
+      ],
+      "author": "未標示（Vietnam Economic Times｜2026-11-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaThNaVBoRjFxMnp3ZTNubGdsbXpTZW1ZMXBCMUpHWFlQYmc0UFhSd3hSZ01GS3pWeW5RTGp4MWwzODVERGFrVldfVzJLRkZaOVF2cDJfejYxNURrYkRDTlBGQklJTlZGcjZYMVYwNnZGMWhmUjNVN1R3X2lZRTRCLUlWcw"
+    },
+    {
+      "rank": 5,
+      "score": 8.3,
+      "title": "AI 衍生發炎指數提升心血管風險預測準確度，超越傳統冠狀動脈鈣化評分",
+      "summary": "Radiology Business 報導一項最新研究，透過 AI 分析心臟電腦斷層掃描影像，自動計算出一種發炎相關指數（AI-derived inflammation score），其預測心血管風險的能力顯著優於現行標準指標冠狀動脈鈣化積分（CAC）。研究顯示，此 AI 衍生指數能從傳統影像中擷取過去人工判讀難以量化的細微特徵，提供更全面的心血管風險分層依據，有助於臨床醫師更精準識別高風險族群並提前介入。此一成果對放射科、心臟科及預防醫學領域均具重要意義，代表 AI 影像分析從「輔助診斷」進一步延伸至「風險預測與分層」的高附加價值應用，亦為醫療 AI 在心血管領域的臨床實證奠定基礎。",
+      "tags": [
+        "放射科AI",
+        "心血管風險",
+        "AI影像分析",
+        "預防醫學"
+      ],
+      "author": "未標示（Radiology Business｜2026-11-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMkFvcDFhR2hJMml3TE5paEdFbDJZa3lkcTVYeURmVjNJQmYtVWZLU1pqb2MxNllwcEZNX0F1SW9Eb1FtcXlqYjQzZHdfVUM3Y1lXX3lLYTg2LWVIWjhyQzRoU3Bha3M2d2RXY3RwWkpyVk8zNnZpNlVUVFRmTmVENi03ZW5OZzlPNGR1M05aOFF5NDJoX0hMOTl1blNweHNQWTlQNVI5cVRDcUFkWWtwVDRYREJTTlJxUVVvbVlRSUt5SmxfWmhaYi1UQV8xMTFNenlKbWZEWTA"
+    },
+    {
+      "rank": 6,
+      "score": 8.1,
+      "title": "醫療 AI 患者資料準備度挑戰：醫院資料品質成 AI 落地關鍵瓶頸",
+      "summary": "Healthcare IT Today 刊文深入探討醫療機構在推動 AI 應用時面臨的核心挑戰：患者資料是否已具備 AI 訓練與推論所需的品質、格式與完整性。文章指出，許多醫院雖積極採購 AI 工具，卻忽略底層資料基礎建設的整備程度，導致 AI 模型效能不佳或無法如預期落地運行。關鍵議題涵蓋電子病歷資料標準化、跨系統資料互操作性、歷史資料偏誤清理，以及符合隱私法規的資料治理架構。報導呼籲醫療機構在 AI 策略規劃階段，應將資料整備評估列為優先工作，建立資料品質監控機制，才能確保 AI 投資轉化為實際臨床價值，避免「垃圾進、垃圾出」的系統性風險。",
+      "tags": [
+        "醫療資料治理",
+        "AI導入",
+        "資料品質",
+        "電子病歷"
+      ],
+      "author": "未標示（Healthcare IT Today｜2026-11-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbHdQVkE0cVZud25qUnRNVWotX1lUTGxJZUgwa0FxaERzNnBHLWVMX2xwVkFxM0pKZFA4TFhybjlyNzVFbU5wNUJlaDdlV1dXYW1qcHFwZVhNM1RnSWNaZE9Bd1Z1ZWlBLU9XLUJwRWJlVWdSTERacnVkWkdZVFVkM0RaU3JJZWZaOEpYYldrTQ"
+    },
+    {
+      "rank": 7,
+      "score": 7.8,
+      "title": "南韓 AI 醫療轉診系統實測：委託書撰寫從 10 分鐘縮短至 10 秒，江原道率先啟用",
+      "summary": "南韓在江原道啟用全國首套公共醫療 AI「高速公路」系統，核心功能是自動生成醫院間轉診委託書，將原本需耗費 10 分鐘的人工填寫流程壓縮至僅 10 秒，大幅提升急重症患者的轉診效率。該系統整合區域醫療機構的病歷資料與床位資訊，透過 AI 自動比對患者病情與接收醫院能力，即時產出標準化轉診文件，減少因行政延遲導致的黃金救治時間損失。南韓政府將此定位為公共醫療 AI 基礎建設的示範案例，計畫逐步推廣至全國各道。此案例對正在規劃急重症轉診流程優化的台灣醫療機構具有直接參考價值，顯示 AI 在改善院際協作效率上的可行路徑。",
+      "tags": [
+        "急重症轉診",
+        "醫療AI系統",
+        "南韓醫療",
+        "流程優化"
+      ],
+      "author": "未標示（Koreabizwire｜2026-11-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHVhdEI4SWl5Y1MyQ0xrdG5YVzRBVHJoWXN6TFNHd0xBdENPR1RCNUtGUDQ5Nk9Wb1JscHQ0Wmdscm9iSUs4ZGZpWW9RV1RJVGtqaXBfZEVQZFZhUVNLNnZUeGFSX3dhUTB5Q09UZkYzUEtsSm9tNGcxeFY0cmwtdVhKTDk0bVZUMVd3Z3JZV3VZcWRQc3VBU0VqSWFKY2M2RXBmSEhR"
+    },
+    {
+      "rank": 8,
+      "score": 7.6,
+      "title": "MDCalc 推出 CrossCover：為臨床醫師使用生成式 AI 設置「震動條紋」警示機制",
+      "summary": "醫療參考工具平台 MDCalc 正式推出名為 CrossCover 的新功能，設計概念類似公路上的「震動條紋」，旨在當臨床醫師使用生成式 AI 醫療聊天機器人時，主動提醒其核實 AI 給出的答案是否可信。CrossCover 透過交叉比對多個可靠醫療知識來源，對 AI 輸出內容進行即時驗證，並以視覺化方式標示可信度等級，協助醫師在繁忙臨床環境中快速判斷是否需要進一步確認。MDCalc 共同創辦人 Graham Walker 在訪談中強調，「有時給 AI 更少的資訊反而能得到更好的結果」，這一觀點挑戰了業界對 AI 輸入越完整越好的預設假設，對醫療 AI 工具設計與臨床使用指引均具重要啟發意義。",
+      "tags": [
+        "臨床AI工具",
+        "生成式AI",
+        "AI可信度",
+        "醫師輔助"
+      ],
+      "author": "未標示（STAT News｜2026-11-11）",
+      "source_url": "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/?utm_campaign=rss"
+    },
+    {
+      "rank": 9,
+      "score": 7.4,
+      "title": "Anthropic 收購單人 AI 生技公司：一人一 AI 開發罕見疾病新療法，藥物研發模式正在重塑",
+      "summary": "Nature 報導 Anthropic 收購一家僅有單名員工的 AI 驅動生技新創，該公司運用 AI 工具針對一種罕見疾病開發出極具潛力的新治療方法，整個研發流程幾乎由 AI 完成大部分工作。此案例引發業界廣泛討論：AI 是否正在從根本上改變新藥研發所需的人力規模與組織架構？Anthropic 的收購不僅是技術人才的納入，更代表其對「AI 原生藥物研發」模式的戰略押注。對醫院附設研究機構及臨床試驗部門而言，此一趨勢預示未來藥物研發的進入門檻與合作模式將出現根本性轉變，小規模但高度 AI 整合的研發單元可能成為主流，傳統大型製藥研發流程面臨顛覆壓力。",
+      "tags": [
+        "AI新藥研發",
+        "生技AI",
+        "Anthropic",
+        "罕見疾病"
+      ],
+      "author": "未標示（Nature｜2026-11-11）",
+      "source_url": "https://www.nature.com/articles/d41586-026-03640-9"
+    },
+    {
+      "rank": 10,
+      "score": 7.2,
+      "title": "Charta Health 獲得 5,500 萬美元融資，加速推動 AI 醫療編碼自動化應用",
+      "summary": "醫療 AI 新創公司 Charta Health 完成 5,500 萬美元融資，資金將用於擴大 AI 驅動的醫療編碼（medical coding）自動化平台規模。醫療編碼是醫療機構收費、保險申報及醫療品質統計的核心行政流程，傳統上高度依賴人工操作，不僅耗時且錯誤率高，直接影響醫院營收。Charta Health 的 AI 平台透過自然語言處理技術分析臨床文件，自動生成符合規範的診斷與處置編碼，據稱可大幅提升編碼準確率並縮短申報週期。此輪融資反映投資者對醫療行政 AI 自動化賽道的持續看好，也呼應近期醫療 AI 界推動「超越單純加速」、重新設計系統流程的倡議方向，對正在評估醫院後台行政效率化方案的機構具有參考價值。",
+      "tags": [
+        "醫療編碼AI",
+        "行政自動化",
+        "醫療新創融資",
+        "醫院營運"
+      ],
+      "author": "未標示（商傳媒｜2026-11-11）",
+      "source_url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQTFYxU3BoOU1mYUl6Q3VFMHZCaGtwZU9jbk1aMlpPY2stRml3MERnTzlwMjRobWM0Y0NLRjdQdnM2aUNOUF9EbGNSajlyWU16a2t5MDlieEJPdnY5Nkx2MHYtM184MFpWX0tpNk8xNnJkLWlqNmhQZVJEdlplSmRvbEhmY19hb0ZxY1FLeHQ2aTlQSHJtazQtT0pRZG5DcG5sY3B3aXdaUzFvU1huRHpNbi1sX0dJNmlKd21wSmx3cXZfYnJfdERyeEJQOFB2dm9FVXFCN3lUVElsMjVoZFhYWXRXY2VvQVpsbThDYW9FZ2N6WVNDMExTSW1yY0FkM2d6VWJxcHp4a254X3NiOEdaQVk5LWhoaUJNeGhCV3NNOVNLVDJkQWJDenFNSFVLQ1hsTjNEcEtLZw"
+    }
+  ]
+}
