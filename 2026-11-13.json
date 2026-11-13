@@ -1,0 +1,131 @@
+{
+  "date": "2026年11月13日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "AI 生成照護計畫費用恐高於醫師處方？《新英格蘭醫學期刊》最新研究引發質疑",
+      "summary": "醫療機構近年積極投資 AI 以精簡工作流程、降低成本，但《新英格蘭醫學期刊》最新刊出的研究卻顯示，AI 自動生成的照護計畫，其實際醫療花費可能遠高於醫師親自開立的處方。研究挑戰了業界普遍預設的「AI 導入必然節省成本」假設，指出 AI 建議若缺乏適當的臨床篩濾機制，反而可能推升不必要的檢查或治療支出。此一發現對正在評估或已部署 AI 臨床決策輔助系統的醫療機構具有重要參考意義，同時也提示醫院領導層在計算 AI 投資回報率時，需將潛在的照護成本增幅納入考量。研究結果亦凸顯 AI 工具的輸出品質監測與療效審查機制的必要性，促使各界重新審視醫療 AI 商業模式與實際落地效益之間的落差。",
+      "tags": [
+        "AI照護成本",
+        "臨床決策支援",
+        "醫療AI效益",
+        "實證研究"
+      ],
+      "author": "未標示（MedCity News｜2026-11-13）",
+      "source_url": "https://medcitynews.com/2026/11/is-ai-really-saving-hospitals-money-a-new-study-raises-questions-about-the-cost-of-ai-driven-care/"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "2027年醫療 AI 趨勢預測：七大方向將重塑健康資訊科技策略",
+      "summary": "Healthcare IT News 彙整分析指出，2027年將深刻影響醫療機構 IT 策略的 AI 趨勢包含：自主式 AI Agent 全面滲透臨床工作流程、基礎模型在放射科與病理科的落地應用擴大、生成式 AI 與電子病歷系統整合加速、AI 資安威脅同步升溫、醫療 AI 監管框架逐步成形、跨院資料共享基礎設施需求急增，以及 AI 偏見與健康公平性議題受到更嚴格審視。報導指出，醫療機構若未能在 2026 年底前建立完整的 AI 治理機制，將在合規與競爭力上面臨雙重風險。對於正規劃中長期數位轉型路線的醫院資訊部門與領導層而言，此份前瞻分析具有策略性參考價值，可作為 AI 優先佈局與資源配置的重要參照依據。",
+      "tags": [
+        "醫療AI趨勢",
+        "健康資訊科技",
+        "AI治理",
+        "數位轉型"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-11-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlFXTml6WGtsbjJGWlhDLWRkdFRMY1c4c3lfMFJVbEZRRFZ2UWlzaktreU5pcU5XMFJiT3hjYkxHdXRqeTJYaHNJU0Y0OGtSRmw3QVFEcUVzczIwYjhKZVhPNzVGYUpORWNlVkdRYlpoTFJDUnc1cFozNjc3ZFl2MUowR2JlVTcxN3kwbW1kNA?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "Medicare AI 預授權實驗再生疑雲：新文件揭露更多治理隱憂",
+      "summary": "STAT News 報導指出，美國聯邦醫療保險（Medicare）推動以 AI 輔助事前授權審查的實驗計畫，近期遭新釋出文件進一步質疑其透明度與公正性。文件顯示，AI 系統在審查醫療服務給付申請時，部分決策依據不明，且對不同群體的核准率存在潛在差異，外界擔憂演算法可能系統性地不利於特定患者群體。此案已引發國會議員、患者權益倡議團體及學術界的廣泛關注，要求主管機關公開演算法審計報告。此一議題不僅涉及 AI 在保險理賠核准的倫理邊界，亦對全球正在探索 AI 預授權應用的醫療付款方與醫院提供重要的政策警示，凸顯 AI 決策透明度與問責機制的迫切性。",
+      "tags": [
+        "Medicare",
+        "AI預授權",
+        "演算法倫理",
+        "醫療AI政策"
+      ],
+      "author": "未標示（STAT News｜2026-11-12）",
+      "source_url": "https://www.statnews.com/2026/11/12/new-documents-raise-more-questions-about-medicares-ai-prior-authorization-experiment/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "放射科醫師每日使用 AI 比例攀升，研究顯示有助精進專業技能",
+      "summary": "AuntMinnie 最新報導引述調查數據指出，放射科醫師每日使用 AI 輔助判讀的比例持續上升，且部分研究顯示長期使用 AI 工具有助於醫師提升影像判讀技能，而非如部分人士所憂慮的造成技術退化。研究發現，AI 作為「第二雙眼睛」在偵測細微病灶方面表現突出，讓放射科醫師得以將更多注意力投注於複雜病例的整體判斷。然而，報告也提醒需持續監測醫師對 AI 的過度依賴傾向。此份調查對於放射科主任評估 AI 工具的採購策略、訓練計畫設計及技能維護機制，提供了具體的實證基礎，也呼應了放射科 AI 整合進入「常態化應用」新階段的全球趨勢。",
+      "tags": [
+        "放射科AI",
+        "影像判讀",
+        "臨床技能",
+        "AI使用率"
+      ],
+      "author": "未標示（AuntMinnie｜2026-11-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVUJ3WFJHMWxIVmVmSEFqMHJRd0Y5cWRFNnhpMmhJOVJuZFRGOFpBZldDeEtlandzRERzMThIeE1jdVk3NU9BVWZZaHdHNnAzMHB1cGtjdEhvOFpGU0tfVkIxWFFCTExONlhoLTRyRjE0UmZmZ2pvSlNRSFRla19pWWUwUnZXM2RTRHBVWExtY01NenNVQjRSSXV6WEx6WkI2YTJnZXUtY3RvN2N6MXVTdTExQnU3NEdlN2ZMM1RXWTJ4b3R1MW9Ea0NkNXg1akJDLVR3S0Y1QWRhRTk2MEE?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "基礎模型在放射科報告撰寫的潛力：作為輔助起草工具的新應用",
+      "summary": "AuntMinnie 報導分析大型基礎語言模型（Foundation Models）在放射科報告撰寫上的最新應用進展，研究顯示此類模型作為「起草輔助工具」時，能有效加速報告產出並降低措辭錯誤，特別在標準化描述詞彙與結構化報告格式方面表現良好。然而，研究同步指出模型在罕見病灶描述及跨語言應用上仍有明顯侷限，且需要放射科醫師進行嚴謹的最終審核以確保臨床準確性。報告也探討基礎模型與現有放射科資訊系統（RIS）整合的技術挑戰，以及如何在提升效率的同時維護報告品質。此研究對於評估引進 AI 報告輔助系統的放射科及資訊部門，提供了平衡且務實的參考觀點。",
+      "tags": [
+        "放射科AI",
+        "基礎模型",
+        "報告自動化",
+        "臨床工作流程"
+      ],
+      "author": "未標示（AuntMinnie｜2026-11-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQX0N3MVptYURib0t3aUxHeFdUOEhISG5VYXl5RXZpSHUyNmRNd0hjS29SSXA1SlJIWVBMdEpmN2ktOFVjcUlVamFRQ0d2dE1LbEtJQjA4Wi1Sd29IaXE0eUFSbl8xSFJUMWp5b3FFSTJTd2xNd0xGS0RQMlVoOFZDSUh5N19rWEc1aE8wd3VqaEoxUUJTM1NOLWJjVE9COHhMWVkwUWpzdDd4WEhuMldDbEVnNHU4TksxRWJKbVlaT3lSTDZLTXdzVFg0anV3bVNGQmVRRW1qcS0xOEw3cWg4TGlpQUt4MF82eUE?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "Zus Health 獲 3,300 萬美元融資，打造 AI 驅動臨床工作流程基礎設施",
+      "summary": "醫療資料基礎設施新創公司 Zus Health 宣布完成 3,300 萬美元新一輪融資，資金將用於擴展其以 AI 為核心的臨床工作流程基礎設施平台。Zus Health 的核心產品是一套整合式患者資料層，能將分散於不同醫療機構的健康資料即時彙整，供 AI 應用直接調用，以解決醫療 AI 落地時普遍面臨的「資料碎片化」問題。此次融資反映市場對醫療 AI 基礎設施層的高度關注，投資方認為，決定 AI 臨床應用成敗的關鍵往往不在於模型本身，而在於資料存取的完整性與即時性。Zus Health 的商業模式對於正在評估如何強化 AI 資料準備度的醫療機構具有參考意義，也呼應近期業界對患者資料品質的廣泛討論。",
+      "tags": [
+        "醫療AI基礎設施",
+        "臨床工作流程",
+        "資料整合",
+        "新創融資"
+      ],
+      "author": "未標示（Fierce Healthcare｜2026-11-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUjZORTJVZzI2LVJwVXplRVB4Z3VqSEMyNFcwQU9IRnQySE5XMlA3a3p2a1ZEbEVrRHJWQmJSZWM0a19MTkRjZ2d5eEJqd21WZ1JGVXBXYU51TTQ1ZEZpNXJlMmNiVVk0NDI1WksxM01ucnZNMkdWM2FqdEhkRk9jZlZBM2VDZE5Ed2RxR1k3Z0Z4aFJrdXAzdlVRVnoyV0RwbnhBWU9raXdPZXZ1Z05idnJiWUplNm9nclE?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "阿布達比攜手 Isomorphic Labs 與 AstraZeneca，2030 年前規劃最多 30 項 AI 醫療臨床試驗",
+      "summary": "阿布達比宣布擴大 AI 醫療研究投資，與 DeepMind 旗下 Isomorphic Labs 及英國藥廠 AstraZeneca 建立合作夥伴關係，計畫在 2030 年前主導或參與最多 30 項以 AI 加速設計的臨床試驗。合作重點涵蓋 AI 驅動的藥物分子設計、蛋白質結構預測應用於新藥開發，以及利用真實世界資料加快臨床試驗招募效率。阿布達比此舉被視為中東地區積極搶佔全球醫療 AI 樞紐地位的戰略布局，同時展現主權財富資本對生技 AI 長期投入的決心。此一跨國 AI 藥物研發聯盟模式，對於正在探索 AI 加速新藥研發路徑的製藥業與學術醫院研究團隊，提供了重要的國際趨勢參照。",
+      "tags": [
+        "AI藥物研發",
+        "臨床試驗",
+        "國際合作",
+        "Isomorphic Labs"
+      ],
+      "author": "未標示（三嘻行動哇 Yipee!｜2026-11-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPTWNuZk9qdDRjSjNWUVBSZGdfSnUxNndqbGlFTWpvXzlrbC13dDVfbjZMNXd5dDFqWjAtdTZISE1waHcxcmdZc09JMUhaOEU0QnowdjNDbzVySkNWZFJYUld3aTQ0cFdsQXI2NkNDVlZoYlJlRTZ3bjdneWpkU3FDc2VTbHhRVENSeUNsa2xLUU9XUUhOejZiaXh5dWNyWVNlY1ZubGxKOEZ3LTRfZWEwdXRGNUhhQ0RUT2p6emVOWXh1czY4ZFBTRU1teUhvdDlLMHZmVHlGVDlUNXN4YWQ1d1R1T3FuZkFJWWdZMDlkVDJiNzNNMlJicG5CMEZ5WUFNNlZsS3hrMkNhNUk1TE1QNE9TTDA3bkllZXM1eFM1b21ENEVZMEZqQjhMbDVoR1F0c3pfTzZ4ZkhiZVlOb3ZuVXVpOEF4QTFEVnc?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "a2z Radiology AI 獲歐盟 MDR 認證，單一系統可偵測頭頸胸腹骨盆 CT 共 182 項發現",
+      "summary": "a2z Radiology AI 宣布獲得歐盟醫療器材法規（EU MDR）認證，其 AI 系統能在頭部、胸部、腹部及骨盆 CT 影像中自動偵測多達 182 項放射科發現，涵蓋範圍之廣在業界屬領先水準。此認證代表該產品已通過歐盟嚴格的臨床安全性與效能審查，可在歐盟成員國醫療機構合法上市部署。該系統以單一模型涵蓋多部位多發現的設計，有別於傳統以單一疾病為目標的放射科 AI 工具，可望降低醫院導入多套系統的管理複雜度。對於正評估放射科 AI 解決方案的採購決策者而言，此認證進展提供了重要的監管合規參考，也顯示放射科 AI 產品的法規路徑在歐盟已逐漸成熟。",
+      "tags": [
+        "放射科AI",
+        "EU MDR認證",
+        "CT影像",
+        "醫療器材法規"
+      ],
+      "author": "未標示（Business Wire｜2026-11-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdk1NQVI2aFZicktYWTFsMGkxbkVTcUVVRDF4RjVDVjF0WXVaS2dtVjJLSEtHbHdzY2tIQ3Rral9pU2tkbUFHWGhqbUJHYXpPUER4Vld2ZUhMQjY3NWhzWnp0d1ZTRG9VbmJRQ0tKNV9Xb0U0c0p2QUc2aUdrdHJEUVNyUFFuSWxaWm5QQmNhN3RYenl1UkxXWV9IWUVFVi1FQ2hGRkpEdGZsRE1KejdCLVVqMlpBZFRaRHZhUUZVMF9hbHpKNExiaVJiQV96VlYyM2hGNWhzNFVBRDAyNFg5Z0JhQ0xyZ0QxUnlqMVYzVnhHZDUyek04a25RUnc4TEZNR3NBdlJkWQ?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "公眾更信任 AI 作為「解釋助手」而非「診斷工具」：研究揭示醫療 AI 信任分層現象",
+      "summary": "Bioengineer.org 報導一項最新研究發現，一般民眾對醫療 AI 的信任程度因使用情境不同而呈現明顯分層：當 AI 被定位為輔助醫師向患者解釋病情的「說明工具」時，民眾接受度顯著高於將 AI 直接作為獨立診斷工具使用的情境。研究指出，患者對 AI 的疑慮主要來自對演算法黑箱決策的不安，以及對醫師角色被取代的憂慮。此一信任分層現象對醫院在設計 AI 應用的患者溝通策略時具有重要參考意義，同時也提示 AI 工具的介面設計與定位說明，將直接影響患者接受度與使用成效。研究建議醫療機構在導入 AI 時，應將「以醫師為中介的 AI 呈現方式」列為優先設計原則。",
+      "tags": [
+        "醫療AI信任",
+        "患者接受度",
+        "AI溝通策略",
+        "診斷輔助"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-11-12）",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTlljSVhCWWZCQk52cFVvUEJhYnRSOGk0R3prQlBYMG1pdE9RZ2hYNlFPaS1raExBLWVMd3NIOFFRbzRsZkJ4aU1QazdZbUl5aWhDVElHcDdrWUw3U2luZlVjNlV4ZlZqY3VZeXJZRk9wemVJTzVubUVoNFAxbkJBUktraDVzZ2hsQlU4bUc1Wm1XOUlnakY1TUhzdHcxSVBDMEE?oc=5"
+    }
+  ]
+}
