@@ -1,0 +1,131 @@
+{
+  "date": "2026年11月14日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Dyania Health 與 NVIDIA 合作，將臨床推理 AI 部署於醫院內部伺服器，打破資料外傳疑慮",
+      "summary": "Dyania Health 宣布與 NVIDIA 合作，推出 Synapsis AI 臨床推理平台，部署於醫院自有 GPU 系統之上，讓病歷審查與臨床決策支援運算完全在醫院防火牆內執行，患者資料無需傳送至外部雲端。該方案採用 NVIDIA 的醫療 AI 基礎設施，能在院內進行即時圖表審查，協助醫師分析複雜病歷、辨識潛在診斷線索，並提供臨床建議。此舉直接回應醫院在 AI 導入過程中最核心的顧慮之一，即患者隱私與資料主權問題。多家醫院已進入部署階段，Q3 收入數據顯示市場需求快速增長。對於正在評估 AI 臨床應用的醫療機構而言，本地化部署模式（on-premises）可望成為兼顧效能與合規的主流路徑，尤其適合對資安要求嚴格的教學醫院與大型醫療體系。",
+      "tags": [
+        "臨床決策支援",
+        "院內部署",
+        "NVIDIA",
+        "資料安全"
+      ],
+      "author": "未標示（Fierce Healthcare｜2026-11-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQkZoc0Y1WWVRczl3ZUdKSjRfUk1KNFpSbThDVzlabGF2dmJOOG9sVFN2bWk5VTEwY3ZiNFMtcDBRRDI3LW9aMWYxZFJCckdrLTgycTBpX3JGVEJVeWR6cmt3cFVWVUhqT1NVX2VFTGJCSm9jNkNiNzhxMWFpSGRjVklneTEzbHdCYlkyMXhXOGNMdFlvLWVjV21R?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "Wolters Kluwer 收購 AI 臨床決策支援平台 AgileMD，強化循證醫療知識整合",
+      "summary": "醫療資訊巨頭 Wolters Kluwer 宣布收購 AI 驅動臨床決策支援平台 AgileMD，此舉將強化其旗下 UpToDate 等臨床知識資源的 AI 整合能力。AgileMD 專注於將臨床指引、藥物資訊與最新醫學文獻即時嵌入醫師工作流程，協助急診、住院及加護病房醫師在診療現場即時取得循證建議。此次收購代表醫療出版與 AI 臨床工具市場加速整合的趨勢，傳統知識供應商正積極透過 M&A 佈局智慧化點對點決策支援。對於醫院資訊部門而言，EHR 系統與第三方臨床知識 AI 的串接需求將持續擴大，未來採購決策需更審慎評估資料互通性與授權模式。",
+      "tags": [
+        "臨床決策支援",
+        "企業併購",
+        "循證醫療",
+        "知識整合"
+      ],
+      "author": "未標示（The Manila Times｜2026-11-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ2F3Tk9yTzRZSkhIQ0NZeGtZM3hUd1l1VGl0aWVmalN4Mnp1S1hkNWRQMzdYa19UYjZGZ2R1RDlvVE5jRWtpeFNLV1YtUFZDSGd2eTFCZ1EwWHBEeWpaX2k3RTlGZ0FQRHh3YXVkQkFFVGJpb0JHNjBGa094R3Z4T04zc3pBSTRBa2s1XzNpeUxsY01YUEdsOFF5a3ZOeFJmM1dTX2J5TTdsdUZ5WlFpZzJXRFVFczRkNXVFZldDMlp6X0ZPanhZTXUxQVY5cUlRRkpHWF93TURKdWZCTFd5TzdiR0RmZTNs0gHuAUFVX3lxTE9XSGFpQVNzUVZQX2h6MktQZXR5VThEYi11a3FzVFNSZEdnbWZnRng3UHpoakJQaTgwVThhVWtEM25rMXk0VklRQ0ZuVzJYN3ZUSVNzTS1yY2hQclJEUVNEY0JkcG00VXJiSnJicFp3dHk2dHRKRmUzUTRYMlFPRXpHV045N1RqT1pnSEdPZUU0TDdTcFFWVnVRZlRxWHlaUGRnLUwtVWNCMHozZVlyMjdDY2ZFMXdIam1KNG0wNHJnMXFrX2s4WjhUVDFxNlgtWkxBdVV5Vjc4TnExMU81M3VGNEdYbWhZajdJRTUtQmc?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "醫療 AI 臨床監管挑戰浮現：採用率攀升同時引發臨床督導新疑問",
+      "summary": "隨著醫療 AI 在各科別的採用率持續攀升，業界開始正視一個關鍵問題：當 AI 工具深度嵌入臨床決策流程，現行的醫師監督機制是否足以確保患者安全？The Next Web 報導指出，許多醫療機構在快速導入 AI 的過程中，尚未建立配套的臨床督導框架，包括 AI 建議的可稽核性、醫師覆核責任歸屬，以及 AI 錯誤的通報機制。此議題與台灣衛福部近期聚焦 Agent 自主行動治理的政策方向高度呼應，顯示全球醫療監管機構正同步面臨「AI 能力超前、治理框架滯後」的結構性挑戰。報導呼籲醫療機構在追求效率的同時，須同步建立責任鏈與人機協作規範，以防止 AI 自動化侵蝕醫師的核心判斷角色。",
+      "tags": [
+        "臨床治理",
+        "AI監管",
+        "病人安全",
+        "醫師監督"
+      ],
+      "author": "未標示（The Next Web｜2026-11-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jSzRucWowUmdpZlJBVDFPZTU1UlkzdE5iQnBSUDdkQzhxUHR0TkZ2RVVfb2xoZVNncDFsOFJmZk13T3lIV2ZFTlZ6R1ltZXIwUXg4T1hPcVFXN3Zjcmt5R3czN3lJSjdmTllaWjZET1hpMFR0RjBTWWtIWHc?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "AI 輔助臨床決策可提升醫師判斷得分：三國跨國試驗結果出爐",
+      "summary": "一項橫跨三個國家的隨機對照試驗結果顯示，醫師在使用 AI 輔助工具後，臨床決策評分顯著提升。試驗比較了有無 AI 輔助情況下醫師對複雜病例的診斷與治療決策品質，結果顯示 AI 輔助組在診斷準確率、治療選擇合理性及文件完整性等面向均有改善。此研究意義在於以嚴謹的 RCT 設計驗證了 AI 對醫師決策的正向影響，而非僅依賴觀察性數據。研究同時指出，AI 輔助效益在資源有限的醫療環境中更為顯著，顯示其在縮短醫療能力落差方面具潛力。這項跨國試驗結果為醫療機構評估 AI 臨床工具的投資效益提供重要循證依據。",
+      "tags": [
+        "臨床決策",
+        "隨機對照試驗",
+        "AI輔助診斷",
+        "醫療品質"
+      ],
+      "author": "未標示（Telehealth.org｜2026-11-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQldWRW9pRkZMQmQ4aVFGVmRkakVmMFB4UFluTzhjUjhIdXp4cWZxVjRnNHpqeDBWQWZtTWlxZFpXaV9jOVhHYldMMkd1V1FvMnRHN1RFYThqbWtUOWZFY3pRbGJnb3dNTjZWQl9IQ1lkVTZzWERFaC1lc0dGRTZiVFZrRS1OemxmeHFBU0FyTmtvQzUzSnItejRKZ3VLaHZFSDA0bzB4X0U4b0hBUHRLQ0p3My1CY2E2?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "醫療 AI 如何從概念驗證跨越到臨床實踐：Fierce Healthcare 深度分析落地關鍵",
+      "summary": "Fierce Healthcare 發表深度分析，聚焦醫療 AI 從試驗性概念驗證（pilot）過渡到正式臨床實踐的核心挑戰與成功要素。報告指出，許多醫療機構在小規模試驗中獲得良好成效，卻在全院規模部署時面臨組織文化阻力、工作流程整合困難、資料品質不均及維運資源不足等多重障礙。文章歸納出成功落地的共同特徵，包括：具備明確臨床問題定義、取得臨床領導層背書、設計配套的人員培訓計畫，以及建立持續監測 AI 表現的回饋機制。此分析對正在規劃醫療 AI 擴大部署的醫療機構具有直接參考價值，尤其提醒勿將試驗成功誤判為全面推行的充分條件。",
+      "tags": [
+        "AI落地",
+        "數位轉型",
+        "臨床實踐",
+        "組織變革"
+      ],
+      "author": "未標示（Fierce Healthcare｜2026-11-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbk9BVUpNeFZ1YTRyWVpYc1I1OTVfWHNHcWxIdjJJU3ZVRjN5M0ZQdUZyNmNLYXZuV1d3T1drUlF0YnRoTDdHeHZPX01pQ3NPRWpzNW9TZ3JCUHIwN2k3cG5aUnhyZzdYdWoxUmxiNFFndjkzcVlkdTgtNkJjUUw2VWRFeGw?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "AI 病理生物標記在攝護腺癌治療決策的角色：從診斷到跨疾病期的臨床應用",
+      "summary": "UroToday 刊載 Phuoc Tran 與 Zachary Klaassen 的深度分析，探討以 AI 為基礎的病理生物標記（AI-based pathology biomarker）如何在攝護腺癌不同疾病期輔助治療決策。該生物標記透過深度學習分析病理切片影像，能預測疾病進展風險、輔助分層治療選擇，並在手術、放射治療與荷爾蒙治療之間的決策中提供額外的預後資訊。文章強調，傳統 Gleason 評分系統存在觀察者間差異，AI 量化分析可望提升病理判讀的一致性與客觀性。此類 AI 病理工具正逐步走向泌尿腫瘤科臨床整合，代表 AI 從影像科延伸至病理科的重要趨勢，對癌症診療中心的檢驗流程規劃具參考意義。",
+      "tags": [
+        "AI病理",
+        "攝護腺癌",
+        "精準醫療",
+        "生物標記"
+      ],
+      "author": "未標示（UroToday｜2026-11-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQUHkzTEI5UTFQenpRSl9xX0xvLTFTRlYwRXJPanMzMHAyZVZyY28yRzRlYlNiU3BscnFkMDFTVi1GWnhZTjk3bEx1bW53bkd3RG9ldlBGOERSV2NqU2MyY3M0dUdoRUVnb043MG9wYXFCSFRUZGc5ZS1aQ2JFTFgtdjFFc3FJblRQRXdTOTBFQVpGTUV6MUZrbnM5eDg1Ym9Ba1NPS3VuenA2U1dDbm51dHltbzVLUlpFLUd1N3kwcnhucFZtVjdnbHZ4bmVRU28zY2pwanJQM1lLay1pQTR6SzMxTjctS2dtcV9nbEI5NWN5OF9tTUxNWENQdzRVR1h3alpMSFJMRWFkcGY4WHJPcm5DYmNrVmRpdEh5RzJmQUtHaE5raWZnR19mQlVXeWNPeEJUTFdn?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "甲狀腺病理 AI 模型存在隱藏特徵劫持與空間偏差風險，研究提出新警示",
+      "summary": "Bioengineer.org 報導最新研究發現，用於甲狀腺病理切片分析的 AI 模型可能存在兩項潛在缺陷：一是「隱藏特徵劫持」（hidden feature hijacking），即模型在學習過程中意外抓取與目標無關的特徵作為分類依據；二是「空間偏差」（spatial bias），即模型對切片影像特定區域過度敏感，導致分類結果受到切片製備方式影響。這兩項問題在模型驗證集上可能不易察覺，但在臨床實際應用時卻可能造成誤判。研究強調，病理 AI 模型在臨床部署前需進行更嚴謹的可解釋性測試（XAI）與跨機構驗證，以確保模型學到的是真正具臨床意義的特徵，而非人工偽影。此研究對正在評估病理 AI 採購的醫院具重要參考價值。",
+      "tags": [
+        "AI病理",
+        "模型偏差",
+        "可解釋性AI",
+        "甲狀腺"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-11-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekR3dENxVEZ5RVJFSWNpUzZOWTRBSVlFRXZ2eEhhTjVUOTFOemRhV2lubFNhMVd3NktqR2ktQTBlTDg1aXY2R1padnd0VDFHSUVvVXM5emwxN1h0TkxSS3pNQWtaY0RXTFREbFJWVWtTVGtKZ3lYVENNTlFLZU1EdHBiQk1WV1JJWVZ4b2ljSXUyY1BCZFZSYUpqTnktUElYZ1A3SDhLSHJqQQ?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "烏克蘭衛生部著手制定醫療 AI 法規，逾八成受訪臨床醫師已實際使用 AI",
+      "summary": "烏克蘭衛生部宣布正式啟動醫療 AI 監管框架的制定工作。背景數據顯示，調查中已有 80.5% 的受訪臨床醫師表示在工作中使用 AI 工具，使得法規制定的迫切性顯著上升。規範草案預計涵蓋 AI 醫療器材的認證流程、臨床驗證要求、責任歸屬界定及上市後監測機制。烏克蘭的案例反映一個全球普遍現象：AI 實際採用速度遠超監管框架建立速度，各國衛生主管機關正競相追趕。此一發展對台灣醫療 AI 政策制定者具參考意義，尤其在比較各國如何在加速創新與保障安全之間取得平衡方面，提供具體的政策思考路徑。",
+      "tags": [
+        "醫療AI法規",
+        "政策治理",
+        "國際比較",
+        "臨床採用率"
+      ],
+      "author": "未標示（Mezha.net｜2026-11-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95TF9DNXpzOU9BYlhXU2d1dHJmOWg3Y3BwREtaUUNveldCWS1ZNk0zcDBaRkdUdWtWWnpMMVJnd3o0aEtkSUJqRXZpVlFJVnItMGNhbm00a2RISVJPa2xpSENtbG1FeWhPaHBXN3lkM0VXLXV6RHd5VkF6QQ?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "台北醫學大學舉辦數位健康峰會，產官學共議 AI 醫療臨床落地挑戰",
+      "summary": "台北醫學大學主辦數位健康峰會，邀集產業界、政府機關與學術單位代表，共同討論 AI 醫療技術的臨床應用現況與推進策略。與會者聚焦於 AI 工具在台灣醫療機構的實際落地經驗，包括資料標準化、跨院資料共享機制、AI 模型臨床驗證流程，以及醫療人員訓練與接受度等議題。峰會亦探討健保資料庫在 AI 研發中的戰略價值，以及如何在保障隱私的前提下促進數據流通。此次峰會匯聚台灣智慧醫療生態系多方聲音，呈現台灣在 AI 醫療產業化路徑上的現階段進展與挑戰，對正在規劃智慧醫院策略的機構具有政策脈絡參考價值。",
+      "tags": [
+        "台灣醫療AI",
+        "數位健康",
+        "產學合作",
+        "智慧醫院"
+      ],
+      "author": "未標示（中央社 CNA｜2026-11-13）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jLUFqX21PMzFWLXFPS0JfNnZ5dGR6OGRHZUJpUEZZMExNUVAzX2szUmo5MWFfbWxMVURldlpsRy0zdkxzdWllSWZHTEI1MWNqYmNqTHRlTnRmN0ZHZHdV?oc=5"
+    }
+  ]
+}
