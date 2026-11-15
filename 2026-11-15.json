@@ -1,0 +1,89 @@
+{
+  "date": "2026年11月15日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "Bracco 與 Avicenna.AI 獲 FDA 核准腦動脈瘤 AI 偵測軟體",
+      "summary": "Bracco 與 Avicenna.AI 宣布，兩家公司共同開發的腦動脈瘤 AI 偵測軟體已獲 FDA 正式核准上市。腦動脈瘤一旦破裂可導致致命性蛛網膜下腔出血，早期精準偵測至關重要。此次獲批的 AI 軟體可自動分析腦部影像（如 CT 血管造影），協助放射科醫師快速識別動脈瘤病灶，有望縮短診斷時間並降低漏診風險。Avicenna.AI 為法國醫療影像 AI 公司，在顱內出血、骨折等急症影像判讀領域已有多項 FDA 與 CE 認證產品，此次與全球影像對比劑龍頭 Bracco 合作，代表 AI 診斷工具正以更完整的臨床解決方案型態進入市場。對於神經放射科及急診影像部門而言，此核准提供具監管背書的臨床輔助工具，具重要參考意義。",
+      "tags": [
+        "FDA核准",
+        "腦動脈瘤",
+        "放射科AI",
+        "影像診斷"
+      ],
+      "author": "未標示（GNews-FDA AI approval｜2026-11-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQX1JDakQ5Vld6eldCTjY5RXc1S1prUW13N3BXR1pCYnF0Tmo5REhveDZfdzBzTHNNSjhBcDM0RmY0WEhxZTJsWUNSdENDSEQ2bm5oQzBZWHhEdHVzM0tmXy1CZUhwUXlWOGdBQ0YwOTk4S2lKLXZoTEZPMkZkNHRCZ0g1bU5jZC0zVTBRUEQ1cWdwTWY0UDdBLTFBZFA1alpOVG5OakQxRElHWVR5QmsxZlJud2s1VHFwRzY0MWpWT1lhQnJBZEd2OElSLWxZeHYxSkZyM2swS3VzRkhkamdFTEkweVJIaGptNW5IbFJ3SExkUndfYnhWYms0bHlsY1pIRVNpXw?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "醫療 AI 文獻聚焦公平性，但病患自主權代表性嚴重不足",
+      "summary": "一項針對醫療 AI 學術文獻的系統性分析發現，現有研究雖普遍強調演算法公平性（Fairness）議題，但對於病患自主權（Patient Autonomy）的關注程度卻相對邊緣化。研究指出，當前醫療 AI 倫理討論往往集中於偏見消除、族群代表性等技術性公平指標，卻忽略病患是否真正理解 AI 輔助決策、是否有權拒絕或選擇 AI 介入等核心自主權問題。這一結構性缺口可能導致 AI 系統在技術層面符合公平性要求，卻在臨床實踐中侵蝕醫病關係中的知情同意原則。對於醫院推動 AI 導入的治理框架而言，此研究提示需在 AI 倫理政策中明確納入病患自主權保障機制，而非僅聚焦演算法表現指標，具有重要的制度設計參考價值。",
+      "tags": [
+        "醫療AI倫理",
+        "病患自主權",
+        "公平性",
+        "治理框架"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-11-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa1lMZjFXWHhkbmd4bVRGNm1za3g0cmdGZl9tSkJqVTBlMk1tdzk1djI2VGNkdGhtbWxoM0VMZTVSTzhGa1AwS0J0QVVjQ3p2TURidlJvbWJCWXlCeTNleW02TEx0VHZjTURmdWdHYUZfWW5CdVVYUDNnUnpKbjFOOVAyeTlKekUyZmpTS0hTWFBudHpkQ0d4MmxtQXFveFROZjZvSTVXaXF3czRBWUtMdjlmOXgyQkk?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "AI 問診漸成主流卻侵蝕公眾信任，醫病關係仍是核心",
+      "summary": "TechNews 科技新報報導指出，AI 問診工具在台灣及全球逐漸成為主流醫療輔助模式，但伴隨而來的是公眾信任感的結構性侵蝕。研究與調查顯示，民眾雖接受 AI 在初步症狀篩檢、衛教諮詢等低風險情境的輔助角色，但對 AI 直接參與診斷決策則存在明顯疑慮，核心原因在於 AI 缺乏情感連結、問責機制不清晰，以及對資料隱私的憂慮。報導強調，醫病關係中的信任基礎仍無法被演算法取代，AI 工具若要獲得病患長期接受，需在透明度、解釋能力與人機協作模式上持續優化。此議題對醫院推動 AI 門診應用及病患溝通策略具有直接的政策參考意義。",
+      "tags": [
+        "AI問診",
+        "醫病信任",
+        "台灣醫療AI",
+        "病患接受度"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-11-15）",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTVVuRG90WVg0RlNERzM4clN5QkJpd1JKY0t5dktJZmx2WWpPaHNKclZzOUVYaDVuLVl1ckl2UWJ2U1gyMmx2VjN0Q1U5ZERnR1Zxb2V0cjRTbVB0SEZHVWxRLUxaUDBrVVFXLUpreHNkNlRJTGlTRkRqN3d4bW5jU2QzU1FwWDVBMHJoSw?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "醫療 AI 能否在確保病患安全的前提下落地？MedTech World 深度探討",
+      "summary": "MedTech World 刊出深度分析，聚焦醫療 AI 在實際部署過程中如何在效能提升與病患安全保障之間取得平衡。文章指出，AI 系統在受控的臨床試驗環境中表現優異，但一旦進入真實世界的異質性病患族群與複雜工作流程，準確率往往下滑，且錯誤類型難以預測。關鍵挑戰包括：模型訓練資料與部署環境之間的分佈偏移、缺乏持續性的上市後監測機制，以及臨床人員對 AI 警示的過度依賴或忽視等行為風險。文章呼籲醫院在導入 AI 工具時，應建立嚴格的臨床驗證流程、明確的失效模式預案，並強化醫療人員的 AI 識讀訓練，以確保技術創新不以犧牲醫療安全為代價。",
+      "tags": [
+        "病患安全",
+        "AI落地挑戰",
+        "臨床驗證",
+        "醫療AI治理"
+      ],
+      "author": "未標示（GNews-Medical AI｜2026-11-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUQkF3T1FCZjRsNGc5WG0wZmJDdk9HcFd4bmQweGprbTJtNHBLN0ZSOUpRVGZEakpqY0VDUy1Yc0ctaGdWZXFwU0dGY1NtNUJYRnYwMDNfNDNtSlpMRDUxVlQ2WXNTTjlH?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "台灣院前 AI 心電圖判讀導入，優化急性心肌梗塞救治黃金時間",
+      "summary": "草根影響力新視野報導指出，台灣部分醫療機構已開始導入院前 AI 心電圖判讀系統，藉由在救護車階段即時分析病患心電圖，提前識別急性心肌梗塞（AMI）病例，並於抵達醫院前完成預警通報，使心導管室得以提前備戰，大幅壓縮門球時間（Door-to-Balloon Time）。此模式透過 AI 將診斷關口前移至院前環節，突破傳統「到院後才啟動診斷」的流程限制，對時間敏感型疾病的救治效率具有顯著提升潛力。報導強調，院前與院內系統的資料串接與即時通訊整合是落地成功的關鍵，亦涉及跨機構協作與緊急醫療體系的整體優化，對心臟科與急診部門的流程再造具有重要參考意義。",
+      "tags": [
+        "院前AI",
+        "心肌梗塞",
+        "急診醫療",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-11-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGWGM4Vjh3T3lwVXR1Qkktb25hTEloeXVqaW5QVTF5aGpKTWNnNTF3ZTh5MGRpcWZyVUprRjFOajF1Y3F4a2loZ1lR?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "AI 醫療能否成為台灣下一座護國神山？前科技部長陳良基揭關鍵",
+      "summary": "大紀元報導引述前科技部長陳良基觀點，探討台灣醫療 AI 產業是否具備成為下一個護國神山級戰略產業的條件。陳良基指出，台灣在半導體製造、醫療資料積累（尤其是健保資料庫）及臨床研究能量方面具備獨特優勢，若能有效整合 AI 技術與醫療場域，在精準診斷、新藥開發、智慧照護等領域均有全球競爭潛力。然而，他同時點出數據開放法規、跨部會協調機制，以及產學研醫的鏈結深度，仍是制約台灣醫療 AI 產業規模化的核心瓶頸。此論述對台灣醫院系統思考自身在國家醫療 AI 生態系中的定位與角色具有重要的戰略視野參考價值。",
+      "tags": [
+        "台灣醫療AI",
+        "產業發展",
+        "健保資料庫",
+        "數位轉型"
+      ],
+      "author": "未標示（GNews-台灣醫療AI｜2026-11-14）",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15ci1CbjFlWVVTS2g4ZHpKNnY5UnJZQlowZFM2T1RIaV9jNWpmcjIzdklkWTIyS1h0ZkdRZi0tTWJKRVdjWk4tSDJrelpxbGtZQWhlOU1LOXc0eWhsV1RlWnln0gFnQVVfeXFMUGNjVFFTYUt1WmdqdFVhNFVDU3BYdEwxbGhHV21uTGU4c1V2YnNzS1h4Z0hlS1gzZ0RNN1lPZUFCVXJXVnRGY3E1R2ZNelNJWE5GUS0zbmZkbWtsQ0g3WWNaSjdDSGRfOA?oc=5"
+    }
+  ]
+}
