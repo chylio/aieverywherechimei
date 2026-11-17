@@ -1,0 +1,103 @@
+{
+  "date": "2026年11月17日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Medtronic LINQ II 心臟監測器獲 FDA 核准搭載 AI 演算法，提升心律異常偵測能力",
+      "summary": "Medtronic 旗下植入式心臟監測器 LINQ II 獲 FDA 正式核准搭載新一代 AI 演算法，可更精準偵測心房顫動、心搏過緩及其他心律異常，預期大幅降低誤警報率並提升長期心律監測的臨床判讀效率。LINQ II 為皮下植入式裝置，主要用於不明原因暈厥、隱源性腦中風及陣發性心律不整的長期監測。此次 FDA 核准代表醫療器材 AI 嵌入式演算法在心臟科監測領域的重要進展，不僅強化設備本身的自動分析能力，亦減少臨床醫師需人工判讀的資料量。對於心臟科、神經內科及住院管理團隊而言，此類 AI 增強型植入裝置有望改善患者遠端監測品質，並優化門診追蹤流程。此消息對醫療器材採購決策及心律監測照護路徑設計具重要參考價值。",
+      "tags": [
+        "FDA核准",
+        "心臟監測",
+        "醫療器材AI",
+        "心律異常"
+      ],
+      "author": "未標示（ad-hoc-news.de｜2026-11-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXhlV2dRRWlzV3NNcU1rbEx1cjNrMHV2MXhBaXNiOVRFSHR2MzlabW5SQWdOUldlOGoyaTBPZlh0Q1dVcHU4am1WTWRkT2Y1VjF3RXVEUnBPN3dJYVhYbXpzLXRzazJJZUxxQ0lGd2F2c3JCaWdCSDdGY25mY2NxbUpGWWZGTzNjWkJVajFLLU52d0tFbGFQaGx1MlpsWG85ellQSWR0SXBIMFpKeFpZeVJYUzJSZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "Apple 攜手 OpenEvidence 啟動大規模 AI 醫療研究，招募 20 萬人實測對話式醫療工具",
+      "summary": "Apple 與醫療 AI 平台 OpenEvidence 共同宣布啟動一項大規模醫療 AI 研究計畫，預計招募多達 20 萬名參與者，實測以對話介面為核心的醫療級 AI 工具，並結合 Apple 裝置端側（on-device）模型進行運算。此計畫旨在評估 AI 健康對話工具在真實使用情境下的臨床效益、使用者接受度及安全性，同時探索端側隱私保護運算對醫療 AI 的可行性。OpenEvidence 原為臨床醫師設計的循證醫學查詢平台，此次與 Apple 合作將觸角延伸至一般使用者。研究成果有望為消費級醫療 AI 工具的監管框架、臨床驗證標準及醫病互動模式提供重要實證依據，對數位健康策略規劃及 AI 工具臨床評估具高度參考價值。",
+      "tags": [
+        "消費級醫療AI",
+        "對話式AI",
+        "端側運算",
+        "臨床研究"
+      ],
+      "author": "未標示（商傳媒｜2026-11-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQdDhxYXE1VWdGLUdvelg5dnpXaHJhTG1UclJWcDhLdTFLTkFIN3d1cUxUaU9yV3NhR2F0MXVOcFE1dC1wXzJHQU9XYVRnd2dzdXRJOGQwUm9jVmMwYk9mTXRycS1NMl9kWHFEdGh3eEVNZm9nZ3NaWTBWVUVROVF3Q1VuRktGUkMwd2d6SlpEYTRtZEVza281QndFdlg0SldyUDBZUWdXdWJ3c3BnbFZuNGlhWHpTclNSMGVyV2FGMzFwaHZTYXQ0TGRXalR4VF9QYmRIblRBcEpxRTkwNlVfM1A2X1ZqU3VDUFotWFBwR01PVFA1aVFXSFUxVjlERjktSk9tMUdmdjgyZHhwenMxMTFBNE9SbXZIZ0xDSXpaeWZjYm4yNW00Vkl2R3FvMjBRYTlaOUkxdVZ4UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "醫療 AI 創新需以安全與監管為先決條件，業界呼籲建立可執行護欄與財務誘因",
+      "summary": "MedCity News 刊載深度評論，指出醫療 AI 快速擴張之際，安全性與法規監管必須優先於商業部署。文章主張，唯有透過具強制力的技術護欄（guardrails）搭配合理的財務誘因設計，才能確保 AI 在提升醫療品質的同時，維繫醫病之間及社會大眾對醫療體系的信任。作者強調，現行醫療 AI 產品上市速度超前於監管能力，部分臨床決策支援工具缺乏嚴謹的前瞻性驗證，存在偏誤與安全風險。建議監管機構、醫院和開發商三方建立共同責任框架，並將 AI 績效指標納入支付機制，以推動負責任的 AI 創新落地。此論述對醫院領導層在評估 AI 採購、建立內部治理機制及與廠商談判條款時具重要參考意義。",
+      "tags": [
+        "醫療AI監管",
+        "AI安全",
+        "臨床治理",
+        "政策法規"
+      ],
+      "author": "未標示（MedCity News｜2026-11-16）",
+      "source_url": "https://medcitynews.com/2026/11/safety-and-regulation-must-lead-the-way-in-healthcare-ai-innovation/"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "Remedy Robotics 募得 6,200 萬美元，推進遠端血管內介入腦中風機器人邁向 FDA 核准",
+      "summary": "Remedy Robotics 完成 6,200 萬美元新一輪融資，將用於推進其遠端操控血管內介入機器人系統的 FDA 核准流程。該系統設計目標為讓介入神經放射科醫師得以遠距操作，對偏遠地區急性缺血性腦中風患者執行血管內取栓手術，解決專科醫師地理分布不均的問題。現階段腦中風治療受限於介入醫師必須親臨現場，此技術若獲核准將大幅縮短治療時間窗口並擴大治療可近性。對於神經外科、放射科及醫院急診策略規劃者而言，遠端手術機器人結合 AI 輔助導航的發展方向值得持續關注，亦可能影響未來區域醫療網絡的分工設計與遠距醫療投資布局。",
+      "tags": [
+        "手術機器人",
+        "腦中風治療",
+        "遠距醫療",
+        "FDA核准"
+      ],
+      "author": "未標示（HIT Consultant｜2026-11-17）",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzdQalFjOHF3d0pNbWlwdHpGb0Q0YUYzNW13eVA4TVIxZUdSNGR1X0lkR1JfU09hazFXQnRSVzM1aVNVd1R3bWprR3o2ZGNISzlpam1LVVBmQ1A0eE9NQnZZRVVxZXo5OGw2VXJWdnRLRk9QNGM2bkhGVmhrdUpMWEpfdklCd09TcDRVc1RycTNkNjd5bWJubC1FdHlKMGJXOWUwejdNa1hhVC1EOGl6eVZ6UDM?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "台大醫院以 AI 將醫材手冊轉化為智慧助手，榮獲醫材管理競賽金獎",
+      "summary": "臺大醫院開發 AI 智慧醫材管理系統，將傳統紙本或靜態數位化醫療器材操作手冊轉化為互動式智慧助手，協助臨床人員即時查詢設備操作規範、維護紀錄及耗材資訊，有效降低因手冊查閱不便導致的操作失誤風險。此系統於醫材管理競賽中榮獲金獎，顯示 AI 在醫院行政與後勤管理領域的實際落地成效。該應用以自然語言處理（NLP）技術為核心，讓護理師及醫技人員可透過對話方式取得正確操作指引，提升醫材使用安全性與管理效率。此案例對台灣各醫院資訊部門及護理行政主管具示範意義，說明 AI 工具不僅限於診斷輔助，亦可有效應用於醫院內部知識管理與操作安全。",
+      "tags": [
+        "醫材管理",
+        "自然語言處理",
+        "醫院資訊化",
+        "台灣醫療AI"
+      ],
+      "author": "未標示（經濟日報｜2026-11-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1icmtzaUl4bWtKaVBpa2Etdk1rbEgzRVFpTkpIVEpiNkRtWE43UG8yM2dNNThsaUJEWE82bDd5YkVrZ3Z6TVdQMGFfVW1sa194UEhVX1JlV2tUQQ?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "約翰多爾投資的初創 Tom Health 以 AI 重塑基層醫療，獲業界高度關注",
+      "summary": "知名創投人 John Doerr 公開談及以其已故兄弟命名的醫療 AI 新創公司 Tom Health，定位為以 AI 工具改善基層醫療（primary care）的可近性與品質。Doerr 表示此為「AI 最佳應用場景之一」，Tom Health 旨在透過 AI 輔助醫師進行病患評估、慢性病管理與照護協調，以應對基層醫療人力短缺與醫師過勞問題。此案例反映高風險投資人對基層醫療 AI 市場的強烈信心，也呼應全球基層照護數位轉型的迫切需求。對家醫科、內科及醫院整合照護部門的主管而言，此類 AI 工具的商業模式與臨床整合策略值得持續追蹤，亦有助評估未來基層醫療 AI 導入的潛在夥伴與方向。",
+      "tags": [
+        "基層醫療AI",
+        "醫療新創",
+        "AI輔助診療",
+        "創投"
+      ],
+      "author": "未標示（STAT News｜2026-11-16）",
+      "source_url": "https://www.statnews.com/2026/11/16/ai-company-tom-health-fix-primary-care-new-tool/?utm_campaign=rss"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "AI 工具以 4,000 萬張照片訓練，研究發現外貌顯老可作為健康風險預測指標",
+      "summary": "一項使用逾 4,000 萬張人臉照片訓練的 AI 工具研究顯示，當個人外貌年齡明顯老於實際年齡時，可能預示潛在的慢性疾病風險或生理老化加速，有望成為非侵入式健康篩查的新指標。研究人員指出，AI 模型可從面部特徵中擷取與心血管疾病、代謝症候群等相關的視覺線索，為初級預防提供輔助參考。此技術若經嚴謹臨床驗證並解決隱私與偏誤問題，未來或可整合至健康檢查流程，擴大 AI 在預防醫學的應用範疇。然而研究目前仍處於初步階段，外貌 AI 判讀的種族與性別偏誤問題需進一步審視，臨床採用前應審慎評估其效度與公平性。",
+      "tags": [
+        "預防醫學",
+        "AI影像分析",
+        "生物老化",
+        "健康篩查"
+      ],
+      "author": "未標示（TechNews 科技新報｜2026-11-16）",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdnFwYy04MExnbDdvaGVfMnVTQ0I4RkF0SHlnTGlYWWxBNkdqOTRiaHVwLU1CTTJDTWxGb3Nxal8zeVBZRzE1UUUwd2pjYjlLY2tZcFMwcFpxc3NkeDlQaWlBNEZER1VocWIyNDZTZkZDY0lIUlpaUlJJOEdSWGdCNVZtdnhnMDcyLXlUaFF3RFYwaFhKYnEzOEREbWJpRUFRbGxyS2RTbmZhdEVmQnY3VlZMWFh3TGhrUVZOTUdKODE2R0VZU25VcU9TR3ZwckUzejBLWE40Y1E1NTgxcFJYbDRPc3JXUQ?oc=5"
+    }
+  ]
+}
