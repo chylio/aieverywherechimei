@@ -1,0 +1,128 @@
+{
+  "date": "2026年11月19日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "醫療 AI 供應商整合加速：美國醫療體系預計 2028 年前削減近半數 AI 廠商",
+      "summary": "根據 Black Book Research 最新調查，美國各大醫療體系正計畫在 2028 年前將合作的 AI 廠商數量縮減近 50%。這波「AI 市場整合浪潮」反映醫療機構在歷經廣泛的 AI 試驗階段後，開始轉向精簡供應商、強調平台整合與投資回報的戰略取向。報告指出，醫院領導層對功能重疊、難以整合至現有工作流程的 AI 工具感到疲乏，並將優先保留具備互通性、可量化成效的供應商。此一趨勢對 AI 廠商生態系產生重大壓力，中小型廠商面臨被淘汰風險，而能深度整合 EHR 與臨床流程的平台型解決方案將更具競爭優勢。對醫院資訊部與採購決策層而言，此調查提供了重要的市場信號，應及早建立 AI 廠商評估與退場機制，避免資源分散。",
+      "tags": [
+        "AI廠商整合",
+        "醫療資訊化",
+        "採購策略"
+      ],
+      "author": "未標示（News-Press NOW｜2026-11-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPeFNHSEhTVHl1SjZHSjhxNXFHcWRNQmlBSnFuYWtXNzVKSXNkbEVOYlFUdm9mY1M5bk1xckc4N2tUYUJmRWRYSVRqVnIwZ1R5bWR0d3FRVHJpUTNpRXRwcDVyRUJSUEUwMWNMTFYzT2M0WmszVWV5bVE3aGV2MHdnVWNnbmEweDVRU3VRNVV1b001ckJUQl9PT3VyMG5FRHdxSUNmVzk3YUVmU1pTYm96YXRGdXNyWFhhcFc5WDFYRS1MMHNJWmx6N25PdlpRNng3R1hEQWN5X1JLTDA5T2dJeEgxRDhiMWVodjdCbzdRa19nblhtMTVuN2xHVDJNOUNRbFJkakpabEYzSjZzckZKRjIwWVhGX1JBVGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.2,
+      "title": "AI 生成的出院病歷摘要獲臨床評分高於醫師手寫版本",
+      "summary": "最新研究顯示，由 AI 自動生成的住院出院摘要在臨床評估中獲得比醫師手寫版本更高的評分。研究人員比較兩種版本在完整性、可讀性與臨床準確性等面向的表現，發現 AI 版本在結構一致性與關鍵資訊涵蓋率上表現更為突出。這項發現對於醫院推動 AI 輔助文書作業具有重要意涵：出院摘要是醫療照護連續性的核心文件，若 AI 能穩定提升其品質，將有助於降低院際轉介的溝通錯誤，並減輕臨床人員的文書負擔。研究同時指出，AI 生成內容仍需醫師審閱確認，以確保個別病患的特殊情境被正確呈現。此研究為推動 AI 文書自動化的醫療機構提供了實證基礎。",
+      "tags": [
+        "AI文書自動化",
+        "出院摘要",
+        "臨床品質"
+      ],
+      "author": "未標示（Medical Xpress｜2026-11-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelRfRW93d3ZXejRhZ3JlbHk4UFBSUlJGMWZmNFJ1WFRJR092WUI5VDZFMHJJaXNETGFDN3JzcU4tSTNxR3RkMTBKZEhDY1V6ejBzME1UMVpoNlI5MFVaVkZ2WERGd1d4dW9GS0lxS3JQUlpJTFRqZTVoLVZ3YzlLNy1KX1dEZ29ud3JjZ1pB?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "Epic Systems 承諾開放 AI 存取病歷資料，於 HLTH 大會捍衛競爭策略",
+      "summary": "電子健康紀錄巨頭 Epic Systems 高層在 HLTH 年度大會上公開為其競爭策略辯護，同時承諾將讓外部 AI 工具更易於存取 Epic 系統中的病患資料。此舉被業界視為回應長期以來對 Epic 封閉生態系的批評。Epic 承諾的 AI 開放存取路徑，對醫療 AI 廠商而言意義重大：若能順利實現互通，將大幅降低 AI 工具在 Epic 環境中的整合門檻，加速臨床 AI 應用的部署效率。然而，業界亦關注 Epic 實際開放的程度與條件，以及是否會形成新的平台壟斷格局。對於大量使用 Epic 系統的醫療機構，此發展值得密切追蹤，因其將直接影響 AI 採購與整合策略的規劃方向。",
+      "tags": [
+        "Epic",
+        "電子病歷",
+        "AI互通性",
+        "HLTH大會"
+      ],
+      "author": "未標示（STAT News｜2026-11-19）",
+      "source_url": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "score": 7.8,
+      "title": "AI 語音抄寫市場洗牌：贏家與輸家逐漸浮現",
+      "summary": "STAT News 最新 AI Prognosis 專欄深入分析臨床 AI 語音抄寫（AI scribe）市場的競爭格局，指出在眾多廠商湧入後，市場正快速進入整合與分化階段。部分廠商因能深度嵌入臨床工作流程、與 EHR 系統無縫整合而脫穎而出，另一些則因功能同質性高、缺乏差異化而面臨被淘汰的壓力。報導同時整理了 HLTH 大會上 AI scribe 相關的最新動態，包括各廠商的新合作案與功能更新。AI 語音抄寫被視為當前醫療 AI 商業化最成熟的應用場景之一，其市場走向對醫院採購決策具有高度參考價值，尤其對正在評估或已導入相關工具的醫療機構，了解市場贏家的共同特質有助於降低廠商選擇風險。",
+      "tags": [
+        "AI語音抄寫",
+        "醫療AI市場",
+        "臨床工作流程"
+      ],
+      "author": "未標示（STAT News｜2026-11-19）",
+      "source_url": "https://www.statnews.com/2026/11/18/ai-scribe-market-emerging-winners-losers-ai-prognosis/?utm_campaign=rss"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "Abridge 在 HLTH 大會宣布多項擴展計畫，凸顯 AI 融入臨床工作流程新趨勢",
+      "summary": "臨床 AI 筆記新創 Abridge 在 HLTH 2026 年度大會期間宣布一系列擴展合作與功能更新，進一步強化其在醫師工作流程中的整合深度。MedCity News 分析指出，Abridge 的動向折射出當前醫療 AI 的核心趨勢：AI 工具必須嵌入臨床人員既有的操作環境中，而非要求改變習慣。Abridge 透過與多家醫療體系合作，將 AI 生成的臨床摘要直接推送至 EHR 系統，大幅減少醫師的後續文書處理時間。此次大會期間的系列宣布，也反映出醫療 AI 市場正從「概念驗證」邁向「規模化落地」的關鍵轉折點，工作流程整合能力成為競爭核心，純技術展示已不足以打動醫療機構買家。",
+      "tags": [
+        "Abridge",
+        "臨床AI",
+        "AI落地",
+        "HLTH大會"
+      ],
+      "author": "未標示（MedCity News｜2026-11-19）",
+      "source_url": "https://medcitynews.com/2026/11/abridge-announcements-during-hlth-emphasize-growing-healthcare-trend/"
+    },
+    {
+      "rank": 6,
+      "score": 7.3,
+      "title": "FDA 宣布將 AI 正式改稱「超級智慧（SI）」，監管術語出現重大轉變",
+      "summary": "美國 FDA 宣布將在官方文件與監管溝通中，以「super intelligence（SI，超級智慧）」取代「artificial intelligence（AI，人工智慧）」作為標準術語，此舉在醫療器材與藥物監管界引發廣泛討論。RAPS 報導指出，FDA 此一決定雖具象徵意義，但並未強制要求申請廠商同步更改提交文件中的用語。業界對此反應不一，部分人士認為術語更迭可能造成法規溝通混亂，另一方則認為此舉反映 FDA 對 AI 技術能力認知的升級。對醫療 AI 廠商及醫院資訊部門而言，需關注後續 FDA 是否會據此調整審查框架或監管標準，以及此術語轉變是否預示更深層的監管政策轉向。",
+      "tags": [
+        "FDA",
+        "AI監管",
+        "醫療法規",
+        "術語政策"
+      ],
+      "author": "未標示（RAPS｜2026-11-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeU1UYzh0Y1NIdGxsTUo0b0xSTGI3RE1Ick5VeUYybWNSZlpfaVQ0MnV4YmlTQ1REdHRSOFNLMUd3RUhrTzRLTWhiOEJrLS0yQlEwdHl4cmljOTdqenpmWGJXdEFaQmlTU213S0NPaGNUR3lfVXVwX1RJdlRZdXVEU0hrSExDYVUyUFJNd0dKQnh4bjA?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "Dyania Health 與 NVIDIA 合作推出醫院 AI 平台",
+      "summary": "醫療 AI 新創 Dyania Health 宣布與 NVIDIA 建立合作夥伴關係，共同推出針對醫院場景設計的 AI 平台。此合作整合 NVIDIA 的 GPU 運算基礎設施與 Dyania Health 的臨床 AI 應用，目標在協助醫療機構更高效地部署與運行 AI 工作負載。NVIDIA 近年來積極切入醫療 AI 市場，透過提供基礎運算平台吸引臨床 AI 廠商建立生態系。Dyania Health 的加入進一步擴大了 NVIDIA 在醫院端的合作網絡。對醫院資訊部門而言，此類「運算基礎設施＋臨床 AI 應用」的組合式平台，可能成為未來醫療 AI 建置的主流模式，有助於降低多廠商整合的複雜度，同時也需評估對現有 IT 架構的相容性與採購彈性的影響。",
+      "tags": [
+        "NVIDIA",
+        "醫院AI平台",
+        "醫療資訊化",
+        "雲端運算"
+      ],
+      "author": "未標示（NJBIZ｜2026-11-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50QjJxdUZHTEFCZEJWclZ1NmFwODFFenE5TFo0LUlaaTNkcjVUcDVvZFVtclFmNlVZSjRwSUJtdzlVMnMzNXhmTjFrWE9SZjY1VEpCUVpfUjZEakN0Y1NSTQ?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.8,
+      "title": "AI 應用癌症轉移評估準確率達 91.5%，韓國 Deepnoid 研究成果受矚目",
+      "summary": "韓國醫療 AI 廠商 Deepnoid 發布最新研究成果，其 AI 系統應用於癌症轉移評估的準確率已達到 91.5%，接近或超越部分專科醫師的平均水準。Deepnoid 透過深度學習模型分析影像資料，自動判讀腫瘤轉移跡象，有望在腫瘤科輔助醫師進行更快速且一致的診斷決策。此研究結果顯示 AI 在複雜腫瘤學任務上的性能持續提升，對於影像診斷資源有限的醫療機構尤具參考價值。然而，臨床落地仍需通過嚴格的前瞻性驗證與法規審查。此類技術若能取得主要市場的監管核准，將對放射科及腫瘤科的 AI 採購決策產生直接影響。",
+      "tags": [
+        "腫瘤AI",
+        "癌症轉移",
+        "影像診斷",
+        "深度學習"
+      ],
+      "author": "未標示（파이낸셜뉴스｜2026-11-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTRS1rbkJqdk5TZGt6T1RiLWJ4T2NYVDlkRG00RGR2UmlsS2NOeWJ4Q055VkVlZFJZWC1XeFE4ODdMNEdLZlNhdUlzWDR6cXVNRERVTmFYUDM?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "TrendAI 揭露醫療 AI 風險：AI 幻覺與不當介入恐成照護隱憂",
+      "summary": "資安研究機構 TrendAI 發布報告，揭示當前醫療 AI 應用中存在的重大風險，包括 AI 模型「幻覺」（hallucination）生成錯誤醫療資訊，以及 AI 在未經適當驗證的情況下介入臨床決策流程，可能對病患安全造成隱患。報告指出，部分醫療 AI 工具在臨床場景中生成看似合理但實為錯誤的診斷建議或用藥資訊，若醫師未能即時察覺，恐造成實質傷害。報告呼籲醫療機構在導入 AI 工具前，應建立嚴格的輸出驗證機制與人工審核流程，並要求廠商提供透明的模型可靠性數據。此報告對正在評估或已部署 AI 輔助決策工具的醫療機構具有重要的風險管理參考價值。",
+      "tags": [
+        "AI安全",
+        "AI幻覺",
+        "臨床風險",
+        "醫療AI治理"
+      ],
+      "author": "未標示（iThome｜2026-11-18）",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VX0RlSUJXRFNmZ3AybHRGUGJ6di0tS0R4NFlubGRuUW5HM1FQQl9hMmEtUmRIWkthZjJ3RmFLVzl2VU9Ja1lUSmc1OA?oc=5"
+    }
+  ]
+}
