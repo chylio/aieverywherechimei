@@ -1,0 +1,145 @@
+{
+  "date": "2026年11月20日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "醫療 AI 研究重能力輕治理：最新研究揭示學術發展失衡警訊",
+      "summary": "一項發表於 Bioengineer.org 的最新研究指出，當前醫療 AI 學術文獻中，絕大多數研究聚焦於模型效能與技術能力的提升，針對 AI 治理、問責機制、倫理框架與臨床安全監管的研究則嚴重不足。研究者分析大量醫療 AI 相關論文後發現，此一結構性失衡恐導致技術超前於監管的風險持續擴大，尤其在 AI 工具實際落地臨床環境後，缺乏配套治理機制將帶來患者安全疑慮。報告呼籲學術界、監管機構與醫療機構共同推動研究重心轉移，建立可執行的 AI 監理標準，並在技術開發初期即納入倫理與治理考量，以確保醫療 AI 應用能在安全、透明且具問責性的框架下推進。此研究對正積極評估與導入 AI 工具的醫院領導層與臨床科主任具有重要參考價值。",
+      "tags": [
+        "醫療AI治理",
+        "AI倫理",
+        "臨床安全",
+        "學術研究"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-11-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMkpWSnVrcGlpeVdSbGZEdGhEbENPWHEzYmpxdWU1VUZVanRnbWtwQV9OSE16M2xRZnVEQlRCWUU3dFBXRkJxaU95R3Q3bjZqRDdpMGFqbnBqaGVpM2FCallfTE92WWRPa2FXdjdtMFBNeUZPdFhPUWZmODhabVJ0S2xPMmV2b2p2ZUcxSFJ6LWZJb1lGTmN6aENZWVM2UloyLS1OWHNR?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "醫療 AI 決策主體之爭：AI、保險業者還是主治醫師該有最終話語權？",
+      "summary": "在 HLTH 2026 大會的專題討論中，專家深入探討醫療必要性決策（Medical Necessity Decision）的主體歸屬問題，核心爭議在於當 AI 系統、保險業者與主治醫師對治療方案產生分歧時，誰應握有最終裁決權。與會者聚焦於當前保險事前授權（Prior Authorization）流程中 AI 介入所引發的臨床倫理衝突，並指出 AI 核拒案例已對患者照護產生實質影響。多位臨床專家強調，AI 應作為輔助工具而非決策主體，主治醫師基於患者個別情況的臨床判斷不應被演算法取代。討論也涉及如何在提升行政效率與捍衛臨床自主權之間取得平衡，以及醫院體系在 AI 採購與部署政策上應如何設定明確的人機協作邊界。",
+      "tags": [
+        "醫療決策",
+        "事前授權",
+        "臨床自主",
+        "AI倫理"
+      ],
+      "author": "未標示（MedCity News｜2026-11-20）",
+      "source_url": "https://medcitynews.com/2026/11/who-should-make-medical-necessity-decisions-ai-insurers-or-treating-physicians/"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "猶他州率先試行 AI 開立及續開處方，FDA 聯邦監管角色懸而未決",
+      "summary": "美國猶他州近期通過立法，允許 AI 系統在特定條件下為患者自動續開處方，並在一項試驗計畫中進一步授權 AI 直接開立新處方，成為全美首個採取此類立法行動的州別。然而，此舉引發聯邦層級的監管疑慮——FDA 對於 AI 系統執行傳統上屬於持照醫師職權的處方行為，尚未表明明確的監管立場與核准路徑。法律與醫療界人士指出，州法規與聯邦藥品法規之間存在潛在衝突，AI 開立處方的責任歸屬、安全監控機制及錯誤補救流程均尚待釐清。此案例被視為 AI 醫療自主化的重要政策前沿，其走向將對全美各州及國際醫療監管體系產生示範效應。",
+      "tags": [
+        "AI處方",
+        "FDA監管",
+        "醫療政策",
+        "法規議題"
+      ],
+      "author": "未標示（Medical Daily｜2026-11-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRmVqbVBvLWlqdElzY1BPNG9LUHhxSU9Ub01BeDRibzRadmZDN2huYTh0eGd1RURZVjhxYktIOEUtek02UGRaSEdoRFhpY1hkV3dUOVZxbFdGcVRhSUxkbkRPbU1QT0FlTk9MWHFGU0VSdC1MYVQyVW5jSnlnd2RjXzlyUUNZQzlU?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.0,
+      "title": "醫療 AI 新創 Boltz 募得 1.1 億美元，加速小分子藥物研發",
+      "summary": "醫療 AI 新創公司 Boltz 宣布完成 1.1 億美元融資，資金將用於擴展其以 AI 驅動的小分子藥物研發平台。Boltz 的核心技術結合深度學習與分子生成模型，旨在大幅縮短候選藥物的篩選與最佳化週期，特別針對傳統藥物設計難以突破的蛋白質靶點。此輪融資反映投資市場對 AI 藥物研發賽道的持續看好，與同日曝光的 Merck 與 Isomorphic Labs 合作案共同顯示，AI 在製藥研發前端的戰略地位正快速提升。對醫療機構而言，AI 加速藥物研發所帶來的新型療法上市週期壓縮，將在中長期影響臨床用藥選擇與治療指引更新的頻率，值得持續關注其研發管線進展。",
+      "tags": [
+        "AI藥物研發",
+        "小分子藥物",
+        "新創融資",
+        "生技投資"
+      ],
+      "author": "未標示（SiliconANGLE｜2026-11-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGVSME02djlGR3JYbmxzSnZESTZzbjdyUGdNVGpoNzJMUlVtWXd1QmpQVE5fRXpmZEdqeG90VEtGUmxtcXZnOEY4cDZQRGtoVDh3T2gybTZiNmxlNjJUZEJzY0hyM3dqdDQxYk9hajYycnZaMzFFdllMb2ZlblIzbEl2MlVETl9zUF9HcUNnck1ReExTay11THdjdUl5azE2dk04NHljVzI5NTlMeFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "AI 大語言模型「幻覺引用」等不良行為正在消退：Nature 分析揭示改善趨勢",
+      "summary": "Nature 刊載的一項最新分析發現，大型語言模型（LLM）在約 16 個月的發展週期後，諸多過去廣為詬病的不良行為——包括捏造不存在的文獻引用（hallucinated references）、答非所問及邏輯跳躍等——已出現顯著減少的趨勢。研究者系統性評估多款主流 LLM 的輸出品質，發現模型在事實準確性與回應一致性方面均有所提升。此一發現對醫療 AI 的臨床應用具有直接意義：幻覺問題長期以來是阻礙 LLM 進入臨床決策輔助場景的核心障礙，隨著模型穩健性提升，AI 輔助病歷摘要、臨床文獻查詢及診斷建議等應用的可信度基礎正逐步強化，但研究者仍提醒需持續監測與驗證。",
+      "tags": [
+        "大語言模型",
+        "AI幻覺",
+        "模型可靠性",
+        "臨床應用"
+      ],
+      "author": "未標示（Nature｜2026-11-19）",
+      "source_url": "https://www.nature.com/articles/d41586-026-03753-1"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "醫療 AI 支出達 37 億美元，真正獲益者是誰？",
+      "summary": "Forbes 最新報導指出，全球醫療 AI 相關支出已達 37 億美元規模，但深入分析後發現，實際獲益的群體分布並不均勻。報導揭示，大部分投資集中於行政流程自動化、影像判讀與文件生成等少數應用場景，而直接改善患者照護結果的應用獲得的資源相對有限。部分醫院在採購 AI 工具後，因缺乏完善的整合計畫與員工訓練，實際使用率遠低於預期。報導也點出 AI 廠商在行銷宣稱與實際臨床效益之間仍存在落差，呼籲醫療機構在評估 AI 採購時，應要求廠商提供具體的臨床結果數據，而非單純依賴技術規格或模擬環境測試成績。",
+      "tags": [
+        "醫療AI投資",
+        "AI採購",
+        "臨床效益",
+        "產業分析"
+      ],
+      "author": "未標示（Forbes｜2026-11-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSXBXZjVrSnFjcGFsaWN3QnFVSFNkZnIzVHdGbVlXdVVudU8yV1E0aTFEUWxfX3Z2WXhWaU1yaXJtS3YzbXNIQUhBd0kxVzdCZjBoVGY0S1phWGZtMXlfVVhmS18tWTdCSkhXOU4wamdBRnY0YThLcTFGOEhtQzVtUlJCU25GOUtXYlhXZFM0Q3Y0VXdlMFZ2ZldSYnNBdy1VbVZNZm9kMjJNbjVMTFRvM1Y5OA?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "Scale AI 進軍醫院營運，推出五款專用 AI 代理人",
+      "summary": "AI 基礎設施公司 Scale AI 宣布正式跨入醫療院所營運領域，推出五款針對醫院場景量身設計的 AI 代理人（AI Agents）。這五款代理人各自專注於不同的醫院營運環節，涵蓋病床調度、患者排程、供應鏈管理、臨床文件處理及人員調配等核心流程，旨在透過自動化與智慧決策協助減輕行政負擔。Scale AI 表示，其代理人架構具備與現有醫院資訊系統整合的能力，並強調在設計上納入人機監督機制以確保安全性。此舉標誌著原本主要服務科技與國防產業的 Scale AI 正式將醫療列為戰略重點市場，也反映代理型 AI（Agentic AI）在醫院場域的商業化進程加速，對正在評估 AI 運營平台的醫療機構具有參考價值。",
+      "tags": [
+        "AI代理人",
+        "醫院營運",
+        "流程自動化",
+        "Scale AI"
+      ],
+      "author": "未標示（The Futurum Group｜2026-11-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUhWeUI5UURBczBqZ2kzYmEwZjVfeWV0WUxXaUEyOVFiVGVUUlJ4TW5wWV9Tbk9zeDdScnNqenlZY3pGdENja2RhVTg4aEx0N3piT1NPUU9rbWZBenNqd1hrZEJYWHM2X0doTlVVSGhMNE5udF9XWFV5NWJhQVF0LXhzYlJISlJTenZjSzNtQmlOZDNwQWU5NFhfZVF1cWVsYmtuYWpFUTY?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "工研院 AI 在宅醫療計畫獲 APEC 補助，台灣智慧醫療能量獲國際肯定",
+      "summary": "工業技術研究院（工研院）所推動的 AI 在宅醫療計畫正式獲得 APEC（亞太經濟合作組織）補助，成為台灣智慧醫療技術在國際平台上獲得認可的具體案例。該計畫核心在於運用 AI 技術輔助居家照護與遠距醫療服務，涵蓋生理數據即時監測、異常警示與遠端醫療諮詢等功能，旨在解決高齡化社會對於居家長照資源的迫切需求。APEC 補助的取得不僅代表計畫在技術可行性與社會影響力上獲得認可，也有助於工研院進一步拓展亞太地區的技術輸出與合作機會。此一發展對台灣醫療 AI 生態系的國際化布局具有正面示範意義，也凸顯在宅醫療 AI 解決方案作為因應人口結構挑戰的策略工具之重要性。",
+      "tags": [
+        "在宅醫療",
+        "APEC",
+        "台灣智慧醫療",
+        "工研院"
+      ],
+      "author": "未標示（工商時報｜2026-11-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpWHRuSUlNVkVXNWVSQlBYUTRDLUJMdE9GdVhaRkJ3ZUhWZ09XZEtjQW80bTJUUk1NeUpkR0VISDNXS2lOZGMzZzlqeDQxWkMzVTR1WjFsRXZUZnpyWGNr?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "雲林 20 所衛生所投入 5,300 萬導入雲端智慧醫療 AI，全面減輕行政負擔",
+      "summary": "雲林縣政府斥資約 5,300 萬元，推動轄下 20 所衛生所全面導入雲端智慧醫療 AI 系統，成為台灣基層醫療機構規模化導入 AI 的重要案例。該系統主要功能涵蓋法規查詢自動化、行政文件處理及醫療資訊管理，旨在大幅降低衛生所人員的行政作業負擔，使醫護人員能將更多時間與精力投注於直接照護服務。推動單位表示，AI 導入後預期可顯著提升衛生所的服務效率，並改善偏鄉地區居民獲得即時醫療資訊的可及性。此一案例展示了地方政府層級推動基層醫療 AI 化的具體路徑，對正在規劃基層醫療數位轉型的機構具有參考價值，也反映台灣公衛體系 AI 應用正從大型醫學中心向基層延伸的趨勢。",
+      "tags": [
+        "基層醫療AI",
+        "台灣公衛",
+        "行政自動化",
+        "智慧醫療"
+      ],
+      "author": "未標示（ETtoday新聞雲｜2026-11-19）",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtdGdGbnI2dVlmWlVFUmNMdDFqU0Y2a2hrbUJTbmEwa3BFVjN6NDIzd0Z2czN1enRqeEVNYnAwSmdrdEFOSHVsb2tBaEVpMzQyalI5blpydDdIM2JmWUHSAUtBVV95cUxNZXg5aTlvX014bzBMeG5KSnI0VWJvVHhlQ3UtZnhuUXB2V09IQ3VJVUtCYXQxVGVvTmI4SVl0RHNUREtxNmVtdE5KX3M?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 6.5,
+      "title": "a2z Radiology AI 第三款 FDA 核准裝置上市，急性照護 AI 套件持續擴展",
+      "summary": "放射科 AI 公司 a2z Radiology AI 宣布其第三款 FDA 核准裝置正式加入急性照護 AI 套件（Acute Care Suite），進一步強化其在急診與重症影像判讀領域的產品陣容。a2z 的急性照護套件旨在協助放射科醫師快速識別需要緊急處置的影像異常，透過自動標記與優先排序功能縮短危急案例的判讀等待時間。此次獲得 FDA 核准的新裝置具體適應症尚待官方公告確認，但持續擴展的核准組合顯示 a2z 正朝向建構涵蓋多種急性病症的完整影像 AI 平台邁進。對於正在評估放射科 AI 解決方案的醫院，多裝置整合套件模式提供了簡化採購流程與統一工作流程整合的潛在優勢，值得納入廠商評估比較。",
+      "tags": [
+        "放射科AI",
+        "FDA核准",
+        "急性照護",
+        "影像判讀"
+      ],
+      "author": "未標示（Business Wire｜2026-11-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMFplWkpHQ1NnNENiQmM3dzRmX1VJem1haThhel9oNnR6V2E0QkhNVFJpVXBlYVpqR2RXWDJrXzFra3RJaVpNSDFNWldULXhrU0VpSURqT1lfWlVCSFd3ZzJLMk5RcmV0VDI1Vi1FLUFocExqdWhHZFB5aHN4U1JWd1ZjZ2RrWmxwVEFkY0FjUmx2WUhZYjA5eW1Zb2d3a0NNc3JQaGVPbTlmRXRZSlZWMkc0RzhUdkFIckZxaEtDbG85WUI0MGFR?oc=5"
+    }
+  ]
+}
