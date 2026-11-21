@@ -1,0 +1,117 @@
+{
+  "date": "2026年11月21日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "GE HealthCare 發布 Imaging 360 AI 助理與 AI 輔助掃描協定選擇功能",
+      "summary": "GE HealthCare 於 2026 年 11 月正式推出 Imaging 360 AI Assistant 及 AI-Assisted Protocoling 兩項新功能，旨在優化放射科工作流程。根據相關統計，放射科醫師平均每天花費約 1.3 小時選擇掃描協定，新功能透過 AI 自動建議適合的掃描參數，大幅降低人工決策負擔。Imaging 360 平台整合多項 AI 輔助工具，涵蓋影像分析、報告流程自動化及掃描協定最佳化等面向。此次更新不僅有助於縮短放射科報告回覆時間，亦可減少因協定選擇錯誤導致的重複檢查。對於正在評估影像 AI 解決方案的醫療機構而言，全球主要醫療設備廠商持續在既有平台深化 AI 整合能力，代表院內影像工作流程的 AI 化已進入成熟落地階段，值得放射部門與資訊團隊密切關注其導入可行性與互通性標準。",
+      "tags": [
+        "放射科AI",
+        "影像工作流程",
+        "GE HealthCare",
+        "掃描協定自動化"
+      ],
+      "author": "未標示（HIT Consultant｜2026-11-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYm85ZzNfVXRwdHpWSlN3ak44TDlzQnpjcXBUT0tLMnZuVU1WVnVWRUQ1c0h1eHA4MlZ3MlNZenBoN0JGQzM2YWZIUUR6Uld1V3Y5QWxpWV9iWWxLYUM4RF9hazhLM2szaW5heHM5UjlnNmVwZnVSZUJCaU93RzF5T1pFLUVvU29EbmlmR2xFNkpfQnAxX3VVVEJTNC16MUVIeXl4al9RMnhnOVNTQnc"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "醫院因使用兒童病患錄音訓練 AI 遭訴訟，醫療資料治理再受矚目",
+      "summary": "一起由 Bloomberg Law 報導的訴訟案揭示，美國一家醫院因在未獲充分授權的情況下，使用兒童病患的錄音資料訓練 AI 模型而遭到起訴。此案引發醫療界對病患資料使用邊界的高度關注，尤其針對未成年族群的隱私保護更為敏感。訴訟核心爭點包括：醫療機構在蒐集病患資料時，知情同意書的範疇是否涵蓋 AI 訓練用途、以及兒童個資在數位醫療場景中的特殊保護義務。隨著各醫療機構積極推動 AI 模型開發與本地訓練，如何設計符合法規的資料使用同意流程、建立明確的資料分類與存取控管機制，已成為資訊部門與法務合規單位的優先課題。此案判決走向將對美國乃至全球醫療 AI 資料治理實務產生深遠影響。",
+      "tags": [
+        "資料治理",
+        "病患隱私",
+        "AI訓練資料",
+        "法律風險"
+      ],
+      "author": "未標示（Bloomberg Law News｜2026-11-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0UzTXlHc1o3SkhZQUJHTzVZdlktbWp6ZG9XczA3UFBUVUxrQW85cENvblBqWnltdXRINnlnc2xodlJPMzFUcU5vdFc4ZHZzRTVVLWZNYV9ndUx5cnVDYnBjV2duU1h2LUNZWjYyQmZyby1FMmVpY29Sd0FRMnBhbGx3c0VJMUprcEVvWnExU1NqZkdzLTVaOElIN0N3cjR5Z0d2c0ZESi1WX2o0Uk1mcU1iNA"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "韓國推出公共醫療 AI 網路，串聯偏鄉地區醫院以縮短就醫落差",
+      "summary": "韓國政府宣布建立公共醫療 AI 網路，目標是透過數位基礎建設連結偏遠地區醫院與都市醫學中心，改善城鄉醫療資源不均問題。該網路計畫利用 AI 輔助診斷、遠端會診及影像判讀等功能，協助偏鄉醫療機構在缺乏專科醫師的情況下，仍能提供具有一定品質的醫療服務。此舉不僅展現政府主導推動醫療 AI 基礎設施的政策意志，也為亞洲其他面臨類似城鄉差距問題的國家提供參考模式。韓國在醫療 AI 政策上長期居於亞洲領先地位，此次公共網路建置涉及區域醫院整合、資料互通標準及 AI 模型共享機制等議題，對於思考台灣智慧醫療跨院整合架構的醫療決策者具有參考意義。",
+      "tags": [
+        "公共醫療AI",
+        "城鄉醫療",
+        "韓國政策",
+        "區域醫院整合"
+      ],
+      "author": "未標示（BioSpectrum Asia｜2026-11-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYzQ2aG9XR1BONDluZEdyamhMcDdtMVRQU0JLTFFIbDlFcTA5UXFzcXBQcVhFbllETER6VnF3blU1Snc3djJ1U3FMR2h3eXBkcHVRQmhZYlU1UHBMYm11TWpLQjhhaTh5VzhCSkREb19NYTJjZEtraTVhc0JPT3VsbktTZ2QwMVdMcU1kY1dGWFBBRUtvVEFoNkd4eFJrUXk2MFk0T25pLWc2dWpHM25tSExZTTE1TU45Z2szU2E1LVJoV3Ro"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "醫療 AI 新創 Knit Health 完成 3,500 萬美元融資，加速臨床 AI 解決方案布局",
+      "summary": "醫療 AI 新創公司 Knit Health 宣布完成 3,500 萬美元（約新台幣 11.4 億元）融資，將用於擴展其針對醫院與臨床機構的 AI 解決方案。Knit Health 專注於整合結構化與非結構化臨床資料，以 AI 技術輔助臨床決策、改善照護協調及提升醫療品質管理效率。此輪融資反映投資人對醫療 AI 基礎設施類新創的持續看好，尤其是能夠深度整合電子病歷（EHR）資料、並提供可測量照護成效工具的平台。在醫療 AI 市場整合加速的背景下，具備端到端資料整合能力的新創將在競爭中脫穎而出。對於醫療機構評估外部 AI 合作夥伴而言，了解新興廠商的資金規模與技術定位有助於降低導入風險、確保長期合作穩定性。",
+      "tags": [
+        "醫療AI新創",
+        "融資",
+        "臨床決策支援",
+        "EHR整合"
+      ],
+      "author": "未標示（Health Tech World｜2026-11-21）",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWl4TU9xU3B3eWtSNW1ueUJhSjlWMGNSWFR1bU8ta1Q0WU5BTzdFNThNYUx4TzV4ZEZpY1JQSGJwdHFVbjBGOVdnQlhWeGZ1cjE2Q2xGcFhkYWVnSUFsTVlQS01FZkEzcTZEUGJ3SzloOUR6NmZfUWJTZTlNekZ6bGFDQ3ViejFQOHJ2OA"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "法國專家示警：醫院缺乏量測 AI 真實世界病患成效的能力",
+      "summary": "法國醫療 AI 專家在 The Hindu 的報導中提出警告，指出目前多數醫院在導入 AI 解決方案後，普遍缺乏系統性量測 AI 對真實世界病患照護成效影響的基礎能力。此問題涉及醫院資料基礎建設不足、缺乏標準化成效指標，以及臨床工作流程與 AI 效能評估機制脫節等多個層面。在全球各地醫院積極採購並部署 AI 工具的當下，若無法有效追蹤 AI 介入的照護品質指標，不僅難以驗證投資報酬，更可能掩蓋潛在的病安風險。此警示與近年來學術界對醫療 AI「重能力輕治理」的批評相互呼應，凸顯建立 AI 成效評估框架已成為醫院數位轉型不可迴避的核心任務。",
+      "tags": [
+        "AI成效評估",
+        "醫療品質",
+        "真實世界證據",
+        "AI治理"
+      ],
+      "author": "未標示（The Hindu｜2026-11-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWDA0Nm03RU1vTENveUtzR1hsNDZZeG5KclRqMjdfc0xXb2VadzRwMUh4QVI4NmM0d1dCLUlaRXozSlZiNkVTTHZlWFg5aC10Q2tXS3ptTEw4Z3NOX1hpUzNCR0JfZTJnRnNFMnltR0hzc1JuZjMwclh2T2hxOXNrVGtJYjRQMUcteFRIcGhCS0ZMa2Z0ZEhDXzBSdU13Y01CekhkVlBJMGlNVEtVVXZTV2lleEpLcWp0Mlc4aFJjMm5aelo2V0JCVVF3STdfZVhlRmR6cU92MmdDbUhaYnVxd19TZW9GNWlOQkZmRmhSdmXSAfcBQVVfeXFMTngxeGxWaTZCR3FkMG1nbVNieUhPTW9uVjJCWjlDakZoRzFwcV9takQzd04xekotZHBlU0E0Y0xiSXlTRnNfM0VyUjJnLTg4djE4X004cFNZNDNxYTB1Y2xfcldUVXMyUUpCTHlUYWozRWJJcDEwRm92dE14eU53Z0tFeFp5T2JEcnF0S3FmLUNlOVl1bmpNZkdqM0E3Rjk1MGptVzMzNnJVeVF1bUw2V2hYLTRmSG9pZFl4TnRlc3UyekN5ZWNXSVM5ZmdqdXBGVC15ekZRY1d2ZzFleG5YV1RDX011T0FXRnBVLVc2SS1sQThzdnZTMA"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "CAP 與匹茲堡大學合作開發病理 AI 工具，強化數位病理判讀能力",
+      "summary": "美國病理醫師學院（CAP）宣布與匹茲堡大學建立合作夥伴關係，共同開發應用於病理診斷的 AI 工具。此合作計畫聚焦於數位病理切片的 AI 輔助判讀，涵蓋腫瘤分級、生物標記識別及罕見疾病偵測等應用場景。CAP 作為全球最具公信力的病理品質認證機構之一，其直接參與 AI 工具開發，有助於確保相關工具在臨床準確性、標準化及可重現性方面符合專業學會要求。此舉也顯示學術醫學中心與專業學會跨界合作推動 AI 落地的趨勢正在加速，對於正在評估病理 AI 採購策略的醫院而言，具有學會背書的工具在臨床採信度上具備明顯優勢。",
+      "tags": [
+        "病理AI",
+        "數位病理",
+        "CAP",
+        "學術合作"
+      ],
+      "author": "未標示（Clinical Lab Products｜2026-11-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaS1qN0UwVVJvTkVIMzZzS2dmLTc3UUFlMFFjdEJ1bUNXa3JPcWp5QzZTdnNJM1pqS08wT3JMWjZxejJ5cXJQZTVYTEpRaG5SWG9XSUZGaXNPR3h2ek1maEdsSTUzVnM2RGM0NEpLMktHSTIwbnJnY1VIV0JBQ2psTF9PMUlWZEFqU19DYllBNGRyM1BxV2k2aDFTTmlZMEk"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "AI 是否正在改變科學研究職涯？Nature 舉辦免費網路研討會探討影響",
+      "summary": "Nature 於 2026 年 11 月 20 日發布公告，宣布舉辦免費網路研討會，主題聚焦於 AI 技術對科學研究人員職涯的實質影響，包括研究者角色的轉變、所需技能的演進，以及 AI 對研究工作穩定性與就業前景的潛在衝擊。隨著 AI 工具在論文撰寫、數據分析、藥物研發及影像判讀等科研領域的應用日益普及，學術與臨床研究社群開始正視 AI 對人才培育與職能發展的深遠影響。對於醫院研究部門及臨床教師而言，如何在 AI 輔助研究環境中重新定義研究人員的核心競爭力，以及如何將 AI 工具整合至醫學教育與人才培訓計畫，是值得持續關注的策略議題。",
+      "tags": [
+        "AI與科研職涯",
+        "醫學教育",
+        "研究人員技能",
+        "Nature"
+      ],
+      "author": "未標示（Nature｜2026-11-20）",
+      "source_url": "https://www.nature.com/articles/d41586-026-03680-1"
+    },
+    {
+      "rank": 8,
+      "score": 5.5,
+      "title": "施吉生技攜手新竹臺大醫院與亞太智能機器，共同開發醫療專科 AI 模型",
+      "summary": "台灣施吉生技宣布與新竹臺大醫院及亞太智能機器展開三方合作，目標是針對特定醫療專科開發專用 AI 模型。此合作結合醫院臨床資料資源、生技公司的醫療 AI 開發能量，以及機器人與自動化廠商的技術整合能力，代表台灣本土醫療 AI 產業鏈的垂直整合趨勢正在形成。開發重點聚焦於特定科別的 AI 診斷或輔助決策工具，有別於通用型 AI，專科模型在臨床準確度與實用性上更貼近真實醫療需求。此案例對台灣醫療機構的啟示在於，以醫院為核心主導的 AI 共同開發模式，不僅有助於確保資料主權，更能加速模型落地並取得臨床驗證，是推動本土醫療 AI 生態系發展的重要路徑。",
+      "tags": [
+        "台灣醫療AI",
+        "專科AI模型",
+        "產學合作",
+        "本土AI"
+      ],
+      "author": "未標示（經濟日報｜2026-11-20）",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wSFVHUDBjRVAwanduQXJOYS1HVF9rSm9RXy03V3gxMjNiMG9mUVRfcGdaUDZnNHdzVWVBVlJUT1lLSTZXZVlWUHJJOEFYaWZUODRta1FEYXlPQdIBX0FVX3lxTE1CakdNT0NrbHRMcThUS0Y4WHFFYXNPZW9hRXVqNk1fNWJfR2hEamtteTBqQk9kYkZ4d0lvTVkydHhHS3BMcjJQMnpNaTgtOUtZVVJwYUl5Q2ZZT1RYcUFZ"
+    }
+  ]
+}
