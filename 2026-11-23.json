@@ -1,0 +1,103 @@
+{
+  "date": "2026年11月23日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "釜山退伍軍人醫院導入AI心律監測，急診漏診心律不整於3小時內成功攔截",
+      "summary": "韓國釜山退伍軍人醫院透過AI持續心律監測系統，成功偵測一名急診室初診時未被發現的心律不整病患。該系統在3小時內發出警示，使醫療團隊得以即時介入處置，避免病情惡化。此案例顯示，AI即時生理監測不僅能彌補傳統急診流程的診斷盲點，更可在患者離開急診觀察範圍前完成風險攔截。心律不整因症狀多變且易被忽略，常造成嚴重心血管事件，AI持續監測技術的引入有助提升急診診斷完整性。此類應用對退伍軍人族群尤其重要，因其往往伴隨複雜共病。此案例對台灣醫院急診部門及心臟科具有直接臨床參考價值，可評估導入類似連續心電監測AI警示機制的可行性。",
+      "tags": [
+        "AI心律監測",
+        "急診醫療",
+        "心律不整",
+        "臨床警示系統"
+      ],
+      "author": "未標示（MEDI:GATE NEWS｜2026-11-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01aW9HZWpWRFNNdER3SHM2cElVNDVrRGN0a0FObjlsajhnQ0FoYU9HQ2dOdWdjR2pBakdCVHc4Mjg0VHBCQ3ZRamFJLXNyYVpKNTNTRS1tNA"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "自主式醫療AI MIRA診斷準確率超越專科醫師，虛擬醫療新里程碑",
+      "summary": "韓國醫療媒體MEDI:GATE NEWS報導，自主式醫療AI系統MIRA在虛擬照護情境下的診斷準確率已超越專科醫師，創下重要里程碑。MIRA定位為能夠獨立執行病患評估與診斷建議的AI代理人，不依賴人工覆核即可提供臨床判斷輸出。此一突破引發業界對AI自主診斷邊界的廣泛討論，包括法規監管、醫師責任歸屬及患者安全保障等議題。就臨床意義而言，若此類系統經嚴格驗證後獲得主管機關核准，可大幅提升偏遠地區或醫療資源不足地區的診斷可及性，並緩解專科醫師人力短缺壓力。然而，自主AI診斷的倫理框架與監管配套仍須完善，醫院領導層應密切追蹤此領域的法規動態。",
+      "tags": [
+        "自主AI診斷",
+        "虛擬醫療",
+        "AI準確率",
+        "臨床決策"
+      ],
+      "author": "未標示（MEDI:GATE NEWS｜2026-11-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXQVMycV9WcUFQeXl5aURlOFhYMElRTlFabGxxZnFpVjhHNVNfanU5V0RtY3BBSlFYdnZ3bVFYTllRLVlvZ2RHLVI5TW9UYm1DcEFoTVhwOA"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "美國雪杉西奈醫療中心聯手nference，建構聯邦學習AI研究平台",
+      "summary": "美國雪杉西奈醫療中心（Cedars-Sinai）宣布與AI醫療研究公司nference合作，共同打造以聯邦學習（federated learning）為核心的AI研究平台。此架構允許多個醫療機構在不共享原始病患資料的前提下，協同訓練AI模型，兼顧資料隱私與模型效能提升。聯邦學習被視為解決醫療AI資料孤島問題的關鍵技術路徑，能讓各醫院在符合隱私法規的條件下貢獻本地資料，共同強化跨機構模型泛化能力。此合作模式對台灣醫療體系具有高度參考意義，尤其在健保資料庫整合、跨院AI研究協作及個資保護合規方面，提供了可行的技術框架範例，值得資訊部及數位轉型團隊深入研究。",
+      "tags": [
+        "聯邦學習",
+        "AI研究平台",
+        "醫療資料隱私",
+        "跨院合作"
+      ],
+      "author": "未標示（商傳媒｜2026-11-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNOWZpOEVQVDFvZUxGLUhoUkh6ZUt2b1NPRVI5WnR6Skh5dDhRUDV1RFo3eFJ4Z1dvTW5mclpBY2NWQTM0Q3M0cFU1RC1VTjk5VjNVdTUwUGJLN0szQ1JWdmZWRjUzXzVVSnNOM3FtTWhjVXlPZFZpN3Bpa055NTJHNEFvYlNBOVJHRWJrMVBrNjdKVTdodV8yZzZhWDROSFA0MWZqbE5HeGJyVUltQjBBUHpVRlF1OWRZMERwQ3pFY0tHRGl6V2xrTWQzeW1WUV9yN0h3YjVkQmhFLWpXVU9rdGk1SWJtXzkydERFUy1CLU1mVGJUa1hGTzRDYV9oekhCX0Q3VHJWQ2Q4OHBMc1N1bW11QTR5UEJBamdvbWdwcndrOVdMNHlsd1NwMnFZVkcyeXR4S09QWEh6N28"
+    },
+    {
+      "rank": 4,
+      "score": 7.0,
+      "title": "AI數位病理預測直腸癌新輔助治療反應：Vernmark專訪解析最新進展",
+      "summary": "腫瘤醫療媒體Oncodaily刊出對研究員Karolina Vernmark的專訪，探討AI驅動之數位病理學是否能預測直腸癌新輔助治療（neoadjuvant treatment）的療效反應。新輔助治療旨在手術前縮小腫瘤，然而預測個別患者對治療的反應仍是臨床難題。AI結合數位病理影像分析，可望透過量化組織形態特徵，早期識別哪些患者能從治療中獲益，從而協助臨床醫師調整個人化治療策略、避免無效治療帶來的副作用與延誤。此研究方向與精準腫瘤學趨勢高度契合，對腸胃外科、腫瘤科及放射線科均具臨床參考價值，也呼應國際醫學界對AI輔助術前治療決策的高度期待。",
+      "tags": [
+        "數位病理",
+        "直腸癌",
+        "新輔助治療",
+        "精準腫瘤學"
+      ],
+      "author": "未標示（Oncodaily｜2026-11-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tbWgwZmV2V0M3UUN4YUhjd0w1dHZoRWZJTklOSGQ4M0ctWWRxaG1uNkdsVjVhaGFGM3c5VUppem96dUFqcGlEb3pXelR1Rl8xN2ZWOWVKQ2dPWVVBcTd6SDEycjFERXliSGpVUmlQWU1hRGpTT3Fr"
+    },
+    {
+      "rank": 5,
+      "score": 6.5,
+      "title": "蒙特菲奧里奈克醫院成為全美首家獲得國家AI認證的社區醫院",
+      "summary": "美國紐約蒙特菲奧里奈克醫院（Montefiore Nyack Hospital）宣布成為全美首家榮獲國家級AI認證的社區醫院，此認證代表該院在醫療AI應用的安全性、透明度與治理標準上達到國家基準。此一里程碑對社區醫院規模的AI導入具有重要指標意義，顯示AI卓越實踐不再是大型學術醫療中心的專利，中型醫療機構同樣能建立完善的AI治理架構並獲得外部認可。此認證機制的推廣，可能推動更多醫院主動強化AI治理、風險管理與品質保證流程，以爭取類似認證。對台灣醫院體系而言，此案例提供了評估建立AI認證制度或導入外部稽核機制的參考依據。",
+      "tags": [
+        "AI認證",
+        "醫院治理",
+        "社區醫院",
+        "AI品質管理"
+      ],
+      "author": "未標示（Monsey Scoop｜2026-11-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcnN4Rkx3T0hRVGVNb2MtLVBLZmtuQUJJaXVpTEUxWDFESkstTXZoRzBGcXVJYWYzOEtBUmZ4VDdfQ0gyRXlpRG9KYWZEVjZSZVFYYXJFLUotamtxbzIzcnhBX3RyendidEd6Q1RPdk1faVFVa055bVFaZFlmSGVEWnhVamozSGNoeHNmc1htVEw1THBoTm10aGZuS25UUDFWMURSclB6UnRQMlpVX0lQVDNQYmNsdlVjYUg4SWhZUlVOWFk"
+    },
+    {
+      "rank": 6,
+      "score": 6.0,
+      "title": "國際專家聚焦VinFuture研討會，共議AI醫療輔助邊界與偏鄉健康應用",
+      "summary": "商傳媒報導，國際專家齊聚VinFuture研討會，深入探討AI在醫療場域中的輔助角色邊界，以及如何將AI醫療技術延伸應用至醫療資源匱乏的偏鄉地區。與會專家討論AI診斷輔助在基層醫療的落地模式，包括遠端問診、AI分診與影像判讀等應用，以及在資訊基礎建設薄弱地區的部署挑戰。同時，會議也觸及AI輔助與醫師主導之間的角色定位，強調臨床最終決策應由醫師負責，AI扮演輔助而非替代角色。此一論壇視角對台灣山地離島醫療、在宅醫療及偏鄉衛生所數位化政策具有參考價值，與工研院等單位推動的智慧偏鄉醫療方向相互呼應。",
+      "tags": [
+        "偏鄉醫療",
+        "AI輔助邊界",
+        "國際研討",
+        "基層醫療"
+      ],
+      "author": "未標示（商傳媒｜2026-11-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOMWo4QTZ1OFpCZnpvRkJKZDhpOVc0X1VrcTUtcXpXYkNLLXNSYTlqa29wTmQ5blAyMlVrdkxMNnR4SVNPRmd0ekVPXzdIOExoOHRNVXJSb29vbmV0U3lCWkZ2YzdaYXdnQ1MyNUttdG93NU5hbjhYOU5BRlRab3ZmX0hnYjRoZzFkSnZZQmxRZzBGQWFuSkU5bS1ydTRkQ0F2bEM2bXhWUEc3eWlzYy1xOWdzOE9oWFhQZVM2ZmdUWGZ2SnVKQjFZNE5SZTVsNDdDakZUbjBpUDhwdkxJaTc5Z3JpcGxXdlUxTnozWVpqMndrTS1pQ0R4OHdybmF6WlRTUURTckxQdTc1UkRSUkVPX3JoQmxuR0xhUk50aUo0OVFxWW1RaVZVOVRESXFvaFJHYTJSTkxBdWJaNzVhTV9EZWZ4MA"
+    },
+    {
+      "rank": 7,
+      "score": 5.5,
+      "title": "吉爾醫療中心培育360名AX導入推手，醫院AI策略從試驗轉向整合與營運",
+      "summary": "韓國吉爾醫療中心（Gil Medical Center）宣布已培養360名「AX Champions」（AI轉型推動者），標誌著該院AI戰略從早期試點進入全面整合與日常營運階段。AX Champion計畫旨在於各科室培育具備AI素養的醫護人員，作為AI工具落地的內部推廣者與使用者回饋橋梁。此一人才培育模式顯示，醫院AI導入的成功不僅取決於技術選型，更仰賴組織文化變革與跨科室人才生態系的建立。吉爾醫療中心的經驗可供台灣醫院在規劃AI推廣策略時借鏡，特別是如何透過院內種子人才計畫，降低一線醫護對AI工具的抗拒，並加速臨床應用的實質滲透率。",
+      "tags": [
+        "AI人才培育",
+        "醫院數位轉型",
+        "組織文化",
+        "AI整合"
+      ],
+      "author": "未標示（MEDI:GATE NEWS｜2026-11-22）",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0SENNUVNRNUNvTTE5WTRnSl9aVUVwa1YxMU1yeTdKSXdyZHFGS0JqSHdncGV0M0xrZnVHMmkydmZZalNwYzNyVWtUTjA2LWpPUWVtWXZsaw"
+    }
+  ]
+}
