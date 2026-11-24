@@ -1,0 +1,117 @@
+{
+  "date": "2026年11月24日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "Ant Group 開源 LingSante 醫療 AI 模型，採 MIT 授權免費釋出",
+      "summary": "螞蟻集團（Ant Group）旗下 Afu 應用程式正式以 MIT 授權條款開源釋出其 LingSante 醫療 AI 模型系列，允許任何組織免費取用、修改與部署。LingSante 模型涵蓋多項臨床語言理解與醫療知識推理能力，此舉被視為繼 Meta 開源 LLaMA 系列後，規模最大的醫療垂直領域開源行動之一。MIT 授權意味著醫療機構、學術單位乃至商業開發者均可在幾乎無限制的條件下整合這些模型至自身系統。分析師指出，此一開源策略可能大幅壓縮現有醫療 AI 商業解決方案的定價空間，同時加速各醫院資訊部門建立本地部署之臨床輔助工具。開源模型的可稽核性亦有助於滿足醫療法規對透明度的要求，但臨床驗證與在地化調適仍是導入前不可迴避的課題。",
+      "tags": [
+        "開源醫療AI",
+        "大型語言模型",
+        "臨床決策支援",
+        "產業動態"
+      ],
+      "author": "未標示（Startup Fortune｜2026-11-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS0JpSFpMS3R6a0NMZGt5Z3Z0R1IwSENZQ3huckUzWHQ0WVpsUjYtLXA3cnRqMFV3NjRocDR3Q1hiUVNCZVlHS0J3elctYlg0d2NnSC01X01nQ1VWdWZxdUc0b3RCX3U4Ui1nbkJmN2REdk9NSVlmTlNvQkR2OHdMS0NFUk9uNnNQZUxTMVY2TW4xZUJnX2hzQ0NPTFEwa1d1SXZvS0VsZXJ2OVNVQ3BpZmVmX0w?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "AI 泡沫若破裂，恐對醫療體系造成嚴重衝擊——STAT 分析",
+      "summary": "STAT News 評論員 David Adler 撰文警示，醫療 AI 公司的市值與其技術實際產生的醫療價值之間存在根本性落差。當前醫療 AI 市場高度依賴投資人信心與未來獲利預期，一旦科技泡沫破裂，大量尚未商業化的臨床 AI 工具將面臨資金斷鏈危機，可能在缺乏妥善交接計畫的情況下突然中止服務，直接衝擊已部署這些系統的醫院與患者。文章指出，醫院在採購 AI 工具時往往未充分評估廠商財務穩健度與退場機制，一旦廠商倒閉，數據遷移、系統替換與臨床流程重建所需成本極為可觀。作者呼籲醫療機構建立採購盡職調查標準，以及針對關鍵臨床 AI 系統制定停服應急計畫，監管機構亦應考量將財務永續性納入醫療 AI 審查框架。",
+      "tags": [
+        "醫療AI風險",
+        "投資泡沫",
+        "醫院採購治理",
+        "產業警示"
+      ],
+      "author": "未標示（STAT News｜2026-11-23）",
+      "source_url": "https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "AI 加速醫療影像判讀：信任與準確度是關鍵門檻",
+      "summary": "EurekAlert! 報導最新研究成果指出，AI 技術確實能夠顯著縮短醫療影像判讀時間，但前提是臨床人員與監管機構對 AI 輸出結果具備足夠信任基礎。研究團隊針對多種影像模態（包括 CT、MRI 及 X 光）評估 AI 輔助判讀的速度與準確度，發現 AI 在特定場景下可將報告周轉時間縮短 30% 至 50%，但系統性偏差與影像品質問題仍會導致不可預期的假陽性或假陰性。研究強調，建立可解釋性機制（explainability）與持續性真實世界監測，是讓放射科醫師願意依賴 AI 輸出的核心條件；若欠缺此機制，速度優勢反而可能演變為診斷風險。文章同時呼籲業界建立統一的信任評估框架，以便跨院所比較不同 AI 系統的可靠性。",
+      "tags": [
+        "醫療影像AI",
+        "放射科",
+        "臨床信任",
+        "可解釋性AI"
+      ],
+      "author": "未標示（EurekAlert!｜2026-11-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGVmhVTmRHOGFxR0hGZmhOaE1VYjh0OE9uSDdXcWdYcEp5VmNMZmNzR3ZMZkRlckZ1STE5RUx4RDJfUG9MUU43NHRVZVBkcS11bzNfWDZDSzRxcjVO?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "AI 臨床決策支援需要系統框架，而非僅靠單一提示詞",
+      "summary": "Medical Economics 刊文指出，隨著 AI 臨床決策支援工具在醫院中快速擴散，許多機構僅依賴非結構化提示詞（prompt）驅動 AI 輸出，缺乏完整的治理框架，導致臨床建議的一致性與可靠性參差不齊。文章倡議醫療機構應建立涵蓋數據來源、模型更新週期、異常警示處理流程與人機協作邊界等要素的系統性框架，而非將 AI 工具視為黑盒子直接嵌入臨床流程。作者強調，框架的核心目的在於確保 AI 建議符合最新臨床指引，並在模型出現漂移（model drift）時能即時偵測與修正。此議題對於已導入或計畫導入 AI 輔助診療的醫院資訊部與臨床科主任而言，具有直接的制度設計參考價值。",
+      "tags": [
+        "臨床決策支援",
+        "AI治理框架",
+        "醫院資訊化",
+        "醫療AI安全"
+      ],
+      "author": "未標示（Medical Economics｜2026-11-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNzIwTTR3Z0xZY2NjOGlfck5uSVpaaEdZN3BvMTNpMTA5dktyZTdmNEVrWUg0bWFZc2s2dk9iNUZySEVPTV95VEVBNEdKYmZPaDNOV3pRRVh5WlRIM012c2YxQldNUDMxZkNUM1Eya3BuUGhVVnh4eENKS2x5T1hJR0xPbG9ZUG1hUE56cDVtM1oteU9TU1VRSlNOdHg?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "醫療體系從批評保險業者演算法，轉向自建 AI 系統",
+      "summary": "Modern Healthcare 報導，美國各大醫療體系長期以來將給付拒絕歸咎於保險業者所使用的 AI 演算法審核機制；然而，越來越多醫療機構正主動建構自有 AI 工具，以在申請核准、術前授權乃至收入循環管理等環節取得主動權。這一轉變反映出醫院對於 AI 在醫療行政流程中角色的根本性態度轉變——從被動抵抗外部演算法，到積極掌握資料與模型主導權。報導中援引多家大型醫療體系案例，顯示自建 AI 在降低拒付率與縮短給付周期方面已展現初步成效，但同時也引發關於醫療資源分配公平性與透明度的新一輪倫理討論，監管機構正密切關注此一趨勢。",
+      "tags": [
+        "醫療行政AI",
+        "給付審核",
+        "收入循環管理",
+        "醫院AI策略"
+      ],
+      "author": "未標示（Modern Healthcare｜2026-11-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVkZRX2U1QTBCcVhndmNfalBVVUNwUGtDZ3IxQkRBQ3dsZkw2SHNoN3NtWERQZmQ3SElKVWpzSW1hdFU2VXVxNzlzTTluSFpZT2FVZ3JMLVhuN3ZxejEzcHhadDY3WFRZM01OallwWTNKRmNGMGQ2cDI3NlhrOF9VcVdQLWs1NmhPUG1pUXJPS211TmJMQXdOV2FxY1dJSW1ZNk01bzZZNW9KV1E0bUZRYjFrdkZSWGNZWHBmTktRU0dPZndkSExtVWd0eUM1b000bndfbmNCMWJ1V3htX1pMbFJ3UHQ3eUlP?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 6.5,
+      "title": "生殖醫學 AI 模型技術表現亮眼，但缺乏前瞻性臨床驗證",
+      "summary": "Bioengineer.org 報導一項系統性回顧研究，分析當前生殖醫學領域（包括胚胎評級、IVF 結果預測、多囊卵巢症候群診斷等）所開發的 AI 模型，發現多數模型在技術效能指標（如 AUC、準確率）上表現優異，但絕大多數僅完成回溯性驗證，缺乏前瞻性臨床試驗支持。研究指出，此一缺口使得 AI 模型在真實臨床場景中的可靠性存疑，模型訓練數據的來源偏差亦可能影響不同族群患者的適用性。作者呼籲生殖醫學 AI 開發者應優先規劃多中心前瞻性驗證研究，並建議監管機構在審查生殖醫學 AI 產品時，將前瞻性臨床證據列為必要條件，以保障患者安全與生殖決策的倫理正當性。",
+      "tags": [
+        "生殖醫學AI",
+        "臨床驗證",
+        "模型偏差",
+        "AI監管"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-11-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORlhFV2NHV3BwSnFudWZEZWw0LXZ6Y1ZaOEJyQk96cWNhdGRSNHhpQi1lYlotYVBMUjd6ZlZBeXc0WVNUTVppZGtBV3RRd1Bhay0wa29QR19lZTBmd1ViV1JWdFpfS1lVVy0xNndiNldRS3JlUkhWREpTSUdiQnJxVjJObG9ScjdxcTRxZ0E2TVRVTVVkLUlFZ0xfZm1raF95aHQteGo4Slh4dDYxMWlkVkJaZ08?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 6.0,
+      "title": "Mach7 Technologies 與 Rad AI 合作，打通影像判讀到報告全流程",
+      "summary": "Mach7 Technologies 與 Rad AI 宣布策略合作，將兩家公司的技術整合以實現從醫學影像擷取到結構化放射科報告生成的端對端自動化流程。Mach7 專精於企業級影像管理與 VNA（Vendor Neutral Archive）平台，Rad AI 則以 AI 自動化報告草稿與放射科工作流程優化見長；雙方整合後，放射科醫師可在同一工作站完成影像閱覽、AI 輔助標註與報告草稿審核，預計可顯著縮短報告出具時間並減少重複性操作。此合作案反映出醫療影像 AI 市場正從單點工具走向整合型平台的趨勢，對正在評估放射科數位化升級的醫療機構具有採購參考意義。",
+      "tags": [
+        "放射科AI",
+        "醫療影像管理",
+        "工作流程整合",
+        "AI報告自動化"
+      ],
+      "author": "未標示（Financial Times｜2026-11-23）",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGZYM2FuZEFSU1YzaTcwd1NfOFFwNUJpVWpsNXFHcFhBVFlEcmF6QWhXQXFUWWR1X0tQRmRSTzd0RVVYZW9ObnNVMkJkMDZKd2ZuSno1MDcyTWVmbW9lVXR0N3FhRjBaVEFKUHh4bzRwNWtVczdNT2EzZmYxaXhOU0xoTGxQNE1CVk0tRkVyNG1ZZlV0VTdBOA?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 5.5,
+      "title": "護理 AI 的未來應以可量測的臨床與人力成效為起點",
+      "summary": "MedCity News 刊出觀點文章，主張護理領域導入 AI 的核心價值判準，不應僅停留於技術能力展示或效率提升的抽象承諾，而必須回歸到具體、可量測的臨床成效與護理人力指標。文章指出，當前護理 AI 工具多聚焦於文書減量與排班優化，但缺乏對患者安全事件、護理師留任率及照護品質等關鍵指標的系統性追蹤與評估。作者建議醫療機構在導入護理 AI 前，應預先定義成功指標，並建立持續監測機制，確保 AI 工具的投資回報能以護理品質語言呈現，而非僅以技術採用率衡量。此論點對面臨護理人力短缺的臺灣醫療體系尤具參考價值。",
+      "tags": [
+        "護理AI",
+        "臨床成效評估",
+        "醫護人力",
+        "數位轉型"
+      ],
+      "author": "未標示（MedCity News｜2026-11-24）",
+      "source_url": "https://medcitynews.com/2026/11/the-future-of-ai-in-nursing-must-begin-with-the-outcomes-we-intend-to-achieve/"
+    }
+  ]
+}
