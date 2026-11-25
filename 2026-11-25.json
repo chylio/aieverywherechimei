@@ -1,0 +1,145 @@
+{
+  "date": "2026年11月25日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "AI輔助阿拉斯加偏遠醫院優化腦中風照護，遠距分診加速轉院決策",
+      "summary": "阿拉斯加偏遠地區長期面臨專科醫師嚴重不足的困境，數家醫院組成小型聯盟，引入AI工具輔助腦中風患者的初步影像判讀與分診，協助第一線醫師快速判定是否需要轉往具備血栓溶解或取栓能力的醫療中心。系統透過分析CT影像、評估梗塞範圍與缺血半暗帶，提供時間窗口建議，縮短從就診到治療決策的等候時間。報導指出，對於地理條件惡劣、空中轉運成本高昂的偏遠地區，AI分診工具能顯著減少不必要的轉院與錯失治療黃金期的案例。此一模式對台灣離島及山地偏鄉醫院同樣具有高度參考價值，展示AI在醫療資源不均環境下提升急性照護可近性的實際潛力。報導同步在STAT Health Tech電子報刊出，並預告RSNA 2026將有更多相關討論。",
+      "tags": [
+        "腦中風AI分診",
+        "偏鄉醫療",
+        "遠距醫療",
+        "臨床AI應用"
+      ],
+      "author": "未標示（STAT News｜2026-11-24）",
+      "source_url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "RSNA 2026前夕：AI自動草擬放射科報告能否真正提升醫療品質與安全？",
+      "summary": "北美放射學會年會（RSNA 2026）即將在芝加哥登場，業界熱議焦點之一為AI輔助放射科報告草擬功能——系統自動分析X光片與CT影像後產出初稿，供放射科醫師審閱修改。支持者認為此舉可大幅縮短報告完成時間、降低遺漏率；批評者則擔憂醫師對AI草稿產生過度依賴，反而弱化獨立判讀能力，甚至在系統錯誤時未能及時修正。STAT記者訪談多位業界人士，呈現雙方觀點，並指出目前臨床證據仍不足以明確回答此問題。如何設計人機協作流程、建立品質監控機制，將是各醫院導入前需審慎評估的核心議題。此議題預計在RSNA 2026成為重要辯論主題。",
+      "tags": [
+        "放射科AI",
+        "RSNA 2026",
+        "AI報告草擬",
+        "臨床品質"
+      ],
+      "author": "未標示（STAT News｜2026-11-24）",
+      "source_url": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/"
+    },
+    {
+      "rank": 3,
+      "score": 8.5,
+      "title": "韓國建立公共醫療AI網絡，推動全國醫院AI基礎設施共享",
+      "summary": "南韓政府宣布正式啟動「公共醫療AI網絡」（Public Healthcare AI Network），旨在為全國公立醫院提供共用AI運算資源與模型平台，降低各醫院自建AI基礎設施的門檻與成本。該網絡將整合醫療影像判讀、電子病歷分析及臨床決策支援等功能模組，並建立統一的資料標準與隱私保護機制。此舉被視為韓國繼推動醫院資訊化後，在國家層級主導AI醫療落地的重要政策里程碑。相較於各醫院各自為政的採購模式，聯邦式公共平台有助於縮小大型醫學中心與地區醫院之間的AI能力落差，並為政府統一監管AI醫療工具品質提供制度基礎。此一國家級AI醫療網絡模式值得台灣衛生主管機關參考。",
+      "tags": [
+        "國家醫療AI政策",
+        "韓國",
+        "公共醫療平台",
+        "AI基礎設施"
+      ],
+      "author": "未標示（Healthcare IT News｜2026-11-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUkI5Y01mVzgta1N5OHo1T1VVc0ZKM040YnVPWmJfUnBxQURhdTFnbHZDYzNaTjhUNE1yZW5kUDF0RTJ4dlBMZFNJNE5xV1BTQ0ctWGdVRmo2dGhOdEtPQ29aNm4zMXAybl9xQ3FGa1N5T0g0aUZfeTFfb3JDTEc2TWJFM3hEczBfY0hLUjVOMU1LUnczcVhB?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 8.0,
+      "title": "倫敦大奧蒙德街兒童醫院啟動NHS首個Agentic AI計畫，聯手Hyland與AWS",
+      "summary": "英國倫敦大奧蒙德街兒童醫院（Great Ormond Street Hospital，GOSH）宣布與Hyland及Amazon Web Services合作，在NHS體系內率先啟動「Agentic Hospital AI」計畫。此系統不同於傳統被動式AI工具，而是採用可自主執行多步驟任務的代理式AI架構，能跨系統擷取病患資料、協調臨床工作流程並主動提出行動建議。初期應用聚焦於病患出院準備度評估與臨床文件自動化。GOSH表示，此計畫標誌著醫院AI從「輔助查詢」進化為「主動協作」的新階段。此一Agentic AI模式在複雜兒科照護場域的落地實踐，為各大醫學中心評估下一代臨床AI系統提供重要參考依據。",
+      "tags": [
+        "Agentic AI",
+        "NHS",
+        "兒科醫療",
+        "醫院數位轉型"
+      ],
+      "author": "未標示（PR Newswire｜2026-11-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPTXh2cTZjT2xpWHJRNHA1TUpPdDl1NXJ2R0VtRkJtU295eEE0TUFkeVAyd21abE8xd1RsMTJWVkZRRWtSTkh0Tk9UUDVOWHExT1N3NnA1c0RURF9RRE52ck1NTE1GSmYzdDJ0Uy15QzhqbnhwZmZRQmMzdDBab0FnTWlvZlc1bkpDeVR3MDhkMEROXzdxZHhKUndtS21lYjA5Q3FHSzdmSkNiM2JVNVRhNDB4Vm9rUmFIR0NibTkwa3NzTjZYSUREVjdxc3ZPd0NBRnJWbUxTb2NmTmR4WTVBY2JLbGtra3RuMlpQQnBEUDlyWFBYRWxYUUphNENRNjJMamxHVWR1Rkg3RXdmTGtnWU9OTEJqRVJ6bW5MUGMwUmFKSUpvTzNsTEdzcGZlUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 8.0,
+      "title": "Claude與ChatGPT新生物技能震撼科學界：蛋白質設計能力媲美AlphaFold專用工具",
+      "summary": "《Nature》報導指出，Anthropic的Claude與OpenAI的ChatGPT最新版本已展現出令科學家驚訝的蛋白質設計與結構預測能力，其表現可媲美先前被視為唯一解的AlphaFold等專用生物AI模型。研究人員發現，大型語言模型在接受適當提示後，能夠設計蛋白質序列、預測折疊結構，甚至提出突變策略，且不需要專門的訓練資料集。此一突破意味著通用型AI模型正快速跨越領域邊界，進入新藥開發、蛋白質工程與精準醫療的核心應用場域。對藥廠與醫學研究機構而言，此發展可能大幅壓縮早期藥物設計成本與時程，同時也引發對現有專業AI工具市場定位的再評估。",
+      "tags": [
+        "蛋白質設計AI",
+        "大型語言模型",
+        "新藥開發",
+        "生物技術"
+      ],
+      "author": "未標示（Nature｜2026-11-24）",
+      "source_url": "https://www.nature.com/articles/d41586-026-03836-z"
+    },
+    {
+      "rank": 6,
+      "score": 7.5,
+      "title": "華碩推出醫療AI Agent平台，超音波報告可由LLM協助生成，12月下旬正式上線",
+      "summary": "華碩宣布推出醫療AI Agent平台，整合大型語言模型（LLM）應用於超音波檢查場域，能夠協助臨床醫師自動生成超音波報告草稿，並支援病程分析功能。此平台預計於2026年12月22日正式上線，採訂閱制商業模式，標誌著華碩智慧醫療事業從硬體設備銷售延伸至AI軟體服務。平台功能涵蓋報告生成、影像描述結構化輸出及病程追蹤輔助，目標使用者為基層診所與醫院超音波檢查室。此一本土AI醫療工具的商業化落地，為台灣醫療機構評估國產AI解決方案提供具體參考案例，同時也顯示台灣醫療AI生態系正從研發原型轉向規模化部署的新階段。",
+      "tags": [
+        "台灣醫療AI",
+        "超音波AI",
+        "AI報告生成",
+        "華碩"
+      ],
+      "author": "未標示（三嘻行動哇 Yipee!｜2026-11-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPM1p0ZW9tZjJYcG9hcTA3cTd4QWJ3YWtac3ZReXU5SDQ4TDlXekxjTTFkN0M2NEtkeXd3N3hFVndRU19HS1RCTGlEUi1WWFJ5bXBtSWl6Z1ZFeGNRMV9SaVNwWUhxMHc3UUJrZk1ET2RkNWoyeTI0ZUhPRHM2RUFmbk1YbWdCWGJxclYxeGFMZXlYSmZKQkFabW03MXpOeG5nNU1wa2ZSTmdEajFSOUF2eDQtajZhcExKMFQySk52S0JPMi1iWk9mRWdXR0pzRXVfTmdFcTBraHVjcHVuMWpXNUs0T05hby1NSU9qN3otLXkzTzZ1VDF4R00yMm0zTDdPX1BITnJ6UHliMWFQSTZxMm84QldPdU1OWC1lMGdpcDQxZTVlVmFyOUVQQzNwNnl3WTRoZ1cxeGZjMFJQbVNGeVVuLXI?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.5,
+      "title": "AI助出院決策：多代理驗證架構提升住院病患出院準備度評估準確性",
+      "summary": "一項發表於Bioengineer.org的研究顯示，採用「驗證式多代理AI架構」（Verified Multi-Agent AI Architecture）可顯著改善住院病患出院準備度的臨床判斷品質。系統由多個專責AI代理分別負責評估生命徵象穩定性、藥物安全性、社會支持條件及後續照護計畫可行性，各代理相互交叉驗證後輸出綜合建議。研究結果顯示，此架構較單一模型輸出具備更高的一致性與可解釋性，並能減少因資訊遺漏導致的不當提前出院。此一設計方向對於高病床周轉壓力的醫院尤具實務意義，同時呼應近年醫療AI從單點功能走向多任務協作系統的整體趨勢。",
+      "tags": [
+        "出院決策AI",
+        "多代理系統",
+        "病患安全",
+        "臨床決策支援"
+      ],
+      "author": "未標示（Bioengineer.org｜2026-11-24）",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUXBDYXcyTHJEclZxYTd4S2x5MEh1WXRGNjkwUDA2OXFBdS01RjBabjUyZGZCc2UtVVo5SHlEUFpwSjIwVUdqRldXc05KY0F1bzQtRlU4VVJUU05MT3JqWTRmZUVCaFBtUDNCX0tyWnJZQnlKa1JCYVRYMjdFTzFnOWlfV2VHbGQ3a05kdXlpRW80YUJTQVR4OUQ3ZWpBa1ZQMHZUbXNHZmJyd2FlcHlYR3hURzNKTjJB?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 7.0,
+      "title": "AI協助醫院降低出院後再入院率與死亡率，MedPage Today報導實證成果",
+      "summary": "MedPage Today報導一項醫院實際導入AI臨床決策支援系統後的成效研究，結果顯示該系統能有效識別出院後高風險病患，並觸發主動追蹤介入，進而降低30天再入院率與出院後死亡率。系統透過整合電子病歷、生命徵象趨勢及社會決定因素等多維度資料，建立個人化風險預測模型，並在出院規劃階段即產生警示供照護團隊參考。此研究強調，AI工具必須與既有臨床工作流程深度整合，才能發揮實質效益，單純部署模型而缺乏配套流程設計，成效將大打折扣。此一結論對正在評估或試行出院後管理AI工具的醫院具有重要的執行層面啟示。",
+      "tags": [
+        "再入院預防",
+        "出院後管理",
+        "臨床AI成效",
+        "風險預測"
+      ],
+      "author": "未標示（MedPage Today｜2026-11-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRGJnY2NGZkpEeTJ1NTNselpabVA1a1d1Z3U0Tm5ySjZDZWNTSzlTRGg1cjE5ZGpZb0VmUTZSSEhwLWlDWGhwczd2NTlkWkpxOUc5QldDZ3Q4aTVFOVBhR0g1cmVTTmxqLVNfNzlFc3M5bC1ReXRWN2FPUURBR0lYbW14T3BoWXUy?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 7.0,
+      "title": "2026總統盃黑客松揭曉：AI應用於高齡醫療與防詐雙雙獲獎",
+      "summary": "2026年台灣總統盃黑客松競賽結果正式揭曉，本屆獲獎團隊中有兩項以AI為核心的解決方案備受矚目：一項聚焦AI輔助高齡醫療照護，透過智慧感測與大數據分析提升長照服務效率與個案風險預警；另一項則運用AI技術防範針對高齡族群的詐騙行為。總統盃黑客松是台灣政府層級最重要的創新競賽之一，獲獎方案具有納入政策試辦與跨部會推廣的潛力。此次結果顯示台灣社會創新能量已明確聚焦於AI在高齡照護與社會安全網的應用，呼應政府推動健康台灣與超高齡社會準備的政策方向。",
+      "tags": [
+        "台灣醫療AI",
+        "高齡照護",
+        "黑客松",
+        "AI政策"
+      ],
+      "author": "未標示（青年日報｜2026-11-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MNmYzUzIwY0F0aFNHSUF4dDNSSVhaMFBCRURGMzJaMFhQa1hlblZJZ0N2OUNRdVA4ck50QmIzUVh5c2xjYWlwTWNlRTNwc2UtM2ZFek1R?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 6.5,
+      "title": "放射科AI採用率領先全醫療業，MobiHealthNews分析關鍵驅動因素",
+      "summary": "MobiHealthNews最新報導指出，在所有臨床專科中，放射科的AI採用率目前居於領先地位，遠超過其他科別。報導分析主要驅動因素包括：影像資料具備高度標準化特性、FDA已核准多項放射AI產品、工作流程瓶頸明確且AI介入效益可量化，以及RSNA等學術社群長期積累的共識基礎。然而報導也指出，市場上放射AI產品數量龐雜，醫院在選型時面臨評估標準不一的挑戰，真實世界效能監控機制尚未成熟。此分析與ACR Data Science Institute在RSNA 2026展示的AI績效監控框架互相呼應，顯示放射科AI正從導入期進入品質管理與標準化的新階段。",
+      "tags": [
+        "放射科AI",
+        "AI採用率",
+        "RSNA 2026",
+        "醫療AI市場"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-11-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRzVmaWJXb204S2FRN0Q5ZEpqZW5Ba09HN09aM3BRM3RTX0dVemc1aHBLMWpSSFdwbmt0aUJsdVY4R2pYLVhvemJGMEllZzdwc1dLZk91bDRuZ2ZzUS0tV2lpOU5FUm56Vk5KY2U4NUQzSWJmNUxpSnI2OVA4UE95QkR3?oc=5"
+    }
+  ]
+}
