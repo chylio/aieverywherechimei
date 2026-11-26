@@ -1,0 +1,145 @@
+{
+  "date": "2026年11月26日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 9.0,
+      "title": "奇美醫院急診導入AI「一鍵生成」病歷摘要，30秒掌握病況",
+      "summary": "奇美醫院急診部門推出AI病歷摘要系統，能在30秒內自動彙整病患就醫紀錄、檢驗數值及過往病史，大幅縮短急診醫師蒐集資訊所需時間。該系統以「一鍵生成」設計降低操作門檻，讓醫師在分秒必爭的急診環境中，可快速掌握病況全貌，提升初始評估效率並減少資訊遺漏風險。此一落地應用展現台灣本土醫療機構將大型語言模型整合至臨床第一線的實績，對急診流程優化、跨班交接及後續臨床決策均具正面意義，同時也為其他醫院推動類似應用提供可參考的本土案例。報導由TVBS新聞於2026年11月25日發布。",
+      "tags": [
+        "急診AI",
+        "病歷摘要",
+        "台灣醫療AI",
+        "臨床決策支援"
+      ],
+      "author": "未標示（TVBS新聞｜2026-11-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yZnZ0RzlQTk5PVUliMEo0bktoMEpvdEhhTDhpU1AxYnhBaThoMEZaYzVNY25sUHh6RmVUQWY3bEZpUjM1d3VncWw5T2VlUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "score": 8.5,
+      "title": "加州立法強化臨床AI與醫療聊天機器人隱私保護新規",
+      "summary": "加州州長已簽署新法，針對臨床AI工具及醫療保健聊天機器人明定隱私保護規範，要求相關系統須揭露AI身份、取得患者知情同意，並限制個人健康資料的再利用範圍。新法同時要求醫療機構對AI系統進行定期安全稽核，違規者將面臨罰則。此舉被視為繼歐盟AI法案後，美國州層級最具代表性的醫療AI監管行動，預計對全美醫療AI供應商的合規成本與產品設計產生示範效應。對於正在評估或已部署AI聊天機器人問診、衛教、或行政服務的醫院，此一法規動向值得密切關注，以超前布局資料治理與知情同意流程。報導由JD Supra於2026年11月26日發布。",
+      "tags": [
+        "醫療AI法規",
+        "隱私保護",
+        "臨床AI",
+        "美國政策"
+      ],
+      "author": "未標示（JD Supra｜2026-11-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV0FHX1paLVFjcVh5S3dPVUNycDBLcjNTeHQzd0E1YWd4NVJPUDBXRXk1enlvVngzRkpkTUhzR0JHbkJOTVd0Y1FBc1JwUGZES2kzQWNFY2p6SVlSeDZlSk5IenVsOXk3ckt4MHpRUWZrR3c5OUZ1Tl9KeW5VZDNleGN3TXBrZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "score": 8.0,
+      "title": "FDA核准RadNet乳癌五年風險預測AI工具，可從常規乳房攝影判讀",
+      "summary": "FDA已正式核准RadNet開發的AI工具，該系統能在女性接受常規乳房X光攝影（mammography）時，同步預測未來五年罹患乳癌的風險，無需額外檢查程序。此AI模型透過分析乳腺密度與影像特徵，提供個人化風險分層，協助放射科醫師及臨床醫師進行更精準的篩檢後建議與後續追蹤決策。此次核准標誌著AI輔助乳癌篩檢邁入新里程，有望提高高風險族群的早期偵測率，並優化篩檢資源配置。對於設有乳房影像中心或乳房外科的醫療機構，此一工具具備直接臨床應用潛力，同時也反映FDA持續推動AI放射科工具監管路徑的政策方向。報導由Radiology Business於2026年11月25日發布。",
+      "tags": [
+        "乳癌篩檢AI",
+        "FDA核准",
+        "放射科AI",
+        "風險預測"
+      ],
+      "author": "未標示（Radiology Business｜2026-11-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdXd5OUQ4dGl5VktfdTB3TWkycEZaTXVWd0cxQXk2V3RYbThRNEtWTnNiTS1MMk1mM1RLZWFqUnlaQVFqZkdJWW15aTJBdnJJcnpkcG9jWXFDc0ZpVzdHb3p0RTJQMHFnVW1GX2tpVk11SUdZb2lweVY1VUFqcGFnZWlPWndobW5JQ1p1Z1JZTHF1RmphdktYU1BtMkcwWFg0S0hleXNueWdJeDdydlkzcUUySlV5VTFZNU1wbmx6X1Z3d1l2Q09Qc0FmMjYwWjZhSEFTZVFSN0NndmtOdXc?oc=5"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "醫療AI安全標準亟需統一規範，MobiHealthNews發表分析",
+      "summary": "MobiHealthNews發表深度分析，指出目前全球醫療AI產業缺乏統一的安全標準，各國監管框架分歧、醫院採購標準不一，導致AI工具品質參差不齊，潛藏患者安全風險。文章呼籲業界、監管機構及醫療機構共同制定通用的醫療AI安全基準，涵蓋模型驗證方法、偏差測試、透明度要求及上市後監測機制。作者強調，隨著AI工具從試驗走向大規模臨床部署，建立共識性標準不僅有助於降低醫療風險，也能增強醫師與患者對AI的信任，並為採購決策提供客觀依據。此議題對正在評估或已導入多款AI系統的醫療機構具有直接的治理與採購決策參考價值。報導由MobiHealthNews於2026年11月25日發布。",
+      "tags": [
+        "醫療AI安全",
+        "監管標準",
+        "AI治理",
+        "患者安全"
+      ],
+      "author": "未標示（MobiHealthNews｜2026-11-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOUY4OVZBbVVySGpuVEExRVQ0NkVhX2NmSS02LWJWTXpFdFNtSXVtUEh0akdfTzlXV0hydWkzR0dtQ29fNC1RZ3oyU1g5cnQwc19Sb0ZxWEJhSlFIb3QwWkVkWk9UMUVUMEFNVUJLX20zNm1RTjY4cDZhSmZuaGllTFVteWxFQXk3ZHJZ?oc=5"
+    },
+    {
+      "rank": 5,
+      "score": 7.5,
+      "title": "高雄四大醫學中心聯手Taiwan AI Labs，FedStore聯邦學習應用商城正式啟用",
+      "summary": "高雄市政府媒合Taiwan AI Labs與高雄榮總、高醫附院、義大醫院、國軍高雄總醫院等四大醫學中心，共同啟用FedStore醫療AI聯邦學習應用商城。此平台採聯邦學習架構，讓各醫院在不移出原始資料的前提下，共同訓練與驗證AI模型，兼顧資料主權與跨院協作。FedStore商城提供標準化AI模型上架、審核與部署流程，使醫院能快速採用經多中心驗證的AI應用。此舉標誌台灣智慧醫療從單一機構試驗邁向多院聯盟共享的新階段，同時展現高雄積極搶佔區域醫療AI生態系主導地位的戰略意圖，對全台醫療機構建立跨院AI協作機制具重要示範意義。報導由風傳媒於2026年11月25日發布。",
+      "tags": [
+        "聯邦學習",
+        "台灣醫療AI",
+        "跨院合作",
+        "AI平台"
+      ],
+      "author": "徐炳文（風傳媒｜2026-11-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mR0VmaFhuNE43WlBOeEpfNExBdWZzVGZXWlZ2Y1M1SDVseFJxQVI4U3U2WWZRUHVIQzVjcW5EYUZXdXN6VmFHX2RQTGZTdw?oc=5"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "AI輔助網路攻擊升溫，醫院資安風險進入全新威脅等級",
+      "summary": "BankInfoSecurity報導指出，駭客已大規模採用AI工具強化網路攻擊能力，包括自動化魚叉式網釣、AI生成惡意程式及智慧型社交工程攻擊，使醫院面臨的資安威脅烈度顯著提升。由於醫療機構持有高價值患者資料且系統老舊，已成為AI賦能攻擊的優先目標。報告強調，傳統以規則為主的防護機制已難以應對AI驅動的動態攻擊，醫院需同步以AI強化防禦側能力，包括異常行為偵測、AI輔助事件回應及供應鏈風險管理。資安專家呼籲醫院領導層將AI資安列為數位轉型的優先投資項目，並定期演練針對AI攻擊的應變流程，以降低營運中斷與資料外洩風險。報導由BankInfoSecurity於2026年11月26日發布。",
+      "tags": [
+        "醫療資安",
+        "AI網路攻擊",
+        "醫院風險管理",
+        "資安治理"
+      ],
+      "author": "未標示（BankInfoSecurity｜2026-11-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3NGNncwNWp0ME82UkZWQnVYSmFuTkFtVTlDUS1SWF81ZjJRT0RwTC1IUkN4MFBZTXNycHVWTFdvZFE1UWRMUDJXVGZQdU1HUXdxbTZiTVFCRzluWHpjcy1yTlZsUnF3YXdYUm50b1d6WmtLSnFVem85dG9IQmFEU1lyRkN5YzNCVW9MN0dtaTltWUpGMlE?oc=5"
+    },
+    {
+      "rank": 7,
+      "score": 7.0,
+      "title": "a2z Radiology AI獲FDA核准全科別影像分流工具a2z-Omni-Triage",
+      "summary": "a2z Radiology宣布獲得FDA核准其最新產品a2z-Omni-Triage，此為一款適用於多種影像類型的AI放射科分流（triage）工具，可自動識別胸腔、腹部、神經系統等多個部位的緊急異常發現，並依優先程度排序報告佇列，讓放射科醫師優先判讀最危急病例。有別於以往針對單一疾病的AI工具，全科別分流設計能更全面地提升急診與住院患者影像判讀效率，降低高風險病灶延遲通報的機率。此工具的核准反映FDA對跨科別AI放射科應用的監管路徑日趨成熟，對評估影像AI投資效益的醫院而言，全科通用架構具有較高的導入CP值。報導由Imaging Technology News於2026年11月26日發布。",
+      "tags": [
+        "放射科AI",
+        "FDA核准",
+        "影像分流",
+        "AI影像判讀"
+      ],
+      "author": "未標示（Imaging Technology News｜2026-11-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOTR0c1JIeTZJTDdTekZhM0hpMVBNNVk0TThxU0FiSVV2b1dtMHhGMzVrRVQtSUdZNkVrQ1FrSDRpQWdvYVA0UEdIMHlQMVFwcnNNQUp6ZWNqVHRhUmpuY2EwbnlKMEUzb2NTLTR5NXJXMDZCUG1KVVpJaUFXMUJGbmRoMmdvei1QZlBrZTd3?oc=5"
+    },
+    {
+      "rank": 8,
+      "score": 6.5,
+      "title": "Anthropic在醫療AI領域的重大布局回顧：Claude如何滲透臨床與行政場景",
+      "summary": "Modern Healthcare整理Anthropic 2026年在醫療保健領域的主要動作，包括與多家大型醫療體系簽署企業合約、推出針對臨床文件與醫療編碼的Claude專用版本，以及與電子病歷廠商展開整合合作。報導指出，Anthropic以強調安全性、可解釋性及HIPAA合規作為差異化策略，在競爭激烈的醫療AI市場中搶佔企業客戶。相較於OpenAI，Anthropic更積極主動地在醫師工作流程、出院摘要、前置授權等行政流程中尋找切入點。此一動向對醫院資訊長及數位轉型團隊在評估大型語言模型供應商時具有重要參考價值，尤其在合規風險與廠商選型策略層面。報導由Modern Healthcare於2026年11月25日發布。",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "醫療AI策略",
+        "LLM臨床應用"
+      ],
+      "author": "未標示（Modern Healthcare｜2026-11-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU0ZlenV4c2MtZmN0SGhZSHNwb1dNeHJRWVpwQ0g0UnR0T1J6QlhKTlFSNjcxaUZtS2VadFNIRUQ5eEhUeTRxRlY4NElqZUFidjdzdWNtWkg4QUFIVDZmNDZiQ1VXeXhJZnN6UXFwYTJidUdEYUV4WVh0TFpEOWIxU3RtdFl1QUhoQVE?oc=5"
+    },
+    {
+      "rank": 9,
+      "score": 6.5,
+      "title": "富士通將於川崎市測試AI預測病患出院時間並自動預約接送服務",
+      "summary": "富士通宣布將於2026年12月起在日本川崎市醫療機構啟動試驗，測試一款能預測住院病患出院時間點的AI系統，並在預測確認後自動媒合與預約接送交通服務。此系統整合電子病歷數據、醫囑動態與床位管理資訊，以機器學習模型推估個別病患的出院視窗，有望優化床位週轉率、減少病患等待時間，並降低出院流程對護理人力的行政負擔。此應用展示AI在醫院運營效率場景的創新潛力，尤其對出院規劃、社會資源協調與交通接送整合具有示範意義，對推動智慧醫院後勤管理的機構提供具體參考方向。報導由BigGo Finance於2026年11月25日發布。",
+      "tags": [
+        "醫院運營AI",
+        "出院預測",
+        "智慧醫院",
+        "日本醫療AI"
+      ],
+      "author": "未標示（BigGo Finance｜2026-11-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQQzBtaDZZaVl6a1EzQ2VxZHBoWmZKRFdiZ1JnV1dPRU0tb29qTjlUbTJfbURZZkVDV19CM2hQRDFMclkwRW9uTTBRaWxaalFzLWpCX0dIMmk0YkJGeE1QMU40NEtIT0pscmRnRWJJNG94eVV6MVE?oc=5"
+    },
+    {
+      "rank": 10,
+      "score": 6.0,
+      "title": "歐洲醫師私用ChatGPT問題浮現，歐盟法規重疊增添病患隱私隱憂",
+      "summary": "商傳媒報導指出，歐洲多國已出現醫師在未獲醫院官方授權的情況下，自行使用ChatGPT等商業大型語言模型處理病患相關資訊，引發病患隱私保護疑慮。由於歐盟《一般資料保護規則》（GDPR）與《AI法案》規範範疇有所重疊，醫療機構在判斷合規義務時面臨法律解讀困難，部分醫師對正式管道限制感到不便，轉而訴諸未受管控的個人工具。專家警告，此類「影子AI」使用行為可能導致敏感健康資料外流，並使醫院承擔連帶責任。此一現象對正在制定AI使用政策的醫療機構具有警示作用，突顯制定清晰的AI使用規範、提供合法替代工具的重要性。報導由商傳媒於2026年11月25日發布。",
+      "tags": [
+        "醫療AI倫理",
+        "隱私法規",
+        "GDPR",
+        "影子AI"
+      ],
+      "author": "未標示（商傳媒｜2026-11-25）",
+      "source_url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPdWtHYzZBWk11cU1GbjVkM3FhX3RXQkFSSmljVEZQdDNJek11SGp0R0JJR285cmo3bjRPNUJpdWJiYVVic25CUV9ieUFGRDlLLWhpZ0t5QzRsbHduWmJKMmtHYklTV1FPU1hLalRvWllWb1NMSmttT2p5VXNidGRVQWRzWG1yT2tNdm5WTlVEV2NJckh6RWJyd25jRHQzaU9idmFseDljRHdmamd6Q2Zsbl9HSUlPWUpTSmJyTm1hZnh6dGVZMDN2bjc5anhFbkN3ckJWY1FNZ2g1N2VlVXQ5clpmUndOdUxiNDFYNkw0WF84RTZsZDA5dUU0ajNnR1FEZ2xlek90bnItLWg5RkR1dmQtZXBUVFlMZlYxRkNQRDU2YUNVbDJjd0NJNVBFMGFQbl9qdjZHNExWZGVhUGdzUGhQVGJKeld3U19XSzFZU0l4MG01SkhtZ3puZHN3T2gzSHV2T3Zjc2sxLWpGR3IwTmdOdWhsbGJ2ZnZ3NTR4cnFud3JM?oc=5"
+    }
+  ]
+}
