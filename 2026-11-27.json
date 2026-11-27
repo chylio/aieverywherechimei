@@ -1,0 +1,117 @@
+{
+  "date": "2026年11月27日",
+  "items": [
+    {
+      "rank": 1,
+      "score": 8.5,
+      "title": "鴻海攜手臺北榮總推出AI化療自動化系統，三年投入3億元佈局智慧醫療",
+      "summary": "鴻海精密與臺北榮民總醫院宣布正式啟用AI化療自動化系統，整合機器人技術於化療藥物調劑與院內運送流程，大幅降低醫護人員暴露於化學藥物的職業風險，同時提升調劑精準度與效率。此合作計畫為期三年、總投入逾新台幣3億元，是台灣目前規模最大的醫院智慧化療場域建置案例之一。系統透過AI視覺辨識與機械手臂協同作業，可自動完成藥物混合、劑量確認及無菌封裝，並由自動導引車完成病房配送。此舉不僅展現鴻海跨足醫療的企圖心，亦為台灣醫療機構在高風險藥物處理環節導入AI自動化樹立新標竿，對腫瘤科、藥劑部門及醫院管理層均具重要參考價值。",
+      "tags": [
+        "智慧醫療",
+        "化療自動化",
+        "醫療機器人",
+        "台灣"
+      ],
+      "author": "未標示（TechNews 科技新報｜2026-11-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VMURVWDlIY3BheXcwTnpsTUlxcG1aVjdDcURlTVo1dDJ2ekluaXpEME1oQWNydEFSaGxSNDJQcFZfUkYzZFRZZVhLMkVBN1Z5ZWtVOVcwVUhOc0R2TXNqWXd4akFha3dWZEF5RXA2OA"
+    },
+    {
+      "rank": 2,
+      "score": 8.0,
+      "title": "醫療AI恐遺漏罕見但關鍵診斷？研究揭示臨床決策支援工具的系統性盲點",
+      "summary": "Newswise報導一項最新研究警告，現行醫療AI臨床決策支援工具在訓練資料嚴重偏向常見疾病的情況下，對罕見但具重要臨床意義的診斷往往產生低估或排除的傾向。研究指出，AI模型傾向依據統計頻率給出「最可能診斷」，當患者症狀符合多種疾病時，罕見疾病往往在候選清單中被大幅降權，導致延誤診斷風險。這對孤兒病、罕見自體免疫疾病及非典型感染病例尤為危險。研究建議醫院在部署AI輔助診斷工具時，應納入罕見疾病資料集進行補充訓練，並要求臨床端保留人工覆核機制，避免因過度依賴AI建議而忽略鑑別診斷的完整性，此議題對內科、急診與罕見疾病科室均有直接影響。",
+      "tags": [
+        "臨床決策支援",
+        "AI診斷風險",
+        "罕見疾病",
+        "患者安全"
+      ],
+      "author": "未標示（Newswise｜2026-11-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSllBMkRxVldsLWhjZWhNeTBCWDFZQ1ZRd1hmaURvdlZ5YnJ4Q3gtTklmNzFUZ0hWY3kwWm85QjBnTGo0Nngxc09OZWtsNEcwM1ROeHRTWC1Sb0NTTVlmOTU4QzF6VTJEXzFna1pLZ3M5RWJUYUlfNEh1SkJWT0Q2VXZlY0RWNmp4RlEyb290UXHSAZABQVVfeXFMUEpZQTJEcVZXbC1oY2VoTXkwQlgxWUNWUXdYZmlEb3ZWeWJyeEN4LU5JZjcxVGdIVmN5MFpvOUIwZ0xqNDZ4MXNPTmVrbDRHMDNUTnh0U1gtUm9DU01ZZjk1OEMxelUyRF8xZ2taS2dzOUViVGFJXzRIdUpCVk9ENlV2ZWNEVjZqeEZRMm9vdFFx"
+    },
+    {
+      "rank": 3,
+      "score": 7.5,
+      "title": "腫瘤科藥師在AI輔助毒性預測中不可缺席：從預測到臨床實踐的決策主導權",
+      "summary": "Pharmacy Times發表評論指出，隨著AI工具在腫瘤科被用於預測化療毒性反應，業界對於「誰來做最終決策」的討論日益重要。文章強調，腫瘤科藥師憑藉其對藥物交互作用、個別病患代謝差異及臨床背景的深度理解，仍必須是AI輔助毒性預測流程中的核心決策者，而非僅作為AI建議的執行者。AI模型在預測群體風險時表現優異，但面對高度個體化的臨床場景時，仍存在情境理解不足的局限。文章呼籲醫療機構在導入此類AI工具時，明確界定藥師的臨床監督職責，並建立藥師與AI系統間的協作流程規範，以確保病患安全與治療品質不因自動化程度提升而受損。",
+      "tags": [
+        "腫瘤藥學",
+        "AI毒性預測",
+        "臨床決策",
+        "人機協作"
+      ],
+      "author": "未標示（Pharmacy Times｜2026-11-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWHpwbXRmR0RhTkhUN1BvbFU5RlpLU0JCTWFXMXlyN0hMdE5qbTF5SDhTdjNRMW9vam5EZmR5Vm5Qb04xUWlfMUs0M0JjUTZnZkI5bFJ3eGJSQXNKcEY2Y3d4Mmh4X3dDd25PTVFBV0xaMEZ4aDFJbG5zMkY4bURIZ184UHZkd0VNY1BVWXUtc0FKTmpELVRWSjQ1YklfSFVjdlhNM2pFd252THdvSzFQdm1mdHdveklhRzdlQmpQOVZLN1h5WW0tYXRCWkw4ZWRWU0x5MkN2NmVqd1htS2J5S0tVNW80MUZWT3c"
+    },
+    {
+      "rank": 4,
+      "score": 7.5,
+      "title": "2026 AI創新獎預告三項智慧醫療解方：胰臟癌影像判讀到核醫藥品智慧運送",
+      "summary": "商傳媒報導，2026年AI創新獎醫療類別預告三項獲獎解方，涵蓋胰臟癌早期影像AI判讀、核醫放射性藥品智慧運送管理，以及另一項創新醫療應用，展現台灣在高難度臨床AI場景的本土研發能量。胰臟癌AI判讀解方針對目前臨床上早期偵測率極低的困境，透過深度學習模型分析電腦斷層影像，提升微小病灶的辨識敏感度。核醫藥品運送系統則結合AI排程與輻射安全監控，優化高風險藥品的院內物流。這些成果顯示台灣醫療AI研發已逐步從概念驗證轉向具體臨床落地應用，對腫瘤科、核醫科及醫院智慧化推動團隊均具重要參考價值，同時也反映政府與產業共同推動醫療AI創新生態系的成效。",
+      "tags": [
+        "AI創新獎",
+        "胰臟癌影像判讀",
+        "智慧醫療",
+        "台灣"
+      ],
+      "author": "未標示（商傳媒｜2026-11-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQdmVwX19KTWF4Nld2UW9JdmpPZDlXRmxCRlZKZHBWcXNpT0JMd1Awb0ZoOS1jQVZ6ZDRRNVJMS2JkaUxZV0VLa2NxcjBRa0hNbmFoSGpzdUpFNFFQZ3JURURSbmlZeGxPLUt2ZEZubkcwRzFWMVZHYmFyX2RiWllyNnRCNzQyTEgyWXBXYU5hd2NxZkpmT194NlRQMVEwWHhaWGxIdk14andkRWtVWnFfQjhOWWlSN0JTUklDUHYzY3ZFc3NDRFNicE96RXlXSnlYSGVrWDlDeFh4R2tJMmNRaTcyM0cyY2J4d3lPcEQtQnhLdmpUM2hwMGtSMk1XZDB5MWhGRk1pQ0x4WmVaVU5MbG8tTHBwdkJteUxFZkNJRkRoZ0lPVTh1OW1DQVNtZUZXMUtCWTBKUXdBNTJ2Y2FHRG9XUzdCcXRKZVhXRHFYLWlDeFgtaXhzdXJVNU5FOVEzMzRaRzlVd3RQMGNYSkdGbXBUYTNCeWZLblJPOGVYd1AtY19DSWw0R05LTFUyNmx1a25YN1FhSHhiVk85eHdmcGlwNzVLaFBjUHEtaEJPTzRmRXN1OW1iWElGbml1TVlwOTVSZi15N2RpSkZtcEpzWTBnazk3eTJyZEJidDdkdEZGNmhvdXBmay1yazhDWWxqV1BlSEdoeXRleVg5MkllVUpSdw"
+    },
+    {
+      "rank": 5,
+      "score": 7.0,
+      "title": "AWS、GOSH 與 Hyland 再度攜手深化 Agentic AI 醫院計畫，推動臨床流程自動化",
+      "summary": "Healthcare Digital報導，Amazon Web Services（AWS）、倫敦大奧蒙德街兒童醫院（GOSH）與內容智能服務商 Hyland 宣布進一步深化其 Agentic AI 醫院計畫的合作架構。此計畫旨在部署能自主執行多步驟臨床行政任務的 AI 代理（Agentic AI），包括病患資料整合、術前文件準備及跨部門溝通協調等場景。相較於傳統單一功能 AI 工具，Agentic AI 能在設定目標後自主規劃並執行一連串操作，大幅減少醫護人員在行政工作上的時間消耗。此一進展被視為 NHS 體系邁向智慧醫院的重要里程碑，對正在評估或已部署 AI 工作流程自動化的醫院資訊與數位轉型團隊具有高度參考價值，亦展示大型雲端平台與醫療機構深度共創的合作模式。",
+      "tags": [
+        "Agentic AI",
+        "智慧醫院",
+        "臨床流程自動化",
+        "AWS"
+      ],
+      "author": "未標示（Healthcare Digital｜2026-11-27）",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUVFmX01Xa3dZRk5uRnQ4NVBCdDhSVW5QSTRjZXlndzkxMi1pZkprTThjRVNzM2llTWVXM0ZGbHppVXBRSHJwakwxYzFibk9qcEsyUHlSZjl5Z2lCVjFBMThyZ3JlaTJrYUFjT0JSQ19KN1d0MU5tVVlNWXgzbEpGRGZPNG4wY0NwejRKNkV3WHNCUlVnYWVhTg"
+    },
+    {
+      "rank": 6,
+      "score": 7.0,
+      "title": "醫療AI的2027三大法律威脅：醫院法遵團隊不可不知的新興風險",
+      "summary": "律師事務所 Clark Hill 預告將舉辦線上研討會，主題聚焦於醫療AI在2027年面臨的三大新興法律威脅，涵蓋AI生成內容的責任歸屬、患者隱私保護的監管強化，以及AI臨床決策工具的知情同意義務等面向。隨著AI工具在臨床、行政與保險核定場景的滲透率持續上升，醫療機構所面臨的法律曝險也顯著增加，尤其是當AI系統做出影響診療的建議卻缺乏透明解釋時，訴訟風險隨之攀升。研討會強調，許多醫院對現行法規的覆蓋範圍仍存在認知落差，特別是跨州資料流通與AI演算法審計要求。此一議題對醫院法務、合規部門及資訊長（CIO）均具直接政策參考價值，建議相關部門儘早啟動內部風險評估。",
+      "tags": [
+        "醫療AI法規",
+        "法律風險",
+        "患者隱私",
+        "合規"
+      ],
+      "author": "未標示（Clark Hill｜2026-11-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNREd2dk1jX05UaUpuR2xRN0toU2NPQllzU0J3SnlkSFJmbzlBNERmQWNkX1hFdDlodWx0WDZHS0gtb01IS2wzWlBNUV9Cem13eHkyWnZFWkRaWEF1Um9nTzFOazM3WU8zZGhGeGE3SXlzYXhkNDhOS2NRdXIzY2xuZHJYUy1YTU1aTk1rYzFjUHhiX0VSS04xakNhd0pDa2tadDg0LUJKUXpQNHVXLVlrdnNYR0RVZWJCLTJVbWhZZ3JDS3RlQ09wYy1HSHQ"
+    },
+    {
+      "rank": 7,
+      "score": 6.5,
+      "title": "InclusionAI 發布開放權重醫療AI模型，支援百萬Token超長上下文處理",
+      "summary": "Superpower Daily報導，InclusionAI正式釋出一款開放權重（open-weight）醫療AI語言模型，最大亮點在於支援高達百萬Token的超長上下文視窗，使模型能夠一次處理完整的病歷記錄、長篇臨床指引或多科會診紀錄，而無需分段截斷。這一技術突破對需要整合大量病患歷史資料的臨床場景具有重要意義，例如複雜慢性病管理、腫瘤多學科討論（MDT）及住院病患跨科照護協調。開放權重授權模式亦讓醫療機構可在自有基礎設施上部署，降低資料外洩與隱私合規的疑慮。對於正在評估本地端（on-premise）部署醫療AI解決方案的醫院資訊與數位轉型團隊而言，此模型的技術規格值得持續追蹤。",
+      "tags": [
+        "開放權重模型",
+        "醫療大型語言模型",
+        "長上下文",
+        "臨床AI"
+      ],
+      "author": "未標示（Superpower Daily｜2026-11-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaWpFb1pRdTh0dHFwTlNsdFNGZFhRZjhRQzVNUHJUS0pRVGFYeGktT1ZYUU1aSWVMbU1HNzFPUVVvV3pvVGVKWUdXTlFyVGtCbkR5cjdPVktvWXdKbjd1VGt2STFTSU5UbC14YkFkRVBwRGhHWlN3OERXdEJFSm51aVRxUTJsckp5Tmt5amFHbnVSTnU4NXRRQ0pxRFFTQjI0Vkhid2laMWpLQQ"
+    },
+    {
+      "rank": 8,
+      "score": 6.0,
+      "title": "MUSC如何將醫療AI從試驗計畫推進至全院規模落地：Crystal Broj的實戰經驗",
+      "summary": "AI Magazine報導南卡羅來納醫科大學（MUSC）資訊長 Crystal Broj 分享其帶領醫院跨越「概念驗證陷阱」、成功將醫療AI從零散試驗推進至全院系統性部署的實戰歷程。Broj 指出，許多醫療機構的AI計畫卡在試驗階段，主要障礙包括：缺乏跨部門治理架構、AI績效指標定義模糊，以及臨床人員對AI工具的信任度不足。MUSC採取的策略包括建立由臨床、資訊與法務共組的AI委員會、設定明確的臨床價值指標（而非僅關注技術精準度），以及將AI導入訓練納入新進人員的標準流程。此一案例對正處於AI規模化瓶頸的醫院領導層與數位轉型團隊具有直接的操作參考價值。",
+      "tags": [
+        "醫療AI落地",
+        "數位轉型",
+        "醫院治理",
+        "規模化"
+      ],
+      "author": "未標示（AI Magazine｜2026-11-26）",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOXZSbk5NZVFzc1lad2V3U3pxd3NEYkpjaGlFNUFfQ0NYb2tHYXdvU2RhSERwajhueXlsdC0weUM1Y1UzWG9RcHhOdm8zZWVtQlJGUEdkSE5fM0RpQXZqZU1VSmRQUFJneFA4dWtpTFhUT3dJYUNXVnlEcEJGRy1mQTNWRlBHYzg2Y0Fz"
+    }
+  ]
+}
